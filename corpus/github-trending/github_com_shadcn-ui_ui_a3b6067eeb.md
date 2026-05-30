@@ -1,0 +1,40 @@
+---
+title: "shadcn-ui/ui ⭐115300"
+url: "https://github.com/shadcn-ui/ui"
+source: "github-trending"
+category: "tool"
+tags: ["github", "trending", "nextjs", "base-ui", "components", "laravel", "nextjs"]
+date: "2026-05-30T14:30:51Z"
+metadata:
+  stars: "115300"
+  language: "TypeScript"
+---
+
+# shadcn-ui/ui ⭐115300
+
+> Source: github-trending | Category: tool | 2026-05-30T14:30:51Z
+
+**shadcn-ui/ui** — ⭐ 115300
+
+Language: TypeScript | Topics: base-ui, components, laravel, nextjs, radix-ui, react
+
+A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+# shadcn/ui
+
+A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code. **Use this to build your own component library**.
+
+![hero](apps/v4/public/opengraph-image.png)
+
+## Documentation
+
+Visit https://ui.shadcn.com/docs to view the documentation.
+
+## Contributing
+
+Please read the [contributing guide](/CONTRIBUTING.md).
+
+## License
+
+Licensed under the [MIT license](./LICENSE.md).
+
