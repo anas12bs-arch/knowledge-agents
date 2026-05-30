@@ -1,5 +1,5 @@
 """
-Corre los 4 agentes en paralelo → escribe corpus/ → ejecuta graphify.
+Corre los 15 agentes en paralelo → escribe corpus/ → ejecuta graphify.
 Usado por GitHub Actions y localmente.
 
 Uso:
@@ -12,8 +12,29 @@ import sys, os, argparse, subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-AGENTS = {"news": "agent_news", "github": "agent_github",
-          "skills": "agent_skills", "social": "agent_social"}
+AGENTS = {
+    # Core Tech (4)
+    "news":         "agent_news",
+    "github":       "agent_github",
+    "skills":       "agent_skills",
+    "social":       "agent_social",
+    # Design + Product (2)
+    "design":       "agent_design",
+    "product":      "agent_product",
+    # Engineering + Infra (2)
+    "engineering":  "agent_engineering",
+    "devops":       "agent_devops",
+    # AI + Security (2)
+    "ai":           "agent_ai",
+    "security":     "agent_security",
+    # Business + Sales (3)
+    "sales":        "agent_sales",
+    "business":     "agent_business",
+    "psychology":   "agent_psychology",
+    # Legal + Finance (2)
+    "legal":        "agent_legal",
+    "finance":      "agent_finance",
+}
 
 def run_agent(module_name: str) -> str:
     import importlib
@@ -26,7 +47,6 @@ def run_agent(module_name: str) -> str:
 def build_graph(corpus_dir: str) -> None:
     """Llama a `graphify update` para reconstruir el grafo (AST-only, sin LLM)."""
     graphify_bin = os.environ.get("GRAPHIFY_BIN", "graphify")
-    # graphify update <root> escribe en <root>/graphify-out/
     root = os.path.dirname(corpus_dir) if corpus_dir.endswith("corpus") else corpus_dir
     print(f"\n🔨 Building knowledge graph from {root} (no LLM) …")
     result = subprocess.run(
@@ -56,9 +76,9 @@ def main():
     to_run  = args.only or list(AGENTS.keys())
     modules = [AGENTS[a] for a in to_run]
 
-    print(f"🚀 Running agents in parallel: {', '.join(to_run)}")
+    print(f"🚀 Running {len(modules)} agents in parallel: {', '.join(to_run)}")
 
-    with ThreadPoolExecutor(max_workers=4) as pool:
+    with ThreadPoolExecutor(max_workers=15) as pool:
         futures = {pool.submit(run_agent, m): m for m in modules}
         for fut in as_completed(futures):
             m = futures[fut]

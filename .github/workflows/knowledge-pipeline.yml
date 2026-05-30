@@ -1,34 +1,41 @@
 name: "\U0001F9E0 Knowledge Pipeline — 24/7"
 
 # ══════════════════════════════════════════════════════════════════
-#  ARQUITECTURA SIMPLIFICADA:
-#    1. Cada 15min UN solo job corre los 4 agentes secuencialmente
-#    2. Cada uno escribe .md al corpus/ del repo
-#    3. graphify update . --no-cluster genera el knowledge graph
-#    4. El resultado (graphify-out/ + corpus/) se commitea al repo
-#    5. Tu Mac hace `git pull` cuando enciende → grafo actualizado
+#  MULTINATIONAL INTELLIGENCE PIPELINE
+#  15 agentes × cada 3 min = ~10,000+ docs/día
 #
-#  REPO PÚBLICO = minutos ILIMITADOS en GitHub Actions (gratis)
-#  NO NECESITA:  Supabase · API keys · embeddings externos
+#  DEPARTAMENTOS:
+#    Tech Core:   News, GitHub, Skills, Social
+#    Design:      UX, UI, CSS, Design Patterns
+#    Product:     Startups, Product Hunt, YC, Indie Hackers
+#    Engineering: System Design, Architecture, Scalability
+#    DevOps:      K8s, Docker, CI/CD, Infrastructure
+#    AI/ML:       ArXiv papers, OpenAI, HuggingFace, Anthropic
+#    Security:    CVEs, Cybersecurity, Privacy
+#    Sales:       HubSpot, Gong, SaaStr, Sales Tactics
+#    Business:    HBR, a16z, VC Strategy, Paul Graham
+#    Psychology:  Behavioral Science, Decision Making, Cognition
+#    Legal:       Privacy law, Compliance, EFF, Tech Policy
+#    Finance:     Funding, Fintech, Tax, IRS
 # ══════════════════════════════════════════════════════════════════
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 15 minutos
-  workflow_dispatch:          # también puedes lanzarlo manualmente
+    - cron: "*/3 * * * *"   # cada 3 minutos = 480 runs/día
+  workflow_dispatch:
 
 permissions:
-  contents: write            # necesario para git push
+  contents: write
 
 concurrency:
   group: knowledge-pipeline
-  cancel-in-progress: true   # si un run anterior sigue corriendo, cancelar
+  cancel-in-progress: true
 
 jobs:
   harvest-and-build:
-    name: "\U0001F680 Harvest + Build Graph"
+    name: "\U0001F680 15-Agent Harvest + Build Graph"
     runs-on: ubuntu-latest
-    timeout-minutes: 14       # siempre terminar antes del próximo ciclo
+    timeout-minutes: 3
     steps:
       - uses: actions/checkout@v4
         with:
@@ -43,43 +50,12 @@ jobs:
       - name: Install dependencies
         run: pip install -q httpx graphifyy
 
-      # ── Correr los 4 agentes secuencialmente ────────────────────
-      - name: "\U0001F4F0 Agent News (HN + Dev.to + RSS)"
-        run: python agents/agent_news.py
+      # ── 15 agentes en paralelo (ThreadPoolExecutor) ─────────────
+      - name: "\U0001F680 Run all 15 agents in parallel"
+        run: python agents/run_all.py
         env:
           CORPUS_DIR: ${{ github.workspace }}/corpus
-
-      - name: "\U0001F419 Agent GitHub (trending + releases)"
-        run: python agents/agent_github.py
-        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CORPUS_DIR: ${{ github.workspace }}/corpus
-
-      - name: "\U0001F393 Agent Skills (roadmap + npm + PyPI + arxiv)"
-        run: python agents/agent_skills.py
-        env:
-          CORPUS_DIR: ${{ github.workspace }}/corpus
-
-      - name: "\U0001F4F1 Agent Social (Twitter + YouTube + Reddit + Podcasts)"
-        run: python agents/agent_social.py
-        env:
-          CORPUS_DIR: ${{ github.workspace }}/corpus
-
-      # ── Debug: verificar corpus ─────────────────────────────────
-      - name: "\U0001F4C1 Corpus stats"
-        run: |
-          echo "📁 Corpus content:"
-          TOTAL=$(find corpus/ -name "*.md" 2>/dev/null | wc -l)
-          echo "  Total markdown files: $TOTAL"
-          for dir in corpus/*/; do
-            [ -d "$dir" ] || continue
-            count=$(find "$dir" -name "*.md" 2>/dev/null | wc -l)
-            echo "  $(basename "$dir"): $count files"
-          done
-          if [ "$TOTAL" -eq 0 ]; then
-            echo "⚠️  No corpus files generated — skipping graph build"
-            exit 0
-          fi
 
       # ── Construir knowledge graph ──────────────────────────────
       - name: "\U0001F528 Build knowledge graph (graphify)"
@@ -87,11 +63,7 @@ jobs:
           TOTAL=$(find corpus/ -name "*.md" 2>/dev/null | wc -l)
           if [ "$TOTAL" -gt 0 ]; then
             graphify update . --no-cluster
-            echo "✅ Graph built"
-            if [ -f graphify-out/GRAPH_REPORT.md ]; then
-              echo "=== GRAPH REPORT (first 40 lines) ==="
-              head -40 graphify-out/GRAPH_REPORT.md
-            fi
+            echo "✅ Graph built from $TOTAL corpus files"
           else
             echo "⏭️  Skipped — no corpus files"
           fi
@@ -112,16 +84,21 @@ jobs:
             echo "✅ Pushed ${NEW_FILES} updated files"
           fi
 
-      # ── Resumen final ──────────────────────────────────────────
+      # ── Resumen ────────────────────────────────────────────────
       - name: "\U0001F4CA Summary"
         if: always()
         run: |
           echo "========================================"
-          echo " KNOWLEDGE PIPELINE SUMMARY"
+          echo " KNOWLEDGE PIPELINE — 15 AGENTS"
           echo "========================================"
-          TOTAL=$(find corpus/ -name "*.md" 2>/dev/null | wc -l || echo 0)
-          echo " Total corpus files : $TOTAL"
-          echo " Graph nodes        : $(python3 -c "import json,pathlib; g=json.loads(pathlib.Path('graphify-out/graph.json').read_text()); print(len(g.get('nodes',[])))" 2>/dev/null || echo 'N/A')"
-          echo " Run number         : ${{ github.run_number }}"
-          echo " Triggered by       : ${{ github.event_name }}"
+          for dir in corpus/*/; do
+            [ -d "$dir" ] || continue
+            count=$(find "$dir" -name "*.md" 2>/dev/null | wc -l)
+            printf "  %-25s %5d docs\n" "$(basename "$dir")" "$count"
+          done
+          echo "────────────────────────────────────────"
+          TOTAL=$(find corpus/ -name "*.md" 2>/dev/null | wc -l)
+          echo "  TOTAL                     $TOTAL docs"
+          echo "  Graph nodes: $(python3 -c "import json,pathlib; g=json.loads(pathlib.Path('graphify-out/graph.json').read_text()); print(len(g.get('nodes',[])))" 2>/dev/null || echo 'N/A')"
+          echo "  Run: ${{ github.run_number }} | ${{ github.event_name }}"
           echo "========================================"
