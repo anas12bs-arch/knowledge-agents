@@ -45,6 +45,13 @@ jobs:
         env:
           CORPUS_DIR: ${{ github.workspace }}/corpus
 
+      - name: Debug - Check if files were created
+        run: |
+          echo "CORPUS_DIR env: $CORPUS_DIR"
+          echo "Workspace: ${{ github.workspace }}"
+          echo "Contents of corpus/:"
+          find corpus/ -type f 2>/dev/null | head -10 || echo "  (empty)"
+
       - uses: actions/upload-artifact@v4
         with:
           name: corpus-news
@@ -71,6 +78,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CORPUS_DIR:   ${{ github.workspace }}/corpus
+      - run: find corpus/ -type f 2>/dev/null | head -5 || echo "corpus/ empty"
 
       - uses: actions/upload-artifact@v4
         with:
