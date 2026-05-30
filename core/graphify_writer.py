@@ -53,15 +53,18 @@ def save(
             meta_lines += f'  {k}: "{v}"\n'
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Escape title quotes for YAML
+    title_escaped = title.replace('"', "'")
+    meta_default = "  {}\n"
     md = f"""---
-title: "{title.replace('"', "'")}"
+title: "{title_escaped}"
 url: "{url}"
 source: "{source}"
 category: "{category}"
 tags: [{tags_yaml}]
 date: "{now}"
 metadata:
-{meta_lines if meta_lines else "  {}\n"}---
+{meta_lines if meta_lines else meta_default}---
 
 # {title}
 
