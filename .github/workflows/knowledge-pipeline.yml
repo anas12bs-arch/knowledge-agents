@@ -21,7 +21,7 @@ name: "\U0001F9E0 Knowledge Pipeline — 24/7"
 
 on:
   schedule:
-    - cron: "*/3 * * * *"   # cada 3 minutos = 480 runs/día
+    - cron: "*/5 * * * *"   # cada 5 minutos = mínimo GitHub Actions = 288 runs/día
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
   harvest-and-build:
     name: "\U0001F680 15-Agent Harvest + Build Graph"
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
