@@ -17,6 +17,9 @@ on:
     - cron: "*/15 * * * *"   # cada 15 minutos
   workflow_dispatch:          # también puedes lanzarlo manualmente
 
+permissions:
+  contents: write            # necesario para git push
+
 concurrency:
   group: knowledge-pipeline
   cancel-in-progress: true   # si un run anterior sigue corriendo, cancelar
