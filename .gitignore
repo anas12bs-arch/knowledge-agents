@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# graphify-out se commitea (es la base de datos)
+# corpus/ se commitea (son los documentos fuente)
+# Solo ignorar archivos temporales de graphify
+graphify-out/.graphify_python
+graphify-out/*.log
