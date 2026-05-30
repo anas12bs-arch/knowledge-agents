@@ -11,7 +11,15 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Directorio donde viven los markdowns que graphify procesa
-CORPUS_DIR = Path(os.environ.get("CORPUS_DIR", Path(__file__).parent.parent / "corpus"))
+# Prioridad: env var → abs path en GitHub Actions → local fallback
+_env_corpus = os.environ.get("CORPUS_DIR")
+if _env_corpus:
+    CORPUS_DIR = Path(_env_corpus)
+elif Path("/home/runner/work/knowledge-agents/knowledge-agents/corpus").exists():
+    CORPUS_DIR = Path("/home/runner/work/knowledge-agents/knowledge-agents/corpus")
+else:
+    CORPUS_DIR = Path(__file__).parent.parent / "corpus"
+CORPUS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def _slug(url: str, max_len: int = 60) -> str:
