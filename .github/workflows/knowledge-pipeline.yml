@@ -143,23 +143,16 @@ jobs:
           fetch-depth: 0   # necesitamos historial para commit
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Descargar todos los corpus de los 4 jobs paralelos
+      # Descargar todos los corpus de los 4 jobs paralelos (a subcarpetas separadas)
       - uses: actions/download-artifact@v4
-        with:
-          name: corpus-news
-          path: corpus/
-      - uses: actions/download-artifact@v4
-        with:
-          name: corpus-github
-          path: corpus/
-      - uses: actions/download-artifact@v4
-        with:
-          name: corpus-skills
-          path: corpus/
-      - uses: actions/download-artifact@v4
-        with:
-          name: corpus-social
-          path: corpus/
+      - name: Merge corpus subdirs
+        run: |
+          mkdir -p corpus
+          for dir in corpus-news corpus-github corpus-skills corpus-social; do
+            [ -d "$dir" ] && find "$dir" -name "*.md" -exec cp {} corpus/ \;
+          done
+          echo "📁 Merged corpus contents:"
+          find corpus -name "*.md" | wc -l | xargs echo "  Total files:"
 
       # Instalar graphify (el mismo paquete que usas local)
       - uses: actions/setup-python@v5
