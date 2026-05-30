@@ -204,9 +204,8 @@ jobs:
             echo "No changes to commit."
           else
             NEW_FILES=$(git diff --staged --name-only | wc -l)
-            git commit -m "🧠 Knowledge update: +${NEW_FILES} files [skip ci]
-
-Run: ${{ github.run_number }} | $(date -u '+%Y-%m-%d %H:%M UTC')"
+            TS=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "🧠 Knowledge update: +${NEW_FILES} files | run ${{ github.run_number }} | ${TS} [skip ci]"
             git push
           fi
 
