@@ -1,0 +1,231 @@
+"""
+Enriquece documentos del corpus con keywords (RAKE) y resumen (TextRank/LSA).
+Coste: $0.00 — todo local, sin API, sin tokens.
+Procesa solo documentos nuevos (SHA256 dedup).
+
+Uso:
+  python -m core.enrich               # procesa todos los nuevos
+  python -m core.enrich --force       # reprocesa todo
+  python -m core.enrich --stats       # muestra estadísticas
+"""
+from __future__ import annotations
+import argparse
+import hashlib
+import json
+import os
+import re
+import sys
+from pathlib import Path
+
+# ── Rutas ─────────────────────────────────────────────────────────────────────
+REPO_ROOT   = Path(__file__).parent.parent
+CORPUS_DIR  = Path(os.environ.get("CORPUS_DIR", REPO_ROOT / "corpus"))
+GRAPH_DIR   = REPO_ROOT / "graphify-out"
+CACHE_FILE  = GRAPH_DIR / "enrichment_cache.json"
+
+
+# ── Lazy imports (instalados en CI vía pip) ───────────────────────────────────
+def _import_rake():
+    try:
+        from rake_nltk import Rake
+        return Rake
+    except ImportError:
+        print("⚠️  rake-nltk no instalado — pip install rake-nltk", file=sys.stderr)
+        return None
+
+
+def _import_sumy():
+    try:
+        from sumy.parsers.plaintext import PlaintextParser
+        from sumy.nlp.tokenizers import Tokenizer
+        from sumy.summarizers.lsa import LsaSummarizer
+        return PlaintextParser, Tokenizer, LsaSummarizer
+    except ImportError:
+        print("⚠️  sumy no instalado — pip install sumy", file=sys.stderr)
+        return None, None, None
+
+
+# ── Extracción ─────────────────────────────────────────────────────────────────
+def extract_keywords(text: str, max_kw: int = 10) -> list[str]:
+    Rake = _import_rake()
+    if Rake is None:
+        return _fallback_keywords(text, max_kw)
+    try:
+        r = Rake(min_length=1, max_length=4)
+        r.extract_keywords_from_text(text[:3000])
+        phrases = r.get_ranked_phrases()[:max_kw]
+        return [p.strip() for p in phrases if len(p.strip()) > 2]
+    except Exception:
+        return _fallback_keywords(text, max_kw)
+
+
+def _fallback_keywords(text: str, max_kw: int) -> list[str]:
+    """Extracción de frecuencia de palabras simples (sin dependencias)."""
+    words = re.findall(r"\b[a-zA-Z]{4,}\b", text.lower())
+    stopwords = {
+        "this", "that", "with", "from", "have", "they", "been", "more",
+        "also", "some", "into", "your", "will", "when", "what", "which",
+        "their", "there", "about", "would", "other", "should", "these",
+        "using", "used", "based", "support", "allows", "feature", "features",
+    }
+    freq: dict[str, int] = {}
+    for w in words:
+        if w not in stopwords:
+            freq[w] = freq.get(w, 0) + 1
+    return [w for w, _ in sorted(freq.items(), key=lambda x: -x[1])[:max_kw]]
+
+
+def extract_summary(text: str, num_sentences: int = 3) -> str:
+    PlaintextParser, Tokenizer, LsaSummarizer = _import_sumy()
+    if PlaintextParser is None:
+        return _fallback_summary(text, num_sentences)
+    try:
+        # Detectar idioma (heurístico)
+        lang = "spanish" if re.search(r"\b(que|para|con|esto|como|una|los)\b", text[:200]) else "english"
+        parser = PlaintextParser.from_string(text[:4000], Tokenizer(lang))
+        summarizer = LsaSummarizer()
+        sentences = summarizer(parser.document, num_sentences)
+        result = " ".join(str(s) for s in sentences).strip()
+        return result if result else _fallback_summary(text, num_sentences)
+    except Exception:
+        return _fallback_summary(text, num_sentences)
+
+
+def _fallback_summary(text: str, num_sentences: int) -> str:
+    """Primeras N oraciones del texto como resumen básico."""
+    # Quitar markdown
+    clean = re.sub(r"[#*`\[\]()!]", "", text)
+    clean = re.sub(r"https?://\S+", "", clean)
+    clean = re.sub(r"\s+", " ", clean).strip()
+    sentences = re.split(r"(?<=[.!?])\s+", clean)
+    sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
+    return " ".join(sentences[:num_sentences])
+
+
+# ── Strip frontmatter ─────────────────────────────────────────────────────────
+def strip_frontmatter(content: str) -> tuple[dict, str]:
+    """Devuelve (meta, body) separando el frontmatter YAML."""
+    meta: dict = {}
+    body = content
+    if content.startswith("---"):
+        end = content.find("---", 3)
+        if end > 0:
+            fm = content[3:end]
+            for line in fm.splitlines():
+                if ":" in line:
+                    k, _, v = line.partition(":")
+                    meta[k.strip()] = v.strip().strip('"').strip("'")
+            body = content[end + 3:].strip()
+    return meta, body
+
+
+# ── Proceso principal ─────────────────────────────────────────────────────────
+def process_corpus(force: bool = False, verbose: bool = False) -> int:
+    # Cargar cache
+    cache: dict = {}
+    if CACHE_FILE.exists() and not force:
+        try:
+            cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            cache = {}
+
+    processed = 0
+    skipped   = 0
+    errors    = 0
+
+    md_files = list(CORPUS_DIR.rglob("*.md"))
+    print(f"📁 Escaneando {len(md_files)} docs en {CORPUS_DIR} …")
+
+    for md_file in md_files:
+        # SHA256 basado en ruta + mtime para dedup
+        stat = md_file.stat()
+        uid  = hashlib.sha256(f"{md_file}:{stat.st_mtime}".encode()).hexdigest()[:16]
+
+        if uid in cache and not force:
+            skipped += 1
+            continue
+
+        try:
+            raw  = md_file.read_text(encoding="utf-8", errors="ignore")
+            if len(raw.strip()) < 80:
+                skipped += 1
+                continue
+
+            meta, body = strip_frontmatter(raw)
+            # Combinar título + body para mejor extracción
+            title    = meta.get("title", md_file.stem)
+            full_txt = f"{title}\n\n{body}"
+
+            keywords = extract_keywords(full_txt)
+            summary  = extract_summary(body or full_txt)
+
+            rel_path = str(md_file.relative_to(REPO_ROOT))
+            cache[uid] = {
+                "file":     rel_path,
+                "source":   meta.get("source", md_file.parent.name),
+                "title":    title[:150],
+                "url":      meta.get("url", ""),
+                "keywords": keywords,
+                "summary":  summary[:500],
+            }
+            processed += 1
+
+            if verbose:
+                print(f"  ✓ {rel_path[:60]:60s}  kw={len(keywords)}")
+
+        except Exception as e:
+            errors += 1
+            if verbose:
+                print(f"  ✗ {md_file.name}: {e}")
+
+    # Guardar cache
+    GRAPH_DIR.mkdir(parents=True, exist_ok=True)
+    CACHE_FILE.write_text(
+        json.dumps(cache, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    print(f"✅ Enriquecidos: {processed} nuevos | Cached: {skipped} | Errores: {errors}")
+    print(f"📊 Total en cache: {len(cache)} documentos")
+    print(f"💾 Cache: {CACHE_FILE}")
+    return processed
+
+
+def show_stats() -> None:
+    if not CACHE_FILE.exists():
+        print("⚠️  No hay cache aún — ejecuta primero sin --stats")
+        return
+    cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+    by_source: dict[str, int] = {}
+    for doc in cache.values():
+        src = doc.get("source", "unknown")
+        by_source[src] = by_source.get(src, 0) + 1
+
+    print(f"\n📊 Enrichment cache — {len(cache)} documentos\n")
+    for src, count in sorted(by_source.items(), key=lambda x: -x[1]):
+        print(f"   {src:25s}  {count:>5} docs")
+
+    # Muestra un ejemplo
+    sample = next(iter(cache.values()))
+    print(f"\n📄 Ejemplo:")
+    print(f"   Título:   {sample.get('title','')[:80]}")
+    print(f"   Keywords: {', '.join(sample.get('keywords', [])[:5])}")
+    print(f"   Summary:  {sample.get('summary','')[:150]}…")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Enriquece corpus con keywords + resumen (local, $0)")
+    parser.add_argument("--force",   action="store_true", help="Reprocesar todos los docs (ignora cache)")
+    parser.add_argument("--stats",   action="store_true", help="Solo muestra estadísticas")
+    parser.add_argument("--verbose", action="store_true", help="Log detallado por doc")
+    args = parser.parse_args()
+
+    if args.stats:
+        show_stats()
+        return
+
+    process_corpus(force=args.force, verbose=args.verbose)
+
+
+if __name__ == "__main__":
+    main()

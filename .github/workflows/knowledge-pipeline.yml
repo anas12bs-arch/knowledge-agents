@@ -68,6 +68,15 @@ jobs:
             echo "⏭️  Skipped — no corpus files"
           fi
 
+      # ── Enriquecimiento semántico (local, $0.00) ──────────────
+      - name: "🧠 Enrich docs (keywords + summary)"
+        run: |
+          pip install -q rake-nltk sumy nltk
+          python -c "import nltk; nltk.download('punkt', quiet=True); nltk.download('punkt_tab', quiet=True); nltk.download('stopwords', quiet=True)"
+          python -m core.enrich
+        env:
+          CORPUS_DIR: ${{ github.workspace }}/corpus
+
       # ── Commit y push ──────────────────────────────────────────
       - name: "\U0001F4E4 Commit & push"
         run: |

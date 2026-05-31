@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.primebot.enrich</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/tmp/kavenv/bin/python3</string>
+        <string>-m</string>
+        <string>core.enrich</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/anasahmadouch/Desktop/PrimeBot/knowledge-agents</string>
+
+    <!-- Cada 5 minutos -->
+    <key>StartInterval</key>
+    <integer>300</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/primebot-enrich.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/primebot-enrich.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>CORPUS_DIR</key>
+        <string>/Users/anasahmadouch/Desktop/PrimeBot/knowledge-agents/corpus</string>
+    </dict>
+</dict>
+</plist>
