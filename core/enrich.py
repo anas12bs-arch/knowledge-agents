@@ -135,7 +135,11 @@ def process_corpus(force: bool = False, verbose: bool = False) -> int:
     skipped   = 0
     errors    = 0
 
-    md_files = list(CORPUS_DIR.rglob("*.md"))
+    # Excluir learn-archived/ — ya procesados, no re-vectorizar
+    md_files = [
+        f for f in CORPUS_DIR.rglob("*.md")
+        if "learn-archived" not in f.parts
+    ]
     print(f"📁 Escaneando {len(md_files)} docs en {CORPUS_DIR} …")
 
     for md_file in md_files:
