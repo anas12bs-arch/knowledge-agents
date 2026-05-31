@@ -18,10 +18,12 @@ import sys
 from pathlib import Path
 
 # ── Rutas ─────────────────────────────────────────────────────────────────────
-REPO_ROOT   = Path(__file__).parent.parent
-CORPUS_DIR  = Path(os.environ.get("CORPUS_DIR", REPO_ROOT / "corpus"))
-GRAPH_DIR   = REPO_ROOT / "graphify-out"
-CACHE_FILE  = GRAPH_DIR / "enrichment_cache.json"
+REPO_ROOT    = Path(__file__).parent.parent
+CORPUS_DIR   = Path(os.environ.get("CORPUS_DIR", REPO_ROOT / "corpus"))
+GRAPH_DIR    = REPO_ROOT / "graphify-out"
+CACHE_FILE   = GRAPH_DIR / "enrichment_cache.json"
+LEARN_DIR    = CORPUS_DIR / "learn"
+ARCHIVE_DIR  = CORPUS_DIR / "learn-archived"
 
 
 # ── Lazy imports (instalados en CI vía pip) ───────────────────────────────────
@@ -185,10 +187,38 @@ def process_corpus(force: bool = False, verbose: bool = False) -> int:
         encoding="utf-8",
     )
 
+    # Archivar aprendizajes procesados de corpus/learn/ → corpus/learn-archived/
+    archived = _archive_learn_files(cache)
+
     print(f"✅ Enriquecidos: {processed} nuevos | Cached: {skipped} | Errores: {errors}")
+    if archived:
+        print(f"📦 Archivados: {archived} aprendizajes → corpus/learn-archived/")
     print(f"📊 Total en cache: {len(cache)} documentos")
     print(f"💾 Cache: {CACHE_FILE}")
     return processed
+
+
+def _archive_learn_files(cache: dict) -> int:
+    """Mueve corpus/learn/*.md ya procesados → corpus/learn-archived/ para evitar duplicados."""
+    if not LEARN_DIR.exists():
+        return 0
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+
+    # UIDs ya en cache (incluye los recién procesados)
+    cached_paths = {v["file"] for v in cache.values()}
+    archived = 0
+
+    for md_file in list(LEARN_DIR.glob("*.md")):
+        rel = str(md_file.relative_to(REPO_ROOT))
+        if rel in cached_paths:
+            dest = ARCHIVE_DIR / md_file.name
+            # Evitar colisión de nombres
+            if dest.exists():
+                dest = ARCHIVE_DIR / f"{md_file.stem}_{md_file.stat().st_mtime_ns}{md_file.suffix}"
+            md_file.rename(dest)
+            archived += 1
+
+    return archived
 
 
 def show_stats() -> None:
