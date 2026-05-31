@@ -15,15 +15,30 @@ import json
 import os
 import re
 import sys
+import time
 from pathlib import Path
 
 # ── Rutas ─────────────────────────────────────────────────────────────────────
-REPO_ROOT    = Path(__file__).parent.parent
-CORPUS_DIR   = Path(os.environ.get("CORPUS_DIR", REPO_ROOT / "corpus"))
-GRAPH_DIR    = REPO_ROOT / "graphify-out"
-CACHE_FILE   = GRAPH_DIR / "enrichment_cache.json"
-LEARN_DIR    = CORPUS_DIR / "learn"
-ARCHIVE_DIR  = CORPUS_DIR / "learn-archived"
+REPO_ROOT          = Path(__file__).parent.parent
+CORPUS_DIR         = Path(os.environ.get("CORPUS_DIR", REPO_ROOT / "corpus"))
+GRAPH_DIR          = REPO_ROOT / "graphify-out"
+CACHE_FILE         = GRAPH_DIR / "enrichment_cache.json"
+LEARN_DIR          = CORPUS_DIR / "learn"
+ARCHIVE_DIR        = CORPUS_DIR / "learn-archived"
+CORPUS_ARCHIVE_DIR = CORPUS_DIR.parent / "corpus-archived"
+
+# Días tras los cuales un doc se mueve a corpus-archived/ (sus vectores siguen en cache)
+ARCHIVE_AFTER_DAYS = int(os.environ.get("ARCHIVE_AFTER_DAYS", "7"))
+
+# Fuentes que se archivan automáticamente (todo el harvesting de agentes)
+AUTO_ARCHIVE_SOURCES = {
+    "devto", "hackernews", "github-trending", "github-releases",
+    "npm", "pypi", "hn-hiring", "youtube", "podcast",
+    "vercel-blog", "ai-research",
+    # Categorías de los 15 agentes
+    "engineering", "design", "security", "psychology", "finance",
+    "legal", "devops", "sales", "product", "business",
+}
 
 
 # ── Lazy imports (instalados en CI vía pip) ───────────────────────────────────
@@ -135,17 +150,18 @@ def process_corpus(force: bool = False, verbose: bool = False) -> int:
     skipped   = 0
     errors    = 0
 
-    # Excluir learn-archived/ — ya procesados, no re-vectorizar
+    # Excluir learn-archived/ y corpus-archived/ — ya procesados, no re-vectorizar
     md_files = [
         f for f in CORPUS_DIR.rglob("*.md")
         if "learn-archived" not in f.parts
+        and "corpus-archived" not in f.parts
     ]
     print(f"📁 Escaneando {len(md_files)} docs en {CORPUS_DIR} …")
 
     for md_file in md_files:
-        # SHA256 basado en ruta + mtime para dedup
-        stat = md_file.stat()
-        uid  = hashlib.sha256(f"{md_file}:{stat.st_mtime}".encode()).hexdigest()[:16]
+        # SHA256 basado en ruta relativa estable — sin mtime para evitar duplicados
+        rel_str = str(md_file.relative_to(REPO_ROOT))
+        uid     = hashlib.sha256(rel_str.encode()).hexdigest()[:16]
 
         if uid in cache and not force:
             skipped += 1
@@ -192,14 +208,63 @@ def process_corpus(force: bool = False, verbose: bool = False) -> int:
     )
 
     # Archivar aprendizajes procesados de corpus/learn/ → corpus/learn-archived/
-    archived = _archive_learn_files(cache)
+    archived_learn = _archive_learn_files(cache)
+
+    # Archivar docs viejos de fuentes auto-harvest → corpus-archived/
+    archived_corpus = _archive_old_corpus_files(cache)
 
     print(f"✅ Enriquecidos: {processed} nuevos | Cached: {skipped} | Errores: {errors}")
-    if archived:
-        print(f"📦 Archivados: {archived} aprendizajes → corpus/learn-archived/")
+    if archived_learn:
+        print(f"📦 Archivados: {archived_learn} aprendizajes → corpus/learn-archived/")
+    if archived_corpus:
+        print(f"📦 Archivados: {archived_corpus} docs >{ARCHIVE_AFTER_DAYS}d → corpus-archived/")
     print(f"📊 Total en cache: {len(cache)} documentos")
     print(f"💾 Cache: {CACHE_FILE}")
     return processed
+
+
+def _archive_old_corpus_files(cache: dict) -> int:
+    """Mueve docs de fuentes auto-archive con >ARCHIVE_AFTER_DAYS a corpus-archived/<source>/.
+    Sus vectores (keywords/summary) ya están en cache, así que no se pierde información."""
+    CORPUS_ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    cutoff = time.time() - (ARCHIVE_AFTER_DAYS * 86400)
+
+    # Paths cacheados → puedes archivar
+    cached_paths = {v["file"] for v in cache.values()}
+    archived = 0
+
+    for md_file in CORPUS_DIR.rglob("*.md"):
+        if any(x in md_file.parts for x in ("learn", "learn-archived", "corpus-archived")):
+            continue
+
+        source = md_file.parent.name
+        if source not in AUTO_ARCHIVE_SOURCES:
+            continue
+
+        try:
+            mtime = md_file.stat().st_mtime
+        except FileNotFoundError:
+            continue
+        if mtime > cutoff:
+            continue
+
+        rel = str(md_file.relative_to(REPO_ROOT))
+        if rel not in cached_paths:
+            continue  # aún no vectorizado, esperar
+
+        dest_dir = CORPUS_ARCHIVE_DIR / source
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        dest = dest_dir / md_file.name
+        if dest.exists():
+            dest = dest_dir / f"{md_file.stem}_{md_file.stat().st_mtime_ns}{md_file.suffix}"
+
+        try:
+            md_file.rename(dest)
+            archived += 1
+        except Exception:
+            continue
+
+    return archived
 
 
 def _archive_learn_files(cache: dict) -> int:

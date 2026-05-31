@@ -8,3 +8,7 @@ __pycache__/
 # Solo ignorar archivos temporales de graphify
 graphify-out/.graphify_python
 graphify-out/*.log
+
+# Archived raw docs — sus vectores ya viven en enrichment_cache.json
+corpus-archived/
+corpus/learn-archived/
