@@ -1,0 +1,16 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (June 2026))"
+url: "https://news.ycombinator.com/item?id=48360523"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-06-01T19:25:11Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (June 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-06-01T19:25:11Z
+
+FusionAuth | Principal Software Engineer, Senior Java Engineer - Cloud, Account Executive, Solutions Engineer | Varies between REMOTE (in USA, also in Europe but only for the account exec&#x2F;solutions engineer positions) and ONSITE in Denver, CO, USA, details in each job desc | Salary ranges for the Principal Software Engineer it is 225k-270k, but the Euro positions don&#x27;t have them :(<p>At FusionAuth, our mission is to make authentication and authorization simple and secure for every developer building web and mobile applications. We want devs to stop worrying about auth and focus on building something awesome.<p>There are a lot of companies in the auth space, but we feel like we have something special:<p>* a relatively unique deployment model (self-host on-prem, run in your cloud or let us operate it for you in ours)<p>* A well designed API first approach; one customer compared our APIs to petrichor<p>* a mature product (the code base is nine+ years old and we&#x27;ve found and fixed a lot of the sharp edges around core login use cases; but don&#x27;t worry, there are plenty more features to add)<p>* a full featured free-as-in-beer version which makes the sales cycle easier; prospects often come in having prototyped an integration<p>Our core software is commercial. We open source much of our supporting infrastructure. Technologies and standards that you will work with: modern Java, PostgreSQL, Docker, Kubernetes, MySQL, OAuth, SAML, OIDC.<p>Learn more, including benefits and salaries, and apply here: <a href="https:&#x2F;&#x2F;fusionauth.io&#x2F;careers&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fusionauth.io&#x2F;careers&#x2F;</a> ( Click&#x2F;tap the &#x27;View open positions&#x27; orange button. )
