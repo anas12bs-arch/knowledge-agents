@@ -1,0 +1,16 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (June 2026))"
+url: "https://news.ycombinator.com/item?id=48375155"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-06-02T22:14:36Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (June 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-06-02T22:14:36Z
+
+Bubblehouse | Integration Engineer | FULLY REMOTE | $70–110k&#x2F;yr | Full-time<p>We&#x27;re a fast-growing custom &amp; private loyalty platform powering programs for household-name brands. Small, fully-remote team across the US and Europe.<p>We want a detail-obsessed, autonomous mid-to-senior engineer (~5–10 yrs) to investigate customer problems, drive integrations end to end, and own the specs that make them work.<p>You will use AI to its fullest, but will keep a very close eye on whatever that AI produces. As such, this role is less about coding, and more about figuring out what to build, how that best fits into the system, and why things are as they are, debugging edge cases, anticipating failure modes, talking to people, and plain old debugging.<p>Tech-wise, we&#x27;re running on Golang, and using custom database engine on top of local key-value stores, colocating the storage and compute on dedicated hardware servers, and reading data directly from mmap&#x27;ed pages of the database. Ever came across HN saying that one can run Twitter on a single machine these days? We&#x27;re doing that in production. Zero lines of React, few third-party dependencies carefully vetted, every line of JavaScript manually written, and we render HTML server-side like it&#x27;s 2005.<p>You: detail-oriented to a fault, self-motivated about investigation&#x2F;debugging work, comfortable spoken English for client calls, available 9am to noon in New York time.<p>We are straightforward, driven, personal, and a little messy. We all care, and we expect you to care too.<p>Details + how to apply: <a href="https:&#x2F;&#x2F;jobs.bubblehouse.com&#x2F;integration-engineer&#x2F;" rel="nofollow">https:&#x2F;&#x2F;jobs.bubblehouse.com&#x2F;integration-engineer&#x2F;</a>
