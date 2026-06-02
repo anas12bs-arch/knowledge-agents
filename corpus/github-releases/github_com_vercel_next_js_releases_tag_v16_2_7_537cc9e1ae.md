@@ -1,0 +1,40 @@
+---
+title: "vercel/next.js v16.2.7 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.2.7"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-06-01T23:59:52Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.2.7"
+---
+
+# vercel/next.js v16.2.7 released
+
+> Source: github-releases | Category: changelog | 2026-06-01T23:59:52Z
+
+## vercel/next.js — v16.2.7
+
+> [!NOTE]
+> This release is backporting bug fixes. It does **not** include all pending features/changes on canary.
+
+### Core Changes
+
+- Backport documentation fixes for v16.2 (#93804)
+- [backport] Patch `playwright-core` to resolve `_finishedPromise` on `requestFailed` (#93920)
+- [backport] Fix dev mode hydration failure when page is served from HTTP cache (#93492)
+- [backport] Fix catch-all `router.query` corruption with `basePath` + `rewrites` (#93917)
+- [backport] Encode non-ASCII characters in cache tags at construction (#93918)
+- [backport] Fix server action forwarding loop with middleware rewrites (#93919)
+- [backport] Turbopack: switch from base40 to base38 hash encoding (#93932)
+- [ci] Disable hanging node 24 typescript tests on 16.2 backport branch (#94164)
+- [backport] Fix "type: module" in project dir when using standalone or adapters (#94050)
+- [backport] Propagate adapter preferred regions (#94200)
+- [16.2.x] Don't drop `FormData` entries (#94240)
+- [backport] feat(turbopack): add LocalPathOrProjectPath PostCSS config resolution (#94284)
+
+### Credits
+
+Huge thanks to @eps1lon, @icyJoseph, @unstubbable, @mischnic, @bgw, @timneutkens, and @lukesandberg for helping!
+
