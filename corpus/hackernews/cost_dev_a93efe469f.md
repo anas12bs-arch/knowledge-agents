@@ -1,0 +1,18 @@
+---
+title: "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
+url: "https://cost.dev/"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-06-04T22:57:32Z"
+metadata:
+  score: "23"
+---
+
+# Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call
+
+> Source: hackernews | Category: news | 2026-06-04T22:57:32Z
+
+Score: 23 | Comments: 8
+
+We launched Infracost on HN five years ago (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=26064588">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=26064588</a>) where our CLI generated cost estimates for infra-as-code, e.g. &quot;this Terraform PR adds $400&#x2F;mo&quot;. The idea was to shift cloud costs (FinOps) left, so engineers get visibility of costs before deployment and make better decisions.<p>Earlier this year we started seeing agent traffic in our logs and it looked like coding agents were calling our CLI. But that CLI wasn&#x27;t designed with coding agents in mind. We went down a philosophical rabbit hole to see if a CLI is even needed anymore given that Claude, Copilot et al. already follow best practices. Ultimately we decided to create a new CLI from the ground up with coding agents in mind for two reasons:<p>1. We optimized the CLI for agent callers and cut Claude&#x27;s output token usage by up to 79% and API cost by up to 67% versus a bare-Claude baseline. We wrote a blog documenting our lessons on optimizing user token usage when designing a CLI, e.g. using predicate flags so the agent doesn&#x27;t compose jq | python | wc pipelines, output format that strips JSON&#x27;s redundant field names. The blog is here: <a href="https:&#x2F;&#x2F;www.infracost.io&#x2F;resources&#x2F;blog&#x2F;we-cut-claude-s-token-usage-79-by-redesigning-our-cli-for-agents">https:&#x2F;&#x2F;www.infracost.io&#x2F;resources&#x2F;blog&#x2F;we-cut-claude-s-toke...</a><p>2. With cloud costs, precision matters. Telling a coding agent &quot;make this Terraform cost-optimized&quot; can be expensive and lossy. You burn tokens loading code and policy context into every conversation. Your agent could make up a price and you wouldn&#x27;t know because it&#x27;s difficult to verify that across the ~10M price points that AWS, Azure and Google have. The CLI runs static analysis on the code, uses the latest prices from cloud vendors, and passes that context to the coding agent.<p>So that&#x27;s what we&#x27;re launching today - Cost.dev: <a href="https:&#x2F;&#x2F;cost.dev&#x2F;" rel="nofollow">https:&#x2F;&#x2F;cost.dev&#x2F;</a>.<p>- It runs locally. Your code never leaves your machine, you get a fast feedback loop, and you&#x27;re not burning API calls per character when you want to fetch prices.<p>- The CLI does the deterministic work. Fetching price points, scanning the code, validating fixes. The coding agent does the natural-language part. You don&#x27;t have to trust the LLM to remember the rules, and can verify it called the right CLI command.<p>- It provides a consistent rule layer across every tool you use. Get cost estimates in your IDE and your coding agent with a single install. We support Claude Code, GitHub Copilot, Cursor, Windsurf, OpenAI Codex, Gemini CLI, as well as IDEs like VS Code and JetBrains<p>Before we keep building more in that direction, I want to sanity-check with HN: is &quot;agents writing IaC in prod&quot; actually a thing yet, or am I betting on a future that&#x27;s still a year out? I know software developers are using coding agents heavily, but are platform&#x2F;infra folks doing that for prod too? Also, if you have any feedback on Cost.dev, I&#x27;d love to hear it!
