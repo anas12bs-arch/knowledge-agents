@@ -1,0 +1,18 @@
+---
+title: "Show HN: On-device transcriber that's 97% accurate at identifying speakers"
+url: "https://mimicscribe.app/"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-06-05T22:45:01Z"
+metadata:
+  score: "7"
+---
+
+# Show HN: On-device transcriber that's 97% accurate at identifying speakers
+
+> Source: hackernews | Category: news | 2026-06-05T22:45:01Z
+
+Score: 7 | Comments: 2
+
+I’ve spent the last seven months building a tool I wish I’d had in my previous roles. MimicScribe is a macOS menu bar app that fits the &quot;AI notetaker&quot; category. It has accurate on-device speaker identification (a first possibly?), real-time meeting talking points for discovery calls, and a fully keyboard- and voice-driven interface.<p>I believe the accuracy of the speaker ID system is its biggest strength. I used fluid audio’s port of (<a href="https:&#x2F;&#x2F;github.com&#x2F;fluidInference&#x2F;FluidAudio" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;fluidInference&#x2F;FluidAudio</a>) Pyannote&#x27;s community-1 as a base. To improve accuracy, the system uses grammar structure cues from the Parakeet STT to mask by sentence. By taking a second set of samples within that mask for cluster assignment, it leverages the fact that most people don’t finish each other&#x27;s… sandwiches in business meetings. It tends to slightly oversegment, as I’ve found it much easier to merge segments or reassign a speaker than it is to untangle an incorrect merge. <a href="https:&#x2F;&#x2F;github.com&#x2F;MimicScribe&#x2F;benchmarks&#x2F;blob&#x2F;main&#x2F;diarization&#x2F;results&#x2F;RESULTS.md" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;MimicScribe&#x2F;benchmarks&#x2F;blob&#x2F;main&#x2F;diarizat...</a><p>The app provides in-meeting talking points using a prompt tuned for discovery type calls. It can suggest probing questions to help you extract more detail or helps you refocus on the big picture with “magic wand” type questions (e.g. “how would your ideal system work”). Getting low latency models to provide novel, relevant, and totally not hallucinated information is a bit of a reach and it tends to restate the transcript frequently but little gems do come from it sometimes so it’s best to think of it as a source of inspiration and be a vigilant gatekeeper.<p>It’s set up so recording can be started and ended via holding a keyboard shortcut instead of connecting to your calendar service. I prefer this for privacy and to keep transcript history from getting cluttered. Tapping the shortcut shows and hides an always-on-top overlay on your active screen regardless of whether you have other apps full-screen or not. Beyond simple navigation, you can also use voice commands to make post-meeting corrections or additions, for instance, you can simply say &quot;merge this speaker with that speaker&quot; to clean up the transcript.<p>It also has push-to-talk&#x2F;dictate functionality with LLM cleanup - what the app started as but that tool was developer catnip, soo many of them.<p>A developer friend who’s worked in finance reviewed the site and said he’d bounce because the privacy story wasn’t strong enough so I added a completely on-device mode and a bring-your-own-key option. Using cloud models does add a lot to the experience, including context aware speaker merging and fragment cleanup, summary items during meetings, action items attributed, etc. On-device mode is completely free and the speaker identification is still very useful.<p>The privacy story is my biggest worry with the app, particularly since its target audience is more technical people. I’d love to get people&#x27;s thoughts on it and any feedback would be super helpful.
