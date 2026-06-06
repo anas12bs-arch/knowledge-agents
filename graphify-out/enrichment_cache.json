@@ -49011,5 +49011,587 @@
       "explicit environment name"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-06T08:16:55Z - [turbopack] Treat local `const` assignments as side-effect free: #94294 - [turbopack] Remove worker helpers from the default runtime: #94372 - Extract App Shell from static prefetches: #94095 - docs: correct wording and casing in turbopack tracing guide: #94469 - Turbopack: refactor ServerActionManifestAsset to be lazy: #94377 - docs: typos and errors outside docs, error, examples folders: #94472 - Update vendored lodash to"
+  },
+  "308bf123a4719490": {
+    "file": "corpus/hackernews/codeberg_org_ziglang_zig_commit_621844bde551ee1a9b8142d7d146_f788ec129f.md",
+    "source": "hackernews",
+    "title": "Zig Zen Update",
+    "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+    "keywords": [
+      "zig zen update",
+      "zig zen update",
+      "36z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Zig Zen Update > Source: hackernews | Category: news | 2026-06-06T12:15:36Z Score: 84 | Comments: 26"
+  },
+  "f16642986fbd019e": {
+    "file": "corpus/hackernews/discuss_grapheneos_org_d_36134-grapheneos-user-reported-to-a_d096436e36.md",
+    "source": "hackernews",
+    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+    "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+    "keywords": [
+      "grapheneos user reported",
+      "grapheneos user reported",
+      "using grapheneos",
+      "using grapheneos",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# GrapheneOS user reported to authorities for using GrapheneOS > Source: hackernews | Category: news | 2026-06-06T12:15:37Z Score: 367 | Comments: 280"
+  },
+  "9a8a3b9d15a5256b": {
+    "file": "corpus/hackernews/www_computesdk_com_blog_scale-invitational-update_4a8f7d5e42.md",
+    "source": "hackernews",
+    "title": "What 100k concurrent sandboxes has taught us so far",
+    "url": "https://www.computesdk.com/blog/scale-invitational-update/",
+    "keywords": [
+      "100k concurrent sandboxes",
+      "100k concurrent sandboxes",
+      "taught us",
+      "taught us",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "far",
+      "far"
+    ],
+    "summary": "# What 100k concurrent sandboxes has taught us so far > Source: hackernews | Category: news | 2026-06-06T12:15:39Z Score: 11 | Comments: 4"
+  },
+  "69cfd2867dd0f84d": {
+    "file": "corpus/hackernews/andeplane_github_io_Raytracing_4ebbe35b82.md",
+    "source": "hackernews",
+    "title": "Raytracing Geometries in 3D Rendering",
+    "url": "https://andeplane.github.io/Raytracing/",
+    "keywords": [
+      "raytracing geometries",
+      "raytracing geometries",
+      "42z score",
+      "3d rendering",
+      "3d rendering",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Raytracing Geometries in 3D Rendering > Source: hackernews | Category: news | 2026-06-06T12:15:42Z Score: 11 | Comments: 2"
+  },
+  "b4d36ff314d5da59": {
+    "file": "corpus/hackernews/www_martiehaselton_com_files_ugd_3ae410_aeb76edab75f457aae0c_a30a1f2643.md",
+    "source": "hackernews",
+    "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
+    "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
+    "keywords": [
+      "mate preferences change across",
+      "mate preferences change across",
+      "ovulatory cycle",
+      "ovulatory cycle",
+      "38z score",
+      "women",
+      "women",
+      "source",
+      "pdf",
+      "pdf"
+    ],
+    "summary": "# Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf] > Source: hackernews | Category: news | 2026-06-06T12:15:38Z"
+  },
+  "45336c4e4071db38": {
+    "file": "corpus/hackernews/hise_dev_a425802b30.md",
+    "source": "hackernews",
+    "title": "HISE – Toolkit for building VST plugins",
+    "url": "https://hise.dev",
+    "keywords": [
+      "hise – toolkit",
+      "hise – toolkit",
+      "building vst plugins",
+      "building vst plugins",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# HISE – Toolkit for building VST plugins > Source: hackernews | Category: news | 2026-06-06T12:15:40Z Score: 4 | Comments: 1"
+  },
+  "65514f186a4a093e": {
+    "file": "corpus/hackernews/blog_includesecurity_com_2026_06_the-smart-tv-in-your-living_46c916b6d3.md",
+    "source": "hackernews",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "keywords": [
+      "smart tv",
+      "smart tv",
+      "aiscraping economy",
+      "aiscraping economy",
+      "37z score",
+      "source",
+      "node",
+      "node",
+      "news",
+      "livingroom"
+    ],
+    "summary": "# The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy > Source: hackernews | Category: news | 2026-06-06T12:15:37Z Score: 41 | Comments: 9"
+  },
+  "3db4e8fc4efca443": {
+    "file": "corpus/hackernews/www_boxofcables_dev_azure-linux-desktop-a-build-2026-mashup-_2704744432.md",
+    "source": "hackernews",
+    "title": "Azure Linux Desktop",
+    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+    "keywords": [
+      "azure linux desktop",
+      "azure linux desktop",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Azure Linux Desktop > Source: hackernews | Category: news | 2026-06-06T12:15:40Z Score: 20 | Comments: 9"
+  },
+  "0784e97cd236d00b": {
+    "file": "corpus/hackernews/shkspr_mobi_blog_2026_06_theres-still-no-point-in-gigabit-br_268556818b.md",
+    "source": "hackernews",
+    "title": "There's still no point in gigabit broadband",
+    "url": "https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/",
+    "keywords": [
+      "gigabit broadband",
+      "gigabit broadband",
+      "36z score",
+      "still",
+      "still",
+      "source",
+      "point",
+      "point",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# There's still no point in gigabit broadband > Source: hackernews | Category: news | 2026-06-06T12:15:36Z Score: 10 | Comments: 7"
+  },
+  "2d8db1659d396026": {
+    "file": "corpus/hackernews/github_com_valivalivali_x-os_302fa522e7.md",
+    "source": "hackernews",
+    "title": "Is anyone here interested in contributing to this OS?",
+    "url": "https://github.com/valivalivali/x-os",
+    "keywords": [
+      "41z score",
+      "source",
+      "news",
+      "interested",
+      "interested",
+      "hackernews",
+      "contributing",
+      "contributing"
+    ],
+    "summary": "# Is anyone here interested in contributing to this OS? > Source: hackernews | Category: news | 2026-06-06T12:15:41Z Score: 5 | Comments: 2"
+  },
+  "c98f945a9a32eb5f": {
+    "file": "corpus/hackernews/fgiesen_wordpress_com_2024_11_06_exact-unorm8-to-float_957ca57cd0.md",
+    "source": "hackernews",
+    "title": "Exact UNORM8 to Float",
+    "url": "https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/",
+    "keywords": [
+      "exact unorm8",
+      "exact unorm8",
+      "46z score",
+      "source",
+      "news",
+      "hackernews",
+      "float",
+      "float",
+      "comments",
+      "category"
+    ],
+    "summary": "# Exact UNORM8 to Float > Source: hackernews | Category: news | 2026-06-06T12:15:46Z Score: 5 | Comments: 1"
+  },
+  "889c5aa8b7731f13": {
+    "file": "corpus/hackernews/www_statnews_com_2026_06_06_ebola-outbreak-us-aid-response-t_98ad188f4d.md",
+    "source": "hackernews",
+    "title": "I led the U.S. CDC response to the 2014 Ebola epidemic",
+    "url": "https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/",
+    "keywords": [
+      "2014 ebola epidemic",
+      "2014 ebola epidemic",
+      "cdc response",
+      "cdc response",
+      "46z score",
+      "source",
+      "news",
+      "led"
+    ],
+    "summary": "# I led the U.S. CDC response to the 2014 Ebola epidemic > Source: hackernews | Category: news | 2026-06-06T12:15:46Z Score: 12 | Comments: 0"
+  },
+  "55f0041b0566c71e": {
+    "file": "corpus/hackernews/microsoft_github_io_RustTraining_python-book_69383242ea.md",
+    "source": "hackernews",
+    "title": "Introduction – Rust for Python Programmers",
+    "url": "https://microsoft.github.io/RustTraining/python-book/",
+    "keywords": [
+      "introduction – rust",
+      "introduction – rust",
+      "python programmers",
+      "python programmers",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Introduction – Rust for Python Programmers > Source: hackernews | Category: news | 2026-06-06T12:15:37Z Score: 7 | Comments: 0"
+  },
+  "07341e0e1cf5c4bc": {
+    "file": "corpus/security/thehackernews_com_2026_06_cisa-adds-actively-exploited-solar_b1de2842ac.md",
+    "source": "security",
+    "title": "[hacker-news-sec] CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+    "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+    "keywords": [
+      "protocol file server software",
+      "known exploited vulnerabilities",
+      "u dos flaw",
+      "u dos flaw",
+      "u dos flaw",
+      "infrastructure security agency",
+      "u multi",
+      "cvss score",
+      "citing evidence",
+      "active exploitation"
+    ],
+    "summary": "# [hacker-news-sec] CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation."
+  },
+  "0028d422a70deec5": {
+    "file": "corpus/security/thehackernews_com_2026_06_free-apps-are-quietly-turning-smar_4c8a8b8ada.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+    "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+    "keywords": [
+      "largest residential proxy network",
+      "quietly turning smart tvs",
+      "quietly turning smart tvs",
+      "quietly turning smart tvs",
+      "bright data embeds",
+      "36z free apps",
+      "smart tvs",
+      "free apps",
+      "free apps",
+      "consumer apps"
+    ],
+    "summary": "# [hacker-news-sec] Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry."
+  },
+  "2b7b95927cdbda1b": {
+    "file": "corpus/ai-research/huggingface_co_blog_build-small-hackathon_persona-atlas_3df0e649f5.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Persona Atlas: Mapping How Famous Minds Think",
+    "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+    "keywords": [
+      "famous minds think",
+      "famous minds think",
+      "famous minds think",
+      "37z persona atlas",
+      "persona atlas",
+      "persona atlas",
+      "source",
+      "research",
+      "research",
+      "mapping"
+    ],
+    "summary": "# [hf-blog] Persona Atlas: Mapping How Famous Minds Think > Source: ai-research | Category: research | 2026-06-06T12:15:37Z Persona Atlas: Mapping How Famous Minds Think"
+  },
+  "db4332355559d537": {
+    "file": "corpus/sales/www_saastr_com_how-vercel-runs-on-ai-agents-96-of-marketing-_e08cd61efb.md",
+    "source": "sales",
+    "title": "[saastr] How Vercel Runs on AI Agents: 96% of Marketing, 93% of Support, and an SDR Team Reabsorbed. A Deep Dive With CPO Tom Occhino",
+    "url": "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/",
+    "keywords": [
+      "spent ... continue reading",
+      "sdr team reabsorbed",
+      "sdr team reabsorbed",
+      "sdr team reabsorbed",
+      "cpo tom occhino",
+      "cpo tom occhino",
+      "built foundational infrastructure",
+      "web still runs",
+      "vercel runs",
+      "vercel runs"
+    ],
+    "summary": "Tom Occhino has built foundational infrastructure at the kind of scale almost no one in B2B will ever touch. He spent over 12 years at Facebook, where he co-created React and React Native and shaped the open-source tools that a huge chunk of the web still runs on. His CTO at Vercel, Malte Ubl, spent...   Continue Reading"
+  },
+  "768a8c6d737d0b19": {
+    "file": "corpus/sales/www_saastr_com_your-vp-sales-has-a-sales-quota-your-vp-marke_cafd80f76c.md",
+    "source": "sales",
+    "title": "[saastr] Your VP Sales Has a Sales Quota.  Your VP Marketing Has To Have a Quota, Too.",
+    "url": "https://www.saastr.com/your-vp-sales-has-a-sales-quota-your-vp-marketing-needs-a-lead-quota-period/",
+    "keywords": [
+      "driven ... continue reading",
+      "first iconic saastr posts",
+      "right type",
+      "help folks",
+      "blue pens",
+      "basic idea",
+      "&# 8217",
+      "&# 8217",
+      "vp marketing",
+      "vp marketing"
+    ],
+    "summary": "Your VP Marketing Has To Have a Quota, Too. Your VP Marketing Has To Have a Quota, Too. The basic idea was to help folks who haven&#8217;t hired a VP or Director of Marketing hire the right one for a pre-Scale sales-driven...   Continue Reading"
+  },
+  "d17f9a8f5b980e22": {
+    "file": "corpus/devto/dev_to_meetshahbuilds_i-built-342-browser-native-dev-tools-h_5d8a399e01.md",
+    "source": "devto",
+    "title": "I built 342 browser-native dev tools - here's why everything runs client-side",
+    "url": "https://dev.to/meetshahbuilds/i-built-342-browser-native-dev-tools-heres-why-everything-runs-client-side-4no0",
+    "keywords": [
+      "native dev tools —",
+      "native dev tools",
+      "native dev tools",
+      "everything runs client",
+      "everything runs client",
+      "everything runs client",
+      "built 342 browser",
+      "built 342 browser",
+      "built 342 browser",
+      "source"
+    ],
+    "summary": "# I built 342 browser-native dev tools - here's why everything runs client-side > Source: devto | Category: news | 2026-06-06T12:15:48Z I built 342 browser-native dev tools — here's why everything runs client-side   Over the..."
+  },
+  "78ed427ce7125365": {
+    "file": "corpus/devto/dev_to_tiagofur_im-building-devdeck-an-open-source-developer_655c7b2a3a.md",
+    "source": "devto",
+    "title": "I’m building DevDeck: an open-source developer memory app for tools, snippets, prompts, and shared knowledge",
+    "url": "https://dev.to/tiagofur/im-building-devdeck-an-open-source-developer-memory-app-for-tools-snippets-prompts-and-shared-1gk6",
+    "keywords": [
+      "keep finding useful ...",
+      "source developer memory app",
+      "source developer memory app",
+      "shared knowledge",
+      "shared knowledge",
+      "saving problem",
+      "rediscovery problem",
+      "building devdeck",
+      "building devdeck",
+      "50z developers"
+    ],
+    "summary": "# I’m building DevDeck: an open-source developer memory app for tools, snippets, prompts, and shared knowledge Developers do not have a saving problem. We have a rediscovery problem."
+  },
+  "5efa381335ad9b92": {
+    "file": "corpus/devto/dev_to_shoogarsoft_running-facial-cv-in-the-browser-what-bre_6a78d9ce1a.md",
+    "source": "devto",
+    "title": "Running Facial CV in the Browser: What Breaks When You Refuse to Send Pixels to a Server",
+    "url": "https://dev.to/shoogarsoft/running-facial-cv-in-the-browser-what-breaks-when-you-refuse-to-send-pixels-to-a-server-5h8",
+    "keywords": [
+      "47z running facial cv",
+      "running facial cv",
+      "running facial cv",
+      "send pixels",
+      "send pixels",
+      "send pixels",
+      "source",
+      "server",
+      "server",
+      "refuse"
+    ],
+    "summary": "# Running Facial CV in the Browser: What Breaks When You Refuse to Send Pixels to a Server > Source: devto | Category: news | 2026-06-06T12:15:47Z Running Facial CV in the Browser: What Breaks When You Refuse to Send Pixels to a..."
+  },
+  "1ae257eec0415177": {
+    "file": "corpus/devto/dev_to_chibbythecoder_i-opened-my-old-repository-again-after_5cf133040e.md",
+    "source": "devto",
+    "title": "I Opened My Old Repository Again After 315 Days",
+    "url": "https://dev.to/chibbythecoder/i-opened-my-old-repository-again-after-315-days-65b",
+    "keywords": [
+      "repository ...",
+      "old repository",
+      "old repository",
+      "50z table",
+      "315 days",
+      "315 days",
+      "source",
+      "reactions",
+      "opened",
+      "opened"
+    ],
+    "summary": "# I Opened My Old Repository Again After 315 Days > Source: devto | Category: news | 2026-06-06T12:15:50Z Table of Contents    What I Built The Project Slowly Fell Apart Revisiting the Repository..."
+  },
+  "c215ca693017b4a7": {
+    "file": "corpus/devto/dev_to_komiru_we-built-the-infrastructure-for-ai-to-stop-gue_7e113d1210.md",
+    "source": "devto",
+    "title": "We Built the Infrastructure for AI to Stop Guessing About Local Businesses",
+    "url": "https://dev.to/komiru/we-built-the-infrastructure-for-ai-to-stop-guessing-about-local-businesses-50ml",
+    "keywords": [
+      "stop guessing",
+      "stop guessing",
+      "stop guessing",
+      "local businesses",
+      "local businesses",
+      "local businesses",
+      "cloudflare ...",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# We Built the Infrastructure for AI to Stop Guessing About Local Businesses > Source: devto | Category: news | 2026-06-06T12:15:48Z We Built the Infrastructure for AI to Stop Guessing About Local Businesses   How Cloudflare..."
+  },
+  "014fa637cbf7564f": {
+    "file": "corpus/devto/dev_to_ohugonnot_building-a-middle-school-quiz-app-in-react-_f1ec2d3b4e.md",
+    "source": "devto",
+    "title": "Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions",
+    "url": "https://dev.to/ohugonnot/building-a-middle-school-quiz-app-in-react-gamification-accessibility-and-adaptive-questions-2dd1",
+    "keywords": [
+      "middle school quiz app",
+      "middle school quiz app",
+      "brevet exam prep platform",
+      "adaptive question selection",
+      "adaptive questions",
+      "adaptive questions",
+      "weighted scoring",
+      "skills radar",
+      "randomized quizzes",
+      "dyslexia mode"
+    ],
+    "summary": "# Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions > Source: devto | Category: news | 2026-06-06T12:15:48Z How I built a Brevet exam prep platform in React: randomized quizzes, weighted scoring, skills radar, badges, dyslexia mode and adaptive question selection."
+  },
+  "0ad2e9ba4c0dcf4c": {
+    "file": "corpus/devto/dev_to_codewithbg_building-agentguardian-a-local-first-secur_46054f35d2.md",
+    "source": "devto",
+    "title": "Building AgentGuardian: A Local-First Security Scanner for Agentic AI Workflows",
+    "url": "https://dev.to/codewithbg/building-agentguardian-a-local-first-security-scanner-for-agentic-ai-workflows-2gcn",
+    "keywords": [
+      "simple chat interfaces",
+      "first security scanner",
+      "first security scanner",
+      "agentic ai workflows",
+      "agentic ai workflows",
+      "access data ,...",
+      "47z ai agents",
+      "use tools",
+      "quickly moving",
+      "building agentguardian"
+    ],
+    "summary": "# Building AgentGuardian: A Local-First Security Scanner for Agentic AI Workflows > Source: devto | Category: news | 2026-06-06T12:15:47Z AI agents are quickly moving from simple chat interfaces to systems that can use tools, access data,..."
+  },
+  "13b8f2e83c9ab132": {
+    "file": "corpus/devto/dev_to_simple_memo_i-gave-my-notes-a-cache-hierarchy-phone-l_52df605fd7.md",
+    "source": "devto",
+    "title": "I gave my notes a cache hierarchy: phone L1, vault L2",
+    "url": "https://dev.to/simple_memo/i-gave-my-notes-a-cache-hierarchy-phone-l1-vault-l2-73m",
+    "keywords": [
+      "vault l2",
+      "vault l2",
+      "phone l1",
+      "phone l1",
+      "least load",
+      "cache hierarchy",
+      "cache hierarchy",
+      "bearing part",
+      "note app",
+      "app"
+    ],
+    "summary": "# I gave my notes a cache hierarchy: phone L1, vault L2 I am not going to tell you which note app I run. The app is the least load-bearing part of this, and..."
+  },
+  "8812a43092ff9a4e": {
+    "file": "corpus/devto/dev_to_software_mvp-factory_structured-concurrency-in-ktor-3_9a99a3c16a.md",
+    "source": "devto",
+    "title": "Structured Concurrency in Ktor 3 with Kotlin Coroutines",
+    "url": "https://dev.to/software_mvp-factory/structured-concurrency-in-ktor-3-with-kotlin-coroutines-2d7e",
+    "keywords": [
+      "architect background job lifecycles",
+      "includes kotlin code showing",
+      "scope parallel upstream calls",
+      "structured concurrency model interacts",
+      "coroutine job states",
+      "cancel sibling calls",
+      "respect graceful shutdown",
+      "party sdk coroutine",
+      "micrometer metrics wired",
+      "entire application scope"
+    ],
+    "summary": "# Structured Concurrency in Ktor 3 with Kotlin Coroutines Deep dive into how Ktor 3's structured concurrency model interacts with coroutine supervision trees during real request handling — covering how to scope parallel upstream calls (database + cache + external API) per-request so a single timeout doesn't cancel sibling calls, how to architect background job lifecycles (webhook retries, cache warming) that survive request completion but respect graceful shutdown, and the specific CoroutineExce"
+  },
+  "0bf60981e00d34dd": {
+    "file": "corpus/devto/dev_to_shoogarsoft_picking-the-right-resale-platform-is-a-ro_9068d9935b.md",
+    "source": "devto",
+    "title": "Picking the right resale platform is a routing problem, not a price problem",
+    "url": "https://dev.to/shoogarsoft/picking-the-right-resale-platform-is-a-routing-problem-not-a-price-problem-34md",
+    "keywords": [
+      "right resale platform",
+      "right resale platform",
+      "right resale platform",
+      "routing problem",
+      "routing problem",
+      "routing problem",
+      "price problem",
+      "price problem",
+      "price problem",
+      "47z picking"
+    ],
+    "summary": "# Picking the right resale platform is a routing problem, not a price problem > Source: devto | Category: news | 2026-06-06T12:15:47Z Picking the right resale platform is a routing problem, not a price problem   A friend of..."
+  },
+  "91098ffb86ff73b6": {
+    "file": "corpus/devto/dev_to_math-krish_i-got-tired-of-waiting-for-deploys-so-i-bu_6980e419d7.md",
+    "source": "devto",
+    "title": "I got tired of waiting for deploys, so I built a local Lambda runner",
+    "url": "https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk",
+    "keywords": [
+      "change one line ....",
+      "local lambda runner",
+      "local lambda runner",
+      "lambda code",
+      "specific kind",
+      "got tired",
+      "got tired",
+      "waiting",
+      "waiting",
+      "source"
+    ],
+    "summary": "# I got tired of waiting for deploys, so I built a local Lambda runner > Source: devto | Category: news | 2026-06-06T12:15:47Z There's a specific kind of frustration that comes from iterating on Lambda code."
+  },
+  "809eccc5dfc23fdc": {
+    "file": "corpus/devto/dev_to_nilofer_tweets_carbon-aware-model-training-scheduling_fe1b1a5776.md",
+    "source": "devto",
+    "title": "Carbon-Aware Model Training: Scheduling GPU Workloads Around Electricity Carbon Intensity",
+    "url": "https://dev.to/nilofer_tweets/carbon-aware-model-training-scheduling-gpu-workloads-around-electricity-carbon-intensity-b4b",
+    "keywords": [
+      "51z training ml models",
+      "aware model training",
+      "aware model training",
+      "model trained ...",
+      "environmental cost",
+      "source",
+      "reactions",
+      "practitioners",
+      "news",
+      "measure"
+    ],
+    "summary": "# Carbon-Aware Model Training: Scheduling GPU Workloads Around Electricity Carbon Intensity > Source: devto | Category: news | 2026-06-06T12:15:51Z Training ML models has an environmental cost that most practitioners do not measure."
+  },
+  "217fc4a36c9e9616": {
+    "file": "corpus/devto/dev_to_raghav_builds_i-tested-whether-a-code-health-score-ac_fd484facb4.md",
+    "source": "devto",
+    "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
+    "url": "https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl",
+    "keywords": [
+      "nobody checks whether ...",
+      "code health scores",
+      "tested whether",
+      "tested whether",
+      "number goes",
+      "number goes",
+      "vibes",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I tested whether a code health score actually predicts bugs. Most code health scores are vibes. A number goes up, a number goes down, and nobody checks whether..."
   }
 }
