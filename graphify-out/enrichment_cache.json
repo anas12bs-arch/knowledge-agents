@@ -49593,5 +49593,850 @@
       "news"
     ],
     "summary": "# I tested whether a code health score actually predicts bugs. Most code health scores are vibes. A number goes up, a number goes down, and nobody checks whether..."
+  },
+  "c7dd5d6612e14e46": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48424882_5c53766612.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (June 2026))",
+    "url": "https://news.ycombinator.com/item?id=48424882",
+    "keywords": [
+      "person startup building software",
+      "quarterly offsites .< p",
+      "infra ownership .< p",
+      "geopackage geospatial .< p",
+      "pmtiles · react native",
+      "b2g .< p",
+      "inngest · react",
+      "municipalities managing data",
+      "terraform &# x2f",
+      "rn &# x2f"
+    ],
+    "summary": "Memora | Founding Engineer | REMOTE (EU, 4h overlap with CET) | Full-time | Senior IC salary + meaningful founding equity<p>We&#x27;re a 5-person startup building software for cemetery &amp; public-records management: municipalities managing data for real families. Broad, hands-on IC role with real product and infra ownership.<p>Stack: NestJS&#x2F;TypeScript, PostgreSQL + PostGIS, MikroORM, Inngest · React + TanStack Query, MapLibre + PMTiles · React Native + Expo · AWS (ECS Fargate, RDS, S3, Be"
+  },
+  "e940803c02843c35": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_ep217-latency-vs-throughput-vs-bandwid_5230584a7c.md",
+    "source": "engineering",
+    "title": "[bytebytego] EP217: Latency vs Throughput vs Bandwidth",
+    "url": "https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth",
+    "keywords": [
+      "one tells",
+      "different story",
+      "50z ep217",
+      "ep217",
+      "ep217",
+      "throughput",
+      "source",
+      "performance",
+      "engineering",
+      "engineering"
+    ],
+    "summary": "# [bytebytego] EP217: Latency vs Throughput vs Bandwidth EP217: Latency vs Throughput vs Bandwidth Latency, throughput, and bandwidth often get used interchangeably, but each one tells a different story about performance."
+  },
+  "a72ad7277006197d": {
+    "file": "corpus/hackernews/www_seattletimes_com_seattle-news_health_police-remove-uw-di_165a70d58a.md",
+    "source": "hackernews",
+    "title": "Police remove biabetes researcher, other experts from medical conference",
+    "url": "https://www.seattletimes.com/seattle-news/health/police-remove-uw-diabetes-researcher-and-other-experts-from-conference/",
+    "keywords": [
+      "police remove biabetes researcher",
+      "police remove biabetes researcher",
+      "medical conference",
+      "medical conference",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "experts",
+      "experts"
+    ],
+    "summary": "# Police remove biabetes researcher, other experts from medical conference > Source: hackernews | Category: news | 2026-06-06T16:18:53Z Score: 4 | Comments: 2"
+  },
+  "1bd015c3c3c0069c": {
+    "file": "corpus/hackernews/arxiv_org_abs_2605_00414_fc4202eb49.md",
+    "source": "hackernews",
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "url": "https://arxiv.org/abs/2605.00414",
+    "keywords": [
+      "unifying decision trees",
+      "unifying decision trees",
+      "diffusion models",
+      "diffusion models",
+      "51z score",
+      "trees",
+      "trees",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Trees to Flows and Back: Unifying Decision Trees and Diffusion Models > Source: hackernews | Category: news | 2026-06-06T16:18:51Z Score: 5 | Comments: 0"
+  },
+  "3b9e128f72fba4a9": {
+    "file": "corpus/hackernews/lwn_net_SubscriberLink_1076018_16f01bbbb8e0d1f0_56ba695bb5.md",
+    "source": "hackernews",
+    "title": "Moving beyond fork() + exec()",
+    "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "keywords": [
+      "moving beyond fork ()",
+      "moving beyond fork ()",
+      "exec ()",
+      "exec ()",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Moving beyond fork() + exec() > Source: hackernews | Category: news | 2026-06-06T16:18:48Z Score: 82 | Comments: 62"
+  },
+  "9a8ad580f1a6f575": {
+    "file": "corpus/hackernews/arxiv_org_abs_2606_05818_fc6800007e.md",
+    "source": "hackernews",
+    "title": "Benchmarks in Leipzig",
+    "url": "https://arxiv.org/abs/2606.05818",
+    "keywords": [
+      "48z score",
+      "source",
+      "news",
+      "leipzig",
+      "leipzig",
+      "hackernews",
+      "comments",
+      "category",
+      "benchmarks",
+      "benchmarks"
+    ],
+    "summary": "# Benchmarks in Leipzig > Source: hackernews | Category: news | 2026-06-06T16:18:48Z Score: 60 | Comments: 26"
+  },
+  "1de714ab9d148115": {
+    "file": "corpus/hackernews/www_todepond_com_lab_splash_e1fdfabb59.md",
+    "source": "hackernews",
+    "title": "Splash Is a Colour Format",
+    "url": "https://www.todepond.com/lab/splash/",
+    "keywords": [
+      "colour format",
+      "colour format",
+      "50z score",
+      "splash",
+      "splash",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Splash Is a Colour Format > Source: hackernews | Category: news | 2026-06-06T16:18:50Z Score: 5 | Comments: 3"
+  },
+  "4ed498a0bcfe141c": {
+    "file": "corpus/hackernews/engelsbergideas_com_notebook_the-new-bibliomaniacs_85fb761ccb.md",
+    "source": "hackernews",
+    "title": "The new bibliomaniacs",
+    "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+    "keywords": [
+      "new bibliomaniacs",
+      "new bibliomaniacs",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The new bibliomaniacs > Source: hackernews | Category: news | 2026-06-06T16:18:49Z Score: 36 | Comments: 27"
+  },
+  "221e643f2df2bbc4": {
+    "file": "corpus/hackernews/simonwillison_net_2026_Jun_6_micropython-in-a-sandbox_b9263cac1b.md",
+    "source": "hackernews",
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+    "keywords": [
+      "running python code",
+      "running python code",
+      "51z score",
+      "wasm",
+      "wasm",
+      "source",
+      "sandbox",
+      "sandbox",
+      "news",
+      "micropython"
+    ],
+    "summary": "# Running Python code in a sandbox with MicroPython and WASM > Source: hackernews | Category: news | 2026-06-06T16:18:51Z Score: 7 | Comments: 2"
+  },
+  "e00b28818c78e7e2": {
+    "file": "corpus/hackernews/twitter_com_lemire_status_2062880075117113739_e490c61be0.md",
+    "source": "hackernews",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "keywords": [
+      "windows pcs",
+      "windows pcs",
+      "cpu system",
+      "cpu system",
+      "49z score",
+      "source",
+      "proposing",
+      "proposing",
+      "nvidia",
+      "nvidia"
+    ],
+    "summary": "# Nvidia is proposing a beast of a CPU system for Windows PCs > Source: hackernews | Category: news | 2026-06-06T16:18:49Z Score: 59 | Comments: 113"
+  },
+  "6654a985c2868bec": {
+    "file": "corpus/hackernews/www_wsj_com_tech_ai_meta-keeps-delaying-the-release-of-its-n_294f3dd7ac.md",
+    "source": "hackernews",
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "keywords": [
+      "new ai model",
+      "new ai model",
+      "meta keeps delaying",
+      "meta keeps delaying",
+      "52z score",
+      "source",
+      "release",
+      "release",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Meta Keeps Delaying the Release of Its New AI Model to Developers > Source: hackernews | Category: news | 2026-06-06T16:18:52Z Score: 42 | Comments: 17"
+  },
+  "b229917ac02c90a3": {
+    "file": "corpus/hackernews/www_reuters_com_business_us-house-lawmakers-release-draft-bi_57623fbbce.md",
+    "source": "hackernews",
+    "title": "US House lawmakers release draft bill to prohibit state AI rules",
+    "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+    "keywords": [
+      "prohibit state ai rules",
+      "prohibit state ai rules",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# US House lawmakers release draft bill to prohibit state AI rules > Source: hackernews | Category: news | 2026-06-06T16:18:50Z Score: 56 | Comments: 19"
+  },
+  "523418dafa1371fd": {
+    "file": "corpus/hackernews/github_com_xloveee_jiggle-physics_276b9006d9.md",
+    "source": "hackernews",
+    "title": "Show HN: Soft Body Jiggle Physics",
+    "url": "https://github.com/xloveee/jiggle-physics",
+    "keywords": [
+      "soft body jiggle physics",
+      "soft body jiggle physics",
+      "dynamic soft body dynamics",
+      "show hn",
+      "show hn",
+      "fundamental standard",
+      "51z score",
+      "source",
+      "simple",
+      "news"
+    ],
+    "summary": "# Show HN: Soft Body Jiggle Physics > Source: hackernews | Category: news | 2026-06-06T16:18:51Z A simple and fundamental standard for dynamic soft body dynamics."
+  },
+  "364d82bb27da090e": {
+    "file": "corpus/hackernews/www_learnix-os_com_ch02-03-implementing-the-bitfields-proc-m_7b8b441a65.md",
+    "source": "hackernews",
+    "title": "Building Rust Procedural Macros from the Grounds Up",
+    "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "keywords": [
+      "building rust procedural macros",
+      "building rust procedural macros",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "grounds",
+      "grounds",
+      "comments",
+      "category"
+    ],
+    "summary": "# Building Rust Procedural Macros from the Grounds Up > Source: hackernews | Category: news | 2026-06-06T16:18:49Z Score: 36 | Comments: 2"
+  },
+  "addab1d50bd847fa": {
+    "file": "corpus/hackernews/www_ft_com_content_229e5949-3ebc-4151-8a86-a01b5e259241_34cd9c4b96.md",
+    "source": "hackernews",
+    "title": "Police in England and Wales told to halt AI use in court statements",
+    "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+    "keywords": [
+      "halt ai use",
+      "halt ai use",
+      "wales told",
+      "wales told",
+      "court statements",
+      "court statements",
+      "50z score",
+      "source",
+      "police",
+      "police"
+    ],
+    "summary": "# Police in England and Wales told to halt AI use in court statements > Source: hackernews | Category: news | 2026-06-06T16:18:50Z Score: 11 | Comments: 0"
+  },
+  "815c207ce5c41697": {
+    "file": "corpus/hackernews/techcrunch_com_2026_06_05_google-will-pay-spacex-920m-per-mo_d890e4bb37.md",
+    "source": "hackernews",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "keywords": [
+      "920m per month",
+      "920m per month",
+      "pay spacex",
+      "pay spacex",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "google",
+      "google"
+    ],
+    "summary": "# Google will pay SpaceX $920M per month for compute > Source: hackernews | Category: news | 2026-06-06T16:18:49Z Score: 171 | Comments: 211"
+  },
+  "e5951287c31daff6": {
+    "file": "corpus/hackernews/pokeemerald_com_246381969a.md",
+    "source": "hackernews",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "url": "https://pokeemerald.com/",
+    "keywords": [
+      "pokemon emerald ported",
+      "pokemon emerald ported",
+      "49z score",
+      "100k fps",
+      "100k fps",
+      "webassembly",
+      "webassembly",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Pokemon Emerald Ported to WebAssembly (100k FPS) > Source: hackernews | Category: news | 2026-06-06T16:18:49Z Score: 102 | Comments: 27"
+  },
+  "ae4548e1d63764c3": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_rJ2gQ5Md60U_ae72b316cc.md",
+    "source": "hackernews",
+    "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+    "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
+    "keywords": [
+      "jiro yamada",
+      "jiro yamada",
+      "automotive artist",
+      "automotive artist",
+      "49z score",
+      "video",
+      "video",
+      "tribute",
+      "tribute",
+      "source"
+    ],
+    "summary": "# Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video] > Source: hackernews | Category: news | 2026-06-06T16:18:49Z Score: 18 | Comments: 1"
+  },
+  "2d8a5561860f3fa8": {
+    "file": "corpus/product/techcrunch_com_2026_06_06_beyond-instagram-introducing-the-n_be8ea7c072.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Beyond Instagram: Introducing the next generation of social apps",
+    "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+    "keywords": [
+      "big tech ’",
+      "52z beyond instagram",
+      "beyond instagram",
+      "beyond instagram",
+      "social apps",
+      "social apps",
+      "social apps",
+      "next generation",
+      "next generation",
+      "next generation"
+    ],
+    "summary": "# [techcrunch-startups] Beyond Instagram: Introducing the next generation of social apps Beyond Instagram: Introducing the next generation of social apps These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community."
+  },
+  "385f1b3cbb811fce": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_critical-everest-form_e79d318521.md",
+    "source": "security",
+    "title": "[bleeping-comp] Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "keywords": [
+      "everest forms pro plugin",
+      "wordpress sites hackers",
+      "take complete control",
+      "wordpress sites",
+      "wordpress sites",
+      "wordpress website",
+      "critical vulnerability",
+      "actively exploiting",
+      "take",
+      "take"
+    ],
+    "summary": "# [bleeping-comp] Critical Everest Forms Pro flaw exploited to take over WordPress sites Critical Everest Forms Pro flaw exploited to take over WordPress sites Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website."
+  },
+  "69d91cd96d1471ee": {
+    "file": "corpus/security/thehackernews_com_2026_06_new-chatgpt-lockdown-mode-limits-t_34cc4bb82b.md",
+    "source": "security",
+    "title": "[hacker-news-sec] New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+    "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+    "keywords": [
+      "require stricter protection guarantees",
+      "could enable data exfiltration",
+      "could enable data exfiltration",
+      "data exfiltration arising",
+      "handle sensitive data",
+      "users across free",
+      "prompt injection attacks",
+      "eligible personal accounts",
+      "new lockdown mode",
+      "lockdown mode"
+    ],
+    "summary": "# [hacker-news-sec] New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks."
+  },
+  "87c9d254a197fd5c": {
+    "file": "corpus/ai-research/huggingface_co_blog_build-small-hackathon_job-search-blog_4682759ecb.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Job Searcher",
+    "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+    "keywords": [
+      "49z job searcher",
+      "job searcher",
+      "job searcher",
+      "source",
+      "research",
+      "research",
+      "category",
+      "blog"
+    ],
+    "summary": "# [hf-blog] Job Searcher > Source: ai-research | Category: research | 2026-06-06T16:18:49Z Job Searcher"
+  },
+  "30b40bde7214e895": {
+    "file": "corpus/sales/www_saastr_com_we-vibe-coded-our-ai-vp-of-marketing-heres-wh_1ce79de3c3.md",
+    "source": "sales",
+    "title": "[saastr] We Vibe Coded Our AI VP of Marketing. Here’s What It Actually Does.",
+    "url": "https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/",
+    "keywords": [
+      "follow one rule religiously",
+      "10 rule",
+      "vibe coded",
+      "vibe coded",
+      "vibe coded",
+      "solution exists",
+      "saved us",
+      "run 20",
+      "ai vp",
+      "ai vp"
+    ],
+    "summary": "# [saastr] We Vibe Coded Our AI VP of Marketing. We Vibe Coded Our AI VP of Marketing. We follow one rule religiously: buy 90% of what you need, only build the 10% where no solution exists."
+  },
+  "e0c9976fa45e5bbe": {
+    "file": "corpus/sales/www_saastr_com_it-took-apple-42-years-to-reach-1-trillion-an_0a7bd87eb3.md",
+    "source": "sales",
+    "title": "[saastr] It Took Apple 42 Years to Reach $1 Trillion. Anthropic Will Do It in 5.",
+    "url": "https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/",
+    "keywords": [
+      "took apple 42 years",
+      "took apple 42 years",
+      "took apple 42 years",
+      "roughly five years",
+      "... continue reading",
+      "965 billion valuation",
+      "65 billion",
+      "true outliers",
+      "reset everything",
+      "filed confidentially"
+    ],
+    "summary": "# [saastr] It Took Apple 42 Years to Reach $1 Trillion. AI has reset everything we knew about the pace, size and scale of company building. That puts it on track to cross $1 trillion in roughly five years from...   Continue Reading"
+  },
+  "7e7863cf38f6257a": {
+    "file": "corpus/devto/dev_to_markofrei919_ai-in-unreal-engine-the-two-kinds-every-_5f410f7330.md",
+    "source": "devto",
+    "title": "AI in Unreal Engine: The Two Kinds Every Game Dev Should Know",
+    "url": "https://dev.to/markofrei919/ai-in-unreal-engine-the-two-kinds-every-game-dev-should-know-hi1",
+    "keywords": [
+      "could mean one",
+      "unreal engine",
+      "unreal engine",
+      "unreal engine",
+      "two ...",
+      "someone says",
+      "ai game",
+      "source"
+    ],
+    "summary": "# AI in Unreal Engine: The Two Kinds Every Game Dev Should Know > Source: devto | Category: news | 2026-06-06T16:18:58Z When someone says they're building an \"AI game\" in Unreal Engine, they could mean one of two..."
+  },
+  "85a8d2c9ecbb5fb1": {
+    "file": "corpus/devto/dev_to_dimonb19a_the-libraries-i-actually-reach-for-and-the-_a965085401.md",
+    "source": "devto",
+    "title": "The libraries I actually reach for — and the rule I use to decide",
+    "url": "https://dev.to/dimonb19a/the-libraries-i-actually-reach-for-and-the-rule-i-use-to-decide-2f82",
+    "keywords": [
+      "— native elements ...",
+      "last two posts",
+      "browser already gives",
+      "installing things",
+      "actually reach",
+      "actually reach",
+      "use",
+      "use"
+    ],
+    "summary": "# The libraries I actually reach for — and the rule I use to decide > Source: devto | Category: news | 2026-06-06T16:18:55Z My last two posts were about not installing things the browser already gives you — native elements..."
+  },
+  "49e2cc46c615c25d": {
+    "file": "corpus/devto/dev_to_layzerzero105_anthropic-told-you-how-they-use-claude-_34cb8d7ee5.md",
+    "source": "devto",
+    "title": "Anthropic told you how they use Claude Code skills. The buried line: your skills/ directory is now a hiring signal.",
+    "url": "https://dev.to/layzerzero105/anthropic-told-you-how-they-use-claude-code-skills-the-buried-line-your-skills-directory-is-now-1om9",
+    "keywords": [
+      "use claude code skills",
+      "use claude code skills",
+      "one paragraph nobody",
+      "gap gets expensive",
+      "engineering team published",
+      "next 18 months",
+      "native team",
+      "quoting —",
+      "hiring signal",
+      "hiring signal"
+    ],
+    "summary": "The buried line: your skills/ directory is now a hiring signal. Anthropic's engineering team published a post on how they actually use Claude Code skills inside the company. Here is the audit you do this week before that gap gets expensive."
+  },
+  "5039298108ac119d": {
+    "file": "corpus/devto/dev_to_lewiska_state-of-ai-code-review-may-2026-roundup-5o7_7e4350ee5a.md",
+    "source": "devto",
+    "title": "State of AI Code Review | May 2026 Roundup",
+    "url": "https://dev.to/lewiska/state-of-ai-code-review-may-2026-roundup-5o7",
+    "keywords": [
+      "everything significant shipped across",
+      "ai code review ...",
+      "ai code review",
+      "ai code review",
+      "second monthly roundup",
+      "may 2026 roundup",
+      "may 2026 roundup",
+      "57z welcome",
+      "2026",
+      "state"
+    ],
+    "summary": "# State of AI Code Review | May 2026 Roundup > Source: devto | Category: news | 2026-06-06T16:18:57Z Welcome to my second monthly roundup of everything significant shipped across the AI code review..."
+  },
+  "eee46cc75b2ac036": {
+    "file": "corpus/devto/dev_to_maxconrad_my-ai-agent-found-a-bug-in-its-own-system-1_722e989142.md",
+    "source": "devto",
+    "title": "My AI Agent Found a Bug in Its Own System",
+    "url": "https://dev.to/maxconrad/my-ai-agent-found-a-bug-in-its-own-system-19kn",
+    "keywords": [
+      "spent two semesters building",
+      "runs penetration tests",
+      "ai agent found",
+      "ai agent found",
+      "ai agent",
+      "system",
+      "system",
+      "source",
+      "reactions",
+      "non"
+    ],
+    "summary": "# My AI Agent Found a Bug in Its Own System > Source: devto | Category: news | 2026-06-06T16:18:57Z I spent two semesters building an AI agent that runs penetration tests."
+  },
+  "ad60b1db015601f0": {
+    "file": "corpus/devto/dev_to_iamadhitya_im-a-21-year-old-student-who-shipped-7-ai-_75605e1405.md",
+    "source": "devto",
+    "title": "I'm a 21-Year-Old Student Who Shipped 7 AI Apps and 7 Open Source Libraries. Here's the Strategy.",
+    "url": "https://dev.to/iamadhitya/im-a-21-year-old-student-who-shipped-7-ai-apps-and-7-open-source-libraries-heres-the-strategy-3cpi",
+    "keywords": [
+      "shipped 7 ai apps",
+      "shipped 7 ai apps",
+      "7 open source libraries",
+      "7 open source libraries",
+      "studying engineering full",
+      "56z build silently",
+      "14 live products",
+      "ship publicly",
+      "old student",
+      "old student"
+    ],
+    "summary": "# I'm a 21-Year-Old Student Who Shipped 7 AI Apps and 7 Open Source Libraries. > Source: devto | Category: news | 2026-06-06T16:18:56Z Here's how I went from zero to 14 live products while studying engineering full-time."
+  },
+  "b08889a397cd196a": {
+    "file": "corpus/devto/dev_to_imajeetyadav_we-built-a-kubernetes-desktop-app-that-a_a8806cec17.md",
+    "source": "devto",
+    "title": "We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow — Podscape v4.0",
+    "url": "https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0",
+    "keywords": [
+      "kubernetes desktop app",
+      "kubernetes desktop app",
+      "terminal two :...",
+      "terminal one",
+      "production issue",
+      "kubectl logs",
+      "actually replaces",
+      "actually replaces",
+      "source",
+      "reactions"
+    ],
+    "summary": "# We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow — Podscape v4.0 You're debugging a production issue. Terminal one: kubectl logs."
+  },
+  "407ee7dd3ef78a4d": {
+    "file": "corpus/devto/dev_to_slotkdev_how-to-build-a-race-condition-proof-booking-_b73d01b7fe.md",
+    "source": "devto",
+    "title": "How to build a race-condition-proof booking system with Drizzle ORM and PostgreSQL",
+    "url": "https://dev.to/slotkdev/how-to-build-a-race-condition-proof-booking-system-with-drizzle-orm-and-postgresql-550n",
+    "keywords": [
+      "two customers try",
+      "proof booking system",
+      "proof booking system",
+      "drizzle orm",
+      "drizzle orm",
+      "source",
+      "slot",
+      "reactions",
+      "race",
+      "race"
+    ],
+    "summary": "# How to build a race-condition-proof booking system with Drizzle ORM and PostgreSQL > Source: devto | Category: news | 2026-06-06T16:18:55Z Booking systems look simple until two customers try to  book the same slot at the same..."
+  },
+  "eed824f36dd83cf5": {
+    "file": "corpus/devto/dev_to_c1b9e06dc90a7e0a676b_i-stopped-fighting-broken-parser_d0dbd9bf9a.md",
+    "source": "devto",
+    "title": "I stopped fighting broken parsers — here's how I use LLMs to extract web data reliably",
+    "url": "https://dev.to/__c1b9e06dc90a7e0a676b/i-stopped-fighting-broken-parsers-heres-how-i-use-llms-to-extract-web-data-reliably-1j2h",
+    "keywords": [
+      "extract web data reliably",
+      "extract web data reliably",
+      "use llms",
+      "use llms",
+      "price tracker",
+      "months ago",
+      "edition sneakers",
+      "50 +...",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I stopped fighting broken parsers — here's how I use LLMs to extract web data reliably A few months ago, I was building a price tracker for limited-edition sneakers. I had a list of 50+..."
+  },
+  "2340954e86eb5658": {
+    "file": "corpus/devto/dev_to_gamya_m_swift-conditions-teaching-your-code-how-to-ma_497cc55c81.md",
+    "source": "devto",
+    "title": "Swift Conditions — Teaching Your Code How to Make Decisions",
+    "url": "https://dev.to/gamya_m/swift-conditions-teaching-your-code-how-to-make-decisions-171i",
+    "keywords": [
+      "swift conditions — teaching",
+      "swift conditions — teaching",
+      "swift code",
+      "run straight",
+      "real ...",
+      "make decisions",
+      "make decisions",
+      "every time",
+      "code",
+      "code"
+    ],
+    "summary": "# Swift Conditions — Teaching Your Code How to Make Decisions > Source: devto | Category: news | 2026-06-06T16:18:58Z So far our Swift code has run straight from top to bottom — every line executes, every time."
+  },
+  "1623903274cc6491": {
+    "file": "corpus/devto/dev_to_masadashraf_how-to-verify-shopify-webhooks-correctly-_7ec5a7d4dd.md",
+    "source": "devto",
+    "title": "How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong)",
+    "url": "https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm",
+    "keywords": [
+      "verify shopify webhooks correctly",
+      "verify shopify webhooks correctly",
+      "shopify app codebases",
+      "one thing ...",
+      "55z originally published",
+      "stop getting",
+      "stop getting",
+      "wrong",
+      "wrong",
+      "source"
+    ],
+    "summary": "# How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong) > Source: devto | Category: news | 2026-06-06T16:18:55Z Originally published on KolachiTech     I have reviewed a lot of Shopify app codebases."
+  },
+  "4103a95a822f9953": {
+    "file": "corpus/devto/dev_to_rahil_pirani_c48446facc8c_the-challenges-of-creating-_c8b4037fe9.md",
+    "source": "devto",
+    "title": "The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize.",
+    "url": "https://dev.to/rahil_pirani_c48446facc8c/the-challenges-of-creating-a-semantic-memory-layer-on-cloudflare-workers-d1-and-vectorize-3c7a",
+    "keywords": [
+      "semantic memory layer",
+      "semantic memory layer",
+      "main concept",
+      "embed text",
+      "cloudflare workers",
+      "cloudflare workers",
+      "vectorize",
+      "vectorize",
+      "vector",
+      "straightforward"
+    ],
+    "summary": "# The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize. > Source: devto | Category: news | 2026-06-06T16:18:55Z The main concept is straightforward: embed text, store the vector, and query it later."
+  },
+  "c1c18985290da8af": {
+    "file": "corpus/devto/dev_to_brixmavu_5-principles-of-survival-for-software-engine_2ab9777aac.md",
+    "source": "devto",
+    "title": "5 Principles of Survival for Software Engineers",
+    "url": "https://dev.to/brixmavu/5-principles-of-survival-for-software-engineers-9l8",
+    "keywords": [
+      "tech hype takes",
+      "software engineers",
+      "software engineers",
+      "roadmap shifts",
+      "5 principles",
+      "5 principles",
+      "principles",
+      "survive",
+      "survival"
+    ],
+    "summary": "# 5 Principles of Survival for Software Engineers Your stack won’t save you. Here is how to survive when prod is on fire, the roadmap shifts, and tech hype takes over."
+  },
+  "db818ef7490137aa": {
+    "file": "corpus/devto/dev_to_muggleai_i-spent-200-in-two-hours-watching-a-coding-a_44dd9493f7.md",
+    "source": "devto",
+    "title": "I Spent $200 in Two Hours Watching a Coding Agent Guess",
+    "url": "https://dev.to/muggleai/i-spent-200-in-two-hours-watching-a-coding-agent-guess-285o",
+    "keywords": [
+      "coding agent guess",
+      "coding agent guess",
+      "two hours watching",
+      "two hours watching",
+      "two hours ....",
+      "two hours",
+      "one bug",
+      "bug",
+      "still",
+      "spent"
+    ],
+    "summary": "# I Spent $200 in Two Hours Watching a Coding Agent Guess > Source: devto | Category: news | 2026-06-06T16:18:54Z I spent $200 in two hours and the bug was still there at the end of it."
+  },
+  "132607a29966d2e9": {
+    "file": "corpus/devto/dev_to_backboardio_chat-with-your-documents-agentic-rag-in-a_44c9092717.md",
+    "source": "devto",
+    "title": "Chat with your documents: agentic RAG in a few lines",
+    "url": "https://dev.to/backboardio/chat-with-your-documents-agentic-rag-in-a-few-lines-10in",
+    "keywords": [
+      "vector database",
+      "retrieval ...",
+      "agentic rag",
+      "agentic rag",
+      "54z rag",
+      "store",
+      "source",
+      "run",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Chat with your documents: agentic RAG in a few lines > Source: devto | Category: news | 2026-06-06T16:18:54Z RAG is not new."
+  },
+  "831e51c8f76b81b2": {
+    "file": "corpus/devto/dev_to_andrewll_launching-a-website-on-aws-in-2026-the-compl_2dc04a85f9.md",
+    "source": "devto",
+    "title": "Launching a Website on AWS in 2026: The Complete Guide for All Skill Levels",
+    "url": "https://dev.to/andrewll/launching-a-website-on-aws-in-2026-the-complete-guide-for-all-skill-levels-1n9p",
+    "keywords": [
+      "upfront server costs ...",
+      "longer requires thousands",
+      "skill levels",
+      "skill levels",
+      "complete guide",
+      "complete guide",
+      "scalable website",
+      "58z launching",
+      "website",
+      "website"
+    ],
+    "summary": "# Launching a Website on AWS in 2026: The Complete Guide for All Skill Levels > Source: devto | Category: news | 2026-06-06T16:18:58Z Launching a fast, secure, and scalable website no longer requires thousands in upfront server costs..."
+  },
+  "4bd2cde8659556de": {
+    "file": "corpus/devto/dev_to_flavien_guillon_333689cbb_ariaml-an-html-fork-n3j_922e75f757.md",
+    "source": "devto",
+    "title": "AriaML: An HTML fork for a safe, resilient, and accessible web",
+    "url": "https://dev.to/flavien_guillon_333689cbb/ariaml-an-html-fork-n3j",
+    "keywords": [
+      "aria markup language",
+      "language derived",
+      "bridge ...",
+      "accessible web",
+      "accessible web",
+      "html fork",
+      "html fork",
+      "html",
+      "source",
+      "safe"
+    ],
+    "summary": "# AriaML: An HTML fork for a safe, resilient, and accessible web > Source: devto | Category: news | 2026-06-06T16:18:55Z Aria Markup Language is a language derived from HTML, designed to bridge..."
+  },
+  "15b9780a74b84430": {
+    "file": "corpus/devto/dev_to_front-line_ransomware-wiped-a-clients-entire-server-i_77abf3ebe6.md",
+    "source": "devto",
+    "title": "Ransomware wiped a client's entire server. I rebuilt it solo in 2 months.",
+    "url": "https://dev.to/front-line/ransomware-wiped-a-clients-entire-server-i-rebuilt-it-solo-in-2-months-51n",
+    "keywords": [
+      "ransomware wiped",
+      "ransomware wiped",
+      "entire server",
+      "entire server",
+      "backups stale",
+      "actually means",
+      "2 months",
+      "2 months",
+      "recovery alone",
+      "recovery"
+    ],
+    "summary": "# Ransomware wiped a client's entire server. I rebuilt it solo in 2 months. A live product got encrypted overnight — source code gone, backups stale."
+  },
+  "e080272ae0195b8f": {
+    "file": "corpus/devto/dev_to_rykelly_why-project-based-learning-works-how-i-built-_985a8c0154.md",
+    "source": "devto",
+    "title": "Why Project-based learning works: How I Built a Live Platform while learning Go.",
+    "url": "https://dev.to/rykelly/why-project-based-learning-works-how-i-built-a-live-platform-while-learning-go-d4f",
+    "keywords": [
+      "kenyan university students —",
+      "based learning works",
+      "based learning works",
+      "world education platform",
+      "learning go",
+      "learning go",
+      "live platform",
+      "live platform",
+      "never ...",
+      "54z building"
+    ],
+    "summary": "# Why Project-based learning works: How I Built a Live Platform while learning Go. > Source: devto | Category: news | 2026-06-06T16:18:54Z Building a real-world education platform for Kenyan university students — in a language I'd never..."
+  },
+  "99e196e0072528b8": {
+    "file": "corpus/devto/dev_to_sehawq_i-was-rewriting-the-same-database-plumbing-in-_2cc7d4148d.md",
+    "source": "devto",
+    "title": "I was rewriting the same database plumbing in every Electron app, so I built NookDB",
+    "url": "https://dev.to/sehawq/i-was-rewriting-the-same-database-plumbing-in-every-electron-app-so-i-built-nookdb-59k4",
+    "keywords": [
+      "55z every electron app",
+      "every electron app",
+      "every electron app",
+      "every time",
+      "database plumbing",
+      "database plumbing",
+      "database .\"",
+      "built reached",
+      "built nookdb",
+      "built nookdb"
+    ],
+    "summary": "# I was rewriting the same database plumbing in every Electron app, so I built NookDB > Source: devto | Category: news | 2026-06-06T16:18:55Z Every Electron app I built reached the same fork: \"okay, now add a database.\""
+  },
+  "e1aa58fd25a9a7af": {
+    "file": "corpus/devto/dev_to_meraki6966_80-of-anthropics-production-code-is-now-wr_84f0da1f3f.md",
+    "source": "devto",
+    "title": "80% of Anthropic's Production Code Is Now Written by Claude. Here Is What That Actually Means for Engineers.",
+    "url": "https://dev.to/meraki6966/80-of-anthropics-production-code-is-now-written-by-claude-here-is-what-that-actually-means-for-46l4",
+    "keywords": [
+      "56z last week",
+      "actually means",
+      "actually means",
+      "production code",
+      "production code",
+      "code",
+      "written",
+      "written",
+      "source",
+      "shipped"
+    ],
+    "summary": "# 80% of Anthropic's Production Code Is Now Written by Claude. Here Is What That Actually Means for Engineers. Last week I shipped a full SaaS module without writing most of the code myself."
   }
 }
