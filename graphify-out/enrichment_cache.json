@@ -52317,5 +52317,1201 @@
       "increase test_concurrency"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-07T08:36:50Z - Revert \"[ci] Increase TEST_CONCURRENCY from 8 to 12 (#94138)\": #94517 Huge thanks to @bgw for helping!"
+  },
+  "f7ffe2377214128f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_06_school-shooting-survivor_a493296ed8.md",
+    "source": "legal",
+    "title": "[ars-policy] School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+    "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "keywords": [
+      "ai system need",
+      "system failed",
+      "system failed",
+      "system failed",
+      "spot weapon",
+      "spot weapon",
+      "spot weapon",
+      "source",
+      "policy",
+      "policy"
+    ],
+    "summary": "# [ars-policy] School shooting survivor sues AI gun detection firm after system failed to spot weapon School shooting survivor sues AI gun detection firm after system failed to spot weapon How accurate does an AI system need to be?"
+  },
+  "e9868931dc5f0d21": {
+    "file": "corpus/hackernews/www_os2museum_com_wp_win16-memory-management_f34bbaf62e.md",
+    "source": "hackernews",
+    "title": "Win16 Memory Management",
+    "url": "http://www.os2museum.com/wp/win16-memory-management/",
+    "keywords": [
+      "win16 memory management",
+      "win16 memory management",
+      "45z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Win16 Memory Management > Source: hackernews | Category: news | 2026-06-07T15:04:45Z Score: 90 | Comments: 46"
+  },
+  "c6d257fab2bf50c3": {
+    "file": "corpus/hackernews/leoveanu_com_2026-06-06-qwen3_7max_1e3afb9a78.md",
+    "source": "hackernews",
+    "title": "The OnlyFans Economy of American AI",
+    "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+    "keywords": [
+      "onlyfans economy",
+      "onlyfans economy",
+      "american ai",
+      "american ai",
+      "45z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The OnlyFans Economy of American AI > Source: hackernews | Category: news | 2026-06-07T15:04:45Z Score: 13 | Comments: 0"
+  },
+  "0426ec9cc3a323af": {
+    "file": "corpus/hackernews/www_kdab_com_how-long-does-it-take-for-an-item-to-become-vis_fd5f02e289.md",
+    "source": "hackernews",
+    "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+    "keywords": [
+      "become visible",
+      "become visible",
+      "47z score",
+      "take",
+      "take",
+      "source",
+      "qquickitem",
+      "qquickitem",
+      "news",
+      "long"
+    ],
+    "summary": "# How Long Does It Take for a QQuickItem to Become Visible? > Source: hackernews | Category: news | 2026-06-07T15:04:47Z Score: 13 | Comments: 0"
+  },
+  "6727a1e2a181296d": {
+    "file": "corpus/hackernews/kyushu_dev_9199a02859.md",
+    "source": "hackernews",
+    "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+    "url": "https://kyushu.dev/",
+    "keywords": [
+      "hostable wasm sandbox",
+      "hostable wasm sandbox",
+      "show hn",
+      "show hn",
+      "kyushu –",
+      "kyushu –",
+      "javascript workers",
+      "javascript workers",
+      "46z score",
+      "source"
+    ],
+    "summary": "# Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers > Source: hackernews | Category: news | 2026-06-07T15:04:46Z Score: 23 | Comments: 15"
+  },
+  "2b9a960e81a9c63b": {
+    "file": "corpus/hackernews/thenewstack_io_netlify-agent-experience-engineers_e049216551.md",
+    "source": "hackernews",
+    "title": "Netlify CTO Dana Lawson: Writing code is no longer the job",
+    "url": "https://thenewstack.io/netlify-agent-experience-engineers/",
+    "keywords": [
+      "netlify cto dana lawson",
+      "netlify cto dana lawson",
+      "writing code",
+      "writing code",
+      "46z score",
+      "source",
+      "news",
+      "longer",
+      "longer",
+      "job"
+    ],
+    "summary": "# Netlify CTO Dana Lawson: Writing code is no longer the job > Source: hackernews | Category: news | 2026-06-07T15:04:46Z Score: 17 | Comments: 14"
+  },
+  "3aa138bdea5049f2": {
+    "file": "corpus/hackernews/yon-lang_org_4fc388fffe.md",
+    "source": "hackernews",
+    "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+    "url": "https://yon-lang.org/",
+    "keywords": [
+      "work took 3 weeks",
+      "never bytes ); deduplication",
+      "lowering passes take everything",
+      "contains unusual data structures",
+      "categorical construct actually becomes",
+      "string equality benches flat",
+      "could influence type theory",
+      "mathematical language could nonetheless",
+      "leech lattice observations ended",
+      "categorical constructs live"
+    ],
+    "summary": "So I explored categories, and topoi, above all starting from Mazzola&#x27;s theory of music. That buys three things I would now find hard to give up: equality is a single machine comparison no matter how big the value is (string equality benches flat at ~17 ns up to 32,768-character strings, because it compares handles, never bytes); deduplication is global and automatic, with no interning logic in user code; and giving up the GC stopped being a renunciation, since cells are immutable and conten"
+  },
+  "001b6646b9d1d87c": {
+    "file": "corpus/hackernews/vim-classic_org_news_vim-8_3-released_html_d1f36f6416.md",
+    "source": "hackernews",
+    "title": "Vim Classic 8.3 Released",
+    "url": "https://vim-classic.org/news/vim-8.3-released.html",
+    "keywords": [
+      "vim classic 8",
+      "vim classic 8",
+      "51z score",
+      "3 released",
+      "3 released",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Vim Classic 8.3 Released > Source: hackernews | Category: news | 2026-06-07T15:04:51Z Score: 13 | Comments: 1"
+  },
+  "19cd13023cbbe497": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_06_07_your-money_chase-bank-tellers-sca_2c9e934dc4.md",
+    "source": "hackernews",
+    "title": "Customers Are Giving Billions to Scammers. Tellers Are Intervening",
+    "url": "https://www.nytimes.com/2026/06/07/your-money/chase-bank-tellers-scams.html",
+    "keywords": [
+      "giving billions",
+      "giving billions",
+      "50z score",
+      "tellers",
+      "tellers",
+      "source",
+      "scammers",
+      "scammers",
+      "news",
+      "intervening"
+    ],
+    "summary": "# Customers Are Giving Billions to Scammers. Tellers Are Intervening > Source: hackernews | Category: news | 2026-06-07T15:04:50Z"
+  },
+  "8873aaa31933ef8c": {
+    "file": "corpus/hackernews/diabetesjournals_org_care_article_49_6_901_164764_Misguided-_b9f178c586.md",
+    "source": "hackernews",
+    "title": "Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
+    "url": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
+    "keywords": [
+      "misguided misstatements continue",
+      "misguided misstatements continue",
+      "dismantle biomedical research",
+      "dismantle biomedical research",
+      "49z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S. > Source: hackernews | Category: news | 2026-06-07T15:04:49Z Score: 24 | Comments: 1"
+  },
+  "11e019ea7373a4fe": {
+    "file": "corpus/hackernews/github_com_devenjarvis_lathe_6f864fc503.md",
+    "source": "hackernews",
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "url": "https://github.com/devenjarvis/lathe",
+    "keywords": [
+      "making embedded zig approachable",
+      "help us think better",
+      "written tutorial exists yet",
+      "lathe – use llms",
+      "lathe – use llms",
+      "claude code &# x2f",
+      "also ask questions",
+      "every tutorial comes",
+      "devenjarvis &# x2f",
+      "devenjarvis &# x2f"
+    ],
+    "summary": "Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). It&#x27;s an LLM, and its output is usually good but not perfect by any means. I run it on Claude Code + macOS personally, other setups should work but I haven&#x27;t been able to verify them yet.<p>If you can find resources to learn something that was written by a human, read that first."
+  },
+  "c4fdc46a61b50e0e": {
+    "file": "corpus/hackernews/writings_stephenwolfram_com_2026_06_games-between-programs-t_7203394911.md",
+    "source": "hackernews",
+    "title": "Games Between Programs: The Ruliology of Competition",
+    "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "keywords": [
+      "50z score",
+      "source",
+      "ruliology",
+      "ruliology",
+      "programs",
+      "programs",
+      "news",
+      "hackernews",
+      "games",
+      "games"
+    ],
+    "summary": "# Games Between Programs: The Ruliology of Competition > Source: hackernews | Category: news | 2026-06-07T15:04:50Z Score: 16 | Comments: 1"
+  },
+  "c6ae292fa86db82b": {
+    "file": "corpus/hackernews/andys_blog_the-best-relationships_ec7b54ff13.md",
+    "source": "hackernews",
+    "title": "The best relationships are all-encompassing.",
+    "url": "https://andys.blog/the-best-relationships/",
+    "keywords": [
+      "best relationships",
+      "best relationships",
+      "47z score",
+      "source",
+      "news",
+      "hackernews",
+      "encompassing",
+      "encompassing",
+      "comments",
+      "category"
+    ],
+    "summary": "# The best relationships are all-encompassing. > Source: hackernews | Category: news | 2026-06-07T15:04:47Z Score: 13 | Comments: 4"
+  },
+  "862c3a15a66b04fd": {
+    "file": "corpus/hackernews/antirez_com_news_168_e88b2d6e76.md",
+    "source": "hackernews",
+    "title": "Automated QA and Testing with AI",
+    "url": "https://antirez.com/news/168",
+    "keywords": [
+      "automated qa",
+      "automated qa",
+      "52z score",
+      "testing",
+      "testing",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Automated QA and Testing with AI > Source: hackernews | Category: news | 2026-06-07T15:04:52Z Score: 10 | Comments: 3"
+  },
+  "2ed51a99f790710c": {
+    "file": "corpus/hackernews/www_johndcook_com_blog_2026_06_04_partitions-over-permutatio_6d6e7fd767.md",
+    "source": "hackernews",
+    "title": "Partitions over Permutations",
+    "url": "https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/",
+    "keywords": [
+      "48z score",
+      "source",
+      "permutations",
+      "permutations",
+      "partitions",
+      "partitions",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Partitions over Permutations > Source: hackernews | Category: news | 2026-06-07T15:04:48Z Score: 3 | Comments: 0"
+  },
+  "4804de18a14d4a3b": {
+    "file": "corpus/hackernews/github_com_anthropics_claude-code_issues_65697_003043e1b7.md",
+    "source": "hackernews",
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "keywords": [
+      "official claude desktop",
+      "official claude desktop",
+      "please ship",
+      "please ship",
+      "45z score",
+      "source",
+      "news",
+      "linux",
+      "linux",
+      "hackernews"
+    ],
+    "summary": "# Anthropic, please ship an official Claude Desktop for Linux > Source: hackernews | Category: news | 2026-06-07T15:04:45Z Score: 140 | Comments: 57"
+  },
+  "30c56e7f22542f07": {
+    "file": "corpus/hackernews/human-in-the-loop_bearblog_dev_llms-are-eroding-my-software-_14a3979cc4.md",
+    "source": "hackernews",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "keywords": [
+      "software engineering career",
+      "software engineering career",
+      "45z score",
+      "source",
+      "news",
+      "llms",
+      "llms",
+      "know",
+      "know",
+      "hackernews"
+    ],
+    "summary": "# LLMs are eroding my software engineering career and I don't know what to do > Source: hackernews | Category: news | 2026-06-07T15:04:45Z Score: 331 | Comments: 259"
+  },
+  "20852b3fba0d7142": {
+    "file": "corpus/hackernews/theamphour_com_725-the-secret-life-of-circuits-with-lcamtuf-_7d4d512bdf.md",
+    "source": "hackernews",
+    "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+    "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+    "keywords": [
+      "secret life",
+      "secret life",
+      "michał zalewski",
+      "michał zalewski",
+      "audio interview",
+      "audio interview",
+      "48z score",
+      "source",
+      "news",
+      "lcamtuf"
+    ],
+    "summary": "# The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview) > Source: hackernews | Category: news | 2026-06-07T15:04:48Z Score: 26 | Comments: 4"
+  },
+  "09773f7f3618fe02": {
+    "file": "corpus/hackernews/github_com_a-yiorgos_wambook_528220d091.md",
+    "source": "hackernews",
+    "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
+    "url": "https://github.com/a-yiorgos/wambook",
+    "keywords": [
+      "tutorial reconstruction",
+      "tutorial reconstruction",
+      "abstract machine",
+      "abstract machine",
+      "48z score",
+      "warren",
+      "warren",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Warren's Abstract Machine: A Tutorial Reconstruction > Source: hackernews | Category: news | 2026-06-07T15:04:48Z Score: 29 | Comments: 4"
+  },
+  "b39597cead52cd99": {
+    "file": "corpus/hackernews/arstechnica_com_science_2026_06_scientists-ejected-from-diab_d8964241e1.md",
+    "source": "hackernews",
+    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+    "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+    "keywords": [
+      "distributing journal reprints",
+      "distributing journal reprints",
+      "scientists ejected",
+      "scientists ejected",
+      "diabetes conference",
+      "diabetes conference",
+      "49z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Scientists ejected from diabetes conference for distributing journal reprints > Source: hackernews | Category: news | 2026-06-07T15:04:49Z Score: 244 | Comments: 164"
+  },
+  "2ad36c3872b17eeb": {
+    "file": "corpus/hackernews/arxiv_org_abs_2606_04299_863484a73b.md",
+    "source": "hackernews",
+    "title": "Efficient and Training-Free Single-Image Diffusion Models",
+    "url": "https://arxiv.org/abs/2606.04299",
+    "keywords": [
+      "image diffusion models",
+      "image diffusion models",
+      "free single",
+      "free single",
+      "48z score",
+      "training",
+      "training",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Efficient and Training-Free Single-Image Diffusion Models > Source: hackernews | Category: news | 2026-06-07T15:04:48Z Score: 24 | Comments: 0"
+  },
+  "6757f240f0fef0c8": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_c0xmo-botnet-spreads-_af428b1714.md",
+    "source": "security",
+    "title": "[bleeping-comp] C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+    "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+    "keywords": [
+      "gafgyt botnet called c0xmo",
+      "wrt router flaw",
+      "wrt router flaw",
+      "wrt router flaw",
+      "wrt router firmware",
+      "various cpu architectures",
+      "kills rival malware",
+      "kills rival malware",
+      "kills rival malware",
+      "targeting dd"
+    ],
+    "summary": "# [bleeping-comp] C0XMO botnet spreads via DD-WRT router flaw, kills rival malware C0XMO botnet spreads via DD-WRT router flaw, kills rival malware A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures."
+  },
+  "8a28ebbe61593f91": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_silent-ransom-group-t_26ae46ece1.md",
+    "source": "security",
+    "title": "[bleeping-comp] Silent Ransom Group targets law firms with fake IT support calls",
+    "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+    "keywords": [
+      "data theft within hours",
+      "social engineering attacks",
+      "professional services organizations",
+      "cybersecurity firm mandiant",
+      "actively targeting u",
+      "support calls",
+      "support calls",
+      "support calls",
+      "often lead",
+      "new report"
+    ],
+    "summary": "# [bleeping-comp] Silent Ransom Group targets law firms with fake IT support calls Silent Ransom Group targets law firms with fake IT support calls The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant."
+  },
+  "5fdac6a2ec1764fd": {
+    "file": "corpus/ai-research/huggingface_co_blog_build-small-hackathon_sponsors-vouchers_f3ba2a723e.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+    "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+    "keywords": [
+      "openai challange",
+      "openai challange",
+      "openai challange",
+      "source",
+      "research",
+      "research",
+      "codex",
+      "codex"
+    ],
+    "summary": "# [hf-blog] Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange > Source: ai-research | Category: research | 2026-06-07T15:04:46Z Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange"
+  },
+  "5cc0c14c1ddd2c54": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_father-of-the-ipod-and-iphone-on_64b266b468.md",
+    "source": "sales",
+    "title": "[lennys] Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+    "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+    "keywords": [
+      "still need screens",
+      "rule behind everything",
+      "tony fadell listen",
+      "tony fadell",
+      "tony fadell",
+      "three generations",
+      "opinion vs",
+      "marketing matters",
+      "data decisions",
+      "building taste"
+    ],
+    "summary": "# [lennys] Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens"
+  },
+  "8c000670d0b129d4": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-what-quota-should-i-give-to-my-en_6b5ec14204.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps?",
+    "url": "https://www.saastr.com/dear-saastr-what-quota-should-i-give-to-my-enterprise-sales-reps/",
+    "keywords": [
+      "deal ... continue reading",
+      "quotas typically range",
+      "exact number depends",
+      "enterprise sales reps",
+      "enterprise sales reps",
+      "enterprise sales reps",
+      "enterprise sales reps",
+      "enterprise sales reps",
+      "48z dear saastr",
+      "dear saastr"
+    ],
+    "summary": "Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps? For enterprise sales reps, quotas typically range from 3x to 5x their fully burdened on-target earnings (OTE). This means if your rep’s OTE is $200K, their annual quota should be somewhere between $600K and $1M in bookings."
+  },
+  "76634c96ac8c3a3e": {
+    "file": "corpus/sales/www_saastr_com_top-10-takeaways-from-the-agents-006-the-numb_45cf76597e.md",
+    "source": "sales",
+    "title": "[saastr] Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
+    "url": "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/",
+    "keywords": [
+      "48z top 10 takeaways",
+      "top 10 takeaways",
+      "top 10 takeaways",
+      "entire bi workflow",
+      "actual back ends",
+      "... continue reading",
+      "market agent stack",
+      "market agent stack",
+      "market agent stack",
+      "10 takeaways"
+    ],
+    "summary": "On the latest episode of The Agents, we walked through the actual back ends of our top go-to-market agents: commit counts, API stacks, monthly costs, and live demos. We run SaaStr with 3 humans and 20+ AI agents. 10K replaced an entire BI workflow for...   Continue Reading"
+  },
+  "79129911fe66f5b2": {
+    "file": "corpus/sales/www_saastr_com_22-tools-3m-in-fees-11-ops-people-aurasells-c_e43802b52c.md",
+    "source": "sales",
+    "title": "[saastr] 22 Tools. $3M in Fees. 11 Ops People. Aurasell CEO’s Case for Killing the GTM Stack",
+    "url": "https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/",
+    "keywords": [
+      "sell ... continue reading",
+      "ceo jason eubanks skipped",
+      "aurasell ceo ’",
+      "aurasell ceo ’",
+      "aurasell ceo ’",
+      "11 ops people",
+      "11 ops people",
+      "11 ops people",
+      "48z 22 tools",
+      "saastr ai 2026"
+    ],
+    "summary": "Aurasell CEO’s Case for Killing the GTM Stack Aurasell CEO’s Case for Killing the GTM Stack He put the exact go-to-market stack he ran at his last company on screen, what it cost to run, and why he thinks the whole model is about to come apart."
+  },
+  "c5f246745ee1d9a3": {
+    "file": "corpus/devto/dev_to_mustafa_bahaa_syncing-ai-agents-across-claude-gemini-_74a271fa62.md",
+    "source": "devto",
+    "title": "Syncing AI agents across Claude, Gemini, and Cursor",
+    "url": "https://dev.to/mustafa_bahaa/syncing-ai-agents-across-claude-gemini-and-cursor-3d0j",
+    "keywords": [
+      "using one",
+      "source",
+      "reactions",
+      "news",
+      "might",
+      "gemini",
+      "gemini",
+      "devto",
+      "cursor",
+      "cursor"
+    ],
+    "summary": "# Syncing AI agents across Claude, Gemini, and Cursor > Source: devto | Category: news | 2026-06-07T15:04:55Z If you are using AI coding assistants today, chances are you aren't just using one."
+  },
+  "f7dddc0e66a818c9": {
+    "file": "corpus/devto/dev_to_vinayiitkgp_soc-in-a-box-one-llm-eight-hats-a-product_4f1e6ddc25.md",
+    "source": "devto",
+    "title": "SOC-in-a-Box: One LLM, Eight Hats, A Production-Bar AI SOC on a Single GPU",
+    "url": "https://dev.to/vinayiitkgp/soc-in-a-box-one-llm-eight-hats-a-production-bar-ai-soc-on-a-single-gpu-4jl4",
+    "keywords": [
+      "bar ai soc",
+      "bar ai soc",
+      "single gpu",
+      "single gpu",
+      "one llm",
+      "one llm",
+      "deeper ...",
+      "54z tl",
+      "eight hats",
+      "eight hats"
+    ],
+    "summary": "# SOC-in-a-Box: One LLM, Eight Hats, A Production-Bar AI SOC on a Single GPU > Source: devto | Category: news | 2026-06-07T15:04:54Z TL;DR   A real SOC runs 24×7 with eight or nine distinct roles — alert triage, deeper..."
+  },
+  "b71a49284bc2923e": {
+    "file": "corpus/devto/dev_to_pineforge_we-transpiled-pinescript-v6-to-c-so-backtes_e7db9be366.md",
+    "source": "devto",
+    "title": "We Transpiled PineScript v6 to C++ So Backtests Are Actually Reproducible",
+    "url": "https://dev.to/pineforge/we-transpiled-pinescript-v6-to-c-so-backtests-are-actually-reproducible-5chf",
+    "keywords": [
+      "transpiled pinescript v6",
+      "transpiled pinescript v6",
+      "transpiled pinescript v6",
+      "actually reproducible tradingview",
+      "actually reproducible",
+      "actually reproducible",
+      "c ++",
+      "c ++",
+      "c ++",
+      "source"
+    ],
+    "summary": "# We Transpiled PineScript v6 to C++ So Backtests Are Actually Reproducible > Source: devto | Category: news | 2026-06-07T15:04:56Z We Transpiled PineScript v6 to C++ So Backtests Are Actually Reproducible   TradingView's..."
+  },
+  "9b6316e74c6f4735": {
+    "file": "corpus/devto/dev_to_kielltampubolon_solstice-a-game-about-holding-the-lig_f40e760665.md",
+    "source": "devto",
+    "title": "Solstice — A Game About Holding the Light",
+    "url": "https://dev.to/kielltampubolon/solstice-a-game-about-holding-the-light-55dg",
+    "keywords": [
+      "june solstice game jam",
+      "solstice —",
+      "solstice —",
+      "darkness takes",
+      "game",
+      "game",
+      "source",
+      "reactions",
+      "news",
+      "long"
+    ],
+    "summary": "# Solstice — A Game About Holding the Light A minimalist HTML5 Canvas survival game built for the June Solstice Game Jam. Hold the light as long as you can before darkness takes you."
+  },
+  "ec28e4c79b152dbd": {
+    "file": "corpus/devto/dev_to_he4rt_de-6-horas-para-40-segundos-como-um-indice-de-b_71c9ecea31.md",
+    "source": "devto",
+    "title": "De 6 horas para 40 segundos: como um índice de banco de dados salvou um job crítico de produção",
+    "url": "https://dev.to/he4rt/de-6-horas-para-40-segundos-como-um-indice-de-banco-de-dados-salvou-um-job-critico-de-producao-c90",
+    "keywords": [
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026",
+      "07t15"
+    ],
+    "summary": "# De 6 horas para 40 segundos: como um índice de banco de dados salvou um job crítico de produção > Source: devto | Category: news | 2026-06-07T15:04:55Z De 6 horas para 40 segundos: como um índice de banco de dados salvou um job crítico de..."
+  },
+  "f0913f0dd571d6d3": {
+    "file": "corpus/devto/dev_to_eternalsix_10-prompt-patterns-i-use-every-single-day-_aae1d5b7ef.md",
+    "source": "devto",
+    "title": "10 prompt patterns I use every single day",
+    "url": "https://dev.to/eternalsix/10-prompt-patterns-i-use-every-single-day-3996",
+    "keywords": [
+      "use every single day",
+      "use every single day",
+      "spent 40 minutes arguing",
+      "55z 10 prompt patterns",
+      "10 prompt patterns",
+      "10 prompt patterns",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# 10 prompt patterns I use every single day > Source: devto | Category: news | 2026-06-07T15:04:55Z 10 Prompt Patterns I Use Every Single Day   Last Tuesday I spent 40 minutes arguing with..."
+  },
+  "2b589bc5f88df7bb": {
+    "file": "corpus/devto/dev_to_fisher092_how-i-built-a-multiplayer-aquarium-where-th_803d5ca5f1.md",
+    "source": "devto",
+    "title": "How I built a multiplayer aquarium where the internet draws the fish 🐟",
+    "url": "https://dev.to/fisher092/how-i-built-a-multiplayer-aquarium-where-the-internet-draws-the-fish-5g84",
+    "keywords": [
+      "53z hey dev community",
+      "👋 sometimes",
+      "multiplayer aquarium",
+      "multiplayer aquarium",
+      "internet feels",
+      "internet draws",
+      "internet draws",
+      "fish 🐟",
+      "fish 🐟",
+      "source"
+    ],
+    "summary": "# How I built a multiplayer aquarium where the internet draws the fish 🐟 > Source: devto | Category: news | 2026-06-07T15:04:53Z 👋   Sometimes, the internet feels a bit too serious, too algorithm-driven, and too..."
+  },
+  "40c0a6f20b6c1ade": {
+    "file": "corpus/devto/dev_to_zaiqltd_how-we-built-a-gate-accurate-game-boy-emulato_c3abf8a9f0.md",
+    "source": "devto",
+    "title": "How we built a gate-accurate Game Boy emulator in Rust (and got dmg-acid2 pixel-perfect)",
+    "url": "https://dev.to/zaiqltd/how-we-built-a-gate-accurate-game-boy-emulator-in-rust-and-got-dmg-acid2-pixel-perfect-31l",
+    "keywords": [
+      "game boy color emulator",
+      "accurate game boy emulator",
+      "accurate game boy emulator",
+      "game boy",
+      "got dmg",
+      "got dmg",
+      "engineering studio",
+      "acid2 pixel",
+      "acid2 pixel",
+      "built revenant"
+    ],
+    "summary": "# How we built a gate-accurate Game Boy emulator in Rust (and got dmg-acid2 pixel-perfect) We are Zaiq, an engineering studio. We built Revenant, a Game Boy and Game Boy Color emulator, from..."
+  },
+  "dd7cc738f999729f": {
+    "file": "corpus/devto/dev_to_c1b9e06dc90a7e0a676b_my-support-bot-kept-making-stuff_967c516703.md",
+    "source": "devto",
+    "title": "My Support Bot Kept Making Stuff Up — Here's How I Fixed It",
+    "url": "https://dev.to/__c1b9e06dc90a7e0a676b/my-support-bot-kept-making-stuff-up-heres-how-i-fixed-it-31ij",
+    "keywords": [
+      "customer support bot",
+      "user ’",
+      "recently spent",
+      "month building",
+      "theory",
+      "take",
+      "source",
+      "simple"
+    ],
+    "summary": "# My Support Bot Kept Making Stuff Up — Here's How I Fixed It I recently spent a month building a customer support bot. In theory, it was simple: take a user’s..."
+  },
+  "3511b5a861bae6fd": {
+    "file": "corpus/devto/dev_to_shubham399_turning-your-ai-into-an-adversarial-securi_95b14894bf.md",
+    "source": "devto",
+    "title": "Turning Your AI Into an Adversarial Security Agent: The SKILLS.md Framework",
+    "url": "https://dev.to/shubham399/turning-your-ai-into-an-adversarial-security-agent-the-skillsmd-framework-2058",
+    "keywords": [
+      "adversarial security agent",
+      "adversarial security agent",
+      "md framework",
+      "md framework",
+      "turning",
+      "turning",
+      "source",
+      "skills",
+      "skills",
+      "reactions"
+    ],
+    "summary": "# Turning Your AI Into an Adversarial Security Agent: The SKILLS.md Framework > Source: devto | Category: news | 2026-06-07T15:04:52Z A continuation of: Breaking to Build: How CTF and Bug Bounty Hunting Rewires System Design  In my..."
+  },
+  "cd0ace0891289f36": {
+    "file": "corpus/devto/dev_to_merbayerp_distributed-systems-idempotency-design-3-pr_adab7fbfa7.md",
+    "source": "devto",
+    "title": "Distributed Systems Idempotency Design: 3 Practical Ways",
+    "url": "https://dev.to/merbayerp/distributed-systems-idempotency-design-3-practical-ways-415",
+    "keywords": [
+      "distributed systems idempotency design",
+      "distributed systems idempotency design",
+      "3 practical ways",
+      "3 practical ways",
+      "distributed architecture",
+      "work",
+      "source",
+      "reactions",
+      "news",
+      "network"
+    ],
+    "summary": "# Distributed Systems Idempotency Design: 3 Practical Ways > Source: devto | Category: news | 2026-06-07T15:04:55Z If you work in a distributed architecture, you have to assume that the network can drop at any..."
+  },
+  "4a99641cc2b943ea": {
+    "file": "corpus/devto/dev_to_pavel_piliak_6bf36833ab7f_i-built-a-local-index-of-my_90d307e733.md",
+    "source": "devto",
+    "title": "I built a local index of my own work, then plugged it into Claude Code",
+    "url": "https://dev.to/pavel_piliak_6bf36833ab7f/i-built-a-local-index-of-my-own-work-then-plugged-it-into-claude-code-4moc",
+    "keywords": [
+      "local index",
+      "local index",
+      "expensive part",
+      "claude code",
+      "claude code",
+      "work",
+      "work",
+      "trying",
+      "switch",
+      "starting"
+    ],
+    "summary": "# I built a local index of my own work, then plugged it into Claude Code > Source: devto | Category: news | 2026-06-07T15:04:55Z I switch between projects a lot, and the most expensive part of starting a session is trying to..."
+  },
+  "2df9268e21ed3d08": {
+    "file": "corpus/devto/dev_to_connectengine_im-rotating-three-of-my-own-secrets-thi_a6527f0332.md",
+    "source": "devto",
+    "title": "I'm rotating three of my own secrets this week. Three keys ended up where they didn't belong, I caught it fast, and I have a ...",
+    "url": "https://dev.to/connectengine/im-rotating-three-of-my-own-secrets-this-week-three-keys-ended-up-where-they-didnt-belong-i-2797",
+    "keywords": [
+      "three keys ended",
+      "three keys ended",
+      "rotating three",
+      "rotating three",
+      "stop procrastinating",
+      "finally made",
+      "cisa leak",
+      "week",
+      "week",
+      "source"
+    ],
+    "summary": "# I'm rotating three of my own secrets this week. Three keys ended up where they didn't belong, I caught it fast, and I have a ... What finally made me stop procrastinating on it was reading about the CISA leak."
+  },
+  "22c60d9bccbfcb4b": {
+    "file": "corpus/devto/dev_to_hitanshugedam_intercepting-communication-on-pwncolleg_47ae461753.md",
+    "source": "devto",
+    "title": "Intercepting Communication on pwn.college's Intro to Cybersecurity Dojo",
+    "url": "https://dev.to/hitanshugedam/intercepting-communication-on-pwncolleges-intro-to-cybersecurity-dojo-n3",
+    "keywords": [
+      "track inside ...",
+      "recently completed pwn",
+      "intercepting communication",
+      "intercepting communication",
+      "intercepting communication",
+      "cybersecurity dojo",
+      "cybersecurity dojo",
+      "55z introduction",
+      "pwn",
+      "pwn"
+    ],
+    "summary": "# Intercepting Communication on pwn.college's Intro to Cybersecurity Dojo > Source: devto | Category: news | 2026-06-07T15:04:55Z Introduction   I recently completed pwn.college's \"Intercepting Communication\" track inside..."
+  },
+  "d0b2cbfaa87d877b": {
+    "file": "corpus/devto/dev_to_chicks_shell-programming-best-practices-2d8e_8e45bc6246.md",
+    "source": "devto",
+    "title": "Shell Programming Best Practices",
+    "url": "https://dev.to/chicks/shell-programming-best-practices-2d8e",
+    "keywords": [
+      "shell programming best practices",
+      "shell programming best practices",
+      "usually happy",
+      "qualifications since",
+      "avoid reminding",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Shell Programming Best Practices > Source: devto | Category: news | 2026-06-07T15:04:52Z My Qualifications   Since this is my own blog I'm usually happy to avoid reminding you of..."
+  },
+  "9b6d02ae332b961c": {
+    "file": "corpus/devto/dev_to_bumbulik0_beyond-the-8x-productivity-myth-a-40-year-p_b5d217e114.md",
+    "source": "devto",
+    "title": "Beyond the 8x Productivity Myth: A 40-Year Perspective on Recursive AI and the 'Craft' of Engineering",
+    "url": "https://dev.to/bumbulik0/beyond-the-8x-productivity-myth-a-40-year-perspective-on-recursive-ai-and-the-craft-of-bk8",
+    "keywords": [
+      "8x productivity myth",
+      "8x productivity myth",
+      "year perspective",
+      "year perspective",
+      "recursive ai",
+      "recursive ai",
+      "professional journey",
+      "52z introduction",
+      "started",
+      "source"
+    ],
+    "summary": "# Beyond the 8x Productivity Myth: A 40-Year Perspective on Recursive AI and the \"Craft\" of Engineering > Source: devto | Category: news | 2026-06-07T15:04:52Z Introduction: The Ghost in the Codebase   I started my professional journey in 1986."
+  },
+  "78dfba3ed698b28f": {
+    "file": "corpus/devto/dev_to_sudarshan_thakur_1e141b99_setting-up-continuous-terra_8c1bae99ad.md",
+    "source": "devto",
+    "title": "Setting Up Continuous Terraform Drift Monitoring With GitHub Actions and Slack",
+    "url": "https://dev.to/sudarshan_thakur_1e141b99/setting-up-continuous-terraform-drift-monitoring-with-github-actions-and-slack-5af3",
+    "keywords": [
+      "teams discover terraform drift",
+      "continuous terraform drift monitoring",
+      "continuous terraform drift monitoring",
+      "github actions",
+      "github actions",
+      "source",
+      "slack",
+      "slack",
+      "setting",
+      "setting"
+    ],
+    "summary": "# Setting Up Continuous Terraform Drift Monitoring With GitHub Actions and Slack > Source: devto | Category: news | 2026-06-07T15:04:54Z Most teams discover Terraform drift the hard way — someone runs terraform plan before a deploy and..."
+  },
+  "e1773e4639d7f121": {
+    "file": "corpus/devto/dev_to_haroffcode_deploying-a-production-grade-containerized_4559c58274.md",
+    "source": "devto",
+    "title": "Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge",
+    "url": "https://dev.to/haroffcode/deploying-a-production-grade-containerized-system-on-aws-ecs-fargate-alb-rds-elasticache--4fjb",
+    "keywords": [
+      "grade containerized system",
+      "grade containerized system",
+      "python 3",
+      "ecs fargate",
+      "ecs fargate",
+      "54z author",
+      "source",
+      "reactions",
+      "rds",
+      "rds"
+    ],
+    "summary": "# Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge > Source: devto | Category: news | 2026-06-07T15:04:54Z Author: Arafat Olayiwola — 5x AWS Community Builder Stack: Python 3.12 · FastAPI · Docker · AWS ECS..."
+  },
+  "1ef09dc9f3ba1deb": {
+    "file": "corpus/devto/dev_to_decimozs_i-broke-a-chatbot-with-a-prompt-change-then-_21f2f71017.md",
+    "source": "devto",
+    "title": "I Broke a Chatbot With a Prompt Change. Then I Built the Tool That Would've Caught It.",
+    "url": "https://dev.to/decimozs/i-broke-a-chatbot-with-a-prompt-change-then-i-built-the-tool-that-wouldve-caught-it-m1g",
+    "keywords": [
+      "giving wrong ...",
+      "user filed",
+      "system prompt",
+      "prompt change",
+      "prompt change",
+      "would",
+      "would",
+      "updated",
+      "tool",
+      "tool"
+    ],
+    "summary": "Then I Built the Tool That Would've Caught It. > Source: devto | Category: news | 2026-06-07T15:04:54Z By Monday, a user filed a bug: the chatbot was giving wrong..."
+  },
+  "f4878af0954a2e69": {
+    "file": "corpus/devto/dev_to_xulingfeng_our-vp-said-ai-would-test-itself-i-raised-_b484c9dbbf.md",
+    "source": "devto",
+    "title": "Our VP Said AI Would Test Itself. I Raised My Hand. I Got Reassigned. Day 3 Cost $2.8M. I Had the Screenshots Ready.",
+    "url": "https://dev.to/xulingfeng/our-vp-said-ai-would-test-itself-i-raised-my-hand-i-got-reassigned-day-3-cost-28m-i-had-the-555j",
+    "keywords": [
+      "real software development trends",
+      "day 3 cost",
+      "day 3 cost",
+      "screenshots ready",
+      "screenshots ready",
+      "got reassigned",
+      "got reassigned",
+      "52z based",
+      "source"
+    ],
+    "summary": "# Our VP Said AI Would Test Itself. Based on real software development trends. About a VP of Engineering who believed AI would verify..."
+  },
+  "48a4b6b20941c79c": {
+    "file": "corpus/devto/dev_to_sohanaakbar7_ingress-vs-service-vs-loadbalancer-expla_ceb236d7ea.md",
+    "source": "devto",
+    "title": "Ingress vs Service vs LoadBalancer — explained for devs who hate ops",
+    "url": "https://dev.to/sohanaakbar7/ingress-vs-service-vs-loadbalancer-explained-for-devs-who-hate-ops-5g97",
+    "keywords": [
+      "55z let ’",
+      "someone handed",
+      "hate ops",
+      "hate ops",
+      "want",
+      "talk",
+      "source",
+      "reactions",
+      "news",
+      "internet"
+    ],
+    "summary": "# Ingress vs Service vs LoadBalancer — explained for devs who hate ops Let’s be honest: you just want your container to talk to the internet. Instead, someone handed you a..."
+  },
+  "ddda10a34aab072c": {
+    "file": "corpus/devto/dev_to_valenleyes_how-i-bypassed-browser-ram-limits-to-forma_1b8365fc4e.md",
+    "source": "devto",
+    "title": "How I Bypassed Browser RAM Limits to Format 1.5GB+ XML Files Using Streams & IndexedDB",
+    "url": "https://dev.to/valenleyes/how-i-bypassed-browser-ram-limits-to-format-15gb-xml-files-using-streams-indexeddb-3dia",
+    "keywords": [
+      "xml files using streams",
+      "xml files using streams",
+      "file exceeds 10mb ...",
+      "bypassed browser ram limits",
+      "bypassed browser ram limits",
+      "browser tab",
+      "format 1",
+      "format 1",
+      "source",
+      "soon"
+    ],
+    "summary": "# How I Bypassed Browser RAM Limits to Format 1.5GB+ XML Files Using Streams & IndexedDB > Source: devto | Category: news | 2026-06-07T15:04:53Z Most standard online XML beautifiers fail or freeze your browser tab as soon as a file exceeds 10MB..."
+  },
+  "8d9a92d3d67b247f": {
+    "file": "corpus/devto/dev_to_arihantdeva_4-posts-to-the-wrong-audience-fixing-bran_ab2d5ab2ad.md",
+    "source": "devto",
+    "title": "4 posts to the wrong audience: fixing brand safety drift in Mastodon syndication",
+    "url": "https://dev.to/arihantdeva/4-posts-to-the-wrong-audience-fixing-brand-safety-drift-in-mastodon-syndication-3547",
+    "keywords": [
+      "fixing brand safety drift",
+      "fixing brand safety drift",
+      "korean language ...",
+      "wrong audience",
+      "wrong audience",
+      "mastodon syndication",
+      "mastodon syndication",
+      "4 posts",
+      "4 posts",
+      "two"
+    ],
+    "summary": "# 4 posts to the wrong audience: fixing brand safety drift in Mastodon syndication > Source: devto | Category: news | 2026-06-07T15:04:54Z Two of them should never have been live."
+  },
+  "7fff888b6d017e98": {
+    "file": "corpus/devto/dev_to_ask_ninja_im-16-and-i-built-a-gamified-full-stack-cbt_55a261b5ab.md",
+    "source": "devto",
+    "title": "I’m 16, and I Built a Gamified Full-Stack CBT App with 3D Graphics. Here is My Journey.",
+    "url": "https://dev.to/ask_ninja/im-16-and-i-built-a-gamified-full-stack-cbt-app-with-3d-graphics-here-is-my-journey-3c2n",
+    "keywords": [
+      "53z hey dev community",
+      "stack cbt app",
+      "stack cbt app",
+      "gamified full",
+      "gamified full",
+      "3d graphics",
+      "3d graphics"
+    ],
+    "summary": "# I’m 16, and I Built a Gamified Full-Stack CBT App with 3D Graphics. Here is My Journey. 👋  Over the last few months, I’ve been locked in my room building Exam Flair—a..."
+  },
+  "0bd40ecd7fcb70ce": {
+    "file": "corpus/devto/dev_to_front-line_i-quietly-lost-17-of-a-years-pay-to-transf_7916271935.md",
+    "source": "devto",
+    "title": "I quietly lost ~1.7% of a year's pay to transfer fees. Here's the full breakdown.",
+    "url": "https://dev.to/front-line/i-quietly-lost-17-of-a-years-pay-to-transfer-fees-heres-the-full-breakdown-35la",
+    "keywords": [
+      "wire fees",
+      "transfer fees",
+      "transfer fees",
+      "routing switch",
+      "remote contractor",
+      "quietly lost",
+      "quietly lost",
+      "people miss",
+      "hidden spread",
+      "getting paid"
+    ],
+    "summary": "# I quietly lost ~1.7% of a year's pay to transfer fees. A year of getting paid in USD as a remote contractor in Korea, and what I found when I actually reconciled the wire fees. The hidden spread, the routing switch, and a contract clause most people miss."
+  },
+  "a98aef9d38d440de": {
+    "file": "corpus/devto/dev_to_safdarali25_i-built-a-free-video-thumbnail-generator-_04cb1517bc.md",
+    "source": "devto",
+    "title": "I Built a Free Video Thumbnail Generator That Never Uploads Your Files",
+    "url": "https://dev.to/safdarali25/i-built-a-free-video-thumbnail-generator-that-never-uploads-your-files-56pp",
+    "keywords": [
+      "53z every creator hits",
+      "free video thumbnail generator",
+      "free video thumbnail generator",
+      "youtube —",
+      "never uploads",
+      "never uploads",
+      "video",
+      "wall",
+      "uploaded",
+      "source"
+    ],
+    "summary": "# I Built a Free Video Thumbnail Generator That Never Uploads Your Files > Source: devto | Category: news | 2026-06-07T15:04:53Z Every creator hits the same wall: you finished the video, exported the MP4, uploaded to YouTube — and..."
+  },
+  "3f6bb0e9b4d4c6cf": {
+    "file": "corpus/devto/dev_to_onokashino_your-file-sharing-server-shouldnt-be-able-_1e8faeccf8.md",
+    "source": "devto",
+    "title": "Your file-sharing server shouldn't be able to read your files. Here's how I made sure mine can't.",
+    "url": "https://dev.to/onokashino/your-file-sharing-server-shouldnt-be-able-to-read-your-files-heres-how-i-made-sure-mine-cant-58m",
+    "keywords": [
+      "file sharing means encrypted",
+      "made sure mine",
+      "made sure mine",
+      "sharing server",
+      "sharing server",
+      "saying ...",
+      "polite way",
+      "encrypted",
+      "file",
+      "file"
+    ],
+    "summary": "# Your file-sharing server shouldn't be able to read your files. Here's how I made sure mine can't. Most \"encrypted\" file sharing means encrypted in transit and at rest, which is a polite way of saying..."
+  },
+  "e20a51168b01c095": {
+    "file": "corpus/devto/dev_to_saint_vandora_how-to-auto-sync-your-hashnode-blog-to-_0a0a539bb8.md",
+    "source": "devto",
+    "title": "How to Auto-Sync Your Hashnode Blog to Dev.to Using GitHub Actions (2026 Guide)",
+    "url": "https://dev.to/saint_vandora/how-to-auto-sync-your-hashnode-blog-to-devto-using-github-actions-2026-guide-2b6b",
+    "keywords": [
+      "using github actions",
+      "using github actions",
+      "wall ....",
+      "probably hit",
+      "hashnode blog",
+      "hashnode blog",
+      "2026 guide",
+      "2026 guide",
+      "hashnode",
+      "2026"
+    ],
+    "summary": "# How to Auto-Sync Your Hashnode Blog to Dev.to Using GitHub Actions (2026 Guide) > Source: devto | Category: news | 2026-06-07T15:04:54Z If you've been trying to cross-post from Hashnode to Dev.to recently, you've probably hit a wall...."
+  },
+  "c7d97fba99e3be8f": {
+    "file": "corpus/devto/dev_to_front-line_i-was-hired-to-manage-the-code-not-write-i_72d00e6777.md",
+    "source": "devto",
+    "title": "I was hired to manage the code, not write it. I left as their CTO.",
+    "url": "https://dev.to/front-line/i-was-hired-to-manage-the-code-not-write-it-i-left-as-their-cto-2o54",
+    "keywords": [
+      "14 contracted academies —",
+      "edtech startup turned",
+      "concurrent users went",
+      "review gig",
+      "business model",
+      "biggest fix",
+      "write",
+      "write",
+      "system",
+      "source"
+    ],
+    "summary": "# I was hired to manage the code, not write it. I left as their CTO. Concurrent users went from 6 to ~1,000 and 14 contracted academies — and the biggest fix wasn't code."
+  },
+  "7f12682d90a23279": {
+    "file": "corpus/devto/dev_to_sohanaakbar7_frontend-on-kubernetes-yes-and-heres-why_ba849f5ab9.md",
+    "source": "devto",
+    "title": "Frontend on Kubernetes? Yes, and here’s why you’d want it",
+    "url": "https://dev.to/sohanaakbar7/frontend-on-kubernetes-yes-and-heres-why-youd-want-it-5cnl",
+    "keywords": [
+      "smooth ...",
+      "js app",
+      "beautiful next",
+      "54z let",
+      "frontend developer",
+      "frontend",
+      "frontend"
+    ],
+    "summary": "Yes, and here’s why you’d want it You’re a frontend developer. You just finished a beautiful Next.js app."
+  },
+  "9f36f9ec2df2498c": {
+    "file": "corpus/devto/dev_to_serifcolakel_saga-pattern-in-go-5dog_3662a5a5fb.md",
+    "source": "devto",
+    "title": "SAGA Pattern in Go",
+    "url": "https://dev.to/serifcolakel/saga-pattern-in-go-5dog",
+    "keywords": [
+      "coordinate distributed transactions",
+      "saga pattern",
+      "saga pattern",
+      "saga ...",
+      "go using",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# SAGA Pattern in Go > Source: devto | Category: news | 2026-06-07T15:04:55Z In this article, we will explore how to coordinate distributed transactions in Go using the Saga..."
+  },
+  "5dc7eb26f38f4ab3": {
+    "file": "corpus/devto/dev_to_mudimurtala_pidgin-english-can-now-find-your-spare-pa_0764703355.md",
+    "source": "devto",
+    "title": "Pidgin English Can Now Find Your Spare Parts. Here Is How I Built That.",
+    "url": "https://dev.to/mudimurtala/pidgin-english-can-now-find-your-spare-parts-here-is-how-i-built-that-31md",
+    "keywords": [
+      "spare parts",
+      "spare parts",
+      "pidgin english",
+      "pidgin english",
+      "never finished",
+      "source",
+      "reactions",
+      "news",
+      "happened",
+      "find"
+    ],
+    "summary": "# Pidgin English Can Now Find Your Spare Parts. I Started Building SpareIQ Months Ago and Never Finished It. Here Is What Happened When I..."
+  },
+  "aa143ee456e89e74": {
+    "file": "corpus/devto/dev_to_navas_herbert_python-week-4-we-taught-python-to-remem_f6bfc25367.md",
+    "source": "devto",
+    "title": "Python Week 4: We Taught Python to Remember Things (Functions!)",
+    "url": "https://dev.to/navas_herbert/python-week-4-we-taught-python-to-remember-things-functions-5d60",
+    "keywords": [
+      "python week 4",
+      "python week 4",
+      "week 3",
+      "taught python",
+      "taught python",
+      "remember things",
+      "remember things",
+      "loops ,...",
+      "good work",
+      "functions !)"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-06-07T15:04:55Z I opened this session by pulling up a student's code from Week 3. It was good work - loops,..."
+  },
+  "8832f9c145d6666e": {
+    "file": "corpus/devto/dev_to_dhrupo_i-translated-my-7000-line-ai-coding-handbook-w_7539dd82b1.md",
+    "source": "devto",
+    "title": "I translated my 7,000-line AI-coding handbook with 12 parallel AI agents",
+    "url": "https://dev.to/dhrupo/i-translated-my-7000-line-ai-coding-handbook-with-12-parallel-ai-agents-mco",
+    "keywords": [
+      "12 parallel ai agents",
+      "12 parallel ai agents",
+      "55z last week",
+      "line ai",
+      "line ai",
+      "complete ai",
+      "everyday ...",
+      "coding handbook",
+      "coding handbook",
+      "coding handbook"
+    ],
+    "summary": "# I translated my 7,000-line AI-coding handbook with 12 parallel AI agents > Source: devto | Category: news | 2026-06-07T15:04:55Z Last week I shipped a complete AI-coding handbook in Bangla — 79 terms decoded with everyday..."
+  },
+  "c41af776d61191f9": {
+    "file": "corpus/devto/dev_to_coded_parts_asyncawait-is-a-generator-in-disguise-let_fbd3d8e031.md",
+    "source": "devto",
+    "title": "async/await is a Generator in Disguise. Let's Build It From Scratch",
+    "url": "https://dev.to/coded_parts/asyncawait-is-a-generator-in-disguise-lets-build-it-from-scratch-12j1",
+    "keywords": [
+      "dozen times",
+      "write await",
+      "await",
+      "await",
+      "await",
+      "await",
+      "source",
+      "service",
+      "scratch",
+      "scratch"
+    ],
+    "summary": "# async/await is a Generator in Disguise. You write await a dozen times before lunch. Call a service, await that."
+  },
+  "c96ce0189a7dba92": {
+    "file": "corpus/devto/dev_to_quolu_published-caveat-to-npm-a-long-term-memory-laye_3f7eddd8aa.md",
+    "source": "devto",
+    "title": "Published Caveat to npm: A Long-term Memory Layer to Avoid Repeating the Same Traps",
+    "url": "https://dev.to/quolu/published-caveat-to-npm-a-long-term-memory-layer-to-avoid-repeating-the-same-traps-2cc0",
+    "keywords": [
+      "term memory layer",
+      "term memory layer",
+      "term memory layer",
+      "published caveat",
+      "published caveat",
+      "published caveat",
+      "claude code",
+      "avoid repeating",
+      "avoid repeating",
+      "traps"
+    ],
+    "summary": "# Published Caveat to npm: A Long-term Memory Layer to Avoid Repeating the Same Traps > Source: devto | Category: news | 2026-06-07T15:04:56Z I have published Caveat, a long-term memory layer for Claude Code, to npm."
   }
 }
