@@ -54493,5 +54493,385 @@
       "`$ state"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-07T19:59:00Z -   fix: ignore errors that occur in destroyed effects ([#18384](https://github.com/sveltejs/svelte/pull/18384)) -   fix: type BigInts in `$state.snapshot(...)` return values ([#18388](https://github.com/sveltejs/svelte/pull/18388))"
+  },
+  "aa6cc986389d31a7": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48439500_1d1f85bfbf.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (June 2026))",
+    "url": "https://news.ycombinator.com/item?id=48439500",
+    "keywords": [
+      "research venues .< p",
+      "working alongside skilled engineers",
+      "ai &# x2f ;</",
+      "seed funding round",
+      "large enterprise customer",
+      "generous equity package",
+      "build impactful products",
+      "actually solved something",
+      "02z founding senior",
+      "greenfield data problems"
+    ],
+    "summary": "Founding Senior (AI&#x2F;Software) Engineer | NYC | <a href=\"https:&#x2F;&#x2F;www.l2labs.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.l2labs.ai&#x2F;</a><p>L2 Labs is a brand new applied AI lab building machine intelligence for data integration and interoperability. We&#x27;re fast growing: we closed a pre-seed funding round, established partnerships with Cornell and NYU, and secured a large enterprise customer in less than 3 months. We build impactful products + publish in A* research venues"
+  },
+  "877bb5dd21e61784": {
+    "file": "corpus/hackernews/vibeos_sh_191a297da9.md",
+    "source": "hackernews",
+    "title": "VibeOS: First ever AI-native operating system",
+    "url": "https://vibeos.sh/",
+    "keywords": [
+      "native operating system",
+      "native operating system",
+      "first ever ai",
+      "first ever ai",
+      "53z score",
+      "vibeos",
+      "vibeos",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# VibeOS: First ever AI-native operating system > Source: hackernews | Category: news | 2026-06-07T23:42:53Z Score: 17 | Comments: 14"
+  },
+  "328afadbf32e607b": {
+    "file": "corpus/hackernews/www_tohoku_ac_jp_japanese_2026_05_press20260512-02-DMR_html_3ac3807030.md",
+    "source": "hackernews",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
+    "keywords": [
+      "fundamental principle",
+      "fundamental principle",
+      "aeronautical engineering",
+      "aeronautical engineering",
+      "51z score",
+      "source",
+      "overturned",
+      "overturned",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A Fundamental Principle of Aeronautical Engineering Has Been Overturned > Source: hackernews | Category: news | 2026-06-07T23:42:51Z Score: 18 | Comments: 11"
+  },
+  "aadd0739290804c7": {
+    "file": "corpus/hackernews/www_phoronix_com_news_Firefox-Vulkan-Video-Merged_081886fa6a.md",
+    "source": "hackernews",
+    "title": "Firefox Merges Support for Vulkan Video Decoding",
+    "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+    "keywords": [
+      "vulkan video decoding",
+      "vulkan video decoding",
+      "firefox merges support",
+      "firefox merges support",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Firefox Merges Support for Vulkan Video Decoding > Source: hackernews | Category: news | 2026-06-07T23:42:54Z Score: 13 | Comments: 1"
+  },
+  "4ece494b8820e5cb": {
+    "file": "corpus/hackernews/blog_ydb_tech_do-we-fear-the-serializable-isolation-level-mo_b0c9df2995.md",
+    "source": "hackernews",
+    "title": "Do we fear the serializable isolation level more than we fear subtle bugs?",
+    "url": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
+    "keywords": [
+      "serializable isolation level",
+      "serializable isolation level",
+      "fear subtle bugs",
+      "fear subtle bugs",
+      "51z score",
+      "fear",
+      "fear",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Do we fear the serializable isolation level more than we fear subtle bugs? > Source: hackernews | Category: news | 2026-06-07T23:42:51Z Score: 36 | Comments: 17"
+  },
+  "5004df2842ebc4f5": {
+    "file": "corpus/hackernews/arxiv_org_abs_2605_31514_242d9c5e30.md",
+    "source": "hackernews",
+    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+    "url": "https://arxiv.org/abs/2605.31514",
+    "keywords": [
+      "like attributes",
+      "like attributes",
+      "empires ii",
+      "empires ii",
+      "52z score",
+      "source",
+      "news",
+      "llms",
+      "llms",
+      "human"
+    ],
+    "summary": "# If LLMs Have Human-Like Attributes, Then So Does Age of Empires II > Source: hackernews | Category: news | 2026-06-07T23:42:52Z Score: 87 | Comments: 76"
+  },
+  "ae2dfb9a39f0e012": {
+    "file": "corpus/hackernews/github_com_ninoxAI_nightwatch_3f513c2339.md",
+    "source": "hackernews",
+    "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+    "url": "https://github.com/ninoxAI/nightwatch",
+    "keywords": [
+      "several problems came together",
+      "swaps identifiers like ips",
+      "recommendations run fully offline",
+      "nightwatch strips real secrets",
+      "every remote llm call",
+      "agent directly .< p",
+      "call engineer starts",
+      "several kubernetes clusters",
+      "sees masked data",
+      "ollama etc .)"
+    ],
+    "summary": "it groups alert storm into incidents, flags noisy checks and has an agent that can investigate for you live systems. We run a lot of different systems, on-prem and several Kubernetes clusters, and in a situation like that you spend most of the time just figuring out what is actually broken and where.<p>So i thought that it would be pretty cool to have eyes in the dark in each system that can talk to your &quot;brain&quot;.<p>so the idea is to put a baby owl into each environment. Each owl runs w"
+  },
+  "cf555e233c5417e2": {
+    "file": "corpus/hackernews/motion_dev_magazine_collision-detection-in-hover-detection_c74a27cf23.md",
+    "source": "hackernews",
+    "title": "Crashing cars and improving hover detection",
+    "url": "https://motion.dev/magazine/collision-detection-in-hover-detection",
+    "keywords": [
+      "improving hover detection",
+      "improving hover detection",
+      "crashing cars",
+      "crashing cars",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Crashing cars and improving hover detection > Source: hackernews | Category: news | 2026-06-07T23:42:52Z Score: 4 | Comments: 2"
+  },
+  "eb213babab084ff9": {
+    "file": "corpus/hackernews/www_theatlantic_com_national-security_2026_06_dday-survivor-_11962617ae.md",
+    "source": "hackernews",
+    "title": "The Last of the D-Day Veterans",
+    "url": "https://www.theatlantic.com/national-security/2026/06/dday-survivor-world-war-ii-history/687392/",
+    "keywords": [
+      "day veterans",
+      "day veterans",
+      "55z score",
+      "source",
+      "news",
+      "last",
+      "last",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Last of the D-Day Veterans > Source: hackernews | Category: news | 2026-06-07T23:42:55Z Score: 3 | Comments: 0"
+  },
+  "5d5aa58bc13bdef9": {
+    "file": "corpus/hackernews/www_absurdlyoptimized_com_recipes_pancakes_1e58b96d37.md",
+    "source": "hackernews",
+    "title": "Show HN: I Derived a Pancake",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "keywords": [
+      "target deficits .< p",
+      "co2 .< p",
+      "chemistry .< p",
+      "people &# x27",
+      "best recipe based",
+      ".< p",
+      "&# x27",
+      "&# x27",
+      "stoichiometry layer",
+      "small pure"
+    ],
+    "summary": "# Show HN: I Derived a Pancake After 25 years of making other people&#x27;s pancake recipes - always yearning for more tang, more fluff, and more predictability - I decided to derive the pancake recipe from the chemistry.<p>You mark checkboxes for what you have on hand (ricotta, sour cream, kefir, buttermilk, yogurt, cottage cheese, lemon, cream of tartar, etc.) and it  computes the best recipe based on targets for acid, fat, salt, sugar, and CO2.<p>My particular favorite are the yeast-raised le"
+  },
+  "a98a66e8c58963f0": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47875_bmo-rolls-out-financial-n_fa03fb5edf.md",
+    "source": "finance",
+    "title": "[finextra] BMO rolls out financial navigation tool",
+    "url": "https://www.finextra.com/newsarticle/47875/bmo-rolls-out-financial-navigation-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "fintech msn holding designed",
+      "help customers boost",
+      "financial navigation tool",
+      "financial navigation tool",
+      "financial navigation tool",
+      "53z bmo rolls",
+      "financial health",
+      "bmo rolls",
+      "bmo rolls",
+      "us arm"
+    ],
+    "summary": "# [finextra] BMO rolls out financial navigation tool BMO rolls out financial navigation tool The US arm of BMO has launched an app developed by fintech MSN Holding designed to help customers boost their financial health."
+  },
+  "4091a7f834bd4dd5": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47872_adyen-wins-govuk-pay-cont_6c79c20c83.md",
+    "source": "finance",
+    "title": "[finextra] Adyen wins Gov.UK Pay contract",
+    "url": "https://www.finextra.com/newsarticle/47872/adyen-wins-govuk-pay-contract?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "uk pay payments platform",
+      "53z adyen wins gov",
+      "uk pay contract",
+      "uk pay contract",
+      "uk pay contract",
+      "adyen wins gov",
+      "adyen wins gov",
+      "uk government",
+      "replaced stripe",
+      "gov"
+    ],
+    "summary": "# [finextra] Adyen wins Gov.UK Pay contract Adyen wins Gov.UK Pay contract The UK government has replaced Stripe with Adyen as its processor for the Gov.UK Pay payments platform."
+  },
+  "dd079317d79f817a": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_hands-on-with-intell_1a4b4c5cfc.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+    "keywords": [
+      "powered windows terminal microsoft",
+      "powered windows terminal",
+      "powered windows terminal",
+      "windows terminal called",
+      "intelligent terminal ,\"",
+      "intelligent terminal",
+      "intelligent terminal",
+      "intelligent terminal",
+      "regular session",
+      "source fork"
+    ],
+    "summary": "# [bleeping-comp] Hands on with Intelligent Terminal, an AI-powered Windows Terminal Hands on with Intelligent Terminal, an AI-powered Windows Terminal Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session."
+  },
+  "51d4a1afcfc9845a": {
+    "file": "corpus/devto/dev_to_karam999_spendwise-ai-spend-audit-tool-33nd_a413ce0370.md",
+    "source": "devto",
+    "title": "SpendWise - AI Spend Audit Tool to launch ready App",
+    "url": "https://dev.to/karam999/spendwise-ai-spend-audit-tool-33nd",
+    "keywords": [
+      "ai spend audit tool",
+      "ai spend audit tool",
+      "built spendwise ai ...",
+      "launch ready app",
+      "launch ready app",
+      "thon challenge",
+      "github finish",
+      "spendwise",
+      "spendwise",
+      "submission"
+    ],
+    "summary": "# SpendWise - AI Spend Audit Tool to launch ready App > Source: devto | Category: news | 2026-06-07T23:42:59Z This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   SpendWise AI..."
+  },
+  "a8ead14b188ab653": {
+    "file": "corpus/devto/dev_to_otaready_ai-agent-safety-need-stop-signs-not-just-ins_3548c33355.md",
+    "source": "devto",
+    "title": "AI Agent Safety Need Stop Signs, Not Just Instructions",
+    "url": "https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9",
+    "keywords": [
+      "need stop signs",
+      "01z ai agents",
+      "need better instructions",
+      "clearest ...",
+      "instructions",
+      "instructions",
+      "source",
+      "reactions",
+      "one",
+      "news"
+    ],
+    "summary": "# AI Agent Safety Need Stop Signs, Not Just Instructions AI agents do not only need better instructions. That is one of the clearest..."
+  },
+  "54653abdd6f1b14f": {
+    "file": "corpus/devto/dev_to_pqbuilder_your-ai-agents-audit-trail-is-not-evidence-_7b32cf99ee.md",
+    "source": "devto",
+    "title": "Your AI agent's audit trail is not evidence. Here's what makes it one.",
+    "url": "https://dev.to/pqbuilder/your-ai-agents-audit-trail-is-not-evidence-heres-what-makes-it-one-32f7",
+    "keywords": [
+      "harness stack thread",
+      "post builds",
+      "ian johnson",
+      "audit trail",
+      "audit trail",
+      "ai agent",
+      "ai agent",
+      "started",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Your AI agent's audit trail is not evidence. Here's what makes it one. This post builds on a conversation that started in Ian Johnson's harness stack thread and the..."
+  },
+  "e7fd89f6c58e99e6": {
+    "file": "corpus/devto/dev_to_vinayiitkgp_detflow-a-detection-engineering-copilot-y_b82e3e5a37.md",
+    "source": "devto",
+    "title": "detflow: A Detection-Engineering Copilot You Can pip install",
+    "url": "https://dev.to/vinayiitkgp/detflow-a-detection-engineering-copilot-you-can-pip-install-aem",
+    "keywords": [
+      "pypi —",
+      "pip install",
+      "pip install",
+      "engineering copilot",
+      "engineering copilot",
+      "engineering ...",
+      "dr 🚀",
+      "02z tl",
+      "shipped detflow",
+      "neutral detection"
+    ],
+    "summary": "# detflow: A Detection-Engineering Copilot You Can pip install > Source: devto | Category: news | 2026-06-07T23:43:02Z TL;DR 🚀   I shipped detflow to PyPI — an open-source, vendor-neutral detection-engineering..."
+  },
+  "af093c3b58d62e81": {
+    "file": "corpus/devto/dev_to_alex72py_i-audited-an-ai-chatbots-sandbox-like-a-blac_bdb6ffcda4.md",
+    "source": "devto",
+    "title": "I Audited an AI Chatbot's Sandbox Like a Black-Box Linux Machine",
+    "url": "https://dev.to/alex72py/i-audited-an-ai-chatbots-sandbox-like-a-black-box-linux-machine-bhe",
+    "keywords": [
+      "probably says worrying things",
+      "spent 6 hours",
+      "box linux machine",
+      "box linux machine",
+      "sandbox like",
+      "sandbox like",
+      "ai chatbot",
+      "ai chatbot",
+      "source",
+      "something"
+    ],
+    "summary": "# I Audited an AI Chatbot's Sandbox Like a Black-Box Linux Machine > Source: devto | Category: news | 2026-06-07T23:42:59Z I spent 6 hours doing something that probably says worrying things about my hobbies."
+  },
+  "4fbbc1914f28da71": {
+    "file": "corpus/devto/dev_to_tana_shahh_mcpsense-v030-catching-mcp-server-rug-pull_393a71c3d4.md",
+    "source": "devto",
+    "title": "MCPSense v0.3.0: catching MCP server rug-pull attacks with static drift detection",
+    "url": "https://dev.to/tana_shahh/mcpsense-v030-catching-mcp-server-rug-pull-attacks-with-static-drift-detection-4o3j",
+    "keywords": [
+      "catching mcp server rug",
+      "catching mcp server rug",
+      "static drift detection",
+      "static drift detection",
+      "security scanners check",
+      "pull attacks",
+      "pull attacks",
+      "mcpsense v0",
+      "mcpsense v0",
+      "find issues"
+    ],
+    "summary": "# MCPSense v0.3.0: catching MCP server rug-pull attacks with static drift detection Most security scanners check a thing once. You point them at code, they find issues, you fix them,..."
+  },
+  "a29e9f8626da32e0": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_30_7-rc1_e1076499e3.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.30.7-rc1 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.30.7-rc1",
+    "keywords": [
+      "16558 ## new contributors",
+      "use native tojsonschema",
+      "update zod example",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "6 ... v0",
+      "51z ## ollama",
+      "ollama — v0",
+      "rc1 ##"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-06-07T23:43:51Z ## What's Changed * docs: update Zod example to use native toJSONSchema by @fuleinist in https://github.com/ollama/ollama/pull/14746 * launch: use native Windows Hermes config path by @BruceMacD in https://github.com/ollama/ollama/pull/16558 ## New Contributors * @fuleinist made their first contribution in https://github.com/ollama/ollama/pull/14746"
   }
 }
