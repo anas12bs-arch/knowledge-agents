@@ -50,6 +50,24 @@ def main() -> None:
     except Exception:
         return
 
+    # Aprendizajes recién capturados aún no enriquecidos (corpus/learn/*.md):
+    # se leen directo para que estén disponibles al instante, no en 1h.
+    for md in (KA / "corpus" / "learn").glob("*.md") if (KA / "corpus" / "learn").exists() else []:
+        try:
+            text = md.read_text(errors="ignore")
+        except Exception:
+            continue
+        title = md.stem
+        for raw in text.splitlines():
+            if raw.startswith("title:"):
+                title = raw.split(":", 1)[1].strip().strip('"')
+                break
+        cache[f"pending:{md.name}"] = {
+            "file": f"corpus/learn/{md.name}", "source": "learn",
+            "title": title, "summary": text[-600:],
+            "keywords": re.findall(r'tags: \[(.*?)\]', text)[:1],
+        }
+
     scored = []
     for doc in cache.values():
         title = str(doc.get("title", ""))
