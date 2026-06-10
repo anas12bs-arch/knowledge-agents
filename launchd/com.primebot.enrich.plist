@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/tmp/kavenv/bin/python3</string>
+        <string>/Users/anasahmadouch/.primebot/kavenv/bin/python3</string>
         <string>-m</string>
         <string>core.enrich</string>
     </array>
@@ -32,6 +32,8 @@
     <dict>
         <key>CORPUS_DIR</key>
         <string>/Users/anasahmadouch/Desktop/PrimeBot/knowledge-agents/corpus</string>
+        <key>PYTHONPATH</key>
+        <string>/Users/anasahmadouch/Desktop/PrimeBot/knowledge-agents</string>
     </dict>
 </dict>
 </plist>
