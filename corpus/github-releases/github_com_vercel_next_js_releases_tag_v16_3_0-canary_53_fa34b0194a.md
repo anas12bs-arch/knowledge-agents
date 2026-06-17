@@ -1,0 +1,43 @@
+---
+title: "vercel/next.js v16.3.0-canary.53 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.53"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-06-17T13:02:02Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.3.0-canary.53"
+---
+
+# vercel/next.js v16.3.0-canary.53 released
+
+> Source: github-releases | Category: changelog | 2026-06-17T13:02:02Z
+
+## vercel/next.js — v16.3.0-canary.53
+
+### Misc Changes
+
+- pass `--locked` to `cargo binstall`: #94834
+- [ci] Use node-version-file when we already have a repository checkout and reduce hardcoded references to node versions: #94780
+- [turbopack] Allocate `Effect`s in an arena: #94614
+- [turbo-tasks] Shrink RawVc to 8 bytes and CellId to 4 bytes: #94792
+- rust react compiler: detect and build for react 18: #94836
+- [test] Unflake `metadata static routes cache` test: #94796
+- [test] Recover from a leftover build process on test retry: #94797
+- Properly set response-based OTEL attributes with adapters : #94603
+- dev-overlay: polish error header layout and instant fix-card chip: #94790
+- Upgrade React from `43bcbf80-20260603` to `d9158919-20260615`: #94826
+- Make `cacheMaxMemorySize: 0` and custom cache handlers fast in dev: #94784
+- [ci] Clean up references to self-hosted runners: #94827
+- Fix remaining OTEL issues in adapter: #94817
+- Turbopack: improve NFT warning message: #94854
+- Add experimental.useExperimentalReact to opt into React's experimental channel: #94861
+- Turbopack: improve issue printing colors: #94858
+- [turbopack] Update algebra in chunking algorithm: #94873
+- [CC] Fix accumulator flushing logic: #94857
+
+### Credits 
+
+Huge thanks to @lukesandberg, @bgw, @sampoder, @wbinnssmith, @unstubbable, @mischnic, @aurorascharff, @vercel-release-bot, @gaojude, and @lubieowoce for helping!
+
