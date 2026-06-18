@@ -1,0 +1,36 @@
+---
+title: "vercel/next.js v16.3.0-canary.57 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.57"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-06-18T19:58:56Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.3.0-canary.57"
+---
+
+# vercel/next.js v16.3.0-canary.57 released
+
+> Source: github-releases | Category: changelog | 2026-06-18T19:58:56Z
+
+## vercel/next.js — v16.3.0-canary.57
+
+### Misc Changes
+
+- Scope the Cold cache indicator in dev to shell cache misses: #94911
+- Fix Instant Navs DevTools capture bugs and re-enable its test suite: #94866
+- docs: fix capitalization of Server and Client Components: #94891
+- docs: Fix broken link to Node.js Debugging Guide: #93958
+- docs: fix broken Node.js inspector URL in debugging guide: #94934
+- examples/with-ably: update to App Router + Ably v2: #94600
+- docs: clarify sequential data fetching example: #94930
+- docs: GtK, caching with fetch is opt-in - extended to any method or header included: #94899
+- [test] Enable `metadata-streaming-config` for Cache Components: #94936
+- fix(dev-overlay): correct open-in-editor path when using a `src` directory: #94775
+- Fix repoRoot for adapters: #94478
+
+### Credits 
+
+Huge thanks to @unstubbable, @niketchandivade, @gilest, @jahanzaib-iqbal-dev, @owenpearson, @davidgg, @icyJoseph, @eps1lon, @fhfournier, and @mischnic for helping!
+
