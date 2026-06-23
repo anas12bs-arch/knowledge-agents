@@ -112208,5 +112208,305 @@
       "8a3 ##"
     ],
     "summary": "### Features - Add unified declarative flow loading - Improve crewai run startup UX - Consolidate `crewai run` and `crewai flow kickoff` - Keep flow method progress visible for nested crews - Add declarative Flow CLI support - Allow `@router()` as start method of a flow - Add typed output schemas for CrewAI tools ### Bug Fixes - Pin opentelemetry to ~=1.42.0 ### Documentation - Add \"One Card per Step\" Studio page"
+  },
+  "0f29c0998496f6c3": {
+    "file": "corpus/legal/www_techdirt_com_2026_06_23_spains-internet-blocks-have-a-fl_1c3879503b.md",
+    "source": "legal",
+    "title": "[techdirt] Spain’s Internet Blocks Have A Flimsy Legal Basis, While Lacking Both Oversight & Accountability",
+    "url": "https://www.techdirt.com/2026/06/23/spains-internet-blocks-have-a-flimsy-legal-basis-while-lacking-both-oversight-accountability/",
+    "keywords": [
+      "latest [&# 8230 ;]",
+      "infamous copyright enforcement mechanism",
+      "walled culture post suggested",
+      "walled culture wrote",
+      "cost french taxpayers",
+      "flimsy legal basis",
+      "flimsy legal basis",
+      "flimsy legal basis",
+      "49z spain ’",
+      "spain ’"
+    ],
+    "summary": "# [techdirt] Spain’s Internet Blocks Have A Flimsy Legal Basis, While Lacking Both Oversight & Accountability Spain’s Internet Blocks Have A Flimsy Legal Basis, While Lacking Both Oversight & Accountability Afew weeks ago,&#160;Walled Culture wrote about Hadopi, France’s infamous copyright enforcement mechanism."
+  },
+  "4a0905e91a09dd39": {
+    "file": "corpus/hackernews/www_the3dprintingnerd_com_ab2047_808125032e.md",
+    "source": "hackernews",
+    "title": "California AB 2047 makes 3d printers off-limits to students, educators, business",
+    "url": "https://www.the3dprintingnerd.com/ab2047",
+    "keywords": [
+      "49z score",
+      "students",
+      "students",
+      "source",
+      "news",
+      "limits",
+      "limits",
+      "hackernews",
+      "educators",
+      "educators"
+    ],
+    "summary": "# California AB 2047 makes 3d printers off-limits to students, educators, business > Source: hackernews | Category: news | 2026-06-23T23:05:49Z Score: 112 | Comments: 38"
+  },
+  "d206decb9a2ce6dd": {
+    "file": "corpus/hackernews/unitedwizardsofthecoast_com_news_2026-06-23-we-have-a-union_c6b8f70b9e.md",
+    "source": "hackernews",
+    "title": "United Wizards of the Coast recognized by NLRB",
+    "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
+    "keywords": [
+      "united wizards",
+      "united wizards",
+      "coast recognized",
+      "coast recognized",
+      "49z score",
+      "source",
+      "nlrb",
+      "nlrb",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# United Wizards of the Coast recognized by NLRB > Source: hackernews | Category: news | 2026-06-23T23:05:49Z Score: 63 | Comments: 20"
+  },
+  "dba30d2c182db2d5": {
+    "file": "corpus/hackernews/wavacity_com_f29d37ae7e.md",
+    "source": "hackernews",
+    "title": "Wavacity: Audacity audio editor ported to WASM, under GNU GPL v2",
+    "url": "https://wavacity.com/",
+    "keywords": [
+      "audacity audio editor ported",
+      "audacity audio editor ported",
+      "gnu gpl v2",
+      "gnu gpl v2",
+      "56z score",
+      "wavacity",
+      "wavacity",
+      "wasm",
+      "wasm",
+      "source"
+    ],
+    "summary": "# Wavacity: Audacity audio editor ported to WASM, under GNU GPL v2 > Source: hackernews | Category: news | 2026-06-23T23:05:56Z Score: 10 | Comments: 1"
+  },
+  "1aa43df3f3032c05": {
+    "file": "corpus/hackernews/github_com_bluesky-social_proposals_pull_94_8bd3b1d8c5.md",
+    "source": "hackernews",
+    "title": "ATProto Permissioned Data Proposal Draft",
+    "url": "https://github.com/bluesky-social/proposals/pull/94",
+    "keywords": [
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "23t23",
+      "2026"
+    ],
+    "summary": "# ATProto Permissioned Data Proposal Draft > Source: hackernews | Category: news | 2026-06-23T23:05:54Z Score: 12 | Comments: 2"
+  },
+  "acba13ea90b697ed": {
+    "file": "corpus/hackernews/apnews_com_article_germany-trains-halted-communications-radi_6b641428d5.md",
+    "source": "hackernews",
+    "title": "Trains halted across Germany because of communication system problem",
+    "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+    "keywords": [
+      "trains halted across germany",
+      "trains halted across germany",
+      "communication system problem",
+      "communication system problem",
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Trains halted across Germany because of communication system problem > Source: hackernews | Category: news | 2026-06-23T23:05:51Z Score: 111 | Comments: 111"
+  },
+  "a0bffea2520b39d5": {
+    "file": "corpus/hackernews/orionbrowser_com_updates_versions_1_1_1faa0efb91.md",
+    "source": "hackernews",
+    "title": "Orion 1.1 for macOS is out, with containers",
+    "url": "https://orionbrowser.com/updates/versions/1.1",
+    "keywords": [
+      "57z score",
+      "orion 1",
+      "orion 1",
+      "source",
+      "news",
+      "macos",
+      "macos",
+      "hackernews"
+    ],
+    "summary": "# Orion 1.1 for macOS is out, with containers > Source: hackernews | Category: news | 2026-06-23T23:05:57Z Score: 7 | Comments: 0"
+  },
+  "18732fc23ce24c1f": {
+    "file": "corpus/hackernews/galton_org_fingerprints_faulds-1880-nature-furrows_pdf_59d127c48f.md",
+    "source": "hackernews",
+    "title": "On the Skin-Furrows of the Hand (1880) [pdf]",
+    "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf",
+    "keywords": [
+      "54z score",
+      "source",
+      "skin",
+      "skin",
+      "pdf",
+      "pdf",
+      "news",
+      "hand",
+      "hand",
+      "hackernews"
+    ],
+    "summary": "# On the Skin-Furrows of the Hand (1880) [pdf] > Source: hackernews | Category: news | 2026-06-23T23:05:54Z Score: 4 | Comments: 1"
+  },
+  "b0f63919af27b937": {
+    "file": "corpus/hackernews/www_vanityfair_com_hollywood_2018_06_truman-show-anniversary_939ed5c93c.md",
+    "source": "hackernews",
+    "title": "Twenty Years Later, Everything Is the Truman Show (2018)",
+    "url": "https://www.vanityfair.com/hollywood/2018/06/truman-show-anniversary-jim-carrey-peter-weir-laura-linney",
+    "keywords": [
+      "twenty years later",
+      "twenty years later",
+      "truman show",
+      "truman show",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "everything",
+      "everything"
+    ],
+    "summary": "# Twenty Years Later, Everything Is the Truman Show (2018) > Source: hackernews | Category: news | 2026-06-23T23:05:55Z Score: 7 | Comments: 0"
+  },
+  "fbdc0d0b9b03115e": {
+    "file": "corpus/hackernews/twitter_com_i_status_2069486595917402117_e5d33ecae2.md",
+    "source": "hackernews",
+    "title": "John Carmack on why he would push back against anti-datacenter efforts",
+    "url": "https://twitter.com/i/status/2069486595917402117",
+    "keywords": [
+      "would push back",
+      "would push back",
+      "john carmack",
+      "john carmack",
+      "datacenter efforts",
+      "datacenter efforts",
+      "56z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# John Carmack on why he would push back against anti-datacenter efforts > Source: hackernews | Category: news | 2026-06-23T23:05:56Z Score: 7 | Comments: 4"
+  },
+  "abe926e3e7bdba71": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_deploy-node-servers-with-zero-configura_a502bcda6c.md",
+    "source": "vercel-blog",
+    "title": "Deploy Node servers with zero configuration",
+    "url": "https://vercel.com/changelog/deploy-node-servers-with-zero-configuration",
+    "keywords": [
+      "03z deploy node servers",
+      "deploy node servers",
+      "deploy node servers",
+      "zero configuration",
+      "zero configuration",
+      "zero configuration",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Deploy Node servers with zero configuration > Source: vercel-blog | Category: news | 2026-06-23T23:06:03Z Deploy Node servers with zero configuration"
+  },
+  "100e634b4e46953a": {
+    "file": "corpus/devto/dev_to_msteja_why-ai-agents-cant-draw-svg-and-what-to-do-ins_4450c06d2d.md",
+    "source": "devto",
+    "title": "Why AI agents can't draw SVG (and what to do instead)",
+    "url": "https://dev.to/msteja/why-ai-agents-cant-draw-svg-and-what-to-do-instead-1ci",
+    "keywords": [
+      "looks ...",
+      "get something",
+      "frontier model",
+      "architecture diagram",
+      "ai agents",
+      "ai agents",
+      "59z ask",
+      "draw svg",
+      "draw svg",
+      "svg"
+    ],
+    "summary": "# Why AI agents can't draw SVG (and what to do instead) > Source: devto | Category: news | 2026-06-23T23:05:59Z Ask any frontier model to \"draw an architecture diagram as SVG\" and you'll get something that looks..."
+  },
+  "629e1cad26cc2baf": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47977_starling-rolls-out-ai-pow_0a6232b982.md",
+    "source": "finance",
+    "title": "[finextra] Starling rolls out AI-powered romance scam detection feature",
+    "url": "https://www.finextra.com/newsarticle/47977/starling-rolls-out-ai-powered-romance-scam-detection-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "powered feature designed",
+      "detect romance scammers",
+      "deepfake phishing attempts",
+      "50z starling rolls",
+      "starling rolls",
+      "starling rolls",
+      "investment heists",
+      "source",
+      "rolled",
+      "finextra"
+    ],
+    "summary": "# [finextra] Starling rolls out AI-powered romance scam detection feature Starling rolls out AI-powered romance scam detection feature Starling Bank has rolled out an AI-powered feature designed to detect romance scammers, investment heists and deepfake phishing attempts."
+  },
+  "3000ff7148b4b7e3": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47978_aib-revamps-mobile-app_ut_b4dd8b581a.md",
+    "source": "finance",
+    "title": "[finextra] AIB revamps mobile app",
+    "url": "https://www.finextra.com/newsarticle/47978/aib-revamps-mobile-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "complete financial experience \".",
+      "aib revamps mobile app",
+      "aib revamps mobile app",
+      "mobile app",
+      "promising customers",
+      "biggest makeover",
+      "aib",
+      "source",
+      "given",
+      "finextra"
+    ],
+    "summary": "# [finextra] AIB revamps mobile app AIB revamps mobile app Ireland's AIB has given its mobile app its biggest makeover in a decade, promising customers a \"complete financial experience\"."
+  },
+  "256abb8ca6ba560b": {
+    "file": "corpus/finance/techcrunch_com_podcast_is-there-an-ai-bubble-vcs-on-valuatio_4f9b2df8b9.md",
+    "source": "finance",
+    "title": "[tc-venture] Is there an AI bubble? VCs on valuations and ARR inflation",
+    "url": "https://techcrunch.com/podcast/is-there-an-ai-bubble-vcs-on-valuations-and-arr-inflation/",
+    "keywords": [
+      "conversation recorded live",
+      "basis set ventures",
+      "[&# 8230 ;]",
+      "ai boom represents",
+      "soaring startup valuations",
+      "strictlyvc la",
+      "episode features",
+      "el segundo",
+      "connie loizos",
+      "chang xu"
+    ],
+    "summary": "# [tc-venture] Is there an AI bubble? This episode features a conversation recorded live at StrictlyVC LA in El Segundo between Connie Loizos; Chang Xu, partner at Basis Set Ventures; and Carter Reum, founder of M13. Together, they discuss whether today&#8217;s AI boom represents a bubble, how investors are thinking about soaring startup valuations and ARR growth, and what it takes to [&#8230;]"
+  },
+  "283859ce3e08116e": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47974_ubs-demonstrates-implemen_e09154507a.md",
+    "source": "finance",
+    "title": "[finextra] UBS demonstrates implementation of compliance checks on transactions crossing Ethereum",
+    "url": "https://www.finextra.com/newsarticle/47974/ubs-demonstrates-implementation-of-compliance-checks-on-transactions-crossing-ethereum?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "top tier financial institutions",
+      "blockchain engineering firm nethermind",
+      "50z ubs demonstrates implementation",
+      "transactions crossing ethereum ubs",
+      "ubs demonstrates implementation",
+      "ubs demonstrates implementation",
+      "transactions crossing ethereum",
+      "transactions crossing ethereum",
+      "public ethereum network",
+      "concept demonstrating"
+    ],
+    "summary": "# [finextra] UBS demonstrates implementation of compliance checks on transactions crossing Ethereum UBS demonstrates implementation of compliance checks on transactions crossing Ethereum UBS and blockchain engineering firm Nethermind have successfully completed two joint proofs of concept demonstrating that the public Ethereum network can support the operational and compliance requirements of top tier financial institutions."
   }
 }
