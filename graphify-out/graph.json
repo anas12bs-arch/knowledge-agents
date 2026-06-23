@@ -836,11 +836,11 @@
       "_origin": "ast"
     },
     {
-      "id": "core_graphify_writer_py_path",
+      "id": "path",
       "label": "Path",
       "file_type": "code",
-      "source_file": "core/graphify_writer.py",
-      "source_location": "L32",
+      "source_file": "",
+      "source_location": "",
       "_origin": "ast"
     },
     {
@@ -1078,14 +1078,6 @@
     {
       "id": "scripts_export_to_claude_memory_parse_md",
       "label": "parse_md()",
-      "file_type": "code",
-      "source_file": "scripts/export_to_claude_memory.py",
-      "source_location": "L21",
-      "_origin": "ast"
-    },
-    {
-      "id": "scripts_export_to_claude_memory_py_path",
-      "label": "Path",
       "file_type": "code",
       "source_file": "scripts/export_to_claude_memory.py",
       "source_location": "L21",
@@ -1696,6 +1688,22 @@
       "label": "[hf-blog] Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
       "file_type": "document",
       "source_file": "corpus/ai-research/huggingface_co_blog_ibm-research_agent-logic-and-scalable-ai_088cdea135.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "ai_research_huggingface_co_blog_ibm_research_cuga_apps_0b690c5df3",
+      "label": "huggingface_co_blog_ibm-research_cuga-apps_0b690c5df3.md",
+      "file_type": "document",
+      "source_file": "corpus/ai-research/huggingface_co_blog_ibm-research_cuga-apps_0b690c5df3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "ai_research_huggingface_co_blog_ibm_research_cuga_apps_0b690c5df3_hf_blog_build_real_agentic_apps_using_cuga_two_dozen_working_examples_on_a_lightweight_harness",
+      "label": "[hf-blog] Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "file_type": "document",
+      "source_file": "corpus/ai-research/huggingface_co_blog_ibm-research_cuga-apps_0b690c5df3.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -2784,6 +2792,22 @@
       "label": "[sequoia] Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience",
       "file_type": "document",
       "source_file": "corpus/business/sequoiacap_com_article_partnering-with-ineffable-intelligenc_c7b000b07d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf",
+      "label": "sequoiacap_com_article_partnering-with-probook-ai-for-the-tr_be8f5751cf.md",
+      "file_type": "document",
+      "source_file": "corpus/business/sequoiacap_com_article_partnering-with-probook-ai-for-the-tr_be8f5751cf.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf_sequoia_partnering_with_probook_ai_for_the_trades",
+      "label": "[sequoia] Partnering with Probook: AI for the Trades",
+      "file_type": "document",
+      "source_file": "corpus/business/sequoiacap_com_article_partnering-with-probook-ai-for-the-tr_be8f5751cf.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -8204,6 +8228,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_akoladefaj_running_async_python_inside_celery_is_hard_49de5f569d",
+      "label": "dev_to_akoladefaj_running-async-python-inside-celery-is-hard_49de5f569d.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_akoladefaj_running-async-python-inside-celery-is-hard_49de5f569d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_akoladefaj_running_async_python_inside_celery_is_hard_49de5f569d_running_async_python_inside_celery_is_harder_than_you_think",
+      "label": "Running Async Python Inside Celery Is Harder Than You Think.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_akoladefaj_running-async-python-inside-celery-is-hard_49de5f569d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_akshay_kumardadheech_14f_i_built_an_open_source_airdr_2e42768f16",
       "label": "dev_to_akshay_kumardadheech_14f_i-built-an-open-source-airdr_2e42768f16.md",
       "file_type": "document",
@@ -8280,6 +8320,22 @@
       "label": "A Pre-Execution Gate for AI Agents: 3 Barriers",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_alex_spinov_a-pre-execution-gate-for-ai-agents-3-barr_e9c91768ca.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_alex_spinov_audit_ai_generated_tests_half_of_green_ci_693d026a44",
+      "label": "dev_to_alex_spinov_audit-ai-generated-tests-half-of-green-ci_693d026a44.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_alex_spinov_audit-ai-generated-tests-half-of-green-ci_693d026a44.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_alex_spinov_audit_ai_generated_tests_half_of_green_ci_693d026a44_audit_ai_generated_tests_half_of_green_ci_proves_nothing",
+      "label": "Audit AI-Generated Tests: Half of Green CI Proves Nothing",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_alex_spinov_audit-ai-generated-tests-half-of-green-ci_693d026a44.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -9004,6 +9060,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_antonambarov_i_built_an_open_source_seo_landing_build_c84fe17840",
+      "label": "dev_to_antonambarov_i-built-an-open-source-seo-landing-build_c84fe17840.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_antonambarov_i-built-an-open-source-seo-landing-build_c84fe17840.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_antonambarov_i_built_an_open_source_seo_landing_build_c84fe17840_i_built_an_open_source_seo_landing_builder_next_js_payload_but_i_need_your_help_is_this_actually_useful",
+      "label": "I built an open-source SEO landing builder (Next.js + Payload). But I need your help — is this actually useful?",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_antonambarov_i-built-an-open-source-seo-landing-build_c84fe17840.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_antonio_1313_building_a_cloud_siem_from_scratch_with_89156362e1",
       "label": "dev_to_antonio-1313_building-a-cloud-siem-from-scratch-with-_89156362e1.md",
       "file_type": "document",
@@ -9144,6 +9216,22 @@
       "label": "Async Job Queues in Next.js — Handling Long-Running Tasks Without Timeouts",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_aon_infotech_3a1b6ff525fc_async-job-queues-in-nextjs-_979f205234.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_aon_infotech_3a1b6ff525fc_optimizing_nextjs_app_route_1a164e490a",
+      "label": "dev_to_aon_infotech_3a1b6ff525fc_optimizing-nextjs-app-route_1a164e490a.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_aon_infotech_3a1b6ff525fc_optimizing-nextjs-app-route_1a164e490a.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_aon_infotech_3a1b6ff525fc_optimizing_nextjs_app_route_1a164e490a_optimizing_next_js_app_router_for_core_web_vitals_a_practical_guide",
+      "label": "Optimizing Next.js App Router for Core Web Vitals — A Practical Guide",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_aon_infotech_3a1b6ff525fc_optimizing-nextjs-app-route_1a164e490a.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -12124,6 +12212,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_casperday11_looking_for_internship_5epj_acc2c52a64",
+      "label": "dev_to_casperday11_looking-for-internship-5epj_acc2c52a64.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_casperday11_looking-for-internship-5epj_acc2c52a64.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_casperday11_looking_for_internship_5epj_acc2c52a64_looking_for_internship",
+      "label": "Looking for Internship",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_casperday11_looking-for-internship-5epj_acc2c52a64.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_casperday11_today_my_portfolio_started_talking_back_3_5c83e95970",
       "label": "dev_to_casperday11_today-my-portfolio-started-talking-back-3_5c83e95970.md",
       "file_type": "document",
@@ -14348,6 +14452,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_devopsdaily_hetzner_doubled_its_prices_again_the_ai_m_ec640f53df",
+      "label": "dev_to_devopsdaily_hetzner-doubled-its-prices-again-the-ai-m_ec640f53df.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_devopsdaily_hetzner-doubled-its-prices-again-the-ai-m_ec640f53df.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_devopsdaily_hetzner_doubled_its_prices_again_the_ai_m_ec640f53df_hetzner_doubled_its_prices_again_the_ai_memory_crunch_is_why",
+      "label": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_devopsdaily_hetzner-doubled-its-prices-again-the-ai-m_ec640f53df.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_devshefali_24_modern_css_tricks_every_frontend_develo_3d5cadbec2",
       "label": "dev_to_devshefali_24-modern-css-tricks-every-frontend-develo_3d5cadbec2.md",
       "file_type": "document",
@@ -15020,6 +15140,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_doidun2_spf_dkim_and_dmarc_in_phishing_detection_usef_4dfad416bf",
+      "label": "dev_to_doidun2_spf-dkim-and-dmarc-in-phishing-detection-usef_4dfad416bf.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_doidun2_spf-dkim-and-dmarc-in-phishing-detection-usef_4dfad416bf.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_doidun2_spf_dkim_and_dmarc_in_phishing_detection_usef_4dfad416bf_spf_dkim_and_dmarc_in_phishing_detection_useful_signals_not_magic_answers",
+      "label": "SPF, DKIM, and DMARC in Phishing Detection: Useful Signals, Not Magic Answers",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_doidun2_spf-dkim-and-dmarc-in-phishing-detection-usef_4dfad416bf.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_dotnettitan_i_have_7_years_of_experience_as_a_softwar_cbf825f9bb",
       "label": "dev_to_dotnettitan_i-have-7-years-of-experience-as-a-softwar_cbf825f9bb.md",
       "file_type": "document",
@@ -15080,6 +15216,22 @@
       "label": "What I Learned Building a Redis Clone in C++",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_drishtitripathi2230_what-i-learned-building-a-redis-c_ee0a56ab7e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_drizzdev_how_to_test_payment_flows_in_mobile_apps_wit_9713d0e330",
+      "label": "dev_to_drizzdev_how-to-test-payment-flows-in-mobile-apps-wit_9713d0e330.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_drizzdev_how-to-test-payment-flows-in-mobile-apps-wit_9713d0e330.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_drizzdev_how_to_test_payment_flows_in_mobile_apps_wit_9713d0e330_how_to_test_payment_flows_in_mobile_apps_without_test_cards_failing_every_sprint",
+      "label": "How to Test Payment Flows in Mobile Apps Without Test Cards Failing Every Sprint",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_drizzdev_how-to-test-payment-flows-in-mobile-apps-wit_9713d0e330.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -16492,6 +16644,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_fagundesv_your_model_isnt_underfitting_your_features_96ab7cac5f",
+      "label": "dev_to_fagundesv_your-model-isnt-underfitting-your-features-_96ab7cac5f.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_fagundesv_your-model-isnt-underfitting-your-features-_96ab7cac5f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_fagundesv_your_model_isnt_underfitting_your_features_96ab7cac5f_your_model_isn_t_underfitting_your_features_are_lazy",
+      "label": "Your model isn't underfitting. Your features are lazy.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_fagundesv_your-model-isnt-underfitting-your-features-_96ab7cac5f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_fahadhafeeezofficial_i_built_a_github_app_that_auto_g_178d32c431",
       "label": "dev_to_fahadhafeeezofficial_i-built-a-github-app-that-auto-g_178d32c431.md",
       "file_type": "document",
@@ -17852,6 +18020,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_gisfromscratch_building_a_local_ai_agent_for_osm_21_d_a6cfb3ddcb",
+      "label": "dev_to_gisfromscratch_building-a-local-ai-agent-for-osm-21-d_a6cfb3ddcb.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_gisfromscratch_building-a-local-ai-agent-for-osm-21-d_a6cfb3ddcb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_gisfromscratch_building_a_local_ai_agent_for_osm_21_d_a6cfb3ddcb_building_a_local_ai_agent_for_osm_21_days_of_iteration",
+      "label": "Building a Local AI Agent for OSM: 21 Days of Iteration",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_gisfromscratch_building-a-local-ai-agent-for-osm-21-d_a6cfb3ddcb.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_gitguardian_extending_our_mission_with_developer_endp_ca08c282cc",
       "label": "dev_to_gitguardian_extending-our-mission-with-developer-endp_ca08c282cc.md",
       "file_type": "document",
@@ -18184,6 +18368,22 @@
       "label": "I built 128 things with AI in 4 months. Then I made an AI dissect all of it.",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_greymothjp_i-built-128-things-with-ai-in-4-months-the_681f54edf3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_grezalazar23453_i_built_gamepad_support_into_my_web_a_3ab7d7e212",
+      "label": "dev_to_grezalazar23453_i-built-gamepad-support-into-my-web-a_3ab7d7e212.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_grezalazar23453_i-built-gamepad-support-into-my-web-a_3ab7d7e212.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_grezalazar23453_i_built_gamepad_support_into_my_web_a_3ab7d7e212_i_built_gamepad_support_into_my_web_app_using_pure_javascript_here_s_everything_i_learned",
+      "label": "I Built Gamepad Support Into My Web App Using Pure JavaScript Here's Everything I Learned",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_grezalazar23453_i-built-gamepad-support-into-my-web-a_3ab7d7e212.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -18816,6 +19016,22 @@
       "label": "Full Stack Developer Portfolio Lessons: What I Learned Building 10+ Projects",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_harshdeepsingh13_full-stack-developer-portfolio-lesso_0c789d6ecc.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_harshpandhe_building_a_custom_autonomous_drone_stack_a3bc760e45",
+      "label": "dev_to_harshpandhe_building-a-custom-autonomous-drone-stack-_a3bc760e45.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_harshpandhe_building-a-custom-autonomous-drone-stack-_a3bc760e45.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_harshpandhe_building_a_custom_autonomous_drone_stack_a3bc760e45_building_a_custom_autonomous_drone_stack_part_1_the_black_box_flight_recorder",
+      "label": "Building a Custom Autonomous Drone Stack - Part 1: The Black Box Flight Recorder",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_harshpandhe_building-a-custom-autonomous-drone-stack-_a3bc760e45.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -20900,6 +21116,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_jenueldev_i_am_fired_up_again_377i_c3799b1d0d",
+      "label": "dev_to_jenueldev_i-am-fired-up-again-377i_c3799b1d0d.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_jenueldev_i-am-fired-up-again-377i_c3799b1d0d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_jenueldev_i_am_fired_up_again_377i_c3799b1d0d_i_am_fired_up_again",
+      "label": "I Am Fired Up Again",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_jenueldev_i-am-fired-up-again-377i_c3799b1d0d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_jenueldev_i_stopped_using_heavy_ides_ai_became_my_ide_948f70e984",
       "label": "dev_to_jenueldev_i-stopped-using-heavy-ides-ai-became-my-ide_948f70e984.md",
       "file_type": "document",
@@ -22324,6 +22556,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_kislay_how_developers_can_show_real_work_1ajo_b19236b824",
+      "label": "dev_to_kislay_how-developers-can-show-real-work-1ajo_b19236b824.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_kislay_how-developers-can-show-real-work-1ajo_b19236b824.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_kislay_how_developers_can_show_real_work_1ajo_b19236b824_how_developers_can_show_real_work",
+      "label": "How Developers Can Show Real Work",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_kislay_how-developers-can-show-real-work-1ajo_b19236b824.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_kislay_how_to_build_profiles_for_landing_remote_jobs_19b9aaffb0",
       "label": "dev_to_kislay_how-to-build-profiles-for-landing-remote-jobs-_19b9aaffb0.md",
       "file_type": "document",
@@ -22640,6 +22888,22 @@
       "label": "How to Use the TypeScript Compiler (tsc) to Compile Your Code",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_krunalkanojiya_how-to-use-the-typescript-compiler-tsc_d1d86c0430.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_kumakint_build_collaborative_spreadsheets_and_data_gr_d903569e61",
+      "label": "dev_to_kumakint_build-collaborative-spreadsheets-and-data-gr_d903569e61.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_kumakint_build-collaborative-spreadsheets-and-data-gr_d903569e61.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_kumakint_build_collaborative_spreadsheets_and_data_gr_d903569e61_build_collaborative_spreadsheets_and_data_grids",
+      "label": "Build Collaborative Spreadsheets and Data Grids",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_kumakint_build-collaborative-spreadsheets-and-data-gr_d903569e61.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -24344,6 +24608,22 @@
       "label": "Turn Your Web App into a Desktop App with Deno",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_marrouchi_turn-your-web-app-into-a-desktop-app-with-d_6811fe6c39.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_martin_palopoli_cron_jobs_without_celery_redis_or_bea_c380b02ab7",
+      "label": "dev_to_martin_palopoli_cron-jobs-without-celery-redis-or-bea_c380b02ab7.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_martin_palopoli_cron-jobs-without-celery-redis-or-bea_c380b02ab7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_martin_palopoli_cron_jobs_without_celery_redis_or_bea_c380b02ab7_cron_jobs_without_celery_redis_or_beat_how_fitz_puts_a_distributed_scheduler_inside_the_language",
+      "label": "Cron jobs without Celery, Redis, or Beat: how Fitz puts a distributed scheduler inside the language",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_martin_palopoli_cron-jobs-without-celery-redis-or-bea_c380b02ab7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -26600,6 +26880,22 @@
       "label": "Progressive Distillation",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_neuml_progressive-distillation-341i_6932cd8a68.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_newadventuresinit_neander_an_agent_first_programming_c38f0384eb",
+      "label": "dev_to_newadventuresinit_neander-an-agent-first-programming-_c38f0384eb.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_newadventuresinit_neander-an-agent-first-programming-_c38f0384eb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_newadventuresinit_neander_an_agent_first_programming_c38f0384eb_neander_an_agent_first_programming_language",
+      "label": "Neander: An Agent-First Programming Language",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_newadventuresinit_neander-an-agent-first-programming-_c38f0384eb.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -29532,6 +29828,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_986dbc03dd",
+      "label": "dev_to_rahim8050_from-feature-delivery-to-platform-engineeri_986dbc03dd.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_rahim8050_from-feature-delivery-to-platform-engineeri_986dbc03dd.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_986dbc03dd_from_feature_delivery_to_platform_engineering",
+      "label": "From Feature Delivery to Platform Engineering.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_rahim8050_from-feature-delivery-to-platform-engineeri_986dbc03dd.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_be48dc26ac",
       "label": "dev_to_rahim8050_from-feature-delivery-to-platform-engineeri_be48dc26ac.md",
       "file_type": "document",
@@ -30428,6 +30740,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_roandejager_i_built_a_local_ai_memory_gate_on_a_cpu_a_2b7ba21f34",
+      "label": "dev_to_roandejager_i-built-a-local-ai-memory-gate-on-a-cpu-a_2b7ba21f34.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_roandejager_i-built-a-local-ai-memory-gate-on-a-cpu-a_2b7ba21f34.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_roandejager_i_built_a_local_ai_memory_gate_on_a_cpu_a_2b7ba21f34_i_built_a_local_ai_memory_gate_on_a_cpu_and_my_7b_model_scored_worse_than_my_1_5b_model_because_it_was_too_smart",
+      "label": "I built a local AI memory gate on a CPU, and my 7B model scored worse than my 1.5B model because it was too smart",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_roandejager_i-built-a-local-ai-memory-gate-on-a-cpu-a_2b7ba21f34.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_robin_ivi_the_future_of_front_end_development_are_we_4311f856ec",
       "label": "dev_to_robin-ivi_the-future-of-front-end-development-are-we-_4311f856ec.md",
       "file_type": "document",
@@ -31160,6 +31488,22 @@
       "label": "Building an AI Research Agent with LangGraph, Claude, and AWS",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_sanjaypatoliya_building-an-ai-research-agent-with-lan_a01f78dc2b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_santosh_mahale_97b11060f9_we_renamed_the_devops_team_b7b3b87045",
+      "label": "dev_to_santosh_mahale_97b11060f9_we-renamed-the-devops-team-_b7b3b87045.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_santosh_mahale_97b11060f9_we-renamed-the-devops-team-_b7b3b87045.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_santosh_mahale_97b11060f9_we_renamed_the_devops_team_b7b3b87045_we_renamed_the_devops_team_platform_engineering_nothing_changed_here_s_why",
+      "label": "We Renamed the DevOps Team 'Platform Engineering.' Nothing Changed. Here's Why.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_santosh_mahale_97b11060f9_we-renamed-the-devops-team-_b7b3b87045.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -35160,6 +35504,22 @@
       "label": "Idempotency Keys in Spring Boot: Make POST Safe Against Retries",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_thellu_idempotency-keys-in-spring-boot-make-post-safe_fe63a182e8.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_themechbro_a_users_terminal_opened_a_code_editor_inst_150794c528",
+      "label": "dev_to_themechbro_a-users-terminal-opened-a-code-editor-inst_150794c528.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_themechbro_a-users-terminal-opened-a-code-editor-inst_150794c528.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_themechbro_a_users_terminal_opened_a_code_editor_inst_150794c528_a_user_s_terminal_opened_a_code_editor_instead_of_running_my_cli_tool",
+      "label": "A user's terminal opened a code editor instead of running my CLI tool.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_themechbro_a-users-terminal-opened-a-code-editor-inst_150794c528.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -40348,6 +40708,22 @@
       "_origin": "ast"
     },
     {
+      "id": "engineering_www_infoq_com_news_2026_06_lucide_v1_icons_utm_campaign_info_e6c8cc73eb",
+      "label": "www_infoq_com_news_2026_06_lucide-v1-icons_utm_campaign_info_e6c8cc73eb.md",
+      "file_type": "document",
+      "source_file": "corpus/engineering/www_infoq_com_news_2026_06_lucide-v1-icons_utm_campaign_info_e6c8cc73eb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "engineering_www_infoq_com_news_2026_06_lucide_v1_icons_utm_campaign_info_e6c8cc73eb_infoq_lucide_releases_version_1_0_removing_brand_icons_and_cutting_bundle_size_for_millions_of_projects",
+      "label": "[infoq] Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects",
+      "file_type": "document",
+      "source_file": "corpus/engineering/www_infoq_com_news_2026_06_lucide-v1-icons_utm_campaign_info_e6c8cc73eb.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "engineering_www_infoq_com_news_2026_06_lyft_gated_community_routing_utm_9ca527cb43",
       "label": "www_infoq_com_news_2026_06_lyft-gated-community-routing_utm__9ca527cb43.md",
       "file_type": "document",
@@ -40360,6 +40736,22 @@
       "label": "[infoq] Lyft Uses Mapping Intelligence to Reduce Friction in Gated Community Pickups",
       "file_type": "document",
       "source_file": "corpus/engineering/www_infoq_com_news_2026_06_lyft-gated-community-routing_utm__9ca527cb43.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "engineering_www_infoq_com_news_2026_06_microsoft_build_aks_ai_utm_campai_9789e0a199",
+      "label": "www_infoq_com_news_2026_06_microsoft-build-aks-ai_utm_campai_9789e0a199.md",
+      "file_type": "document",
+      "source_file": "corpus/engineering/www_infoq_com_news_2026_06_microsoft-build-aks-ai_utm_campai_9789e0a199.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "engineering_www_infoq_com_news_2026_06_microsoft_build_aks_ai_utm_campai_9789e0a199_infoq_microsoft_expands_azure_kubernetes_service_with_bare_metal_fleet_management_and_ai_infrastructure",
+      "label": "[infoq] Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure",
+      "file_type": "document",
+      "source_file": "corpus/engineering/www_infoq_com_news_2026_06_microsoft-build-aks-ai_utm_campai_9789e0a199.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -40952,6 +41344,22 @@
       "label": "[infoq] Presentation: From Founding Engineer to CTO to CEO – At the Same Startup",
       "file_type": "document",
       "source_file": "corpus/engineering/www_infoq_com_presentations_framework-best-practices-startup_77eb18f50f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "engineering_www_infoq_com_presentations_incident_dns_utm_campaign_infoq_5223235966",
+      "label": "www_infoq_com_presentations_incident-dns_utm_campaign_infoq__5223235966.md",
+      "file_type": "document",
+      "source_file": "corpus/engineering/www_infoq_com_presentations_incident-dns_utm_campaign_infoq__5223235966.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "engineering_www_infoq_com_presentations_incident_dns_utm_campaign_infoq_5223235966_infoq_presentation_the_time_it_wasn_t_dns",
+      "label": "[infoq] Presentation: The Time It Wasn't DNS",
+      "file_type": "document",
+      "source_file": "corpus/engineering/www_infoq_com_presentations_incident-dns_utm_campaign_infoq__5223235966.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -44296,6 +44704,22 @@
       "label": "[finextra] French neobank Green-Got shatters Crowdcube records",
       "file_type": "document",
       "source_file": "corpus/finance/www_finextra_com_newsarticle_47973_french-neobank-green-got-_f7de8c4e60.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "finance_www_finextra_com_newsarticle_47976_meta_leads_900m_funding_r_5823da6b71",
+      "label": "www_finextra_com_newsarticle_47976_meta-leads-900m-funding-r_5823da6b71.md",
+      "file_type": "document",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_47976_meta-leads-900m-funding-r_5823da6b71.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "finance_www_finextra_com_newsarticle_47976_meta_leads_900m_funding_r_5823da6b71_finextra_meta_leads_900m_funding_round_for_indian_fintech_cred",
+      "label": "[finextra] Meta leads $900m funding round for Indian fintech Cred",
+      "file_type": "document",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_47976_meta-leads-900m-funding-r_5823da6b71.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -61276,6 +61700,22 @@
       "_origin": "ast"
     },
     {
+      "id": "hackernews_github_com_baidu_unlimited_ocr_11b86268bb",
+      "label": "github_com_baidu_Unlimited-OCR_11b86268bb.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_baidu_Unlimited-OCR_11b86268bb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_baidu_unlimited_ocr_11b86268bb_unlimited_ocr_one_shot_long_horizon_parsing",
+      "label": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_baidu_Unlimited-OCR_11b86268bb.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "hackernews_github_com_boringcollege_zig_by_example_812e1ce3f3",
       "label": "github_com_boringcollege_zig-by-example_812e1ce3f3.md",
       "file_type": "document",
@@ -62396,6 +62836,22 @@
       "_origin": "ast"
     },
     {
+      "id": "hackernews_github_com_ryukinix_cl_bbs_6704954b9f",
+      "label": "github_com_ryukinix_cl-bbs_6704954b9f.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_ryukinix_cl-bbs_6704954b9f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_ryukinix_cl_bbs_6704954b9f_cl_bbs_the_schemebbs_like_textboard_rewritten_in_common_lisp",
+      "label": "CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_ryukinix_cl-bbs_6704954b9f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "hackernews_github_com_s_macke_test_drive_3_maps_ebe8fb6918",
       "label": "github_com_s-macke_Test-Drive-3-Maps_ebe8fb6918.md",
       "file_type": "document",
@@ -62488,6 +62944,22 @@
       "label": "Show HN: Live breath detection and biofeedback from a phone microphone",
       "file_type": "document",
       "source_file": "corpus/hackernews/github_com_shiihaa-app_shiihaa-breath-detection_28bf582275.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_shumaione_shumai_60f28f7087",
+      "label": "github_com_shumaiOne_shumai_60f28f7087.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_shumaiOne_shumai_60f28f7087.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_shumaione_shumai_60f28f7087_show_hn_shumai_open_source_frame_io_alternative_for_creative_work",
+      "label": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_shumaiOne_shumai_60f28f7087.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -62840,6 +63312,22 @@
       "label": "Peopleless economy? Not technically impossible",
       "file_type": "document",
       "source_file": "corpus/hackernews/gmalandrakis_com_writings_ad-economicum_html_2d9cb8b658.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_gopeek_lovat_vercel_app_blog_you_already_have_a_git_server_h_8a6b3535ce",
+      "label": "gopeek-lovat_vercel_app_blog-you-already-have-a-git-server_h_8a6b3535ce.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/gopeek-lovat_vercel_app_blog-you-already-have-a-git-server_h_8a6b3535ce.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_gopeek_lovat_vercel_app_blog_you_already_have_a_git_server_h_8a6b3535ce_you_already_have_a_git_server",
+      "label": "You already have a Git server",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/gopeek-lovat_vercel_app_blog-you-already-have-a-git-server_h_8a6b3535ce.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -64696,6 +65184,22 @@
       "label": "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts",
       "file_type": "document",
       "source_file": "corpus/hackernews/lsc-pagepro_mydigitalpublication_com_publication_i_865273_p__d9b721c11d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_lucumr_pocoo_org_2026_6_23_the_coming_loop_2eece697b1",
+      "label": "lucumr_pocoo_org_2026_6_23_the-coming-loop_2eece697b1.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_6_23_the-coming-loop_2eece697b1.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_lucumr_pocoo_org_2026_6_23_the_coming_loop_2eece697b1_the_coming_loop",
+      "label": "The Coming Loop",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_6_23_the-coming-loop_2eece697b1.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -67352,6 +67856,22 @@
       "label": "There Are No Instances in ATProto",
       "file_type": "document",
       "source_file": "corpus/hackernews/overreacted_io_there-are-no-instances-in-atproto_a16a8248af.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_owl_billpg_com_8086_segmented_memory_was_a_good_idea_almost_95c61dd50e",
+      "label": "owl_billpg_com_8086-segmented-memory-was-a-good-idea-almost_95c61dd50e.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/owl_billpg_com_8086-segmented-memory-was-a-good-idea-almost_95c61dd50e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_owl_billpg_com_8086_segmented_memory_was_a_good_idea_almost_95c61dd50e_8086_segmented_memory_was_a_good_idea",
+      "label": "8086 Segmented Memory was a good idea",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/owl_billpg_com_8086-segmented-memory-was-a-good-idea-almost_95c61dd50e.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -71260,6 +71780,22 @@
       "_origin": "ast"
     },
     {
+      "id": "hackernews_worksinprogress_co_issue_the_wonder_of_epidurals_73ef8fe147",
+      "label": "worksinprogress_co_issue_the-wonder-of-epidurals_73ef8fe147.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/worksinprogress_co_issue_the-wonder-of-epidurals_73ef8fe147.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_worksinprogress_co_issue_the_wonder_of_epidurals_73ef8fe147_epidurals_are_a_miracle_technology",
+      "label": "Epidurals are a miracle technology",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/worksinprogress_co_issue_the-wonder-of-epidurals_73ef8fe147.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "hackernews_worldip_io_c7f0a3da9c",
       "label": "worldip_io_c7f0a3da9c.md",
       "file_type": "document",
@@ -71448,6 +71984,22 @@
       "label": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_404media_co_judge-learns-lawyers-on-both-sides-of-case-u_8832cb13cd.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_www_404media_co_madison_square_garden_made_dossier_on_activi_eda7c57ad7",
+      "label": "www_404media_co_madison-square-garden-made-dossier-on-activi_eda7c57ad7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_404media_co_madison-square-garden-made-dossier-on-activi_eda7c57ad7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_www_404media_co_madison_square_garden_made_dossier_on_activi_eda7c57ad7_msg_made_dossier_on_activists_who_opposed_facial_recognition",
+      "label": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_404media_co_madison-square-garden-made-dossier-on-activi_eda7c57ad7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -72072,6 +72624,22 @@
       "label": "Apple boss Tim Cook says prices to rise due to memory chip costs",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_bbc_com_news_articles_c3wyxvqdx1zo_8d2e3d5619.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0",
+      "label": "www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0_oracle_shed_about_20k_roles_globally_in_the_last_year",
+      "label": "Oracle shed about 20k roles globally in the last year",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -85308,6 +85876,22 @@
       "_origin": "ast"
     },
     {
+      "id": "legal_www_techdirt_com_2026_06_23_abc_asks_audience_to_help_defend_58fe556258",
+      "label": "www_techdirt_com_2026_06_23_abc-asks-audience-to-help-defend_58fe556258.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_06_23_abc-asks-audience-to-help-defend_58fe556258.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "legal_www_techdirt_com_2026_06_23_abc_asks_audience_to_help_defend_58fe556258_techdirt_abc_asks_audience_to_help_defend_it_from_brendan_carr_s_dumb_censorship_attacks",
+      "label": "[techdirt] ABC Asks Audience To Help Defend It From Brendan Carr’s Dumb Censorship Attacks",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_06_23_abc-asks-audience-to-help-defend_58fe556258.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "npm_npmjs_com_package_angular_d43fa78c01",
       "label": "npmjs_com_package_angular_d43fa78c01.md",
       "file_type": "document",
@@ -88156,6 +88740,38 @@
       "_origin": "ast"
     },
     {
+      "id": "product_techcrunch_com_2026_06_23_4_days_left_to_save_up_to_190_on_t_6d1b6a1eca",
+      "label": "techcrunch_com_2026_06_23_4-days-left-to-save-up-to-190-on-t_6d1b6a1eca.md",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_06_23_4-days-left-to-save-up-to-190-on-t_6d1b6a1eca.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_techcrunch_com_2026_06_23_4_days_left_to_save_up_to_190_on_t_6d1b6a1eca_techcrunch_startups_4_days_left_to_save_up_to_190_on_techcrunch_founder_summit_2026",
+      "label": "[techcrunch-startups] 4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_06_23_4-days-left-to-save-up-to-190-on-t_6d1b6a1eca.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_techcrunch_com_2026_06_23_fika_jobs_raises_4m_to_build_a_vid_bbcba71ce3",
+      "label": "techcrunch_com_2026_06_23_fika-jobs-raises-4m-to-build-a-vid_bbcba71ce3.md",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_06_23_fika-jobs-raises-4m-to-build-a-vid_bbcba71ce3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "product_techcrunch_com_2026_06_23_fika_jobs_raises_4m_to_build_a_vid_bbcba71ce3_techcrunch_startups_fika_jobs_raises_4m_to_build_a_video_first_hiring_platform_where_ai_agents_interview_candidates",
+      "label": "[techcrunch-startups] Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_06_23_fika-jobs-raises-4m-to-build-a-vid_bbcba71ce3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "product_techcrunch_com_podcast_andrew_yang_on_noble_mobile_ubi_and_w_841008fcd2",
       "label": "techcrunch_com_podcast_andrew-yang-on-noble-mobile-ubi-and-w_841008fcd2.md",
       "file_type": "document",
@@ -90796,6 +91412,22 @@
       "_origin": "ast"
     },
     {
+      "id": "sales_www_lennysnewsletter_com_p_the_new_inner_game_your_unfair_ad_886b1878a2",
+      "label": "www_lennysnewsletter_com_p_the-new-inner-game-your-unfair-ad_886b1878a2.md",
+      "file_type": "document",
+      "source_file": "corpus/sales/www_lennysnewsletter_com_p_the-new-inner-game-your-unfair-ad_886b1878a2.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "sales_www_lennysnewsletter_com_p_the_new_inner_game_your_unfair_ad_886b1878a2_lennys_the_new_inner_game_your_unfair_advantage_in_the_age_of_ai",
+      "label": "[lennys] The new inner game: Your unfair advantage in the age of AI",
+      "file_type": "document",
+      "source_file": "corpus/sales/www_lennysnewsletter_com_p_the-new-inner-game-your-unfair-ad_886b1878a2.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "sales_www_saastr_com_10_of_the_top_mistakes_first_time_founders_ma_3c6c93c426",
       "label": "www_saastr_com_10-of-the-top-mistakes-first-time-founders-ma_3c6c93c426.md",
       "file_type": "document",
@@ -92568,6 +93200,22 @@
       "label": "[hacker-news-sec] Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
       "file_type": "document",
       "source_file": "corpus/security/thehackernews_com_2026_06_agentic-ai-is-transforming-defense_71e224483c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "security_thehackernews_com_2026_06_agentic_ai_weapon_that_no_longer_n_0ddb654234",
+      "label": "thehackernews_com_2026_06_agentic-ai-weapon-that-no-longer-n_0ddb654234.md",
+      "file_type": "document",
+      "source_file": "corpus/security/thehackernews_com_2026_06_agentic-ai-weapon-that-no-longer-n_0ddb654234.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "security_thehackernews_com_2026_06_agentic_ai_weapon_that_no_longer_n_0ddb654234_hacker_news_sec_agentic_ai_the_weapon_that_no_longer_needs_a_warrior",
+      "label": "[hacker-news-sec] Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "file_type": "document",
+      "source_file": "corpus/security/thehackernews_com_2026_06_agentic-ai-weapon-that-no-longer-n_0ddb654234.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -96012,6 +96660,22 @@
       "_origin": "ast"
     },
     {
+      "id": "security_www_bleepingcomputer_com_news_security_lastpass_confirms_dat_a242733f44",
+      "label": "www_bleepingcomputer_com_news_security_lastpass-confirms-dat_a242733f44.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_lastpass-confirms-dat_a242733f44.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "security_www_bleepingcomputer_com_news_security_lastpass_confirms_dat_a242733f44_bleeping_comp_lastpass_confirms_data_breach_in_klue_supply_chain_attack",
+      "label": "[bleeping-comp] LastPass confirms data breach in Klue supply chain attack",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_lastpass-confirms-dat_a242733f44.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "security_www_bleepingcomputer_com_news_security_law_enforcement_nukes_661c1bc506",
       "label": "www_bleepingcomputer_com_news_security_law-enforcement-nukes_661c1bc506.md",
       "file_type": "document",
@@ -96840,6 +97504,22 @@
       "label": "[bleeping-comp] Webinar tomorrow: From alert to resolution in network incident response",
       "file_type": "document",
       "source_file": "corpus/security/www_bleepingcomputer_com_news_security_webinar-tomorrow-from_2b61218d56.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "security_www_bleepingcomputer_com_news_security_webinar_why_email_sec_ac4d3b6f65",
+      "label": "www_bleepingcomputer_com_news_security_webinar-why-email-sec_ac4d3b6f65.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_webinar-why-email-sec_ac4d3b6f65.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "security_www_bleepingcomputer_com_news_security_webinar_why_email_sec_ac4d3b6f65_bleeping_comp_webinar_why_email_security_teams_are_drowning_in_alerts",
+      "label": "[bleeping-comp] Webinar: Why email security teams are drowning in alerts",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_webinar-why-email-sec_ac4d3b6f65.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -109159,13 +109839,6 @@
       "source_location": "L9"
     },
     {
-      "id": "path",
-      "label": "Path",
-      "file_type": "code",
-      "source_file": "core/graphify_writer.py",
-      "source_location": "L32"
-    },
-    {
       "id": "agents_run_all_rationale_27",
       "label": "Llama a `graphify update` para reconstruir el grafo (AST-only, sin LLM).",
       "file_type": "rationale",
@@ -111561,7 +112234,7 @@
     },
     {
       "source": "core_graphify_writer_dedup_path",
-      "target": "core_graphify_writer_py_path",
+      "target": "path",
       "relation": "references",
       "context": "return_type",
       "confidence": "EXTRACTED",
@@ -111580,7 +112253,7 @@
     },
     {
       "source": "core_graphify_writer_save",
-      "target": "core_graphify_writer_py_path",
+      "target": "path",
       "relation": "references",
       "context": "return_type",
       "confidence": "EXTRACTED",
@@ -112116,7 +112789,7 @@
     },
     {
       "source": "scripts_export_to_claude_memory_parse_md",
-      "target": "scripts_export_to_claude_memory_py_path",
+      "target": "path",
       "relation": "references",
       "context": "parameter_type",
       "confidence": "EXTRACTED",
@@ -112680,6 +113353,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/ai-research/huggingface_co_blog_ibm-research_agent-logic-and-scalable-ai_088cdea135.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_research_huggingface_co_blog_ibm_research_cuga_apps_0b690c5df3",
+      "target": "ai_research_huggingface_co_blog_ibm_research_cuga_apps_0b690c5df3_hf_blog_build_real_agentic_apps_using_cuga_two_dozen_working_examples_on_a_lightweight_harness",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/ai-research/huggingface_co_blog_ibm-research_cuga-apps_0b690c5df3.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -113292,6 +113974,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/business/sequoiacap_com_article_partnering-with-ineffable-intelligenc_c7b000b07d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf",
+      "target": "business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf_sequoia_partnering_with_probook_ai_for_the_trades",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/business/sequoiacap_com_article_partnering-with-probook-ai-for-the-tr_be8f5751cf.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -116356,6 +117047,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_akoladefaj_running_async_python_inside_celery_is_hard_49de5f569d",
+      "target": "devto_dev_to_akoladefaj_running_async_python_inside_celery_is_hard_49de5f569d_running_async_python_inside_celery_is_harder_than_you_think",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_akoladefaj_running-async-python-inside-celery-is-hard_49de5f569d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_akshay_kumardadheech_14f_i_built_an_open_source_airdr_2e42768f16",
       "target": "devto_dev_to_akshay_kumardadheech_14f_i_built_an_open_source_airdr_2e42768f16_i_built_an_open_source_airdrop_alternative_that_works_in_any_browser_no_app_no_account_no_cloud",
       "relation": "contains",
@@ -116397,6 +117097,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_alex_spinov_a-pre-execution-gate-for-ai-agents-3-barr_e9c91768ca.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_alex_spinov_audit_ai_generated_tests_half_of_green_ci_693d026a44",
+      "target": "devto_dev_to_alex_spinov_audit_ai_generated_tests_half_of_green_ci_693d026a44_audit_ai_generated_tests_half_of_green_ci_proves_nothing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_alex_spinov_audit-ai-generated-tests-half-of-green-ci_693d026a44.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -116806,6 +117515,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_antonambarov_i_built_an_open_source_seo_landing_build_c84fe17840",
+      "target": "devto_dev_to_antonambarov_i_built_an_open_source_seo_landing_build_c84fe17840_i_built_an_open_source_seo_landing_builder_next_js_payload_but_i_need_your_help_is_this_actually_useful",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_antonambarov_i-built-an-open-source-seo-landing-build_c84fe17840.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_antonio_1313_building_a_cloud_siem_from_scratch_with_89156362e1",
       "target": "devto_dev_to_antonio_1313_building_a_cloud_siem_from_scratch_with_89156362e1_building_a_cloud_siem_from_scratch_with_aws_lambda_and_eventbridge",
       "relation": "contains",
@@ -116883,6 +117601,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_aon_infotech_3a1b6ff525fc_async-job-queues-in-nextjs-_979f205234.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_aon_infotech_3a1b6ff525fc_optimizing_nextjs_app_route_1a164e490a",
+      "target": "devto_dev_to_aon_infotech_3a1b6ff525fc_optimizing_nextjs_app_route_1a164e490a_optimizing_next_js_app_router_for_core_web_vitals_a_practical_guide",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_aon_infotech_3a1b6ff525fc_optimizing-nextjs-app-route_1a164e490a.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -118561,6 +119288,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_casperday11_looking_for_internship_5epj_acc2c52a64",
+      "target": "devto_dev_to_casperday11_looking_for_internship_5epj_acc2c52a64_looking_for_internship",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_casperday11_looking-for-internship-5epj_acc2c52a64.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_casperday11_today_my_portfolio_started_talking_back_3_5c83e95970",
       "target": "devto_dev_to_casperday11_today_my_portfolio_started_talking_back_3_5c83e95970_today_my_portfolio_started_talking_back",
       "relation": "contains",
@@ -119812,6 +120548,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_devopsdaily_hetzner_doubled_its_prices_again_the_ai_m_ec640f53df",
+      "target": "devto_dev_to_devopsdaily_hetzner_doubled_its_prices_again_the_ai_m_ec640f53df_hetzner_doubled_its_prices_again_the_ai_memory_crunch_is_why",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_devopsdaily_hetzner-doubled-its-prices-again-the-ai-m_ec640f53df.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_devshefali_24_modern_css_tricks_every_frontend_develo_3d5cadbec2",
       "target": "devto_dev_to_devshefali_24_modern_css_tricks_every_frontend_develo_3d5cadbec2_24_modern_css_tricks_every_frontend_developer_should_know",
       "relation": "contains",
@@ -120190,6 +120935,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_doidun2_spf_dkim_and_dmarc_in_phishing_detection_usef_4dfad416bf",
+      "target": "devto_dev_to_doidun2_spf_dkim_and_dmarc_in_phishing_detection_usef_4dfad416bf_spf_dkim_and_dmarc_in_phishing_detection_useful_signals_not_magic_answers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_doidun2_spf-dkim-and-dmarc-in-phishing-detection-usef_4dfad416bf.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_dotnettitan_i_have_7_years_of_experience_as_a_softwar_cbf825f9bb",
       "target": "devto_dev_to_dotnettitan_i_have_7_years_of_experience_as_a_softwar_cbf825f9bb_i_have_7_years_of_experience_as_a_software_engineer_dsa_still_kicked_my_ass",
       "relation": "contains",
@@ -120222,6 +120976,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_drishtitripathi2230_what-i-learned-building-a-redis-c_ee0a56ab7e.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_drizzdev_how_to_test_payment_flows_in_mobile_apps_wit_9713d0e330",
+      "target": "devto_dev_to_drizzdev_how_to_test_payment_flows_in_mobile_apps_wit_9713d0e330_how_to_test_payment_flows_in_mobile_apps_without_test_cards_failing_every_sprint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_drizzdev_how-to-test-payment-flows-in-mobile-apps-wit_9713d0e330.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -121018,6 +121781,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_fagundesv_your_model_isnt_underfitting_your_features_96ab7cac5f",
+      "target": "devto_dev_to_fagundesv_your_model_isnt_underfitting_your_features_96ab7cac5f_your_model_isn_t_underfitting_your_features_are_lazy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_fagundesv_your-model-isnt-underfitting-your-features-_96ab7cac5f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_fahadhafeeezofficial_i_built_a_github_app_that_auto_g_178d32c431",
       "target": "devto_dev_to_fahadhafeeezofficial_i_built_a_github_app_that_auto_g_178d32c431_i_built_a_github_app_that_auto_generates_adversarial_tests_for_ai_written_code_here_s_how_it_works",
       "relation": "contains",
@@ -121783,6 +122555,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_gisfromscratch_building_a_local_ai_agent_for_osm_21_d_a6cfb3ddcb",
+      "target": "devto_dev_to_gisfromscratch_building_a_local_ai_agent_for_osm_21_d_a6cfb3ddcb_building_a_local_ai_agent_for_osm_21_days_of_iteration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_gisfromscratch_building-a-local-ai-agent-for-osm-21-d_a6cfb3ddcb.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_gitguardian_extending_our_mission_with_developer_endp_ca08c282cc",
       "target": "devto_dev_to_gitguardian_extending_our_mission_with_developer_endp_ca08c282cc_extending_our_mission_with_developer_endpoint_protection",
       "relation": "contains",
@@ -121968,6 +122749,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_greymothjp_i-built-128-things-with-ai-in-4-months-the_681f54edf3.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_grezalazar23453_i_built_gamepad_support_into_my_web_a_3ab7d7e212",
+      "target": "devto_dev_to_grezalazar23453_i_built_gamepad_support_into_my_web_a_3ab7d7e212_i_built_gamepad_support_into_my_web_app_using_pure_javascript_here_s_everything_i_learned",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_grezalazar23453_i-built-gamepad-support-into-my-web-a_3ab7d7e212.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -122328,6 +123118,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_harshdeepsingh13_full-stack-developer-portfolio-lesso_0c789d6ecc.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_harshpandhe_building_a_custom_autonomous_drone_stack_a3bc760e45",
+      "target": "devto_dev_to_harshpandhe_building_a_custom_autonomous_drone_stack_a3bc760e45_building_a_custom_autonomous_drone_stack_part_1_the_black_box_flight_recorder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_harshpandhe_building-a-custom-autonomous-drone-stack-_a3bc760e45.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -123502,6 +124301,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_jenueldev_i_am_fired_up_again_377i_c3799b1d0d",
+      "target": "devto_dev_to_jenueldev_i_am_fired_up_again_377i_c3799b1d0d_i_am_fired_up_again",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_jenueldev_i-am-fired-up-again-377i_c3799b1d0d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_jenueldev_i_stopped_using_heavy_ides_ai_became_my_ide_948f70e984",
       "target": "devto_dev_to_jenueldev_i_stopped_using_heavy_ides_ai_became_my_ide_948f70e984_i_stopped_using_heavy_ides_ai_became_my_ide",
       "relation": "contains",
@@ -124303,6 +125111,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_kislay_how_developers_can_show_real_work_1ajo_b19236b824",
+      "target": "devto_dev_to_kislay_how_developers_can_show_real_work_1ajo_b19236b824_how_developers_can_show_real_work",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_kislay_how-developers-can-show-real-work-1ajo_b19236b824.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_kislay_how_to_build_profiles_for_landing_remote_jobs_19b9aaffb0",
       "target": "devto_dev_to_kislay_how_to_build_profiles_for_landing_remote_jobs_19b9aaffb0_how_to_build_profiles_for_landing_remote_jobs_as_a_programmer",
       "relation": "contains",
@@ -124479,6 +125296,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_krunalkanojiya_how-to-use-the-typescript-compiler-tsc_d1d86c0430.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_kumakint_build_collaborative_spreadsheets_and_data_gr_d903569e61",
+      "target": "devto_dev_to_kumakint_build_collaborative_spreadsheets_and_data_gr_d903569e61_build_collaborative_spreadsheets_and_data_grids",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_kumakint_build-collaborative-spreadsheets-and-data-gr_d903569e61.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -125442,6 +126268,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_marrouchi_turn-your-web-app-into-a-desktop-app-with-d_6811fe6c39.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_martin_palopoli_cron_jobs_without_celery_redis_or_bea_c380b02ab7",
+      "target": "devto_dev_to_martin_palopoli_cron_jobs_without_celery_redis_or_bea_c380b02ab7_cron_jobs_without_celery_redis_or_beat_how_fitz_puts_a_distributed_scheduler_inside_the_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_martin_palopoli_cron-jobs-without-celery-redis-or-bea_c380b02ab7.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -126711,6 +127546,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_neuml_progressive-distillation-341i_6932cd8a68.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_newadventuresinit_neander_an_agent_first_programming_c38f0384eb",
+      "target": "devto_dev_to_newadventuresinit_neander_an_agent_first_programming_c38f0384eb_neander_an_agent_first_programming_language",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_newadventuresinit_neander-an-agent-first-programming-_c38f0384eb.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -128362,6 +129206,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_986dbc03dd",
+      "target": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_986dbc03dd_from_feature_delivery_to_platform_engineering",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_rahim8050_from-feature-delivery-to-platform-engineeri_986dbc03dd.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_be48dc26ac",
       "target": "devto_dev_to_rahim8050_from_feature_delivery_to_platform_engineeri_be48dc26ac_from_feature_delivery_to_platform_engineering_scaling_earth_observation_pipelines",
       "relation": "contains",
@@ -128866,6 +129719,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_roandejager_i_built_a_local_ai_memory_gate_on_a_cpu_a_2b7ba21f34",
+      "target": "devto_dev_to_roandejager_i_built_a_local_ai_memory_gate_on_a_cpu_a_2b7ba21f34_i_built_a_local_ai_memory_gate_on_a_cpu_and_my_7b_model_scored_worse_than_my_1_5b_model_because_it_was_too_smart",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_roandejager_i-built-a-local-ai-memory-gate-on-a-cpu-a_2b7ba21f34.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_robin_ivi_the_future_of_front_end_development_are_we_4311f856ec",
       "target": "devto_dev_to_robin_ivi_the_future_of_front_end_development_are_we_4311f856ec_the_future_of_front_end_development_are_we_still_safe_in_the_ai_era",
       "relation": "contains",
@@ -129276,6 +130138,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_sanjaypatoliya_building-an-ai-research-agent-with-lan_a01f78dc2b.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_santosh_mahale_97b11060f9_we_renamed_the_devops_team_b7b3b87045",
+      "target": "devto_dev_to_santosh_mahale_97b11060f9_we_renamed_the_devops_team_b7b3b87045_we_renamed_the_devops_team_platform_engineering_nothing_changed_here_s_why",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_santosh_mahale_97b11060f9_we-renamed-the-devops-team-_b7b3b87045.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -131526,6 +132397,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_thellu_idempotency-keys-in-spring-boot-make-post-safe_fe63a182e8.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_themechbro_a_users_terminal_opened_a_code_editor_inst_150794c528",
+      "target": "devto_dev_to_themechbro_a_users_terminal_opened_a_code_editor_inst_150794c528_a_user_s_terminal_opened_a_code_editor_instead_of_running_my_cli_tool",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_themechbro_a-users-terminal-opened-a-code-editor-inst_150794c528.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -134446,11 +135326,29 @@
       "weight": 1.0
     },
     {
+      "source": "engineering_www_infoq_com_news_2026_06_lucide_v1_icons_utm_campaign_info_e6c8cc73eb",
+      "target": "engineering_www_infoq_com_news_2026_06_lucide_v1_icons_utm_campaign_info_e6c8cc73eb_infoq_lucide_releases_version_1_0_removing_brand_icons_and_cutting_bundle_size_for_millions_of_projects",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/engineering/www_infoq_com_news_2026_06_lucide-v1-icons_utm_campaign_info_e6c8cc73eb.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "engineering_www_infoq_com_news_2026_06_lyft_gated_community_routing_utm_9ca527cb43",
       "target": "engineering_www_infoq_com_news_2026_06_lyft_gated_community_routing_utm_9ca527cb43_infoq_lyft_uses_mapping_intelligence_to_reduce_friction_in_gated_community_pickups",
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/engineering/www_infoq_com_news_2026_06_lyft-gated-community-routing_utm__9ca527cb43.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "engineering_www_infoq_com_news_2026_06_microsoft_build_aks_ai_utm_campai_9789e0a199",
+      "target": "engineering_www_infoq_com_news_2026_06_microsoft_build_aks_ai_utm_campai_9789e0a199_infoq_microsoft_expands_azure_kubernetes_service_with_bare_metal_fleet_management_and_ai_infrastructure",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/engineering/www_infoq_com_news_2026_06_microsoft-build-aks-ai_utm_campai_9789e0a199.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -134784,6 +135682,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/engineering/www_infoq_com_presentations_framework-best-practices-startup_77eb18f50f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "engineering_www_infoq_com_presentations_incident_dns_utm_campaign_infoq_5223235966",
+      "target": "engineering_www_infoq_com_presentations_incident_dns_utm_campaign_infoq_5223235966_infoq_presentation_the_time_it_wasn_t_dns",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/engineering/www_infoq_com_presentations_incident-dns_utm_campaign_infoq__5223235966.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -136665,6 +137572,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/finance/www_finextra_com_newsarticle_47973_french-neobank-green-got-_f7de8c4e60.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "finance_www_finextra_com_newsarticle_47976_meta_leads_900m_funding_r_5823da6b71",
+      "target": "finance_www_finextra_com_newsarticle_47976_meta_leads_900m_funding_r_5823da6b71_finextra_meta_leads_900m_funding_round_for_indian_fintech_cred",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_47976_meta-leads-900m-funding-r_5823da6b71.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -151393,6 +152309,15 @@
       "weight": 1.0
     },
     {
+      "source": "hackernews_github_com_baidu_unlimited_ocr_11b86268bb",
+      "target": "hackernews_github_com_baidu_unlimited_ocr_11b86268bb_unlimited_ocr_one_shot_long_horizon_parsing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_baidu_Unlimited-OCR_11b86268bb.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "hackernews_github_com_boringcollege_zig_by_example_812e1ce3f3",
       "target": "hackernews_github_com_boringcollege_zig_by_example_812e1ce3f3_zig_by_example",
       "relation": "contains",
@@ -152023,6 +152948,15 @@
       "weight": 1.0
     },
     {
+      "source": "hackernews_github_com_ryukinix_cl_bbs_6704954b9f",
+      "target": "hackernews_github_com_ryukinix_cl_bbs_6704954b9f_cl_bbs_the_schemebbs_like_textboard_rewritten_in_common_lisp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_ryukinix_cl-bbs_6704954b9f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "hackernews_github_com_s_macke_test_drive_3_maps_ebe8fb6918",
       "target": "hackernews_github_com_s_macke_test_drive_3_maps_ebe8fb6918_show_hn_i_reverse_engineered_the_world_maps_of_test_drive_iii_1990_dos_game",
       "relation": "contains",
@@ -152073,6 +153007,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/github_com_shiihaa-app_shiihaa-breath-detection_28bf582275.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_github_com_shumaione_shumai_60f28f7087",
+      "target": "hackernews_github_com_shumaione_shumai_60f28f7087_show_hn_shumai_open_source_frame_io_alternative_for_creative_work",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_shumaiOne_shumai_60f28f7087.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -152271,6 +153214,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/gmalandrakis_com_writings_ad-economicum_html_2d9cb8b658.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_gopeek_lovat_vercel_app_blog_you_already_have_a_git_server_h_8a6b3535ce",
+      "target": "hackernews_gopeek_lovat_vercel_app_blog_you_already_have_a_git_server_h_8a6b3535ce_you_already_have_a_git_server",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/gopeek-lovat_vercel_app_blog-you-already-have-a-git-server_h_8a6b3535ce.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -153315,6 +154267,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/lsc-pagepro_mydigitalpublication_com_publication_i_865273_p__d9b721c11d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_lucumr_pocoo_org_2026_6_23_the_coming_loop_2eece697b1",
+      "target": "hackernews_lucumr_pocoo_org_2026_6_23_the_coming_loop_2eece697b1_the_coming_loop",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_6_23_the-coming-loop_2eece697b1.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -154818,6 +155779,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/overreacted_io_there-are-no-instances-in-atproto_a16a8248af.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_owl_billpg_com_8086_segmented_memory_was_a_good_idea_almost_95c61dd50e",
+      "target": "hackernews_owl_billpg_com_8086_segmented_memory_was_a_good_idea_almost_95c61dd50e_8086_segmented_memory_was_a_good_idea",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/owl_billpg_com_8086-segmented-memory-was-a-good-idea-almost_95c61dd50e.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -157018,6 +157988,15 @@
       "weight": 1.0
     },
     {
+      "source": "hackernews_worksinprogress_co_issue_the_wonder_of_epidurals_73ef8fe147",
+      "target": "hackernews_worksinprogress_co_issue_the_wonder_of_epidurals_73ef8fe147_epidurals_are_a_miracle_technology",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/worksinprogress_co_issue_the-wonder-of-epidurals_73ef8fe147.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "hackernews_worldip_io_c7f0a3da9c",
       "target": "hackernews_worldip_io_c7f0a3da9c_the_complete_ipv4_address_space_mapped",
       "relation": "contains",
@@ -157122,6 +158101,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_404media_co_judge-learns-lawyers-on-both-sides-of-case-u_8832cb13cd.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_www_404media_co_madison_square_garden_made_dossier_on_activi_eda7c57ad7",
+      "target": "hackernews_www_404media_co_madison_square_garden_made_dossier_on_activi_eda7c57ad7_msg_made_dossier_on_activists_who_opposed_facial_recognition",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_404media_co_madison-square-garden-made-dossier-on-activi_eda7c57ad7.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -157473,6 +158461,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_bbc_com_news_articles_c3wyxvqdx1zo_8d2e3d5619.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0",
+      "target": "hackernews_www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0_oracle_shed_about_20k_roles_globally_in_the_last_year",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_bbc_com_news_articles_c4gy0x0j5deo_ded26315c0.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -164920,6 +165917,15 @@
       "weight": 1.0
     },
     {
+      "source": "legal_www_techdirt_com_2026_06_23_abc_asks_audience_to_help_defend_58fe556258",
+      "target": "legal_www_techdirt_com_2026_06_23_abc_asks_audience_to_help_defend_58fe556258_techdirt_abc_asks_audience_to_help_defend_it_from_brendan_carr_s_dumb_censorship_attacks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/www_techdirt_com_2026_06_23_abc-asks-audience-to-help-defend_58fe556258.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "npm_npmjs_com_package_angular_d43fa78c01",
       "target": "npm_npmjs_com_package_angular_d43fa78c01_npm_angular_v1_8_3",
       "relation": "contains",
@@ -166545,6 +167551,24 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/product/techcrunch_com_2026_06_22_whatsapp-gets-new-chief-as-meta-ta_d3534d8d5d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "product_techcrunch_com_2026_06_23_4_days_left_to_save_up_to_190_on_t_6d1b6a1eca",
+      "target": "product_techcrunch_com_2026_06_23_4_days_left_to_save_up_to_190_on_t_6d1b6a1eca_techcrunch_startups_4_days_left_to_save_up_to_190_on_techcrunch_founder_summit_2026",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/product/techcrunch_com_2026_06_23_4-days-left-to-save-up-to-190-on-t_6d1b6a1eca.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "product_techcrunch_com_2026_06_23_fika_jobs_raises_4m_to_build_a_vid_bbcba71ce3",
+      "target": "product_techcrunch_com_2026_06_23_fika_jobs_raises_4m_to_build_a_vid_bbcba71ce3_techcrunch_startups_fika_jobs_raises_4m_to_build_a_video_first_hiring_platform_where_ai_agents_interview_candidates",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/product/techcrunch_com_2026_06_23_fika-jobs-raises-4m-to-build-a-vid_bbcba71ce3.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -168358,6 +169382,15 @@
       "weight": 1.0
     },
     {
+      "source": "sales_www_lennysnewsletter_com_p_the_new_inner_game_your_unfair_ad_886b1878a2",
+      "target": "sales_www_lennysnewsletter_com_p_the_new_inner_game_your_unfair_ad_886b1878a2_lennys_the_new_inner_game_your_unfair_advantage_in_the_age_of_ai",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sales/www_lennysnewsletter_com_p_the-new-inner-game-your-unfair-ad_886b1878a2.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "sales_www_saastr_com_10_of_the_top_mistakes_first_time_founders_ma_3c6c93c426",
       "target": "sales_www_saastr_com_10_of_the_top_mistakes_first_time_founders_ma_3c6c93c426_saastr_10_of_the_top_mistakes_first_time_founders_make_again_and_again_and_again",
       "relation": "contains",
@@ -169353,6 +170386,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/thehackernews_com_2026_06_agentic-ai-is-transforming-defense_71e224483c.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "security_thehackernews_com_2026_06_agentic_ai_weapon_that_no_longer_n_0ddb654234",
+      "target": "security_thehackernews_com_2026_06_agentic_ai_weapon_that_no_longer_n_0ddb654234_hacker_news_sec_agentic_ai_the_weapon_that_no_longer_needs_a_warrior",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/thehackernews_com_2026_06_agentic-ai-weapon-that-no-longer-n_0ddb654234.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -171292,6 +172334,15 @@
       "weight": 1.0
     },
     {
+      "source": "security_www_bleepingcomputer_com_news_security_lastpass_confirms_dat_a242733f44",
+      "target": "security_www_bleepingcomputer_com_news_security_lastpass_confirms_dat_a242733f44_bleeping_comp_lastpass_confirms_data_breach_in_klue_supply_chain_attack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_lastpass-confirms-dat_a242733f44.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "security_www_bleepingcomputer_com_news_security_law_enforcement_nukes_661c1bc506",
       "target": "security_www_bleepingcomputer_com_news_security_law_enforcement_nukes_661c1bc506_bleeping_comp_police_cleans_nearly_15_000_socgholish_infected_sites_tied_to_evil_corp",
       "relation": "contains",
@@ -171756,6 +172807,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/www_bleepingcomputer_com_news_security_webinar-tomorrow-from_2b61218d56.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "security_www_bleepingcomputer_com_news_security_webinar_why_email_sec_ac4d3b6f65",
+      "target": "security_www_bleepingcomputer_com_news_security_webinar_why_email_sec_ac4d3b6f65_bleeping_comp_webinar_why_email_security_teams_are_drowning_in_alerts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_webinar-why-email-sec_ac4d3b6f65.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -186372,26 +187432,6 @@
       "confidence": "EXTRACTED",
       "source_file": "corpus/learn-archived/pattern_c6bc009c4524.md",
       "source_location": "L9",
-      "weight": 1.0
-    },
-    {
-      "source": "core_graphify_writer_dedup_path",
-      "target": "path",
-      "relation": "references",
-      "context": "return_type",
-      "confidence": "EXTRACTED",
-      "source_file": "core/graphify_writer.py",
-      "source_location": "L32",
-      "weight": 1.0
-    },
-    {
-      "source": "core_graphify_writer_save",
-      "target": "path",
-      "relation": "references",
-      "context": "return_type",
-      "confidence": "EXTRACTED",
-      "source_file": "core/graphify_writer.py",
-      "source_location": "L38",
       "weight": 1.0
     },
     {
