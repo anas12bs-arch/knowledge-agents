@@ -111910,5 +111910,303 @@
       "strip `?`"
     ],
     "summary": "-   fix: include wrapping parentheses in `{@const}` declarator `end` position ([#18436](https://github.com/sveltejs/svelte/pull/18436)) -   fix: always unset reactivity context after restoring it ([#18453](https://github.com/sveltejs/svelte/pull/18453)) -   fix: strip `?` from optional parameters in `<script lang=\"ts\">` so generated JavaScript is valid ([#18448](https://github.com/sveltejs/svelte/pull/18448))"
+  },
+  "28b33d75e151dfe6": {
+    "file": "corpus/product/techcrunch_com_2026_06_23_superhuman-acquires-ai-detection-s_da4336b3c5.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Superhuman acquires AI detection startup GPTZero",
+    "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+    "keywords": [
+      "ai detection tool",
+      "techcrunch",
+      "techcrunch",
+      "startups",
+      "startups",
+      "source",
+      "snapped",
+      "product",
+      "part",
+      "grammarly"
+    ],
+    "summary": "# [techcrunch-startups] Superhuman acquires AI detection startup GPTZero Superhuman acquires AI detection startup GPTZero Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero."
+  },
+  "b777f0a4157e4b11": {
+    "file": "corpus/hackernews/kevquirk_com_no-i-dont-want-you-to-summarise-the-page_eaeeb289f6.md",
+    "source": "hackernews",
+    "title": "I don't want you to summarise the page",
+    "url": "https://kevquirk.com/no-i-dont-want-you-to-summarise-the-page",
+    "keywords": [
+      "55z score",
+      "want",
+      "want",
+      "summarise",
+      "summarise",
+      "source",
+      "page",
+      "page",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# I don't want you to summarise the page > Source: hackernews | Category: news | 2026-06-23T21:57:55Z Score: 8 | Comments: 2"
+  },
+  "ae0cb8d76b05204b": {
+    "file": "corpus/hackernews/devblogs_microsoft_com_oldnewthing_20260622-00_p_112451_92b2f61b5f.md",
+    "source": "hackernews",
+    "title": "In memory of the man who put red and green squiggles under words",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "keywords": [
+      "put red",
+      "put red",
+      "green squiggles",
+      "green squiggles",
+      "55z score",
+      "words",
+      "words",
+      "source",
+      "news",
+      "memory"
+    ],
+    "summary": "# In memory of the man who put red and green squiggles under words > Source: hackernews | Category: news | 2026-06-23T21:57:55Z Score: 6 | Comments: 0"
+  },
+  "0af95a08cba01df4": {
+    "file": "corpus/hackernews/github_blog_developer-skills_github_i-automated-my-job-and-i_31da026976.md",
+    "source": "hackernews",
+    "title": "I automated my job (and it made me a better leader)",
+    "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+    "keywords": [
+      "better leader",
+      "better leader",
+      "52z score",
+      "source",
+      "news",
+      "made",
+      "made",
+      "job",
+      "job",
+      "hackernews"
+    ],
+    "summary": "# I automated my job (and it made me a better leader) > Source: hackernews | Category: news | 2026-06-23T21:57:52Z Score: 7 | Comments: 1"
+  },
+  "15e6ad8f837787f1": {
+    "file": "corpus/hackernews/milek7_pl_mailverifyspam_2f7efdb0a9.md",
+    "source": "hackernews",
+    "title": "Don't verify email addresses by sending spam to them",
+    "url": "https://milek7.pl/mailverifyspam/",
+    "keywords": [
+      "verify email addresses",
+      "verify email addresses",
+      "sending spam",
+      "sending spam",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Don't verify email addresses by sending spam to them > Source: hackernews | Category: news | 2026-06-23T21:57:50Z Score: 74 | Comments: 8"
+  },
+  "8961b7c93c6c02f9": {
+    "file": "corpus/hackernews/english_news_cn_20260624_65f1b6192cd947e28849776a5aef05c6_c__da99152f7c.md",
+    "source": "hackernews",
+    "title": "All train services in Germany halted after train radio communications disruption",
+    "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
+    "keywords": [
+      "train radio communications disruption",
+      "train radio communications disruption",
+      "train services",
+      "train services",
+      "germany halted",
+      "germany halted",
+      "50z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# All train services in Germany halted after train radio communications disruption > Source: hackernews | Category: news | 2026-06-23T21:57:50Z Score: 57 | Comments: 20"
+  },
+  "8a9b561eb91e53e1": {
+    "file": "corpus/hackernews/www_bluewin_ch_en_news_german-rail-service-suspended-due-to-_394dcb10ed.md",
+    "source": "hackernews",
+    "title": "German Rail Service Suspended Due to Radio Interference",
+    "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
+    "keywords": [
+      "radio interference",
+      "radio interference",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# German Rail Service Suspended Due to Radio Interference > Source: hackernews | Category: news | 2026-06-23T21:57:50Z Score: 60 | Comments: 12"
+  },
+  "6d693a462b087a5c": {
+    "file": "corpus/hackernews/github_com_dmtrKovalenko_ffs_dd35ca22e1.md",
+    "source": "hackernews",
+    "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+    "url": "https://github.com/dmtrKovalenko/ffs",
+    "keywords": [
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# F* file system – file search that reads SSD directly bypassing OS kernel > Source: hackernews | Category: news | 2026-06-23T21:57:52Z Score: 6 | Comments: 7"
+  },
+  "985b2fa5d340b5be": {
+    "file": "corpus/devto/dev_to_mickyarun_we-keep-our-architecture-rules-in-the-repo-_b30046116e.md",
+    "source": "devto",
+    "title": "We Keep Our Architecture Rules in the Repo. The AI and the New Hire Read the Same File.",
+    "url": "https://dev.to/mickyarun/we-keep-our-architecture-rules-in-the-repo-the-ai-and-the-new-hire-read-the-same-file-48me",
+    "keywords": [
+      "new hire read",
+      "new hire read",
+      "weeks ago",
+      "tests passed",
+      "feature beautifully",
+      "clean code",
+      "architecture rules",
+      "architecture rules",
+      "agent build",
+      "watched"
+    ],
+    "summary": "# We Keep Our Architecture Rules in the Repo. > Source: devto | Category: news | 2026-06-23T21:57:58Z A few weeks ago I watched an agent build a feature beautifully."
+  },
+  "2d68968702bb245c": {
+    "file": "corpus/devto/dev_to_saint_vandora_fixing-git-divergent-branches-on-a-prod_7d2415b691.md",
+    "source": "devto",
+    "title": "Fixing “Git Divergent Branches” on a Production Server (Real DevOps Debugging Walkthrough)",
+    "url": "https://dev.to/saint_vandora/fixing-git-divergent-branches-on-a-production-server-real-devops-debugging-walkthrough-48np",
+    "keywords": [
+      "real devops debugging walkthrough",
+      "real devops debugging walkthrough",
+      "based application ...",
+      "production server",
+      "production server",
+      "confusing errors",
+      "56z one",
+      "source",
+      "reactions",
+      "node"
+    ],
+    "summary": "# Fixing “Git Divergent Branches” on a Production Server (Real DevOps Debugging Walkthrough) > Source: devto | Category: news | 2026-06-23T21:57:56Z One of the most confusing errors you can face while deploying a Node.js or Docker-based application..."
+  },
+  "04fd9925c511fe3c": {
+    "file": "corpus/devto/dev_to_pascal_cescato_692b7a8a20_too-cheap-to-be-good-think-_636352958f.md",
+    "source": "devto",
+    "title": "Too cheap to be good? Think again.",
+    "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
+    "keywords": [
+      "winning model",
+      "two phases",
+      "shell scripts",
+      "replaced aapanel",
+      "turned",
+      "think",
+      "think",
+      "source",
+      "reactions",
+      "process"
+    ],
+    "summary": "# Too cheap to be good? I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Not the one you'd expect."
+  },
+  "5268004b7b0c2a15": {
+    "file": "corpus/devops/devops_com_microsoft-brings-the-azure-sdk-for-rust-to-genera_d3caaca55a.md",
+    "source": "devops",
+    "title": "[devops-com] Microsoft Brings the Azure SDK for Rust to General Availability",
+    "url": "https://devops.com/microsoft-brings-the-azure-sdk-for-rust-to-general-availability/",
+    "keywords": [
+      "design patterns already used",
+      "queues ), built around",
+      "release covers core",
+      "[&# 8230 ;]",
+      "core azure services",
+      "07z microsoft brings",
+      "giving rust developers",
+      "general availability microsoft",
+      "certificates ),",
+      "microsoft brings"
+    ],
+    "summary": "# [devops-com] Microsoft Brings the Azure SDK for Rust to General Availability Microsoft Brings the Azure SDK for Rust to General Availability Microsoft has moved the Azure SDK for Rust out of beta and into general availability, giving Rust developers a stable, production-ready way to connect to core Azure services."
+  },
+  "d5c791dadce7cb6c": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_scope-salesfo_3f9fd08300.md",
+    "source": "security",
+    "title": "[dark-reading] Scope of Salesforce Attacks Expands as Icarus Leaks Data",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data",
+    "keywords": [
+      "salesforce attacks expands",
+      "salesforce attacks expands",
+      "salesforce attacks expands",
+      "icarus leaks data",
+      "icarus leaks data",
+      "icarus leaks data",
+      "salesforce data",
+      "steal customers",
+      "oauth tokens",
+      "52z scope"
+    ],
+    "summary": "# [dark-reading] Scope of Salesforce Attacks Expands as Icarus Leaks Data Scope of Salesforce Attacks Expands as Icarus Leaks Data More victims have emerged after attackers breached application vendor Klue and used its OAuth tokens to steal customers' Salesforce data."
+  },
+  "e4b930ce6d8fadf4": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisco-unified-cm-sme-_bca3c49535.md",
+    "source": "security",
+    "title": "[bleeping-comp] Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+    "keywords": [
+      "severity ssrf vulnerability",
+      "tracked",
+      "source",
+      "security",
+      "security",
+      "high",
+      "exploited",
+      "exploited",
+      "exploited",
+      "exploited"
+    ],
+    "summary": "# [bleeping-comp] Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks."
+  },
+  "1285b0eeb8418f6a": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_tata-electronics-conf_9b9d3ca3e7.md",
+    "source": "security",
+    "title": "[bleeping-comp] Tata Electronics confirms cyberattack as hackers leak data",
+    "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+    "keywords": [
+      "tata electronics confirms cyberattack",
+      "tata electronics confirms cyberattack",
+      "hackers leak data",
+      "hackers leak data",
+      "impacted parts",
+      "cyberattack",
+      "target",
+      "statement",
+      "source",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Tata Electronics confirms cyberattack as hackers leak data Tata Electronics confirms cyberattack as hackers leak data Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure."
+  },
+  "702091038ee5d9d6": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_14_8a3_6a3858f28f.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.14.8a3 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a3",
+    "keywords": [
+      "one card per step",
+      "allow `@ router ()`",
+      "studio page ## contributors",
+      "add typed output schemas",
+      "changed ### features",
+      "0 ### documentation",
+      "52z ## crewaiinc",
+      "crewai — 1",
+      "crewai flow kickoff",
+      "8a3 ##"
+    ],
+    "summary": "### Features - Add unified declarative flow loading - Improve crewai run startup UX - Consolidate `crewai run` and `crewai flow kickoff` - Keep flow method progress visible for nested crews - Add declarative Flow CLI support - Allow `@router()` as start method of a flow - Add typed output schemas for CrewAI tools ### Bug Fixes - Pin opentelemetry to ~=1.42.0 ### Documentation - Add \"One Card per Step\" Studio page"
   }
 }
