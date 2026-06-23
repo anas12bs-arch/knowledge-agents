@@ -106668,5 +106668,343 @@
       "openai == 1"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-22T23:46:53Z Changes since langchain-openai==1.3.2 release(openai): 1.3.3 (#38375) fix(openai): drop response item ids when `store` is false (#38372) fix(langchain,openai): only set `strict=True` on tools for OpenAI-compatible models in `ProviderStrategy` (#38370) test(openai): clarify expected strict schema error (#38338) fix(openai): drop `stop` from Responses API payload (#38336) chore: bump langsmith from 0.8.5 to 0.8.18 in /libs/part"
+  },
+  "6edd17d5dd1f3c8c": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_4tZy3yCmQw_d9e5e51cf5.md",
+    "source": "youtube",
+    "title": "[leerob] Top 3 premium web experiences updates from Google I/O 2026",
+    "url": "https://www.youtube.com/watch?v=_4tZy3yCmQw",
+    "keywords": [
+      "una kravets products mentioned",
+      "scoped view transitions 1",
+      "web ui updates 0",
+      "scoped view transitions",
+      "transforming content rendering",
+      "showcasing significant advancements",
+      "immediate ui mode",
+      "immediate ui mode",
+      "fidelity web experiences",
+      "seamless web applications"
+    ],
+    "summary": "# [leerob] Top 3 premium web experiences updates from Google I/O 2026 Discover how the HTML-in-Canvas API is transforming content rendering, explore the power of element-scoped view transitions for seamless interactions, and learn about modern authentication with Immediate UI mode. These innovations are designed to help you create dynamic, high-fidelity web experiences that truly stand out."
+  },
+  "b111643d12de07be": {
+    "file": "corpus/hackernews/github_com_Wack0_entii-for-workcubes_e39b5ecfc8.md",
+    "source": "hackernews",
+    "title": "Windows NT for GameCube/Wii",
+    "url": "https://github.com/Wack0/entii-for-workcubes",
+    "keywords": [
+      "windows nt",
+      "windows nt",
+      "12z score",
+      "wii",
+      "wii",
+      "source",
+      "news",
+      "hackernews",
+      "gamecube",
+      "gamecube"
+    ],
+    "summary": "# Windows NT for GameCube/Wii > Source: hackernews | Category: news | 2026-06-23T01:48:12Z Score: 3 | Comments: 0"
+  },
+  "a1da59c039742750": {
+    "file": "corpus/hackernews/www_nyu_edu_about_news-publications_news_2026_june_how-do-fl_617ca82033.md",
+    "source": "hackernews",
+    "title": "How do flocking birds and schools of fish move?",
+    "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
+    "keywords": [
+      "flocking birds",
+      "flocking birds",
+      "fish move",
+      "fish move",
+      "13z score",
+      "source",
+      "schools",
+      "schools",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How do flocking birds and schools of fish move? > Source: hackernews | Category: news | 2026-06-23T01:48:13Z Score: 13 | Comments: 5"
+  },
+  "30fa734d9e6d6777": {
+    "file": "corpus/hackernews/www_wheresyoured_at_brokenomics_6b4fede022.md",
+    "source": "hackernews",
+    "title": "AI's Brokenomics",
+    "url": "https://www.wheresyoured.at/brokenomics/",
+    "keywords": [
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "brokenomics",
+      "brokenomics"
+    ],
+    "summary": "# AI's Brokenomics > Source: hackernews | Category: news | 2026-06-23T01:48:16Z Score: 6 | Comments: 1"
+  },
+  "0bae3eca16f29dbb": {
+    "file": "corpus/hackernews/arstechnica_com_tech-policy_2026_06_polymarkets-viral-videos_bbcb4b776f.md",
+    "source": "hackernews",
+    "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+    "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+    "keywords": [
+      "08z score",
+      "source",
+      "polymarket",
+      "polymarket",
+      "news",
+      "hackernews",
+      "fake",
+      "fake",
+      "comments",
+      "category"
+    ],
+    "summary": "# Polymarket's viral videos showed people winning big, but the bets were fake > Source: hackernews | Category: news | 2026-06-23T01:48:08Z Score: 69 | Comments: 24"
+  },
+  "438630996fa1c9df": {
+    "file": "corpus/hackernews/www_cyber_gov_au_about-us_view-all-content_news_five-eyes-cy_01c8599559.md",
+    "source": "hackernews",
+    "title": "The AI shift in cyber risk: why leaders must act now",
+    "url": "https://www.cyber.gov.au/about-us/view-all-content/news/five-eyes-cyber-security-agencies-statement",
+    "keywords": [
+      "leaders must act",
+      "leaders must act",
+      "cyber risk",
+      "cyber risk",
+      "ai shift",
+      "ai shift",
+      "15z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The AI shift in cyber risk: why leaders must act now > Source: hackernews | Category: news | 2026-06-23T01:48:15Z Score: 5 | Comments: 0"
+  },
+  "b686896e0b1d581f": {
+    "file": "corpus/devto/dev_to_xu_xu_b2179aa8fc958d531d1_why-your-rag-system-keeps-h_d49c398188.md",
+    "source": "devto",
+    "title": "Why Your RAG System Keeps Hallucinating: The Hidden Cost of Skipping Fundamentals",
+    "url": "https://dev.to/xu_xu_b2179aa8fc958d531d1/why-your-rag-system-keeps-hallucinating-the-hidden-cost-of-skipping-fundamentals-1no8",
+    "keywords": [
+      "rag system keeps hallucinating",
+      "rag system keeps hallucinating",
+      "chunk size forum thread",
+      "512 vs 1024 tokens",
+      "47 replies long",
+      "skipping fundamentals",
+      "skipping fundamentals",
+      "hybrid ...",
+      "hidden cost",
+      "hidden cost"
+    ],
+    "summary": "# Why Your RAG System Keeps Hallucinating: The Hidden Cost of Skipping Fundamentals The chunk size forum thread is 47 replies long. Everyone's arguing about 512 vs 1024 tokens, hybrid..."
+  },
+  "1eea18d92ed2d127": {
+    "file": "corpus/devto/dev_to_artanidos_forgeil-has-been-self-hosting-since-may-nob_4d95454426.md",
+    "source": "devto",
+    "title": "ForgeIL Has Been Self-Hosting Since May. Nobody Found It",
+    "url": "https://dev.to/artanidos/forgeil-has-been-self-hosting-since-may-nobody-found-it-4772",
+    "keywords": [
+      "hosting since may",
+      "hosting since may",
+      "hosting since may",
+      "nobody found",
+      "nobody found",
+      "nobody found",
+      "got quiet",
+      "21z forgeil",
+      "forgeil",
+      "forgeil"
+    ],
+    "summary": "# ForgeIL Has Been Self-Hosting Since May. ForgeIL Has Been Self-Hosting Since May. It got quiet here for a..."
+  },
+  "ce2bf18edfdf0d87": {
+    "file": "corpus/devto/dev_to_ryantsuji_building-one-knowledge-graph-across-46-repo_b0aa874ed3.md",
+    "source": "devto",
+    "title": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
+    "url": "https://dev.to/ryantsuji/building-one-knowledge-graph-across-46-repositories-with-static-analysis-part-1-egm",
+    "keywords": [
+      "solve — looking back",
+      "unifying 46 repositories",
+      "one knowledge graph",
+      "letting ai read",
+      "event topics ),",
+      "actual git history",
+      "legacy production code",
+      "part 1",
+      "part 1",
+      "library diversity"
+    ],
+    "summary": "# Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1) A static-analysis approach to unifying 46 repositories (37 air-closet-side + 9 mall-side) of legacy production code into one knowledge graph. Why simply 'letting AI read the code' isn't enough, why I had to chase down boundary nodes (API endpoints, DB tables, Event topics), how I dealt with framework and library diversity, and what 3 months of trial and error solved or didn't solve — looking back through actual g"
+  },
+  "c2d103dd92bda90b": {
+    "file": "corpus/devto/dev_to_adeoluwaadesina_two-undocumented-bugs-in-mcp-apps-i-f_0f3bae72df.md",
+    "source": "devto",
+    "title": "Two undocumented bugs in MCP Apps I found building a task panel for Claude",
+    "url": "https://dev.to/adeoluwaadesina/two-undocumented-bugs-in-mcp-apps-i-found-building-a-task-panel-for-claude-4723",
+    "keywords": [
+      "persistent task panel ...",
+      "open source mcp server",
+      "two undocumented bugs",
+      "two undocumented bugs",
+      "week building wingman",
+      "task panel",
+      "task panel",
+      "mcp apps",
+      "mcp apps",
+      "found building"
+    ],
+    "summary": "# Two undocumented bugs in MCP Apps I found building a task panel for Claude > Source: devto | Category: news | 2026-06-23T01:48:21Z I spent a week building Wingman, an open source MCP server that renders a persistent task panel..."
+  },
+  "cf17b76476817238": {
+    "file": "corpus/devto/dev_to_aplomb2_loop-engineering-is-replacing-prompt-engineer_508bc656ec.md",
+    "source": "devto",
+    "title": "Loop Engineering Is Replacing Prompt Engineering — Here's What That Means for Your AI Coding Bill",
+    "url": "https://dev.to/aplomb2/loop-engineering-is-replacing-prompt-engineering-heres-what-that-means-for-your-ai-coding-bill-108e",
+    "keywords": [
+      "replacing prompt engineering —",
+      "replacing prompt engineering —",
+      "following ai coding tools",
+      "ai coding bill",
+      "ai coding bill",
+      "loop engineering",
+      "loop engineering",
+      "quote everywhere",
+      "source",
+      "seen"
+    ],
+    "summary": "# Loop Engineering Is Replacing Prompt Engineering — Here's What That Means for Your AI Coding Bill > Source: devto | Category: news | 2026-06-23T01:48:20Z If you've been following AI coding tools this month, you've seen the quote everywhere:   \"I don't..."
+  },
+  "2697456e35091966": {
+    "file": "corpus/devto/dev_to_securitystefan_how-to-prevent-prompt-injection-in-lan_910f2a50f2.md",
+    "source": "devto",
+    "title": "How to Prevent Prompt Injection in LangChain Python Apps",
+    "url": "https://dev.to/securitystefan/how-to-prevent-prompt-injection-in-langchain-python-apps-1jbj",
+    "keywords": [
+      "defending langchain python apps",
+      "langchain python apps",
+      "langchain python apps",
+      "layered mitigation patterns",
+      "prevent prompt injection",
+      "prevent prompt injection",
+      "prompt injection",
+      "practical guide",
+      "attack examples",
+      "source"
+    ],
+    "summary": "# How to Prevent Prompt Injection in LangChain Python Apps > Source: devto | Category: news | 2026-06-23T01:48:19Z A practical guide to defending LangChain Python apps against prompt injection, with attack examples and layered mitigation patterns."
+  },
+  "164b2ddf0c9de1be": {
+    "file": "corpus/devto/dev_to_mediblacksand_f0ea36c53fb_i-built-a-personal-intellig_58c0ca0af2.md",
+    "source": "devto",
+    "title": "I Built a Personal Intelligence System That Curates GitHub and News for Me — Here's How It Works",
+    "url": "https://dev.to/mediblacksand_f0ea36c53fb/i-built-a-personal-intelligence-system-that-curates-github-and-news-for-me-heres-how-it-works-5fd4",
+    "keywords": [
+      "personal intelligence system",
+      "personal intelligence system",
+      "personal automation system",
+      "feed algorithm deciding",
+      "scrapes github",
+      "curates github",
+      "curates github",
+      "curates"
+    ],
+    "summary": "# I Built a Personal Intelligence System That Curates GitHub and News for Me — Here's How It Works > Source: devto | Category: news | 2026-06-23T01:48:19Z A personal automation system that scrapes GitHub and the news, curates both with an LLM, and delivers three scheduled briefings straight to Telegram."
+  },
+  "d81b93445017345e": {
+    "file": "corpus/devto/dev_to_xu_xu_b2179aa8fc958d531d1_i-trained-claude-code-to-wr_f9f0d05ad9.md",
+    "source": "devto",
+    "title": "I Trained Claude Code to Write Its Own Skills — Then Watched It Spiral Out of Control",
+    "url": "https://dev.to/xu_xu_b2179aa8fc958d531d1/i-trained-claude-code-to-write-its-own-skills-then-watched-it-spiral-out-of-control-3po2",
+    "keywords": [
+      "trained claude code",
+      "trained claude code",
+      "claude code instance",
+      "skills —",
+      "skills —",
+      "repo ...",
+      "new skill",
+      "skill",
+      "write",
+      "write"
+    ],
+    "summary": "# I Trained Claude Code to Write Its Own Skills — Then Watched It Spiral Out of Control Your Claude Code instance just generated a new skill. But this skill wasn't in your repo..."
+  },
+  "933d0bc31cca44a9": {
+    "file": "corpus/devto/dev_to_ayush_notsogreat_b673d5_i-found-a-prompt-injection-vu_e9afd6d5da.md",
+    "source": "devto",
+    "title": "I found a prompt injection vulnerability in my own LLM app — here's exactly how it worked",
+    "url": "https://dev.to/ayush_notsogreat_b673d5/i-found-a-prompt-injection-vulnerability-in-my-own-llm-app-heres-exactly-how-it-worked-2ee4",
+    "keywords": [
+      "agent llm saas —",
+      "llm app —",
+      "llm app —",
+      "prompt injection vulnerability",
+      "prompt injection vulnerability",
+      "optimizing token costs",
+      "found something ...",
+      "socra —",
+      "production multi",
+      "found"
+    ],
+    "summary": "# I found a prompt injection vulnerability in my own LLM app — here's exactly how it worked > Source: devto | Category: news | 2026-06-23T01:48:19Z I was optimizing token costs in Socra — my production multi-agent LLM SaaS — when I found something..."
+  },
+  "819f3065dbcf50f9": {
+    "file": "corpus/devto/dev_to_magopredator_the-ai-security-gap-why-your-autonomous-_0195096d05.md",
+    "source": "devto",
+    "title": "The AI Security Gap: Why your autonomous agents are completely unprotected",
+    "url": "https://dev.to/magopredator/the-ai-security-gap-why-your-autonomous-agents-are-completely-unprotected-132",
+    "keywords": [
+      "ai security gap",
+      "ai security gap",
+      "ai security gap",
+      "completely unprotected",
+      "completely unprotected",
+      "completely unprotected",
+      "building ...",
+      "autonomous agents",
+      "autonomous agents",
+      "autonomous agents"
+    ],
+    "summary": "# The AI Security Gap: Why your autonomous agents are completely unprotected > Source: devto | Category: news | 2026-06-23T01:48:19Z The AI Security Gap: Why your autonomous agents are completely unprotected   We’re building..."
+  },
+  "d74bda4278da5534": {
+    "file": "corpus/devto/dev_to_varad13_how-i-turned-my-ai-cli-into-an-autonomous-age_4a0696d1f7.md",
+    "source": "devto",
+    "title": "How I turned my AI CLI into an autonomous agent with Playwright and Sub-agents 🚀",
+    "url": "https://dev.to/varad13/how-i-turned-my-ai-cli-into-an-autonomous-agent-with-playwright-and-sub-agents-51di",
+    "keywords": [
+      "simple cli wrapper around",
+      "first built codey",
+      "ai cli",
+      "ai cli",
+      "basic tools",
+      "autonomous agent",
+      "autonomous agent",
+      "agents 🚀",
+      "agents 🚀",
+      "turned"
+    ],
+    "summary": "# How I turned my AI CLI into an autonomous agent with Playwright and Sub-agents 🚀 > Source: devto | Category: news | 2026-06-23T01:48:19Z When I first built Codey, it was a simple CLI wrapper around an LLM with a few basic tools."
+  },
+  "07e90c3809d2ad65": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_61_cbfd6782b6.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.61 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.61",
+    "keywords": [
+      "remove legacy ppr codepaths",
+      "-- headed daemon note",
+      "mention app router requirement",
+      "61 ### misc changes",
+      "authentication ): add auth",
+      "adoption ): tune skill",
+      "cache components requires node",
+      "app api routes",
+      "write pnpm overrides",
+      "fix code fences"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-06-23T01:49:04Z - [test] Fix failing determinism test using adapter: #95051 - docs: fix typo in slot-missing-default.mdx: #94531 - [otel] Correctly set error code attributes for App API routes: #94979 - docs: Cache components requires Node.js runtime: #94897 - [scripts] Write pnpm overrides for pnpm projects in pack/patch helpers: #94747 - docs(authentication): add Auth and streaming, fix code fences and imports: #95056 - Statically prerende"
   }
 }
