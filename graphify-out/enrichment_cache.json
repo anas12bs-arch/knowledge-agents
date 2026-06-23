@@ -107835,5 +107835,566 @@
       "monorepo (# 36470"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-23T05:54:23Z Changes since langchain-openrouter==0.2.3 release(openrouter): 0.2.4 (#38381) chore(openrouter): bump `openrouter` floor to 0.9.2, drop file workaround (#38216) test(openrouter): cover `cache_control` passthrough on tool defs (#38215) feat(openrouter): surface `parallel_tool_calls` on `bind_tools` (#38214) chore(model-profiles): refresh model profile data (#38341) chore(model-profiles): refresh model profile data (#38331) cho"
+  },
+  "7d7c4b3d4b68cf14": {
+    "file": "corpus/design/productdesignpsychology_com_5a1dff09dc.md",
+    "source": "design",
+    "title": "[sidebar-io] Product Design Psychology",
+    "url": "https://productdesignpsychology.com/",
+    "keywords": [
+      "product design psychology",
+      "product design psychology",
+      "design",
+      "design",
+      "design",
+      "design",
+      "source",
+      "sidebar",
+      "sidebar",
+      "minds"
+    ],
+    "summary": "# [sidebar-io] Product Design Psychology Product Design Psychology Understand the minds you design for and the mind you design with."
+  },
+  "725eaaee215d91bf": {
+    "file": "corpus/design/www_tastelab_xyz_9988b152b2.md",
+    "source": "design",
+    "title": "[sidebar-io] Taste: design DNA for AI agents",
+    "url": "https://www.tastelab.xyz/",
+    "keywords": [
+      "ai agents abductive reasoning",
+      "claude code skill",
+      "ai agents",
+      "ai agents",
+      "website ’",
+      "decisions behind",
+      "design dna",
+      "design dna",
+      "design dna",
+      "54z taste"
+    ],
+    "summary": "# [sidebar-io] Taste: design DNA for AI agents Taste: design DNA for AI agents Read any website’s taste: tokens + the decisions behind them."
+  },
+  "36771c418c158efc": {
+    "file": "corpus/design/ursb_me_en_posts_after-ai-takes-everything_4c6a7a3d83.md",
+    "source": "design",
+    "title": "[sidebar-io] After AI takes everything",
+    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+    "keywords": [
+      "ai takes everything",
+      "ai takes everything",
+      "ai takes everything",
+      "technical production",
+      "individual curation",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] After AI takes everything After AI takes everything How software commoditization shifts user value from technical production to individual curation."
+  },
+  "4127232486f53299": {
+    "file": "corpus/design/taylor_town_pumpkin_81c78bdef2.md",
+    "source": "design",
+    "title": "[sidebar-io] You cannot grow a pumpkin",
+    "url": "https://taylor.town/pumpkin",
+    "keywords": [
+      "play piano ).",
+      "play piano",
+      "cannot grow",
+      "cannot grow",
+      "cannot grow",
+      "unless",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] You cannot grow a pumpkin You cannot grow a pumpkin You can play piano (unless you can’t play piano)."
+  },
+  "2857359815c55952": {
+    "file": "corpus/design/aresluna_org_show-your-hands-honor_c732a0c12b.md",
+    "source": "design",
+    "title": "[sidebar-io] Show your hands honor for the strange power they bring you",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "keywords": [
+      "strange power",
+      "strange power",
+      "strange power",
+      "hands honor",
+      "hands honor",
+      "hands honor",
+      "friendly interactions",
+      "designing finger",
+      "54z show",
+      "show"
+    ],
+    "summary": "# [sidebar-io] Show your hands honor for the strange power they bring you Show your hands honor for the strange power they bring you On designing finger-friendly interactions."
+  },
+  "1b76171cc54eb714": {
+    "file": "corpus/hackernews/www_interconnects_ai_p_glm-52-is-the-step-change-for-open_8236adbe38.md",
+    "source": "hackernews",
+    "title": "GLM-5.2 is the step change for open agents",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "keywords": [
+      "step change",
+      "step change",
+      "open agents",
+      "open agents",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "glm",
+      "glm"
+    ],
+    "summary": "# GLM-5.2 is the step change for open agents > Source: hackernews | Category: news | 2026-06-23T08:50:57Z Score: 9 | Comments: 0"
+  },
+  "98eadd1dac746018": {
+    "file": "corpus/hackernews/kreya_app_blog_new-http-query-method-explained_d6fee08b99.md",
+    "source": "hackernews",
+    "title": "The new HTTP QUERY method explained",
+    "url": "https://kreya.app/blog/new-http-query-method-explained/",
+    "keywords": [
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "23t08"
+    ],
+    "summary": "# The new HTTP QUERY method explained > Source: hackernews | Category: news | 2026-06-23T08:50:52Z Score: 58 | Comments: 28"
+  },
+  "bc64fe330ca5a23a": {
+    "file": "corpus/hackernews/github_com_imtomt_ymawky_tree_linux_e7bb49ea15.md",
+    "source": "hackernews",
+    "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+    "url": "https://github.com/imtomt/ymawky/tree/linux",
+    "keywords": [
+      "added cgi scripting support",
+      "ymawky &# x2f ;</",
+      "supports query strings",
+      "pretty major improvements",
+      "put &# x2f",
+      "io &# x2f",
+      "io &# x2f",
+      "head &# x2f",
+      "get &# x2f",
+      "delete &# x2f"
+    ],
+    "summary": "# Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I&#x27;ve previously posted about ymawky here: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587</a><p>In the past month and a half, I&#x27;ve made some pretty major improvements: I&#x27;ve added CGI scripting support, so the server now supports query strings "
+  },
+  "1513356944cd0a5c": {
+    "file": "corpus/hackernews/plotnine_org_f743334889.md",
+    "source": "hackernews",
+    "title": "Plotnine",
+    "url": "https://plotnine.org/",
+    "keywords": [
+      "53z score",
+      "source",
+      "plotnine",
+      "plotnine",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Plotnine > Source: hackernews | Category: news | 2026-06-23T08:50:53Z Score: 11 | Comments: 7"
+  },
+  "8b7479c8371be9e6": {
+    "file": "corpus/hackernews/deepbluedynamics_com_blog_lume-retrieval-primitives_b5eebcd938.md",
+    "source": "hackernews",
+    "title": "How Lume Works: The Retrieval Primitives",
+    "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
+    "keywords": [
+      "retrieval primitives",
+      "retrieval primitives",
+      "lume works",
+      "lume works",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How Lume Works: The Retrieval Primitives > Source: hackernews | Category: news | 2026-06-23T08:50:55Z Score: 6 | Comments: 0"
+  },
+  "cc1051af1bc7c27d": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-06-22_meta-taps-new-wha_65b1a1f276.md",
+    "source": "hackernews",
+    "title": "Meta Invests $900M in CRED, Taps Founder to Head WhatsApp",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment",
+    "keywords": [
+      "taps founder",
+      "taps founder",
+      "meta invests",
+      "meta invests",
+      "head whatsapp",
+      "head whatsapp",
+      "56z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Meta Invests $900M in CRED, Taps Founder to Head WhatsApp > Source: hackernews | Category: news | 2026-06-23T08:50:56Z Score: 8 | Comments: 1"
+  },
+  "eaac315c6eff9eb9": {
+    "file": "corpus/hackernews/blog_owulveryck_info_2026_06_22_who-does-what-team-topologie_647d21dfb2.md",
+    "source": "hackernews",
+    "title": "Who Does What? Team Topologies for the Agentic Platform",
+    "url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+    "keywords": [
+      "team topologies",
+      "team topologies",
+      "agentic platform",
+      "agentic platform",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Who Does What? Team Topologies for the Agentic Platform > Source: hackernews | Category: news | 2026-06-23T08:50:55Z"
+  },
+  "a50cef6e1a91b0a6": {
+    "file": "corpus/hackernews/mariusbancila_ro_blog_2026_06_19_improvements-to-stdformat-i_f718ce12b2.md",
+    "source": "hackernews",
+    "title": "Improvements to Std:Format in C++26",
+    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+    "keywords": [
+      "c ++ 26",
+      "c ++ 26",
+      "54z score",
+      "std",
+      "std",
+      "source",
+      "news",
+      "improvements",
+      "improvements",
+      "hackernews"
+    ],
+    "summary": "# Improvements to Std:Format in C++26 > Source: hackernews | Category: news | 2026-06-23T08:50:54Z Score: 13 | Comments: 6"
+  },
+  "cf900ece7a30e79b": {
+    "file": "corpus/hackernews/noyb_eu_en_eu-member-states-and-google-suddenly-want-keep-co_981ed1f9cd.md",
+    "source": "hackernews",
+    "title": "EU Member States (and Google) suddenly want to keep cookie banners",
+    "url": "https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners",
+    "keywords": [
+      "keep cookie banners",
+      "keep cookie banners",
+      "eu member states",
+      "eu member states",
+      "suddenly want",
+      "suddenly want",
+      "58z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# EU Member States (and Google) suddenly want to keep cookie banners > Source: hackernews | Category: news | 2026-06-23T08:50:58Z Score: 22 | Comments: 7"
+  },
+  "122bac5d08ea6118": {
+    "file": "corpus/devto/dev_to_yansen_zhu_9b0dae1c4cc0da_we-security-graded-117854-a_cf0033738e.md",
+    "source": "devto",
+    "title": "We security-graded 117,854 AI agent skills. Here's what we found.",
+    "url": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh",
+    "keywords": [
+      "854 ai agent skills",
+      "854 ai agent skills",
+      "32 graded skills",
+      "popular enough",
+      "graded 117",
+      "graded 117",
+      "graded",
+      "unsafe",
+      "source",
+      "security"
+    ],
+    "summary": "# We security-graded 117,854 AI agent skills. Here's what we found. Only 17.7% of the catalog is popular enough to be graded, 1 in 32 graded skills is unsafe, and the..."
+  },
+  "553f237bc8cd7e21": {
+    "file": "corpus/devto/dev_to_max_98b3db49c06de66802dcd_we-built-a-free-status-moni_342c635fed.md",
+    "source": "devto",
+    "title": "We built a free status monitor for 77 AI APIs. Here's what 6 weeks of data taught us.",
+    "url": "https://dev.to/max_98b3db49c06de66802dcd/we-built-a-free-status-monitor-for-77-ai-apis-heres-what-6-weeks-of-data-taught-us-56ko",
+    "keywords": [
+      "00z every ai developer",
+      "77 ai apis",
+      "77 ai apis",
+      "free status monitor",
+      "free status monitor",
+      "data taught us",
+      "data taught us",
+      "throwing 503s",
+      "6 weeks",
+      "6 weeks"
+    ],
+    "summary": "# We built a free status monitor for 77 AI APIs. Here's what 6 weeks of data taught us. Every AI developer has been here: your app is throwing 503s, users are pinging you, and you have 12..."
+  },
+  "8e0a8a7f827f00f2": {
+    "file": "corpus/devto/dev_to_avinash_zala_1c6f5e7c4af9_i-built-rag-from-scratch-in_0db50e0512.md",
+    "source": "devto",
+    "title": "I Built RAG From Scratch in Python to Understand It. Here's What I Learned.",
+    "url": "https://dev.to/avinash_zala_1c6f5e7c4af9/i-built-rag-from-scratch-in-python-to-understand-it-heres-what-i-learned-33kf",
+    "keywords": [
+      "00z every rag tutorial",
+      "read used langchain",
+      "line rag pipeline",
+      "built rag",
+      "built rag",
+      "level libraries",
+      "frameworks —",
+      "exercise taught",
+      "prompt design",
+      "interesting parts"
+    ],
+    "summary": "# I Built RAG From Scratch in Python to Understand It. Every RAG tutorial I read used LangChain or LlamaIndex and hid the interesting parts. So I built a 500-line RAG pipeline with no frameworks — just pypdf, ChromaDB, and Ollama."
+  },
+  "829f07414b2faa27": {
+    "file": "corpus/devto/dev_to_casatrick_building-a-low-latency-trading-bot-in-rust-_7dd2973eef.md",
+    "source": "devto",
+    "title": "Building a Low-Latency Trading Bot in Rust (From 48ms to 800µs)",
+    "url": "https://dev.to/casatrick/building-a-low-latency-trading-bot-in-rust-from-48ms-to-800us-4n1i",
+    "keywords": [
+      "real benchmarks ,...",
+      "polymarket trading bot",
+      "latency trading bot",
+      "latency trading bot",
+      "70x latency improvement",
+      "source",
+      "rust",
+      "rust",
+      "rust",
+      "rewrote"
+    ],
+    "summary": "# Building a Low-Latency Trading Bot in Rust (From 48ms to 800µs) > Source: devto | Category: news | 2026-06-23T08:51:02Z How I rewrote my Polymarket trading bot in Rust and got a 70x latency improvement."
+  },
+  "64d00588a3a3849a": {
+    "file": "corpus/devto/dev_to_samhartley_dev_i-built-an-ai-content-team-that-posts-_000e3572c8.md",
+    "source": "devto",
+    "title": "I Built an AI Content Team That Posts to My Blog While I Sleep",
+    "url": "https://dev.to/samhartley_dev/i-built-an-ai-content-team-that-posts-to-my-blog-while-i-sleep-24bk",
+    "keywords": [
+      "ai content team",
+      "ai content team",
+      "write blog posts",
+      "write something",
+      "old way",
+      "blank page",
+      "posts",
+      "posts",
+      "blog",
+      "blog"
+    ],
+    "summary": "# I Built an AI Content Team That Posts to My Blog While I Sleep I used to write blog posts the old way. Open a blank page."
+  },
+  "a7f6736e769dc45d": {
+    "file": "corpus/devto/dev_to_kleinner_we-fixed-privacy-preserving-local-llm-infere_11bf02070b.md",
+    "source": "devto",
+    "title": "We fixed privacy-preserving local llm inference for developer tooling ? without a single API call.",
+    "url": "https://dev.to/kleinner/we-fixed-privacy-preserving-local-llm-inference-for-developer-tooling-without-a-single-api-call-noj",
+    "keywords": [
+      "preserving local llm inference",
+      "preserving local llm inference",
+      "preserving local llm inference",
+      "single api call",
+      "single api call",
+      "large language models",
+      "introduced significant privacy",
+      "02z ** privacy",
+      "fixed privacy",
+      "fixed privacy"
+    ],
+    "summary": "# We fixed privacy-preserving local llm inference for developer tooling ? without a single API call. **Privacy-Preserving Local LLM Inference for Developer Tooling**  ---  ## The Problem  The proliferation of large language models (LLMs) in developer tooling has introduced significant privacy and sec"
+  },
+  "887b83775846dd60": {
+    "file": "corpus/devto/dev_to_oyohedmond_deploying-a-full-stack-lms-on-shared-hosti_a57d81e8c2.md",
+    "source": "devto",
+    "title": "Deploying a Full-Stack LMS on Shared Hosting + Render (Free) — The Hard Way",
+    "url": "https://dev.to/oyohedmond/deploying-a-full-stack-lms-on-shared-hosting-render-free-the-hard-way-4ke0",
+    "keywords": [
+      "every painful lesson ...",
+      "postgresql app without",
+      "stack lms",
+      "stack lms",
+      "shared hosting",
+      "shared hosting",
+      "production node",
+      "hard way",
+      "hard way"
+    ],
+    "summary": "# Deploying a Full-Stack LMS on Shared Hosting + Render (Free) — The Hard Way > Source: devto | Category: news | 2026-06-23T08:50:58Z How we shipped a production Node.js + React + PostgreSQL app without a VPS, and every painful lesson..."
+  },
+  "0494983522b3b818": {
+    "file": "corpus/devto/dev_to_06a3df6b50aec966668fb_my-code-reviewer-kept-asking-fo_c1cffacf5a.md",
+    "source": "devto",
+    "title": "My code reviewer kept asking for JSDoc — so I built a zero-dep CLI that catches it first",
+    "url": "https://dev.to/_06a3df6b50aec966668fb/my-code-reviewer-kept-asking-for-jsdoc-so-i-built-a-zero-dep-cli-that-catches-it-first-mh9",
+    "keywords": [
+      "code reviewer kept asking",
+      "code reviewer kept asking",
+      "kept running eslint",
+      "someone opened",
+      "jsdoc —",
+      "jsdoc —",
+      "fine —",
+      "dep cli",
+      "dep cli",
+      "first ..."
+    ],
+    "summary": "# My code reviewer kept asking for JSDoc — so I built a zero-dep CLI that catches it first > Source: devto | Category: news | 2026-06-23T08:51:02Z I kept running eslint and thinking my codebase was fine — then someone opened a PR and the first..."
+  },
+  "67bd97535dfa9683": {
+    "file": "corpus/devto/dev_to_btarbox_my-books-are-invisible-and-i-want-them-back-3_96951c0297.md",
+    "source": "devto",
+    "title": "My Books Are Invisible and I Want Them Back",
+    "url": "https://dev.to/btarbox/my-books-are-invisible-and-i-want-them-back-3566",
+    "keywords": [
+      "want",
+      "want",
+      "want",
+      "used",
+      "thing",
+      "source",
+      "reactions",
+      "news",
+      "invisible",
+      "invisible"
+    ],
+    "summary": "# My Books Are Invisible and I Want Them Back > Source: devto | Category: news | 2026-06-23T08:50:59Z My Books Are Invisible and I Want Them Back   There used to be a thing that happened when..."
+  },
+  "027caefa1009401a": {
+    "file": "corpus/devto/dev_to_expo_skip-recompiling-70-ios-packages-on-every-build-_28c691cc34.md",
+    "source": "devto",
+    "title": "Skip Recompiling 70+ iOS Packages on Every Build",
+    "url": "https://dev.to/expo/skip-recompiling-70-ios-packages-on-every-build-27a6",
+    "keywords": [
+      "entire dependency tree ...",
+      "skip recompiling 70",
+      "skip recompiling 70",
+      "ios packages",
+      "ios packages",
+      "every build",
+      "every build",
+      "source",
+      "reactions",
+      "pain"
+    ],
+    "summary": "# Skip Recompiling 70+ iOS Packages on Every Build > Source: devto | Category: news | 2026-06-23T08:50:59Z React Native developers know the pain: every clean iOS build recompiles your entire dependency tree..."
+  },
+  "e38106b3ecf69951": {
+    "file": "corpus/devto/dev_to_iwtlp_race-conditions-explained-by-causing-one-5ei2_06eb83a8d2.md",
+    "source": "devto",
+    "title": "Race conditions, explained by causing one",
+    "url": "https://dev.to/iwtlp/race-conditions-explained-by-causing-one-5ei2",
+    "keywords": [
+      "passes every test",
+      "counter lose count",
+      "write one",
+      "three ways",
+      "race conditions",
+      "race conditions",
+      "race condition",
+      "fastest way",
+      "corrupts data",
+      "causing one"
+    ],
+    "summary": "# Race conditions, explained by causing one A race condition is the bug that passes every test and then corrupts data in production once a month. The fastest way to understand it is to write one on purpose, watch a counter lose count, and then fix it three ways."
+  },
+  "fd93eaacd61e3439": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47970_kbc-collaborates-with-fir_5ad1e28297.md",
+    "source": "finance",
+    "title": "[finextra] KBC collaborates with Firsty on embedded eSim in mobile app",
+    "url": "https://www.finextra.com/newsarticle/47970/kbc-collaborates-with-firsty-on-embedded-esim-in-mobile-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "mobile app kbc customers",
+      "activate mobile data",
+      "53z kbc collaborates",
+      "mobile app",
+      "mobile app",
+      "mobile app",
+      "kbc collaborates",
+      "kbc collaborates",
+      "roaming abroad",
+      "embedded esim"
+    ],
+    "summary": "# [finextra] KBC collaborates with Firsty on embedded eSim in mobile app KBC collaborates with Firsty on embedded eSim in mobile app KBC customers can now purchase and activate mobile data for roaming abroad, directly in the bank's mobile app."
+  },
+  "19be1589a54a330f": {
+    "file": "corpus/ai-research/openai_com_index_omio_480508a9ca.md",
+    "source": "ai-research",
+    "title": "[openai-blog] How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "keywords": [
+      "power conversational travel experiences",
+      "accelerate product development",
+      "conversational travel discover",
+      "omio uses openai",
+      "conversational travel",
+      "conversational travel",
+      "native company",
+      "openai",
+      "openai",
+      "omio"
+    ],
+    "summary": "# [openai-blog] How Omio is building the future of conversational travel How Omio is building the future of conversational travel Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
+  },
+  "7d4f8edc44991be2": {
+    "file": "corpus/ai-research/huggingface_co_blog_huggingface-hub-release-ci_b0d7df1028.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "keywords": [
+      "shipping huggingface_hub every week",
+      "shipping huggingface_hub every week",
+      "open tools",
+      "open tools",
+      "open tools",
+      "source",
+      "research",
+      "research",
+      "loop",
+      "loop"
+    ],
+    "summary": "# [hf-blog] Shipping huggingface_hub every week with AI, open tools, and a human in the loop > Source: ai-research | Category: research | 2026-06-23T08:50:53Z Shipping huggingface_hub every week with AI, open tools, and a human in the loop"
+  },
+  "e771f78578547a61": {
+    "file": "corpus/ai-research/huggingface_co_blog_local-models-pr-triage_965bb4d2ca.md",
+    "source": "ai-research",
+    "title": "[hf-blog] We got local models to triage the OpenClaw repo for FREE!*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "keywords": [
+      "got local models",
+      "got local models",
+      "got local models",
+      "openclaw repo",
+      "openclaw repo",
+      "openclaw repo",
+      "triage",
+      "triage",
+      "triage",
+      "source"
+    ],
+    "summary": "# [hf-blog] We got local models to triage the OpenClaw repo for FREE! > Source: ai-research | Category: research | 2026-06-23T08:50:53Z We got local models to triage the OpenClaw repo for FREE!"
+  },
+  "f51782325779c662": {
+    "file": "corpus/security/thehackernews_com_2026_06_whatsapp-vbscript-campaign-uses-fa_16f440b520.md",
+    "source": "security",
+    "title": "[hacker-news-sec] WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+    "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+    "keywords": [
+      "whatsapp web across malaysia",
+      "install manageengine rmm tool",
+      "install manageengine rmm tool",
+      "legitimate remote monitoring",
+      "k ., spain",
+      "whatsapp desktop",
+      "targeting users",
+      "per findings",
+      "active campaign",
+      "rmm"
+    ],
+    "summary": "# [hacker-news-sec] WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software."
   }
 }
