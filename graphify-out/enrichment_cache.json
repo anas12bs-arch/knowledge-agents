@@ -121056,5 +121056,853 @@
       "role confusion"
     ],
     "summary": "This  is a fascinating explotation of how LLMs fall for prompt injection attacks. Unless LLMs achieve genuine role perception, we think injection defense will remain a perpetual whack-a-mole game. And the continuous nature of role boundaries opens the threat of injections designed to subtly shift LLM states through seemingly innocuous text, legally and at scale..."
+  },
+  "af084a74ce4bf9bc": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_06_are-your-local-police-using-fl_5d5ab8d537.md",
+    "source": "legal",
+    "title": "[eff] Are Your Local Police Using Flock Safety ALPRs to Scan for Immigrants?",
+    "url": "https://www.eff.org/deeplinks/2026/06/are-your-local-police-using-flock-safety-alprs-scan-immigrants",
+    "keywords": [
+      "national crime information center",
+      "flock safety administrative interface",
+      "automated license plate reader",
+      "called “ hotlists ,”",
+      "includes license plates associated",
+      "serious violent crimes",
+      "remove license plates",
+      "suspected terrorist ,\"",
+      "particular license plate",
+      "missing person .\""
+    ],
+    "summary": "When a car passes an    automated license plate reader    (ALPR), its plate is captured and instantly compared against a list of vehicles that police are actively looking for or that police have identified for real-time surveillance. These hotlists are broken into \"topics,\" such as \"Gang or Suspected Terrorist,\" \"Stolen Vehicle,\" and \"Missing Person.\" It includes license plates associated with    administrative warrants   , which are issued by ICE agents without judicial review."
+  },
+  "1958c9b45425baa9": {
+    "file": "corpus/sales/www_saastr_com_what-vcs-are-hunting-today-100b-in-10-years_dc48fceac7.md",
+    "source": "sales",
+    "title": "[saastr] What VCs Are Hunting Today: $100B in 10 Years",
+    "url": "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/",
+    "keywords": [
+      "b2b software ipos went",
+      "... continue reading",
+      "sounds quaint today",
+      "b2b founder",
+      "hunting today",
+      "hunting today",
+      "hunting today",
+      "zendesk ),",
+      "pretty crazy",
+      "first wave"
+    ],
+    "summary": "# [saastr] What VCs Are Hunting Today: $100B in 10 Years What VCs Are Hunting Today: $100B in 10 Years Salesforce was worth $2B when I started as a B2B founder, and when the first wave of B2B software IPOs went out after that (Box, HubSpot, Zendesk), they all were worth around $1B, plus or minus."
+  },
+  "fb4bb74c34805eea": {
+    "file": "corpus/youtube/www_youtube_com_shorts_h6nOP19c-hQ_7cf5ad200e.md",
+    "source": "youtube",
+    "title": "[kevin-powell] Positioning in CSS is too easy now",
+    "url": "https://www.youtube.com/shorts/h6nOP19c-hQ",
+    "keywords": [
+      "simple things like",
+      "great job",
+      "browser support",
+      "anchor positioning",
+      "17z positioning",
+      "positioning",
+      "positioning",
+      "youtube",
+      "video",
+      "source"
+    ],
+    "summary": "# [kevin-powell] Positioning in CSS is too easy now Positioning in CSS is too easy now Browser support for anchor positioning isn't amazing, but for simple things like this, the polyfill does a great job."
+  },
+  "32da4c5fa53b78c4": {
+    "file": "corpus/product/techcrunch_com_2026_06_25_from-fortnite-to-robots-general-in_c5a250abc1.md",
+    "source": "product",
+    "title": "[techcrunch-startups] From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+    "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "keywords": [
+      "real world general intuition",
+      "general intuition raises",
+      "general intuition raises",
+      "general intuition raises",
+      "train ai agents",
+      "train ai agents",
+      "train ai agents",
+      "scale ai trained",
+      "betting action data",
+      "real world"
+    ],
+    "summary": "# [techcrunch-startups] From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+  },
+  "8a281c3eca9965a8": {
+    "file": "corpus/product/techcrunch_com_2026_06_25_2-days-left-to-save-up-to-190-join_21f448065e.md",
+    "source": "product",
+    "title": "[techcrunch-startups] 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+    "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+    "keywords": [
+      "early bird rates expire",
+      "53z 2 days left",
+      "techcrunch founder summit 2026",
+      "2 days left",
+      "2 days left",
+      "techcrunch founder summit",
+      "techcrunch founder summit",
+      "june 26",
+      "join 1",
+      "join 1"
+    ],
+    "summary": "# [techcrunch-startups] 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit 2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT."
+  },
+  "f48dbc549ea753e9": {
+    "file": "corpus/hackernews/blog_georeactor_com_books-06-26b_03726a23a1.md",
+    "source": "hackernews",
+    "title": "Lianda and the Long March",
+    "url": "https://blog.georeactor.com/books-06-26b",
+    "keywords": [
+      "long march",
+      "long march",
+      "51z score",
+      "source",
+      "news",
+      "lianda",
+      "lianda",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Lianda and the Long March > Source: hackernews | Category: news | 2026-06-25T16:00:51Z Score: 8 | Comments: 0"
+  },
+  "718ef673e1c5e4c2": {
+    "file": "corpus/hackernews/lingochunk_com_try_a2d9d7ed7e.md",
+    "source": "hackernews",
+    "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+    "url": "https://lingochunk.com/try",
+    "keywords": [
+      "latest experimental additions ),",
+      "turn native language audio",
+      "turn native language audio",
+      "find public domain audio",
+      "repeat count .< p",
+      "native language audio",
+      "public domain sources",
+      "greek language studies",
+      "fsi courses ),",
+      "prompts .< p"
+    ],
+    "summary": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. I&#x27;d be grateful if anyone could point me to public domain sources (I used LibriVox, Wikimedia and FSI courses), or if you&#x27;re a creator, let me feature some of your own recordings with credits and links."
+  },
+  "ed7f425a7d73b9a8": {
+    "file": "corpus/hackernews/www_ft_com_content_0f067265-2baf-4b6e-8fb2-ed56daef6f3c_375b463675.md",
+    "source": "hackernews",
+    "title": "Apple increases MacBook and iPad prices by 20%",
+    "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+    "keywords": [
+      "apple increases macbook",
+      "apple increases macbook",
+      "ipad prices",
+      "ipad prices",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Apple increases MacBook and iPad prices by 20% > Source: hackernews | Category: news | 2026-06-25T16:00:50Z Score: 69 | Comments: 29"
+  },
+  "9e650aa70c447de5": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48673801_08d0800bdf.md",
+    "source": "hackernews",
+    "title": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
+    "url": "https://news.ycombinator.com/item?id=48673801",
+    "keywords": [
+      "getting started ?< p",
+      "issue ?< p",
+      "anticipate ?< p",
+      "process .< p",
+      "official information online",
+      "banking &# x2f",
+      "&# x27",
+      "&# x27",
+      "&# x27",
+      "tax complications"
+    ],
+    "summary": "# Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ? From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.<p>I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.<p>What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, b"
+  },
+  "ce12a24b729a4c4b": {
+    "file": "corpus/hackernews/www_americanbanker_com_news_as-banks-close-accounts-experts-_620bdbfbae.md",
+    "source": "hackernews",
+    "title": "As banks close accounts, experts point to immigration crackdown",
+    "url": "https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown",
+    "keywords": [
+      "banks close accounts",
+      "banks close accounts",
+      "immigration crackdown",
+      "immigration crackdown",
+      "experts point",
+      "experts point",
+      "52z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# As banks close accounts, experts point to immigration crackdown > Source: hackernews | Category: news | 2026-06-25T16:00:52Z Score: 11 | Comments: 2"
+  },
+  "08a83566cc32f953": {
+    "file": "corpus/hackernews/economist_com_interactive_1843_2026_06_19_the-strange-disapp_e299ea9200.md",
+    "source": "hackernews",
+    "title": "The Disappearance of Japan's Animators",
+    "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+    "keywords": [
+      "54z score",
+      "source",
+      "news",
+      "japan",
+      "japan",
+      "hackernews",
+      "disappearance",
+      "disappearance",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Disappearance of Japan's Animators > Source: hackernews | Category: news | 2026-06-25T16:00:54Z Score: 52 | Comments: 51"
+  },
+  "0b7aad553869c82f": {
+    "file": "corpus/hackernews/pete_design_tw-fade_59c140c862.md",
+    "source": "hackernews",
+    "title": "Tw-fade: pure CSS scroll-driven edge masking",
+    "url": "https://pete.design/tw-fade",
+    "keywords": [
+      "pure css scroll",
+      "pure css scroll",
+      "driven edge masking",
+      "driven edge masking",
+      "52z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tw-fade: pure CSS scroll-driven edge masking > Source: hackernews | Category: news | 2026-06-25T16:00:52Z Score: 3 | Comments: 1"
+  },
+  "f01c0f9a4889e731": {
+    "file": "corpus/hackernews/ziglang_org_devlog_2026_2026-06-25_89b358c8ae.md",
+    "source": "hackernews",
+    "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "keywords": [
+      "llvm back end improvements",
+      "llvm back end improvements",
+      "new bitcast semantics",
+      "new bitcast semantics",
+      "50z score",
+      "zig",
+      "zig",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Zig's New BitCast Semantics and LLVM Back End Improvements > Source: hackernews | Category: news | 2026-06-25T16:00:50Z Score: 46 | Comments: 8"
+  },
+  "b7c9f0c84a7aa31d": {
+    "file": "corpus/hackernews/hackernewstrends_com_e129ca6b4d.md",
+    "source": "hackernews",
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "url": "https://hackernewstrends.com",
+    "keywords": [
+      "made google trends",
+      "made google trends",
+      "indexing 18 years",
+      "indexing 18 years",
+      "show hn",
+      "show hn",
+      "49z score",
+      "hacker news",
+      "hacker news",
+      "news"
+    ],
+    "summary": "# Show HN: I made Google Trends for Hacker News by indexing 18 years of comments > Source: hackernews | Category: news | 2026-06-25T16:00:49Z Score: 171 | Comments: 52"
+  },
+  "e61833d070d95d74": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-06-25_ford-has-been-reh_acde808f02.md",
+    "source": "hackernews",
+    "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "keywords": [
+      "ford rehires 350 engineers",
+      "ford rehires 350 engineers",
+      "train juniors",
+      "train juniors",
+      "preserve expertise",
+      "preserve expertise",
+      "ai fails",
+      "ai fails",
+      "50z score",
+      "source"
+    ],
+    "summary": "# Ford rehires 350 engineers after AI fails to preserve expertise or train juniors > Source: hackernews | Category: news | 2026-06-25T16:00:50Z Score: 180 | Comments: 100"
+  },
+  "ff3e8f836231f119": {
+    "file": "corpus/hackernews/group_softbank_media_Project_sbg_sbg_pdf_ir_investors_shareh_60b75c87e6.md",
+    "source": "hackernews",
+    "title": "SoftBank 2026 AGM [pdf]",
+    "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf",
+    "keywords": [
+      "softbank 2026 agm",
+      "softbank 2026 agm",
+      "52z score",
+      "2026",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# SoftBank 2026 AGM [pdf] > Source: hackernews | Category: news | 2026-06-25T16:00:52Z Score: 17 | Comments: 4"
+  },
+  "c3d8e08b6d6f4a36": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48673194_3593eadc84.md",
+    "source": "hackernews",
+    "title": "Tell HN: OpenAI has started putting ads on paid programs",
+    "url": "https://news.ycombinator.com/item?id=48673194",
+    "keywords": [
+      "month program -- mainly",
+      "mobile game .< p",
+      "financial times 2",
+      "amazon prime day",
+      "started putting ads",
+      "started putting ads",
+      "99 &# x2f",
+      "see ads",
+      "&# x27",
+      "£ 6"
+    ],
+    "summary": "# Tell HN: OpenAI has started putting ads on paid programs Last few days I&#x27;ve started seeing ads:<p>1. Add for Amazon prime day<p>All 3 were on a chat where I was asking about tips on a mobile game.<p>Needless to say, I cancelled my plan."
+  },
+  "bac5d12e73baf8cc": {
+    "file": "corpus/hackernews/github_com_Fran314_secrets-manager-rs_0dd526e960.md",
+    "source": "hackernews",
+    "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+    "url": "https://github.com/Fran314/secrets-manager-rs",
+    "keywords": [
+      "manage encrypted local backups",
+      "man &# x2f ;</",
+      "dev &# x2f",
+      "dev &# x2f",
+      "blog &# x2f",
+      "blog &# x2f",
+      "used ).< p",
+      "usable without depending",
+      "recoverable .< p",
+      "data would still"
+    ],
+    "summary": "# Show HN: Secs-man, a secrets manager you can (not) rely on This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.<p>It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).<p>I have summed up a bit of explanation and some answers to reasonable questions in a "
+  },
+  "fcbae63b65e64cc3": {
+    "file": "corpus/hackernews/www_newyorker_com_culture_infinite-scroll_the-ai-design-aest_c619bb47ff.md",
+    "source": "hackernews",
+    "title": "The A.I.-Design Aesthetic That's Taking over the Internet",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+    "keywords": [
+      ".- design aesthetic",
+      ".- design aesthetic",
+      "56z score",
+      "taking",
+      "taking",
+      "source",
+      "news",
+      "internet",
+      "internet",
+      "hackernews"
+    ],
+    "summary": "# The A.I.-Design Aesthetic That's Taking over the Internet > Source: hackernews | Category: news | 2026-06-25T16:00:56Z Score: 9 | Comments: 1"
+  },
+  "d9cbee5558e29b38": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_top-anti-patterns-to-avoid-in-service_afd46bd593.md",
+    "source": "engineering",
+    "title": "[bytebytego] Top Anti-Patterns to Avoid in Service Architecture",
+    "url": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "keywords": [
+      "51z top anti",
+      "top anti",
+      "top anti",
+      "important anti",
+      "service architecture",
+      "service architecture",
+      "service architecture",
+      "service architecture",
+      "source",
+      "patterns"
+    ],
+    "summary": "# [bytebytego] Top Anti-Patterns to Avoid in Service Architecture Top Anti-Patterns to Avoid in Service Architecture In this article, we will look at some of the most important anti-patterns in service architecture, how they happen, and how they can be avoided."
+  },
+  "74ad7499b7c2b53a": {
+    "file": "corpus/devto/dev_to_nazar_boyko_building-an-ai-agent-playground-before-gi_4b9ffc04fe.md",
+    "source": "devto",
+    "title": "Building An AI Agent Playground Before Giving It Production Access",
+    "url": "https://dev.to/nazar_boyko/building-an-ai-agent-playground-before-giving-it-production-access-4glh",
+    "keywords": [
+      "ai agent playground",
+      "ai agent playground",
+      "staging database",
+      "production access",
+      "production access",
+      "thinks",
+      "source",
+      "reactions",
+      "news",
+      "giving"
+    ],
+    "summary": "# Building An AI Agent Playground Before Giving It Production Access > Source: devto | Category: news | 2026-06-25T16:00:57Z A coding agent runs cleanup_old_records() against what it thinks is a staging database."
+  },
+  "aa89a8d79f4c0b97": {
+    "file": "corpus/devto/dev_to_aplomb2_uber-burned-through-its-entire-ai-coding-budg_356a7c5cad.md",
+    "source": "devto",
+    "title": "Uber Burned Through Its Entire AI Coding Budget in 4 Months. Here's What Smart Teams Do Instead.",
+    "url": "https://dev.to/aplomb2/uber-burned-through-its-entire-ai-coding-budget-in-4-months-heres-what-smart-teams-do-instead-2792",
+    "keywords": [
+      "last two weeks alone",
+      "entire ai coding budget",
+      "entire ai coding budget",
+      "ai coding bill",
+      "uber burned",
+      "uber burned",
+      "uber blew",
+      "smart teams",
+      "smart teams",
+      "became everyone"
+    ],
+    "summary": "# Uber Burned Through Its Entire AI Coding Budget in 4 Months. The AI coding bill just became everyone's problem. In the last two weeks alone:    Uber blew through..."
+  },
+  "f914c88719f3e245": {
+    "file": "corpus/devto/dev_to_masonericd_from-raw-evm-logs-to-live-risk-scores-in-4_1dc701839f.md",
+    "source": "devto",
+    "title": "From Raw EVM Logs to Live Risk Scores in 47 Seconds — The Complete Architecture of OmniSight",
+    "url": "https://dev.to/masonericd/from-raw-evm-logs-to-live-risk-scores-in-47-seconds-the-complete-architecture-of-omnisight-1coi",
+    "keywords": [
+      "using apache airflow ,...",
+      "raw evm logs",
+      "raw evm logs",
+      "live risk scores",
+      "live risk scores",
+      "47 seconds —",
+      "47 seconds —",
+      "complete architecture",
+      "complete architecture",
+      "source"
+    ],
+    "summary": "# From Raw EVM Logs to Live Risk Scores in 47 Seconds — The Complete Architecture of OmniSight > Source: devto | Category: news | 2026-06-25T16:00:58Z How I built a production blockchain intelligence engine solo, from nothing, using Apache Airflow,..."
+  },
+  "03cb5b7f625d36fc": {
+    "file": "corpus/devto/dev_to_krjakbrjak_-hda-vs-virtio-blk-match-the-disk-bus-to-t_1e1d2eed69.md",
+    "source": "devto",
+    "title": "-hda vs virtio-blk: Match the Disk Bus to the Guest Image",
+    "url": "https://dev.to/krjakbrjak/-hda-vs-virtio-blk-match-the-disk-bus-to-the-guest-image-1doc",
+    "keywords": [
+      "loading ubuntu 22",
+      "hda vs virtio",
+      "hda vs virtio",
+      "04 images ...",
+      "interesting problem",
+      "guest image",
+      "guest image",
+      "disk bus",
+      "disk bus"
+    ],
+    "summary": "# -hda vs virtio-blk: Match the Disk Bus to the Guest Image > Source: devto | Category: news | 2026-06-25T16:00:58Z An interesting problem I ran into recently: qcontroller had been loading Ubuntu 22.04-25.04 images..."
+  },
+  "a430947ddba0d430": {
+    "file": "corpus/devto/dev_to_ctrotech_why-your-env-file-is-lying-to-you-1gdh_502916f7c3.md",
+    "source": "devto",
+    "title": "Why Your .env File Is Lying to You",
+    "url": "https://dev.to/ctrotech/why-your-env-file-is-lying-to-you-1gdh",
+    "keywords": [
+      "env gives",
+      "env file",
+      "env file",
+      "58z process",
+      "undefined",
+      "string",
+      "source",
+      "reactions",
+      "news",
+      "lying"
+    ],
+    "summary": "# Why Your .env File Is Lying to You process.env gives you string | undefined and calls it a day. Here's why that's dangerous and how to fix it."
+  },
+  "8d006937e32fd379": {
+    "file": "corpus/devto/dev_to_greymothjp_what-i-learned-shipping-4-japanese-i18n-pr_1457e60a6e.md",
+    "source": "devto",
+    "title": "What I learned shipping 4 Japanese-i18n PRs into real OSS as a faceless 19yo",
+    "url": "https://dev.to/greymothjp/what-i-learned-shipping-4-japanese-i18n-prs-into-real-oss-as-a-faceless-19yo-583d",
+    "keywords": [
+      "learned shipping 4 japanese",
+      "learned shipping 4 japanese",
+      "real oss",
+      "real oss",
+      "one credential",
+      "memos —",
+      "maintainer typing",
+      "i18n traps",
+      "i18n prs",
+      "i18n prs"
+    ],
+    "summary": "# What I learned shipping 4 Japanese-i18n PRs into real OSS as a faceless 19yo > Source: devto | Category: news | 2026-06-25T16:01:00Z Four merged Japanese localization PRs into Medusa, Jan, and Memos — the exact diffs, the i18n traps, and why a maintainer typing 'merged' is the one credential you can't fake."
+  },
+  "7ac5c9b8e6bb0654": {
+    "file": "corpus/devto/dev_to_fujidevv_i-rebuilt-90s-desktop-pets-for-the-modern-we_b2701092d7.md",
+    "source": "devto",
+    "title": "I rebuilt 90s desktop pets for the modern web (using 100% Local AI in the browser)",
+    "url": "https://dev.to/fujidevv/i-rebuilt-90s-desktop-pets-for-the-modern-web-using-100-local-ai-in-the-browser-1hhl",
+    "keywords": [
+      "rebuilt 90s desktop pets",
+      "rebuilt 90s desktop pets",
+      "late 90s",
+      "using 100",
+      "using 100",
+      "sheer joy",
+      "probably remember",
+      "modern web",
+      "modern web",
+      "local ai"
+    ],
+    "summary": "# I rebuilt 90s desktop pets for the modern web (using 100% Local AI in the browser) > Source: devto | Category: news | 2026-06-25T16:01:01Z If you used a computer in the late 90s or early 2000s, you probably remember the sheer joy (and..."
+  },
+  "e7044a8454ff2e7b": {
+    "file": "corpus/devto/dev_to_ntctech_autoscaling-is-an-authority-system-not-a-capa_568a65a74f.md",
+    "source": "devto",
+    "title": "Autoscaling Is an Authority System, Not a Capacity System",
+    "url": "https://dev.to/ntctech/autoscaling-is-an-authority-system-not-a-capacity-system-35j2",
+    "keywords": [
+      "never formally defined",
+      "cloud operations teams",
+      "58z autoscaling authority",
+      "authority system",
+      "authority system",
+      "every ...",
+      "capacity system",
+      "capacity system",
+      "autoscaling",
+      "autoscaling"
+    ],
+    "summary": "# Autoscaling Is an Authority System, Not a Capacity System > Source: devto | Category: news | 2026-06-25T16:00:58Z Autoscaling authority is the condition most cloud operations teams have never formally defined."
+  },
+  "6b839812ea29023f": {
+    "file": "corpus/devto/dev_to_deepaksatyam_why-api-breaking-changes-still-reach-pro_05bbd29c5a.md",
+    "source": "devto",
+    "title": "Why API Breaking Changes Still Reach Production Even With CI/CD",
+    "url": "https://dev.to/deepaksatyam/why-api-breaking-changes-still-reach-production-even-with-cicd-4hmo",
+    "keywords": [
+      "years ago",
+      "watched ...",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Why API Breaking Changes Still Reach Production Even With CI/CD > Source: devto | Category: news | 2026-06-25T16:00:58Z Why API Breaking Changes Still Reach Production Even With CI/CD   A few years ago I watched..."
+  },
+  "cf71f5856c0ffec2": {
+    "file": "corpus/devto/dev_to_yasserstudio_algeria-has-no-open-data-portal-so-i-bui_0da21dcc7f.md",
+    "source": "devto",
+    "title": "Algeria has no open data portal, so I built one as npm packages",
+    "url": "https://dev.to/yasserstudio/algeria-has-no-open-data-portal-so-i-built-one-as-npm-packages-42go",
+    "keywords": [
+      "open data portal",
+      "open data portal",
+      "readable list",
+      "npm packages",
+      "npm packages",
+      "built one",
+      "built one",
+      "01z try",
+      "wait",
+      "source"
+    ],
+    "summary": "# Algeria has no open data portal, so I built one as npm packages > Source: devto | Category: news | 2026-06-25T16:01:01Z Try to find a clean, machine-readable list of Algeria's communes with coordinates."
+  },
+  "e22d2979f9358813": {
+    "file": "corpus/devto/dev_to_sahajmeet_kaur_ai-gateway-vs-api-gateway-they-solve-d_99022ffd10.md",
+    "source": "devto",
+    "title": "AI Gateway vs API Gateway: They Solve Different Problems",
+    "url": "https://dev.to/sahajmeet_kaur_/ai-gateway-vs-api-gateway-they-solve-different-problems-we-confused-them-for-six-months-56fe",
+    "keywords": [
+      "solve different problems",
+      "solve different problems",
+      "adding ai workloads",
+      "ai gateway",
+      "precise difference",
+      "made sense",
+      "kong running",
+      "api gateway",
+      "top",
+      "source"
+    ],
+    "summary": "We already had Kong running. Adding AI workloads on top of it made sense - until it didn't. Here's the precise difference between an API gateway and an AI gateway, and the moment we realised we needed both."
+  },
+  "af927717b41e6699": {
+    "file": "corpus/devto/dev_to_saurav_bhattacharya_your-evals-are-flaky-too-stop-tru_68db76a930.md",
+    "source": "devto",
+    "title": "Your Evals Are Flaky Too: Stop Trusting a Pass Rate You Can't Reproduce",
+    "url": "https://dev.to/saurav_bhattacharya/your-evals-are-flaky-too-stop-trusting-a-pass-rate-you-cant-reproduce-6pk",
+    "keywords": [
+      "class failing state",
+      "random judge apart",
+      "measure judge flakiness",
+      "judge eval",
+      "treat unstable",
+      "stop trusting",
+      "stop trusting",
+      "pass rate",
+      "pass rate",
+      "drifting harness"
+    ],
+    "summary": "# Your Evals Are Flaky Too: Stop Trusting a Pass Rate You Can't Reproduce Your agent is non-deterministic and you know it. Here's how to measure judge flakiness, treat UNSTABLE as a first-class failing state, and use the trace to tell a random judge apart from a drifting harness."
+  },
+  "ad2d35d7e18b0eb4": {
+    "file": "corpus/devto/dev_to_mognotaapp_i-built-a-50-feature-wellness-app-in-a-sin_ae686a2b98.md",
+    "source": "devto",
+    "title": "I built a 50+ feature wellness app in a single HTML file as a student — here's why",
+    "url": "https://dev.to/mognotaapp/i-built-a-50-feature-wellness-app-in-a-single-html-file-as-a-student-heres-why-37mj",
+    "keywords": [
+      "people lose hours pretending",
+      "kept setting pomodoro ...",
+      "single html file",
+      "single html file",
+      "feature wellness app",
+      "feature wellness app",
+      "student —",
+      "student —",
+      "work",
+      "study"
+    ],
+    "summary": "# I built a 50+ feature wellness app in a single HTML file as a student — here's why Most people lose hours pretending to work or study. I was one of them."
+  },
+  "e25afa9b201e7ac1": {
+    "file": "corpus/devto/dev_to_adrian_obungu_05a35126e1f_building-a-highly-concurren_823f54af13.md",
+    "source": "devto",
+    "title": "Building a Highly Concurrent Webhook Processing Pipeline: Lessons from the Synapse Reconciliation Engine",
+    "url": "https://dev.to/adrian_obungu_05a35126e1f/building-a-highly-concurrent-webhook-processing-pipeline-lessons-from-the-synapse-reconciliation-5gok",
+    "keywords": [
+      "party payment gateway sends",
+      "synapse reconciliation engine",
+      "synapse reconciliation engine",
+      "58z financial webhooks",
+      "http ...",
+      "deceptively simple",
+      "third",
+      "surface",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Building a Highly Concurrent Webhook Processing Pipeline: Lessons from the Synapse Reconciliation Engine Financial webhooks are deceptively simple on the surface. A third-party payment gateway sends an HTTP..."
+  },
+  "c3e545ff3b78079f": {
+    "file": "corpus/devto/dev_to_alex_spinov_your-ai-code-has-6-secret-hits-only-3-shi_fafec5f89a.md",
+    "source": "devto",
+    "title": "Your AI Code Has 6 Secret Hits. Only 3 Ship in the npm Package.",
+    "url": "https://dev.to/alex_spinov/your-ai-code-has-6-secret-hits-only-3-ship-in-the-npm-package-39jf",
+    "keywords": [
+      "secret scanner ...",
+      "6 secret hits",
+      "6 secret hits",
+      "published npm package",
+      "npm package",
+      "npm package",
+      "different set",
+      "ai code",
+      "ai code",
+      "3 ship"
+    ],
+    "summary": "# Your AI Code Has 6 Secret Hits. Only 3 Ship in the npm Package. Secrets in a published npm package are a different set from secrets in your repo."
+  },
+  "3e371726ae7e6792": {
+    "file": "corpus/devto/dev_to_durgesh_kumar_a583a748694_why-we-built-our-entire-saa_6716471475.md",
+    "source": "devto",
+    "title": "Why We Built Our Entire SaaS on WhatsApp Instead of Email (And What Happened Next)",
+    "url": "https://dev.to/durgesh_kumar_a583a748694/why-we-built-our-entire-saas-on-whatsapp-instead-of-email-and-what-happened-next-3jgd",
+    "keywords": [
+      "changed everything —",
+      "whatsapp instead",
+      "whatsapp instead",
+      "product decision",
+      "happened next",
+      "happened next",
+      "entire saas",
+      "entire saas",
+      "technical",
+      "source"
+    ],
+    "summary": "# Why We Built Our Entire SaaS on WhatsApp Instead of Email (And What Happened Next) > Source: devto | Category: news | 2026-06-25T16:00:56Z A founder's technical and product decision that changed everything — and 76 studios across 50+..."
+  },
+  "767f797bc2d840d6": {
+    "file": "corpus/devto/dev_to_krrish_jagbandhu_eca8db9d_i-built-a-3-rubber-ducky-1n_e9a92e82e1.md",
+    "source": "devto",
+    "title": "I Built a $3 Rubber Ducky",
+    "url": "https://dev.to/krrish_jagbandhu_eca8db9d/i-built-a-3-rubber-ducky-1nb",
+    "keywords": [
+      "seen someone plug",
+      "3 rubber ducky",
+      "3 rubber ducky",
+      "seconds —...",
+      "hacker movie",
+      "ever watched",
+      "usb",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I Built a $3 Rubber Ducky > Source: devto | Category: news | 2026-06-25T16:00:59Z If you've ever watched a hacker movie and seen someone plug in a USB and own a machine in seconds —..."
+  },
+  "5618ea376f03383f": {
+    "file": "corpus/devto/dev_to_eayurt_do-developers-ever-really-disconnect-38jc_02860aa22b.md",
+    "source": "devto",
+    "title": "Do Developers Ever Really Disconnect?",
+    "url": "https://dev.to/eayurt/do-developers-ever-really-disconnect-38jc",
+    "keywords": [
+      "developers ever really disconnect",
+      "developers ever really disconnect",
+      "whether",
+      "whether",
+      "want",
+      "stop",
+      "source",
+      "reactions",
+      "question",
+      "news"
+    ],
+    "summary": "# Do Developers Ever Really Disconnect? > Source: devto | Category: news | 2026-06-25T16:00:59Z It's whether you're doing it because you want to, or because you don't know how to stop."
+  },
+  "d0f6a8d037c2a85d": {
+    "file": "corpus/devto/dev_to_robertcasschdot_i-built-a-private-100-in-browser-jpeg_83d0a0ff75.md",
+    "source": "devto",
+    "title": "I built a private, 100% in-browser JPEG XL converter (no upload, no server)",
+    "url": "https://dev.to/robertcasschdot/i-built-a-private-100-in-browser-jpeg-xl-converter-no-upload-no-server-493i",
+    "keywords": [
+      "browser jpeg xl converter",
+      "browser jpeg xl converter",
+      "jpeg xl ...",
+      "browser shrug",
+      "jxl file",
+      "ever downloaded",
+      "watched",
+      "upload",
+      "upload",
+      "source"
+    ],
+    "summary": "# I built a private, 100% in-browser JPEG XL converter (no upload, no server) > Source: devto | Category: news | 2026-06-25T16:01:01Z If you've ever downloaded a .jxl file and watched your browser shrug at it, you've met the JPEG XL..."
+  },
+  "5f9221314d55fe42": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47995_arca-raises-64m-for-ai-na_5c8bb00bc5.md",
+    "source": "finance",
+    "title": "[finextra] Arca raises $64m for AI-native wealth management",
+    "url": "https://www.finextra.com/newsarticle/47995/arca-raises-64m-for-ai-native-wealth-management?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "native wealth management arca",
+      "native wealth management",
+      "native wealth management",
+      "50z arca raises",
+      "arca raises",
+      "arca raises",
+      "64 million",
+      "stealth",
+      "source",
+      "sector"
+    ],
+    "summary": "# [finextra] Arca raises $64m for AI-native wealth management Arca raises $64m for AI-native wealth management Arca, an AI-native wealth management startup promising to humanise the sector in the age of robo-advisors, has emerged from stealth with $64 million in funding."
+  },
+  "5547b075b4d514b8": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_bluekit-phishing-kit-_25958024b2.md",
+    "source": "security",
+    "title": "[bleeping-comp] Bluekit phishing kit adopts browser-in-the-middle for login theft",
+    "url": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+    "keywords": [
+      "service platform continues",
+      "improved data theft",
+      "login theft",
+      "login theft",
+      "login theft",
+      "past week",
+      "bluekit phishing",
+      "adding browser",
+      "middle capabilities",
+      "middle"
+    ],
+    "summary": "# [bleeping-comp] Bluekit phishing kit adopts browser-in-the-middle for login theft Bluekit phishing kit adopts browser-in-the-middle for login theft The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft."
+  },
+  "eaf71ee5bde126a0": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_the-four-elevations-o_8b7bff9926.md",
+    "source": "security",
+    "title": "[bleeping-comp] The Four Elevations of Effective Fraud Prevention",
+    "url": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+    "keywords": [
+      "effective fraud prevention fraudsters",
+      "effective fraud prevention",
+      "effective fraud prevention",
+      "fraud prevention",
+      "target accounts",
+      "one transaction",
+      "ipqs explains",
+      "four elevations",
+      "four elevations",
+      "four elevations"
+    ],
+    "summary": "# [bleeping-comp] The Four Elevations of Effective Fraud Prevention Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems."
+  },
+  "35c21ab7a3001370": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_pirlotv-sports-piracy_3d23383c8a.md",
+    "source": "security",
+    "title": "[bleeping-comp] PirloTV sports piracy network disrupted as 44 domains seized",
+    "url": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+    "keywords": [
+      "illegal pirlotv streaming platform",
+      "targeted 44 domains",
+      "44 domains seized",
+      "44 domains seized",
+      "44 domains seized",
+      "source",
+      "security",
+      "security",
+      "disrupted",
+      "comp"
+    ],
+    "summary": "# [bleeping-comp] PirloTV sports piracy network disrupted as 44 domains seized PirloTV sports piracy network disrupted as 44 domains seized A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains."
+  },
+  "fc46775b4c292249": {
+    "file": "corpus/security/thehackernews_com_2026_06_chrome-ad-blocker-with-10m-install_7670c7a304.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+    "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+    "keywords": [
+      "execute arbitrary javascript code",
+      "dormant script injection capability",
+      "dormant script injection capability",
+      "dormant script injection capability",
+      "50z chrome ad blocker",
+      "chrome ad blocker",
+      "chrome ad blocker",
+      "chrome web store",
+      "10 million installs",
+      "extension description states"
+    ],
+    "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store. The extension description states that it allows users to prevent web"
+  },
+  "1e2d481aca8ca176": {
+    "file": "corpus/github-releases/github_com_denoland_deno_releases_tag_v2_9_0_5c26210441.md",
+    "source": "github-releases",
+    "title": "denoland/deno v2.9.0 released",
+    "url": "https://github.com/denoland/deno/releases/tag/v2.9.0",
+    "keywords": [
+      "resolve git merge conflicts",
+      "fmt ): use lax",
+      "fmt ): use lax",
+      "fmt ): use lax",
+      "fmt ): infer config",
+      "desktop ): -- compress",
+      "runtime ): add request_builder_hook",
+      "fmt ): add sortnamedimports",
+      "desktop ): add windows",
+      "desktop ): add linux"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-06-25T16:01:37Z Read more: http://deno.com/blog/v2.9 - feat(bundle): add --declaration flag to generate rolled-up .d.ts files (#33838) - feat(cli): add `deno link` and `deno unlink` subcommands (#34359) - feat(cli): add `deno watch` subcommand (#35301) - feat(cli): add deno list subcommand to list declared dependencies (#34972) - feat(cli): auto-migrate pnpm-workspace.yaml on resolution failure (#34993) - feat(cli): provide a `node` on PATH "
   }
 }
