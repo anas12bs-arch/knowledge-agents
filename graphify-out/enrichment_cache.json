@@ -119201,5 +119201,599 @@
       "dgpu vulkan classification"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-25T05:38:07Z ## What's Changed * launch: add thinking capability detection to opencode by @hoyyeva in https://github.com/ollama/ollama/pull/15434 * launch: auto-install Claude Code by @hoyyeva in https://github.com/ollama/ollama/pull/16802 * launch: auto-install opencode when missing by @hoyyeva in https://github.com/ollama/ollama/pull/16806 * discover: fix inverted iGPU/dGPU Vulkan classification on Windows hybrid graphics by @Sahil17059"
+  },
+  "8967abca6cb80025": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_06_kids-act-would-require-age-che_467724444f.md",
+    "source": "legal",
+    "title": "[eff] The KIDS Act Would Require Age Checks To Get Online",
+    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "keywords": [
+      "even create new rules",
+      "take action tell congress",
+      "kids act pressures platforms",
+      "kids online safety act",
+      "bill protects minors online",
+      "directed moderation policies",
+      "checking practices across",
+      "app “ knows",
+      "push online services",
+      "using different standards"
+    ],
+    "summary": "The package includes a revised version of the  Kids Online Safety Act , or KOSA, combined with a collection of other internet bills, study bills, reporting requirements, and new regulations. Buried inside the KIDS Act are provisions that will push online services to verify all users’ ages, require government-directed moderation policies for online speech, and even create new rules about private and encrypted communications. Take action Tell Congress to reject this age-gating bill The KIDS Act Pr"
+  },
+  "38eabd41580891b1": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_tOC2N0B9lio_a63fd785f4.md",
+    "source": "youtube",
+    "title": "[theo] The next paradigm shift (according to Karpathy)",
+    "url": "https://www.youtube.com/watch?v=tOC2N0B9lio",
+    "keywords": [
+      "first glance seems like",
+      "anthropic released claude tag",
+      "still hate talking",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "channel focused context",
+      "awesome edit 🙏",
+      "next paradigm shift",
+      "next paradigm shift"
+    ],
+    "summary": "# [theo] The next paradigm shift (according to Karpathy) Anthropic released Claude Tag this week and while at first glance seems like it's just a slack bot, Karpathy disagrees - saying that it's \"a new paradigm for interacting with Claude\" and we focus on why that could be true with it's focus on team integrations and channel focused context/permissions. Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "8fc481757d5f9dea": {
+    "file": "corpus/design/www_figma_com_blog_config-2026-recap_a4797e865a.md",
+    "source": "design",
+    "title": "[sidebar-io] Config 2026: New materials, new tools and a more expressive canvas",
+    "url": "https://www.figma.com/blog/config-2026-recap/",
+    "keywords": [
+      "expressive canvas push past",
+      "29z config 2026",
+      "expressive canvas",
+      "expressive canvas",
+      "config 2026",
+      "config 2026",
+      "weave tools",
+      "new tools",
+      "new tools",
+      "new tools"
+    ],
+    "summary": "# [sidebar-io] Config 2026: New materials, new tools and a more expressive canvas Config 2026: New materials, new tools and a more expressive canvas Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas."
+  },
+  "4589d6ab8bcec27a": {
+    "file": "corpus/design/www_lukew_com_ff_entry_asp_2155_888212d3a0.md",
+    "source": "design",
+    "title": "[sidebar-io] The AI steering layer",
+    "url": "https://www.lukew.com/ff/entry.asp?2155",
+    "keywords": [
+      "intentional steering layer",
+      "ai steering layer",
+      "ai steering layer",
+      "ai steering layer",
+      "software today",
+      "increasingly needed",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] The AI steering layer The AI steering layer An intentional steering layer can not only help but is increasingly needed in software today."
+  },
+  "8e4293a14e936940": {
+    "file": "corpus/design/jakub_kr_writing_less-is-more_c8c6019498.md",
+    "source": "design",
+    "title": "[sidebar-io] Less is more, more or less",
+    "url": "https://jakub.kr/writing/less-is-more",
+    "keywords": [
+      "important skill",
+      "build might",
+      "29z less",
+      "less",
+      "less",
+      "less",
+      "less",
+      "less",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Less is more, more or less Less is more, more or less In the age of AI, knowing what not to build might be the most important skill of all."
+  },
+  "ea49034484d59f04": {
+    "file": "corpus/design/emilycampbell_co_writing_layers-of-ai-experience_679dc8ce26.md",
+    "source": "design",
+    "title": "[sidebar-io] The layers of AI experience",
+    "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+    "keywords": [
+      "behaviors beneath",
+      "ai experience",
+      "ai experience",
+      "ai experience",
+      "systems",
+      "source",
+      "sidebar",
+      "sidebar",
+      "shape",
+      "layers"
+    ],
+    "summary": "# [sidebar-io] The layers of AI experience The layers of AI experience Why designers must move beyond interfaces to shape the systems, constraints, and behaviors beneath them."
+  },
+  "50e83b7b2f5aea24": {
+    "file": "corpus/design/lastmuseum_com_2a1b001e94.md",
+    "source": "design",
+    "title": "[sidebar-io] The Last Museum",
+    "url": "https://lastmuseum.com/",
+    "keywords": [
+      "last museum search engine",
+      "last museum",
+      "last museum",
+      "museum art",
+      "source",
+      "sidebar",
+      "sidebar",
+      "design"
+    ],
+    "summary": "# [sidebar-io] The Last Museum The Last Museum Search engine for museum art."
+  },
+  "03b4252b59c343df": {
+    "file": "corpus/hackernews/markdy_com_02aba8535f.md",
+    "source": "hackernews",
+    "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+    "url": "https://markdy.com",
+    "keywords": [
+      "like mermaid diagrams",
+      "like mermaid diagrams",
+      "28z score",
+      "source",
+      "news",
+      "motion",
+      "motion",
+      "markdy",
+      "markdy",
+      "hackernews"
+    ],
+    "summary": "# Markdy: Like Mermaid Diagrams, but for Motion > Source: hackernews | Category: news | 2026-06-25T08:37:28Z Score: 52 | Comments: 5"
+  },
+  "e9314783f8136628": {
+    "file": "corpus/hackernews/hl2_slqnt_dev_61eb3ed585.md",
+    "source": "hackernews",
+    "title": "Half-Life 2 in a Browser",
+    "url": "https://hl2.slqnt.dev/",
+    "keywords": [
+      "life 2",
+      "life 2",
+      "27z score",
+      "source",
+      "news",
+      "half",
+      "half",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Half-Life 2 in a Browser > Source: hackernews | Category: news | 2026-06-25T08:37:27Z Score: 175 | Comments: 55"
+  },
+  "e56e006c733ff513": {
+    "file": "corpus/hackernews/github_com_BohemiaInteractive_CWR_72ec96175d.md",
+    "source": "hackernews",
+    "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "keywords": [
+      "bohemia interactive",
+      "bohemia interactive",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "github",
+      "github",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub > Source: hackernews | Category: news | 2026-06-25T08:37:28Z Score: 40 | Comments: 3"
+  },
+  "9dcce249b2a790d7": {
+    "file": "corpus/hackernews/utaw_tech_news_wikipedia-recognition_7530b5bc19.md",
+    "source": "hackernews",
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "keywords": [
+      "britain set global first",
+      "britain set global first",
+      "seeking union recognition",
+      "seeking union recognition",
+      "wikipedia workers",
+      "wikipedia workers",
+      "27z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Wikipedia Workers in Britain set global first by seeking union recognition > Source: hackernews | Category: news | 2026-06-25T08:37:27Z Score: 37 | Comments: 17"
+  },
+  "c1f381555decc269": {
+    "file": "corpus/hackernews/www_science_org_doi_10_1126_sciadv_adx0047_60aee1ed5f.md",
+    "source": "hackernews",
+    "title": "Spatially distributed complex organic matter detected in Mars crater",
+    "url": "https://www.science.org/doi/10.1126/sciadv.adx0047",
+    "keywords": [
+      "mars crater",
+      "mars crater",
+      "33z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Spatially distributed complex organic matter detected in Mars crater > Source: hackernews | Category: news | 2026-06-25T08:37:33Z Score: 17 | Comments: 6"
+  },
+  "76d82cb755b9f9d9": {
+    "file": "corpus/hackernews/github_com_dima-quant_nimic_ee87790669.md",
+    "source": "hackernews",
+    "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+    "url": "https://github.com/dima-quant/nimic",
+    "keywords": [
+      "nimic – pure python",
+      "nimic – pure python",
+      "systems language",
+      "systems language",
+      "show hn",
+      "show hn",
+      "aot compilation",
+      "aot compilation",
+      "29z score",
+      "source"
+    ],
+    "summary": "# Show HN: Nimic – Pure Python as a systems language with AOT compilation > Source: hackernews | Category: news | 2026-06-25T08:37:29Z Score: 9 | Comments: 3"
+  },
+  "4766ac40a3842ad4": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_06_slack-multicloud_utm_campaign_inf_1c4cc9adbf.md",
+    "source": "engineering",
+    "title": "[infoq] Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
+    "url": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "managed amazon sagemaker deployment",
+      "google cloud vertex ai",
+      "cloud ai serving platform",
+      "cloud ai serving platform",
+      "ai serving infrastructure evolved",
+      "28z slack outlines four",
+      "slack outlines four",
+      "slack outlines four",
+      "four distinct phases",
+      "phase journey"
+    ],
+    "summary": "# [infoq] Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform Slack has outlined how its AI serving infrastructure evolved through four distinct phases, moving from a self-managed Amazon SageMaker deployment to a multi-cloud architecture spanning AWS Bedrock and Google Cloud Vertex AI."
+  },
+  "1b41c15bc22b7e57": {
+    "file": "corpus/devto/dev_to_eliautobot_i-built-a-virtual-office-for-ai-agents-bec_38df56716d.md",
+    "source": "devto",
+    "title": "I built a virtual office for AI agents because logs are not enough",
+    "url": "https://dev.to/eliautobot/i-built-a-virtual-office-for-ai-agents-because-logs-are-not-enough-3o31",
+    "keywords": [
+      "interfaces still make",
+      "37z ai agents",
+      "ai agents",
+      "ai agents",
+      "virtual office",
+      "virtual office",
+      "feel invisible",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I built a virtual office for AI agents because logs are not enough > Source: devto | Category: news | 2026-06-25T08:37:37Z AI agents are getting more capable, but most interfaces still make them feel invisible."
+  },
+  "aa6e1463eb629a0a": {
+    "file": "corpus/devto/dev_to_kushal1o1_imagex-hit-10-stars-got-a-contributor-and-s_e664434c2b.md",
+    "source": "devto",
+    "title": "ImageX hit 10 stars, got a contributor, and shipped 3 new features :) here's what happened",
+    "url": "https://dev.to/kushal1o1/imagex-hit-10-stars-got-a-contributor-and-shipped-3-new-features-heres-what-happened-2ian",
+    "keywords": [
+      "edit images without ...",
+      "imagex hit 10 stars",
+      "imagex hit 10 stars",
+      "dumb little cli",
+      "couple weeks ago",
+      "imagex",
+      "source",
+      "reactions",
+      "posted"
+    ],
+    "summary": "# ImageX hit 10 stars, got a contributor, and shipped 3 new features :) here's what happened > Source: devto | Category: news | 2026-06-25T08:37:37Z A couple weeks ago I posted about ImageX - a dumb little CLI that lets you edit images without..."
+  },
+  "b12a237b90e8ebc8": {
+    "file": "corpus/devto/dev_to_truongpx396_the-agentic-loop-a-practical-field-guide-_a4d408c550.md",
+    "source": "devto",
+    "title": "🤖 The Agentic Loop 🔄 Loop Engineering : A Practical Field Guide 📘",
+    "url": "https://dev.to/truongpx396/the-agentic-loop-a-practical-field-guide-mnc",
+    "keywords": [
+      "real work — repeatedly",
+      "practical field guide 📘",
+      "practical field guide 📘",
+      "make ai coding agents",
+      "babysitting every ...",
+      "without",
+      "verifiably",
+      "source"
+    ],
+    "summary": "# 🤖 The Agentic Loop 🔄 Loop Engineering : A Practical Field Guide 📘 > Source: devto | Category: news | 2026-06-25T08:37:37Z How to make AI coding agents do real work — repeatedly, verifiably, and without you babysitting every..."
+  },
+  "6e975d2668216677": {
+    "file": "corpus/devto/dev_to_inferhaven_building-haven-bench-in-the-open-and-the-f_3c234428dd.md",
+    "source": "devto",
+    "title": "Building haven bench in the open, and the flaky CI ghost it flushed out",
+    "url": "https://dev.to/inferhaven/building-haven-bench-in-the-open-and-the-flaky-ci-ghost-it-flushed-out-1426",
+    "keywords": [
+      "flaky ci ghost",
+      "flaky ci ghost",
+      "benchmark feature flushed",
+      "debugging story",
+      "building inferhaven",
+      "flushed",
+      "flushed",
+      "building",
+      "building",
+      "source"
+    ],
+    "summary": "# Building haven bench in the open, and the flaky CI ghost it flushed out > Source: devto | Category: news | 2026-06-25T08:37:36Z A debugging story from building InferHaven in the open: how a benchmark feature flushed out a..."
+  },
+  "fe8b0e816a73bfd2": {
+    "file": "corpus/devto/dev_to_dariubs_best-of-ai-is-now-open-source-2hl_4b896b366f.md",
+    "source": "devto",
+    "title": "Best of AI is now open source!",
+    "url": "https://dev.to/dariubs/best-of-ai-is-now-open-source-2hl",
+    "keywords": [
+      "ai tools worth using",
+      "year ago",
+      "whole ...",
+      "curated list",
+      "open source",
+      "open source",
+      "started best"
+    ],
+    "summary": "# Best of AI is now open source! > Source: devto | Category: news | 2026-06-25T08:37:38Z We started Best of AI about a year ago as a curated list of AI tools worth using."
+  },
+  "26a931d0ca93e51f": {
+    "file": "corpus/devto/dev_to_hitoshi1964_streaming-a-pgrestore-through-python-with_55f4ee4868.md",
+    "source": "devto",
+    "title": "Streaming a pg_restore through Python without deadlocking",
+    "url": "https://dev.to/hitoshi1964/streaming-a-pgrestore-through-python-without-deadlocking-2lje",
+    "keywords": [
+      "python without deadlocking",
+      "python without deadlocking",
+      "maybe gigabytes —",
+      "upload —",
+      "file object",
+      "database dump",
+      "want",
+      "streaming",
+      "streaming",
+      "source"
+    ],
+    "summary": "# Streaming a pg_restore through Python without deadlocking > Source: devto | Category: news | 2026-06-25T08:37:36Z You want to restore a database dump that arrived as an upload — a file object, maybe gigabytes — and..."
+  },
+  "46594bcd9a1c2d0e": {
+    "file": "corpus/devto/dev_to_guadalupe182_inbox-zero-for-devs-how-i-built-a-javasc_9cc5083d57.md",
+    "source": "devto",
+    "title": "Inbox Zero for Devs: How I Built a JavaScript Script to Destroy Gmail Spam",
+    "url": "https://dev.to/guadalupe182/inbox-zero-for-devs-how-i-built-a-javascript-script-to-destroy-gmail-spam-4koc",
+    "keywords": [
+      "37z hey dev community",
+      "inboxes often turn",
+      "destroy gmail spam",
+      "destroy gmail spam",
+      "linkedin ,...",
+      "job alerts",
+      "javascript script",
+      "javascript script",
+      "inbox zero",
+      "inbox zero"
+    ],
+    "summary": "# Inbox Zero for Devs: How I Built a JavaScript Script to Destroy Gmail Spam > Source: devto | Category: news | 2026-06-25T08:37:37Z 👋  As developers, our inboxes often turn into a graveyard of job alerts (LinkedIn,..."
+  },
+  "759fbf749761d773": {
+    "file": "corpus/devto/dev_to_sebuzdugan_handling-multi-model-api-outages-without-m_659b8c6760.md",
+    "source": "devto",
+    "title": "Handling Multi-Model API Outages Without Melting Production",
+    "url": "https://dev.to/sebuzdugan/handling-multi-model-api-outages-without-melting-production-255o",
+    "keywords": [
+      "every model fails",
+      "36z model diversity",
+      "level outage",
+      "handling multi",
+      "handling multi",
+      "circuit breakers",
+      "admission control",
+      "provider fallback",
+      "provider",
+      "test"
+    ],
+    "summary": "# Handling Multi-Model API Outages Without Melting Production Model diversity is not resilience. Circuit breakers, provider fallback, bulkheads, admission control, and how to test it."
+  },
+  "c29830a2c2710b64": {
+    "file": "corpus/devto/dev_to_armorer_labs_ai-agents-need-tiered-approval-escalatio_50cedfc5eb.md",
+    "source": "devto",
+    "title": "AI agents need tiered approval escalation, not one big confirm button",
+    "url": "https://dev.to/armorer_labs/ai-agents-need-tiered-approval-escalation-not-one-big-confirm-button-2id0",
+    "keywords": [
+      "one big confirm button",
+      "one big confirm button",
+      "yes \"?",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "conversation",
+      "click",
+      "category"
+    ],
+    "summary": "# AI agents need tiered approval escalation, not one big confirm button > Source: devto | Category: news | 2026-06-25T08:37:36Z Every agent product eventually has the same conversation: who is allowed to click \"yes\"?"
+  },
+  "faf9bbca0d0e05ed": {
+    "file": "corpus/devto/dev_to_slima4_999-uptime-is-43-minutes-a-month-do-you-know-y_3f31560765.md",
+    "source": "devto",
+    "title": "99.9% uptime is 43 minutes a month. Do you know your number?",
+    "url": "https://dev.to/slima4/999-uptime-is-43-minutes-a-month-do-you-know-your-number-1p9g",
+    "keywords": [
+      "plain downtime per year",
+      "36z every uptime sla",
+      "part nobody tells",
+      "43 minutes",
+      "43 minutes",
+      "uptime",
+      "uptime",
+      "week",
+      "translated",
+      "source"
+    ],
+    "summary": "# 99.9% uptime is 43 minutes a month. Do you know your number? Every uptime SLA, translated into plain downtime per year, month, week, and day."
+  },
+  "bb790c039fd96978": {
+    "file": "corpus/devto/dev_to_k08200_i-dont-trust-the-llm-to-classify-my-email-so-i_add513e69f.md",
+    "source": "devto",
+    "title": "I don't trust the LLM to classify my email. So I don't let it.",
+    "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
+    "keywords": [
+      "every single email",
+      "classifier calls",
+      "email",
+      "email",
+      "email",
+      "trust",
+      "trust",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I don't trust the LLM to classify my email. So I don't let it. My classifier calls an LLM on every single email."
+  },
+  "9e3a48a08fc82de5": {
+    "file": "corpus/devto/dev_to_greymothjp_i-built-128-things-with-ai-127-are-dead-so_cef2bf8ea9.md",
+    "source": "devto",
+    "title": "I built 128 things with AI. 127 are dead. So I started shipping into real OSS instead.",
+    "url": "https://dev.to/greymothjp/i-built-128-things-with-ai-127-are-dead-so-i-started-shipping-into-real-oss-instead-1ce0",
+    "keywords": [
+      "ai dissect every one",
+      "real oss instead",
+      "real oss instead",
+      "built 128 things",
+      "built 128 things",
+      "built 128 things",
+      "started shipping",
+      "started shipping",
+      "four months"
+    ],
+    "summary": "So I started shipping into real OSS instead. i built 128 things with AI in four months. then i made an AI dissect every one of them, and the..."
+  },
+  "b1605a57159b52df": {
+    "file": "corpus/devto/dev_to_samson_tanimawo_i-reduced-our-alert-volume-by-90-here_c80af4799c.md",
+    "source": "devto",
+    "title": "I Reduced Our Alert Volume by 90% — Here's the Playbook",
+    "url": "https://dev.to/samson_tanimawo/i-reduced-our-alert-volume-by-90-heres-the-playbook-18i1",
+    "keywords": [
+      "almost quit three months",
+      "sre role",
+      "alert volume",
+      "alert volume",
+      "source",
+      "reduced",
+      "reduced",
+      "reactions"
+    ],
+    "summary": "# I Reduced Our Alert Volume by 90% — Here's the Playbook > Source: devto | Category: news | 2026-06-25T08:37:36Z The Night I Almost Quit   Three months into my SRE role, I was averaging 47 alerts per..."
+  },
+  "357a8212b14cbcaa": {
+    "file": "corpus/devto/dev_to_trimtabsignal_why-i-built-bonding-on-my-sons-birthday_7b2a0e0f9a.md",
+    "source": "devto",
+    "title": "Why I Built BONDING on My Son's Birthday",
+    "url": "https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622",
+    "keywords": [
+      "birthday system update v0",
+      "built bonding",
+      "built bonding",
+      "built bonding",
+      "birthday",
+      "birthday",
+      "transponder",
+      "source",
+      "son",
+      "son"
+    ],
+    "summary": "# Why I Built BONDING on My Son's Birthday > Source: devto | Category: news | 2026-06-25T08:37:38Z Why I Built BONDING on My Son's Birthday   System Update v0.3.0: The Transponder     This is..."
+  },
+  "058eab3523fab7fc": {
+    "file": "corpus/devto/dev_to_ntctech_your-vmware-exit-was-successful-the-first-inc_e4f41f4ccd.md",
+    "source": "devto",
+    "title": "Your VMware Exit Was Successful. The First Incident Will Tell You If That's True.",
+    "url": "https://dev.to/ntctech/your-vmware-exit-was-successful-the-first-incident-will-tell-you-if-thats-true-2902",
+    "keywords": [
+      "36z vmware exit survivability",
+      "vmware exit",
+      "vmware exit",
+      "first incident",
+      "first incident",
+      "true",
+      "true",
+      "tell",
+      "tell",
+      "successful"
+    ],
+    "summary": "# Your VMware Exit Was Successful. The First Incident Will Tell You If That's True. VMware exit survivability is the question your migration project never formally scheduled — and the..."
+  },
+  "d120ba55ba4dc823": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47989_albanias-digital-first-je_052b93f462.md",
+    "source": "finance",
+    "title": "[finextra] Albania's digital-first Jet Bank launches",
+    "url": "https://www.finextra.com/newsarticle/47989/albanias-digital-first-jet-bank-launches?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "first jet bank launches",
+      "first jet bank launches",
+      "jet bank",
+      "first fully",
+      "digital bank",
+      "29z albania",
+      "albania",
+      "albania",
+      "digital",
+      "digital"
+    ],
+    "summary": "# [finextra] Albania's digital-first Jet Bank launches Albania's digital-first Jet Bank launches Albania's first fully-digital bank, Jet Bank, has launched after securing its license."
+  },
+  "680bde3d6377d94e": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_47990_top-uk-banks-go-to-work-o_c1e3b6f6dc.md",
+    "source": "finance",
+    "title": "[finextra] Top UK banks go to work on digital verification service",
+    "url": "https://www.finextra.com/newsarticle/47990/top-uk-banks-go-to-work-on-digital-verification-service?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "top uk banks go",
+      "top uk banks go",
+      "led digital verification service",
+      "digital verification service",
+      "digital verification service",
+      "nationwide building society",
+      "lloyds banking group",
+      "natwest group",
+      "supporting barclays",
+      "financial services"
+    ],
+    "summary": "# [finextra] Top UK banks go to work on digital verification service Top UK banks go to work on digital verification service UK Finance is supporting Barclays, HSBC, Lloyds Banking Group, Nationwide Building Society, NatWest Group and Santander to develop a financial services-led digital verification service."
+  },
+  "a58da1035d2f6031": {
+    "file": "corpus/security/thehackernews_com_2026_06_cisco-catalyst-sd-wan-zero-day-cve_b2d031cc00.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+    "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+    "keywords": [
+      "unknown threat actor exploited",
+      "27z cisco catalyst sd",
+      "cisco catalyst sd",
+      "cisco catalyst sd",
+      "least two months",
+      "gain root access",
+      "gain root access",
+      "gain root access",
+      "execute arbitrary commands",
+      "8 ), allows"
+    ],
+    "summary": "# [hacker-news-sec] Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges"
   }
 }
