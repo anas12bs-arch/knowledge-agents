@@ -129688,5 +129688,230 @@
       "anthropic == 1"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-26T21:58:09Z Changes since langchain-anthropic==1.4.7 release(anthropic): 1.4.8 (#38490) fix(anthropic): keep initial text on `content_block_start` (#38442) chore: bump langgraph-checkpoint from 4.1.0 to 4.1.1 in /libs/partners/anthropic (#38479) fix(core): add messages to bare `raise ValueError` calls (#38158)"
+  },
+  "ba4e3887bc0dfc2e": {
+    "file": "corpus/legal/www_techdirt_com_2026_06_26_the-kids-act-would-require-age-c_0ba6329e66.md",
+    "source": "legal",
+    "title": "[techdirt] The KIDS Act Would Require Age Checks To Get Online",
+    "url": "https://www.techdirt.com/2026/06/26/the-kids-act-would-require-age-checks-to-get-online/",
+    "keywords": [
+      "kids online safety act",
+      "[&# 8230 ;]",
+      "get online within",
+      "kids act",
+      "get online",
+      "get online",
+      "study bills",
+      "sprawling package",
+      "revised version",
+      "reporting requirements"
+    ],
+    "summary": "# [techdirt] The KIDS Act Would Require Age Checks To Get Online Within the next week, Congress is preparing to vote on the&#160;KIDS Act, a sprawling package of legislation that seeks to control Americans’ web browsing and private messaging. The package includes a revised version of the&#160;Kids Online Safety Act, or KOSA, combined with a collection of other internet bills, study bills, reporting requirements, and new regulations."
+  },
+  "f8086708316009ba": {
+    "file": "corpus/legal/arstechnica_com_gadgets_2026_06_streaming-services-obnoxious_12272e4f2c.md",
+    "source": "legal",
+    "title": "[ars-policy] Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+    "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+    "keywords": [
+      "make ads less booming",
+      "california illinois passed",
+      "similar law",
+      "july 1",
+      "july 1",
+      "july 1",
+      "giving services",
+      "california",
+      "california",
+      "source"
+    ],
+    "summary": "# [ars-policy] Streaming services’ obnoxiously loud ads become illegal on July 1 in California Streaming services’ obnoxiously loud ads become illegal on July 1 in California Illinois passed a similar law, giving services more incentive to make ads less booming."
+  },
+  "c9e13b5e8c255fc4": {
+    "file": "corpus/youtube/www_youtube_com_shorts_XJAE9xgZcZ4_615a1adb34.md",
+    "source": "youtube",
+    "title": "[theo] Karpathy is hyping a Slack bot?",
+    "url": "https://www.youtube.com/shorts/XJAE9xgZcZ4",
+    "keywords": [
+      "andrej karpathy got clowned",
+      "https :// t3",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "wild ride",
+      "tool access",
+      "three things",
+      "real teams",
+      "different way",
+      "defend anthropic"
+    ],
+    "summary": "Andrej Karpathy got clowned on for hyping a \"Slack bot\" — so I have to do three things I hate: defend Anthropic, make a video about it, and talk about Slack. Claude Tag is actually a different way of thinking about context and tool access for real teams and it's a wild ride. Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "ec36fc08611f182a": {
+    "file": "corpus/product/techcrunch_com_2026_06_26_corgi-the-buzzy-y-combinator-backe_90f2864881.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+    "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+    "keywords": [
+      "backed insurance tech startup",
+      "backed insurance tech startup",
+      "backed insurance tech startup",
+      "raising new questions",
+      "open source product",
+      "open source product",
+      "vibe coding",
+      "papermark accused",
+      "50z corgi",
+      "corgi says"
+    ],
+    "summary": "# [techcrunch-startups] Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product Corgi became embroiled in  controversy when Papermark accused it of stealing its software."
+  },
+  "148e383cd52f880b": {
+    "file": "corpus/hackernews/www_jonhilty_com_lippmann_4e23b78b9d.md",
+    "source": "hackernews",
+    "title": "Lippmann Photography",
+    "url": "https://www.jonhilty.com/lippmann",
+    "keywords": [
+      "lippmann photography",
+      "lippmann photography",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "26t23"
+    ],
+    "summary": "# Lippmann Photography > Source: hackernews | Category: news | 2026-06-26T23:01:52Z Score: 6 | Comments: 0"
+  },
+  "300d3a7973813c02": {
+    "file": "corpus/hackernews/github_com_chasangchual_reed-solomon-for-ocr_4cf718e420.md",
+    "source": "hackernews",
+    "title": "Reed-Solomon for OCR: error correction for messy printed codes",
+    "url": "https://github.com/chasangchual/reed-solomon-for-ocr",
+    "keywords": [
+      "messy printed codes",
+      "messy printed codes",
+      "error correction",
+      "error correction",
+      "55z score",
+      "source",
+      "solomon",
+      "solomon",
+      "reed",
+      "reed"
+    ],
+    "summary": "# Reed-Solomon for OCR: error correction for messy printed codes > Source: hackernews | Category: news | 2026-06-26T23:01:55Z Score: 6 | Comments: 2"
+  },
+  "7ec608906d1b4976": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48692474_4d1c5e70c0.md",
+    "source": "hackernews",
+    "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+    "url": "https://news.ycombinator.com/item?id=48692474",
+    "keywords": [
+      "weeks ago",
+      "weeks ago",
+      "web site",
+      "github repo",
+      "50z score",
+      "&# x27",
+      "source",
+      "news",
+      "idea"
+    ],
+    "summary": "# The open source DOCX editor submitted to HN a few weeks ago has been deleted The github repo under eigenpal is gone. The web site at docx-editor is 503."
+  },
+  "67f649a7efcc8c40": {
+    "file": "corpus/hackernews/old_reddit_com_r_MacOS_comments_1ufug75_major_breakthrough_3_f7b66c2eba.md",
+    "source": "hackernews",
+    "title": "32bit Apple app running on M4 natively",
+    "url": "https://old.reddit.com/r/MacOS/comments/1ufug75/major_breakthrough_32bit_apple_app_running_on_m4/",
+    "keywords": [
+      "32bit apple app running",
+      "32bit apple app running",
+      "m4 natively",
+      "m4 natively",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# 32bit Apple app running on M4 natively > Source: hackernews | Category: news | 2026-06-26T23:01:55Z Score: 10 | Comments: 0"
+  },
+  "022406f454a7c94a": {
+    "file": "corpus/hackernews/twitter_com_Techmeme_status_2070638481265905837_3bc3304c97.md",
+    "source": "hackernews",
+    "title": "The US lifts its block on Mythos 5",
+    "url": "https://twitter.com/Techmeme/status/2070638481265905837",
+    "keywords": [
+      "us lifts",
+      "us lifts",
+      "mythos 5",
+      "mythos 5",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The US lifts its block on Mythos 5 > Source: hackernews | Category: news | 2026-06-26T23:01:52Z Score: 7 | Comments: 1"
+  },
+  "daaf4063ab5125c2": {
+    "file": "corpus/devto/dev_to_michaeltruong_the-ai-reviewer-scored-2325-and-missed-_e05e88dd6b.md",
+    "source": "devto",
+    "title": "The AI reviewer scored 23/25 and missed the point",
+    "url": "https://dev.to/michaeltruong/the-ai-reviewer-scored-2325-and-missed-the-point-51mh",
+    "keywords": [
+      "notion cards become ...",
+      "ai reviewer scored 23",
+      "ai reviewer scored 23",
+      "assisted editorial pipeline",
+      "technical writing",
+      "source",
+      "reactions",
+      "point",
+      "point"
+    ],
+    "summary": "# The AI reviewer scored 23/25 and missed the point > Source: devto | Category: news | 2026-06-26T23:01:58Z I've been building an AI-assisted editorial pipeline for my technical writing."
+  },
+  "fe75349e973bb9fa": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fbi-russian-hackers-n_890dfe9b44.md",
+    "source": "security",
+    "title": "[bleeping-comp] FBI: Russian hackers now target Signal backup recovery keys",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+    "keywords": [
+      "russian intelligence services",
+      "russian hackers",
+      "russian hackers",
+      "russian hackers",
+      "historical messages",
+      "allowing attackers",
+      "access victims",
+      "49z fbi",
+      "fbi",
+      "fbi"
+    ],
+    "summary": "# [bleeping-comp] FBI: Russian hackers now target Signal backup recovery keys FBI: Russian hackers now target Signal backup recovery keys The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages."
+  },
+  "955711b1fc36e5be": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_1a1_95fccae1ff.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.1a1 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1a1",
+    "keywords": [
+      "track tui button telemetry",
+      "fix ssrf redirect bypass",
+      "scraping fetches ### documentation",
+      "changed ### features",
+      "open deployment page",
+      "0 ## contributors",
+      "crewai — 1",
+      "03z ## crewaiinc",
+      "crewai 1",
+      "crewai 1"
+    ],
+    "summary": "### Features - Track TUI button telemetry - Require explicit CrewAI project definitions - Open deployment page after CLI deploy ### Bug Fixes - Fix JSON crew template rendering - Fix JSON crew version pin - Fix SSRF redirect bypass in scraping fetches ### Documentation - Improve coding agent setup CTA - Snapshot and changelog for v1.15.0"
   }
 }
