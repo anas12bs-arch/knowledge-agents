@@ -125952,5 +125952,667 @@
       "fireworks (# 38314"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-06-26T08:23:01Z Changes since langchain-fireworks==1.4.2 release(fireworks): 1.4.3 chore: bump vcrpy from 8.1.1 to 8.2.1 in /libs/partners/fireworks (#38314) chore: bump langsmith from 0.8.16 to 0.8.18 in /libs/partners/fireworks (#38313) chore: bump langsmith from 0.8.14 to 0.8.16 in /libs/partners/fireworks (#38235) chore: bump pytest from 9.0.3 to 9.1.0 in /libs/partners/fireworks (#38233) chore(model-profiles): refresh model profile data"
+  },
+  "d5705b9bcb555b75": {
+    "file": "corpus/sales/www_saastr_com_how-happyfox-closed-1m-in-expansion-on-a-20-a_f40bfe619f.md",
+    "source": "sales",
+    "title": "[saastr] How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain",
+    "url": "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
+    "keywords": [
+      "b2b companies pour money",
+      "20 ai agent spend",
+      "20 ai agent spend",
+      "20 ai agent spend",
+      "bigger ad spend",
+      "already sitting inside",
+      "... continue reading",
+      "ceo shalin jain",
+      "ceo shalin jain",
+      "ceo shalin jain"
+    ],
+    "summary": "# [saastr] How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain At SaaStr AI 2026, Shalin Jain, founder and CEO of HappyFox, walked through exactly how his team did...   Continue Reading"
+  },
+  "7e2b11d905cea6a7": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_23BtT8P7rCA_d16fa667a5.md",
+    "source": "youtube",
+    "title": "[theo] Dear Google, we need to talk.",
+    "url": "https://www.youtube.com/watch?v=23BtT8P7rCA",
+    "keywords": [
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "02z dear google",
+      "dear google",
+      "dear google",
+      "leads everything",
+      "google deepmind",
+      "even capital"
+    ],
+    "summary": "# [theo] Dear Google, we need to talk. So how is the company who leads everything from compute to data, talent, and even capital, is somehow only capable of losing? Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "628ad7b844cd94c2": {
+    "file": "corpus/hackernews/scottaaronson_blog_p_9851_e01d96de06.md",
+    "source": "hackernews",
+    "title": "Bipartite Matching Is in NC",
+    "url": "https://scottaaronson.blog/?p=9851",
+    "keywords": [
+      "bipartite matching",
+      "bipartite matching",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bipartite Matching Is in NC > Source: hackernews | Category: news | 2026-06-26T11:18:44Z Score: 3 | Comments: 0"
+  },
+  "e4893c59e3411aa7": {
+    "file": "corpus/hackernews/worksinprogress_co_issue_microbubbles_5f5ad01d34.md",
+    "source": "hackernews",
+    "title": "Microbubbles in Medicine",
+    "url": "https://worksinprogress.co/issue/microbubbles/",
+    "keywords": [
+      "44z score",
+      "source",
+      "news",
+      "microbubbles",
+      "microbubbles",
+      "medicine",
+      "medicine",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Microbubbles in Medicine > Source: hackernews | Category: news | 2026-06-26T11:18:44Z Score: 9 | Comments: 0"
+  },
+  "a4afe8bbe527b807": {
+    "file": "corpus/hackernews/blog_matthewbrunelle_com_my-steam-machine-is-a-50ft-hdmi-cab_8fbb97fb6b.md",
+    "source": "hackernews",
+    "title": "My Steam Machine Is a 50ft HDMI Cable",
+    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+    "keywords": [
+      "50ft hdmi cable",
+      "50ft hdmi cable",
+      "steam machine",
+      "steam machine",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# My Steam Machine Is a 50ft HDMI Cable > Source: hackernews | Category: news | 2026-06-26T11:18:44Z Score: 52 | Comments: 50"
+  },
+  "ce389b997ed128fc": {
+    "file": "corpus/hackernews/www_theguardian_com_food_2026_jun_26_how-much-the-hidden-cos_812957edf8.md",
+    "source": "hackernews",
+    "title": "How much? The hidden costs of restaurant dishes",
+    "url": "https://www.theguardian.com/food/2026/jun/26/how-much-the-hidden-costs-of-restaurant-dishes",
+    "keywords": [
+      "restaurant dishes",
+      "restaurant dishes",
+      "hidden costs",
+      "hidden costs",
+      "46z score",
+      "source",
+      "news",
+      "much",
+      "much",
+      "hackernews"
+    ],
+    "summary": "# How much? The hidden costs of restaurant dishes > Source: hackernews | Category: news | 2026-06-26T11:18:46Z"
+  },
+  "73f96e8bbcbac1fd": {
+    "file": "corpus/devto/dev_to_gamya_m_swift-closures-accepting-functions-as-paramet_871bb83083.md",
+    "source": "devto",
+    "title": "Swift Closures — Accepting Functions as Parameters 🎯",
+    "url": "https://dev.to/gamya_m/swift-closures-accepting-functions-as-parameters-25jb",
+    "keywords": [
+      "passing closures",
+      "parameters 🎯",
+      "parameters 🎯",
+      "source",
+      "reactions",
+      "news",
+      "functions",
+      "far",
+      "devto",
+      "category"
+    ],
+    "summary": "# Swift Closures — Accepting Functions as Parameters 🎯 > Source: devto | Category: news | 2026-06-26T11:18:47Z So far we've been passing closures into functions that Swift provides — like sorted(), filter(), and..."
+  },
+  "94d6c90f2d8b52ad": {
+    "file": "corpus/devto/dev_to_jfisher4002_your-local-llm-is-not-as-private-as-you-t_6801694aab.md",
+    "source": "devto",
+    "title": "Your Local LLM Is Not as Private as You Think",
+    "url": "https://dev.to/jfisher4002/your-local-llm-is-not-as-private-as-you-think-3ek7",
+    "keywords": [
+      "bleeding llama vulnerability shows",
+      "running ai locally",
+      "security ...",
+      "local llm",
+      "local llm",
+      "think",
+      "think",
+      "source",
+      "reactions",
+      "private"
+    ],
+    "summary": "# Your Local LLM Is Not as Private as You Think > Source: devto | Category: news | 2026-06-26T11:18:48Z The Bleeding Llama vulnerability shows why running AI locally is not a security..."
+  },
+  "a4de38bf94ef7d61": {
+    "file": "corpus/devto/dev_to_haseebthedev0_keeping-android-background-services-ali_a14c29847c.md",
+    "source": "devto",
+    "title": "Keeping Android Background Services Alive Against OEM Aggression",
+    "url": "https://dev.to/haseebthedev0/keeping-android-background-services-alive-against-oem-aggression-41l4",
+    "keywords": [
+      "utility app",
+      "precise location",
+      "oem aggression",
+      "oem aggression",
+      "based ...",
+      "time",
+      "source",
+      "relies",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Keeping Android Background Services Alive Against OEM Aggression > Source: devto | Category: news | 2026-06-26T11:18:47Z We have all been there: you build a utility app that relies on precise location or time-based..."
+  },
+  "5f1ba4ce3452655a": {
+    "file": "corpus/devto/dev_to_danielbuchner_introducing-x401-bringing-identity-exch_6cd6eb5b93.md",
+    "source": "devto",
+    "title": "Introducing x401: Bringing Proof of Identity to the Agentic Web",
+    "url": "https://dev.to/danielbuchner/introducing-x401-bringing-identity-exchange-to-the-agentic-web-70d",
+    "keywords": [
+      "native identity one",
+      "x401 ...",
+      "introducing x401",
+      "introducing x401",
+      "bringing proof",
+      "bringing proof",
+      "agentic web",
+      "agentic web",
+      "48z http",
+      "identity"
+    ],
+    "summary": "# Introducing x401: Bringing Proof of Identity to the Agentic Web HTTP has had a payment status code since 1997. It still doesn't have a native identity one."
+  },
+  "fbf9309119f2705b": {
+    "file": "corpus/devto/dev_to_yaniv2809_why-i-stopped-hardcoding-test-data-and-buil_3e9c994b67.md",
+    "source": "devto",
+    "title": "Why I stopped hardcoding test data and built an AI-powered pytest fixture generator",
+    "url": "https://dev.to/yaniv2809/why-i-stopped-hardcoding-test-data-and-built-an-ai-powered-pytest-fixture-generator-17p2",
+    "keywords": [
+      "stopped hardcoding test data",
+      "stopped hardcoding test data",
+      "powered pytest fixture generator",
+      "powered pytest fixture generator",
+      "kept hitting every project",
+      "every codebase",
+      "def ...",
+      "thing",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why I stopped hardcoding test data and built an AI-powered pytest fixture generator > Source: devto | Category: news | 2026-06-26T11:18:49Z The problem I kept hitting   Every project."
+  },
+  "25fce99d1a8530ea": {
+    "file": "corpus/devto/dev_to_andreykorchak_i-built-a-cli-to-break-my-highlights-ou_77f2d389d9.md",
+    "source": "devto",
+    "title": "I built a CLI to break my highlights out of Apple Books",
+    "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn",
+    "keywords": [
+      "exports apple books highlights",
+      "apple books",
+      "apple books",
+      "reading notes",
+      "mcp server",
+      "macos cli",
+      "highlights",
+      "highlights",
+      "cli",
+      "cli"
+    ],
+    "summary": "# I built a CLI to break my highlights out of Apple Books > Source: devto | Category: news | 2026-06-26T11:18:54Z A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your reading notes."
+  },
+  "3acc0b297cc03ffc": {
+    "file": "corpus/devto/dev_to_greymothjp_your-repo-is-the-memory-your-model-is-the-_6a685129a4.md",
+    "source": "devto",
+    "title": "Your Repo Is the Memory. Your Model Is the Worker.",
+    "url": "https://dev.to/greymothjp/your-repo-is-the-memory-your-model-is-the-worker-3e09",
+    "keywords": [
+      "keep coming back",
+      "hold state —",
+      "worker .\"",
+      "worker",
+      "source",
+      "repo",
+      "repo",
+      "repo",
+      "reactions",
+      "news"
+    ],
+    "summary": "# \"Your Repo Is the Memory. Your Model Is the Worker.\" There's a framing I keep coming back to."
+  },
+  "d85db5831f108139": {
+    "file": "corpus/devto/dev_to_kkonstantinov_i-was-burning-context-feeding-html-to-l_698343b93b.md",
+    "source": "devto",
+    "title": "I was burning context feeding HTML to LLMs, so I built a Markdown converter for agents",
+    "url": "https://dev.to/kkonstantinov/i-was-burning-context-feeding-html-to-llms-so-i-built-a-markdown-converter-for-agents-2c2m",
+    "keywords": [
+      "burning context feeding html",
+      "burning context feeding html",
+      "feeding raw html",
+      "build ai agents",
+      "rag pipelines",
+      "markdown converter",
+      "markdown converter",
+      "agents",
+      "agents",
+      "source"
+    ],
+    "summary": "# I was burning context feeding HTML to LLMs, so I built a Markdown converter for agents > Source: devto | Category: news | 2026-06-26T11:18:49Z If you build AI agents, scrapers, or RAG pipelines, you have run into this: feeding raw HTML to a..."
+  },
+  "f3fca529f0ba2236": {
+    "file": "corpus/devto/dev_to_greymothjp_read-only-reviewer-agents-catch-what-your-_68183b6bc0.md",
+    "source": "devto",
+    "title": "Read-Only Reviewer Agents Catch What Your Main Agent Waves Through",
+    "url": "https://dev.to/greymothjp/read-only-reviewer-agents-catch-what-your-main-agent-waves-through-3ggc",
+    "keywords": [
+      "main agent writes",
+      "main agent waves",
+      "main agent waves",
+      "reviewer agents catch",
+      "reviewer agents catch",
+      "reviewer agent reads",
+      "edit anything",
+      "reviewer",
+      "source",
+      "read"
+    ],
+    "summary": "# \"Read-Only Reviewer Agents Catch What Your Main Agent Waves Through\" The reviewer agent reads it. The reviewer can't edit anything."
+  },
+  "33f6aaa401a43c6a": {
+    "file": "corpus/devto/dev_to_aditi_chatterji_acb54593a_i-built-an-rl-native-memory_7545543bf9.md",
+    "source": "devto",
+    "title": "I built an RL-native memory engine for LLM agents (every memory decision becomes a training signal)",
+    "url": "https://dev.to/aditi_chatterji_acb54593a/i-built-an-rl-native-memory-engine-for-llm-agents-every-memory-decision-becomes-a-training-signal-405h",
+    "keywords": [
+      "every memory decision becomes",
+      "every memory decision becomes",
+      "every production agent",
+      "native memory engine",
+      "native memory engine",
+      "memory ....",
+      "training signal",
+      "training signal",
+      "long time",
+      "llm agents"
+    ],
+    "summary": "# I built an RL-native memory engine for LLM agents (every memory decision becomes a training signal) Here's something that bothered me for a long time. Every production agent has some form of memory...."
+  },
+  "2a9be84f3f21d2b4": {
+    "file": "corpus/devto/dev_to_valentynkit_framework-knowledge-evaporates-low-level-_5b202f9269.md",
+    "source": "devto",
+    "title": "Framework knowledge evaporates. Low-level knowledge compounds.",
+    "url": "https://dev.to/valentynkit/framework-knowledge-evaporates-low-level-knowledge-compounds-4acj",
+    "keywords": [
+      "learned async three times",
+      "level knowledge compounds",
+      "level knowledge compounds",
+      "framework knowledge evaporates",
+      "framework knowledge evaporates",
+      "rust tokio",
+      "go goroutines",
+      "time",
+      "tasks",
+      "stuck"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-06-26T11:18:47Z I learned async three times before it stuck. Each time I was..."
+  },
+  "acf696194044132b": {
+    "file": "corpus/devto/dev_to_c6zks4gssndroid_put-a-security-gateway-in-front-of-an_a819bb6599.md",
+    "source": "devto",
+    "title": "Put a security gateway in front of any MCP server in 5 minutes",
+    "url": "https://dev.to/c6zks4gssndroid/put-a-security-gateway-in-front-of-any-mcp-server-in-5-minutes-5ag0",
+    "keywords": [
+      "spend caps",
+      "server .\"",
+      "security gateway",
+      "security gateway",
+      "rate limits",
+      "audit logs",
+      "approval queues",
+      "adds auth",
+      "5 minutes",
+      "5 minutes"
+    ],
+    "summary": "# \"Put a security gateway in front of any MCP server in 5 minutes\" > Source: devto | Category: news | 2026-06-26T11:18:49Z \"mcp-guard is an open-source gateway that adds auth, rate limits, spend caps, audit logs, and approval queues to any Model Context Protocol server — without changing the server.\""
+  },
+  "0ae36bd9bd8c9f21": {
+    "file": "corpus/devto/dev_to_victor_areyzaga_the-missing-check-after-your-database_adaf745da4.md",
+    "source": "devto",
+    "title": "The Missing Check After Your Database Query",
+    "url": "https://dev.to/victor_areyzaga/the-missing-check-after-your-database-query-4b49",
+    "keywords": [
+      "orms ,...",
+      "missing check",
+      "missing check",
+      "checking whether",
+      "database query",
+      "database query",
+      "query",
+      "tools",
+      "source",
+      "scanners"
+    ],
+    "summary": "# The Missing Check After Your Database Query We have tools for checking whether a query is injectable. We have linters, scanners, ORMs,..."
+  },
+  "a75c8da5045c5f74": {
+    "file": "corpus/devto/dev_to_greymothjp_i-built-a-reddit-reply-bot-to-find-posts-w_f5c4e6ecef.md",
+    "source": "devto",
+    "title": "I built a Reddit reply-bot to find posts worth answering. Then I deleted the part that posts.",
+    "url": "https://dev.to/greymothjp/i-built-a-reddit-reply-bot-to-find-posts-worth-answering-then-i-deleted-the-part-that-posts-oma",
+    "keywords": [
+      "find posts worth answering",
+      "find posts worth answering",
+      "solo dev trying",
+      "first real users",
+      "reddit reply",
+      "reddit reply",
+      "everyone ...",
+      "source things",
+      "posts",
+      "posts"
+    ],
+    "summary": "# I built a Reddit reply-bot to find posts worth answering. Then I deleted the part that posts. I'm a solo dev trying to get the first real users for some open-source things I've shipped."
+  },
+  "d0027966e40535df": {
+    "file": "corpus/devto/dev_to_jisheng_agent_bao-bao-de-xiao-cang-ku-you-shi-dai-ni-_e8a2213229.md",
+    "source": "devto",
+    "title": "🍼 宝宝的小仓库 —— 幼师带你认识'NAS",
+    "url": "https://dev.to/jisheng_agent/bao-bao-de-xiao-cang-ku-you-shi-dai-ni-ren-shi-nas-1kdl",
+    "keywords": [
+      "🍼 宝宝的小仓库 —— 幼师带你认识",
+      "🍼 宝宝的小仓库 —— 幼师带你认识",
+      "source",
+      "reactions",
+      "news",
+      "nas",
+      "nas",
+      "devto",
+      "category"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-06-26T11:18:52Z 🌟 开场白：你有没有这样的烦恼？   小朋友们，有没有遇到过这种情况：  📱 手机里的照片太多，装不下了！ 💻 电脑里的视频，换了电脑就找不到了！ 👨‍👩‍👧... Reactions: 5"
+  },
+  "56dfa907bc4e8ff4": {
+    "file": "corpus/devto/dev_to_greymothjp_personas-vs-tool-scoping-where-i-landed-di_d736958ff9.md",
+    "source": "devto",
+    "title": "Personas vs. tool-scoping: where I landed differently from gstack",
+    "url": "https://dev.to/greymothjp/personas-vs-tool-scoping-where-i-landed-differently-from-gstack-gld",
+    "keywords": [
+      "claude code setups",
+      "thinking ....",
+      "personas vs",
+      "personas vs",
+      "people structure",
+      "landed differently",
+      "landed differently",
+      "gstack got",
+      "gstack",
+      "gstack"
+    ],
+    "summary": "# \"Personas vs. tool-scoping: where I landed differently from gstack\" > Source: devto | Category: news | 2026-06-26T11:18:51Z I've been watching how other people structure their Claude Code setups, and gstack got me thinking...."
+  },
+  "96aebd627beb7ded": {
+    "file": "corpus/devto/dev_to_greymothjp_your-ai-tool-usage-is-invisible-here-are-4_255b2e515a.md",
+    "source": "devto",
+    "title": "Your AI-tool usage is invisible. Here are 4 tiny local tools to see it.",
+    "url": "https://dev.to/greymothjp/your-ai-tool-usage-is-invisible-here-are-4-tiny-local-tools-to-see-it-2oc4",
+    "keywords": [
+      "194k claude code messages",
+      "4 tiny local tools",
+      "4 tiny local tools",
+      "open source — grep",
+      "wrote four small",
+      "local tools",
+      "shareable card",
+      "tool usage",
+      "tool usage",
+      "source"
+    ],
+    "summary": "Here are 4 tiny local tools to see it. I burned ~194k Claude Code messages and couldn't see where any of it went. So I wrote four small, 100% local tools that read your usage and print a shareable card."
+  },
+  "50086bda8255808c": {
+    "file": "corpus/devto/dev_to_greymothjp_stop-using-the-model-as-your-memory-4nbi_c557b8f95e.md",
+    "source": "devto",
+    "title": "Stop using the model as your memory",
+    "url": "https://dev.to/greymothjp/stop-using-the-model-as-your-memory-4nbi",
+    "keywords": [
+      "run claude code",
+      "model getting dumber",
+      "stop using",
+      "stop using",
+      "kept biting",
+      "model",
+      "model",
+      "thing",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Stop using the model as your memory I run Claude Code most of the day. The thing that kept biting me wasn't the model getting dumber."
+  },
+  "145185cfb1d3c616": {
+    "file": "corpus/devto/dev_to_la_verdad_de_la_milanesa_how-i-actually-use-ai-with-p_941ab9ad79.md",
+    "source": "devto",
+    "title": "How I Actually Use AI With Python: A Web Dev's Honest Workflow",
+    "url": "https://dev.to/la_verdad_de_la_milanesa/how-i-actually-use-ai-with-python-a-web-devs-honest-workflow-2o20",
+    "keywords": [
+      "telegram group made",
+      "actually use ai",
+      "actually use ai",
+      "web dev",
+      "web dev",
+      "think —",
+      "honest workflow",
+      "honest workflow",
+      "python ...",
+      "python"
+    ],
+    "summary": "# How I Actually Use AI With Python: A Web Dev's Honest Workflow A question in a Telegram group made me stop and think — and then write this. Someone in a Python..."
+  },
+  "0e0b24cdadb8455d": {
+    "file": "corpus/devto/dev_to_greymothjp_i-found-30-mergeable-oss-bugs-in-a-day-the_98502f8373.md",
+    "source": "devto",
+    "title": "I Found ~30 Mergeable OSS Bugs in a Day. They Were All the Same Shape.",
+    "url": "https://dev.to/greymothjp/i-found-30-mergeable-oss-bugs-in-a-day-they-were-all-the-same-shape-5c86",
+    "keywords": [
+      "30 mergeable oss bugs",
+      "30 mergeable oss bugs",
+      "scrapy ,...",
+      "51z yesterday",
+      "shape .\"",
+      "shape",
+      "source",
+      "reactions",
+      "news",
+      "nestjs"
+    ],
+    "summary": "# \"I Found ~30 Mergeable OSS Bugs in a Day. They Were All the Same Shape.\" Yesterday I shipped around 28 pull requests across real repos — zod, NestJS, Fastify, Scrapy,..."
+  },
+  "8486dde5e598c6fd": {
+    "file": "corpus/devops/devops_com_modernization-is-not-migration_80b5dc8576.md",
+    "source": "devops",
+    "title": "[devops-com] Modernization Is Not Migration",
+    "url": "https://devops.com/modernization-is-not-migration/",
+    "keywords": [
+      "philosophical position —",
+      "platform became easier",
+      "migration modernization worked",
+      "measurable one",
+      "44z modernization",
+      "easier",
+      "modernization",
+      "modernization",
+      "migration",
+      "migration"
+    ],
+    "summary": "# [devops-com] Modernization Is Not Migration Modernization worked only if the platform became easier to change, easier to understand and safer to run under pressure. That is not a philosophical position — it is a measurable one."
+  },
+  "181abedb04c2ca16": {
+    "file": "corpus/devops/devops_com_your-foundation-model-is-a-service-operate-it-lik_68359b6ec8.md",
+    "source": "devops",
+    "title": "[devops-com] Your Foundation Model is a Service. Operate it Like One",
+    "url": "https://devops.com/your-foundation-model-is-a-service-operate-it-like-one/",
+    "keywords": [
+      "survived canary deployments",
+      "fm life cycle",
+      "someone merged",
+      "prod instead",
+      "like one",
+      "like one",
+      "like one",
+      "less mercy",
+      "know exactly",
+      "foundation model"
+    ],
+    "summary": "# [devops-com] Your Foundation Model is a Service. The FM life cycle is just the SDLC with more math and less mercy at 3 a.m. You have survived canary deployments that took out 40% of prod instead of 5%. You know exactly what it feels like when your monitoring tells [&#8230;]"
+  },
+  "df70b34b1ffee796": {
+    "file": "corpus/devops/devops_com_why-ci-based-security-is-too-late-for-modern-node_ba6ec9b140.md",
+    "source": "devops",
+    "title": "[devops-com] Why CI-Based Security is Too Late for Modern Node.js Projects",
+    "url": "https://devops.com/why-ci-based-security-is-too-late-for-modern-node-js-projects/",
+    "keywords": [
+      "js teams rely",
+      "js projects",
+      "js projects",
+      "js projects",
+      "important decisions",
+      "feedback arrives",
+      "based security",
+      "based security",
+      "based security",
+      "modern node"
+    ],
+    "summary": "# [devops-com] Why CI-Based Security is Too Late for Modern Node.js Projects Why CI-Based Security is Too Late for Modern Node.js Projects Most Node.js teams rely on CI pipelines to tell them whether their dependencies are secure."
+  },
+  "9e0f522bee1c611b": {
+    "file": "corpus/devops/devops_com_these-are-10-ci-cd-pipeline-mistakes-that-slow-do_39153f3524.md",
+    "source": "devops",
+    "title": "[devops-com] These are 10 CI/CD Pipeline Mistakes That Slow Down Engineering Teams",
+    "url": "https://devops.com/these-are-10-ci-cd-pipeline-mistakes-that-slow-down-engineering-teams/",
+    "keywords": [
+      "maintaining high usability",
+      "digital age depends",
+      "consistency across environments",
+      "cd pipeline mistakes",
+      "cd pipeline mistakes",
+      "cd pipeline mistakes",
+      "enable engineering teams",
+      "cd pipelines",
+      "engineering teams",
+      "engineering teams"
+    ],
+    "summary": "# [devops-com] These are 10 CI/CD Pipeline Mistakes That Slow Down Engineering Teams These are 10 CI/CD Pipeline Mistakes That Slow Down Engineering Teams Continuous software delivery in the digital age depends on CI/CD pipelines, which enable engineering teams to rapidly develop, test, and deploy code while maintaining high usability and consistency across environments."
+  },
+  "6643f14ef971f834": {
+    "file": "corpus/finance/news_crunchbase_com_venture_investors-funding-black-founder-_4af55c6c79.md",
+    "source": "finance",
+    "title": "[crunchbase] 6 Startup Investors On What It Will Take To Fund More Black Founders",
+    "url": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
+    "keywords": [
+      "42z 6 startup investors",
+      "6 startup investors",
+      "6 startup investors",
+      "six investors offer",
+      "held investing patterns",
+      "venture investment",
+      "venture industry",
+      "rethinking sourcing",
+      "overlooked founders",
+      "founded startups"
+    ],
+    "summary": "# [crunchbase] 6 Startup Investors On What It Will Take To Fund More Black Founders 6 Startup Investors On What It Will Take To Fund More Black Founders In the final installment of our series on the state of venture investment to Black-founded startups, six investors offer their advice for overlooked founders and explain how the venture industry can broaden access to capital by rethinking sourcing, networks and long-held investing patterns."
+  },
+  "5dc50b0ebd3ee832": {
+    "file": "corpus/security/thehackernews_com_2026_06_russia-used-cellebrite-on-jailed_h_fc34b18109.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+    "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+    "keywords": [
+      "42z russia used cellebrite",
+      "russia used cellebrite",
+      "russia used cellebrite",
+      "would stop selling",
+      "ufed forensic tools",
+      "cellebrite said",
+      "two things",
+      "three months",
+      "sales cutoff",
+      "sales cutoff"
+    ],
+    "summary": "# [hacker-news-sec] Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus."
+  },
+  "d2229e2086f8bb32": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_06_one-million-passports_372c1d0594.md",
+    "source": "security",
+    "title": "[schneier] One Million Passports Leaked Online",
+    "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
+    "keywords": [
+      "value credential &# 8212",
+      "passport &# 8212",
+      "value authentication system",
+      "value credential",
+      "value system",
+      "&# 8217",
+      "million passports",
+      "leaked online",
+      "id verification",
+      "got hacked"
+    ],
+    "summary": "# [schneier] One Million Passports Leaked Online A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it&#8217;s the low-value system that got hacked, putting the high-value credential at risk."
+  },
+  "1940ba5086ad25f8": {
+    "file": "corpus/security/thehackernews_com_2026_06_miasma-malware-targets-npm-package_a281862d16.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+    "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+    "keywords": [
+      "flagged yet another evolution",
+      "supply chain attack linked",
+      "github actions workflow abuse",
+      "supply chain attack",
+      "supply chain attack",
+      "hades malware family",
+      "github actions",
+      "github actions",
+      "github actions",
+      "rstreams packages"
+    ],
+    "summary": "# [hacker-news-sec] Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem."
+  },
+  "c66a7daa24fe367d": {
+    "file": "corpus/security/thehackernews_com_2026_06_microsoft-warns-of-photo-zip-phish_f183838f79.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+    "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+    "keywords": [
+      "hospitality organizations across europe",
+      "asia since april 2026",
+      "themed zip files",
+      "known threat actor",
+      "active phishing campaign",
+      "42z microsoft warns",
+      "microsoft warns",
+      "microsoft warns",
+      "microsoft says",
+      "using photo"
+    ],
+    "summary": "# [hacker-news-sec] Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says."
   }
 }
