@@ -124231,5 +124231,912 @@
       "fix json crew handling"
     ],
     "summary": "### Performance - Improve crewai run startup UX - Keep flow method progress visible for nested crews ### Refactoring - Remove `StateProxy` from flow state access - Consolidate `crewai run` and `crewai flow kickoff` - Discriminate FlowDefinition state types - Wire config and persistence from FlowDefinition into the runtime @gabemilani, @github-code-quality[bot], @greysonlalonde, @iris-clawd, @jessemiller, @joaomdmoura, @lorenzejay, @lucasgomide, @theCyberTech, @vinibrsl"
+  },
+  "0b8ce3c640173aa9": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_06_primed-malware-stop-selling-co_47815118c2.md",
+    "source": "legal",
+    "title": "[eff] Primed for Malware: Stop Selling Compromised Android Devices",
+    "url": "https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices",
+    "keywords": [
+      "“ stock android .”",
+      "devices get individually reported",
+      "android open source project",
+      "many android oems",
+      "original equipment manufacturers",
+      "issue particularly hard",
+      "digital picture frames",
+      "one major campaign",
+      "initial badbox analysis",
+      "running android ’"
+    ],
+    "summary": "When these devices get    individually    reported, we have seen some    noted    efforts to take them down. This obscurity makes the issue particularly hard for users to identify any potential threats. Task forces in the private sector have made    an effort    to take down these existing    Command and Control    structures, but    these actors may pivot and evolve    to flood the market with more devices."
+  },
+  "757a1d3342c10f19": {
+    "file": "corpus/legal/www_techdirt_com_2026_06_25_stop-killing-games-pivots-to-ame_72c467019d.md",
+    "source": "legal",
+    "title": "[techdirt] Stop Killing Games Pivots To Amending Digital Fairness Act In EU After Loss",
+    "url": "https://www.techdirt.com/2026/06/25/stop-killing-games-pivots-to-amending-digital-fairness-act-in-eu-after-loss/",
+    "keywords": [
+      "stop killing games pivots",
+      "stop killing games pivots",
+      "amending digital fairness act",
+      "amending digital fairness act",
+      "amending digital fairness act",
+      "stop killing games movement",
+      "introduce new legislation",
+      "[&# 8230 ;]",
+      "reportedly went",
+      "parliamentary hearing"
+    ],
+    "summary": "# [techdirt] Stop Killing Games Pivots To Amending Digital Fairness Act In EU After Loss Stop Killing Games Pivots To Amending Digital Fairness Act In EU After Loss We were just talking about how the attempt to introduce new legislation to support the goals of the movement were defeated, despite a petition with over a million signatures and a parliamentary hearing that reportedly went very well."
+  },
+  "56ab74b107fd39c2": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48644463_05fd25f914.md",
+    "source": "hackernews",
+    "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+    "url": "https://news.ycombinator.com/item?id=48644463",
+    "keywords": [
+      "compressed output .< p",
+      "amd 7800xt ).< p",
+      "68 bits &# x2f",
+      "5 bits &# x2f",
+      "100mb nyc taxi csv",
+      "byte ).< p",
+      "samyak112 &# x2f",
+      "samyak112 &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "I built an experiment that uses an overfitted transformer and arithmetic coding to compress individual files.<p>Instead of training the model to generalize, I train a 900KB transformer to memorize a single file and predict the next byte. Those predictions are fed into an arithmetic coder to produce the compressed output.<p>On a 100MB NYC taxi CSV, it compresses to about 7MB (~0.5 bits&#x2F;byte). On a 100MB slice of enwik9, it compresses to about 21MB (~1.68 bits&#x2F;byte).<p>It&#x27;s pretty s"
+  },
+  "36d86f0f2ae77b8b": {
+    "file": "corpus/hackernews/www_fernandoi_cl_posts_hackmyclaw_7a06836479.md",
+    "source": "hackernews",
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "keywords": [
+      "2k people tried",
+      "2k people tried",
+      "ai assistant",
+      "ai assistant",
+      "46z score",
+      "source",
+      "news",
+      "happened",
+      "happened",
+      "hackernews"
+    ],
+    "summary": "# What happened after 2k people tried to hack my AI assistant > Source: hackernews | Category: news | 2026-06-26T04:45:46Z Score: 20 | Comments: 1"
+  },
+  "071d538f2143e49f": {
+    "file": "corpus/hackernews/pnsn_org_blog_experiments-in-sports-seismology-for-the-world_5feef3c6af.md",
+    "source": "hackernews",
+    "title": "Experiments in Sports Seismology for the World Cup",
+    "url": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
+    "keywords": [
+      "world cup",
+      "world cup",
+      "sports seismology",
+      "sports seismology",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "experiments",
+      "experiments"
+    ],
+    "summary": "# Experiments in Sports Seismology for the World Cup > Source: hackernews | Category: news | 2026-06-26T04:45:48Z Score: 15 | Comments: 0"
+  },
+  "83ea09c24b135283": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-06-25_apple-to-skip-hig_a62705885a.md",
+    "source": "hackernews",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "keywords": [
+      "end m6 mac chips",
+      "end m6 mac chips",
+      "shopping &# x2f",
+      "shopping &# x2f",
+      "line &# x2f",
+      "lifestyle &# x2f",
+      "lifestyle &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "# Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line > Source: hackernews | Category: news | 2026-06-26T04:45:44Z Giftlink: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwNTU2MCwiZXhwIjoxNzgzMDEwMzYwLCJhcnRpY2xlSWQiOiJUSDM4OFJUOTZPU08wMCIsImJjb25uZWN0"
+  },
+  "1a653b2d3af7a832": {
+    "file": "corpus/hackernews/www_jeffgeerling_com_blog_2026_framework-10g-ethernet-module_5358aed480.md",
+    "source": "hackernews",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "keywords": [
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "framework",
+      "framework",
+      "complexity",
+      "complexity",
+      "comments",
+      "category"
+    ],
+    "summary": "# Framework's 10G Ethernet module exposes USB-C's complexity > Source: hackernews | Category: news | 2026-06-26T04:45:44Z Score: 86 | Comments: 30"
+  },
+  "a617fae142a07c59": {
+    "file": "corpus/hackernews/corentin-core_github_io_posts_ruxe-type-level-disjointness_a5dc661964.md",
+    "source": "hackernews",
+    "title": "A data race that doesn't compile",
+    "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+    "keywords": [
+      "data race",
+      "data race",
+      "46z score",
+      "source",
+      "news",
+      "hackernews",
+      "compile",
+      "compile",
+      "comments",
+      "category"
+    ],
+    "summary": "# A data race that doesn't compile > Source: hackernews | Category: news | 2026-06-26T04:45:46Z Score: 23 | Comments: 5"
+  },
+  "d4a8703eb43aeb18": {
+    "file": "corpus/hackernews/lcamtuf_substack_com_p_ai-childrens-books-body-horror-editio_27dd0042db.md",
+    "source": "hackernews",
+    "title": "AI children's books, body horror edition",
+    "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+    "keywords": [
+      "body horror edition",
+      "body horror edition",
+      "ai children",
+      "ai children",
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI children's books, body horror edition > Source: hackernews | Category: news | 2026-06-26T04:45:51Z Score: 161 | Comments: 52"
+  },
+  "4a257c8a4f8632c5": {
+    "file": "corpus/hackernews/graphicore_github_io_librebarcode_8706fabe72.md",
+    "source": "hackernews",
+    "title": "Libre Barcode Project",
+    "url": "https://graphicore.github.io/librebarcode/",
+    "keywords": [
+      "libre barcode project",
+      "libre barcode project",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Libre Barcode Project > Source: hackernews | Category: news | 2026-06-26T04:45:44Z Score: 34 | Comments: 0"
+  },
+  "2c4177cd3bf6039a": {
+    "file": "corpus/hackernews/trianglefire_ilr_cornell_edu_index_html_b31ad0b93e.md",
+    "source": "hackernews",
+    "title": "Eyewitness at the Triangle (1911)",
+    "url": "http://trianglefire.ilr.cornell.edu/index.html",
+    "keywords": [
+      "46z score",
+      "triangle",
+      "triangle",
+      "source",
+      "news",
+      "hackernews",
+      "eyewitness",
+      "eyewitness",
+      "comments",
+      "category"
+    ],
+    "summary": "# Eyewitness at the Triangle (1911) > Source: hackernews | Category: news | 2026-06-26T04:45:46Z Score: 16 | Comments: 0"
+  },
+  "39a5ce5e3d8fd971": {
+    "file": "corpus/hackernews/jan-herlyn_com_blog_doing-a-masters-while-working_1aa8477f28.md",
+    "source": "hackernews",
+    "title": "Doing a masters while working in Spain",
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "keywords": [
+      "47z score",
+      "working",
+      "working",
+      "spain",
+      "spain",
+      "source",
+      "news",
+      "masters",
+      "masters",
+      "hackernews"
+    ],
+    "summary": "# Doing a masters while working in Spain > Source: hackernews | Category: news | 2026-06-26T04:45:47Z Score: 8 | Comments: 0"
+  },
+  "e05bb207932e095e": {
+    "file": "corpus/hackernews/xlii_space_eng_honesty-gets-emacs-patch-rejected_fe41cb785d.md",
+    "source": "hackernews",
+    "title": "Honesty gets Emacs patch rejected",
+    "url": "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/",
+    "keywords": [
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "26t04"
+    ],
+    "summary": "# Honesty gets Emacs patch rejected > Source: hackernews | Category: news | 2026-06-26T04:45:48Z Score: 9 | Comments: 4"
+  },
+  "eafda9f9c9c63356": {
+    "file": "corpus/hackernews/borretti_me_article_no-one-escapes-the-permanent-underclass_ac393a525a.md",
+    "source": "hackernews",
+    "title": "No-One Escapes the Permanent Underclass",
+    "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
+    "keywords": [
+      "permanent underclass",
+      "permanent underclass",
+      "one escapes",
+      "one escapes",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# No-One Escapes the Permanent Underclass > Source: hackernews | Category: news | 2026-06-26T04:45:44Z Score: 38 | Comments: 37"
+  },
+  "e1ee2f6ab1c22fb0": {
+    "file": "corpus/devto/dev_to_irinobservability_stop-relying-entirely-on-uptime-kum_c0af047ee0.md",
+    "source": "devto",
+    "title": "Stop Relying Entirely on Uptime Kuma for Incident Response",
+    "url": "https://dev.to/irinobservability/stop-relying-entirely-on-uptime-kuma-for-incident-response-39fj",
+    "keywords": [
+      "use piece ...",
+      "stop relying entirely",
+      "stop relying entirely",
+      "uptime kuma",
+      "uptime kuma",
+      "uptime kuma",
+      "incident response",
+      "incident response",
+      "genuinely amazing",
+      "source"
+    ],
+    "summary": "# Stop Relying Entirely on Uptime Kuma for Incident Response Before I get into this, it is not a knock on Uptime Kuma. It's a genuinely amazing, easy-to-use piece..."
+  },
+  "3277ff90fe852ea7": {
+    "file": "corpus/devto/dev_to_saint_vandora_deploying-a-containerized-backend-to-a-_49f200e2e9.md",
+    "source": "devto",
+    "title": "Deploying a Containerized Backend to a VPS with Docker Compose + GitHub Actions (A Beginner's Runbook)",
+    "url": "https://dev.to/saint_vandora/deploying-a-containerized-backend-to-a-vps-with-docker-compose-github-actions-a-beginners-39m5",
+    "keywords": [
+      "copy ‑ pasteable guide",
+      "github actions",
+      "github actions",
+      "docker compose",
+      "docker compose",
+      "containerized backend",
+      "containerized backend",
+      "backend app",
+      "vps",
+      "vps"
+    ],
+    "summary": "# Deploying a Containerized Backend to a VPS with Docker Compose + GitHub Actions (A Beginner's Runbook) > Source: devto | Category: news | 2026-06-26T04:45:53Z This is a complete, copy‑pasteable guide for shipping a backend app to a single Linux server using..."
+  },
+  "69ce2926ab178b67": {
+    "file": "corpus/devto/dev_to_brianmello_knowing-which-model-openrouterauto-actuall_41612f2508.md",
+    "source": "devto",
+    "title": "Knowing which model openrouter/auto actually ran (and what it cost)",
+    "url": "https://dev.to/brianmello/knowing-which-model-openrouterauto-actually-ran-and-what-it-cost-3i1f",
+    "keywords": [
+      "auto actually ran",
+      "auto actually ran",
+      "model openrouter",
+      "model openrouter",
+      "auto",
+      "openrouter",
+      "openrouter",
+      "traded",
+      "source",
+      "route"
+    ],
+    "summary": "# Knowing which model openrouter/auto actually ran (and what it cost) > Source: devto | Category: news | 2026-06-26T04:45:55Z If you route through OpenRouter with openrouter/auto, you've traded a decision for a convenience."
+  },
+  "88e3a50ba5265e79": {
+    "file": "corpus/devto/dev_to_abdullahsaad5_the-hard-part-of-my-ai-agent-wasnt-doin_c16dcb32e0.md",
+    "source": "devto",
+    "title": "The hard part of my AI agent wasn't doing the work, it was planning it",
+    "url": "https://dev.to/abdullahsaad5/the-hard-part-of-my-ai-agent-wasnt-doing-the-work-it-was-planning-it-n0k",
+    "keywords": [
+      "53z building plan mode",
+      "plan actually buys",
+      "takes real actions",
+      "hard part",
+      "hard part",
+      "ai agent",
+      "ai agent",
+      "ai agent",
+      "work",
+      "work"
+    ],
+    "summary": "# The hard part of my AI agent wasn't doing the work, it was planning it Building plan mode for an AI agent that takes real actions. Why I split the planner from the executor, made it research before it plans, and what reviewing a plan actually buys you."
+  },
+  "1ef2e6447f00693c": {
+    "file": "corpus/devto/dev_to_saba_khan_50d6d6e112c484f_how-i-built-a-browser-side-_da1608e825.md",
+    "source": "devto",
+    "title": "How I built a browser-side background remover (and benchmarked Canvas vs WebAssembly)",
+    "url": "https://dev.to/saba_khan_50d6d6e112c484f/how-i-built-a-browser-side-background-remover-and-benchmarked-canvas-vs-webassembly-5bf2",
+    "keywords": [
+      "benchmarked canvas vs webassembly",
+      "benchmarked canvas vs webassembly",
+      "300 product photos sitting",
+      "side background remover",
+      "side background remover",
+      "white backgrounds",
+      "transparent ...",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How I built a browser-side background remover (and benchmarked Canvas vs WebAssembly) I had 300 product photos sitting in a folder. I needed them on transparent..."
+  },
+  "c996aee267a722cb": {
+    "file": "corpus/devto/dev_to_matrixtrak_how-to-build-a-crypto-trading-bot-in-pytho_01d15f5381.md",
+    "source": "devto",
+    "title": "How to Build a Crypto Trading Bot in Python — Step-by-Step Guide with Source Code",
+    "url": "https://dev.to/matrixtrak/how-to-build-a-crypto-trading-bot-in-python-step-by-step-guide-with-source-code-ik9",
+    "keywords": [
+      "ready crypto trading bot",
+      "source source code included",
+      "crypto trading bot",
+      "crypto trading bot",
+      "54z complete guide",
+      "python — step",
+      "python — step",
+      "source code",
+      "source code",
+      "paper trading"
+    ],
+    "summary": "# How to Build a Crypto Trading Bot in Python — Step-by-Step Guide with Source Code Complete guide to building a production-ready crypto trading bot in Python with Binance API, modular strategies, backtesting, paper trading, and Docker deployment. Full open-source source code included."
+  },
+  "13dd8af69bcc2bba": {
+    "file": "corpus/devto/dev_to_james_oconnor_dev_pydantic-passed-types-matched-the-d_e7391f2acd.md",
+    "source": "devto",
+    "title": "Pydantic passed. Types matched. The downstream system still got garbage.",
+    "url": "https://dev.to/james_oconnor_dev/pydantic-passed-types-matched-the-downstream-system-still-got-garbage-530b",
+    "keywords": [
+      "three production failures",
+      "types matched",
+      "types matched",
+      "pydantic passed",
+      "pydantic passed",
+      "extraction agent",
+      "want",
+      "walk",
+      "source",
+      "reactions"
+    ],
+    "summary": "The downstream system still got garbage. > Source: devto | Category: news | 2026-06-26T04:45:54Z I want to walk through three production failures on the same contract-extraction agent, because they..."
+  },
+  "2a6e2730a123fbbc": {
+    "file": "corpus/devto/dev_to_morinaga_what-i-learned-building-a-scripted-two-host-_7d4af4b4cc.md",
+    "source": "devto",
+    "title": "What I learned building a scripted two-host video pipeline with edge-tts and ffmpeg",
+    "url": "https://dev.to/morinaga/what-i-learned-building-a-scripted-two-host-video-pipeline-with-edge-tts-and-ffmpeg-41o6",
+    "keywords": [
+      "render 1920x1080 youtube videos",
+      "inside github actions",
+      "host video pipeline",
+      "host video pipeline",
+      "ffmpeg concat —",
+      "tts neural tts",
+      "scripted two",
+      "scripted two",
+      "pillow slides",
+      "learned building"
+    ],
+    "summary": "# What I learned building a scripted two-host video pipeline with edge-tts and ffmpeg > Source: devto | Category: news | 2026-06-26T04:45:53Z How I render 1920x1080 YouTube videos from a JSON dialogue spec using edge-tts neural TTS, Pillow slides, and ffmpeg concat — all inside GitHub Actions with no API cost."
+  },
+  "f295deef1c4df8ae": {
+    "file": "corpus/devto/dev_to_samson_tanimawo_3am-incident-response-what-i-learned-_05d06bbfd2.md",
+    "source": "devto",
+    "title": "3am Incident Response: What I Learned from 200+ Pages",
+    "url": "https://dev.to/samson_tanimawo/3am-incident-response-what-i-learned-from-200-pages-1ldd",
+    "keywords": [
+      "first 5 minutes matter",
+      "3am incident response",
+      "3am incident response",
+      "pattern ...",
+      "200 times",
+      "200",
+      "200",
+      "source",
+      "reactions",
+      "pages"
+    ],
+    "summary": "# 3am Incident Response: What I Learned from 200+ Pages > Source: devto | Category: news | 2026-06-26T04:45:55Z The First 5 Minutes Matter Most   I've been paged over 200 times in my career."
+  },
+  "ea62466b28d4e339": {
+    "file": "corpus/devto/dev_to_mandavillivijay_why-healenium-fails-on-ant-design-and_d9f8dd90f6.md",
+    "source": "devto",
+    "title": "Why Healenium Fails on Ant Design (And What I Built Instead)",
+    "url": "https://dev.to/mandavillivijay/why-healenium-fails-on-ant-design-and-what-i-built-instead-3p0j",
+    "keywords": [
+      "uses semantic embeddings",
+      "source python library",
+      "healenium fails",
+      "healenium fails",
+      "ant design",
+      "ant design",
+      "54z tl",
+      "built instead",
+      "built instead",
+      "source"
+    ],
+    "summary": "# Why Healenium Fails on Ant Design (And What I Built Instead) > Source: devto | Category: news | 2026-06-26T04:45:54Z TL;DR: I built an open-source Python library that uses semantic embeddings to heal broken UI test..."
+  },
+  "25126966bce35a10": {
+    "file": "corpus/devto/dev_to_dev48v_i-built-a-tool-that-shows-you-exactly-why-a-re_72e498643d.md",
+    "source": "devto",
+    "title": "I Built a Tool That Shows You Exactly Why a React Component Re-renders",
+    "url": "https://dev.to/dev48v/i-built-a-tool-that-shows-you-exactly-why-a-react-component-re-renders-k27",
+    "keywords": [
+      "react question everyone asks",
+      "react component",
+      "react component",
+      "render ?\"",
+      "answer ...",
+      "component",
+      "tool",
+      "tool",
+      "source",
+      "shows"
+    ],
+    "summary": "# I Built a Tool That Shows You Exactly Why a React Component Re-renders \"Why did this component re-render?\" is the React question everyone asks and almost no one can answer..."
+  },
+  "a67a8678d6167e34": {
+    "file": "corpus/devto/dev_to_uigerhana_engineering-judgment-is-becoming-the-scarce_21890a399e.md",
+    "source": "devto",
+    "title": "Engineering Judgment Is Becoming The Scarcest Resource",
+    "url": "https://dev.to/uigerhana/engineering-judgment-is-becoming-the-scarcest-resource-1a5l",
+    "keywords": [
+      "scarcest resource",
+      "scarcest resource",
+      "becomes expensive",
+      "engineering judgment",
+      "engineering judgment",
+      "becoming cheaper",
+      "judgment",
+      "becoming",
+      "becoming",
+      "source"
+    ],
+    "summary": "# Engineering Judgment Is Becoming The Scarcest Resource > Source: devto | Category: news | 2026-06-26T04:45:55Z If implementation is becoming cheaper, what becomes expensive?"
+  },
+  "1a3834b1e6ca206b": {
+    "file": "corpus/devto/dev_to_mjmirza_every-rule-i-add-to-my-setup-has-to-kill-an-o_0902203a81.md",
+    "source": "devto",
+    "title": "Every rule I add to my setup has to kill an old one",
+    "url": "https://dev.to/mjmirza/every-rule-i-add-to-my-setup-has-to-kill-an-old-one-3oge",
+    "keywords": [
+      "add one rule",
+      "every rule",
+      "every rule",
+      "old one",
+      "old one",
+      "delete one",
+      "got smaller",
+      "four weeks",
+      "setup refuse",
+      "add"
+    ],
+    "summary": "I am a hoarder by default. So I made my setup refuse to grow. Four weeks in, it got smaller and did more."
+  },
+  "3d9ebe4a2b98bf6c": {
+    "file": "corpus/devto/dev_to_aregtech_how-close-can-c-inter-process-calls-get-to-r_78adfbec43.md",
+    "source": "devto",
+    "title": "How Close Can C++ Inter-Process Calls Get to Raw Socket Speed?",
+    "url": "https://dev.to/aregtech/how-close-can-c-inter-process-calls-get-to-raw-socket-speed-2pk9",
+    "keywords": [
+      "raw socket speed",
+      "raw socket speed",
+      "process calls get",
+      "process calls get",
+      "c ++ inter",
+      "c ++ inter",
+      "wave hands",
+      "honest answer",
+      "wanted",
+      "source"
+    ],
+    "summary": "# How Close Can C++ Inter-Process Calls Get to Raw Socket Speed? > Source: devto | Category: news | 2026-06-26T04:45:56Z I wanted an honest answer to a question that's easy to wave hands at: when a C++ process calls..."
+  },
+  "0b8ed451473cbbd5": {
+    "file": "corpus/devto/dev_to_aakash_gour_open-sourcing-postalls-content-formatting_fc95674e8b.md",
+    "source": "devto",
+    "title": "Open-Sourcing PostAll's Content Formatting Engine: A Gift to the Dev Community",
+    "url": "https://dev.to/aakash_gour/open-sourcing-postalls-content-formatting-engine-a-gift-to-the-dev-community-4ga",
+    "keywords": [
+      "54z postall generates content",
+      "content formatting engine",
+      "content formatting engine",
+      "sourcing postall",
+      "sourcing postall",
+      "three places",
+      "linkedin update",
+      "dev community",
+      "dev community",
+      "blog post"
+    ],
+    "summary": "# Open-Sourcing PostAll's Content Formatting Engine: A Gift to the Dev Community > Source: devto | Category: news | 2026-06-26T04:45:54Z PostAll generates content once and ships it to three places: a blog post, a LinkedIn update, and an..."
+  },
+  "d3682b009a99b297": {
+    "file": "corpus/devto/dev_to_xu_xu_b2179aa8fc958d531d1_autogpts-ai-for-everyone-pr_84538e0d4b.md",
+    "source": "devto",
+    "title": "AutoGPT's 'AI for Everyone' Promise Is Landing Junior Devs in Infinite Loops",
+    "url": "https://dev.to/xu_xu_b2179aa8fc958d531d1/autogpts-ai-for-everyone-promise-is-landing-junior-devs-in-infinite-loops-3j9n",
+    "keywords": [
+      "landing junior devs",
+      "landing junior devs",
+      "infinite loops",
+      "infinite loops",
+      "empty shell",
+      "cursor blinks",
+      "47 minutes",
+      "terminal",
+      "source",
+      "scrolling"
+    ],
+    "summary": "# AutoGPT's 'AI for Everyone' Promise Is Landing Junior Devs in Infinite Loops The terminal has been scrolling for 47 minutes. The cursor blinks in an empty shell."
+  },
+  "2679265a2b3855d3": {
+    "file": "corpus/devto/dev_to_renaudcepre_an-eval-is-just-a-test-that-returns-a-val_b194c7846a.md",
+    "source": "devto",
+    "title": "An eval is just a test that returns a value",
+    "url": "https://dev.to/renaudcepre/an-eval-is-just-a-test-that-returns-a-value-43lg",
+    "keywords": [
+      "llm evals run",
+      "first test framework",
+      "unit tests",
+      "54z apte",
+      "test",
+      "test",
+      "value",
+      "value",
+      "source",
+      "returns"
+    ],
+    "summary": "# An eval is just a test that returns a value > Source: devto | Category: news | 2026-06-26T04:45:54Z apte is an async-first test framework for Python where your unit tests and your LLM evals run in the..."
+  },
+  "0d44e74fc0321ef7": {
+    "file": "corpus/devto/dev_to_bredmond1019_the-new-code-why-specifications-will-rep_d1d14bceb1.md",
+    "source": "devto",
+    "title": "The New Code: Why Specifications Will Replace Programming",
+    "url": "https://dev.to/bredmond1019/the-new-code-why-specifications-will-replace-programming-58bj",
+    "keywords": [
+      "spent months optimizing",
+      "ai development pipeline",
+      "think planning",
+      "replace programming",
+      "replace programming",
+      "new code",
+      "new code",
+      "important thing",
+      "agentic engineer",
+      "pipeline"
+    ],
+    "summary": "# The New Code: Why Specifications Will Replace Programming I spent months optimizing my AI development pipeline before realizing the bottleneck was never the pipeline. Here's what I built, what broke, and why I now think planning before generating is the most important thing an agentic engineer can do."
+  },
+  "5ac2b97ab7321ba0": {
+    "file": "corpus/devto/dev_to_bessavagner_running-llm-generated-code-without-gettin_5505df86fe.md",
+    "source": "devto",
+    "title": "Running LLM-Generated Code Without Getting Burned",
+    "url": "https://dev.to/bessavagner/running-llm-generated-code-without-getting-burned-1gd7",
+    "keywords": [
+      "54z language models",
+      "writing code",
+      "running llm",
+      "running llm",
+      "ask one",
+      "source",
+      "reshape",
+      "reactions",
+      "news",
+      "good"
+    ],
+    "summary": "# Running LLM-Generated Code Without Getting Burned Language models are good at writing code. Ask one to compute a correlation, reshape a dataset, or..."
+  },
+  "e598f6eff55337e1": {
+    "file": "corpus/devto/dev_to_dev48v_i-built-an-interactive-visualizer-of-the-sprin_8bde4a9f27.md",
+    "source": "devto",
+    "title": "I Built an Interactive Visualizer of the Spring Boot Request Lifecycle",
+    "url": "https://dev.to/dev48v/i-built-an-interactive-visualizer-of-the-spring-boot-request-lifecycle-5b5h",
+    "keywords": [
+      "spring boot request lifecycle",
+      "spring boot request lifecycle",
+      "repository —",
+      "interactive visualizer",
+      "interactive visualizer",
+      "annotations —",
+      "source",
+      "service",
+      "restcontroller",
+      "reactions"
+    ],
+    "summary": "# I Built an Interactive Visualizer of the Spring Boot Request Lifecycle > Source: devto | Category: news | 2026-06-26T04:45:56Z Every Spring tutorial teaches you the annotations — @RestController, @Service, @Repository — but..."
+  },
+  "87850b95dd3c231a": {
+    "file": "corpus/devto/dev_to_mursalfk_30-tiny-react-hooks-that-punch-way-above-the_c8961b2839.md",
+    "source": "devto",
+    "title": "30 Tiny React Hooks That Punch Way Above Their Weight",
+    "url": "https://dev.to/mursalfk/30-tiny-react-hooks-that-punch-way-above-their-weight-1907",
+    "keywords": [
+      "30 tiny react hooks",
+      "30 tiny react hooks",
+      "react keep showing",
+      "every project ...",
+      "ten lines",
+      "punch way",
+      "punch way",
+      "weight",
+      "weight",
+      "source"
+    ],
+    "summary": "# 30 Tiny React Hooks That Punch Way Above Their Weight > Source: devto | Category: news | 2026-06-26T04:45:53Z Hello devs 👋   Ever notice how the same ten lines of React keep showing up in every project..."
+  },
+  "31493e3ef0ab78d4": {
+    "file": "corpus/devto/dev_to_tminus1s_why-your-midnight-contract-cant-be-found-on-_2ee92a7fcb.md",
+    "source": "devto",
+    "title": "Why your Midnight contract 'can't be found on chain' (or: Midnight, stop playing with my emotions)",
+    "url": "https://dev.to/tminus1s/why-your-midnight-contract-cant-be-found-on-chain-or-midnight-stop-playing-with-my-emotions-18l5",
+    "keywords": [
+      "taught learner grinding",
+      "stop playing",
+      "stop playing",
+      "midnight quests",
+      "midnight contract",
+      "midnight contract",
+      "midnight",
+      "midnight",
+      "week",
+      "source"
+    ],
+    "summary": "# Why your Midnight contract \"can't be found on chain\" (or: Midnight, stop playing with my emotions) > Source: devto | Category: news | 2026-06-26T04:45:56Z I'm a self-taught learner grinding through the Midnight quests, and this week the chain and I had a..."
+  },
+  "ddcd9e96c48e0449": {
+    "file": "corpus/devto/dev_to_samhartley_dev_i-replaced-25-hours-of-daily-busywork-_f1a372b666.md",
+    "source": "devto",
+    "title": "I Replaced 2.5 Hours of Daily Busywork with a $0 AI Agent Setup",
+    "url": "https://dev.to/samhartley_dev/i-replaced-25-hours-of-daily-busywork-with-a-0-ai-agent-setup-13ad",
+    "keywords": [
+      "0 ai agent setup",
+      "0 ai agent setup",
+      "replaced 2",
+      "replaced 2",
+      "replaced 2",
+      "daily busywork",
+      "daily busywork",
+      "daily busywork",
+      "5 hours",
+      "5 hours"
+    ],
+    "summary": "# I Replaced 2.5 Hours of Daily Busywork with a $0 AI Agent Setup > Source: devto | Category: news | 2026-06-26T04:45:55Z I Replaced 2.5 Hours of Daily Busywork with a $0 AI Agent Setup   Three months ago I was..."
+  },
+  "cfa0ee87da8a96aa": {
+    "file": "corpus/devto/dev_to_hamza_sabri1_how-to-calculate-a-freelance-hourly-rate_73cdd4fd7a.md",
+    "source": "devto",
+    "title": "How to Calculate a Freelance Hourly Rate Without Underpricing Yourself",
+    "url": "https://dev.to/hamza_sabri1/how-to-calculate-a-freelance-hourly-rate-without-underpricing-yourself-28ho",
+    "keywords": [
+      "rate like",
+      "employee ...",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "calculating",
+      "calculate",
+      "calculate"
+    ],
+    "summary": "# How to Calculate a Freelance Hourly Rate Without Underpricing Yourself > Source: devto | Category: news | 2026-06-26T04:45:55Z A common mistake many beginner freelancers make is calculating their rate like an employee..."
+  },
+  "b6bb1b999f86c153": {
+    "file": "corpus/devto/dev_to_jakub_inithouse_7-security-holes-we-keep-finding-in-v_2b685f9f23.md",
+    "source": "devto",
+    "title": "7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse",
+    "url": "https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0",
+    "keywords": [
+      "run audit vibe coding",
+      "audit vibe coding",
+      "audit vibe coding",
+      "7 security holes",
+      "7 security holes",
+      "vibecoded apps",
+      "vibecoded apps",
+      "keep finding",
+      "keep finding",
+      "generated ..."
+    ],
+    "summary": "# 7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse > Source: devto | Category: news | 2026-06-26T04:45:56Z We run Audit Vibe Coding at Inithouse, a security audit tool built specifically for AI-generated..."
+  },
+  "fdd4d192864103b2": {
+    "file": "corpus/devto/dev_to_karthickramachandran_ai-is-too-good-at-coding-so-i-bu_0b0852f594.md",
+    "source": "devto",
+    "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+    "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf",
+    "keywords": [
+      "claude code",
+      "built something",
+      "built something",
+      "tools",
+      "source",
+      "scale",
+      "scale",
+      "reactions",
+      "past",
+      "news"
+    ],
+    "summary": "# AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale) > Source: devto | Category: news | 2026-06-26T04:45:56Z Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of..."
+  },
+  "d30899d2e37a9476": {
+    "file": "corpus/devto/dev_to_alan_scottencinas_the-leaderboard-you-cant-score-agai_2f49ff5c76.md",
+    "source": "devto",
+    "title": "The leaderboard you can't score against",
+    "url": "https://dev.to/alan_scottencinas/the-leaderboard-you-cant-score-against-2d5o",
+    "keywords": [
+      "unlabeled test set",
+      "local scorer byte",
+      "second entry",
+      "official one",
+      "live builder",
+      "tell",
+      "source",
+      "score",
+      "score",
+      "score"
+    ],
+    "summary": "The second entry in a live builder's log. The Hyperspectral Object Tracking Challenge scores you on an unlabeled test set, so the leaderboard can't tell you your own score. Here's how I built a local scorer byte-faithful to the official one, and why measurement is half the battle."
+  },
+  "5facc2fc15522cdb": {
+    "file": "corpus/devto/dev_to_risheekmittal_how-i-orchestrated-6-gemini-agents-with_462135c5bc.md",
+    "source": "devto",
+    "title": "How I orchestrated 6 Gemini agents with FastAPI and AlloyDB to automate job hunting",
+    "url": "https://dev.to/risheekmittal/how-i-orchestrated-6-gemini-agents-with-fastapi-and-alloydb-to-automate-job-hunting-59l1",
+    "keywords": [
+      "orchestrated 6 gemini agents",
+      "orchestrated 6 gemini agents",
+      "automate job hunting",
+      "automate job hunting",
+      "see online",
+      "prompt wrappers",
+      "glorified single",
+      "demo ,...",
+      "ai agent",
+      "work"
+    ],
+    "summary": "# How I orchestrated 6 Gemini agents with FastAPI and AlloyDB to automate job hunting Most \"AI agent\" tutorials I see online are glorified single-prompt wrappers. They work for a demo,..."
+  },
+  "b364fd1f6773ce59": {
+    "file": "corpus/devto/dev_to_sgumz_converting-raw-to-heic-inside-apple-photos-app-_af62965ed8.md",
+    "source": "devto",
+    "title": "Converting RAW to HEIC inside Apple Photos: App Intents, HDR gain maps, and never losing a metadata field",
+    "url": "https://dev.to/sgumz/converting-raw-to-heic-inside-apple-photos-app-intents-hdr-gain-maps-and-never-losing-a-metadata-1in7",
+    "keywords": [
+      "heic inside apple photos",
+      "heic inside apple photos",
+      "macos app called rawtoheic",
+      "select raw photos",
+      "hdr gain maps",
+      "hdr gain maps",
+      "app intents",
+      "app intents",
+      "converting raw",
+      "converting raw"
+    ],
+    "summary": "# Converting RAW to HEIC inside Apple Photos: App Intents, HDR gain maps, and never losing a metadata field I built an iOS/iPadOS/macOS app called RawToHEIC. The pitch is one sentence: you select RAW photos in..."
+  },
+  "11393262a1e74b58": {
+    "file": "corpus/devto/dev_to_jeancarlosn_lite-harness-sdk-3f28_9225fe83a3.md",
+    "source": "devto",
+    "title": "Lite-Harness SDK",
+    "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28",
+    "keywords": [
+      "54z unified api",
+      "harness sdk",
+      "harness sdk",
+      "codex reactions",
+      "source",
+      "news",
+      "lite",
+      "lite",
+      "devto",
+      "category"
+    ],
+    "summary": "# Lite-Harness SDK > Source: devto | Category: news | 2026-06-26T04:45:54Z Unified API to swap AI coding harnesses like Claude Code and Codex"
+  },
+  "4843e81426a82e52": {
+    "file": "corpus/devto/dev_to_eugene_maiorov_stop-copy-pasting-project-context-into_e10e16cabf.md",
+    "source": "devto",
+    "title": "Stop Copy-Pasting Project Context Into AI Chats",
+    "url": "https://dev.to/eugene_maiorov/stop-copy-pasting-project-context-into-ai-chats-2k1j",
+    "keywords": [
+      "pasting project context",
+      "pasting project context",
+      "use ai tools",
+      "ai chats",
+      "ai chats",
+      "write code",
+      "stop copy",
+      "stop copy",
+      "new ...",
+      "keep seeing"
+    ],
+    "summary": "# Stop Copy-Pasting Project Context Into AI Chats I use AI tools a lot when I write code. And I keep seeing the same annoying pattern."
+  },
+  "e8fd71d3302adaa4": {
+    "file": "corpus/devto/dev_to_stoefln6_ai-coding-agents-need-tests-more-than-prompt_ec4f54c5aa.md",
+    "source": "devto",
+    "title": "AI Coding Agents Need Tests More Than Prompts",
+    "url": "https://dev.to/stoefln6/ai-coding-agents-need-tests-more-than-prompts-11pm",
+    "keywords": [
+      "software development workflow",
+      "last eight months",
+      "ever ...",
+      "source",
+      "reactions",
+      "prompts",
+      "prompts",
+      "news",
+      "devto",
+      "changed"
+    ],
+    "summary": "# AI Coding Agents Need Tests More Than Prompts > Source: devto | Category: news | 2026-06-26T04:45:55Z Over the last eight months, my software development workflow has changed more than I have ever..."
+  },
+  "5e0f9e2fecdc5856": {
+    "file": "corpus/devto/dev_to_datadriven_data-engineer-salaries-in-2026-the-numbers_d4ea74c54e.md",
+    "source": "devto",
+    "title": "Data Engineer Salaries in 2026: The Numbers Are Lying",
+    "url": "https://dev.to/datadriven/data-engineer-salaries-in-2026-the-numbers-are-lying-5877",
+    "keywords": [
+      "data engineer salaries",
+      "data engineer salaries",
+      "payscale disagree",
+      "55z glassdoor",
+      "every source",
+      "source",
+      "reactions",
+      "numbers",
+      "numbers",
+      "number"
+    ],
+    "summary": "# Data Engineer Salaries in 2026: The Numbers Are Lying Glassdoor, Indeed, and PayScale disagree by $120K. Here's why every source is broken ,  and what your number should actually be."
+  },
+  "a3183feb54505ff1": {
+    "file": "corpus/github-trending/github_com_ant-design_ant-design_a24166629b.md",
+    "source": "github-trending",
+    "title": "ant-design/ant-design ⭐98475",
+    "url": "https://github.com/ant-design/ant-design",
+    "keywords": [
+      "[]( https :// opencollective",
+      "follow twitter ][ twitter",
+      "alt =\" youmind \"></",
+      "alt =\" tractian \"></",
+      "alt =\" coderabbit \"></",
+      "request feature ][ github",
+      "report bug ][ github",
+      "ci status ][ github",
+      "alt =\" lobehub \"></",
+      "img height =\" 180"
+    ],
+    "summary": "> Source: github-trending | Category: tool | 2026-06-26T04:46:20Z [Issues need help][help-wanted-image]][help-wanted-url] [! [LFX Active Contributors][lfx-image]][lfx-url]"
   }
 }
