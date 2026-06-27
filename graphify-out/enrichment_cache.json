@@ -132490,5 +132490,267 @@
       "security"
     ],
     "summary": "# [bleeping-comp] Clean GitHub repo tricks AI coding agents into running malware Clean GitHub repo tricks AI coding agents into running malware An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers."
+  },
+  "6b38d002d78d9d2d": {
+    "file": "corpus/hackernews/www_theregister_com_software_2026_06_26_one-man-two-kernels-_df4a422c1c.md",
+    "source": "hackernews",
+    "title": "One man, two kernels, and a lot of RISC-V",
+    "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+    "keywords": [
+      "two kernels",
+      "two kernels",
+      "one man",
+      "one man",
+      "36z score",
+      "source",
+      "risc",
+      "risc"
+    ],
+    "summary": "# One man, two kernels, and a lot of RISC-V > Source: hackernews | Category: news | 2026-06-27T16:42:36Z Score: 14 | Comments: 0"
+  },
+  "b43f7523bc5fbe50": {
+    "file": "corpus/hackernews/ethz_ch_en_news-and-events_eth-news_news_2026_06_a-new-type-_ce30d74741.md",
+    "source": "hackernews",
+    "title": "Researchers have developed pixels that can emit and analyse light together",
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
+    "keywords": [
+      "analyse light together",
+      "analyse light together",
+      "developed pixels",
+      "developed pixels",
+      "37z score",
+      "source",
+      "researchers",
+      "researchers",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Researchers have developed pixels that can emit and analyse light together > Source: hackernews | Category: news | 2026-06-27T16:42:37Z Score: 7 | Comments: 4"
+  },
+  "ad5b62c67ccc617d": {
+    "file": "corpus/hackernews/arstechnica_com_health_2026_06_doctors-suspected-man-had-bra_7ef3cf4932.md",
+    "source": "hackernews",
+    "title": "Doctors suspected man had brain cancer. He had worms",
+    "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+    "keywords": [
+      "doctors suspected man",
+      "doctors suspected man",
+      "brain cancer",
+      "brain cancer",
+      "39z score",
+      "worms",
+      "worms",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Doctors suspected man had brain cancer. He had worms > Source: hackernews | Category: news | 2026-06-27T16:42:39Z"
+  },
+  "4ac4011557ccf222": {
+    "file": "corpus/hackernews/www_neowin_net_editorials_youve-tried-duckduckgo-and-brave-s_13bfa04efb.md",
+    "source": "hackernews",
+    "title": "You've tried DuckDuckGo and Brave Search, now get serious with SearXNG",
+    "url": "https://www.neowin.net/editorials/youve-tried-duckduckgo-and-brave-search-now-get-serious-with-searxng/",
+    "keywords": [
+      "tried duckduckgo",
+      "tried duckduckgo",
+      "get serious",
+      "get serious",
+      "brave search",
+      "brave search",
+      "42z score",
+      "source",
+      "searxng",
+      "searxng"
+    ],
+    "summary": "# You've tried DuckDuckGo and Brave Search, now get serious with SearXNG > Source: hackernews | Category: news | 2026-06-27T16:42:42Z Score: 6 | Comments: 0"
+  },
+  "b172dd6981263873": {
+    "file": "corpus/hackernews/cdt_org_insights_like-a-bouncer-at-a-bookstore-texas-app-sto_268a967c9f.md",
+    "source": "hackernews",
+    "title": "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
+    "url": "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/",
+    "keywords": [
+      "app store accountability act",
+      "app store accountability act",
+      "39z score",
+      "texas",
+      "texas",
+      "source",
+      "news",
+      "like",
+      "like",
+      "hackernews"
+    ],
+    "summary": "# Like a Bouncer at a Bookstore: Texas' App Store Accountability Act > Source: hackernews | Category: news | 2026-06-27T16:42:39Z Score: 7 | Comments: 1"
+  },
+  "3af42fa489a362c2": {
+    "file": "corpus/devto/dev_to_nar1frames_i-fired-49-attack-prompts-at-an-ai-25-of-t_ef1ea1bc9d.md",
+    "source": "devto",
+    "title": "I Fired 49 Attack Prompts at an AI. 25 of Them Worked.",
+    "url": "https://dev.to/nar1frames/i-fired-49-attack-prompts-at-an-ai-25-of-them-worked-2c5l",
+    "keywords": [
+      "fired 49 attack prompts",
+      "fired 49 attack prompts",
+      "ai security —...",
+      "naren ranjith",
+      "worked",
+      "worked",
+      "source",
+      "reading"
+    ],
+    "summary": "# I Fired 49 Attack Prompts at an AI. By Naren Ranjith     I had no coding experience six months ago. I'd been reading about AI security —..."
+  },
+  "1bde6aa97a6d7b80": {
+    "file": "corpus/devto/dev_to_yuhaolin2005_i-built-a-dual-pool-adversarial-review-s_fe8f1f3996.md",
+    "source": "devto",
+    "title": "I Built a Dual-Pool Adversarial Review System for AI Agents — And It Actually Works",
+    "url": "https://dev.to/yuhaolin2005/i-built-a-dual-pool-adversarial-review-system-for-ai-agents-and-it-actually-works-595j",
+    "keywords": [
+      "pool adversarial review system",
+      "pool adversarial review system",
+      "44z ai code review",
+      "ai agents —",
+      "ai agents —",
+      "add error ...",
+      "actually works",
+      "actually works",
+      "source",
+      "says"
+    ],
+    "summary": "# I Built a Dual-Pool Adversarial Review System for AI Agents — And It Actually Works > Source: devto | Category: news | 2026-06-27T16:42:44Z AI code review has a problem: abstract roles produce generic feedback."
+  },
+  "20c164993cef4873": {
+    "file": "corpus/devto/dev_to_paycalctools_how-to-set-your-freelance-day-rate-as-a-_66ef7d121c.md",
+    "source": "devto",
+    "title": "How to Set Your Freelance Day Rate as a Developer (With a Free Calculator)",
+    "url": "https://dev.to/paycalctools/how-to-set-your-freelance-day-rate-as-a-developer-with-a-free-calculator-fj0",
+    "keywords": [
+      "writing code —",
+      "freelance day rate",
+      "freelance day rate",
+      "going freelance",
+      "hardest things",
+      "free calculator",
+      "free calculator",
+      "46z one",
+      "source",
+      "set"
+    ],
+    "summary": "# How to Set Your Freelance Day Rate as a Developer (With a Free Calculator) > Source: devto | Category: news | 2026-06-27T16:42:46Z One of the hardest things about going freelance as a developer isn't writing code — it's knowing what..."
+  },
+  "cb486fdb596e9279": {
+    "file": "corpus/devto/dev_to_kushang_tailor_monitoring-tools-for-react-apps-which-_096e22b10d.md",
+    "source": "devto",
+    "title": "Monitoring Tools for React Apps — Which One Do You Actually Need?",
+    "url": "https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e",
+    "keywords": [
+      "45z read time",
+      "react apps —",
+      "react apps —",
+      "fire —",
+      "practical guide",
+      "actually need",
+      "actually need",
+      "14 minutes",
+      "monitoring tools",
+      "monitoring tools"
+    ],
+    "summary": "# Monitoring Tools for React Apps — Which One Do You Actually Need? > Source: devto | Category: news | 2026-06-27T16:42:45Z Read Time: ~14 minutes | A practical guide to the tools that tell you your app is on fire — before..."
+  },
+  "e65b43211f7fc0b0": {
+    "file": "corpus/devto/dev_to_endoflifeai_the-state-of-end-of-life-software-2026-32_b1ba4d8fde.md",
+    "source": "devto",
+    "title": "The State of End-of-Life Software 2026: 32 of 459 Technologies Have Active CVEs",
+    "url": "https://dev.to/endoflifeai/the-state-of-end-of-life-software-2026-32-of-459-technologies-have-active-cves-3h7f",
+    "keywords": [
+      "release reaching eol",
+      "life software 2026",
+      "life software 2026",
+      "exploited vulnerabilities",
+      "active cves",
+      "active cves",
+      "459 technologies",
+      "459 technologies",
+      "30 critical",
+      "2026"
+    ],
+    "summary": "# The State of End-of-Life Software 2026: 32 of 459 Technologies Have Active CVEs > Source: devto | Category: news | 2026-06-27T16:42:44Z An original data report across 459 tracked technologies — 32 tied to actively-exploited vulnerabilities, 30 Critical, and 190 with a release reaching EOL in 2026."
+  },
+  "818dd450314e2a20": {
+    "file": "corpus/devto/dev_to_bored_dev_stop-pasting-your-jwt-tokens-into-random-we_be2123239a.md",
+    "source": "devto",
+    "title": "Stop Pasting Your JWT Tokens Into Random Websites",
+    "url": "https://dev.to/bored_dev/stop-pasting-your-jwt-tokens-into-random-websites-3ij",
+    "keywords": [
+      "tool developer toolkit",
+      "stop pasting",
+      "stop pasting",
+      "runs entirely",
+      "random websites",
+      "random websites",
+      "jwt tokens",
+      "jwt tokens",
+      "ups",
+      "source"
+    ],
+    "summary": "# Stop Pasting Your JWT Tokens Into Random Websites > Source: devto | Category: news | 2026-06-27T16:42:45Z I built a 21-tool developer toolkit that runs entirely in your browser."
+  },
+  "14e4ef3c00989c80": {
+    "file": "corpus/devto/dev_to_tushar_sangwan_25f0bd5499_i-built-an-ai-agent-that-hu_f0f88fe65c.md",
+    "source": "devto",
+    "title": "I Built an AI Agent That Hunts Jobs Autonomously — Here's What Actually Worked",
+    "url": "https://dev.to/tushar_sangwan_25f0bd5499/i-built-an-ai-agent-that-hunts-jobs-autonomously-heres-what-actually-worked-48id",
+    "keywords": [
+      "hunts jobs autonomously —",
+      "hunts jobs autonomously —",
+      "46z six months ago",
+      "automate job searching",
+      "started building",
+      "cv optimiser",
+      "ai agent",
+      "ai agent",
+      "ai agent",
+      "actually worked"
+    ],
+    "summary": "# I Built an AI Agent That Hunts Jobs Autonomously — Here's What Actually Worked > Source: devto | Category: news | 2026-06-27T16:42:46Z Six months ago I started building an AI agent to automate job searching."
+  },
+  "6268205fd105945c": {
+    "file": "corpus/devto/dev_to_kenwalger_the-future-of-seo-has-nothing-to-do-with-se_5f7476d630.md",
+    "source": "devto",
+    "title": "The Future of SEO Has Nothing to Do With Search",
+    "url": "https://dev.to/kenwalger/the-future-of-seo-has-nothing-to-do-with-search-2eke",
+    "keywords": [
+      "machine might introduce us",
+      "website ever",
+      "years",
+      "source",
+      "seo",
+      "seo",
+      "search",
+      "search",
+      "reactions",
+      "nothing"
+    ],
+    "summary": "# The Future of SEO Has Nothing to Do With Search > Source: devto | Category: news | 2026-06-27T16:42:44Z Or: how I learned a machine might introduce us before my website ever does."
+  },
+  "3caf354773472e8c": {
+    "file": "corpus/devto/dev_to_renato_marinho_your-ai-agent-just-leaked-your-stripe-_a0fdac59c5.md",
+    "source": "devto",
+    "title": "Your AI Agent just leaked your Stripe key. Here's how to stop it before the commit.",
+    "url": "https://dev.to/renato_marinho/your-ai-agent-just-leaked-your-stripe-key-heres-how-to-stop-it-before-the-commit-5fb7",
+    "keywords": [
+      "traditional security scanners fail",
+      "using llm agents",
+      "stripe key",
+      "stripe key",
+      "secret exposure",
+      "deep dive",
+      "ai agent",
+      "ai agent",
+      "stop",
+      "stop"
+    ],
+    "summary": "Here's how to stop it before the commit. > Source: devto | Category: news | 2026-06-27T16:42:44Z A deep dive into why traditional security scanners fail when using LLM agents and how a pre-build 'proving' mechanism can prevent common vulnerabilities like IDOR, injection, and secret exposure."
   }
 }
