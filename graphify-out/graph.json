@@ -68636,6 +68636,22 @@
       "_origin": "ast"
     },
     {
+      "id": "hackernews_blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c",
+      "label": "blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c_cultures_of_making_and_relating",
+      "label": "Cultures of Making and Relating",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "hackernews_blog_kog_ai_real_time_llm_inference_on_standard_gpus_3_000_t_34a4865aee",
       "label": "blog_kog_ai_real-time-llm-inference-on-standard-gpus-3-000-t_34a4865aee.md",
       "file_type": "document",
@@ -176015,6 +176031,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/blog_jxmo_io_p_zen-and-the-art-of-machine-learning_daa935866d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c",
+      "target": "hackernews_blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c_cultures_of_making_and_relating",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/blog_khinsen_net_posts_2026_06_25_cultures_html_632fcc1b6c.md",
       "source_location": "L12",
       "weight": 1.0
     },
