@@ -137655,5 +137655,248 @@
       "messaging .< p"
     ],
     "summary": "I felt defeated when Lovable, Base44, and Bolt came out strong, showing the world what LLMs can do in software development. So, I focused on making a platform that helps them build and ship monetisable AI agents. All apps built on Appaca runs directly in the platform without any concept of hosting, deployment or bug fixing."
+  },
+  "76fa73c6c7a40fe5": {
+    "file": "corpus/hackernews/blog_pascalschuster_de_article_do-llms-pass-the-mirror-test_feb807daa7.md",
+    "source": "hackernews",
+    "title": "Do LLMs pass the mirror test?",
+    "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+    "keywords": [
+      "mirror test",
+      "mirror test",
+      "llms pass",
+      "llms pass",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Do LLMs pass the mirror test? > Source: hackernews | Category: news | 2026-06-28T21:13:35Z Score: 6 | Comments: 1"
+  },
+  "497d14c206ad4ecb": {
+    "file": "corpus/hackernews/www_theatlantic_com_culture_2026_06_long-live-mel-brooks_687_3a3d49df23.md",
+    "source": "hackernews",
+    "title": "Mel Brooks is 100 today",
+    "url": "https://www.theatlantic.com/culture/2026/06/long-live-mel-brooks/687730/",
+    "keywords": [
+      "mel brooks",
+      "mel brooks",
+      "37z score",
+      "100 today",
+      "100 today",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mel Brooks is 100 today > Source: hackernews | Category: news | 2026-06-28T21:13:37Z Score: 6 | Comments: 0"
+  },
+  "5f77fa07a6d03e31": {
+    "file": "corpus/hackernews/harpers_org_archive_2008_02_staying-awake_21fb20c425.md",
+    "source": "hackernews",
+    "title": "Staying Awake (2008)",
+    "url": "https://harpers.org/archive/2008/02/staying-awake/",
+    "keywords": [
+      "staying awake",
+      "staying awake",
+      "31z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "28t21"
+    ],
+    "summary": "# Staying Awake (2008) > Source: hackernews | Category: news | 2026-06-28T21:13:31Z Score: 5 | Comments: 0"
+  },
+  "5a1d72693e9eaae1": {
+    "file": "corpus/hackernews/github_com_JustVugg_nanoeuler_521f65d172.md",
+    "source": "hackernews",
+    "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "keywords": [
+      "text generation model understands",
+      "two interesting reasons",
+      "sense .< p",
+      "optimized .< p",
+      "2 scale model",
+      "2 scale model",
+      "2 ), working",
+      "nanoeuler – gpt",
+      "nanoeuler – gpt",
+      "making nanoeuler grow"
+    ],
+    "summary": "Hi everyone,<p>I started working on nanoeuler after the ban of anthropic&#x27;s fable because my ambition and dream is to work in the AI   field in anthropic. For example, nanoeuler at that number had understood that Name: started a line and wrote that line with sense.<p>I wrote everything in CUDA because I wanted to not use any intermediary between the model in training and inference and what it had to do. Then the use of SFT and much more, even if in small ways, were really useful to understan"
+  },
+  "bcee0e78db95889a": {
+    "file": "corpus/hackernews/github_com_kamaludu_bash4llm_8a1b48f78d.md",
+    "source": "hackernews",
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "keywords": [
+      "worked without installing python",
+      "json format .< p",
+      "runtime .< p",
+      "folder .< p",
+      "wanted something simple",
+      "save session metadata",
+      "system &# x2f",
+      "extras &# x2f",
+      "free bash wrapper",
+      "free bash wrapper"
+    ],
+    "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.<p>I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval. Groq is supported by default, and other providers can be added with dedicated Bash scripts in the extras&#x2F;providers&#x2F; folder.<p>Example:<p><pre><code>  echo &quot;explains the command: ls -l"
+  },
+  "9dcdb409d09a071f": {
+    "file": "corpus/hackernews/www_britishorigami_org_cp-lister-list_the-1955-exhibition-by_29f629d835.md",
+    "source": "hackernews",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa",
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "keywords": [
+      "british origami",
+      "british origami",
+      "akira yoshizawa",
+      "akira yoshizawa",
+      "35z score",
+      "1955 exhibition",
+      "1955 exhibition",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# British Origami: the 1955 exhibition by Akira Yoshizawa > Source: hackernews | Category: news | 2026-06-28T21:13:35Z Score: 4 | Comments: 0"
+  },
+  "d2c9244ee735b988": {
+    "file": "corpus/devto/dev_to_vishalsomaraju_how-cascadeflow-cut-our-review-cost-wi_89076fbb03.md",
+    "source": "devto",
+    "title": "How CascadeFlow Cut Our Review Cost Without Hurting Quality",
+    "url": "https://dev.to/vishalsomaraju/how-cascadeflow-cut-our-review-cost-without-hurting-quality-3h3e",
+    "keywords": [
+      "biggest model available",
+      "ai dev tools",
+      "send everything",
+      "hope ...",
+      "cascadeflow cut",
+      "cascadeflow cut",
+      "bad habit",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How CascadeFlow Cut Our Review Cost Without Hurting Quality > Source: devto | Category: news | 2026-06-28T21:13:39Z *Most AI dev tools have the same bad habit: * send everything to the biggest model available and hope..."
+  },
+  "894b52f647096df6": {
+    "file": "corpus/devto/dev_to_alih552_your-mcp-servers-are-burning-50k-tokens-befor_b3db5c4e6e.md",
+    "source": "devto",
+    "title": "Your MCP servers are burning 50k+ tokens before you type a word",
+    "url": "https://dev.to/alih552/your-mcp-servers-are-burning-50k-tokens-before-you-type-a-word-2oc6",
+    "keywords": [
+      "context window kept ...",
+      "model context protocol",
+      "mcp servers",
+      "mcp servers",
+      "burning 50k",
+      "burning 50k",
+      "word",
+      "word",
+      "type",
+      "type"
+    ],
+    "summary": "# Your MCP servers are burning 50k+ tokens before you type a word > Source: devto | Category: news | 2026-06-28T21:13:39Z Here is something I did not realize about the Model Context Protocol until my context window kept..."
+  },
+  "9caa3553e66c0c8e": {
+    "file": "corpus/devto/dev_to_myko_myko_i-measured-how-many-tech-job-postings-actua_e5f565a240.md",
+    "source": "devto",
+    "title": "I measured how many tech job postings actually list a salary. It's 14%",
+    "url": "https://dev.to/myko_myko/i-measured-how-many-tech-job-postings-actually-list-a-salary-its-14-51e",
+    "keywords": [
+      "snapshots every open role",
+      "thousand companies",
+      "thing",
+      "source",
+      "salary",
+      "salary",
+      "run",
+      "reactions",
+      "news",
+      "measured"
+    ],
+    "summary": "# I measured how many tech job postings actually list a salary. > Source: devto | Category: news | 2026-06-28T21:13:41Z I run a thing that snapshots every open role on a few thousand companies' own Greenhouse, Lever, and..."
+  },
+  "08f45d94cfaab5c6": {
+    "file": "corpus/devto/dev_to_chirallyactive_i-built-my-own-package-manager-in-rust_433dbd3d10.md",
+    "source": "devto",
+    "title": "I built my own package manager in Rust while building a Linux distro from scratch",
+    "url": "https://dev.to/chirallyactive/i-built-my-own-package-manager-in-rust-while-building-a-linux-distro-from-scratch-4hfm",
+    "keywords": [
+      "linux distribution entirely",
+      "scratch using lfs",
+      "package manager",
+      "package manager",
+      "months ago",
+      "linux distro",
+      "linux distro",
+      "linux",
+      "scratch",
+      "scratch"
+    ],
+    "summary": "# I built my own package manager in Rust while building a Linux distro from scratch > Source: devto | Category: news | 2026-06-28T21:13:39Z A few months ago I decided to build a Linux distribution entirely from scratch using LFS (Linux From..."
+  },
+  "af36e875d2334449": {
+    "file": "corpus/devto/dev_to_adioof_ai-didnt-kill-developer-joy-managers-who-manda_4d45349126.md",
+    "source": "devto",
+    "title": "AI didn't kill developer joy. Managers who mandate AI did.",
+    "url": "https://dev.to/adioof/ai-didnt-kill-developer-joy-managers-who-mandate-ai-did-2ee0",
+    "keywords": [
+      "kill developer joy",
+      "kill developer joy",
+      "developer anymore",
+      "feel like",
+      "boss ...",
+      "mandate ai",
+      "mandate ai"
+    ],
+    "summary": "# AI didn't kill developer joy. Managers who mandate AI did. The posts that say \"I don’t feel like a developer anymore\" are not about AI."
+  },
+  "c06cd74e57c6737d": {
+    "file": "corpus/devto/dev_to_hannahv7_beyond-chatbots-building-a-stateful-intervie_a5b1cf21d0.md",
+    "source": "devto",
+    "title": "Beyond Chatbots: Building a Stateful Interview Coach That Remembers Your Failures",
+    "url": "https://dev.to/hannahv7/beyond-chatbots-building-a-stateful-interview-coach-that-remembers-your-failures-3e28",
+    "keywords": [
+      "stateful interview coach",
+      "stateful interview coach",
+      "glorified search engines",
+      "ai interview bots",
+      "give ...",
+      "chat interface",
+      "beyond chatbots",
+      "beyond chatbots",
+      "source",
+      "remembers"
+    ],
+    "summary": "# Beyond Chatbots: Building a Stateful Interview Coach That Remembers Your Failures Most AI interview bots are glorified search engines with a chat interface. They ask a question, give..."
+  },
+  "f4c22192f768201a": {
+    "file": "corpus/devto/dev_to_embernoglow_after-a-long-journey-ive-reached-a-deep-b_2cd373b811.md",
+    "source": "devto",
+    "title": "After a long journey, I've reached a deep burnout",
+    "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
+    "keywords": [
+      "started thinking ...",
+      "39z hi everyone",
+      "rarely posting",
+      "long journey",
+      "long journey",
+      "deep burnout",
+      "deep burnout",
+      "source",
+      "reactions",
+      "reached"
+    ],
+    "summary": "# After a long journey, I've reached a deep burnout > Source: devto | Category: news | 2026-06-28T21:13:39Z Hi everyone, I've been rarely posting on dev, or even being active at all."
   }
 }
