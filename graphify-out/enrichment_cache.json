@@ -135110,5 +135110,343 @@
       "news"
     ],
     "summary": "# Why I still use NGINX over everything else People keep recommending Caddy. The config is cleaner, automatic HTTPS, three lines and you're done...."
+  },
+  "e547f55dd9fddd6b": {
+    "file": "corpus/hackernews/github_com_cfenollosa_bashblog_01b17446d4.md",
+    "source": "hackernews",
+    "title": "Bashblog – a single bash script to create blogs",
+    "url": "https://github.com/cfenollosa/bashblog",
+    "keywords": [
+      "single bash script",
+      "single bash script",
+      "create blogs",
+      "create blogs",
+      "bashblog –",
+      "bashblog –",
+      "13z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Bashblog – a single bash script to create blogs > Source: hackernews | Category: news | 2026-06-28T08:14:13Z Score: 27 | Comments: 3"
+  },
+  "4a303bb92a49420f": {
+    "file": "corpus/hackernews/shapeofthesystem_com_posts_2026_02_03_bounded-cognition_4d52ede269.md",
+    "source": "hackernews",
+    "title": "Engineering for Bounded Cognition",
+    "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "keywords": [
+      "bounded cognition",
+      "bounded cognition",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "engineering",
+      "engineering",
+      "comments",
+      "category"
+    ],
+    "summary": "# Engineering for Bounded Cognition > Source: hackernews | Category: news | 2026-06-28T08:14:14Z Score: 24 | Comments: 3"
+  },
+  "404da3416604aeba": {
+    "file": "corpus/hackernews/nikkei_shorthandstories_com_can-china-build-its-own-asml_24d8eeac7b.md",
+    "source": "hackernews",
+    "title": "Can China build its own ASML?",
+    "url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+    "keywords": [
+      "china build",
+      "china build",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "asml",
+      "asml"
+    ],
+    "summary": "# Can China build its own ASML? > Source: hackernews | Category: news | 2026-06-28T08:14:16Z Score: 3 | Comments: 0"
+  },
+  "2b302c198b2b3aa0": {
+    "file": "corpus/hackernews/magnusross_github_io_posts_reflecting-to-optimise_bc7e3c17f6.md",
+    "source": "hackernews",
+    "title": "Reflecting to optimise",
+    "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+    "keywords": [
+      "14z score",
+      "source",
+      "reflecting",
+      "reflecting",
+      "optimise",
+      "optimise",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Reflecting to optimise > Source: hackernews | Category: news | 2026-06-28T08:14:14Z Score: 7 | Comments: 0"
+  },
+  "90f728c660e9c801": {
+    "file": "corpus/hackernews/polypane_app_blog_experimenting-with-random-in-css_a033c647bf.md",
+    "source": "hackernews",
+    "title": "Experimenting with Random() in CSS",
+    "url": "https://polypane.app/blog/experimenting-with-random-in-css/",
+    "keywords": [
+      "random ()",
+      "random ()",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "experimenting",
+      "experimenting",
+      "css",
+      "css"
+    ],
+    "summary": "# Experimenting with Random() in CSS > Source: hackernews | Category: news | 2026-06-28T08:14:15Z Score: 3 | Comments: 0"
+  },
+  "e1517b5da1f3c4fb": {
+    "file": "corpus/hackernews/metaspec_dev_408a330b85.md",
+    "source": "hackernews",
+    "title": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
+    "url": "https://metaspec.dev/#",
+    "keywords": [
+      "uses progressively enhanced javascript",
+      "dpans3r common lisp spec",
+      "dpans3r common lisp spec",
+      "contain interesting historical data",
+      "metaspectre &# x2f ;</",
+      "easily parsed intermediate form",
+      "org &# x2f",
+      "org &# x2f",
+      "light &# x2f",
+      "dlowe &# x2f"
+    ],
+    "summary": "I started this project back in 2015, to translate the TeX original specification into an easily parsed format (s-doc), and to create an HTML rendering of that format as a proof of concept.<p>The project is homed here: <a href=\"https:&#x2F;&#x2F;codeberg.org&#x2F;dlowe&#x2F;metaspectre&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;codeberg.org&#x2F;dlowe&#x2F;metaspectre&#x2F;</a><p>Differences from the Hyperspec (from the README):<p><pre><code>  - Most importantly, it is free to modify and distribute."
+  },
+  "e40b2025a514e458": {
+    "file": "corpus/hackernews/github_com_AkuchiS_yap_5bc82d7960.md",
+    "source": "hackernews",
+    "title": "Yap – free offline voice dictation for Mac/Windows/Linux (Wispr Flow alt)",
+    "url": "https://github.com/AkuchiS/yap",
+    "keywords": [
+      "wispr flow alt",
+      "wispr flow alt",
+      "18z score",
+      "windows",
+      "windows",
+      "source",
+      "news",
+      "mac",
+      "mac",
+      "linux"
+    ],
+    "summary": "# Yap – free offline voice dictation for Mac/Windows/Linux (Wispr Flow alt) > Source: hackernews | Category: news | 2026-06-28T08:14:18Z Score: 13 | Comments: 0"
+  },
+  "cfc6b6874f6e05a3": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_06_swift-6-4-beta-features_utm_campa_ae473f6e65.md",
+    "source": "engineering",
+    "title": "[infoq] Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop",
+    "url": "https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "simplified os availability check",
+      "4x faster url parsing",
+      "xctest interop currently available",
+      "sergio de simone",
+      "grained warning control",
+      "better c interoperability",
+      "13z swift 6",
+      "xctest interop",
+      "xctest interop",
+      "improved interoperability"
+    ],
+    "summary": "# [infoq] Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop Currently available as a beta in Xcode 27, Swift 6.4 introduces a range of enhancements: better C interoperability, simplified OS availability check, fine-grained warning control, async support in defer, efficient iteration for non-noncopyable types, up to 4x faster URL parsing, and improved interoperability between Swift Testing and XCTest. By Sergio De Simone"
+  },
+  "808d5150bd075d00": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_06_aws-finops-agent_utm_campaign_inf_80fa17b542.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Previews FinOps Agent for Cost Analysis and Optimization",
+    "url": "https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "released aws finops agent",
+      "aws previews finops agent",
+      "aws previews finops agent",
+      "aws activity data",
+      "correlate spend changes",
+      "investigate cost anomalies",
+      "cost analysis",
+      "cost analysis",
+      "cost analysis",
+      "route findings"
+    ],
+    "summary": "# [infoq] AWS Previews FinOps Agent for Cost Analysis and Optimization AWS Previews FinOps Agent for Cost Analysis and Optimization The agent can investigate cost anomalies, correlate spend changes with AWS activity data, and integrate with tools such as Slack and Jira to route findings to resource owners."
+  },
+  "7ba2e9ccdc623a7f": {
+    "file": "corpus/devto/dev_to_dr5hn_how-i-built-static-hosting-that-claude-can-publ_a4eae1b6a1.md",
+    "source": "devto",
+    "title": "How I built static hosting that Claude can publish to (via MCP)",
+    "url": "https://dev.to/dr5hn/how-i-built-static-hosting-that-claude-can-publish-to-via-mcp-14ee",
+    "keywords": [
+      "genuinely nice portfolio",
+      "built static hosting",
+      "built static hosting",
+      "via mcp",
+      "via mcp",
+      "ten minutes",
+      "friend generate",
+      "watched",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How I built static hosting that Claude can publish to (via MCP) > Source: devto | Category: news | 2026-06-28T08:14:18Z I watched a friend generate a genuinely nice portfolio in Claude in about ten minutes."
+  },
+  "2cf236d733f95786": {
+    "file": "corpus/devto/dev_to_jishith_mp_82b1b8f25ca17e_update-on-zen-we-now-have-a_0000ccb7df.md",
+    "source": "devto",
+    "title": "Update on Zen — we now have a package ecosystem",
+    "url": "https://dev.to/jishith_mp_82b1b8f25ca17e/update-on-zen-we-now-have-a-package-ecosystem-68",
+    "keywords": [
+      "early zen code examples",
+      "zen —",
+      "zen —",
+      "weeks back",
+      "package ecosystem",
+      "package ecosystem",
+      "update",
+      "update",
+      "source",
+      "since"
+    ],
+    "summary": "# Update on Zen — we now have a package ecosystem A few weeks back I shared some early Zen code examples. Since then, a lot has changed."
+  },
+  "2cf71e68fc7f1fb9": {
+    "file": "corpus/devto/dev_to_nongdyz_d9c3069b1acb2a08c_cursor-rules-that-actually-_4389b27088.md",
+    "source": "devto",
+    "title": "Cursor Rules That Actually Improve AI Output (.mdc Project Rules)",
+    "url": "https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg",
+    "keywords": [
+      "write clean code .\"",
+      "follow best practices .\"",
+      "wish lists",
+      "see online",
+      "cursor rules",
+      "cursor rules",
+      "cursor rules",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Cursor Rules That Actually Improve AI Output (.mdc Project Rules) > Source: devto | Category: news | 2026-06-28T08:14:20Z Most Cursor rules I see online are wish lists."
+  },
+  "e76ad1fe0255b9d4": {
+    "file": "corpus/devto/dev_to_xulingfeng_vp-of-nothing-the-ceos-nephew-took-over-my_6ecbb43fed.md",
+    "source": "devto",
+    "title": "VP of Nothing: The CEO's Nephew Took Over My AI Platform. The Client Walked Within a Month.",
+    "url": "https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla",
+    "keywords": [
+      "client walked within",
+      "client walked within",
+      "old series",
+      "nephew took",
+      "nephew took",
+      "18z series",
+      "ai platform",
+      "ai platform"
+    ],
+    "summary": "# VP of Nothing: The CEO's Nephew Took Over My AI Platform. The Client Walked Within a Month. Series: AI, Ego &amp; Regret — Bonus Chapter   Editor's Note: While compiling the old series for the..."
+  },
+  "7aaab0de74f24b8f": {
+    "file": "corpus/devto/dev_to_kai_polyquant_v2_katra-giving-ai-agents-a-vulcan-mind_ba64466bb1.md",
+    "source": "devto",
+    "title": "Katra: Giving AI Agents a Vulcan Mind Meld",
+    "url": "https://dev.to/kai_polyquant_v2/katra-giving-ai-agents-a-vulcan-mind-meld-l9f",
+    "keywords": [
+      "— apparently — talk",
+      "21z cognitive memory infrastructure",
+      "vulcan mind meld",
+      "vulcan mind meld",
+      "giving ai agents",
+      "giving ai agents",
+      "agents",
+      "source",
+      "remember",
+      "reflect"
+    ],
+    "summary": "# Katra: Giving AI Agents a Vulcan Mind Meld > Source: devto | Category: news | 2026-06-28T08:14:21Z Cognitive memory infrastructure for agents that remember, reflect, and — apparently — talk to each..."
+  },
+  "2e62c07f7865d4e5": {
+    "file": "corpus/devto/dev_to_ahmedmahmoudabouraia_building-ai-native-frontends-wit_dbd5ad064b.md",
+    "source": "devto",
+    "title": "Building AI-Native Frontends with Claude Code and MCP",
+    "url": "https://dev.to/ahmedmahmoudabouraia/building-ai-native-frontends-with-claude-code-and-mcp-n1m",
+    "keywords": [
+      "design system ,...",
+      "wins come",
+      "native frontends",
+      "native frontends",
+      "claude code",
+      "claude code",
+      "20z headline",
+      "building ai",
+      "building ai"
+    ],
+    "summary": "# Building AI-Native Frontends with Claude Code and MCP > Source: devto | Category: news | 2026-06-28T08:14:20Z Headline: The wins come from context, not cleverness."
+  },
+  "2bdd401135f0ab57": {
+    "file": "corpus/devto/dev_to_penloom_studio_829b7817d3_your-claudemd-is-too-long-a_09da74f9e3.md",
+    "source": "devto",
+    "title": "Your CLAUDE.md is too long — and that's why Claude Code ignores it",
+    "url": "https://dev.to/penloom_studio_829b7817d3/your-claudemd-is-too-long-and-thats-why-claude-code-ignores-it-1c2e",
+    "keywords": [
+      "instruction budget —",
+      "claude code ignores",
+      "claude code ignores",
+      "long —",
+      "long —",
+      "number drops",
+      "file grows",
+      "claude",
+      "claude",
+      "treat"
+    ],
+    "summary": "# Your CLAUDE.md is too long — and that's why Claude Code ignores it Claude Code follows CLAUDE.md about 80% of the time, and that number drops as the file grows. Treat it as an instruction budget — how to spend it, and when to graduate a rule into a hook."
+  },
+  "2e8cdc680653d04d": {
+    "file": "corpus/devto/dev_to_mahmud_farooque_f905b9808_getting-the-chipsailing-cs9_faf5c03121.md",
+    "source": "devto",
+    "title": "Getting the Chipsailing CS9711 USB Fingerprint Reader Working on Linux",
+    "url": "https://dev.to/mahmud_farooque_f905b9808/getting-the-chipsailing-cs9711-usb-fingerprint-reader-working-on-linux-1g1h",
+    "keywords": [
+      "style login ...",
+      "promise windows hello",
+      "bought one",
+      "source",
+      "reactions",
+      "news",
+      "linux",
+      "linux",
+      "kind",
+      "getting"
+    ],
+    "summary": "# Getting the Chipsailing CS9711 USB Fingerprint Reader Working on Linux > Source: devto | Category: news | 2026-06-28T08:14:21Z I bought one of those cheap USB fingerprint dongles — the kind that promise Windows Hello-style login..."
+  },
+  "6accdeb1b2763a21": {
+    "file": "corpus/devto/dev_to_jjn1056_perl-pagi-middleware-o5b_64d729e7b3.md",
+    "source": "devto",
+    "title": "Perl PAGI Middleware",
+    "url": "https://dev.to/jjn1056/perl-pagi-middleware-o5b",
+    "keywords": [
+      "perl pagi middleware",
+      "perl pagi middleware",
+      "19z middleware",
+      "sample app",
+      "pagi",
+      "middleware",
+      "source",
+      "reactions",
+      "port"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-06-28T08:14:19Z Middleware in PAGI   A port of the sample app from What Is Middleware? — which builds the..."
   }
 }
