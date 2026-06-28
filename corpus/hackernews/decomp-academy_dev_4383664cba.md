@@ -1,0 +1,18 @@
+---
+title: "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
+url: "https://decomp-academy.dev"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-06-28T04:53:00Z"
+metadata:
+  score: "67"
+---
+
+# Show HN: Decomp Academy – Learn to decompile GameCube games into matching C
+
+> Source: hackernews | Category: news | 2026-06-28T04:53:00Z
+
+Score: 67 | Comments: 23
+
+Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.<p>Learning how to decompile was challenging. It&#x27;s difficult to find any good learning resources for it and any open-source projects for this are inactive and&#x2F;or contain little actual learning material.<p>So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC&#x2F;2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that&#x27;s a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile.<p>As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you&#x27;re not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done.<p>The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src&#x2F;curriculum), it&#x27;s trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I&#x27;m happy to share it with HN. I&#x27;m very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think!<p>Source: <a href="https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe</a>
