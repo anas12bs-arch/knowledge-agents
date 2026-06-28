@@ -836,11 +836,12 @@
       "_origin": "ast"
     },
     {
-      "id": "path",
+      "id": "core_graphify_writer_py_path",
       "label": "Path",
       "file_type": "code",
       "source_file": "",
       "source_location": "",
+      "origin_file": "/home/runner/work/knowledge-agents/knowledge-agents/core/graphify_writer.py",
       "_origin": "ast"
     },
     {
@@ -1081,6 +1082,15 @@
       "file_type": "code",
       "source_file": "scripts/export_to_claude_memory.py",
       "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_export_to_claude_memory_py_path",
+      "label": "Path",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "origin_file": "/home/runner/work/knowledge-agents/knowledge-agents/scripts/export_to_claude_memory.py",
       "_origin": "ast"
     },
     {
@@ -8692,6 +8702,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_adelan_why_my_polymarket_bot_watches_chainlink_not_bi_1f3aa8622d",
+      "label": "dev_to_adelan_why-my-polymarket-bot-watches-chainlink-not-bi_1f3aa8622d.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_adelan_why-my-polymarket-bot-watches-chainlink-not-bi_1f3aa8622d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_adelan_why_my_polymarket_bot_watches_chainlink_not_bi_1f3aa8622d_why_my_polymarket_bot_watches_chainlink_not_binance_the_oracle_gap_that_changes_every_close_trade",
+      "label": "Why My Polymarket Bot Watches Chainlink, Not Binance - The Oracle Gap That Changes Every Close Trade",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_adelan_why-my-polymarket-bot-watches-chainlink-not-bi_1f3aa8622d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_adeolu102_engineering_design_document_reusable_observ_f0fe3b0a13",
       "label": "dev_to_adeolu102_engineering-design-document-reusable-observ_f0fe3b0a13.md",
       "file_type": "document",
@@ -9184,6 +9210,22 @@
       "label": "How to Replace a Page in a PDF Programmatically with pdf-lib (No Backend Required)",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_ahmadfarazcrypto_how-to-replace-a-page-in-a-pdf-progr_44296524e9.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_ahmed_mahmoud360_building_ai_native_frontends_with_cl_09192c556f",
+      "label": "dev_to_ahmed_mahmoud360_building-ai-native-frontends-with-cl_09192c556f.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_ahmed_mahmoud360_building-ai-native-frontends-with-cl_09192c556f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_ahmed_mahmoud360_building_ai_native_frontends_with_cl_09192c556f_building_ai_native_frontends_with_claude_code_and_mcp",
+      "label": "Building AI-Native Frontends with Claude Code and MCP",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_ahmed_mahmoud360_building-ai-native-frontends-with-cl_09192c556f.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -10400,6 +10442,22 @@
       "label": "I built a CLI to break my highlights out of Apple Books",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_andreykorchak_i-built-a-cli-to-break-my-highlights-ou_77f2d389d9.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_androve2k_custom_e_commerce_on_firebase_catalog_atomi_3631e992ea",
+      "label": "dev_to_androve2k_custom-e-commerce-on-firebase-catalog-atomi_3631e992ea.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_androve2k_custom-e-commerce-on-firebase-catalog-atomi_3631e992ea.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_androve2k_custom_e_commerce_on_firebase_catalog_atomi_3631e992ea_custom_e_commerce_on_firebase_catalog_atomic_orders_and_admin_panel",
+      "label": "Custom e-commerce on Firebase: catalog, atomic orders and admin panel",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_androve2k_custom-e-commerce-on-firebase-catalog-atomi_3631e992ea.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -17380,6 +17438,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_devengers_why_every_software_engineer_should_read_the_96e532baa1",
+      "label": "dev_to_devengers_why-every-software-engineer-should-read-the_96e532baa1.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_devengers_why-every-software-engineer-should-read-the_96e532baa1.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_devengers_why_every_software_engineer_should_read_the_96e532baa1_why_every_software_engineer_should_read_the_psychology_of_money",
+      "label": "Why Every Software Engineer Should Read \"The Psychology of Money\"",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_devengers_why-every-software-engineer-should-read-the_96e532baa1.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_deviduttadas3_from_vibe_coding_to_agentic_engineering_2b76738955",
       "label": "dev_to_deviduttadas3_from-vibe-coding-to-agentic-engineering_2b76738955.md",
       "file_type": "document",
@@ -20740,6 +20814,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_freerave_building_dotscramble_part_2_ed25519_license_d84a979ab5",
+      "label": "dev_to_freerave_building-dotscramble-part-2-ed25519-license-_d84a979ab5.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_freerave_building-dotscramble-part-2-ed25519-license-_d84a979ab5.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_freerave_building_dotscramble_part_2_ed25519_license_d84a979ab5_building_dotscramble_part_2_ed25519_license_signing_machine_fingerprinting_and_a_7_day_offline_grace_period",
+      "label": "Building DotScramble Part 2: Ed25519 License Signing, Machine Fingerprinting, and a 7-Day Offline Grace Period",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_freerave_building-dotscramble-part-2-ed25519-license-_d84a979ab5.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_freezebrain_i_let_an_ai_agent_interview_me_then_it_wr_03495f6662",
       "label": "dev_to_freezebrain_i-let-an-ai-agent-interview-me-then-it-wr_03495f6662.md",
       "file_type": "document",
@@ -22904,6 +22994,22 @@
       "label": "How to Calculate a Freelance Hourly Rate Without Underpricing Yourself",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_hamza_sabri1_how-to-calculate-a-freelance-hourly-rate_73cdd4fd7a.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_hanasite_pal_giving_ai_agents_hands_in_the_physical_w_e567cdb933",
+      "label": "dev_to_hanasite_pal-giving-ai-agents-hands-in-the-physical-w_e567cdb933.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_hanasite_pal-giving-ai-agents-hands-in-the-physical-w_e567cdb933.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_hanasite_pal_giving_ai_agents_hands_in_the_physical_w_e567cdb933_pal_giving_ai_agents_hands_in_the_physical_world",
+      "label": "PAL: Giving AI Agents Hands in the Physical World",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_hanasite_pal-giving-ai-agents-hands-in-the-physical-w_e567cdb933.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -25240,6 +25346,22 @@
       "label": "Why we're building a Github alternative",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_jamie_davenport_why-were-building-a-github-alternativ_b2bbc60dd1.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_jamiepark_design_building_a_zero_dependency_barcode_s_b67899612c",
+      "label": "dev_to_jamiepark-design_building-a-zero-dependency-barcode-s_b67899612c.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_jamiepark-design_building-a-zero-dependency-barcode-s_b67899612c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_jamiepark_design_building_a_zero_dependency_barcode_s_b67899612c_building_a_zero_dependency_barcode_scanner_with_the_web_barcode_detection_api",
+      "label": "Building a Zero-Dependency Barcode Scanner with the Web Barcode Detection API",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_jamiepark-design_building-a-zero-dependency-barcode-s_b67899612c.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -35652,6 +35774,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_pascal_cescato_692b7a8a20_1_15n0_1e567885a3",
+      "label": "dev_to_pascal_cescato_692b7a8a20_1-15n0_1e567885a3.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_pascal_cescato_692b7a8a20_1-15n0_1e567885a3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_pascal_cescato_692b7a8a20_1_15n0_1e567885a3_1",
+      "label": "1%",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_pascal_cescato_692b7a8a20_1-15n0_1e567885a3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_pascal_cescato_692b7a8a20_too_cheap_to_be_good_think_636352958f",
       "label": "dev_to_pascal_cescato_692b7a8a20_too-cheap-to-be-good-think-_636352958f.md",
       "file_type": "document",
@@ -35664,6 +35802,22 @@
       "label": "Too cheap to be good? Think again.",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_pascal_cescato_692b7a8a20_too-cheap-to-be-good-think-_636352958f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_patrickryankenneth_why_2_is_slower_than_col_2_in_pand_b7476eb35b",
+      "label": "dev_to_patrickryankenneth_why-2-is-slower-than-col-2-in-pand_b7476eb35b.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_patrickryankenneth_why-2-is-slower-than-col-2-in-pand_b7476eb35b.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_patrickryankenneth_why_2_is_slower_than_col_2_in_pand_b7476eb35b_why_2_is_slower_than_col_2_in_pandas_and_what_strace_shows_about_abstraction_cost",
+      "label": "Why *= 2 is slower than = col * 2 in Pandas — and what strace shows about abstraction cost",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_patrickryankenneth_why-2-is-slower-than-col-2-in-pand_b7476eb35b.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -40532,6 +40686,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_shridhar_shah2297_do_ai_agents_need_to_sleep_i_built_0fb0c37312",
+      "label": "dev_to_shridhar_shah2297_do-ai-agents-need-to-sleep-i-built-_0fb0c37312.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_shridhar_shah2297_do-ai-agents-need-to-sleep-i-built-_0fb0c37312.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_shridhar_shah2297_do_ai_agents_need_to_sleep_i_built_0fb0c37312_do_ai_agents_need_to_sleep_i_built_one_that_does",
+      "label": "Do AI Agents Need to Sleep? I Built One That Does",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_shridhar_shah2297_do-ai-agents-need-to-sleep-i-built-_0fb0c37312.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_shridhar_shah2297_i_built_an_ai_agent_that_gets_curio_743a9929c4",
       "label": "dev_to_shridhar_shah2297_i-built-an-ai-agent-that-gets-curio_743a9929c4.md",
       "file_type": "document",
@@ -44308,6 +44478,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_thryvate_what_changes_when_an_ai_agent_can_publish_to_f55526815d",
+      "label": "dev_to_thryvate_what-changes-when-an-ai-agent-can-publish-to_f55526815d.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_thryvate_what-changes-when-an-ai-agent-can-publish-to_f55526815d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_thryvate_what_changes_when_an_ai_agent_can_publish_to_f55526815d_what_changes_when_an_ai_agent_can_publish_to_the_public_web",
+      "label": "What changes when an AI agent can publish to the public web",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_thryvate_what-changes-when-an-ai-agent-can-publish-to_f55526815d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_tiagofur_im_building_devdeck_an_open_source_developer_655c7b2a3a",
       "label": "dev_to_tiagofur_im-building-devdeck-an-open-source-developer_655c7b2a3a.md",
       "file_type": "document",
@@ -44656,6 +44842,22 @@
       "label": "The Trie Treasure Hunt: Building Autocomplete Like a Jedi",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_timevolt_the-trie-treasure-hunt-building-autocomplete_327faa58d2.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_timon_krebs_c89f82a68ba4c_the_codebase_is_the_prompt_ef31a2abdd",
+      "label": "dev_to_timon_krebs_c89f82a68ba4c_the-codebase-is-the-prompt-_ef31a2abdd.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_timon_krebs_c89f82a68ba4c_the-codebase-is-the-prompt-_ef31a2abdd.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_timon_krebs_c89f82a68ba4c_the_codebase_is_the_prompt_ef31a2abdd_the_codebase_is_the_prompt",
+      "label": "The Codebase Is the Prompt",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_timon_krebs_c89f82a68ba4c_the-codebase-is-the-prompt-_ef31a2abdd.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -47092,6 +47294,22 @@
       "_origin": "ast"
     },
     {
+      "id": "devto_dev_to_wesellistools_i_parsed_steams_binary_shortcutsvdf_wit_2b036d04e8",
+      "label": "dev_to_wesellistools_i-parsed-steams-binary-shortcutsvdf-wit_2b036d04e8.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_wesellistools_i-parsed-steams-binary-shortcutsvdf-wit_2b036d04e8.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_wesellistools_i_parsed_steams_binary_shortcutsvdf_wit_2b036d04e8_i_parsed_steam_s_binary_shortcuts_vdf_with_zero_dependencies",
+      "label": "I parsed Steam's binary shortcuts.vdf with zero dependencies",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_wesellistools_i-parsed-steams-binary-shortcutsvdf-wit_2b036d04e8.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "devto_dev_to_whatsonyourmind_traces_show_what_your_agent_did_a_dec_e172184bee",
       "label": "dev_to_whatsonyourmind_traces-show-what-your-agent-did-a-dec_e172184bee.md",
       "file_type": "document",
@@ -48368,6 +48586,22 @@
       "label": "432 Hz",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_zxce3_432-hz-434k_68d6bec90e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_zxpmail_dont_compress_promote_76j_18f9253139",
+      "label": "dev_to_zxpmail_dont-compress-promote-76j_18f9253139.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_zxpmail_dont-compress-promote-76j_18f9253139.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "devto_dev_to_zxpmail_dont_compress_promote_76j_18f9253139_don_t_compress_promote",
+      "label": "Don't Compress, Promote",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_zxpmail_dont-compress-promote-76j_18f9253139.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -76044,6 +76278,22 @@
       "_origin": "ast"
     },
     {
+      "id": "hackernews_github_com_jflitton_daynaport_scsilink_linux_driver_8504a8142e",
+      "label": "github_com_jflitton_daynaport-scsilink-linux-driver_8504a8142e.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_jflitton_daynaport-scsilink-linux-driver_8504a8142e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_jflitton_daynaport_scsilink_linux_driver_8504a8142e_daynaport_scsi_link_linux_driver",
+      "label": "DaynaPORT SCSI/Link Linux Driver",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_jflitton_daynaport-scsilink-linux-driver_8504a8142e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "hackernews_github_com_jmaczan_tiny_vllm_8fc8467049",
       "label": "github_com_jmaczan_tiny-vllm_8fc8467049.md",
       "file_type": "document",
@@ -77176,6 +77426,22 @@
       "label": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
       "file_type": "document",
       "source_file": "corpus/hackernews/github_com_viggy28_streambed_fd0d0465e9.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_vshakitskiy_armadillo_26a7ea5055",
+      "label": "github_com_vshakitskiy_armadillo_26a7ea5055.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_vshakitskiy_armadillo_26a7ea5055.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_github_com_vshakitskiy_armadillo_26a7ea5055_armadillo_a_dns_server_in_gleam_for_homelab_use",
+      "label": "Armadillo – A DNS Server in Gleam for Homelab Use",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_vshakitskiy_armadillo_26a7ea5055.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -81448,6 +81714,22 @@
       "label": "GPT-2: Too Dangerous To Release (2019)",
       "file_type": "document",
       "source_file": "corpus/hackernews/naokishibuya_github_io_blog_2022-12-30-gpt-2-2019_fd1dd835f7.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_napkins_mtmn_name_posts_stray_jay_html_14eb254d52",
+      "label": "napkins_mtmn_name_posts_stray-jay_html_14eb254d52.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/napkins_mtmn_name_posts_stray-jay_html_14eb254d52.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_napkins_mtmn_name_posts_stray_jay_html_14eb254d52_a_stray_j_ruined_my_evening",
+      "label": "A stray \"j\" ruined my evening",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/napkins_mtmn_name_posts_stray-jay_html_14eb254d52.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -87816,6 +88098,22 @@
       "label": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
       "file_type": "document",
       "source_file": "corpus/hackernews/twitter_com_mfts0_status_2070080422482977095_c404ea6013.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_typographica_org_on_typography_jim_parkinson_1941_2025_5d9f2b82c9",
+      "label": "typographica_org_on-typography_jim-parkinson-1941-2025_5d9f2b82c9.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/typographica_org_on-typography_jim-parkinson-1941-2025_5d9f2b82c9.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "hackernews_typographica_org_on_typography_jim_parkinson_1941_2025_5d9f2b82c9_from_hallmark_to_neon_signs_a_look_at_jim_parkinson_s_career_in_letter_art",
+      "label": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/typographica_org_on-typography_jim-parkinson-1941-2025_5d9f2b82c9.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -113036,6 +113334,22 @@
       "_origin": "ast"
     },
     {
+      "id": "sales_www_saastr_com_watching_an_ai_native_crm_run_the_full_gtm_lo_b876daac56",
+      "label": "www_saastr_com_watching-an-ai-native-crm-run-the-full-gtm-lo_b876daac56.md",
+      "file_type": "document",
+      "source_file": "corpus/sales/www_saastr_com_watching-an-ai-native-crm-run-the-full-gtm-lo_b876daac56.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "sales_www_saastr_com_watching_an_ai_native_crm_run_the_full_gtm_lo_b876daac56_saastr_one_stalled_deal_one_automation_10_new_prospects_lightfield_ceo_keith_peiris_demos_the_ai_native_gtm_loop_live",
+      "label": "[saastr] One Stalled Deal, One Automation, 10 New Prospects: Lightfield CEO Keith Peiris Demos the AI-Native GTM Loop Live",
+      "file_type": "document",
+      "source_file": "corpus/sales/www_saastr_com_watching-an-ai-native-crm-run-the-full-gtm-lo_b876daac56.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "sales_www_saastr_com_we_added_too_many_guardrails_and_broke_our_ow_44e0d19f0e",
       "label": "www_saastr_com_we-added-too-many-guardrails-and-broke-our-ow_44e0d19f0e.md",
       "file_type": "document",
@@ -134850,7 +135164,7 @@
     },
     {
       "source": "core_graphify_writer_dedup_path",
-      "target": "path",
+      "target": "core_graphify_writer_py_path",
       "relation": "references",
       "context": "return_type",
       "confidence": "EXTRACTED",
@@ -134869,7 +135183,7 @@
     },
     {
       "source": "core_graphify_writer_save",
-      "target": "path",
+      "target": "core_graphify_writer_py_path",
       "relation": "references",
       "context": "return_type",
       "confidence": "EXTRACTED",
@@ -135405,7 +135719,7 @@
     },
     {
       "source": "scripts_export_to_claude_memory_parse_md",
-      "target": "path",
+      "target": "scripts_export_to_claude_memory_py_path",
       "relation": "references",
       "context": "parameter_type",
       "confidence": "EXTRACTED",
@@ -139924,6 +140238,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_adelan_why_my_polymarket_bot_watches_chainlink_not_bi_1f3aa8622d",
+      "target": "devto_dev_to_adelan_why_my_polymarket_bot_watches_chainlink_not_bi_1f3aa8622d_why_my_polymarket_bot_watches_chainlink_not_binance_the_oracle_gap_that_changes_every_close_trade",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_adelan_why-my-polymarket-bot-watches-chainlink-not-bi_1f3aa8622d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_adeolu102_engineering_design_document_reusable_observ_f0fe3b0a13",
       "target": "devto_dev_to_adeolu102_engineering_design_document_reusable_observ_f0fe3b0a13_engineering_design_document_reusable_observability_platform_v2",
       "relation": "contains",
@@ -140199,6 +140522,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_ahmadfarazcrypto_how-to-replace-a-page-in-a-pdf-progr_44296524e9.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_ahmed_mahmoud360_building_ai_native_frontends_with_cl_09192c556f",
+      "target": "devto_dev_to_ahmed_mahmoud360_building_ai_native_frontends_with_cl_09192c556f_building_ai_native_frontends_with_claude_code_and_mcp",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_ahmed_mahmoud360_building-ai-native-frontends-with-cl_09192c556f.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -140883,6 +141215,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_andreykorchak_i-built-a-cli-to-break-my-highlights-ou_77f2d389d9.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_androve2k_custom_e_commerce_on_firebase_catalog_atomi_3631e992ea",
+      "target": "devto_dev_to_androve2k_custom_e_commerce_on_firebase_catalog_atomi_3631e992ea_custom_e_commerce_on_firebase_catalog_atomic_orders_and_admin_panel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_androve2k_custom-e-commerce-on-firebase-catalog-atomi_3631e992ea.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -144811,6 +145152,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_devengers_why_every_software_engineer_should_read_the_96e532baa1",
+      "target": "devto_dev_to_devengers_why_every_software_engineer_should_read_the_96e532baa1_why_every_software_engineer_should_read_the_psychology_of_money",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_devengers_why-every-software-engineer-should-read-the_96e532baa1.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_deviduttadas3_from_vibe_coding_to_agentic_engineering_2b76738955",
       "target": "devto_dev_to_deviduttadas3_from_vibe_coding_to_agentic_engineering_2b76738955_from_vibe_coding_to_agentic_engineering_why_judgment_is_the_last_competitive_advantage",
       "relation": "contains",
@@ -146701,6 +147051,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_freerave_building_dotscramble_part_2_ed25519_license_d84a979ab5",
+      "target": "devto_dev_to_freerave_building_dotscramble_part_2_ed25519_license_d84a979ab5_building_dotscramble_part_2_ed25519_license_signing_machine_fingerprinting_and_a_7_day_offline_grace_period",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_freerave_building-dotscramble-part-2-ed25519-license-_d84a979ab5.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_freezebrain_i_let_an_ai_agent_interview_me_then_it_wr_03495f6662",
       "target": "devto_dev_to_freezebrain_i_let_an_ai_agent_interview_me_then_it_wr_03495f6662_i_let_hermes_agent_interview_me_then_it_wrote_a_file_that_describes_how_i_think",
       "relation": "contains",
@@ -147921,6 +148280,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_hamza_sabri1_how-to-calculate-a-freelance-hourly-rate_73cdd4fd7a.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_hanasite_pal_giving_ai_agents_hands_in_the_physical_w_e567cdb933",
+      "target": "devto_dev_to_hanasite_pal_giving_ai_agents_hands_in_the_physical_w_e567cdb933_pal_giving_ai_agents_hands_in_the_physical_world",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_hanasite_pal-giving-ai-agents-hands-in-the-physical-w_e567cdb933.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -149235,6 +149603,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_jamie_davenport_why-were-building-a-github-alternativ_b2bbc60dd1.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_jamiepark_design_building_a_zero_dependency_barcode_s_b67899612c",
+      "target": "devto_dev_to_jamiepark_design_building_a_zero_dependency_barcode_s_b67899612c_building_a_zero_dependency_barcode_scanner_with_the_web_barcode_detection_api",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_jamiepark-design_building-a-zero-dependency-barcode-s_b67899612c.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -155098,11 +155475,29 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_pascal_cescato_692b7a8a20_1_15n0_1e567885a3",
+      "target": "devto_dev_to_pascal_cescato_692b7a8a20_1_15n0_1e567885a3_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_pascal_cescato_692b7a8a20_1-15n0_1e567885a3.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_pascal_cescato_692b7a8a20_too_cheap_to_be_good_think_636352958f",
       "target": "devto_dev_to_pascal_cescato_692b7a8a20_too_cheap_to_be_good_think_636352958f_too_cheap_to_be_good_think_again",
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_pascal_cescato_692b7a8a20_too-cheap-to-be-good-think-_636352958f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_patrickryankenneth_why_2_is_slower_than_col_2_in_pand_b7476eb35b",
+      "target": "devto_dev_to_patrickryankenneth_why_2_is_slower_than_col_2_in_pand_b7476eb35b_why_2_is_slower_than_col_2_in_pandas_and_what_strace_shows_about_abstraction_cost",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_patrickryankenneth_why-2-is-slower-than-col-2-in-pand_b7476eb35b.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -157843,6 +158238,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_shridhar_shah2297_do_ai_agents_need_to_sleep_i_built_0fb0c37312",
+      "target": "devto_dev_to_shridhar_shah2297_do_ai_agents_need_to_sleep_i_built_0fb0c37312_do_ai_agents_need_to_sleep_i_built_one_that_does",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_shridhar_shah2297_do-ai-agents-need-to-sleep-i-built-_0fb0c37312.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_shridhar_shah2297_i_built_an_ai_agent_that_gets_curio_743a9929c4",
       "target": "devto_dev_to_shridhar_shah2297_i_built_an_ai_agent_that_gets_curio_743a9929c4_i_built_an_ai_agent_that_gets_curious_on_its_own",
       "relation": "contains",
@@ -159967,6 +160371,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_thryvate_what_changes_when_an_ai_agent_can_publish_to_f55526815d",
+      "target": "devto_dev_to_thryvate_what_changes_when_an_ai_agent_can_publish_to_f55526815d_what_changes_when_an_ai_agent_can_publish_to_the_public_web",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_thryvate_what-changes-when-an-ai-agent-can-publish-to_f55526815d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_tiagofur_im_building_devdeck_an_open_source_developer_655c7b2a3a",
       "target": "devto_dev_to_tiagofur_im_building_devdeck_an_open_source_developer_655c7b2a3a_i_m_building_devdeck_an_open_source_developer_memory_app_for_tools_snippets_prompts_and_shared_knowledge",
       "relation": "contains",
@@ -160161,6 +160574,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_timevolt_the-trie-treasure-hunt-building-autocomplete_327faa58d2.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_timon_krebs_c89f82a68ba4c_the_codebase_is_the_prompt_ef31a2abdd",
+      "target": "devto_dev_to_timon_krebs_c89f82a68ba4c_the_codebase_is_the_prompt_ef31a2abdd_the_codebase_is_the_prompt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_timon_krebs_c89f82a68ba4c_the-codebase-is-the-prompt-_ef31a2abdd.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -161533,6 +161955,15 @@
       "weight": 1.0
     },
     {
+      "source": "devto_dev_to_wesellistools_i_parsed_steams_binary_shortcutsvdf_wit_2b036d04e8",
+      "target": "devto_dev_to_wesellistools_i_parsed_steams_binary_shortcutsvdf_wit_2b036d04e8_i_parsed_steam_s_binary_shortcuts_vdf_with_zero_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_wesellistools_i-parsed-steams-binary-shortcutsvdf-wit_2b036d04e8.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "devto_dev_to_whatsonyourmind_traces_show_what_your_agent_did_a_dec_e172184bee",
       "target": "devto_dev_to_whatsonyourmind_traces_show_what_your_agent_did_a_dec_e172184bee_traces_show_what_your_agent_did_a_decision_ledger_shows_what_it_was_allowed_to_do",
       "relation": "contains",
@@ -162249,6 +162680,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_zxce3_432-hz-434k_68d6bec90e.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "devto_dev_to_zxpmail_dont_compress_promote_76j_18f9253139",
+      "target": "devto_dev_to_zxpmail_dont_compress_promote_76j_18f9253139_don_t_compress_promote",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_zxpmail_dont-compress-promote-76j_18f9253139.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -183466,6 +183906,15 @@
       "weight": 1.0
     },
     {
+      "source": "hackernews_github_com_jflitton_daynaport_scsilink_linux_driver_8504a8142e",
+      "target": "hackernews_github_com_jflitton_daynaport_scsilink_linux_driver_8504a8142e_daynaport_scsi_link_linux_driver",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_jflitton_daynaport-scsilink-linux-driver_8504a8142e.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "hackernews_github_com_jmaczan_tiny_vllm_8fc8467049",
       "target": "hackernews_github_com_jmaczan_tiny_vllm_8fc8467049_show_hn_tiny_vllm_high_performance_llm_inference_engine_in_c_and_cuda",
       "relation": "contains",
@@ -184101,6 +184550,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/github_com_viggy28_streambed_fd0d0465e9.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_github_com_vshakitskiy_armadillo_26a7ea5055",
+      "target": "hackernews_github_com_vshakitskiy_armadillo_26a7ea5055_armadillo_a_dns_server_in_gleam_for_homelab_use",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_vshakitskiy_armadillo_26a7ea5055.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -186504,6 +186962,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/naokishibuya_github_io_blog_2022-12-30-gpt-2-2019_fd1dd835f7.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_napkins_mtmn_name_posts_stray_jay_html_14eb254d52",
+      "target": "hackernews_napkins_mtmn_name_posts_stray_jay_html_14eb254d52_a_stray_j_ruined_my_evening",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/napkins_mtmn_name_posts_stray-jay_html_14eb254d52.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -190095,6 +190562,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/twitter_com_mfts0_status_2070080422482977095_c404ea6013.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "hackernews_typographica_org_on_typography_jim_parkinson_1941_2025_5d9f2b82c9",
+      "target": "hackernews_typographica_org_on_typography_jim_parkinson_1941_2025_5d9f2b82c9_from_hallmark_to_neon_signs_a_look_at_jim_parkinson_s_career_in_letter_art",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/typographica_org_on-typography_jim-parkinson-1941-2025_5d9f2b82c9.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -204630,6 +205106,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/sales/www_saastr_com_vcs-are-diversified-yes-but-that-also-means-t_d57c6e7def.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "sales_www_saastr_com_watching_an_ai_native_crm_run_the_full_gtm_lo_b876daac56",
+      "target": "sales_www_saastr_com_watching_an_ai_native_crm_run_the_full_gtm_lo_b876daac56_saastr_one_stalled_deal_one_automation_10_new_prospects_lightfield_ceo_keith_peiris_demos_the_ai_native_gtm_loop_live",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sales/www_saastr_com_watching-an-ai-native-crm-run-the-full-gtm-lo_b876daac56.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -223242,17 +223727,6 @@
       "confidence": "EXTRACTED",
       "source_file": "corpus/learn-archived/pattern_c6bc009c4524.md",
       "source_location": "L9",
-      "weight": 1.0
-    },
-    {
-      "source": "knowledge_agents_query_stats",
-      "target": "path",
-      "relation": "calls",
-      "context": "call",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "query.py",
-      "source_location": "L43",
       "weight": 1.0
     },
     {
