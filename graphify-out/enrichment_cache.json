@@ -157124,5 +157124,678 @@
       "radio ()` mixin exported"
     ],
     "summary": "- Added top-level component exports for headless primitives and styled components. BREAKING CHANGE: Removed root helper exports that were only intended for first-party component internals: - Added styled component subpath exports under `@remix-run/ui/*` for accordion, breadcrumbs, checkbox, combobox, menu, and select."
+  },
+  "a431ccb7a96537f6": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_01_supreme-court-decides-not-to-des_90f642ea85.md",
+    "source": "legal",
+    "title": "[techdirt] Supreme Court Decides Not To Destroy The First Amendment Just Yet",
+    "url": "https://www.techdirt.com/2026/07/01/supreme-court-decides-not-to-destroy-the-first-amendment-just-yet/",
+    "keywords": [
+      "supreme court thankfully decided",
+      "39z supreme court decides",
+      "supreme court decides",
+      "supreme court decides",
+      "supreme court end",
+      "two decisions",
+      "term decisions",
+      "decisions continue",
+      "also call",
+      "&# 8217"
+    ],
+    "summary": "# [techdirt] Supreme Court Decides Not To Destroy The First Amendment Just Yet While we&#8217;ve been discussing a bunch of other Supreme Court end-of-term decisions this week, we should also call out two decisions the Supreme Court thankfully decided not to make. First, and most importantly, they rejected Alan Dershowitz&#8217;s attempt to appeal his laughably embarrassing SLAPP suit [&#8230;]"
+  },
+  "0e525c8d0c95d1a3": {
+    "file": "corpus/hackernews/thisismodest_com_vimscoops_53c40e4185.md",
+    "source": "hackernews",
+    "title": "Learn Vim motions with an ice-cream van",
+    "url": "https://thisismodest.com/vimscoops/",
+    "keywords": [
+      "learn vim motions",
+      "learn vim motions",
+      "cream van",
+      "cream van",
+      "46z score",
+      "source",
+      "news",
+      "ice",
+      "ice",
+      "hackernews"
+    ],
+    "summary": "# Learn Vim motions with an ice-cream van > Source: hackernews | Category: news | 2026-07-01T20:56:46Z Score: 10 | Comments: 1"
+  },
+  "ef7cb9c0796508f4": {
+    "file": "corpus/hackernews/github_com_Division-36_Z-Jail_2bc7b36bc9.md",
+    "source": "hackernews",
+    "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+    "url": "https://github.com/Division-36/Z-Jail/",
+    "keywords": [
+      "130 kb linux sandbox",
+      "130 kb linux sandbox",
+      "7 defense layers",
+      "7 defense layers",
+      "zero deps",
+      "zero deps",
+      "show hn",
+      "show hn",
+      "jail –",
+      "jail –"
+    ],
+    "summary": "# Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps > Source: hackernews | Category: news | 2026-07-01T20:56:41Z Score: 13 | Comments: 10"
+  },
+  "4a859cb3efac1e4b": {
+    "file": "corpus/hackernews/www_windtowatt_com_index-en_html_56739dd2f7.md",
+    "source": "hackernews",
+    "title": "One KW wind turbine without civil engineering",
+    "url": "https://www.windtowatt.com/index-en.html",
+    "keywords": [
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# One KW wind turbine without civil engineering > Source: hackernews | Category: news | 2026-07-01T20:56:40Z Score: 7 | Comments: 1"
+  },
+  "ec69869a74d95fbe": {
+    "file": "corpus/hackernews/github_com_openai_codex_issues_30364_3509861ced.md",
+    "source": "hackernews",
+    "title": "Codex reasoning-token clustering at 516 may be leading to degraded performance",
+    "url": "https://github.com/openai/codex/issues/30364",
+    "keywords": [
+      "token clustering",
+      "token clustering",
+      "degraded performance",
+      "degraded performance",
+      "codex reasoning",
+      "codex reasoning",
+      "516 may",
+      "516 may",
+      "47z score",
+      "source"
+    ],
+    "summary": "# Codex reasoning-token clustering at 516 may be leading to degraded performance > Source: hackernews | Category: news | 2026-07-01T20:56:47Z Score: 7 | Comments: 0"
+  },
+  "c66d249642d052e4": {
+    "file": "corpus/hackernews/internals-for-interns_com_posts_linux-kernel-scheduler_6652b7bd92.md",
+    "source": "hackernews",
+    "title": "Understanding the Linux Kernel: The Scheduler",
+    "url": "https://internals-for-interns.com/posts/linux-kernel-scheduler/",
+    "keywords": [
+      "linux kernel",
+      "linux kernel",
+      "46z score",
+      "understanding",
+      "understanding",
+      "source",
+      "scheduler",
+      "scheduler",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Understanding the Linux Kernel: The Scheduler > Source: hackernews | Category: news | 2026-07-01T20:56:46Z Score: 20 | Comments: 7"
+  },
+  "3747d8f843d24c72": {
+    "file": "corpus/hackernews/www_duration_ai_blog_generating-images-with-a-2025-android_6fbef2f91e.md",
+    "source": "hackernews",
+    "title": "Generating Images with a 2025 Android",
+    "url": "https://www.duration.ai/blog/generating-images-with-a-2025-android",
+    "keywords": [
+      "generating images",
+      "generating images",
+      "43z score",
+      "2025 android",
+      "2025 android",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Generating Images with a 2025 Android > Source: hackernews | Category: news | 2026-07-01T20:56:43Z Score: 6 | Comments: 0"
+  },
+  "78531003a8d389a8": {
+    "file": "corpus/hackernews/support_claude_com_en_articles_15424964-claude-fable-5-promo_3dea1e9a28.md",
+    "source": "hackernews",
+    "title": "Claude Fable 5 Promotional Access",
+    "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "keywords": [
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Claude Fable 5 Promotional Access > Source: hackernews | Category: news | 2026-07-01T20:56:41Z Score: 68 | Comments: 42"
+  },
+  "1e3dc9a7251776d9": {
+    "file": "corpus/hackernews/anatoliybabushka_com_blog_when-to-rewrite-working-code_html_ccd4fcf66f.md",
+    "source": "hackernews",
+    "title": "Most rewrites serve the engineer, not the business",
+    "url": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
+    "keywords": [
+      "rewrites serve",
+      "rewrites serve",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "engineer",
+      "engineer",
+      "comments",
+      "category"
+    ],
+    "summary": "# Most rewrites serve the engineer, not the business > Source: hackernews | Category: news | 2026-07-01T20:56:43Z Score: 12 | Comments: 9"
+  },
+  "cec7c8604f8e178d": {
+    "file": "corpus/hackernews/twitter_com_claudeai_status_2072402636813607381_69e21e0ef4.md",
+    "source": "hackernews",
+    "title": "Fable 5 Is Back",
+    "url": "https://twitter.com/claudeai/status/2072402636813607381",
+    "keywords": [
+      "fable 5",
+      "fable 5",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "back",
+      "back"
+    ],
+    "summary": "# Fable 5 Is Back > Source: hackernews | Category: news | 2026-07-01T20:56:41Z Score: 156 | Comments: 115"
+  },
+  "416e28ce15b5ae5c": {
+    "file": "corpus/hackernews/zcode_z_ai_cn_5874a06271.md",
+    "source": "hackernews",
+    "title": "ZCode: Claude Code from the Makers of GLM",
+    "url": "https://zcode.z.ai/cn",
+    "keywords": [
+      "claude code",
+      "claude code",
+      "39z score",
+      "zcode",
+      "zcode",
+      "source",
+      "news",
+      "makers",
+      "makers",
+      "hackernews"
+    ],
+    "summary": "# ZCode: Claude Code from the Makers of GLM > Source: hackernews | Category: news | 2026-07-01T20:56:39Z Score: 181 | Comments: 75"
+  },
+  "6670322bec36d625": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_secure-internal-communication-between-s_e18d951b4c.md",
+    "source": "vercel-blog",
+    "title": "Secure internal communication between services",
+    "url": "https://vercel.com/changelog/secure-internal-communication-between-services",
+    "keywords": [
+      "54z secure internal communication",
+      "secure internal communication",
+      "secure internal communication",
+      "vercel",
+      "source",
+      "services",
+      "services",
+      "services",
+      "news",
+      "category"
+    ],
+    "summary": "# Secure internal communication between services > Source: vercel-blog | Category: news | 2026-07-01T20:56:54Z Secure internal communication between services"
+  },
+  "4d473f36b37c589b": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_enforce-consistent-code-for-agents-and-_0382f79f25.md",
+    "source": "vercel-blog",
+    "title": "Enforce consistent code for agents and humans with konsistent",
+    "url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+    "keywords": [
+      "54z enforce consistent code",
+      "enforce consistent code",
+      "enforce consistent code",
+      "vercel",
+      "source",
+      "news",
+      "konsistent",
+      "konsistent",
+      "konsistent",
+      "humans"
+    ],
+    "summary": "# Enforce consistent code for agents and humans with konsistent > Source: vercel-blog | Category: news | 2026-07-01T20:56:54Z Enforce consistent code for agents and humans with konsistent"
+  },
+  "e4ca75ce84ba75b1": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_claude-fable-5-access-restored-on-ai-ga_dd1d6a3251.md",
+    "source": "vercel-blog",
+    "title": "Claude Fable 5 access restored on AI Gateway",
+    "url": "https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway",
+    "keywords": [
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "2026"
+    ],
+    "summary": "# Claude Fable 5 access restored on AI Gateway > Source: vercel-blog | Category: news | 2026-07-01T20:56:54Z Claude Fable 5 access restored on AI Gateway"
+  },
+  "5ea7a94a0d541f5f": {
+    "file": "corpus/devto/dev_to_penloom_studio_829b7817d3_five-tool-calling-patterns-_a1b6e68975.md",
+    "source": "devto",
+    "title": "Five tool-calling patterns that separate hobby AI agents from production ones",
+    "url": "https://dev.to/penloom_studio_829b7817d3/five-tool-calling-patterns-that-separate-hobby-ai-agents-from-production-ones-6jc",
+    "keywords": [
+      "separate hobby ai agents",
+      "separate hobby ai agents",
+      "produce unexpected results",
+      "tool calls fail",
+      "five tool",
+      "five tool",
+      "five patterns",
+      "calling patterns",
+      "calling patterns",
+      "production ones"
+    ],
+    "summary": "# Five tool-calling patterns that separate hobby AI agents from production ones Most tutorials show you how to define a tool. None of them show you what to do when tool calls fail, loop, or produce unexpected results."
+  },
+  "38ef735d056b5544": {
+    "file": "corpus/devto/dev_to_bismay-exe_day-5-of-learning-react-understanding-auto_c06385302c.md",
+    "source": "devto",
+    "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+    "url": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
+    "keywords": [
+      "🚀 day 5",
+      "🚀 day 5",
+      "understanding automatic batching",
+      "understanding automatic batching",
+      "react hooks",
+      "react ...",
+      "learning react",
+      "learning react",
+      "functional updates",
+      "functional updates"
+    ],
+    "summary": "# 🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates > Source: devto | Category: news | 2026-07-01T20:56:52Z I explored what React Hooks are, why useState() returns two values, how React..."
+  },
+  "b6262e1221a60352": {
+    "file": "corpus/devto/dev_to_lovestaco_your-ai-isnt-racist-it-just-read-a-lot-of-b_f139ee5f40.md",
+    "source": "devto",
+    "title": "Your AI Isn't Racist, It Just Read a Lot of Bad History",
+    "url": "https://dev.to/lovestaco/your-ai-isnt-racist-it-just-read-a-lot-of-bad-history-4l5b",
+    "keywords": [
+      "micro ai code reviewer",
+      "every commit",
+      "building git",
+      "bad history",
+      "bad history",
+      "48z hello",
+      "source",
+      "runs"
+    ],
+    "summary": "# Your AI Isn't Racist, It Just Read a Lot of Bad History > Source: devto | Category: news | 2026-07-01T20:56:48Z I'm building git-lrc, a Micro AI code reviewer that runs on every commit."
+  },
+  "0381f0527d19f44b": {
+    "file": "corpus/devto/dev_to_stinklewinks_why-juice-generates-css-instead-of-ownin_bb04ffcc17.md",
+    "source": "devto",
+    "title": "Why Juice Generates CSS Instead of Owning It",
+    "url": "https://dev.to/stinklewinks/why-juice-generates-css-instead-of-owning-it-gk",
+    "keywords": [
+      "49z one design goal",
+      "juice generates css instead",
+      "juice generates css instead",
+      "replace css",
+      "css ...",
+      "juice",
+      "try",
+      "source"
+    ],
+    "summary": "# Why Juice Generates CSS Instead of Owning It > Source: devto | Category: news | 2026-07-01T20:56:49Z One design goal I’ve had for Juice from the beginning is that it shouldn’t try to replace CSS."
+  },
+  "bfbc0360a6fb4aa2": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752751_5bc7c63837.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752751",
+    "keywords": [
+      "read every resume sent",
+      "health &# x2f ;</",
+      "precision healthcare .< p",
+      "com &# x2f",
+      "com &# x2f",
+      "roles across disciplines",
+      "reactive sick care",
+      "july 2026 ))",
+      "july 2026 ))",
+      ">< p"
+    ],
+    "summary": "# HN Hiring (Ask HN: Who is hiring? > Source: hn-hiring | Category: job-skills | 2026-07-01T20:57:33Z Atria | Global Remote (almost anywhere) &amp; Hybrid NYC | 11 Engineering roles Atria Health (<a href=\"https:&#x2F;&#x2F;www.atria.org\" rel=\"nofollow\">https:&#x2F;&#x2F;www.atria.org</a>) is doubling the size of our Engineering team with roles across disciplines (product eng, devops eng, platform eng, ...)<p>Our team is operating with the special combination of rigor, empathy, and innovation req"
+  },
+  "ca76844157b5a185": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48751913_22d4bb416b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48751913",
+    "keywords": [
+      "carefully review every application",
+      "startup perks done right",
+      "• comfortable owning 0",
+      "built something worth staying",
+      "1 consumer products end",
+      "exceptional consumer product engineers",
+      "build net new products",
+      "new consumer products",
+      "someone truly exceptional",
+      "reasonable timezone overlap"
+    ],
+    "summary": "People stay because the work is good, the people are sharp, and we&#x27;ve built something worth staying for.<p>Now we&#x27;re building net-new consumer products from zero, and we&#x27;re looking for people who love to tinker and build stuff to ship them with us.<p>The kind of person we&#x27;re looking for: • Top fraction of a percentile in craft, the kind of good that&#x27;s hard to fake • Builds for fun, not just for work. The kind who ships a working prototype over the weekend and can&#x27;t "
+  },
+  "dd78f3acf8e3229a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752617_870ba9d6c2.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752617",
+    "keywords": [
+      "disappear across social platforms",
+      "private data broker platforms",
+      "threat model .< p",
+      "agentic internet .< p",
+      "search surface personal data",
+      "hn profile .< p",
+      "customers .< p",
+      "risk sources appear",
+      "reduce risk based",
+      "code generation ),"
+    ],
+    "summary": "Kanary | Full Stack Engineer | Remote (US) | Competitive Salary + Equity + Benefits | Python &#x2F; React<p>Kanary is a personal security platform that monitors the web to identify and reduce risk based on an individual&#x27;s threat model.<p>We&#x27;ve been building since 2020, started in campaign security and data science, backed by Mozilla and Y Combinator. We’re looking for engineers with web scraping, data pipelines, or security tooling experience. Must be authorized to work in the US.<p>Em"
+  },
+  "c06738ef445962c8": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48751937_f8447bcb8a.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48751937",
+    "keywords": [
+      "engineering manager ($ 205k",
+      "infrastructure ($ 148k –",
+      "series b ).< p",
+      "open roles :< p",
+      ">< p >( senior",
+      "scale .< p",
+      "2x &# x2f",
+      "2x &# x2f",
+      "2x &# x2f",
+      "2x &# x2f"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-07-01T20:57:35Z Middesk | Full-time | NYC &#x2F; SF | Hybrid | middesk.com<p>At Middesk, we&#x27;re building the business identity infrastructure that banks, fintechs, and platforms rely on to know who they&#x27;re doing business with — powering KYB (Know Your Business) compliance, fraud prevention, and entity verification at scale.<p>We&#x27;re expanding beyond verification into a full agentic compliance platform — orchestrators and specialist a"
+  },
+  "588fde5859a0e5d1": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752134_8d1703174e.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752134",
+    "keywords": [
+      "build something customers love",
+      "go higher )< p",
+      "saltstack .< p",
+      "promise interesting work",
+      "collaborative management platform",
+      "cloud native ecosystem",
+      "80k -$ 110k",
+      "51m series c",
+      "technical blog posts",
+      "jobs &# x2f"
+    ],
+    "summary": "Spacelift | Remote (Europe) | Full-time | Senior Software Engineer | $80k-$110k+ (can go higher)<p>We&#x27;re a VC-funded startup (recently raised $51M Series C) building an infrastructure orchestrator and collaborative management platform for Infrastructure-as-Code – from OpenTofu, Terraform, Terragrunt, CloudFormation, Pulumi, Kubernetes, to Ansible.<p>On the backend we&#x27;re using 100% Go with AWS primitives. We&#x27;re looking for backend developers who like doing DevOps&#x27;y stuff somet"
+  },
+  "8898db62e3e8128c": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752640_9d054d471c.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752640",
+    "keywords": [
+      "p >- product manager",
+      "physical ai .< p",
+      "dev &# x2f ;</",
+      "profile .< p ><",
+      "dev &# x2f",
+      "dev &# x2f",
+      "required .< p",
+      "leading data infrastructure",
+      "july 2026 ))",
+      "july 2026 ))"
+    ],
+    "summary": "# HN Hiring (Ask HN: Who is hiring? > Source: hn-hiring | Category: job-skills | 2026-07-01T20:57:33Z Foxglove | Onsite (San Francisco) + Remote | Full Time | <a href=\"https:&#x2F;&#x2F;foxglove.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;foxglove.dev&#x2F;</a><p>Foxglove is the leading data infrastructure &amp; observability platform for robotics &amp; physical AI.<p>Prior experience in the autonomous vehicle or robotics industry is a bonus, but not required.<p>Many open roles:<p>- Design Engin"
+  },
+  "a0700bfb6cb59ca2": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752047_235ec95cc5.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752047",
+    "keywords": [
+      "£ 50 billion worth",
+      "8 million registered users",
+      "ideal tenant .< p",
+      "admin fees .< p",
+      "without ever charging",
+      "solving every aspect",
+      "help tenants find",
+      "july 2026 ))",
+      "july 2026 ))",
+      "biggest uk websites"
+    ],
+    "summary": "Come and fix it.<p>OpenRent is force for good in an industry tarnished by rip-off agencies and one of the biggest UK websites by traffic. Enabled by an unrelenting focus on technology, we let more properties than any agency in the UK. In the last 12m we let over £50 billion worth of property, to over 8 million registered users, without ever charging any admin fees.<p>You&#x27;ll be working on solving every aspect of the rental journey, from models to predict the right price of a property, to bui"
+  },
+  "9af600fc97b020c6": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752812_70bd11571c.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752812",
+    "keywords": [
+      "asm ), code scanner",
+      "bleeding edge security tooling",
+      "exciting projects .< p",
+      "engineering team .< p",
+      "including security alerting",
+      "turns technical capabilities",
+      "thought leadership content",
+      "sales enablement arsenal",
+      "one cybersecurity startup",
+      "one cybersecurity agent"
+    ],
+    "summary": "Oneleet (YC S22) | Multiple Roles | US &amp; NATO Countries | Remote | Full-time<p>Oneleet is an all-in-one cybersecurity startup that has built its own Attack Surface Monitoring (ASM), Code Scanner, Dependency Management, Endpoint Protection, and Compliance Platform. We recently raised a Series A and are growing at an rapid pace and working on some very exciting projects.<p>What we&#x27;re looking for:<p>- Strong problem solvers who can work independently in a remote environment<p>- Security-mi"
+  },
+  "5efb2eb3b530efd3": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752077_d569b57a93.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752077",
+    "keywords": [
+      "180k –$ 210k base",
+      "individually controlled moving parts",
+      "install — including deciding",
+      "summer fridays .< p",
+      "hn — senior tpm",
+      "senior technical program manager",
+      "works &# x2f",
+      "works &# x2f",
+      "health &# x2f",
+      "dental &# x2f"
+    ],
+    "summary": "We build one-of-a-kind electro-mechanical sculptures, pieces with thousands of individually controlled moving parts, for museums,  exhibitions, and collectors. Every piece is a custom machine: custom PCBs, stepper motion-control, molded parts, firmware, software, overseas manufacturing, all converging into something that has to run flawlessly for a decade.<p>We&#x27;re hiring a Senior TPM to own delivery across all of it: fluent enough in mechanical, electrical, firmware, and industrial design t"
+  },
+  "ae4dd53d8ae4810b": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752254_d2b7debac8.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752254",
+    "keywords": [
+      "pure web application work",
+      "slope individuals .< p",
+      "p >- genuine enthusiasm",
+      "p >- comfort working",
+      "native team )< p",
+      ":< p >- 4",
+      "3 days &# x2f",
+      ">< p >- denver",
+      "world industrial &# x2f",
+      "structured compliance data"
+    ],
+    "summary": "Offstream (YC S24) | Senior Software Engineer | San Francisco, CA or Denver, CO (Hybrid, 3 days&#x2F;week) | $120k-$190k + equity | Full-time<p>Offstream is building the infrastructure for the environmental compliance market, think compliance software meeting real-world industrial hardware. You&#x27;d be our 5th software engineer, with the opportunity to make a real impact across our entire stack, from data ingestion systems that turn messy real-world inputs (unstructured PDFs, IoT sensor data) "
+  },
+  "837f4cb146aa5081": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752786_02ed2c90a8.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752786",
+    "keywords": [
+      "least one programming language",
+      "experienced site reliability engineers",
+      "azure ).< p >-",
+      ":< p >- 5",
+      "building infrastructure security controls",
+      "building core infrastructure operations",
+      "linux servers .< p",
+      "infrastructure software engineers",
+      "service .< p",
+      "staff &# x2f"
+    ],
+    "summary": "# HN Hiring (Ask HN: Who is hiring? > Source: hn-hiring | Category: job-skills | 2026-07-01T20:57:32Z MongoDB | Senior&#x2F;Staff&#x2F;Lead SRE and Infra SWE | REMOTE OR HYBRID (US, Ireland) | Full-Time<p>We are looking for experienced Site Reliability Engineers and Infrastructure Software Engineers to help build, scale, and secure the foundation of MongoDB Atlas, our globally distributed, multi-cloud database platform.<p>These are builder roles, heavily focused on making the platform more scala"
+  },
+  "f870ad2554d56f29": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48752284_f76507e396.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48752284",
+    "keywords": [
+      "customer success .< p",
+      "customer &# x27",
+      "rejected .< p",
+      "important .< p",
+      "constraints .< p",
+      "apply .< p",
+      "shared platform beneath",
+      "react &# x2f",
+      "leave systems cleaner",
+      "jurisdiction &# x27"
+    ],
+    "summary": "Govstream.ai | US only Remote (Seattle hq) | Full-time | Senior Software Eng | $120-200k<p>We’re a venture-backed Seattle startup on a mission to streamline permitting and development with AI, cutting delays, cost, wait states, and confusion so communities can build the housing they need. Led by a GovTech veteran team, we’re a tight, remote-first team that prizes transparency, execution, and customer success.<p>As a senior engineer you’ll architect, build, and scale everything from multi-step AI"
+  },
+  "60fae57b6c3e740c": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48751855_4c72f417ac.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48751855",
+    "keywords": [
+      "serve large supermarket chains",
+      "closed another large contract",
+      "building innovative retail products",
+      "growing quickly .< p",
+      "com &# x2f ;</",
+      "rapidly growing company",
+      "developing innovative solutions",
+      "hotwire &# x2f",
+      "young startup specializing",
+      "major retail chain"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-07-01T20:57:35Z AREO | Remote (EU) | Full-Time | Equity | Roles: [Engineering Manager (Ruby on Rails), Lead Product Engineer (Ruby on Rails)]<p>My name is Marius and I am the CTO at AREO (<a href=\"https:&#x2F;&#x2F;goareo.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;goareo.com&#x2F;</a>).<p>AREO, founded in January 2023 by a team with 20+ years of combined experience in retail and startups, is a young startup specializing in developing innovative "
+  },
+  "77c86032cc248f53": {
+    "file": "corpus/security/thehackernews_com_2026_07_19-year-old-scattered-spider-suspe_d49592020f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+    "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+    "keywords": [
+      "hacking group scattered spider",
+      "chicago federal court",
+      "hacking charges",
+      "hacking charges",
+      "hacking charges",
+      "teenager accused",
+      "peter stokes",
+      "june 30",
+      "july 1",
+      "judge ordered"
+    ],
+    "summary": "# [hacker-news-sec] 19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges 19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice&nbsp;announced&nbsp;on July 1."
+  },
+  "4138342313accada": {
+    "file": "corpus/security/thehackernews_com_2026_07_unpatched-argo-cd-repo-server-flaw_3ab818632c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+    "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+    "keywords": [
+      "unauthenticated attacker run code",
+      "unpatched argo cd repo",
+      "unpatched argo cd repo",
+      "kubernetes clusters argo cd",
+      "widely used tool",
+      "internal network port",
+      "full cluster takeover",
+      "argo cd",
+      "kubernetes clusters",
+      "kubernetes clusters"
+    ],
+    "summary": "# [hacker-news-sec] Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeover."
+  },
+  "2600825840bfb160": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_chocopoc-malware-deli_c7930a44f9.md",
+    "source": "security",
+    "title": "[bleeping-comp] ChocoPoc malware delivered via trojanized exploits on GitHub",
+    "url": "https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/",
+    "keywords": [
+      "based remote access trojan",
+      "github multiple weaponized proof",
+      "steal sensitive data",
+      "github delivered",
+      "execute commands",
+      "called chocopoc",
+      "github",
+      "github",
+      "source",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] ChocoPoc malware delivered via trojanized exploits on GitHub ChocoPoc malware delivered via trojanized exploits on GitHub Multiple weaponized proof-of-concept (PoC) exploits on GitHub delivered a Python-based remote access trojan (RAT) called ChocoPoC that can execute commands and steal sensitive data."
+  },
+  "4797f1048343d641": {
+    "file": "corpus/security/www_darkreading_com_vulnerabilities-threats_winner-dominant-_7b05e63ea7.md",
+    "source": "security",
+    "title": "[dark-reading] And the Winner in Dominant Malware Delivery? ClickFix",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix",
+    "keywords": [
+      "malware attacks —",
+      "dominant malware delivery",
+      "dominant malware delivery",
+      "dominant malware delivery",
+      "clickfix researchers say",
+      "clickfix",
+      "clickfix",
+      "winner",
+      "winner",
+      "winner"
+    ],
+    "summary": "# [dark-reading] And the Winner in Dominant Malware Delivery? And the Winner in Dominant Malware Delivery? Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it's now the rule."
+  },
+  "a70912586188a923": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_2_10_ab568bf7ad.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.2.10 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.2.10",
+    "keywords": [
+      "published since 16",
+      "js — v16",
+      "16z ## vercel",
+      "js v16",
+      "js v16",
+      "10 released",
+      "10 released",
+      "10 contains",
+      "vercel",
+      "vercel"
+    ],
+    "summary": "# vercel/next.js v16.2.10 released > Source: github-releases | Category: changelog | 2026-07-01T20:57:16Z Contains no changes except publishing `@next/swc-wasm-web` which was accidentally not published since 16.2.4."
   }
 }
