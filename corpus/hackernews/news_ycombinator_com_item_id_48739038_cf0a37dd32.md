@@ -1,0 +1,21 @@
+---
+title: "Show HN: Morph Reflexes – Multi-head classifiers for agent traces"
+url: "https://news.ycombinator.com/item?id=48739038"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-07-01T19:18:50Z"
+metadata:
+  score: "11"
+---
+
+# Show HN: Morph Reflexes – Multi-head classifiers for agent traces
+
+> Source: hackernews | Category: news | 2026-07-01T19:18:50Z
+
+Score: 11 | Comments: 1
+
+The most common failures for production agents are behavioral: looping, reasoning leakage, user frustration, and more. Using a frontier model like GPT or Sonnet to judge every turn is too expensive and slow to run at scale.<p>To solve this, we built Reflexes: semantic signals from agent traces, served fast and cheap over API. Built on custom kernels and a custom inference engine forked from vLLM.<p>Under the hood, it is a small LLM architected around multi-head inference. Small models need to be trained for specific tasks, but running 50 separate small models on the same input for 50 tasks makes no sense.<p>How it works:
+We use a modern LLM with hybrid attention and remove the decode step. We built an inference engine that lets prefill compute be 99% reused from reflex to reflex, similar in spirit to older 2019-era BERT&#x2F;HYDRA and older multiple-head techniques. we built the inference engine to reuse the KV&#x2F;cache across inputs and compute across all reflexes. One shared backbone reads the trace once, then many heads classify different signals. Our inference engine reuses the same KV&#x2F;cache and compute across all reflexes, giving us sub-30ms inference with less than 0.1% overhead for each additional reflex.<p>We took the same high-level idea and did the hard work to make it work with a modern architecture and attention. On it, we can run inference in under 30ms and serve the full request in under 90ms. If you run 4 reflexes or 100, the extra overhead is less than 2ms.<p>Why does optimizing this matter?<p>If you’re even a medium-sized startup, you’re dealing with tens of thousands of agent runs and millions of turns. If you want to track things like user frustration rates over time, frontier LLM-as-judge does not scale.<p>I built a similar stack at Tesla. When ML engineers needed to sample data across petabytes for signals like `is_camera_obfuscated=true`, along with 200 other things, you need to 1) spin them up quickly 2) run at scale efficiently<p>What it is not:
+A dashboard. 99% of dashboards go unused. 
+100% API first and made for devs who want to use this to trigger their own stuff.<p>vibetrain a custom reflex in our dashboard, and&#x2F;or then let it self improve in production: <a href="https:&#x2F;&#x2F;www.morphllm.com&#x2F;dashboard&#x2F;reflex">https:&#x2F;&#x2F;www.morphllm.com&#x2F;dashboard&#x2F;reflex</a><p>Docs: <a href="https:&#x2F;&#x2F;docs.morphllm.com&#x2F;sdk&#x2F;components&#x2F;reflexes&#x2F;index">https:&#x2F;&#x2F;docs.morphllm.com&#x2F;sdk&#x2F;components&#x2F;reflexes&#x2F;index</a><p>I’d love feedback from people running agents in prod: what sorts of things do you wish you could track over time across 100% of turns but cant right now?<p>TLDR: semantic signals from agent traces, super fast, cheap via API
