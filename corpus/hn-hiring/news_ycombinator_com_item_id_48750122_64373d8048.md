@@ -1,0 +1,17 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (July 2026))"
+url: "https://news.ycombinator.com/item?id=48750122"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-07-01T17:31:38Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (July 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-07-01T17:31:38Z
+
+SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, highlights, and line calling using just your phone. Our mission is to democratize the pro sports experience for all athletes.<p>All positions are in Berkeley, California:<p>- Data Labeling Intern: <a href="https:&#x2F;&#x2F;app.deel.com&#x2F;job-boards&#x2F;swingvision&#x2F;job-details&#x2F;a9a74832-e3a2-4167-b289-b67594fd93d1" rel="nofollow">https:&#x2F;&#x2F;app.deel.com&#x2F;job-boards&#x2F;swingvision&#x2F;job-details&#x2F;a9a7...</a>.<p>- Head of Product: <a href="https:&#x2F;&#x2F;jobs.deel.com&#x2F;swingvision&#x2F;job-details&#x2F;cb631dcb-1a80-4678-ab29-0ec2853c5ee4&#x2F;overview" rel="nofollow">https:&#x2F;&#x2F;jobs.deel.com&#x2F;swingvision&#x2F;job-details&#x2F;cb631dcb-1a80-...</a>.<p>- Head of Machine Learning:
+<a href="https:&#x2F;&#x2F;jobs.deel.com&#x2F;swingvision&#x2F;job-details&#x2F;c2cc0f23-3e59-4c03-849e-d53e7567a3fd&#x2F;overview" rel="nofollow">https:&#x2F;&#x2F;jobs.deel.com&#x2F;swingvision&#x2F;job-details&#x2F;c2cc0f23-3e59-...</a>.
