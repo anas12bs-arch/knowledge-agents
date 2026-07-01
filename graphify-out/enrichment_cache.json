@@ -150233,5 +150233,397 @@
       "sonnet 5"
     ],
     "summary": "# [bleeping-comp] Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model."
+  },
+  "88922326b686ea6f": {
+    "file": "corpus/hackernews/github_com_google_copybara_83cf8a3ef5.md",
+    "source": "hackernews",
+    "title": "Google copybara: moving code between repositories",
+    "url": "https://github.com/google/copybara",
+    "keywords": [
+      "moving code",
+      "moving code",
+      "google copybara",
+      "google copybara",
+      "51z score",
+      "source",
+      "repositories",
+      "repositories",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Google copybara: moving code between repositories > Source: hackernews | Category: news | 2026-07-01T01:55:51Z Score: 49 | Comments: 6"
+  },
+  "3ef407807f728485": {
+    "file": "corpus/hackernews/weinholt_se_articles_loko-scheme-0-13-0_be8ced592c.md",
+    "source": "hackernews",
+    "title": "Loko Scheme 0.13.0",
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "keywords": [
+      "loko scheme 0",
+      "loko scheme 0",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Loko Scheme 0.13.0 > Source: hackernews | Category: news | 2026-07-01T01:55:55Z Score: 14 | Comments: 2"
+  },
+  "862fb0ec87263feb": {
+    "file": "corpus/hackernews/www_wsj_com_politics_policy_trump-made-more-than-1-billion-o_1301adb6d7.md",
+    "source": "hackernews",
+    "title": "The President Made More Than $1Billon in Crypto Deals",
+    "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+    "keywords": [
+      "president made",
+      "president made",
+      "crypto deals",
+      "crypto deals",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The President Made More Than $1Billon in Crypto Deals > Source: hackernews | Category: news | 2026-07-01T01:55:50Z Score: 66 | Comments: 10"
+  },
+  "76505c07117031b7": {
+    "file": "corpus/hackernews/stillthinking_net_posts_connections-in-math-svd_c4b956cb89.md",
+    "source": "hackernews",
+    "title": "Deriving SVD without even aiming at it",
+    "url": "https://stillthinking.net/posts/connections-in-math-svd/",
+    "keywords": [
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Deriving SVD without even aiming at it > Source: hackernews | Category: news | 2026-07-01T01:55:52Z Score: 9 | Comments: 0"
+  },
+  "169ea8c3f20d0b67": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Forestiere_Underground_Gardens_3bf618f559.md",
+    "source": "hackernews",
+    "title": "Forestiere Underground Gardens",
+    "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+    "keywords": [
+      "forestiere underground gardens",
+      "forestiere underground gardens",
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Forestiere Underground Gardens > Source: hackernews | Category: news | 2026-07-01T01:55:51Z Score: 10 | Comments: 1"
+  },
+  "b6f9d337f72a90bb": {
+    "file": "corpus/hackernews/twitter_com_AnthropicAI_status_2072106151890809341_8c6790fcb5.md",
+    "source": "hackernews",
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "keywords": [
+      "lifted export controls",
+      "lifted export controls",
+      "claude fable 5",
+      "claude fable 5",
+      "mythos 5",
+      "mythos 5",
+      "51z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 > Source: hackernews | Category: news | 2026-07-01T01:55:51Z Score: 232 | Comments: 90"
+  },
+  "c4f3f39d470bb41e": {
+    "file": "corpus/devto/dev_to_mahendra4_gml5-indexcache-10nf_9e7c74303b.md",
+    "source": "devto",
+    "title": "GML5 IndexCache",
+    "url": "https://dev.to/mahendra4/gml5-indexcache-10nf",
+    "keywords": [
+      "gml5 indexcache",
+      "gml5 indexcache",
+      "02z indexcache",
+      "source",
+      "reactions",
+      "nl²",
+      "news",
+      "killing",
+      "indexer",
+      "devto"
+    ],
+    "summary": "# GML5 IndexCache > Source: devto | Category: news | 2026-07-01T01:56:02Z IndexCache: Killing the Indexer's O(NL²) Bottleneck in DeepSeek Sparse Attention   Notes..."
+  },
+  "505bdf616aebb9d7": {
+    "file": "corpus/devto/dev_to_schiff_heimlich_your-ci-ran-code-it-should-not-have-a_716a8e4c21.md",
+    "source": "devto",
+    "title": "Your CI ran code it should not have, and you cannot prove it did not",
+    "url": "https://dev.to/schiff_heimlich/your-ci-ran-code-it-should-not-have-and-you-cannot-prove-it-did-not-4ap4",
+    "keywords": [
+      "weeks ago someone force",
+      "ci ran code",
+      "ci ran code",
+      "76 version tags",
+      "pushed 75",
+      "pipelines ...",
+      "cannot prove",
+      "cannot prove",
+      "trivy",
+      "source"
+    ],
+    "summary": "# Your CI ran code it should not have, and you cannot prove it did not > Source: devto | Category: news | 2026-07-01T01:56:02Z A few weeks ago someone force-pushed 75 of 76 version tags in aquasecurity/trivy-action."
+  },
+  "67ee446ad7d25964": {
+    "file": "corpus/devto/dev_to_crgimenes_building-desktop-webview-apps-in-go-without_05612e1959.md",
+    "source": "devto",
+    "title": "Building desktop WebView apps in Go without CGo",
+    "url": "https://dev.to/crgimenes/building-desktop-webview-apps-in-go-without-cgo-47bj",
+    "keywords": [
+      "small desktop webview toolkit",
+      "building desktop webview apps",
+      "building desktop webview apps",
+      "go without cgo",
+      "go without cgo",
+      "glaze lets ...",
+      "short version",
+      "glaze",
+      "working"
+    ],
+    "summary": "# Building desktop WebView apps in Go without CGo I have been working on Glaze, a small desktop WebView toolkit for Go. The short version: Glaze lets..."
+  },
+  "5beff490f3443351": {
+    "file": "corpus/devto/dev_to_tanmay_devare_45_why-prompt-engineering-isnt-enough-f_4a7bf05e4c.md",
+    "source": "devto",
+    "title": "Why Prompt Engineering Isn't Enough for Production AI Agents",
+    "url": "https://dev.to/tanmay_devare_45/why-prompt-engineering-isnt-enough-for-production-ai-agents-m4p",
+    "keywords": [
+      "production ai agents",
+      "production ai agents",
+      "prompt engineering",
+      "prompt engineering",
+      "execution loops",
+      "api tokens",
+      "02z tl",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Why Prompt Engineering Isn't Enough for Production AI Agents > Source: devto | Category: news | 2026-07-01T01:56:02Z TL;DR: Autonomous Agents frequently get trapped in execution loops, burning through API tokens and..."
+  },
+  "ea090c3808efeef6": {
+    "file": "corpus/devto/dev_to_techno_neighbour_why-i-built-a-cli-to-automate-web-re_b29e601d5d.md",
+    "source": "devto",
+    "title": "Why I built a CLI to automate web research instead of relying on browser tabs",
+    "url": "https://dev.to/techno_neighbour/why-i-built-a-cli-to-automate-web-research-instead-of-relying-on-browser-tabs-5b35",
+    "keywords": [
+      "automate web research instead",
+      "automate web research instead",
+      "time collecting ...",
+      "noticed something annoying",
+      "months ago",
+      "browser tabs",
+      "browser tabs",
+      "worked",
+      "spending",
+      "source"
+    ],
+    "summary": "# Why I built a CLI to automate web research instead of relying on browser tabs > Source: devto | Category: news | 2026-07-01T01:56:02Z A few months ago I noticed something annoying about how I worked: I was spending more time collecting..."
+  },
+  "421488f967fbbbd3": {
+    "file": "corpus/devto/dev_to_vibeagentmaking_tidal-locking-and-the-orbital-mechani_236cd4aa7b.md",
+    "source": "devto",
+    "title": "Tidal Locking and the Orbital Mechanics of Vendor Lock-in",
+    "url": "https://dev.to/vibeagentmaking/tidal-locking-and-the-orbital-mechanics-of-vendor-lock-in-d75",
+    "keywords": [
+      "88 earth days",
+      "vendor lock",
+      "vendor lock",
+      "tidal locking",
+      "tidal locking",
+      "orbital mechanics",
+      "orbital mechanics",
+      "work",
+      "sun",
+      "spin"
+    ],
+    "summary": "# Tidal Locking and the Orbital Mechanics of Vendor Lock-in > Source: devto | Category: news | 2026-07-01T01:56:00Z Mercury takes 59 Earth days to spin once on its axis and 88 Earth days to orbit the Sun."
+  },
+  "c5588b8ab14c443c": {
+    "file": "corpus/devto/dev_to_sebconejo_i-stopped-prompting-my-agent-now-i-design-t_ef8a11ac26.md",
+    "source": "devto",
+    "title": "I stopped prompting my agent. Now I design the loop that prompts it.",
+    "url": "https://dev.to/sebconejo/i-stopped-prompting-my-agent-now-i-design-the-loop-that-prompts-it-2o9k",
+    "keywords": [
+      "agent meant typing",
+      "stopped prompting",
+      "stopped prompting",
+      "moving past",
+      "agent",
+      "agent",
+      "working",
+      "waiting",
+      "source",
+      "reading"
+    ],
+    "summary": "# I stopped prompting my agent. Now I design the loop that prompts it. We're moving past the era where working with an agent meant typing a prompt, waiting, reading the..."
+  },
+  "c9d59c300c3699fc": {
+    "file": "corpus/devto/dev_to_pavkode_improving-javascript-bundler-performance-with_2fd6f7d761.md",
+    "source": "devto",
+    "title": "Improving JavaScript Bundler Performance with Rust-Based Glob Pattern Matching to Overcome Picomatch Limitations",
+    "url": "https://dev.to/pavkode/improving-javascript-bundler-performance-with-rust-based-glob-pattern-matching-to-overcome-1ekn",
+    "keywords": [
+      "based glob pattern matching",
+      "based glob pattern matching",
+      "improving javascript bundler performance",
+      "improving javascript bundler performance",
+      "overcome picomatch limitations",
+      "overcome picomatch limitations",
+      "javascript bundlers",
+      "foundational operation",
+      "source",
+      "rust"
+    ],
+    "summary": "# Improving JavaScript Bundler Performance with Rust-Based Glob Pattern Matching to Overcome Picomatch Limitations > Source: devto | Category: news | 2026-07-01T01:55:59Z Introduction   Glob pattern matching is a foundational operation in JavaScript bundlers and..."
+  },
+  "2a995ceeaaa2f2c1": {
+    "file": "corpus/devto/dev_to_leobaniak_kubernetes-will-let-you-write-patches-with-_9efc5b6909.md",
+    "source": "devto",
+    "title": "Kubernetes will let you write patches with AI. It will not let you hide it.",
+    "url": "https://dev.to/leobaniak/kubernetes-will-let-you-write-patches-with-ai-it-will-not-let-you-hide-it-1p50",
+    "keywords": [
+      "project taking community patches",
+      "requires pr descriptions",
+      "kubernetes project published",
+      "bans ai co",
+      "ai contribution policy",
+      "write patches",
+      "write patches",
+      "usable template",
+      "tells maintainers",
+      "june 26"
+    ],
+    "summary": "# Kubernetes will let you write patches with AI. The Kubernetes project published an AI contribution policy on June 26, 2026 that bans AI co-author trailers, requires PR descriptions to disclose generative-AI assistance, and tells maintainers to close PRs whose authors cannot explain the code in person. For any project taking community patches, it is a usable template."
+  },
+  "cb57b3a20a01693d": {
+    "file": "corpus/devto/dev_to_rayanahmax_why-i-stopped-using-online-utilities-for-m_083f929ff8.md",
+    "source": "devto",
+    "title": "Why I stopped using online utilities for my env variables",
+    "url": "https://dev.to/rayanahmax/why-i-stopped-using-online-utilities-for-my-env-variables-g8g",
+    "keywords": [
+      "stopped using online utilities",
+      "stopped using online utilities",
+      "weeks ago",
+      "quickly convert",
+      "env variables",
+      "env variables",
+      "env file",
+      "source",
+      "script",
+      "reactions"
+    ],
+    "summary": "# Why I stopped using online utilities for my env variables A few weeks ago I needed to quickly convert a .env file to JSON for a script. Did what I always do,..."
+  },
+  "eade3ee16e4b3cbd": {
+    "file": "corpus/devto/dev_to_yimtheppariyapol_how-to-make-an-agent-ready-website-a_857222888d.md",
+    "source": "devto",
+    "title": "How to Make an Agent-Ready Website (and What to Refuse)",
+    "url": "https://dev.to/yimtheppariyapol/how-to-make-an-agent-ready-website-and-what-to-refuse-2bkg",
+    "keywords": [
+      "tool called isitagentready",
+      "site ...",
+      "ran productize",
+      "01z recently",
+      "ready website",
+      "ready website",
+      "ready",
+      "source",
+      "scans",
+      "refuse"
+    ],
+    "summary": "# How to Make an Agent-Ready Website (and What to Refuse) Recently I ran productize.life through a tool called isitagentready.com. It scans how ready your site..."
+  },
+  "ae7e3b01b67b042d": {
+    "file": "corpus/devto/dev_to_devteam_play-todays-game-from-issue-2-of-the-daily-co_139f60d66b.md",
+    "source": "devto",
+    "title": "Play today’s game from Issue #2 of The Daily Context!",
+    "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+    "keywords": [
+      "ai engineer world ’",
+      "play today ’",
+      "play today ’",
+      "physical newspaper",
+      "fair ...",
+      "daily context",
+      "daily context",
+      "daily context",
+      "58z yesterday",
+      "source"
+    ],
+    "summary": "# Play today’s game from Issue #2 of The Daily Context! > Source: devto | Category: news | 2026-07-01T01:55:58Z Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair..."
+  },
+  "5543c8f5aeb63198": {
+    "file": "corpus/devto/dev_to_reporails_green-tests-dont-mean-better-software-59of_04f39addbb.md",
+    "source": "devto",
+    "title": "Green Tests Don't Mean Better Software",
+    "url": "https://dev.to/reporails/green-tests-dont-mean-better-software-59of",
+    "keywords": [
+      "next change cheaper",
+      "mean better software",
+      "mean better software",
+      "tests ...",
+      "green tests",
+      "green tests",
+      "week",
+      "supposed",
+      "spent",
+      "source"
+    ],
+    "summary": "# Green Tests Don't Mean Better Software > Source: devto | Category: news | 2026-07-01T01:56:00Z You spent the week on a refactor because it was supposed to make the next change cheaper."
+  },
+  "fac11ae8056b71ee": {
+    "file": "corpus/github-trending/github_com_withcatai_node-llama-cpp_943c20c3fd.md",
+    "source": "github-trending",
+    "title": "withcatai/node-llama-cpp ⭐2118",
+    "url": "https://github.com/withcatai/node-llama-cpp",
+    "keywords": [
+      "div align =\" center",
+      "]( https :// node",
+      "run ai models locally",
+      "run llms locally",
+      "width =\" 360px",
+      "class =\" main",
+      "great developer experience",
+      "code ](# try",
+      "** without **",
+      "✨ ## features"
+    ],
+    "summary": "Run AI models locally on your machine with node.js bindings for llama.cpp. <div align=\"center\"> <a href=\"https://node-llama-cpp.withcat.ai\" target=\"_blank\"><img alt=\"node-llama-cpp Logo\" src=\"https://raw.githubusercontent.com/withcatai/node-llama-cpp/master/assets/logo.v3.roundEdges.avif\" width=\"360px\" /></a> <h1>node-llama-cpp</h1> <p>Run AI models locally on your machine</p> <sub>Pre-built bindings are provided with a fallback to building from source with cmake</sub> <p></p> </div> ## Features"
+  },
+  "25b0df0be6ededda": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_artificial-intelligence_anthro_6900699e16.md",
+    "source": "security",
+    "title": "[bleeping-comp] Anthropic to restore Claude Fable access on Wednesday",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
+    "keywords": [
+      "restore claude fable access",
+      "restore claude fable access",
+      "restore claude fable access",
+      "lifted export controls",
+      "fable 5",
+      "powerful models",
+      "mythos 5",
+      "52z anthropic",
+      "claude",
+      "wednesday anthropic"
+    ],
+    "summary": "# [bleeping-comp] Anthropic to restore Claude Fable access on Wednesday Anthropic to restore Claude Fable access on Wednesday Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5."
   }
 }
