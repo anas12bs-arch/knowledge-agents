@@ -1,0 +1,16 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (July 2026))"
+url: "https://news.ycombinator.com/item?id=48761162"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-07-02T15:27:35Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (July 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-07-02T15:27:35Z
+
+Preferred Networks | Tokyo or Remote in Japan | Full-time | <a href="https:&#x2F;&#x2F;www.preferred.jp&#x2F;en" rel="nofollow">https:&#x2F;&#x2F;www.preferred.jp&#x2F;en</a><p>Preferred Networks is an AI company based in Tokyo working across the stack, from AI chips and computing infrastructure to LLMs and products. You may already know us indirectly if you&#x27;ve used software we&#x27;ve built, such as Optuna or CuPy (or Chainer, back in the day).<p>We are designing in-house chips (MN-Core series: <a href="https:&#x2F;&#x2F;mn-core.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;mn-core.com&#x2F;</a>) and training LLMs (PLaMo series: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;pfnet" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;pfnet</a>), and our team is actively hiring for two roles related to these endeavors:<p>- MN-Core LLM Serving Engine Engineer: Build software infrastructure to serve LLMs using our upcoming inference accelerator, MN-Core L1000. [Apply here: <a href="https:&#x2F;&#x2F;open.talentio.com&#x2F;r&#x2F;1&#x2F;c&#x2F;preferred&#x2F;pages&#x2F;121580" rel="nofollow">https:&#x2F;&#x2F;open.talentio.com&#x2F;r&#x2F;1&#x2F;c&#x2F;preferred&#x2F;pages&#x2F;121580</a>]<p>- LLM Inference Optimization Engineer: Improve the inference engine powering our API service and maintain PLaMo implementations in open source projects such as vLLM. [Apply here: <a href="https:&#x2F;&#x2F;open.talentio.com&#x2F;r&#x2F;1&#x2F;c&#x2F;preferred&#x2F;pages&#x2F;119173" rel="nofollow">https:&#x2F;&#x2F;open.talentio.com&#x2F;r&#x2F;1&#x2F;c&#x2F;preferred&#x2F;pages&#x2F;119173</a>]<p>Both roles require relocation to Japan. We are happy to provide visa and relocation support.
