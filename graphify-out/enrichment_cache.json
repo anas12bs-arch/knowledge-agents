@@ -168426,5 +168426,384 @@
       "pam checks"
     ],
     "summary": "# [hacker-news-sec] PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data."
+  },
+  "8ec96ce7de07be1e": {
+    "file": "corpus/sales/www_saastr_com_got-100-customers-believe-it-or-not-its-time-_388ada4859.md",
+    "source": "sales",
+    "title": "[saastr] Got 100 Customers?  Believe It Or Not, It’s Time for Your First User Conference",
+    "url": "https://www.saastr.com/got-100-customers-believe-it-or-not-its-time-for-your-first-user-conference/",
+    "keywords": [
+      "19z got 100 customers",
+      "got 100 customers",
+      "got 100 customers",
+      "long deployment cycles",
+      "events like dreamforce",
+      "... continue reading",
+      "first user conference",
+      "first user conference",
+      "first user conference",
+      "user conference"
+    ],
+    "summary": "When I was figuring out B2B as SaaS CEO for the first time, the last thing I wanted to do was a Customer / User Conference. I understood the importance of events like Dreamforce. Salesforce is a complex product, with (sometimes) long deployment cycles, professional services, dedicated admins, and all that."
+  },
+  "947356c2151a22bd": {
+    "file": "corpus/hackernews/www_theverge_com_science_960563_amazon-leo-service-tipping-p_2796d65e26.md",
+    "source": "hackernews",
+    "title": "Amazon has enough satellites to launch its Starlink competitor",
+    "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+    "keywords": [
+      "starlink competitor",
+      "starlink competitor",
+      "enough satellites",
+      "enough satellites",
+      "26z score",
+      "source",
+      "news",
+      "launch",
+      "launch",
+      "hackernews"
+    ],
+    "summary": "# Amazon has enough satellites to launch its Starlink competitor > Source: hackernews | Category: news | 2026-07-03T12:28:26Z Score: 4 | Comments: 0"
+  },
+  "b57675a06371d8a4": {
+    "file": "corpus/hackernews/www_swiftsilentdeadly_com_blog_gun-mistakes-in-fiction-writi_2566a3f3d1.md",
+    "source": "hackernews",
+    "title": "Gun Mistakes in Fiction Writing: Handgun Edition",
+    "url": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition",
+    "keywords": [
+      "handgun edition",
+      "handgun edition",
+      "gun mistakes",
+      "gun mistakes",
+      "fiction writing",
+      "fiction writing",
+      "19z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Gun Mistakes in Fiction Writing: Handgun Edition > Source: hackernews | Category: news | 2026-07-03T12:28:19Z Score: 39 | Comments: 46"
+  },
+  "87b7e273a8d26b5e": {
+    "file": "corpus/hackernews/scottsumner_substack_com_p_the-beauty-of-tautologies_21557a5984.md",
+    "source": "hackernews",
+    "title": "The Beauty of Tautologies",
+    "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+    "keywords": [
+      "21z score",
+      "tautologies",
+      "tautologies",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "beauty",
+      "beauty"
+    ],
+    "summary": "# The Beauty of Tautologies > Source: hackernews | Category: news | 2026-07-03T12:28:21Z Score: 3 | Comments: 2"
+  },
+  "4e781a6140e83708": {
+    "file": "corpus/hackernews/thombrown_blogspot_com_2026_07_load-plcbmbasic81-commodore-6_ca9d5c2b9c.md",
+    "source": "hackernews",
+    "title": "Commodore 64 Basic for PostgreSQL",
+    "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+    "keywords": [
+      "commodore 64 basic",
+      "commodore 64 basic",
+      "20z score",
+      "source",
+      "postgresql",
+      "postgresql",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Commodore 64 Basic for PostgreSQL > Source: hackernews | Category: news | 2026-07-03T12:28:20Z Score: 14 | Comments: 5"
+  },
+  "2136fae78db0ad36": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_hardwood-java-parquet_utm_campaig_f5b917086f.md",
+    "source": "engineering",
+    "title": "[infoq] Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies",
+    "url": "https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "project gunnar morling kick",
+      "18z hardwood promises high",
+      "zero mandatory dependencies hardwood",
+      "apache parquet java implementation",
+      "hardwood promises high",
+      "hardwood promises high",
+      "zero mandatory dependencies",
+      "zero mandatory dependencies",
+      "reached version 1",
+      "parquet files"
+    ],
+    "summary": "# [infoq] Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies Hardwood, the project Gunnar Morling kick-started handling of Parquet files in Java, reached version 1. Its multi-threaded approach and zero mandatory external dependencies promise a simpler, more efficient alternative to the Apache Parquet Java implementation."
+  },
+  "79ab42367d30d318": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_opentelemetry-cncf-maturity_utm_c_5d7f8797bf.md",
+    "source": "engineering",
+    "title": "[infoq] OpenTelemetry Graduates to CNCF's Highest Maturity Level",
+    "url": "https://www.infoq.com/news/2026/07/opentelemetry-cncf-maturity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "cloud native computing foundation",
+      "highest maturity level",
+      "highest maturity level",
+      "highest maturity level",
+      "18z opentelemetry graduates",
+      "highest level",
+      "opentelemetry graduates",
+      "opentelemetry graduates",
+      "formally recognizing",
+      "enterprise use"
+    ],
+    "summary": "# [infoq] OpenTelemetry Graduates to CNCF's Highest Maturity Level OpenTelemetry Graduates to CNCF's Highest Maturity Level The Cloud Native Computing Foundation (CNCF) has announced the graduation of OpenTelemetry, elevating the project to the foundation's highest level of maturity and formally recognizing it as production-ready for enterprise use."
+  },
+  "1cf7506a123fa512": {
+    "file": "corpus/engineering/www_infoq_com_minibooks_agentic-ai-architecture_utm_campaign_3ad5dcc135.md",
+    "source": "engineering",
+    "title": "[infoq] Mini book: Agentic AI Architecture",
+    "url": "https://www.infoq.com/minibooks/agentic-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "establish agentic ai architecture",
+      "agentic ai architecture",
+      "agentic ai architecture",
+      "agentic ai architecture",
+      "agentic ai architecture",
+      "cover various elements",
+      "18z mini book",
+      "software architecture",
+      "mini book",
+      "mini book"
+    ],
+    "summary": "# [infoq] Mini book: Agentic AI Architecture In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come. The articles, written by industry experts, cover various elements and aspects of agentic AI architecture."
+  },
+  "653e040e87ebba11": {
+    "file": "corpus/devto/dev_to_timevolt_may-the-star-be-with-you-crafting-winning-be_e940156356.md",
+    "source": "devto",
+    "title": "May the STAR Be With You: Crafting Winning Behavioural Interview Answers",
+    "url": "https://dev.to/timevolt/may-the-star-be-with-you-crafting-winning-behavioural-interview-answers-4mof",
+    "keywords": [
+      "first behavioural interview like",
+      "still remember",
+      "quest begins",
+      "star",
+      "star",
+      "source",
+      "reactions",
+      "news",
+      "may",
+      "may"
+    ],
+    "summary": "# May the STAR Be With You: Crafting Winning Behavioural Interview Answers > Source: devto | Category: news | 2026-07-03T12:28:29Z The Quest Begins (The \"Why\")   I still remember my first behavioural interview like it was..."
+  },
+  "ff2a8de5504577c0": {
+    "file": "corpus/devto/dev_to_pavelespitia_reading-a-verified-contract-you-didnt-wr_ccb0042c62.md",
+    "source": "devto",
+    "title": "Reading a Verified Contract You Didn't Write: A Systematic Approach",
+    "url": "https://dev.to/pavelespitia/reading-a-verified-contract-you-didnt-write-a-systematic-approach-54d4",
+    "keywords": [
+      "even start ?...",
+      "line solidity contract",
+      "verified contract",
+      "verified contract",
+      "systematic approach",
+      "systematic approach",
+      "never seen",
+      "27z opening",
+      "write",
+      "write"
+    ],
+    "summary": "# Reading a Verified Contract You Didn't Write: A Systematic Approach Opening a 600-line Solidity contract you have never seen is intimidating. Where do you even start?..."
+  },
+  "d136c7c2db023c87": {
+    "file": "corpus/devto/dev_to_aplomb2_your-claude-code-bill-quietly-got-5x-worse-an_b7ec928513.md",
+    "source": "devto",
+    "title": "Your Claude Code Bill Quietly Got 5x Worse — And They Were Tracking You Too",
+    "url": "https://dev.to/aplomb2/your-claude-code-bill-quietly-got-5x-worse-and-they-were-tracking-you-too-3p8j",
+    "keywords": [
+      "invisible price ...",
+      "rough week",
+      "developer trust",
+      "tracking",
+      "tracking",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Your Claude Code Bill Quietly Got 5x Worse — And They Were Tracking You Too > Source: devto | Category: news | 2026-07-03T12:28:30Z This has been a rough week for Anthropic's developer trust."
+  },
+  "8c00571eb08ad200": {
+    "file": "corpus/devto/dev_to_o96a_stop-treating-llm-memory-as-a-database-the-shift_a6a07f2ca6.md",
+    "source": "devto",
+    "title": "Stop Treating LLM Memory as a Database: The Shift Toward Memory as a Skill",
+    "url": "https://dev.to/o96a/stop-treating-llm-memory-as-a-database-the-shift-toward-memory-as-a-skill-507k",
+    "keywords": [
+      "stop treating llm memory",
+      "stop treating llm memory",
+      "shift toward memory",
+      "shift toward memory",
+      "shift toward memory",
+      "last ...",
+      "source",
+      "skill",
+      "skill",
+      "skill"
+    ],
+    "summary": "# Stop Treating LLM Memory as a Database: The Shift Toward Memory as a Skill > Source: devto | Category: news | 2026-07-03T12:28:31Z Stop Treating LLM Memory as a Database: The Shift Toward Memory as a Skill   For the last..."
+  },
+  "16361cc7c46b6000": {
+    "file": "corpus/devto/dev_to_3z_last-loop-we-will-write-loop-engineering-3cmc_a9d4d7ac09.md",
+    "source": "devto",
+    "title": "Last loop we will write : Loop Engineering",
+    "url": "https://dev.to/3z/last-loop-we-will-write-loop-engineering-3cmc",
+    "keywords": [
+      "building software lately",
+      "26z hello everyone",
+      "loop engineering",
+      "loop engineering",
+      "last loop",
+      "last loop",
+      "changing ...",
+      "write",
+      "write"
+    ],
+    "summary": "# Last loop we will write : Loop Engineering > Source: devto | Category: news | 2026-07-03T12:28:26Z If you’ve been building software lately, you know the workflow is changing..."
+  },
+  "4902ed074117b18b": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48039_starling-to-axe-130-jobs-_e066413d45.md",
+    "source": "finance",
+    "title": "[finextra] Starling to axe 130 jobs as part of automation drive",
+    "url": "https://www.finextra.com/newsarticle/48039/starling-to-axe-130-jobs-as-part-of-automation-drive?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "axe 130 jobs",
+      "axe 130 jobs",
+      "axe 130 jobs",
+      "100 jobs",
+      "efficiency drive",
+      "automation drive",
+      "automation drive",
+      "announced plans",
+      "18z starling",
+      "starling"
+    ],
+    "summary": "# [finextra] Starling to axe 130 jobs as part of automation drive Starling to axe 130 jobs as part of automation drive UK challenger bank Starling has announced plans to cut more than 100 jobs as part of an efficiency drive."
+  },
+  "1e9ffbc9fa16de97": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48038_imf-issues-tokenisation-w_0175eacfa6.md",
+    "source": "finance",
+    "title": "[finextra] IMF issues tokenisation warning",
+    "url": "https://www.finextra.com/newsarticle/48038/imf-issues-tokenisation-warning?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "imf issues tokenisation warning",
+      "imf issues tokenisation warning",
+      "service providers",
+      "ongoing development",
+      "market infrastructures",
+      "balance sheets",
+      "tokenisation",
+      "source",
+      "risk",
+      "migrate"
+    ],
+    "summary": "# [finextra] IMF issues tokenisation warning IMF issues tokenisation warning Monetary policy frameworks must adapt to the ongoing development of tokenisation and the likelihood that risk will migrate from banks' balance sheets to service providers and market infrastructures."
+  },
+  "75f2378a6c21399f": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48035_visa-launches-visa-destin_9d7c6d8bc6.md",
+    "source": "finance",
+    "title": "[finextra] Visa launches Visa Destinations offering discounts for travellers",
+    "url": "https://www.finextra.com/newsarticle/48035/visa-launches-visa-destinations-offering-discounts-for-travellers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "users across 10 locations",
+      "travellers visa ’",
+      "travellers",
+      "travellers",
+      "source",
+      "live",
+      "finextra",
+      "finextra",
+      "finance",
+      "finance"
+    ],
+    "summary": "# [finextra] Visa launches Visa Destinations offering discounts for travellers Visa launches Visa Destinations offering discounts for travellers Visa’s travel offer platform Visa Destinations is now live for users across 10 locations."
+  },
+  "d2f904a63f61444e": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48037_klarna-taps-money-wellnes_6f03ddca7e.md",
+    "source": "finance",
+    "title": "[finextra] Klarna taps Money Wellness to offer free financial wellbeing checks to UK users",
+    "url": "https://www.finextra.com/newsarticle/48037/klarna-taps-money-wellness-to-offer-free-financial-wellbeing-checks-to-uk-users?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "klarna taps money wellness",
+      "klarna taps money wellness",
+      "financial health check",
+      "uk users klarna",
+      "uk users",
+      "uk users",
+      "uk customers",
+      "joined forces",
+      "source",
+      "provide"
+    ],
+    "summary": "# [finextra] Klarna taps Money Wellness to offer free financial wellbeing checks to UK users Klarna taps Money Wellness to offer free financial wellbeing checks to UK users Klarna has joined forces with financial wellbeing platform Money Wellness to provide their UK customers with a financial health check."
+  },
+  "e9ca8365fe796e84": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_flock-cameras-can-sur_e45a7cc48c.md",
+    "source": "security",
+    "title": "[schneier] Flock Cameras Can Surveil Cars Without License Plates",
+    "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
+    "keywords": [
+      "vehicle fingerprint &# 8221",
+      "top racks &# 8212",
+      "company gives police officers",
+      "unique state tags",
+      "law enforcement officials",
+      "build stronger cases",
+      "2024 company presentation",
+      "company &# 8217",
+      "car &# 8217",
+      "information &# 8220"
+    ],
+    "summary": "This is from a 2024  company presentation : Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags. Flock calls it a &#8220;Vehicle Fingerprint&#8221; and it&#8217;s touted as a way for law enforcement officials to get more information &#8220;even when you don&#8217;t have full plate information,&#8221; the company&#8217;s presentation shows. The company gives police officers the ability to search that da"
+  },
+  "25ef607816f9429a": {
+    "file": "corpus/security/thehackernews_com_2026_07_european-parliament-member_html_8f8ffebc33.md",
+    "source": "security",
+    "title": "[hacker-news-sec] European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+    "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
+    "keywords": [
+      "european parliament stelios kouloglou",
+      "mobile device repeatedly hacked",
+      "commercial surveillance tools",
+      "notorious pegasus spyware",
+      "new report",
+      "former member",
+      "forensic analysis",
+      "citizen lab",
+      "attackers could",
+      "device"
+    ],
+    "summary": "# [hacker-news-sec] European Parliament Member Investigating Spyware Was Hacked With Pegasus European Parliament Member Investigating Spyware Was Hacked With Pegasus \"Through forensic analysis of his device, we found that the attackers could have had"
+  },
+  "b283589441767068": {
+    "file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_13_0_b99f8314d9.md",
+    "source": "github-releases",
+    "title": "shadcn-ui/ui shadcn@4.13.0 released",
+    "url": "https://github.com/shadcn-ui/ui/releases/tag/shadcn%404.13.0",
+    "keywords": [
+      "0 ### minor changes",
+      "22z ## shadcn",
+      "ui — shadcn",
+      "0 released",
+      "0 released",
+      "shadcn )!",
+      "ui shadcn",
+      "ui shadcn",
+      "shadcn",
+      "shadcn"
+    ],
+    "summary": "# shadcn-ui/ui shadcn@4.13.0 released > Source: github-releases | Category: changelog | 2026-07-03T12:29:22Z - base-ui is now default"
   }
 }
