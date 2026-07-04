@@ -173237,5 +173237,288 @@
       "100k -$ 160k"
     ],
     "summary": "We’re building an API-first, fully headless SOCKS5 proxy network designed specifically for autonomous AI agents, LLM tool-calling, and large-scale web scraping.<p>Most traditional proxy networks operate in a bit of a gray area—they buy bandwidth harvested from sneaky, hidden SDK bundles embedded inside free apps. People run our open-source CLI client to share their bandwidth and earn microcredits in real-time. If you like systems-level programming (TCP&#x2F;UDP, tunnel multiplexing, concurrent s"
+  },
+  "6766cc0e1f031f01": {
+    "file": "corpus/hackernews/www_databricks_com_blog_lakebase-ltap-rethinking-database-st_0893765cbd.md",
+    "source": "hackernews",
+    "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+    "keywords": [
+      "postgres data stored",
+      "postgres data stored",
+      "ltap architecture explained",
+      "ltap architecture explained",
+      "39z score",
+      "source",
+      "parquet",
+      "parquet"
+    ],
+    "summary": "# Postgres data stored in Parquet on S3: LTAP architecture explained > Source: hackernews | Category: news | 2026-07-04T09:37:39Z Score: 18 | Comments: 6"
+  },
+  "0378d80cf8bf8913": {
+    "file": "corpus/hackernews/rookandpossum_com_papers_scanline_sweeper_preprint_pdf_163a1839da.md",
+    "source": "hackernews",
+    "title": "The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
+    "url": "https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf",
+    "keywords": [
+      "glyph rendering algorithm",
+      "glyph rendering algorithm",
+      "scanline sweeper",
+      "scanline sweeper",
+      "42z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Scanline Sweeper: A Glyph Rendering Algorithm [pdf] > Source: hackernews | Category: news | 2026-07-04T09:37:42Z Score: 4 | Comments: 2"
+  },
+  "7d985b6e99b03239": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_cycle-eu-control-plane_utm_campai_d5de2ca1ef.md",
+    "source": "engineering",
+    "title": "[infoq] Cycle Introduces EU Control Plane as Sovereignty Debate Continues",
+    "url": "https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "keep platform management data",
+      "telemetry within europe",
+      "sovereignty debate continues",
+      "sovereignty debate continues",
+      "based control plane",
+      "allowing european customers",
+      "european organizations",
+      "separate eu",
+      "renato losio",
+      "operational isolation"
+    ],
+    "summary": "# [infoq] Cycle Introduces EU Control Plane as Sovereignty Debate Continues Cycle recently introduced a separate EU-based control plane, allowing European customers to keep platform management data and telemetry within Europe. The new offering is designed to improve compliance, operational isolation, and responsiveness for European organizations."
+  },
+  "348c5548e649c184": {
+    "file": "corpus/devto/dev_to_rakshyak_still-in-the-game-why-we-keep-coding-against_57d952c8f7.md",
+    "source": "devto",
+    "title": "Still in the Game: Why We Keep Coding Against the Machine",
+    "url": "https://dev.to/rakshyak/still-in-the-game-why-we-keep-coding-against-the-machine-2lig",
+    "keywords": [
+      "ai model write",
+      "standing next",
+      "runs faster",
+      "particular kind",
+      "keep coding",
+      "keep coding",
+      "ever run",
+      "despair exactly",
+      "would",
+      "watch"
+    ],
+    "summary": "There is a particular kind of quiet that settles in when you watch an AI model write, in seconds, code that would have taken you an hour. It is closer to the feeling of standing next to someone who runs faster than you will ever run. The question that follows is simple and uncomfortable: what am I still doing here?"
+  },
+  "c1566e10e3e02dd1": {
+    "file": "corpus/devto/dev_to_devopsaitoolkit_the-right-way-to-pair-ai-with-terrafo_936fb33127.md",
+    "source": "devto",
+    "title": "The Right Way to Pair AI With Terraform Plans",
+    "url": "https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c",
+    "keywords": [
+      "50z terraform plan",
+      "terraform plans",
+      "terraform plans",
+      "right way",
+      "right way",
+      "repetitive ,...",
+      "pair ai",
+      "pair ai",
+      "also verbose",
+      "source"
+    ],
+    "summary": "# The Right Way to Pair AI With Terraform Plans terraform plan is honest about what it's going to do. The problem is it's also verbose, repetitive,..."
+  },
+  "5908e4cc9550a397": {
+    "file": "corpus/devto/dev_to_orwamahmoud_one-headless-table-engine-every-react-ui-_c947a2b856.md",
+    "source": "devto",
+    "title": "One headless table engine, every React UI kit",
+    "url": "https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4",
+    "keywords": [
+      "every react ui kit",
+      "every react ui kit",
+      "choice always feels like",
+      "one headless table engine",
+      "one headless table engine",
+      "data table eventually",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# One headless table engine, every React UI kit > Source: devto | Category: news | 2026-07-04T09:37:49Z Every React project reaches for a data table eventually, and the choice always feels like a..."
+  },
+  "8802e95d51030aa5": {
+    "file": "corpus/devto/dev_to_jaikora_the-agent-can-drive-you-still-need-to-know-th_78ca6b8926.md",
+    "source": "devto",
+    "title": "The Agent Can Drive. You Still Need to Know the Route.",
+    "url": "https://dev.to/jaikora/the-agent-can-drive-you-still-need-to-know-the-route-274",
+    "keywords": [
+      "must still understand",
+      "ai agent drive",
+      "still need",
+      "still need",
+      "last line",
+      "still",
+      "drive",
+      "drive",
+      "agent",
+      "agent"
+    ],
+    "summary": "You Still Need to Know the Route. You can let an AI agent drive your code, but you still can't delegate being the last line of defense. The minimum you must still understand."
+  },
+  "578bf71f4af48835": {
+    "file": "corpus/devto/dev_to_nasrulhazim_idempotent-gateway-sync-adopt-on-conflict_b822d9051e.md",
+    "source": "devto",
+    "title": "Idempotent gateway sync: adopt on conflict, paginate for real, and never widen scope",
+    "url": "https://dev.to/nasrulhazim/idempotent-gateway-sync-adopt-on-conflict-paginate-for-real-and-never-widen-scope-coc",
+    "keywords": [
+      "never widen scope",
+      "never widen scope",
+      "dr syncing config",
+      "idempotent gateway sync",
+      "idempotent gateway sync",
+      "api gateway",
+      "converge operation",
+      "50z tl",
+      "source",
+      "real"
+    ],
+    "summary": "# Idempotent gateway sync: adopt on conflict, paginate for real, and never widen scope > Source: devto | Category: news | 2026-07-04T09:37:50Z TL;DR    Syncing config into an API gateway (Kong here) is a converge operation, not an..."
+  },
+  "0073cb92c684762a": {
+    "file": "corpus/devto/dev_to_xenocoregiger31_the-future-of-agentic-ai-memory-syste_2e5af28ee6.md",
+    "source": "devto",
+    "title": "The Future of Agentic AI Memory Systems",
+    "url": "https://dev.to/xenocoregiger31/the-future-of-agentic-ai-memory-systems-5fdp",
+    "keywords": [
+      "meant stuffing chat history",
+      "agentic ai memory systems",
+      "agentic ai memory systems",
+      "last three years",
+      "ai memory",
+      "context window",
+      "source",
+      "reactions",
+      "news",
+      "future"
+    ],
+    "summary": "# The Future of Agentic AI Memory Systems > Source: devto | Category: news | 2026-07-04T09:37:48Z For most of the last three years, \"AI memory\" meant stuffing chat history into a context window and..."
+  },
+  "1cb8e5bd1bbee914": {
+    "file": "corpus/devto/dev_to_chaudharidevam_mcp-vs-api-why-traditional-apis-are-fa_e09fe697a1.md",
+    "source": "devto",
+    "title": "MCP vs API: Why Traditional APIs Are Failing AI Agents",
+    "url": "https://dev.to/chaudharidevam/mcp-vs-api-why-traditional-apis-are-failing-ai-agents-28m8",
+    "keywords": [
+      "mcp vs api",
+      "mcp vs api",
+      "failing ai agents",
+      "failing ai agents",
+      "traditional apis",
+      "traditional apis",
+      "stack developer",
+      "spent",
+      "source",
+      "reactions"
+    ],
+    "summary": "# MCP vs API: Why Traditional APIs Are Failing AI Agents > Source: devto | Category: news | 2026-07-04T09:37:48Z As a frontend and full-stack developer who has spent the last four years building modern web..."
+  },
+  "a3a170ce5ae6543c": {
+    "file": "corpus/devto/dev_to_parsajiravand_you-reached-for-important-again-layer-i_938fe6249c.md",
+    "source": "devto",
+    "title": "You reached for !important again. @layer is the real fix.",
+    "url": "https://dev.to/parsajiravand/you-reached-for-important-again-layer-is-the-real-fix-g8f",
+    "keywords": [
+      "party reset beats",
+      "ancient nested rule",
+      "layer adds one",
+      "utilities lose",
+      "real fix",
+      "real fix",
+      "layer",
+      "layer",
+      "third",
+      "stylesheet"
+    ],
+    "summary": "@layer is the real fix. When a third-party reset beats your styles and your own utilities lose to an ancient nested rule, the problem isn't your selectors. It's that your stylesheet has no architecture."
+  },
+  "76d7483c81979bad": {
+    "file": "corpus/devto/dev_to_bartoszosn_what-defines-a-day-when-technical-implemen_51125566f5.md",
+    "source": "devto",
+    "title": "What defines a day - When technical implementation affects business behaviour",
+    "url": "https://dev.to/bartoszosn/what-defines-a-day-when-technical-implementation-affects-business-behaviour-4j2b",
+    "keywords": [
+      "start working",
+      "new ...",
+      "first thing",
+      "think",
+      "source",
+      "reactions",
+      "programmer",
+      "news",
+      "devto",
+      "defines"
+    ],
+    "summary": "# What defines a day - When technical implementation affects business behaviour > Source: devto | Category: news | 2026-07-04T09:37:48Z As a programmer, what is the first thing you think about when you start working on a new..."
+  },
+  "3728a1b651bc7db9": {
+    "file": "corpus/devto/dev_to_moein7_software-isnt-a-list-of-tasks-its-a-network-of_7a29987cd4.md",
+    "source": "devto",
+    "title": "Software Isn't a List of Tasks—It's a Network of Dependencies",
+    "url": "https://dev.to/moein7/software-isnt-a-list-of-tasks-its-a-network-of-dependencies-5h7m",
+    "keywords": [
+      "software team long enough",
+      "sprint planning ...",
+      "tasks —",
+      "tasks —",
+      "probably experienced",
+      "software",
+      "software",
+      "worked",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Software Isn't a List of Tasks—It's a Network of Dependencies > Source: devto | Category: news | 2026-07-04T09:37:51Z If you've worked on a software team long enough, you've probably experienced this."
+  },
+  "e6f1a17707a7ca73": {
+    "file": "corpus/devto/dev_to_khalisollis_broken-access-control-who-actually-deserv_a0671ac593.md",
+    "source": "devto",
+    "title": "Broken Access Control: Who Actually Deserves Your Time?",
+    "url": "https://dev.to/khalisollis/broken-access-control-who-actually-deserves-your-time-47k4",
+    "keywords": [
+      "broken access control",
+      "broken access control",
+      "often mistaken",
+      "actually deserves",
+      "actually deserves",
+      "time",
+      "time",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Broken Access Control: Who Actually Deserves Your Time? > Source: devto | Category: news | 2026-07-04T09:37:50Z How unrestricted emotional access creates instability, why familiarity is often mistaken for..."
+  },
+  "72a512054221a3da": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48783722_d5e1609f2e.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48783722",
+    "keywords": [
+      "5 days ), 4dww",
+      "visa sponsorship .< p",
+      "international scale .< p",
+      "senior full stack engineer",
+      "independent digital music distribution",
+      "following .< p",
+      "genuinely helpful way",
+      "building something kinder",
+      "49z make waves",
+      "general &# x2f"
+    ],
+    "summary": "Make Waves | <a href=\"https:&#x2F;&#x2F;makewaves.fm\" rel=\"nofollow\">https:&#x2F;&#x2F;makewaves.fm</a> | multiple roles | FULLTIME (4-5 days), 4DWW | ONSITE - HYBRID - REMOTE (NL preferred, EU considered) | Amsterdam, NL<p>We are a DIY distribution and promotion platform for independent artists and labels. In an industry that&#x27;s notoriously over-complicated and dominated by players who only care about volume, we&#x27;re building something kinder: a genuinely helpful way to release music and"
   }
 }
