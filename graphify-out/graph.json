@@ -43924,6 +43924,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_ntty_why_your_indie_project_is_stuck_in_development_h_bace312854",
+      "label": "dev_to_ntty_why-your-indie-project-is-stuck-in-development-h_bace312854.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_ntty_why-your-indie-project-is-stuck-in-development-h_bace312854.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_ntty_why_your_indie_project_is_stuck_in_development_h_bace312854_why_your_indie_project_is_stuck_in_development_hell",
+      "label": "Why Your Indie Project is Stuck in Development Hell",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_ntty_why-your-indie-project-is-stuck-in-development-h_bace312854.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_null_saint_i_removed_the_high_level_frameworks_and_ha_6f4e019359",
       "label": "dev_to_null_saint_i-removed-the-high-level-frameworks-and-ha_6f4e019359.md",
       "file_type": "document",
@@ -86740,6 +86756,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_arxiv_org_abs_2606_26967_4b5ef1764a",
+      "label": "arxiv_org_abs_2606_26967_4b5ef1764a.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/arxiv_org_abs_2606_26967_4b5ef1764a.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_arxiv_org_abs_2606_26967_4b5ef1764a_protocol_prying_vulnerability_research_in_airdrop_and_quick_share",
+      "label": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/arxiv_org_abs_2606_26967_4b5ef1764a.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_arxiv_org_abs_2607_01232_b7dfd5c095",
       "label": "arxiv_org_abs_2607_01232_b7dfd5c095.md",
       "file_type": "document",
@@ -88736,6 +88768,22 @@
       "label": "You Don't Love Systemd Timers Enough",
       "file_type": "document",
       "source_file": "corpus/hackernews/blog_tjll_net_you-dont-love-systemd-timers-enough_ed59086efb.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_blog_trailofbits_com_2026_06_30_shipping_post_quantum_crypto_1ecbead883",
+      "label": "blog_trailofbits_com_2026_06_30_shipping-post-quantum-crypto_1ecbead883.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/blog_trailofbits_com_2026_06_30_shipping-post-quantum-crypto_1ecbead883.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_blog_trailofbits_com_2026_06_30_shipping_post_quantum_crypto_1ecbead883_shipping_post_quantum_cryptography_to_python_the_trail_of_bits_blog",
+      "label": "Shipping post-quantum cryptography to Python – The Trail of Bits Blog",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/blog_trailofbits_com_2026_06_30_shipping-post-quantum-crypto_1ecbead883.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -104544,6 +104592,22 @@
       "label": "Does average person understand that all disc media dies too?",
       "file_type": "document",
       "source_file": "corpus/hackernews/news_ycombinator_com_item_id_48785525_1d07c97adc.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_news_ycombinator_com_item_id_48788887_341f7dc429",
+      "label": "news_ycombinator_com_item_id_48788887_341f7dc429.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/news_ycombinator_com_item_id_48788887_341f7dc429.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_news_ycombinator_com_item_id_48788887_341f7dc429_ask_hn_new_employeer_not_providing_equipment",
+      "label": "Ask HN: New employeer not providing equipment",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/news_ycombinator_com_item_id_48788887_341f7dc429.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -195054,6 +195118,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_ntty_why_your_indie_project_is_stuck_in_development_h_bace312854",
+      "target": "corpus_devto_dev_to_ntty_why_your_indie_project_is_stuck_in_development_h_bace312854_why_your_indie_project_is_stuck_in_development_hell",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_ntty_why-your-indie-project-is-stuck-in-development-h_bace312854.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_null_saint_i_removed_the_high_level_frameworks_and_ha_6f4e019359",
       "target": "corpus_devto_dev_to_null_saint_i_removed_the_high_level_frameworks_and_ha_6f4e019359_i_removed_the_high_level_frameworks_and_hand_crafted_my_own_modbus_tcp_toolkit_from_raw_sockets",
       "relation": "contains",
@@ -225240,6 +225313,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_arxiv_org_abs_2606_26967_4b5ef1764a",
+      "target": "corpus_hackernews_arxiv_org_abs_2606_26967_4b5ef1764a_protocol_prying_vulnerability_research_in_airdrop_and_quick_share",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/arxiv_org_abs_2606_26967_4b5ef1764a.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_arxiv_org_abs_2607_01232_b7dfd5c095",
       "target": "corpus_hackernews_arxiv_org_abs_2607_01232_b7dfd5c095_is_one_layer_enough_a_single_transformer_layer_matches_full_parameter_rl_train",
       "relation": "contains",
@@ -226361,6 +226443,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/blog_tjll_net_you-dont-love-systemd-timers-enough_ed59086efb.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_blog_trailofbits_com_2026_06_30_shipping_post_quantum_crypto_1ecbead883",
+      "target": "corpus_hackernews_blog_trailofbits_com_2026_06_30_shipping_post_quantum_crypto_1ecbead883_shipping_post_quantum_cryptography_to_python_the_trail_of_bits_blog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/blog_trailofbits_com_2026_06_30_shipping-post-quantum-crypto_1ecbead883.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -235262,6 +235353,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/news_ycombinator_com_item_id_48785525_1d07c97adc.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_news_ycombinator_com_item_id_48788887_341f7dc429",
+      "target": "corpus_hackernews_news_ycombinator_com_item_id_48788887_341f7dc429_ask_hn_new_employeer_not_providing_equipment",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/news_ycombinator_com_item_id_48788887_341f7dc429.md",
       "source_location": "L12",
       "weight": 1.0
     },
