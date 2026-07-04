@@ -22796,6 +22796,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_dmytro_huz_adding_homemade_tls_to_a_homemade_web_serv_cdd605209c",
+      "label": "dev_to_dmytro_huz_adding-homemade-tls-to-a-homemade-web-serv_cdd605209c.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_dmytro_huz_adding-homemade-tls-to-a-homemade-web-serv_cdd605209c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_dmytro_huz_adding_homemade_tls_to_a_homemade_web_serv_cdd605209c_adding_homemade_tls_to_a_homemade_web_server",
+      "label": "Adding Homemade TLS to a Homemade Web Server",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_dmytro_huz_adding-homemade-tls-to-a-homemade-web-serv_cdd605209c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_dmytrooriekhov_i_migrated_my_python_backend_to_cloudf_a4d2a1d116",
       "label": "dev_to_dmytrooriekhov_i-migrated-my-python-backend-to-cloudf_a4d2a1d116.md",
       "file_type": "document",
@@ -26296,6 +26312,22 @@
       "label": "When a Spreadsheet Became an App (and I Wasn't a Programmer)",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_fromzerotoship_when-a-spreadsheet-became-an-app-and-i_2bd1cba4db.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_fromzerotoship_when_i_started_building_software_for_p_dec4220c24",
+      "label": "dev_to_fromzerotoship_when-i-started-building-software-for-p_dec4220c24.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_fromzerotoship_when-i-started-building-software-for-p_dec4220c24.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_fromzerotoship_when_i_started_building_software_for_p_dec4220c24_when_i_started_building_software_for_people_not_problems",
+      "label": "When I Started Building Software for People, Not Problems",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_fromzerotoship_when-i-started-building-software-for-p_dec4220c24.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -48016,6 +48048,22 @@
       "label": "How I Built an MCP-Native Open-Source Notion Alternative",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_ranork_how-i-built-an-mcp-native-open-source-notion-a_22e514ef0d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_raphink_clean_edges_using_a_png_alpha_mask_on_ai_gene_af382e90f7",
+      "label": "dev_to_raphink_clean-edges-using-a-png-alpha-mask-on-ai-gene_af382e90f7.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_raphink_clean-edges-using-a-png-alpha-mask-on-ai-gene_af382e90f7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_raphink_clean_edges_using_a_png_alpha_mask_on_ai_gene_af382e90f7_clean_edges_using_a_png_alpha_mask_on_ai_generated_animations",
+      "label": "Clean Edges: Using a PNG Alpha Mask on AI-Generated Animations",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_raphink_clean-edges-using-a-png-alpha-mask-on-ai-gene_af382e90f7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -101104,6 +101152,22 @@
       "label": "The Coming Loop",
       "file_type": "document",
       "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_6_23_the-coming-loop_2eece697b1.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_lucumr_pocoo_org_2026_7_4_better_models_worse_tools_227d120c90",
+      "label": "lucumr_pocoo_org_2026_7_4_better-models-worse-tools_227d120c90.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_7_4_better-models-worse-tools_227d120c90.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_lucumr_pocoo_org_2026_7_4_better_models_worse_tools_227d120c90_better_models_worse_tools",
+      "label": "Better Models: Worse Tools",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_7_4_better-models-worse-tools_227d120c90.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -183101,6 +183165,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_dmytro_huz_adding_homemade_tls_to_a_homemade_web_serv_cdd605209c",
+      "target": "corpus_devto_dev_to_dmytro_huz_adding_homemade_tls_to_a_homemade_web_serv_cdd605209c_adding_homemade_tls_to_a_homemade_web_server",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_dmytro_huz_adding-homemade-tls-to-a-homemade-web-serv_cdd605209c.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_dmytrooriekhov_i_migrated_my_python_backend_to_cloudf_a4d2a1d116",
       "target": "corpus_devto_dev_to_dmytrooriekhov_i_migrated_my_python_backend_to_cloudf_a4d2a1d116_i_migrated_my_python_backend_to_cloudflare_workers_in_4_hours_and_got_12x_speedup",
       "relation": "contains",
@@ -185068,6 +185141,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_fromzerotoship_when-a-spreadsheet-became-an-app-and-i_2bd1cba4db.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_fromzerotoship_when_i_started_building_software_for_p_dec4220c24",
+      "target": "corpus_devto_dev_to_fromzerotoship_when_i_started_building_software_for_p_dec4220c24_when_i_started_building_software_for_people_not_problems",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_fromzerotoship_when-i-started-building-software-for-p_dec4220c24.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -197290,6 +197372,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_ranork_how-i-built-an-mcp-native-open-source-notion-a_22e514ef0d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_raphink_clean_edges_using_a_png_alpha_mask_on_ai_gene_af382e90f7",
+      "target": "corpus_devto_dev_to_raphink_clean_edges_using_a_png_alpha_mask_on_ai_gene_af382e90f7_clean_edges_using_a_png_alpha_mask_on_ai_generated_animations",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_raphink_clean-edges-using-a-png-alpha-mask-on-ai-gene_af382e90f7.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -233254,6 +233345,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_6_23_the-coming-loop_2eece697b1.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_lucumr_pocoo_org_2026_7_4_better_models_worse_tools_227d120c90",
+      "target": "corpus_hackernews_lucumr_pocoo_org_2026_7_4_better_models_worse_tools_227d120c90_better_models_worse_tools",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/lucumr_pocoo_org_2026_7_4_better-models-worse-tools_227d120c90.md",
       "source_location": "L12",
       "weight": 1.0
     },
