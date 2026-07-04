@@ -172424,5 +172424,442 @@
       "browser variants"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-04T01:11:10Z - Avoid unnecessary rendering for validation in dev: #95394 - fix: work around SWC compress bug: #95457 - docs: Update FormEvent to SubmitEvent in form handling example (deprecated in React 19.2.10+): #95453 - Update font data: #95441 - Ignore-list internal frames whose source maps chain to original sources: #95448 - Type resolved `cacheLife` profiles, dropping runtime asserts: #95428 - Split typeof-window server requires int"
+  },
+  "2be4db21672b765c": {
+    "file": "corpus/hackernews/twitter_com_i_status_2071469740141224272_b7be78125e.md",
+    "source": "hackernews",
+    "title": "You can get Unicode working on DOS",
+    "url": "https://twitter.com/i/status/2071469740141224272",
+    "keywords": [
+      "get unicode working",
+      "get unicode working",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "dos",
+      "dos",
+      "comments",
+      "category"
+    ],
+    "summary": "# You can get Unicode working on DOS > Source: hackernews | Category: news | 2026-07-04T04:48:50Z Score: 12 | Comments: 5"
+  },
+  "eb5fb2d93091f80c": {
+    "file": "corpus/hackernews/github_com_rochus-keller_BUSY_f23a29a4ee.md",
+    "source": "hackernews",
+    "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
+    "url": "https://github.com/rochus-keller/BUSY/",
+    "keywords": [
+      "easily bootstrappable build system",
+      "easily bootstrappable build system",
+      "statically typed",
+      "statically typed",
+      "show hn",
+      "show hn",
+      "46z score",
+      "source",
+      "platform",
+      "platform"
+    ],
+    "summary": "# Show HN: A statically typed, cross-platform, easily bootstrappable build system > Source: hackernews | Category: news | 2026-07-04T04:48:46Z Score: 22 | Comments: 7"
+  },
+  "1b8457484abaf29f": {
+    "file": "corpus/hackernews/danluu_com_ai-coding_appendix-agentic-loops-and-writing-this_4d0f906cd0.md",
+    "source": "hackernews",
+    "title": "Agentic coding notes from Galapogos Island",
+    "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+    "keywords": [
+      "agentic coding notes",
+      "agentic coding notes",
+      "galapogos island",
+      "galapogos island",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Agentic coding notes from Galapogos Island > Source: hackernews | Category: news | 2026-07-04T04:48:43Z Score: 5 | Comments: 0"
+  },
+  "ffc23ba368db26f4": {
+    "file": "corpus/hackernews/davidslv_uk_2026_06_30_reading-binary-in-ruby_html_26b5a10bf1.md",
+    "source": "hackernews",
+    "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+    "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
+    "keywords": [
+      "bigf archive format",
+      "bigf archive format",
+      "engineering codemasters",
+      "engineering codemasters",
+      "48z score",
+      "source",
+      "ruby",
+      "ruby",
+      "reverse",
+      "reverse"
+    ],
+    "summary": "# Reverse-engineering Codemasters' BIGF archive format in Ruby > Source: hackernews | Category: news | 2026-07-04T04:48:48Z Score: 3 | Comments: 3"
+  },
+  "2e4d13ea1b2db540": {
+    "file": "corpus/hackernews/surfingcomplexity_blog_2026_07_03_synthesis-is-harder-than-a_9b6e92a306.md",
+    "source": "hackernews",
+    "title": "Synthesis is harder than analysis",
+    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+    "keywords": [
+      "44z score",
+      "synthesis",
+      "synthesis",
+      "source",
+      "news",
+      "harder",
+      "harder",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Synthesis is harder than analysis > Source: hackernews | Category: news | 2026-07-04T04:48:44Z Score: 21 | Comments: 7"
+  },
+  "fabaf02f1fc4e33d": {
+    "file": "corpus/hackernews/www_marginalia_nu_log_a_135_learn_f9089385a6.md",
+    "source": "hackernews",
+    "title": "Maybe you should learn something",
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "keywords": [
+      "learn something",
+      "learn something",
+      "46z score",
+      "source",
+      "news",
+      "maybe",
+      "maybe",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Maybe you should learn something > Source: hackernews | Category: news | 2026-07-04T04:48:46Z Score: 3 | Comments: 2"
+  },
+  "973b1d6bb384d3b7": {
+    "file": "corpus/devto/dev_to_arslan_ah_ive-taught-system-design-to-hundreds-of-eng_1a90eaa04b.md",
+    "source": "devto",
+    "title": "I've taught system design to hundreds of engineers. Here's where I tell them all to start.",
+    "url": "https://dev.to/arslan_ah/ive-taught-system-design-to-hundreds-of-engineers-heres-where-i-tell-them-all-to-start-3p7g",
+    "keywords": [
+      "taught system design",
+      "taught system design",
+      "56z somewhere around",
+      "noticed something",
+      "hundredth engineer",
+      "tell",
+      "tell",
+      "struggling",
+      "start",
+      "start"
+    ],
+    "summary": "# I've taught system design to hundreds of engineers. Here's where I tell them all to start. Somewhere around the hundredth engineer I coached, I noticed something."
+  },
+  "e64fd7b59f44b253": {
+    "file": "corpus/devto/dev_to_piotrek1372_building-an-mcp-server-in-python-architec_3735054956.md",
+    "source": "devto",
+    "title": "Building an MCP Server in Python — Architecture, FastMCP, and Production Code",
+    "url": "https://dev.to/piotrek1372/building-an-mcp-server-in-python-architecture-fastmcp-and-production-code-3co5",
+    "keywords": [
+      "custom mcp server .**.",
+      "updating seo ...",
+      "python — architecture",
+      "python — architecture",
+      "mcp server",
+      "mcp server",
+      "publishing posts",
+      "production code",
+      "production code",
+      "source"
+    ],
+    "summary": "# Building an MCP Server in Python — Architecture, FastMCP, and Production Code I run my blog, devmindset.dev, through a custom MCP server.**. Publishing posts, updating SEO..."
+  },
+  "31f00ef2ab27f0af": {
+    "file": "corpus/devto/dev_to_nasrulhazim_making-a-datatable-keyboard-usable-focus-_e30b683361.md",
+    "source": "devto",
+    "title": "Making a datatable keyboard-usable: focus traps and arrow-key row reorder",
+    "url": "https://dev.to/nasrulhazim/making-a-datatable-keyboard-usable-focus-traps-and-arrow-key-row-reorder-252f",
+    "keywords": [
+      "key row reorder",
+      "key row reorder",
+      "tables v4",
+      "popovers ...",
+      "focus traps",
+      "focus traps",
+      "focus traps",
+      "datatable keyboard",
+      "datatable keyboard",
+      "56z tl"
+    ],
+    "summary": "# Making a datatable keyboard-usable: focus traps and arrow-key row reorder > Source: devto | Category: news | 2026-07-04T04:48:56Z TL;DR    Shipped two a11y wins in laravel-livewire-tables v4.1.0: focus traps on popovers..."
+  },
+  "c4919595cc646304": {
+    "file": "corpus/devto/dev_to_stefan_sabolowitsch_3bd10_vaultwarden-plus-v1363-orga_56618d8ff9.md",
+    "source": "devto",
+    "title": "Vaultwarden-Plus v1.36.3: Organization Account Recovery — without breaking zero-knowledge",
+    "url": "https://dev.to/stefan_sabolowitsch_3bd10/vaultwarden-plus-v1363-organization-account-recovery-without-breaking-zero-knowledge-144",
+    "keywords": [
+      "team eventually hits",
+      "56z every operator",
+      "plus v1",
+      "plus v1",
+      "member forgets",
+      "runs vaultwarden",
+      "vaultwarden",
+      "vaultwarden",
+      "wall",
+      "source"
+    ],
+    "summary": "# Vaultwarden-Plus v1.36.3: Organization Account Recovery — without breaking zero-knowledge > Source: devto | Category: news | 2026-07-04T04:48:56Z Every operator who runs Vaultwarden for a team eventually hits the same wall: a member forgets their..."
+  },
+  "d1059e341e55c60c": {
+    "file": "corpus/devto/dev_to_gabrielmahia_what-happens-when-a-drought-signal-doesn_39a282fef2.md",
+    "source": "devto",
+    "title": "What Happens When a Drought Signal Doesn't Go Anywhere",
+    "url": "https://dev.to/gabrielmahia/what-happens-when-a-drought-signal-doesnt-go-anywhere-3ln4",
+    "keywords": [
+      "turkana county",
+      "smallholder farmer",
+      "parametric :...",
+      "insurance contract",
+      "go anywhere",
+      "go anywhere",
+      "drought signal",
+      "drought signal",
+      "crop insurance",
+      "source"
+    ],
+    "summary": "# What Happens When a Drought Signal Doesn't Go Anywhere A smallholder farmer in Turkana County has crop insurance. The insurance contract is parametric:..."
+  },
+  "8f6425a5c4442d00": {
+    "file": "corpus/devto/dev_to_eayurt_ruby-ecosystem-is-growing-and-changing-it-is-a_6b330d7e24.md",
+    "source": "devto",
+    "title": "Ruby ecosystem is growing and changing. It is adapting to the AI era very quickly.",
+    "url": "https://dev.to/eayurt/ruby-ecosystem-is-growing-and-changing-it-is-adapting-to-the-ai-era-very-quickly-25m6",
+    "keywords": [
+      "rubykaigi survey ...",
+      "ruby ecosystem",
+      "ruby ecosystem",
+      "ai era",
+      "ai era",
+      "active rubyists",
+      "using",
+      "source",
+      "read",
+      "reactions"
+    ],
+    "summary": "# Ruby ecosystem is growing and changing. It is adapting to the AI era very quickly. What Active Rubyists Are Using in 2026: A Maintainer's Read of the RubyKaigi Survey            ..."
+  },
+  "f3a4f1cc42869cae": {
+    "file": "corpus/devto/dev_to_wolfejam_agentsmd-hands-on-build-one-step-by-step-and_6d1e476e1e.md",
+    "source": "devto",
+    "title": "AGENTS.md, Hands-On: Build One Step by Step (and Watch an Agent Use It)",
+    "url": "https://dev.to/wolfejam/agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it-3g27",
+    "keywords": [
+      "build one step",
+      "build one step",
+      "field guide",
+      "agent use",
+      "agent use",
+      "step",
+      "step",
+      "watch",
+      "watch",
+      "source"
+    ],
+    "summary": "# AGENTS.md, Hands-On: Build One Step by Step (and Watch an Agent Use It) > Source: devto | Category: news | 2026-07-04T04:48:51Z In the field guide I covered what an AGENTS.md is and what belongs in it."
+  },
+  "4c94eba315a5ba14": {
+    "file": "corpus/devto/dev_to_earlgreyhot1701d_ai-for-fun-electric-chats-at-hack-th_e6b727802b.md",
+    "source": "devto",
+    "title": "AI For Fun! Électrique Chats for Hack the Kitty, Built with Kiro.",
+    "url": "https://dev.to/earlgreyhot1701d/ai-for-fun-electric-chats-at-hack-the-kitty-built-with-kiro-849",
+    "keywords": [
+      "électrique chats",
+      "électrique chats",
+      "cat astrologer",
+      "amazon bedrock",
+      "spec",
+      "source",
+      "running",
+      "reactions",
+      "news",
+      "kitty"
+    ],
+    "summary": "Électrique Chats for Hack the Kitty, Built with Kiro. > Source: devto | Category: news | 2026-07-04T04:48:52Z A cat astrologer, spec-driven and running on Amazon Bedrock   A companion to A Builder in..."
+  },
+  "8d34871aab177b1f": {
+    "file": "corpus/devto/dev_to_pavelespitia_effort-levels-in-practice-i-benchmarked-_501214c7c6.md",
+    "source": "devto",
+    "title": "Effort Levels in Practice: I Benchmarked low Through max on Real Tasks",
+    "url": "https://dev.to/pavelespitia/effort-levels-in-practice-i-benchmarked-low-through-max-on-real-tasks-7lf",
+    "keywords": [
+      "current claude models give",
+      "real tasks",
+      "real tasks",
+      "five settings",
+      "effort levels",
+      "effort levels",
+      "effort knob",
+      "benchmarked low",
+      "benchmarked low",
+      "max ...."
+    ],
+    "summary": "# Effort Levels in Practice: I Benchmarked low Through max on Real Tasks > Source: devto | Category: news | 2026-07-04T04:48:55Z The current Claude models give you an effort knob with five settings: low, medium, high, xhigh, max...."
+  },
+  "24e5dc9dd63b6be1": {
+    "file": "corpus/devto/dev_to_yatindavra23_how-i-ended-up-contributing-five-ways-to_af6238c040.md",
+    "source": "devto",
+    "title": "How I ended up contributing five ways to shape an LLM's output",
+    "url": "https://dev.to/yatindavra23/how-i-ended-up-contributing-five-ways-to-shape-an-llms-output-18cf",
+    "keywords": [
+      "return actual structured data",
+      "contributing five ways",
+      "contributing five ways",
+      "needed llms",
+      "months back",
+      "source",
+      "shape",
+      "shape",
+      "reactions",
+      "prose"
+    ],
+    "summary": "# How I ended up contributing five ways to shape an LLM's output > Source: devto | Category: news | 2026-07-04T04:48:53Z A few months back I was on a project that needed LLMs to return actual structured data, not prose I'd..."
+  },
+  "fe3c59171418069b": {
+    "file": "corpus/devto/dev_to_gabrielmahia_building-an-alternative-credit-score-fro_3596a1199d.md",
+    "source": "devto",
+    "title": "Building an Alternative Credit Score from M-PESA Behavioral Data",
+    "url": "https://dev.to/gabrielmahia/building-an-alternative-credit-score-from-m-pesa-behavioral-data-1bl1",
+    "keywords": [
+      "took five decades",
+      "pesa behavioral data",
+      "pesa behavioral data",
+      "global standard ....",
+      "credit card data",
+      "alternative credit score",
+      "alternative credit score",
+      "54z fico",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Building an Alternative Credit Score from M-PESA Behavioral Data > Source: devto | Category: news | 2026-07-04T04:48:54Z FICO was invented in 1956 and took five decades of credit card data to become the global standard...."
+  },
+  "fb3b51c64e28188a": {
+    "file": "corpus/devto/dev_to_alok_barai_i-built-an-entire-agency-management-platfo_d1f7c695c8.md",
+    "source": "devto",
+    "title": "I built an entire agency management platform by myself. Here's what actually happened.",
+    "url": "https://dev.to/alok_barai/i-built-an-entire-agency-management-platform-by-myself-heres-what-actually-happened-3agf",
+    "keywords": [
+      "entire agency management platform",
+      "entire agency management platform",
+      "deliver food",
+      "actually happened",
+      "actually happened",
+      "15 hours",
+      "zepto",
+      "used",
+      "sun",
+      "source"
+    ],
+    "summary": "# I built an entire agency management platform by myself. I used to deliver food on Zepto. I saved up, bought a..."
+  },
+  "01363a53f6ff42ae": {
+    "file": "corpus/devto/dev_to_ljtn_in-pursuit-of-the-ideal-developer-experience-2gp_1ec5310857.md",
+    "source": "devto",
+    "title": "In Pursuit of the Ideal Developer Experience",
+    "url": "https://dev.to/ljtn/in-pursuit-of-the-ideal-developer-experience-2gp8",
+    "keywords": [
+      "ultimate developer experience",
+      "ideal developer experience",
+      "ideal developer experience",
+      "tracking issues",
+      "terminal ,...",
+      "seemed like",
+      "ascii board",
+      "source",
+      "reactions",
+      "pursuit"
+    ],
+    "summary": "# In Pursuit of the Ideal Developer Experience > Source: devto | Category: news | 2026-07-04T04:48:55Z It seemed like the ultimate developer experience - tracking issues on an ASCII board in the terminal,..."
+  },
+  "d91987427635828a": {
+    "file": "corpus/devto/dev_to_kwasii_building-a-self-hosted-photo-organizer-with-fa_b862884a78.md",
+    "source": "devto",
+    "title": "Building a Self-Hosted Photo Organizer with Face Recognition (Laravel + FastAPI + InsightFace)",
+    "url": "https://dev.to/kwasii/building-a-self-hosted-photo-organizer-with-face-recognition-laravel-fastapi-insightface-3g2k",
+    "keywords": [
+      "hosted photo organizer",
+      "hosted photo organizer",
+      "mostly ...",
+      "face recognition",
+      "face recognition",
+      "google photos",
+      "photos",
+      "years",
+      "take",
+      "source"
+    ],
+    "summary": "# Building a Self-Hosted Photo Organizer with Face Recognition (Laravel + FastAPI + InsightFace) I take a lot of photos. Like most people, I'd been dumping them into Google Photos for years, mostly..."
+  },
+  "e92875cb4d6540ff": {
+    "file": "corpus/devto/dev_to_martin_palopoli_typed-orm-with-automatic-migrations-f_bd7a8c9260.md",
+    "source": "devto",
+    "title": "Typed ORM with automatic migrations: Fitz vs SQLAlchemy + Alembic + Pydantic",
+    "url": "https://dev.to/martin_palopoli/typed-orm-with-automatic-migrations-fitz-vs-sqlalchemy-alembic-pydantic-3k1d",
+    "keywords": [
+      "maintain 3 sources",
+      "fitz vs sqlalchemy",
+      "fitz vs sqlalchemy",
+      "typed orm",
+      "typed orm",
+      "typed orm",
+      "truth ...",
+      "automatic migrations",
+      "automatic migrations",
+      "automatic migrations"
+    ],
+    "summary": "# Typed ORM with automatic migrations: Fitz vs SQLAlchemy + Alembic + Pydantic > Source: devto | Category: news | 2026-07-04T04:48:54Z For a typed ORM with automatic migrations in Python you need to maintain 3 sources of truth..."
+  },
+  "7ac92ab749fb9681": {
+    "file": "corpus/devto/dev_to_arvavit_http-finally-shipped-query-i-fired-it-at-prod_e503bbb85f.md",
+    "source": "devto",
+    "title": "HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.",
+    "url": "https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj",
+    "keywords": [
+      "http finally shipped query",
+      "http finally shipped query",
+      "real http method",
+      "deployed echo ...",
+      "rfc 10008",
+      "edge called",
+      "edge called",
+      "52z tl",
+      "query",
+      "source"
+    ],
+    "summary": "# HTTP finally shipped QUERY. I fired it at production and the edge called it a bot. > Source: devto | Category: news | 2026-07-04T04:48:52Z"
+  },
+  "96a805e48c15f644": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48782067_698ba68428.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48782067",
+    "keywords": [
+      "resources &# x2f ;</",
+      "hiring two founding engineers",
+      "ai &# x2f",
+      "ai &# x2f",
+      "volume client work",
+      "professional services firms",
+      "first company building",
+      "fe level equity",
+      "ai automation platform",
+      "july 2026 ))"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-07-04T04:49:36Z PostSilo is a privacy-first company building an AI automation platform for professional services firms that handle sensitive, high-volume client work. We&#x27;re hiring two founding engineers to take the product from serving its initial customers to one that scales to hundreds of firms.<p>Position 1: Founding Engineer, Data &amp; Retrieval<p>Position 2: Founding Engineer, AI Systems &amp; Infrastructure<p>Type: Full Time<p>Locatio"
   }
 }
