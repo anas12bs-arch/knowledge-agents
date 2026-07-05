@@ -79148,6 +79148,46 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53",
+      "label": "github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78_released",
+      "label": "vercel/next.js v16.3.0-canary.78 released",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78",
+      "label": "vercel/next.js — v16.3.0-canary.78",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_misc_changes",
+      "label": "Misc Changes",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_credits",
+      "label": "Credits",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_preview_1_5c5d736b8a",
       "label": "github_com_vercel_next_js_releases_tag_v16_3_0-preview_1_5c5d736b8a.md",
       "file_type": "document",
@@ -84116,6 +84156,70 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6",
+      "label": "github_com_unslothai_unsloth_1970f2aab6.md",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_unslothai_unsloth_67805",
+      "label": "unslothai/unsloth ⭐67805",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_get_started",
+      "label": "⚡ Get started",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L44",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_macos_linux_wsl",
+      "label": "macOS, Linux, WSL:",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L46",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_windows",
+      "label": "Windows:",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L50",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_community",
+      "label": "Community:",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L54",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_features",
+      "label": "⭐ Features",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L60",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_inference",
+      "label": "Inference",
+      "file_type": "document",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L63",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_github_trending_github_com_vercel_next_js_dcb792d718",
       "label": "github_com_vercel_next_js_dcb792d718.md",
       "file_type": "document",
@@ -85632,6 +85736,22 @@
       "label": "Supreme Court upholds broad conception of birthright citizenship",
       "file_type": "document",
       "source_file": "corpus/hackernews/apnews_com_live_birthright-citizenship-decision-supreme-cour_947095ae2a.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_app_cloudslinker_com_login_667fd55cd9",
+      "label": "app_cloudslinker_com_login_667fd55cd9.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/app_cloudslinker_com_login_667fd55cd9.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_app_cloudslinker_com_login_667fd55cd9_cloudslinker_move_and_sync_files_across_50_cloud_services",
+      "label": "CloudsLinker: Move and sync files across 50 cloud services",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/app_cloudslinker_com_login_667fd55cd9.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -92068,6 +92188,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_ekinertac_com_blog_i_dont_know_rust_my_ai_is_rewriting_php_i_9a6914bcb1",
+      "label": "ekinertac_com_blog_i-dont-know-rust-my-ai-is-rewriting-php-i_9a6914bcb1.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/ekinertac_com_blog_i-dont-know-rust-my-ai-is-rewriting-php-i_9a6914bcb1.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_ekinertac_com_blog_i_dont_know_rust_my_ai_is_rewriting_php_i_9a6914bcb1_my_ai_built_php_engine_in_rust_passes_17_of_php_src_tests_renders_wordpress",
+      "label": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/ekinertac_com_blog_i-dont-know-rust-my-ai-is-rewriting-php-i_9a6914bcb1.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_electrek_co_2026_05_20_in_a_first_wind_solar_generated_more_46321db628",
       "label": "electrek_co_2026_05_20_in-a-first-wind-solar-generated-more-_46321db628.md",
       "file_type": "document",
@@ -92832,6 +92968,22 @@
       "label": "The 'papers, please' era of the internet will decimate your privacy",
       "file_type": "document",
       "source_file": "corpus/hackernews/expression_fire_org_p_the-papers-please-era-of-the-internet_19e5cf7f58.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_extelligence_substack_com_p_mama_look_a_white_dove_b0fdd3a1e3",
+      "label": "extelligence_substack_com_p_mama-look-a-white-dove_b0fdd3a1e3.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/extelligence_substack_com_p_mama-look-a-white-dove_b0fdd3a1e3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_extelligence_substack_com_p_mama_look_a_white_dove_b0fdd3a1e3_mama_look_a_white_dove",
+      "label": "Mama Look a White Dove",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/extelligence_substack_com_p_mama-look-a-white-dove_b0fdd3a1e3.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -97812,6 +97964,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_gracefulliberty_com_articles_return_to_zig_4607a88428",
+      "label": "gracefulliberty_com_articles_return-to-zig_4607a88428.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/gracefulliberty_com_articles_return-to-zig_4607a88428.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_gracefulliberty_com_articles_return_to_zig_4607a88428_returning_to_zig",
+      "label": "Returning to Zig",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/gracefulliberty_com_articles_return-to-zig_4607a88428.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_grack_com_blog_2026_06_25_dissecting_a_failed_nation_state_a_42ac93ac0f",
       "label": "grack_com_blog_2026_06_25_dissecting-a-failed-nation-state-a_42ac93ac0f.md",
       "file_type": "document",
@@ -101120,6 +101288,22 @@
       "label": "I built a 10 inch mini rack from aluminium extrusions",
       "file_type": "document",
       "source_file": "corpus/hackernews/louwrentius_com_i-build-a-10-inch-mini-rack-from-aluminium-e_3c5e25f95f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_lovable_dev_blog_85000_in_tokens_later_scaling_agentic_codin_92a7f6a3ec",
+      "label": "lovable_dev_blog_85000-in-tokens-later-scaling-agentic-codin_92a7f6a3ec.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/lovable_dev_blog_85000-in-tokens-later-scaling-agentic-codin_92a7f6a3ec.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_lovable_dev_blog_85000_in_tokens_later_scaling_agentic_codin_92a7f6a3ec_85_000_in_tokens_later_what_i_learned_from_scaling_agentic_coding_at_lovable",
+      "label": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/lovable_dev_blog_85000-in-tokens-later-scaling-agentic-codin_92a7f6a3ec.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -107108,6 +107292,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041",
+      "label": "pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041_egg_consumption_inversely_correlated_with_alzheimer_s",
+      "label": "Egg consumption inversely correlated with Alzheimer's",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_pubsonline_informs_org_doi_abs_10_1287_mnsc_2024_06185_6b0cf72b97",
       "label": "pubsonline_informs_org_doi_abs_10_1287_mnsc_2024_06185_6b0cf72b97.md",
       "file_type": "document",
@@ -109684,6 +109884,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_stories_tamu_edu_news_2026_04_14_scientists_reverse_brain_ag_15c2f2b56c",
+      "label": "stories_tamu_edu_news_2026_04_14_scientists-reverse-brain-ag_15c2f2b56c.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/stories_tamu_edu_news_2026_04_14_scientists-reverse-brain-ag_15c2f2b56c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_stories_tamu_edu_news_2026_04_14_scientists_reverse_brain_ag_15c2f2b56c_scientists_reverse_brain_aging_with_a_nasal_spray",
+      "label": "Scientists reverse brain aging, with a nasal spray",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/stories_tamu_edu_news_2026_04_14_scientists-reverse-brain-ag_15c2f2b56c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_stratechery_com_2026_the_iphones_last_stand_5ffa98d3cf",
       "label": "stratechery_com_2026_the-iphones-last-stand_5ffa98d3cf.md",
       "file_type": "document",
@@ -111136,6 +111352,22 @@
       "label": "Has AI already killed self-help nonfiction books?",
       "file_type": "document",
       "source_file": "corpus/hackernews/tim_blog_2026_06_12_has-ai-already-killed-nonfiction_866ef7423e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_time_gov_d447033df3",
+      "label": "time_gov_d447033df3.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/time_gov_d447033df3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_time_gov_d447033df3_national_institute_of_standards_and_technology_nist_official_us_time",
+      "label": "National Institute of Standards and Technology | NIST | Official US Time",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/time_gov_d447033df3.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -113248,6 +113480,22 @@
       "label": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "file_type": "document",
       "source_file": "corpus/hackernews/wpvip_com_future-of-the-web-2026_1da953622b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_writerbeware_blog_2025_09_19_return_of_the_nigerian_prince_r_9072df3509",
+      "label": "writerbeware_blog_2025_09_19_return-of-the-nigerian-prince-r_9072df3509.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/writerbeware_blog_2025_09_19_return-of-the-nigerian-prince-r_9072df3509.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_writerbeware_blog_2025_09_19_return_of_the_nigerian_prince_r_9072df3509_return_of_the_nigerian_prince_redux_beware_book_club_and_book_review_scams",
+      "label": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/writerbeware_blog_2025_09_19_return-of-the-nigerian-prince-r_9072df3509.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -119268,6 +119516,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_mbl_edu_news_jellyfish_can_heal_wounds_minutes_scientist_898d8fa748",
+      "label": "www_mbl_edu_news_jellyfish-can-heal-wounds-minutes-scientist_898d8fa748.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_mbl_edu_news_jellyfish-can-heal-wounds-minutes-scientist_898d8fa748.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_mbl_edu_news_jellyfish_can_heal_wounds_minutes_scientist_898d8fa748_jellyfish_can_heal_wounds_in_minutes_scientists_want_their_secrets",
+      "label": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_mbl_edu_news_jellyfish-can-heal-wounds-minutes-scientist_898d8fa748.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_mcsweeneys_net_articles_ai_economics_for_dummies_4823cc4be0",
       "label": "www_mcsweeneys_net_articles_ai-economics-for-dummies_4823cc4be0.md",
       "file_type": "document",
@@ -120768,6 +121032,22 @@
       "label": "The dead economy theory",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_owenmcgrann_com_p_the-dead-economy-theory_a02c69fb54.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_owlposting_com_p_heuristics_for_lab_robotics_and_where_93f0e69fdb",
+      "label": "www_owlposting_com_p_heuristics-for-lab-robotics-and-where_93f0e69fdb.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_owlposting_com_p_heuristics-for-lab-robotics-and-where_93f0e69fdb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_owlposting_com_p_heuristics_for_lab_robotics_and_where_93f0e69fdb_heuristics_for_lab_robotics_and_where_its_future_may_go",
+      "label": "Heuristics for lab robotics, and where its future may go",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_owlposting_com_p_heuristics-for-lab-robotics-and-where_93f0e69fdb.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -125744,6 +126024,22 @@
       "label": "Show HN: ZeroFS – A log-structured filesystem for S3",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_zerofs_net_356411c2f3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_zo_computer_7ef9c94c37",
+      "label": "www_zo_computer_7ef9c94c37.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_zo_computer_7ef9c94c37.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_zo_computer_7ef9c94c37_zo_computer",
+      "label": "Zo Computer",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_zo_computer_7ef9c94c37.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -217986,6 +218282,42 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53",
+      "target": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78_released",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78_released",
+      "target": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78",
+      "target": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_misc_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_vercel_next_js_v16_3_0_canary_78",
+      "target": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_canary_78_94532b9b53_credits",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_78_94532b9b53.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_preview_1_5c5d736b8a",
       "target": "corpus_github_releases_github_com_vercel_next_js_releases_tag_v16_3_0_preview_1_5c5d736b8a_vercel_next_js_v16_3_0_preview_1_released",
       "relation": "contains",
@@ -223737,6 +224069,69 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_unslothai_unsloth_67805",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_unslothai_unsloth_67805",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_get_started",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_get_started",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_macos_linux_wsl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_get_started",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_windows",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_get_started",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_community",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_unslothai_unsloth_67805",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_features",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_features",
+      "target": "corpus_github_trending_github_com_unslothai_unsloth_1970f2aab6_inference",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-trending/github_com_unslothai_unsloth_1970f2aab6.md",
+      "source_location": "L63",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_github_trending_github_com_vercel_next_js_dcb792d718",
       "target": "corpus_github_trending_github_com_vercel_next_js_dcb792d718_vercel_next_js_139608",
       "relation": "contains",
@@ -224759,6 +225154,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/apnews_com_live_birthright-citizenship-decision-supreme-cour_947095ae2a.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_app_cloudslinker_com_login_667fd55cd9",
+      "target": "corpus_hackernews_app_cloudslinker_com_login_667fd55cd9_cloudslinker_move_and_sync_files_across_50_cloud_services",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/app_cloudslinker_com_login_667fd55cd9.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -228381,6 +228785,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_ekinertac_com_blog_i_dont_know_rust_my_ai_is_rewriting_php_i_9a6914bcb1",
+      "target": "corpus_hackernews_ekinertac_com_blog_i_dont_know_rust_my_ai_is_rewriting_php_i_9a6914bcb1_my_ai_built_php_engine_in_rust_passes_17_of_php_src_tests_renders_wordpress",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/ekinertac_com_blog_i-dont-know-rust-my-ai-is-rewriting-php-i_9a6914bcb1.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_electrek_co_2026_05_20_in_a_first_wind_solar_generated_more_46321db628",
       "target": "corpus_hackernews_electrek_co_2026_05_20_in_a_first_wind_solar_generated_more_46321db628_in_a_first_wind_and_solar_generated_more_power_than_gas_globally_in_april_2026",
       "relation": "contains",
@@ -228809,6 +229222,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/expression_fire_org_p_the-papers-please-era-of-the-internet_19e5cf7f58.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_extelligence_substack_com_p_mama_look_a_white_dove_b0fdd3a1e3",
+      "target": "corpus_hackernews_extelligence_substack_com_p_mama_look_a_white_dove_b0fdd3a1e3_mama_look_a_white_dove",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/extelligence_substack_com_p_mama-look-a-white-dove_b0fdd3a1e3.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -231612,6 +232034,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_gracefulliberty_com_articles_return_to_zig_4607a88428",
+      "target": "corpus_hackernews_gracefulliberty_com_articles_return_to_zig_4607a88428_returning_to_zig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/gracefulliberty_com_articles_return-to-zig_4607a88428.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_grack_com_blog_2026_06_25_dissecting_a_failed_nation_state_a_42ac93ac0f",
       "target": "corpus_hackernews_grack_com_blog_2026_06_25_dissecting_a_failed_nation_state_a_42ac93ac0f_anatomy_of_a_failed_nation_state_attack",
       "relation": "contains",
@@ -233471,6 +233902,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/louwrentius_com_i-build-a-10-inch-mini-rack-from-aluminium-e_3c5e25f95f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_lovable_dev_blog_85000_in_tokens_later_scaling_agentic_codin_92a7f6a3ec",
+      "target": "corpus_hackernews_lovable_dev_blog_85000_in_tokens_later_scaling_agentic_codin_92a7f6a3ec_85_000_in_tokens_later_what_i_learned_from_scaling_agentic_coding_at_lovable",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/lovable_dev_blog_85000-in-tokens-later-scaling-agentic-codin_92a7f6a3ec.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -236850,6 +237290,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041",
+      "target": "corpus_hackernews_pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041_egg_consumption_inversely_correlated_with_alzheimer_s",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/pubmed_ncbi_nlm_nih_gov_42002260_94b0e8c041.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_pubsonline_informs_org_doi_abs_10_1287_mnsc_2024_06185_6b0cf72b97",
       "target": "corpus_hackernews_pubsonline_informs_org_doi_abs_10_1287_mnsc_2024_06185_6b0cf72b97_speed_is_a_signal_when_faster_replies_increase_hiring_likelihood",
       "relation": "contains",
@@ -238299,6 +238748,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_stories_tamu_edu_news_2026_04_14_scientists_reverse_brain_ag_15c2f2b56c",
+      "target": "corpus_hackernews_stories_tamu_edu_news_2026_04_14_scientists_reverse_brain_ag_15c2f2b56c_scientists_reverse_brain_aging_with_a_nasal_spray",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/stories_tamu_edu_news_2026_04_14_scientists-reverse-brain-ag_15c2f2b56c.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_stratechery_com_2026_the_iphones_last_stand_5ffa98d3cf",
       "target": "corpus_hackernews_stratechery_com_2026_the_iphones_last_stand_5ffa98d3cf_the_iphone_s_last_stand",
       "relation": "contains",
@@ -239114,6 +239572,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/tim_blog_2026_06_12_has-ai-already-killed-nonfiction_866ef7423e.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_time_gov_d447033df3",
+      "target": "corpus_hackernews_time_gov_d447033df3_national_institute_of_standards_and_technology_nist_official_us_time",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/time_gov_d447033df3.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -240302,6 +240769,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/wpvip_com_future-of-the-web-2026_1da953622b.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_writerbeware_blog_2025_09_19_return_of_the_nigerian_prince_r_9072df3509",
+      "target": "corpus_hackernews_writerbeware_blog_2025_09_19_return_of_the_nigerian_prince_r_9072df3509_return_of_the_nigerian_prince_redux_beware_book_club_and_book_review_scams",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/writerbeware_blog_2025_09_19_return-of-the-nigerian-prince-r_9072df3509.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -243690,6 +244166,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_www_mbl_edu_news_jellyfish_can_heal_wounds_minutes_scientist_898d8fa748",
+      "target": "corpus_hackernews_www_mbl_edu_news_jellyfish_can_heal_wounds_minutes_scientist_898d8fa748_jellyfish_can_heal_wounds_in_minutes_scientists_want_their_secrets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_mbl_edu_news_jellyfish-can-heal-wounds-minutes-scientist_898d8fa748.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_www_mcsweeneys_net_articles_ai_economics_for_dummies_4823cc4be0",
       "target": "corpus_hackernews_www_mcsweeneys_net_articles_ai_economics_for_dummies_4823cc4be0_ai_economics_for_dummies",
       "relation": "contains",
@@ -244532,6 +245017,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_owenmcgrann_com_p_the-dead-economy-theory_a02c69fb54.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_www_owlposting_com_p_heuristics_for_lab_robotics_and_where_93f0e69fdb",
+      "target": "corpus_hackernews_www_owlposting_com_p_heuristics_for_lab_robotics_and_where_93f0e69fdb_heuristics_for_lab_robotics_and_where_its_future_may_go",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_owlposting_com_p_heuristics-for-lab-robotics-and-where_93f0e69fdb.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -247331,6 +247825,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_zerofs_net_356411c2f3.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_www_zo_computer_7ef9c94c37",
+      "target": "corpus_hackernews_www_zo_computer_7ef9c94c37_zo_computer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_zo_computer_7ef9c94c37.md",
       "source_location": "L12",
       "weight": 1.0
     },
