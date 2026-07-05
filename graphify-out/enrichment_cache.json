@@ -181065,5 +181065,383 @@
       "langchain — langchain"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-05T21:09:58Z Changes since langchain-openrouter==0.2.5 release(openrouter): 0.2.6 (#38681) fix(openrouter): support `default_headers` for custom HTTP header injection (#36582) chore(model-profiles): refresh model profile data (#38663)"
+  },
+  "e64b05a67fafca57": {
+    "file": "corpus/product/techcrunch_com_2026_07_05_ubers-european-expansion-plans-may_e643452286.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Uber’s European expansion plans may have hit a speed bump",
+    "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+    "keywords": [
+      "seven new european markets",
+      "european expansion plans may",
+      "european expansion plans may",
+      "european expansion plans may",
+      "uber announced ambitious plans",
+      "25z uber ’",
+      "speed bump back",
+      "uber ’",
+      "uber ’",
+      "speed bump"
+    ],
+    "summary": "# [techcrunch-startups] Uber’s European expansion plans may have hit a speed bump Uber’s European expansion plans may have hit a speed bump Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold."
+  },
+  "3c5999a0e077bdd9": {
+    "file": "corpus/hackernews/search_cerast-intelligence_com_ea0432d348.md",
+    "source": "hackernews",
+    "title": "Show HN: Osint tool that finds exposed files on domains",
+    "url": "https://search.cerast-intelligence.com/",
+    "keywords": [
+      "watches certificate transparency logs",
+      "made public .< p",
+      "com &# x2f ;</",
+      "basically another osint tool",
+      "exposed .< p",
+      ".< p ><",
+      "something new shows",
+      "exposed stuff like",
+      "bug bounty hunters",
+      "0 hey guys"
+    ],
+    "summary": "# Show HN: Osint tool that finds exposed files on domains hey guys, wanted to show one of my side projects i just made public.<p>the idea is basically another osint tool for pentesters and bug bounty hunters. one thing i&#x27;ve been thinking about adding is a way to register for certain keywords and get notified when something new shows up for that search.<p>would love to hear if you have other ideas for useful features, and also ideas for how to reduce abuse of the data, since that&#x27;s the "
+  },
+  "c83b3d41985db448": {
+    "file": "corpus/hackernews/www_arp242_net_deps-vcs_html_26ba917684.md",
+    "source": "hackernews",
+    "title": "Dependencies should be fetched directly from VCS",
+    "url": "https://www.arp242.net/deps-vcs.html",
+    "keywords": [
+      "fetched directly",
+      "fetched directly",
+      "23z score",
+      "vcs",
+      "vcs",
+      "source",
+      "news",
+      "hackernews",
+      "dependencies",
+      "dependencies"
+    ],
+    "summary": "# Dependencies should be fetched directly from VCS > Source: hackernews | Category: news | 2026-07-05T22:11:23Z Score: 11 | Comments: 4"
+  },
+  "9d261c3bf61abb50": {
+    "file": "corpus/hackernews/segflow_github_io_post_zero-copy-sendfile-splice_8121e4d17d.md",
+    "source": "hackernews",
+    "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+    "url": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+    "keywords": [
+      "24z score",
+      "zero",
+      "zero",
+      "splice",
+      "splice",
+      "source",
+      "sendfile",
+      "sendfile",
+      "news"
+    ],
+    "summary": "# Zero-copy in Go: sendfile, splice, and the cost of io.Copy > Source: hackernews | Category: news | 2026-07-05T22:11:24Z Score: 14 | Comments: 0"
+  },
+  "508845b10bbd97c7": {
+    "file": "corpus/hackernews/blog_frankel_ch_home-assistant_9_bb02690cda.md",
+    "source": "hackernews",
+    "title": "Two nasty surprises in Home Assistant's config",
+    "url": "https://blog.frankel.ch/home-assistant/9/",
+    "keywords": [
+      "two nasty surprises",
+      "two nasty surprises",
+      "home assistant",
+      "home assistant",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "config",
+      "config"
+    ],
+    "summary": "# Two nasty surprises in Home Assistant's config > Source: hackernews | Category: news | 2026-07-05T22:11:28Z Score: 6 | Comments: 0"
+  },
+  "073e0122d8c82e91": {
+    "file": "corpus/hackernews/lcamtuf_substack_com_p_cursed-circuits-capacitance-multiplie_041ccd851e.md",
+    "source": "hackernews",
+    "title": "Cursed circuits #5: capacitance multiplier",
+    "url": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+    "keywords": [
+      "cursed circuits",
+      "cursed circuits",
+      "capacitance multiplier",
+      "capacitance multiplier",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Cursed circuits #5: capacitance multiplier > Source: hackernews | Category: news | 2026-07-05T22:11:23Z Score: 18 | Comments: 0"
+  },
+  "121ecdf3fad09cef": {
+    "file": "corpus/hackernews/ahmadawais_com_the-full-stack-of-terminals-explained-termina_21ce1f6c3f.md",
+    "source": "hackernews",
+    "title": "The full stack of terminals explained",
+    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+    "keywords": [
+      "terminals explained",
+      "terminals explained",
+      "full stack",
+      "full stack",
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The full stack of terminals explained > Source: hackernews | Category: news | 2026-07-05T22:11:25Z Score: 9 | Comments: 0"
+  },
+  "8db96813111dddf1": {
+    "file": "corpus/hackernews/github_com_514-labs_dnsglobe_8fde34fa34.md",
+    "source": "hackernews",
+    "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+    "url": "https://github.com/514-labs/dnsglobe",
+    "keywords": [
+      "watch dns propagate around",
+      "watch dns propagate around",
+      "dnsglobe – rust tui",
+      "dnsglobe – rust tui",
+      "23z score",
+      "world",
+      "world",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# DNSGlobe – Rust TUI to watch DNS propagate around the world > Source: hackernews | Category: news | 2026-07-05T22:11:23Z Score: 5 | Comments: 0"
+  },
+  "3a0b7542c71c0e42": {
+    "file": "corpus/hackernews/www_opentools_studio_74b2f66ec0.md",
+    "source": "hackernews",
+    "title": "Reparaible and open source paper printer",
+    "url": "https://www.opentools.studio/",
+    "keywords": [
+      "open source paper printer",
+      "open source paper printer",
+      "21z score",
+      "source",
+      "reparaible",
+      "reparaible",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Reparaible and open source paper printer > Source: hackernews | Category: news | 2026-07-05T22:11:21Z Score: 93 | Comments: 30"
+  },
+  "c2b85d5fb2233697": {
+    "file": "corpus/hackernews/dispatch-media_com_the-best-pint-in-england_1b1325184f.md",
+    "source": "hackernews",
+    "title": "Pint in England",
+    "url": "https://dispatch-media.com/the-best-pint-in-england/",
+    "keywords": [
+      "22z score",
+      "source",
+      "pint",
+      "pint",
+      "news",
+      "hackernews",
+      "england",
+      "england",
+      "comments",
+      "category"
+    ],
+    "summary": "# Pint in England > Source: hackernews | Category: news | 2026-07-05T22:11:22Z Score: 14 | Comments: 2"
+  },
+  "54d19c6ff5299161": {
+    "file": "corpus/hackernews/zenodo_org_records_3920591_3ff5b793ab.md",
+    "source": "hackernews",
+    "title": "Speech and Noise Corpora for Pitch Estimation of Human Speech",
+    "url": "https://zenodo.org/records/3920591",
+    "keywords": [
+      "pitch estimation",
+      "pitch estimation",
+      "noise corpora",
+      "noise corpora",
+      "26z score",
+      "human speech",
+      "human speech",
+      "speech",
+      "speech",
+      "source"
+    ],
+    "summary": "# Speech and Noise Corpora for Pitch Estimation of Human Speech > Source: hackernews | Category: news | 2026-07-05T22:11:26Z Score: 6 | Comments: 0"
+  },
+  "a6be5251fbbe6dbe": {
+    "file": "corpus/hackernews/www_nbcchicago_com_news_local_delta-flight-hit-by-firework-w_8b3c73b2ba.md",
+    "source": "hackernews",
+    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "keywords": [
+      "delta flight hit",
+      "delta flight hit",
+      "midway airport",
+      "midway airport",
+      "26z score",
+      "source",
+      "news",
+      "landing",
+      "landing",
+      "july"
+    ],
+    "summary": "# Delta flight hit by firework while landing at Midway Airport on Fourth of July > Source: hackernews | Category: news | 2026-07-05T22:11:26Z Score: 7 | Comments: 0"
+  },
+  "56fcfb371012ea5d": {
+    "file": "corpus/hackernews/www_cnn_com_climate_new-jersey-balcony-solar-renters_97042aec27.md",
+    "source": "hackernews",
+    "title": "Why New Jersey's balcony solar bill is a huge deal for renters",
+    "url": "https://www.cnn.com/climate/new-jersey-balcony-solar-renters",
+    "keywords": [
+      "balcony solar bill",
+      "balcony solar bill",
+      "new jersey",
+      "new jersey",
+      "huge deal",
+      "huge deal",
+      "27z score",
+      "source",
+      "renters",
+      "renters"
+    ],
+    "summary": "# Why New Jersey's balcony solar bill is a huge deal for renters > Source: hackernews | Category: news | 2026-07-05T22:11:27Z Score: 9 | Comments: 1"
+  },
+  "840f12c96ae871ae": {
+    "file": "corpus/hackernews/homegames_io_cd2b863182.md",
+    "source": "hackernews",
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "url": "https://homegames.io",
+    "keywords": [
+      "play anywhere .< p",
+      "share games .< p",
+      "simple open source games",
+      "browser .< p",
+      "platform .< p",
+      "mostly rendering tests",
+      "platform stuff around",
+      "com &# x2f",
+      "com &# x2f",
+      "browser editor available"
+    ],
+    "summary": "An open-source game platform I've been making for 8 years I&#x27;m making a platform for simple open source games you can play anywhere.<p>Games are all just JavaScript classes and you can read the source of every game on the platform.<p>I started working on initial &quot;games&quot; (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games.<p>There&#x27;s also an in-browser editor available for you to make and publish games all from"
+  },
+  "490716126a4f319e": {
+    "file": "corpus/hackernews/dhilst_github_io_algae_game_index_html_04e6f2a636.md",
+    "source": "hackernews",
+    "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+    "url": "https://dhilst.github.io/algae/game/index.html",
+    "keywords": [
+      "dungeon proof crawler",
+      "dungeon proof crawler",
+      "write proofs",
+      "write proofs",
+      "23z score",
+      "source",
+      "rpg",
+      "rpg",
+      "news",
+      "learn"
+    ],
+    "summary": "# Dungeon Proof Crawler: learn how to write proofs with RPG > Source: hackernews | Category: news | 2026-07-05T22:11:23Z Score: 12 | Comments: 5"
+  },
+  "b5010dbcc894f0d1": {
+    "file": "corpus/hackernews/space_stackexchange_com_questions_14687_current-situation-wi_08072e2997.md",
+    "source": "hackernews",
+    "title": "CoCom regulations and GPS receivers for balloons and cubesats",
+    "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+    "keywords": [
+      "gps receivers",
+      "gps receivers",
+      "cocom regulations",
+      "cocom regulations",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "cubesats",
+      "cubesats"
+    ],
+    "summary": "# CoCom regulations and GPS receivers for balloons and cubesats > Source: hackernews | Category: news | 2026-07-05T22:11:23Z Score: 6 | Comments: 0"
+  },
+  "81148f5b4e7a5f30": {
+    "file": "corpus/hackernews/notesbylex_com_completing-a-computer-science-degree-on-cours_89819b9e44.md",
+    "source": "hackernews",
+    "title": "Completing a Computer Science Degree on Coursera",
+    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+    "keywords": [
+      "computer science degree",
+      "computer science degree",
+      "22z score",
+      "source",
+      "news",
+      "hackernews",
+      "coursera",
+      "coursera",
+      "completing",
+      "completing"
+    ],
+    "summary": "# Completing a Computer Science Degree on Coursera > Source: hackernews | Category: news | 2026-07-05T22:11:22Z Score: 26 | Comments: 4"
+  },
+  "0a65a57eb7a0992f": {
+    "file": "corpus/hackernews/www_lrb_co_uk_the-paper_v47_n01_adam-tooze_trouble-transitio_b2f93b7d62.md",
+    "source": "hackernews",
+    "title": "Trouble Transitioning (2025)",
+    "url": "https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning",
+    "keywords": [
+      "trouble transitioning",
+      "trouble transitioning",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Trouble Transitioning (2025) > Source: hackernews | Category: news | 2026-07-05T22:11:26Z Score: 4 | Comments: 0"
+  },
+  "580b6691af75e663": {
+    "file": "corpus/hackernews/www_thisandthat_chat_blog_how-the-first-solo-founder-unicorn_fca4ff7437.md",
+    "source": "hackernews",
+    "title": "How the first solo-founder unicorn gets built",
+    "url": "https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/",
+    "keywords": [
+      "founder unicorn gets built",
+      "founder unicorn gets built",
+      "first solo",
+      "first solo",
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How the first solo-founder unicorn gets built > Source: hackernews | Category: news | 2026-07-05T22:11:25Z Score: 6 | Comments: 2"
+  },
+  "231a7d50065a8527": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-mis_188c65c289.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-mistralai==1.1.6 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.1.6",
+    "keywords": [
+      "tracing metadata (# 35295",
+      "chat responses (# 37008",
+      "infra ): bump mypy",
+      "6 changes since langchain",
+      "mistralai ): support",
+      "sequences (# 38047",
+      "resources (# 38119",
+      "monorepo (# 36470",
+      "mistralai (# 38304",
+      "mistralai (# 38302"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-05T22:12:22Z Changes since langchain-mistralai==1.1.5 release(mistralai): 1.1.6 (#38684) feat(mistralai): surface citation metadata from chat responses (#37008) chore(model-profiles): refresh model profile data (#38663) chore: bump vcrpy from 8.1.1 to 8.2.1 in /libs/partners/mistralai (#38302) chore: bump langsmith from 0.8.5 to 0.8.18 in /libs/partners/mistralai (#38304) chore(model-profiles): refresh model profile data (#38210) docs: re"
   }
 }
