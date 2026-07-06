@@ -187200,5 +187200,268 @@
       "public proof"
     ],
     "summary": "# [hacker-news-sec] 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it."
+  },
+  "15f723f767586711": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_fcc-to-end-biden-era-rul_c695b5c8a9.md",
+    "source": "legal",
+    "title": "[ars-policy] FCC to end Biden-era rule that forces ISPs to list all their fees",
+    "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+    "keywords": [
+      "let isps stop listing",
+      "forces isps",
+      "forces isps",
+      "forces isps",
+      "give single",
+      "era rule",
+      "era rule",
+      "era rule",
+      "end biden",
+      "end biden"
+    ],
+    "summary": "# [ars-policy] FCC to end Biden-era rule that forces ISPs to list all their fees FCC to end Biden-era rule that forces ISPs to list all their fees FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price."
+  },
+  "45a408b734438c17": {
+    "file": "corpus/hackernews/www_theregister_com_ai-and-ml_2026_07_06_amds-ryzen-ai-halo-_016f7aba2d.md",
+    "source": "hackernews",
+    "title": "AMD's Ryzen AI Halo makes local AI look easy, but it doesn't come cheap",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+    "keywords": [
+      "come cheap",
+      "come cheap",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "amd",
+      "amd"
+    ],
+    "summary": "# AMD's Ryzen AI Halo makes local AI look easy, but it doesn't come cheap > Source: hackernews | Category: news | 2026-07-06T21:47:16Z Score: 5 | Comments: 1"
+  },
+  "3accc1a7586c3972": {
+    "file": "corpus/hackernews/www_jonhilty_com_satelliteimaging_b75b16c643.md",
+    "source": "hackernews",
+    "title": "Decoding 137MHz signals from passing satellites to get images with a $10 SDR",
+    "url": "https://www.jonhilty.com/satelliteimaging",
+    "keywords": [
+      "decoding 137mhz signals",
+      "decoding 137mhz signals",
+      "passing satellites",
+      "passing satellites",
+      "get images",
+      "get images",
+      "16z score",
+      "10 sdr",
+      "10 sdr",
+      "source"
+    ],
+    "summary": "# Decoding 137MHz signals from passing satellites to get images with a $10 SDR > Source: hackernews | Category: news | 2026-07-06T21:47:16Z Score: 14 | Comments: 3"
+  },
+  "bcbe54819e51fa7f": {
+    "file": "corpus/hackernews/cacm_acm_org_federal-funding-of-academic-research_the-llvm-c_e77c0d87b2.md",
+    "source": "hackernews",
+    "title": "The LLVM Compiler Infrastructure",
+    "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
+    "keywords": [
+      "llvm compiler infrastructure",
+      "llvm compiler infrastructure",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The LLVM Compiler Infrastructure > Source: hackernews | Category: news | 2026-07-06T21:47:14Z Score: 5 | Comments: 1"
+  },
+  "24d5e25009a866c8": {
+    "file": "corpus/hackernews/ramp_com_data_heavy-ai-adopters-hire-more_7705cf865a.md",
+    "source": "hackernews",
+    "title": "Companies hire more after AI adoption",
+    "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
+    "keywords": [
+      "companies hire",
+      "companies hire",
+      "ai adoption",
+      "ai adoption",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Companies hire more after AI adoption > Source: hackernews | Category: news | 2026-07-06T21:47:17Z Score: 4 | Comments: 0"
+  },
+  "e7385edcc122242b": {
+    "file": "corpus/hackernews/stevekrouse_com_learn-to-code_5e2093ad66.md",
+    "source": "hackernews",
+    "title": "Learning to code is still worthwhile",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "keywords": [
+      "still worthwhile",
+      "still worthwhile",
+      "13z score",
+      "source",
+      "news",
+      "learning",
+      "learning",
+      "hackernews",
+      "comments",
+      "code"
+    ],
+    "summary": "# Learning to code is still worthwhile > Source: hackernews | Category: news | 2026-07-06T21:47:13Z Score: 46 | Comments: 19"
+  },
+  "4dfccf3368951149": {
+    "file": "corpus/hackernews/github_com_can1357_pon_254a198ea2.md",
+    "source": "hackernews",
+    "title": "Python 3.14 compiled to metal – no interpreter",
+    "url": "https://github.com/can1357/pon",
+    "keywords": [
+      "python 3",
+      "python 3",
+      "metal –",
+      "metal –",
+      "14 compiled",
+      "14 compiled",
+      "13z score",
+      "source",
+      "news",
+      "interpreter"
+    ],
+    "summary": "# Python 3.14 compiled to metal – no interpreter > Source: hackernews | Category: news | 2026-07-06T21:47:13Z Score: 64 | Comments: 38"
+  },
+  "b494817b9431b72f": {
+    "file": "corpus/devto/dev_to_code_mancer_building-a-memory-driven-ai-tutor-in-4-da_0b6ecdc59a.md",
+    "source": "devto",
+    "title": "Building a Memory-Driven AI Tutor in 4 Days with Cognee",
+    "url": "https://dev.to/code__mancer/building-a-memory-driven-ai-tutor-in-4-days-with-cognee-2j8b",
+    "keywords": [
+      "designed continuum —",
+      "driven ai tutor",
+      "driven ai tutor",
+      "ai tutor",
+      "teaching strategy",
+      "remembers students",
+      "4 days",
+      "4 days",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Building a Memory-Driven AI Tutor in 4 Days with Cognee > Source: devto | Category: news | 2026-07-06T21:47:19Z How we designed Continuum — an AI tutor that remembers students, adapts its teaching strategy, and..."
+  },
+  "2282e4aa0c15070f": {
+    "file": "corpus/devto/dev_to_manolito99_my-rate-limiter-was-doing-exactly-what-i-t_d5f88c1e20.md",
+    "source": "devto",
+    "title": "My rate limiter was doing exactly what I told it to do. That was the problem.",
+    "url": "https://dev.to/manolito99/my-rate-limiter-was-doing-exactly-what-i-told-it-to-do-that-was-the-problem-463b",
+    "keywords": [
+      "3 requests per minute",
+      "image endpoint capped",
+      "simple express",
+      "ip ,...",
+      "rate limiter",
+      "rate limiter",
+      "rate",
+      "told",
+      "told",
+      "source"
+    ],
+    "summary": "# My rate limiter was doing exactly what I told it to do. I had a /image endpoint capped at 3 requests per minute. Simple express-rate-limit, keyed by IP,..."
+  },
+  "2e73b77e333cd980": {
+    "file": "corpus/devto/dev_to_meteor_meteor-35-is-out-j13_34f4ae6fd8.md",
+    "source": "devto",
+    "title": "Meteor 3.5 is out!",
+    "url": "https://dev.to/meteor/meteor-35-is-out-j13",
+    "keywords": [
+      "reactive data ...",
+      "19z meteor 3",
+      "meteor 3",
+      "meteor 3",
+      "broad release",
+      "word",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-06T21:47:19Z Meteor 3.5 is a broad release, and it earns the word. Its center of gravity is the reactive data..."
+  },
+  "67e4c3d28d260090": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48810367_2f038406b6.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48810367",
+    "keywords": [
+      "native law firm built",
+      "technology behind norm law",
+      "powers norm ai ’",
+      "world .< p",
+      "products .< p",
+      "legal intelligence platform",
+      "deployed inside many",
+      "com &# x2f",
+      "com &# x2f",
+      "code software tools"
+    ],
+    "summary": "NYC | ONSITE (hybrid) Norm Ai, the agentic law company, has a client base with a combined $30 trillion in assets under management. Norm Ai pioneered Legal Engineering, the process that empowers lawyers to build and supervise domain-specific AI agents with Norm’s proprietary suite of no-code software tools. Norm Law’s attorneys advise leading institutions across private funds, private equity, venture capital, real estate, registered funds, and financial regulation, using the same legal intelligen"
+  },
+  "af1a730c774fbf12": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fake-it-support-calls_1bc1a16ef5.md",
+    "source": "security",
+    "title": "[bleeping-comp] Fake IT support calls on Microsoft Teams push EtherRAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+    "keywords": [
+      "giving attackers initial access",
+      "trick employees",
+      "support staff",
+      "support calls",
+      "support calls",
+      "support calls",
+      "impersonating corporate",
+      "etherrat malware",
+      "corporate networks",
+      "15z fake"
+    ],
+    "summary": "# [bleeping-comp] Fake IT support calls on Microsoft Teams push EtherRAT malware Fake IT support calls on Microsoft Teams push EtherRAT malware Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks."
+  },
+  "170f29bce616c617": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_phishing-poses-as-big_6f6081fec7.md",
+    "source": "security",
+    "title": "[bleeping-comp] Phishing poses as big-brand job interview to steal Google accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+    "keywords": [
+      "steal google account credentials",
+      "steal google accounts",
+      "steal google accounts",
+      "steal google accounts",
+      "fake job interviews",
+      "brand job interview",
+      "brand job interview",
+      "brand job interview",
+      "15z phishing poses",
+      "phishing poses"
+    ],
+    "summary": "# [bleeping-comp] Phishing poses as big-brand job interview to steal Google accounts Phishing poses as big-brand job interview to steal Google accounts A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals."
+  },
+  "8249578a0f904c08": {
+    "file": "corpus/security/www_darkreading_com_vulnerabilities-threats_citrixbleed-ing-_7db1646b5d.md",
+    "source": "security",
+    "title": "[dark-reading] CitrixBleed-ing Again? NetScaler Vulnerability Under Attack",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack",
+    "keywords": [
+      "latest memory disclosure flaw",
+      "researchers published",
+      "poc ).",
+      "netscaler vulnerability",
+      "netscaler vulnerability",
+      "netscaler vulnerability",
+      "netscaler products",
+      "concept exploit",
+      "14z citrixbleed",
+      "citrixbleed"
+    ],
+    "summary": "NetScaler Vulnerability Under Attack NetScaler Vulnerability Under Attack Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC)."
   }
 }
