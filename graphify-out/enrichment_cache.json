@@ -188031,5 +188031,306 @@
       "https :// github"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-06T22:49:20Z ## What's Changed * ci: avoid unbounded parallelism by @dhiltgen in https://github.com/ollama/ollama/pull/16966 * fix cuda toolkit lookup and parallel by @MarkWard0110 in https://github.com/ollama/ollama/pull/16613 * docs(cloud): update retirement list by @mxyng in https://github.com/ollama/ollama/pull/17000 * discover: fall back to standard CUDA when the JetPack runner is absent by @kevinpark1217 in https://github.com/ollama"
+  },
+  "0671b242558b6a95": {
+    "file": "corpus/hackernews/claude_ai_public_artifacts_2c647671-3f94-4d22-b3c1-f2b5a0e17_e3a8ef688c.md",
+    "source": "hackernews",
+    "title": "Vessel",
+    "url": "https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e",
+    "keywords": [
+      "45z score",
+      "vessel",
+      "vessel",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Vessel > Source: hackernews | Category: news | 2026-07-06T23:48:45Z Score: 10 | Comments: 1"
+  },
+  "b8b495c54136b93a": {
+    "file": "corpus/hackernews/www_openssh_org_txt_release-10_4_e23d99c6d4.md",
+    "source": "hackernews",
+    "title": "OpenSSH 10.4/10.4p1 Released",
+    "url": "https://www.openssh.org/txt/release-10.4",
+    "keywords": [
+      "4p1 released",
+      "4p1 released",
+      "46z score",
+      "openssh 10",
+      "openssh 10",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# OpenSSH 10.4/10.4p1 Released > Source: hackernews | Category: news | 2026-07-06T23:48:46Z Score: 7 | Comments: 3"
+  },
+  "b0cf6113bddfdd6e": {
+    "file": "corpus/hackernews/www_theregister_com_science_2026_07_06_boffins-bet-on-quantu_cf10ebd383.md",
+    "source": "hackernews",
+    "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+    "url": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+    "keywords": [
+      "solve fusion fuel dilemma",
+      "solve fusion fuel dilemma",
+      "quantum computers",
+      "quantum computers",
+      "boffins bet",
+      "boffins bet",
+      "ai supers",
+      "ai supers",
+      "50z score",
+      "source"
+    ],
+    "summary": "# Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma > Source: hackernews | Category: news | 2026-07-06T23:48:50Z Score: 5 | Comments: 1"
+  },
+  "df8f880f7f103ade": {
+    "file": "corpus/hackernews/github_com_MaximeRivest_Riddle_89d15f4075.md",
+    "source": "hackernews",
+    "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+    "url": "https://github.com/MaximeRivest/Riddle",
+    "keywords": [
+      "fable turned remarkable",
+      "fable turned remarkable",
+      "tom riddle",
+      "tom riddle",
+      "harry potter",
+      "harry potter",
+      "43z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Fable turned remarkable into Tom Riddle's diary from Harry Potter > Source: hackernews | Category: news | 2026-07-06T23:48:43Z Score: 23 | Comments: 6"
+  },
+  "761968d5aab99116": {
+    "file": "corpus/hackernews/x509-limbo_com_8c3d97552f.md",
+    "source": "hackernews",
+    "title": "X509-limbo: testvectors and tooling for evaluating X.509 path validation",
+    "url": "https://x509-limbo.com/",
+    "keywords": [
+      "509 path validation",
+      "509 path validation",
+      "evaluating x",
+      "evaluating x",
+      "48z score",
+      "x509",
+      "x509",
+      "tooling",
+      "tooling",
+      "testvectors"
+    ],
+    "summary": "# X509-limbo: testvectors and tooling for evaluating X.509 path validation > Source: hackernews | Category: news | 2026-07-06T23:48:48Z Score: 3 | Comments: 0"
+  },
+  "894b25eae4d73032": {
+    "file": "corpus/hackernews/arxiv_org_abs_2607_02112_2a9243d6c8.md",
+    "source": "hackernews",
+    "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+    "url": "https://arxiv.org/abs/2607.02112",
+    "keywords": [
+      "number partitioning",
+      "number partitioning",
+      "46z score",
+      "sudoku",
+      "sudoku",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku > Source: hackernews | Category: news | 2026-07-06T23:48:46Z Score: 6 | Comments: 0"
+  },
+  "7427e32db5a385dc": {
+    "file": "corpus/hackernews/ternlight-demo_vercel_app_6badb082bb.md",
+    "source": "hackernews",
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "url": "https://ternlight-demo.vercel.app/",
+    "keywords": [
+      "43z score",
+      "wasm",
+      "wasm",
+      "source",
+      "runs",
+      "runs",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Ternlight – 7 MB embedding model that runs in browser (WASM) > Source: hackernews | Category: news | 2026-07-06T23:48:43Z Score: 14 | Comments: 1"
+  },
+  "1fbfd360b3c9804b": {
+    "file": "corpus/hackernews/www_vybe_build_blog_learn-what-not-to-tokenize_fd60105b07.md",
+    "source": "hackernews",
+    "title": "Not everything should cost a token: the case for deterministic AI",
+    "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+    "keywords": [
+      "deterministic ai",
+      "deterministic ai",
+      "48z score",
+      "token",
+      "token",
+      "source",
+      "news",
+      "hackernews",
+      "everything",
+      "everything"
+    ],
+    "summary": "# Not everything should cost a token: the case for deterministic AI > Source: hackernews | Category: news | 2026-07-06T23:48:48Z Score: 4 | Comments: 1"
+  },
+  "b3a10c97c0155003": {
+    "file": "corpus/hackernews/github_com_polyml_polyml_7595355388.md",
+    "source": "hackernews",
+    "title": "Poly/ML – A Standard ML Implementation",
+    "url": "https://github.com/polyml/polyml",
+    "keywords": [
+      "standard ml implementation",
+      "standard ml implementation",
+      "ml –",
+      "ml –",
+      "47z score",
+      "source",
+      "poly",
+      "poly",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Poly/ML – A Standard ML Implementation > Source: hackernews | Category: news | 2026-07-06T23:48:47Z Score: 5 | Comments: 1"
+  },
+  "bfd4a782d9ee4bb2": {
+    "file": "corpus/hackernews/devz_cl_posts_acryonym-fatigue-series-why-i-m-wary-of-engine_6990af8cdc.md",
+    "source": "hackernews",
+    "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+    "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+    "keywords": [
+      "acronym fatigue series introduction",
+      "acronym fatigue series introduction",
+      "48z score",
+      "wary",
+      "wary",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Acronym Fatigue Series Introduction: why I'm wary of acronyms > Source: hackernews | Category: news | 2026-07-06T23:48:48Z Score: 3 | Comments: 0"
+  },
+  "1211e3cce23b9a05": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_java-news-roundup-jun29-2026_utm__a8273faa59.md",
+    "source": "engineering",
+    "title": "[infoq] Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst",
+    "url": "https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "44z java news roundup",
+      "java news roundup",
+      "java news roundup",
+      "features news highlighting",
+      "strict field initialization",
+      "strict field initialization",
+      "strict field initialization",
+      "strict field initialization",
+      "open liberty 26",
+      "new jep candidate"
+    ],
+    "summary": "# [infoq] Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of GraalVM, JReleaser, RefactorFirst and Java Operator SDK; maintenance releases of GlassFish and Micronaut; the second milestone release of Grails 8.0; and the beta"
+  },
+  "54c6cbf6f8447401": {
+    "file": "corpus/devto/dev_to_pixel-wraith_ai-code-generation-has-a-social-media-pr_2c498de5a5.md",
+    "source": "devto",
+    "title": "AI Code Generation Has a Social Media Problem",
+    "url": "https://dev.to/pixel-wraith/ai-code-generation-has-a-social-media-problem-1fmk",
+    "keywords": [
+      "social media problem",
+      "social media problem",
+      "ai code generation",
+      "ai code generation",
+      "comment showed",
+      "source",
+      "reactions",
+      "post",
+      "news",
+      "morning"
+    ],
+    "summary": "# AI Code Generation Has a Social Media Problem > Source: devto | Category: news | 2026-07-06T23:48:51Z The morning I announced what I'd been building, a comment showed up on the post."
+  },
+  "ec8f84c9f2537884": {
+    "file": "corpus/devto/dev_to_he4rt_voce-recebeu-acesso-ao-projeto-e-agora-kc0_3e9d17b1fd.md",
+    "source": "devto",
+    "title": "Você recebeu acesso ao projeto. E agora?",
+    "url": "https://dev.to/he4rt/voce-recebeu-acesso-ao-projeto-e-agora-kc0",
+    "keywords": [
+      "meu primeiro dia ,...",
+      "acesso ao repositório .\"",
+      "vindo ao time",
+      "quando cheguei",
+      "e agora",
+      "e agora",
+      "aqui está",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Você recebeu acesso ao projeto. Aqui está o acesso ao repositório.\" Quando cheguei no meu primeiro dia,..."
+  },
+  "e585964e782d1c5e": {
+    "file": "corpus/devto/dev_to_francistrdev_its-you-29k0_a0b9290b50.md",
+    "source": "devto",
+    "title": "It's You.",
+    "url": "https://dev.to/francistrdev/its-you-29k0",
+    "keywords": [
+      "community support",
+      "start",
+      "source",
+      "received",
+      "reactions",
+      "post",
+      "news",
+      "devto",
+      "category",
+      "behind"
+    ],
+    "summary": "# It's You. > Source: devto | Category: news | 2026-07-06T23:48:54Z To start off, I appreciate the community support I have received on the post about being behind."
+  },
+  "cbda8f5df27f5aa2": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48044_santander-publishes-ai-pr_0f004e53c6.md",
+    "source": "finance",
+    "title": "[finextra] Santander publishes AI projects on GitHub",
+    "url": "https://www.finextra.com/newsarticle/48044/santander-publishes-ai-projects-on-github?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "santander publishes ai projects",
+      "santander publishes ai projects",
+      "github banco santander",
+      "shared innovation \".",
+      "open source licence",
+      "ai projects",
+      "source",
+      "shared",
+      "github",
+      "github"
+    ],
+    "summary": "# [finextra] Santander publishes AI projects on GitHub Santander publishes AI projects on GitHub Banco Santander has shared a host of its AI projects under an open source licence in a bid to \"ramp up shared innovation\"."
+  },
+  "94c2de5261595b84": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48811937_8a6edbffc4.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48811937",
+    "keywords": [
+      "fair interview loop —",
+      "drives growth .< p",
+      "actual manual work —",
+      "ai &# x2f ;</",
+      "p >- real users",
+      "p >- flexible time",
+      "build customer success agents",
+      "la &# x2f",
+      "read every one",
+      "force multiplier —"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-07-06T23:49:50Z Cora AI | Founding Full Stack &#x2F; Applied AI Engineer | REMOTE (US ONLY, LA&#x2F;SF preferred) | Full-time | $190–250k + early equity<p>We build customer success agents and account intelligence that do the actual manual work — so CS teams can focus on the relationship-driven work that drives growth.<p>What we&#x27;re looking for:<p>- You build with AI IDEs (Cursor, Claude Code) as a force multiplier — not occasionally, as your "
   }
 }
