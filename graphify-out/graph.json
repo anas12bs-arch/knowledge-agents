@@ -1540,6 +1540,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_ai_research_huggingface_co_blog_amazon_one_click_to_sagemaker_studio_77d64de254",
+      "label": "huggingface_co_blog_amazon_one-click-to-sagemaker-studio_77d64de254.md",
+      "file_type": "document",
+      "source_file": "corpus/ai-research/huggingface_co_blog_amazon_one-click-to-sagemaker-studio_77d64de254.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_ai_research_huggingface_co_blog_amazon_one_click_to_sagemaker_studio_77d64de254_hf_blog_from_hugging_face_to_amazon_sagemaker_studio_in_one_click",
+      "label": "[hf-blog] From Hugging Face to Amazon SageMaker Studio in one click",
+      "file_type": "document",
+      "source_file": "corpus/ai-research/huggingface_co_blog_amazon_one-click-to-sagemaker-studio_77d64de254.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_ai_research_huggingface_co_blog_amazon_strands_lerobot_hub_to_hardware_270262b342",
       "label": "huggingface_co_blog_amazon_strands-lerobot-hub-to-hardware_270262b342.md",
       "file_type": "document",
@@ -7588,6 +7604,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devops_devops_com_how_ai_is_revamping_devsecops_processes_85d354ef8c",
+      "label": "devops_com_how-ai-is-revamping-devsecops-processes_85d354ef8c.md",
+      "file_type": "document",
+      "source_file": "corpus/devops/devops_com_how-ai-is-revamping-devsecops-processes_85d354ef8c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devops_devops_com_how_ai_is_revamping_devsecops_processes_85d354ef8c_devops_com_how_ai_is_revamping_devsecops_processes",
+      "label": "[devops-com] How AI is revamping DevSecOps processes",
+      "file_type": "document",
+      "source_file": "corpus/devops/devops_com_how-ai-is-revamping-devsecops-processes_85d354ef8c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devops_devops_com_how_ai_is_transforming_devops_and_cloud_engineeri_dee5115c8a",
       "label": "devops_com_how-ai-is-transforming-devops-and-cloud-engineeri_dee5115c8a.md",
       "file_type": "document",
@@ -11692,6 +11724,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_ale3oula_being_an_engineer_in_the_ai_era_277p_f2f03dee8f",
+      "label": "dev_to_ale3oula_being-an-engineer-in-the-ai-era-277p_f2f03dee8f.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_ale3oula_being-an-engineer-in-the-ai-era-277p_f2f03dee8f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_ale3oula_being_an_engineer_in_the_ai_era_277p_f2f03dee8f_being_an_engineer_in_the_ai_era",
+      "label": "Being an engineer in the AI era",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_ale3oula_being-an-engineer-in-the-ai-era-277p_f2f03dee8f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_aleksandra_rajkowska_you_dont_need_a_full_time_dev_yo_99fa879ba5",
       "label": "dev_to_aleksandra_rajkowska_you-dont-need-a-full-time-dev-yo_99fa879ba5.md",
       "file_type": "document",
@@ -14888,6 +14936,22 @@
       "label": "I built a voice AI platform that hits 442ms latency. Here's the full architecture.",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_aryanpanwar1_i-built-a-voice-ai-platform-that-hits-44_ad59588282.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_arysmart_i_wanted_a_task_tracker_that_gets_out_of_my_123cc9cba3",
+      "label": "dev_to_arysmart_i-wanted-a-task-tracker-that-gets-out-of-my-_123cc9cba3.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_arysmart_i-wanted-a-task-tracker-that-gets-out-of-my-_123cc9cba3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_arysmart_i_wanted_a_task_tracker_that_gets_out_of_my_123cc9cba3_i_wanted_a_task_tracker_that_gets_out_of_my_way_and_remembers_what_i_shipped_so_i_built_shipflow",
+      "label": "I wanted a task tracker that gets out of my way and remembers what I shipped. So I built shipflow",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_arysmart_i-wanted-a-task-tracker-that-gets-out-of-my-_123cc9cba3.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -24280,6 +24344,22 @@
       "label": "I put a Rust layer under LiteLLM. Here is where it actually helped (and where it did not)",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_dipankar_sarkar_i-put-a-rust-layer-under-litellm-here_650f4bb94f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_dipankar_sarkar_learning_how_llms_actually_work_by_bu_6e417aadc7",
+      "label": "dev_to_dipankar_sarkar_learning-how-llms-actually-work-by-bu_6e417aadc7.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_dipankar_sarkar_learning-how-llms-actually-work-by-bu_6e417aadc7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_dipankar_sarkar_learning_how_llms_actually_work_by_bu_6e417aadc7_learning_how_llms_actually_work_by_building_18_of_them_in_zig",
+      "label": "Learning how LLMs actually work by building 18 of them in Zig",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_dipankar_sarkar_learning-how-llms-actually-work-by-bu_6e417aadc7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -39252,6 +39332,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_krish_gulati_7d8c934b8b1a_the_duck_stops_here_buildin_cfb7ea115f",
+      "label": "dev_to_krish_gulati_7d8c934b8b1a_the-duck-stops-here-buildin_cfb7ea115f.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_krish_gulati_7d8c934b8b1a_the-duck-stops-here-buildin_cfb7ea115f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_krish_gulati_7d8c934b8b1a_the_duck_stops_here_buildin_cfb7ea115f_the_duck_stops_here_building_hid_guard_catching_keystroke_injection_at_the_kernel_level",
+      "label": "The Duck Stops Here: Building hid_guard — Catching Keystroke Injection at the Kernel Level",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_krish_gulati_7d8c934b8b1a_the-duck-stops-here-buildin_cfb7ea115f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_krishan_sharma_561a52817e_five_launchdarkly_sdk_patte_073a65e9a1",
       "label": "dev_to_krishan_sharma_561a52817e_five-launchdarkly-sdk-patte_073a65e9a1.md",
       "file_type": "document",
@@ -45440,6 +45536,22 @@
       "label": "Four undocumented Steam Store API behaviors every game directory builder should know",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_morinaga_four-undocumented-steam-store-api-behaviors-_6f231c7dc6.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_morinaga_how_i_added_upstream_activity_signals_to_an_2c5031d81c",
+      "label": "dev_to_morinaga_how-i-added-upstream-activity-signals-to-an-_2c5031d81c.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_morinaga_how-i-added-upstream-activity-signals-to-an-_2c5031d81c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_morinaga_how_i_added_upstream_activity_signals_to_an_2c5031d81c_how_i_added_upstream_activity_signals_to_an_oss_alternatives_directory",
+      "label": "How I added upstream activity signals to an OSS alternatives directory",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_morinaga_how-i-added-upstream-activity-signals-to-an-_2c5031d81c.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -57652,6 +57764,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_siddhartha_bhattarai_a084_getting_selected_for_the_lf_de48fa34cf",
+      "label": "dev_to_siddhartha_bhattarai_a084_getting-selected-for-the-lf_de48fa34cf.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_siddhartha_bhattarai_a084_getting-selected-for-the-lf_de48fa34cf.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_siddhartha_bhattarai_a084_getting_selected_for_the_lf_de48fa34cf_getting_selected_for_the_lfx_mentorship_and_what_i_ve_learned_so_far_about_openssl",
+      "label": "Getting Selected for the LFX Mentorship, and What I've Learned So Far About OpenSSL",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_siddhartha_bhattarai_a084_getting-selected-for-the-lf_de48fa34cf.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_sidhart_samir_i_built_a_bandwidth_bonding_download_ma_4387bb9336",
       "label": "dev_to_sidhart_samir_i-built-a-bandwidth-bonding-download-ma_4387bb9336.md",
       "file_type": "document",
@@ -65716,6 +65844,38 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_vultr_deploying_clickhouse_on_kubernetes_1f5j_f20fa9aa95",
+      "label": "dev_to_vultr_deploying-clickhouse-on-kubernetes-1f5j_f20fa9aa95.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-clickhouse-on-kubernetes-1f5j_f20fa9aa95.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_clickhouse_on_kubernetes_1f5j_f20fa9aa95_deploying_clickhouse_on_kubernetes",
+      "label": "Deploying ClickHouse on Kubernetes",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-clickhouse-on-kubernetes-1f5j_f20fa9aa95.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_dokploy_self_hosted_paas_for_docker_a_0a1fd76fe9",
+      "label": "dev_to_vultr_deploying-dokploy-self-hosted-paas-for-docker-a_0a1fd76fe9.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-dokploy-self-hosted-paas-for-docker-a_0a1fd76fe9.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_dokploy_self_hosted_paas_for_docker_a_0a1fd76fe9_deploying_dokploy_self_hosted_paas_for_docker_applications_on_ubuntu_24_04",
+      "label": "Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-dokploy-self-hosted-paas-for-docker-a_0a1fd76fe9.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_vultr_deploying_jina_serve_open_source_neural_search_cd53572cd5",
       "label": "dev_to_vultr_deploying-jina-serve-open-source-neural-search-_cd53572cd5.md",
       "file_type": "document",
@@ -65764,6 +65924,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_vultr_deploying_matomo_analytics_an_open_source_googl_2dc2836241",
+      "label": "dev_to_vultr_deploying-matomo-analytics-an-open-source-googl_2dc2836241.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-matomo-analytics-an-open-source-googl_2dc2836241.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_matomo_analytics_an_open_source_googl_2dc2836241_deploying_matomo_analytics_an_open_source_google_analytics_alternative",
+      "label": "Deploying Matomo Analytics - An Open-Source Google Analytics Alternative",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-matomo-analytics-an-open-source-googl_2dc2836241.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_vultr_deploying_mlflow_open_source_machine_learning_e_45d3c910ec",
       "label": "dev_to_vultr_deploying-mlflow-open-source-machine-learning-e_45d3c910ec.md",
       "file_type": "document",
@@ -65792,6 +65968,38 @@
       "label": "Deploying Navidrome - Self-Hosted Music Streaming Server on Ubuntu 24.04",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_vultr_deploying-navidrome-self-hosted-music-streaming_4b39fa8786.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_neko_self_hosted_virtual_browser_plat_88bd268c78",
+      "label": "dev_to_vultr_deploying-neko-self-hosted-virtual-browser-plat_88bd268c78.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-neko-self-hosted-virtual-browser-plat_88bd268c78.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_neko_self_hosted_virtual_browser_plat_88bd268c78_deploying_neko_self_hosted_virtual_browser_platform_on_linux",
+      "label": "Deploying Neko - Self-Hosted Virtual Browser Platform on Linux",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-neko-self-hosted-virtual-browser-plat_88bd268c78.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_ngrok_ingress_controller_on_kubernete_8d4f2ed868",
+      "label": "dev_to_vultr_deploying-ngrok-ingress-controller-on-kubernete_8d4f2ed868.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-ngrok-ingress-controller-on-kubernete_8d4f2ed868.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_ngrok_ingress_controller_on_kubernete_8d4f2ed868_deploying_ngrok_ingress_controller_on_kubernetes",
+      "label": "Deploying Ngrok Ingress Controller on Kubernetes",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-ngrok-ingress-controller-on-kubernete_8d4f2ed868.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -65856,6 +66064,22 @@
       "label": "Deploying Plane - An Open-Source Jira Alternative on Ubuntu",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_vultr_deploying-plane-an-open-source-jira-alternative_ab2ae477f5.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_plausible_analytics_self_hosted_web_a_9006ed6bee",
+      "label": "dev_to_vultr_deploying-plausible-analytics-self-hosted-web-a_9006ed6bee.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-plausible-analytics-self-hosted-web-a_9006ed6bee.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_vultr_deploying_plausible_analytics_self_hosted_web_a_9006ed6bee_deploying_plausible_analytics_self_hosted_web_analytics_platform",
+      "label": "Deploying Plausible Analytics - Self-Hosted Web Analytics Platform",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-plausible-analytics-self-hosted-web-a_9006ed6bee.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -92436,6 +92660,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_allaboutcookies_org_eu_mandatory_distracted_driver_system_7d6be68271",
+      "label": "allaboutcookies_org_eu-mandatory-distracted-driver-system_7d6be68271.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/allaboutcookies_org_eu-mandatory-distracted-driver-system_7d6be68271.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_allaboutcookies_org_eu_mandatory_distracted_driver_system_7d6be68271_all_cars_sold_in_the_eu_now_require_a_camera_aimed_at_your_face",
+      "label": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/allaboutcookies_org_eu-mandatory-distracted-driver-system_7d6be68271.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_alphapixeldev_com_recovering_eric_grahams_1987_amiga_juggler_70079b82fc",
       "label": "alphapixeldev_com_recovering-eric-grahams-1987-amiga-juggler_70079b82fc.md",
       "file_type": "document",
@@ -93616,6 +93856,22 @@
       "label": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "file_type": "document",
       "source_file": "corpus/hackernews/arstechnica_com_tech-policy_2026_06_sp-500-blocks-fast-space_481ec8d437.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_arstechnica_com_tech_policy_2026_07_us_manufacturers_energy_e5d35e50d7",
+      "label": "arstechnica_com_tech-policy_2026_07_us-manufacturers-energy-_e5d35e50d7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/arstechnica_com_tech-policy_2026_07_us-manufacturers-energy-_e5d35e50d7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_arstechnica_com_tech_policy_2026_07_us_manufacturers_energy_e5d35e50d7_us_manufacturers_energy_costs_soar_because_of_ai_data_center_demand",
+      "label": "US manufacturers' energy costs soar because of AI data center demand",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/arstechnica_com_tech-policy_2026_07_us-manufacturers-energy-_e5d35e50d7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -113076,6 +113332,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_news_bloomberglaw_com_environment_and_energy_epa_to_investig_c50ff3e996",
+      "label": "news_bloomberglaw_com_environment-and-energy_epa-to-investig_c50ff3e996.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/news_bloomberglaw_com_environment-and-energy_epa-to-investig_c50ff3e996.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_news_bloomberglaw_com_environment_and_energy_epa_to_investig_c50ff3e996_epa_official_agrees_to_review_meta_inc_data_center_impacts_on_water",
+      "label": "EPA Official Agrees to Review Meta Inc. Data Center Impacts on Water",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/news_bloomberglaw_com_environment-and-energy_epa-to-investig_c50ff3e996.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_news_bloomberglaw_com_us_law_week_doj_closing_abbott_labs_ca_5486a105f7",
       "label": "news_bloomberglaw_com_us-law-week_doj-closing-abbott-labs-ca_5486a105f7.md",
       "file_type": "document",
@@ -130372,6 +130644,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_latimes_com_business_story_2026_07_07_waymo_reports_teen_ce1267d381",
+      "label": "www_latimes_com_business_story_2026-07-07_waymo-reports-teen_ce1267d381.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_latimes_com_business_story_2026-07-07_waymo-reports-teen_ce1267d381.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_latimes_com_business_story_2026_07_07_waymo_reports_teen_ce1267d381_waymo_reports_teen_riders_for_bad_behavior_and_delivers_them_to_the_police",
+      "label": "Waymo reports teen riders for bad behavior and delivers them to the police",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_latimes_com_business_story_2026-07-07_waymo-reports-teen_ce1267d381.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_lbc_co_uk_article_spanish_bans_palantir_national_securit_4a702e685c",
       "label": "www_lbc_co_uk_article_spanish-bans-palantir-national-securit_4a702e685c.md",
       "file_type": "document",
@@ -131984,6 +132272,22 @@
       "label": "Can you see three trees?",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_not-ship_com_can-you-see-three-trees_f4dbc1a09b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_notebookcheck_net_camera_with_transparent_display_launch_b247865cc8",
+      "label": "www_notebookcheck_net_Camera-with-transparent-display-launch_b247865cc8.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_notebookcheck_net_Camera-with-transparent-display-launch_b247865cc8.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_notebookcheck_net_camera_with_transparent_display_launch_b247865cc8_camera_with_transparent_display_launches_for_the_equivalent_of_29",
+      "label": "Camera with transparent display launches for the equivalent of $29",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_notebookcheck_net_Camera-with-transparent-display-launch_b247865cc8.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -136100,6 +136404,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_theguardian_com_society_2026_jul_07_mens_average_testost_bf87c14dcd",
+      "label": "www_theguardian_com_society_2026_jul_07_mens-average-testost_bf87c14dcd.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_theguardian_com_society_2026_jul_07_mens-average-testost_bf87c14dcd.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_theguardian_com_society_2026_jul_07_mens_average_testost_bf87c14dcd_men_s_average_testosterone_levels_have_halved_in_last_50_years",
+      "label": "Men's average testosterone levels have halved in last 50 years",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_theguardian_com_society_2026_jul_07_mens-average-testost_bf87c14dcd.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_theguardian_com_society_2026_jun_17_hpv_jabs_reduce_risk_00adf75a1f",
       "label": "www_theguardian_com_society_2026_jun_17_hpv-jabs-reduce-risk_00adf75a1f.md",
       "file_type": "document",
@@ -137184,6 +137504,22 @@
       "label": "1k Data Breaches Later, the Disclosure Lag Is Worse",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_troyhunt_com_1000-data-breaches-later-the-disclosure-lag_d49605652b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_tuxedocomputers_com_en_a_new_foundation_for_tuxedo_os_sw_d3ce5157a3",
+      "label": "www_tuxedocomputers_com_en_A-new-foundation-for-TUXEDO-OS-Sw_d3ce5157a3.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_tuxedocomputers_com_en_A-new-foundation-for-TUXEDO-OS-Sw_d3ce5157a3.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_tuxedocomputers_com_en_a_new_foundation_for_tuxedo_os_sw_d3ce5157a3_a_new_foundation_for_tuxedo_os_switching_to_debian",
+      "label": "A New Foundation for Tuxedo OS: Switching to Debian",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_tuxedocomputers_com_en_A-new-foundation-for-TUXEDO-OS-Sw_d3ce5157a3.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -146404,6 +146740,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hn_hiring_news_ycombinator_com_item_id_48823535_f9db774c41",
+      "label": "news_ycombinator_com_item_id_48823535_f9db774c41.md",
+      "file_type": "document",
+      "source_file": "corpus/hn-hiring/news_ycombinator_com_item_id_48823535_f9db774c41.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hn_hiring_news_ycombinator_com_item_id_48823535_f9db774c41_hn_hiring_ask_hn_who_is_hiring_july_2026",
+      "label": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+      "file_type": "document",
+      "source_file": "corpus/hn-hiring/news_ycombinator_com_item_id_48823535_f9db774c41.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_legal_arstechnica_com_ai_2026_07_uk_regulator_warns_of_arms_race_t_a7a1ae6ee9",
       "label": "arstechnica_com_ai_2026_07_uk-regulator-warns-of-arms-race-t_a7a1ae6ee9.md",
       "file_type": "document",
@@ -147632,6 +147984,22 @@
       "label": "[ars-policy] Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
       "file_type": "document",
       "source_file": "corpus/legal/arstechnica_com_tech-policy_2026_07_openai-floats-giving-us-_337c84fd8d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_arstechnica_com_tech_policy_2026_07_supreme_court_lets_texas_dafa3d51b1",
+      "label": "arstechnica_com_tech-policy_2026_07_supreme-court-lets-texas_dafa3d51b1.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/arstechnica_com_tech-policy_2026_07_supreme-court-lets-texas_dafa3d51b1.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_arstechnica_com_tech_policy_2026_07_supreme_court_lets_texas_dafa3d51b1_ars_policy_scotus_lets_texas_enforce_app_store_law_that_big_tech_calls_censorship_regime",
+      "label": "[ars-policy] SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+      "file_type": "document",
+      "source_file": "corpus/legal/arstechnica_com_tech-policy_2026_07_supreme-court-lets-texas_dafa3d51b1.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -168420,6 +168788,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_security_www_darkreading_com_application_security_dialogflow_cx_rogue_98dd274704",
+      "label": "www_darkreading_com_application-security_dialogflow-cx-rogue_98dd274704.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_darkreading_com_application-security_dialogflow-cx-rogue_98dd274704.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_darkreading_com_application_security_dialogflow_cx_rogue_98dd274704_dark_reading_dialogflow_cx_rogue_agent_flaw_enabled_ai_chatbot_data_theft",
+      "label": "[dark-reading] Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft",
+      "file_type": "document",
+      "source_file": "corpus/security/www_darkreading_com_application-security_dialogflow-cx-rogue_98dd274704.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_security_www_darkreading_com_application_security_difytap_bugs_wireta_b831717bb0",
       "label": "www_darkreading_com_application-security_difytap-bugs-wireta_b831717bb0.md",
       "file_type": "document",
@@ -169088,6 +169472,22 @@
       "label": "[dark-reading] The Beginning of the End of Social Engineering",
       "file_type": "document",
       "source_file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_beginning-end_ca6e774057.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_darkreading_com_cyberattacks_data_breaches_big_brand_job_32ada41670",
+      "label": "www_darkreading_com_cyberattacks-data-breaches_big-brand-job_32ada41670.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_big-brand-job_32ada41670.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_darkreading_com_cyberattacks_data_breaches_big_brand_job_32ada41670_dark_reading_big_brand_jobs_scam_targets_marketing_pros_google_accounts",
+      "label": "[dark-reading] Big Brand Jobs Scam Targets Marketing Pros' Google Accounts",
+      "file_type": "document",
+      "source_file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_big-brand-job_32ada41670.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -175008,6 +175408,22 @@
       "label": "[jack-herrington] AI Memory: Stop Building Stateless Agents",
       "file_type": "document",
       "source_file": "corpus/youtube/www_youtube_com_watch_v_whyz0m302ZI_037456e41d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_youtube_www_youtube_com_watch_v_wnfxsxp8pgs_8ca9504cb1",
+      "label": "www_youtube_com_watch_v_wnfxSxP8pGs_8ca9504cb1.md",
+      "file_type": "document",
+      "source_file": "corpus/youtube/www_youtube_com_watch_v_wnfxSxP8pGs_8ca9504cb1.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_youtube_www_youtube_com_watch_v_wnfxsxp8pgs_8ca9504cb1_theo_i_need_to_rant_about_local_models",
+      "label": "[theo] I need to rant about local models",
+      "file_type": "document",
+      "source_file": "corpus/youtube/www_youtube_com_watch_v_wnfxSxP8pGs_8ca9504cb1.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -186379,6 +186795,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_ai_research_huggingface_co_blog_amazon_one_click_to_sagemaker_studio_77d64de254",
+      "target": "corpus_ai_research_huggingface_co_blog_amazon_one_click_to_sagemaker_studio_77d64de254_hf_blog_from_hugging_face_to_amazon_sagemaker_studio_in_one_click",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/ai-research/huggingface_co_blog_amazon_one-click-to-sagemaker-studio_77d64de254.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_ai_research_huggingface_co_blog_amazon_strands_lerobot_hub_to_hardware_270262b342",
       "target": "corpus_ai_research_huggingface_co_blog_amazon_strands_lerobot_hub_to_hardware_270262b342_hf_blog_from_the_hugging_face_hub_to_robot_hardware_with_strands_agents_and_lerobot",
       "relation": "contains",
@@ -189781,6 +190206,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devops_devops_com_how_ai_is_revamping_devsecops_processes_85d354ef8c",
+      "target": "corpus_devops_devops_com_how_ai_is_revamping_devsecops_processes_85d354ef8c_devops_com_how_ai_is_revamping_devsecops_processes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devops/devops_com_how-ai-is-revamping-devsecops-processes_85d354ef8c.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devops_devops_com_how_ai_is_transforming_devops_and_cloud_engineeri_dee5115c8a",
       "target": "corpus_devops_devops_com_how_ai_is_transforming_devops_and_cloud_engineeri_dee5115c8a_devops_com_how_ai_is_transforming_devops_and_cloud_engineering",
       "relation": "contains",
@@ -192103,6 +192537,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_ale3oula_being_an_engineer_in_the_ai_era_277p_f2f03dee8f",
+      "target": "corpus_devto_dev_to_ale3oula_being_an_engineer_in_the_ai_era_277p_f2f03dee8f_being_an_engineer_in_the_ai_era",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_ale3oula_being-an-engineer-in-the-ai-era-277p_f2f03dee8f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_aleksandra_rajkowska_you_dont_need_a_full_time_dev_yo_99fa879ba5",
       "target": "corpus_devto_dev_to_aleksandra_rajkowska_you_dont_need_a_full_time_dev_yo_99fa879ba5_you_don_t_need_a_full_time_dev_you_need_the_right_dev_part_of_the_time",
       "relation": "contains",
@@ -193899,6 +194342,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_aryanpanwar1_i-built-a-voice-ai-platform-that-hits-44_ad59588282.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_arysmart_i_wanted_a_task_tracker_that_gets_out_of_my_123cc9cba3",
+      "target": "corpus_devto_dev_to_arysmart_i_wanted_a_task_tracker_that_gets_out_of_my_123cc9cba3_i_wanted_a_task_tracker_that_gets_out_of_my_way_and_remembers_what_i_shipped_so_i_built_shipflow",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_arysmart_i-wanted-a-task-tracker-that-gets-out-of-my-_123cc9cba3.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -199182,6 +199634,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_dipankar_sarkar_i-put-a-rust-layer-under-litellm-here_650f4bb94f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_dipankar_sarkar_learning_how_llms_actually_work_by_bu_6e417aadc7",
+      "target": "corpus_devto_dev_to_dipankar_sarkar_learning_how_llms_actually_work_by_bu_6e417aadc7_learning_how_llms_actually_work_by_building_18_of_them_in_zig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_dipankar_sarkar_learning-how-llms-actually-work-by-bu_6e417aadc7.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -207610,6 +208071,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_krish_gulati_7d8c934b8b1a_the_duck_stops_here_buildin_cfb7ea115f",
+      "target": "corpus_devto_dev_to_krish_gulati_7d8c934b8b1a_the_duck_stops_here_buildin_cfb7ea115f_the_duck_stops_here_building_hid_guard_catching_keystroke_injection_at_the_kernel_level",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_krish_gulati_7d8c934b8b1a_the-duck-stops-here-buildin_cfb7ea115f.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_krishan_sharma_561a52817e_five_launchdarkly_sdk_patte_073a65e9a1",
       "target": "corpus_devto_dev_to_krishan_sharma_561a52817e_five_launchdarkly_sdk_patte_073a65e9a1_five_launchdarkly_sdk_patterns_that_block_automatic_migration_to_openfeature",
       "relation": "contains",
@@ -211089,6 +211559,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_morinaga_four-undocumented-steam-store-api-behaviors-_6f231c7dc6.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_morinaga_how_i_added_upstream_activity_signals_to_an_2c5031d81c",
+      "target": "corpus_devto_dev_to_morinaga_how_i_added_upstream_activity_signals_to_an_2c5031d81c_how_i_added_upstream_activity_signals_to_an_oss_alternatives_directory",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_morinaga_how-i-added-upstream-activity-signals-to-an-_2c5031d81c.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -217960,6 +218439,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_siddhartha_bhattarai_a084_getting_selected_for_the_lf_de48fa34cf",
+      "target": "corpus_devto_dev_to_siddhartha_bhattarai_a084_getting_selected_for_the_lf_de48fa34cf_getting_selected_for_the_lfx_mentorship_and_what_i_ve_learned_so_far_about_openssl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_siddhartha_bhattarai_a084_getting-selected-for-the-lf_de48fa34cf.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_sidhart_samir_i_built_a_bandwidth_bonding_download_ma_4387bb9336",
       "target": "corpus_devto_dev_to_sidhart_samir_i_built_a_bandwidth_bonding_download_ma_4387bb9336_i_built_a_bandwidth_bonding_download_manager_that_combines_wifi_ethernet_lte_here_s_how_i_finally_shipped_it",
       "relation": "contains",
@@ -222496,6 +222984,24 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_vultr_deploying_clickhouse_on_kubernetes_1f5j_f20fa9aa95",
+      "target": "corpus_devto_dev_to_vultr_deploying_clickhouse_on_kubernetes_1f5j_f20fa9aa95_deploying_clickhouse_on_kubernetes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-clickhouse-on-kubernetes-1f5j_f20fa9aa95.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_vultr_deploying_dokploy_self_hosted_paas_for_docker_a_0a1fd76fe9",
+      "target": "corpus_devto_dev_to_vultr_deploying_dokploy_self_hosted_paas_for_docker_a_0a1fd76fe9_deploying_dokploy_self_hosted_paas_for_docker_applications_on_ubuntu_24_04",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-dokploy-self-hosted-paas-for-docker-a_0a1fd76fe9.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_vultr_deploying_jina_serve_open_source_neural_search_cd53572cd5",
       "target": "corpus_devto_dev_to_vultr_deploying_jina_serve_open_source_neural_search_cd53572cd5_deploying_jina_serve_open_source_neural_search_and_ai_serving_framework_on_ubuntu_24_04",
       "relation": "contains",
@@ -222523,6 +223029,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_vultr_deploying_matomo_analytics_an_open_source_googl_2dc2836241",
+      "target": "corpus_devto_dev_to_vultr_deploying_matomo_analytics_an_open_source_googl_2dc2836241_deploying_matomo_analytics_an_open_source_google_analytics_alternative",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-matomo-analytics-an-open-source-googl_2dc2836241.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_vultr_deploying_mlflow_open_source_machine_learning_e_45d3c910ec",
       "target": "corpus_devto_dev_to_vultr_deploying_mlflow_open_source_machine_learning_e_45d3c910ec_deploying_mlflow_open_source_machine_learning_experiment_tracking_on_ubuntu_24_04",
       "relation": "contains",
@@ -222537,6 +223052,24 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_vultr_deploying-navidrome-self-hosted-music-streaming_4b39fa8786.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_vultr_deploying_neko_self_hosted_virtual_browser_plat_88bd268c78",
+      "target": "corpus_devto_dev_to_vultr_deploying_neko_self_hosted_virtual_browser_plat_88bd268c78_deploying_neko_self_hosted_virtual_browser_platform_on_linux",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-neko-self-hosted-virtual-browser-plat_88bd268c78.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_vultr_deploying_ngrok_ingress_controller_on_kubernete_8d4f2ed868",
+      "target": "corpus_devto_dev_to_vultr_deploying_ngrok_ingress_controller_on_kubernete_8d4f2ed868_deploying_ngrok_ingress_controller_on_kubernetes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-ngrok-ingress-controller-on-kubernete_8d4f2ed868.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -222573,6 +223106,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_vultr_deploying-plane-an-open-source-jira-alternative_ab2ae477f5.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_vultr_deploying_plausible_analytics_self_hosted_web_a_9006ed6bee",
+      "target": "corpus_devto_dev_to_vultr_deploying_plausible_analytics_self_hosted_web_a_9006ed6bee_deploying_plausible_analytics_self_hosted_web_analytics_platform",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_vultr_deploying-plausible-analytics-self-hosted-web-a_9006ed6bee.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -243826,6 +244368,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_allaboutcookies_org_eu_mandatory_distracted_driver_system_7d6be68271",
+      "target": "corpus_hackernews_allaboutcookies_org_eu_mandatory_distracted_driver_system_7d6be68271_all_cars_sold_in_the_eu_now_require_a_camera_aimed_at_your_face",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/allaboutcookies_org_eu-mandatory-distracted-driver-system_7d6be68271.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_alphapixeldev_com_recovering_eric_grahams_1987_amiga_juggler_70079b82fc",
       "target": "corpus_hackernews_alphapixeldev_com_recovering_eric_grahams_1987_amiga_juggler_70079b82fc_recovering_eric_graham_s_1987_amiga_juggler_raytracer_source_code",
       "relation": "contains",
@@ -244488,6 +245039,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/arstechnica_com_tech-policy_2026_06_sp-500-blocks-fast-space_481ec8d437.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_arstechnica_com_tech_policy_2026_07_us_manufacturers_energy_e5d35e50d7",
+      "target": "corpus_hackernews_arstechnica_com_tech_policy_2026_07_us_manufacturers_energy_e5d35e50d7_us_manufacturers_energy_costs_soar_because_of_ai_data_center_demand",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/arstechnica_com_tech-policy_2026_07_us-manufacturers-energy-_e5d35e50d7.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -255436,6 +255996,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_news_bloomberglaw_com_environment_and_energy_epa_to_investig_c50ff3e996",
+      "target": "corpus_hackernews_news_bloomberglaw_com_environment_and_energy_epa_to_investig_c50ff3e996_epa_official_agrees_to_review_meta_inc_data_center_impacts_on_water",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/news_bloomberglaw_com_environment-and-energy_epa-to-investig_c50ff3e996.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_news_bloomberglaw_com_us_law_week_doj_closing_abbott_labs_ca_5486a105f7",
       "target": "corpus_hackernews_news_bloomberglaw_com_us_law_week_doj_closing_abbott_labs_ca_5486a105f7_doj_closing_abbott_labs_case_spurs_wider_corporate_crime_retreat",
       "relation": "contains",
@@ -265174,6 +265743,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_www_latimes_com_business_story_2026_07_07_waymo_reports_teen_ce1267d381",
+      "target": "corpus_hackernews_www_latimes_com_business_story_2026_07_07_waymo_reports_teen_ce1267d381_waymo_reports_teen_riders_for_bad_behavior_and_delivers_them_to_the_police",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_latimes_com_business_story_2026-07-07_waymo-reports-teen_ce1267d381.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_www_lbc_co_uk_article_spanish_bans_palantir_national_securit_4a702e685c",
       "target": "corpus_hackernews_www_lbc_co_uk_article_spanish_bans_palantir_national_securit_4a702e685c_spanish_government_quietly_bans_use_of_palantir_in_critical_state_systems",
       "relation": "contains",
@@ -266079,6 +266657,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_not-ship_com_can-you-see-three-trees_f4dbc1a09b.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_www_notebookcheck_net_camera_with_transparent_display_launch_b247865cc8",
+      "target": "corpus_hackernews_www_notebookcheck_net_camera_with_transparent_display_launch_b247865cc8_camera_with_transparent_display_launches_for_the_equivalent_of_29",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_notebookcheck_net_Camera-with-transparent-display-launch_b247865cc8.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -268396,6 +268983,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_www_theguardian_com_society_2026_jul_07_mens_average_testost_bf87c14dcd",
+      "target": "corpus_hackernews_www_theguardian_com_society_2026_jul_07_mens_average_testost_bf87c14dcd_men_s_average_testosterone_levels_have_halved_in_last_50_years",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_theguardian_com_society_2026_jul_07_mens-average-testost_bf87c14dcd.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_www_theguardian_com_society_2026_jun_17_hpv_jabs_reduce_risk_00adf75a1f",
       "target": "corpus_hackernews_www_theguardian_com_society_2026_jun_17_hpv_jabs_reduce_risk_00adf75a1f_hpv_jabs_cut_risk_of_dying_from_cervical_cancer_before_30_to_almost_zero",
       "relation": "contains",
@@ -269004,6 +269600,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_troyhunt_com_1000-data-breaches-later-the-disclosure-lag_d49605652b.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_www_tuxedocomputers_com_en_a_new_foundation_for_tuxedo_os_sw_d3ce5157a3",
+      "target": "corpus_hackernews_www_tuxedocomputers_com_en_a_new_foundation_for_tuxedo_os_sw_d3ce5157a3_a_new_foundation_for_tuxedo_os_switching_to_debian",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_tuxedocomputers_com_en_A-new-foundation-for-TUXEDO-OS-Sw_d3ce5157a3.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -274201,6 +274806,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hn_hiring_news_ycombinator_com_item_id_48823535_f9db774c41",
+      "target": "corpus_hn_hiring_news_ycombinator_com_item_id_48823535_f9db774c41_hn_hiring_ask_hn_who_is_hiring_july_2026",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hn-hiring/news_ycombinator_com_item_id_48823535_f9db774c41.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_legal_arstechnica_com_ai_2026_07_uk_regulator_warns_of_arms_race_t_a7a1ae6ee9",
       "target": "corpus_legal_arstechnica_com_ai_2026_07_uk_regulator_warns_of_arms_race_t_a7a1ae6ee9_ars_policy_uk_regulator_warns_of_arms_race_to_keep_up_with_ai_use_in_financial_services",
       "relation": "contains",
@@ -274890,6 +275504,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/legal/arstechnica_com_tech-policy_2026_07_openai-floats-giving-us-_337c84fd8d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_legal_arstechnica_com_tech_policy_2026_07_supreme_court_lets_texas_dafa3d51b1",
+      "target": "corpus_legal_arstechnica_com_tech_policy_2026_07_supreme_court_lets_texas_dafa3d51b1_ars_policy_scotus_lets_texas_enforce_app_store_law_that_big_tech_calls_censorship_regime",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/arstechnica_com_tech-policy_2026_07_supreme-court-lets-texas_dafa3d51b1.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -286936,6 +287559,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_security_www_darkreading_com_application_security_dialogflow_cx_rogue_98dd274704",
+      "target": "corpus_security_www_darkreading_com_application_security_dialogflow_cx_rogue_98dd274704_dark_reading_dialogflow_cx_rogue_agent_flaw_enabled_ai_chatbot_data_theft",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_darkreading_com_application-security_dialogflow-cx-rogue_98dd274704.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_security_www_darkreading_com_application_security_difytap_bugs_wireta_b831717bb0",
       "target": "corpus_security_www_darkreading_com_application_security_difytap_bugs_wireta_b831717bb0_dark_reading_difytap_bugs_let_attackers_wiretap_ai_chat_histories",
       "relation": "contains",
@@ -287310,6 +287942,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_beginning-end_ca6e774057.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_security_www_darkreading_com_cyberattacks_data_breaches_big_brand_job_32ada41670",
+      "target": "corpus_security_www_darkreading_com_cyberattacks_data_breaches_big_brand_job_32ada41670_dark_reading_big_brand_jobs_scam_targets_marketing_pros_google_accounts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_big-brand-job_32ada41670.md",
       "source_location": "L12",
       "weight": 1.0
     },
@@ -290640,6 +291281,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/youtube/www_youtube_com_watch_v_whyz0m302ZI_037456e41d.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_youtube_www_youtube_com_watch_v_wnfxsxp8pgs_8ca9504cb1",
+      "target": "corpus_youtube_www_youtube_com_watch_v_wnfxsxp8pgs_8ca9504cb1_theo_i_need_to_rant_about_local_models",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/youtube/www_youtube_com_watch_v_wnfxSxP8pGs_8ca9504cb1.md",
       "source_location": "L12",
       "weight": 1.0
     },

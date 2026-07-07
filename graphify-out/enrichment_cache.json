@@ -193545,5 +193545,497 @@
       "agentic workflows"
     ],
     "summary": "# [dark-reading] 'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows 'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too."
+  },
+  "cc200d55e180b75f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_supreme-court-lets-texas_dafa3d51b1.md",
+    "source": "legal",
+    "title": "[ars-policy] SCOTUS lets Texas enforce app store law that Big Tech calls 'censorship regime",
+    "url": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
+    "keywords": [
+      "overturn age law continue",
+      "big tech calls",
+      "big tech calls",
+      "big tech calls",
+      "5th circuit left",
+      "texas win",
+      "censorship regime",
+      "censorship regime",
+      "censorship regime",
+      "source"
+    ],
+    "summary": "# [ars-policy] SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\" SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\" Texas win at 5th Circuit left in place as attempts to overturn age law continue."
+  },
+  "8ff53c90d76173a6": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_wnfxSxP8pGs_8ca9504cb1.md",
+    "source": "youtube",
+    "title": "[theo] I need to rant about local models",
+    "url": "https://www.youtube.com/watch?v=wnfxSxP8pGs",
+    "keywords": [
+      "weight model ever released",
+      "local models glm 5",
+      "personal work thank",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "000 gpu box",
+      "local models",
+      "local models"
+    ],
+    "summary": "# [theo] I need to rant about local models GLM 5.2 might be the best open-weight model ever released, but \"running it yourself\" means 400GB of VRAM, a $75,000 GPU box, and about $2,000 a year in electricity that you didn't account for when trying to build a \"free\" model for your personal work Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "ce2343aaf362548f": {
+    "file": "corpus/hackernews/www_theguardian_com_society_2026_jul_07_mens-average-testost_bf87c14dcd.md",
+    "source": "hackernews",
+    "title": "Men's average testosterone levels have halved in last 50 years",
+    "url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+    "keywords": [
+      "last 50 years",
+      "last 50 years",
+      "average testosterone levels",
+      "average testosterone levels",
+      "38z score",
+      "source",
+      "news",
+      "men",
+      "men",
+      "halved"
+    ],
+    "summary": "# Men's average testosterone levels have halved in last 50 years > Source: hackernews | Category: news | 2026-07-07T21:40:38Z Score: 18 | Comments: 6"
+  },
+  "fede769cb5a3bcb7": {
+    "file": "corpus/hackernews/allaboutcookies_org_eu-mandatory-distracted-driver-system_7d6be68271.md",
+    "source": "hackernews",
+    "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+    "keywords": [
+      "cars sold",
+      "cars sold",
+      "camera aimed",
+      "camera aimed",
+      "33z score",
+      "source",
+      "require",
+      "require",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# All Cars Sold in the EU Now Require a Camera Aimed at Your Face > Source: hackernews | Category: news | 2026-07-07T21:40:33Z Score: 178 | Comments: 181"
+  },
+  "373894beba04c96e": {
+    "file": "corpus/hackernews/arstechnica_com_tech-policy_2026_07_us-manufacturers-energy-_e5d35e50d7.md",
+    "source": "hackernews",
+    "title": "US manufacturers' energy costs soar because of AI data center demand",
+    "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+    "keywords": [
+      "ai data center demand",
+      "ai data center demand",
+      "energy costs soar",
+      "energy costs soar",
+      "us manufacturers",
+      "us manufacturers",
+      "39z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# US manufacturers' energy costs soar because of AI data center demand > Source: hackernews | Category: news | 2026-07-07T21:40:39Z Score: 8 | Comments: 1"
+  },
+  "a262c5413a1d227f": {
+    "file": "corpus/hackernews/www_notebookcheck_net_Camera-with-transparent-display-launch_b247865cc8.md",
+    "source": "hackernews",
+    "title": "Camera with transparent display launches for the equivalent of $29",
+    "url": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
+    "keywords": [
+      "transparent display launches",
+      "transparent display launches",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "equivalent",
+      "equivalent",
+      "comments",
+      "category"
+    ],
+    "summary": "# Camera with transparent display launches for the equivalent of $29 > Source: hackernews | Category: news | 2026-07-07T21:40:35Z Score: 23 | Comments: 9"
+  },
+  "c1405ba550a62fa1": {
+    "file": "corpus/hackernews/www_latimes_com_business_story_2026-07-07_waymo-reports-teen_ce1267d381.md",
+    "source": "hackernews",
+    "title": "Waymo reports teen riders for bad behavior and delivers them to the police",
+    "url": "https://www.latimes.com/business/story/2026-07-07/waymo-reports-teen-riders-for-bad-behavior-delivers-them-to-police",
+    "keywords": [
+      "waymo reports teen riders",
+      "waymo reports teen riders",
+      "bad behavior",
+      "bad behavior",
+      "41z score",
+      "source",
+      "police",
+      "police",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Waymo reports teen riders for bad behavior and delivers them to the police > Source: hackernews | Category: news | 2026-07-07T21:40:41Z Score: 4 | Comments: 1"
+  },
+  "9b4c3c21584df900": {
+    "file": "corpus/hackernews/news_bloomberglaw_com_environment-and-energy_epa-to-investig_c50ff3e996.md",
+    "source": "hackernews",
+    "title": "EPA Official Agrees to Review Meta Inc. Data Center Impacts on Water",
+    "url": "https://news.bloomberglaw.com/environment-and-energy/epa-to-investigate-meta-data-center-link-to-contaminated-water",
+    "keywords": [
+      "review meta inc",
+      "review meta inc",
+      "epa official agrees",
+      "epa official agrees",
+      "data center impacts",
+      "data center impacts",
+      "41z score",
+      "water",
+      "water",
+      "source"
+    ],
+    "summary": "# EPA Official Agrees to Review Meta Inc. Data Center Impacts on Water > Source: hackernews | Category: news | 2026-07-07T21:40:41Z Score: 4 | Comments: 2"
+  },
+  "9982aa4162dee127": {
+    "file": "corpus/hackernews/www_tuxedocomputers_com_en_A-new-foundation-for-TUXEDO-OS-Sw_d3ce5157a3.md",
+    "source": "hackernews",
+    "title": "A New Foundation for Tuxedo OS: Switching to Debian",
+    "url": "https://www.tuxedocomputers.com/en/A-new-foundation-for-TUXEDO-OS-Switching-to-Debian.tuxedo",
+    "keywords": [
+      "tuxedo os",
+      "tuxedo os",
+      "new foundation",
+      "new foundation",
+      "39z score",
+      "switching",
+      "switching",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A New Foundation for Tuxedo OS: Switching to Debian > Source: hackernews | Category: news | 2026-07-07T21:40:39Z Score: 3 | Comments: 0"
+  },
+  "06e7174484e50d85": {
+    "file": "corpus/devto/dev_to_krish_gulati_7d8c934b8b1a_the-duck-stops-here-buildin_cfb7ea115f.md",
+    "source": "devto",
+    "title": "The Duck Stops Here: Building hid_guard — Catching Keystroke Injection at the Kernel Level",
+    "url": "https://dev.to/krish_gulati_7d8c934b8b1a/the-duck-stops-here-building-hidguard-catching-keystroke-injection-at-the-kernel-level-4p0o",
+    "keywords": [
+      "bpf security monitor",
+      "linux ...",
+      "kernel level",
+      "kernel level",
+      "index post",
+      "duck stops",
+      "duck stops",
+      "building hid_guard",
+      "source",
+      "series"
+    ],
+    "summary": "# The Duck Stops Here: Building hid_guard — Catching Keystroke Injection at the Kernel Level > Source: devto | Category: news | 2026-07-07T21:40:46Z This is the index post for a series on building hid_guard, a HID-BPF security monitor for the Linux..."
+  },
+  "7c1748d6dbcd5aad": {
+    "file": "corpus/devto/dev_to_vultr_deploying-clickhouse-on-kubernetes-1f5j_f20fa9aa95.md",
+    "source": "devto",
+    "title": "Deploying ClickHouse on Kubernetes",
+    "url": "https://dev.to/vultr/deploying-clickhouse-on-kubernetes-1f5j",
+    "keywords": [
+      "running complex ...",
+      "oriented database built",
+      "olap workloads",
+      "deploying clickhouse",
+      "deploying clickhouse",
+      "43z clickhouse",
+      "source",
+      "source",
+      "reactions",
+      "open"
+    ],
+    "summary": "# Deploying ClickHouse on Kubernetes > Source: devto | Category: news | 2026-07-07T21:40:43Z ClickHouse is an open-source, column-oriented database built for OLAP workloads, running complex..."
+  },
+  "91986d2f482a806f": {
+    "file": "corpus/devto/dev_to_morinaga_how-i-added-upstream-activity-signals-to-an-_2c5031d81c.md",
+    "source": "devto",
+    "title": "How I added upstream activity signals to an OSS alternatives directory",
+    "url": "https://dev.to/morinaga/how-i-added-upstream-activity-signals-to-an-oss-alternatives-directory-2082",
+    "keywords": [
+      "pull github release cadence",
+      "added upstream activity signals",
+      "added upstream activity signals",
+      "oss alternatives directory",
+      "oss alternatives directory",
+      "open issue counts",
+      "etl script",
+      "com —",
+      "archived status",
+      "ai opinions"
+    ],
+    "summary": "# How I added upstream activity signals to an OSS alternatives directory > Source: devto | Category: news | 2026-07-07T21:40:46Z How I built an ETL script to pull GitHub release cadence, open issue counts, and archived status into ossfind.com — and why I kept all AI opinions out of it."
+  },
+  "02e7a8ae3e563671": {
+    "file": "corpus/devto/dev_to_vultr_deploying-ngrok-ingress-controller-on-kubernete_8d4f2ed868.md",
+    "source": "devto",
+    "title": "Deploying Ngrok Ingress Controller on Kubernetes",
+    "url": "https://dev.to/vultr/deploying-ngrok-ingress-controller-on-kubernetes-j70",
+    "keywords": [
+      "deploying ngrok ingress controller",
+      "deploying ngrok ingress controller",
+      "masked external ...",
+      "distributed reverse proxy",
+      "43z ngrok",
+      "internet via",
+      "exposes applications",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Deploying Ngrok Ingress Controller on Kubernetes > Source: devto | Category: news | 2026-07-07T21:40:43Z Ngrok is a distributed reverse proxy that exposes applications to the internet via a masked external..."
+  },
+  "0489aa47a8d96697": {
+    "file": "corpus/devto/dev_to_dipankar_sarkar_learning-how-llms-actually-work-by-bu_6e417aadc7.md",
+    "source": "devto",
+    "title": "Learning how LLMs actually work by building 18 of them in Zig",
+    "url": "https://dev.to/dipankar_sarkar/learning-how-llms-actually-work-by-building-18-of-them-in-zig-53cl",
+    "keywords": [
+      "llms actually work",
+      "llms actually work",
+      "ship features",
+      "never seen",
+      "group ....",
+      "building 18",
+      "building 18",
+      "llms",
+      "zig",
+      "zig"
+    ],
+    "summary": "# Learning how LLMs actually work by building 18 of them in Zig Most people who ship features on top of LLMs have never seen the inside of one. I was in that group...."
+  },
+  "61ec4c3c37d2c82b": {
+    "file": "corpus/devto/dev_to_vultr_deploying-dokploy-self-hosted-paas-for-docker-a_0a1fd76fe9.md",
+    "source": "devto",
+    "title": "Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04",
+    "url": "https://dev.to/vultr/deploying-dokploy-self-hosted-paas-for-docker-applications-on-ubuntu-2404-27eg",
+    "keywords": [
+      "ubuntu 24",
+      "ubuntu 24",
+      "hosted paas",
+      "hosted paas",
+      "hosted paas",
+      "free alternative",
+      "docker applications",
+      "docker applications",
+      "deploying dokploy",
+      "deploying dokploy"
+    ],
+    "summary": "# Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04 > Source: devto | Category: news | 2026-07-07T21:40:43Z Dokploy is an open-source, self-hosted PaaS, a free alternative to Heroku, Vercel, and Netlify, that..."
+  },
+  "a5429f0b907babb7": {
+    "file": "corpus/devto/dev_to_vultr_deploying-matomo-analytics-an-open-source-googl_2dc2836241.md",
+    "source": "devto",
+    "title": "Deploying Matomo Analytics - An Open-Source Google Analytics Alternative",
+    "url": "https://dev.to/vultr/deploying-matomo-analytics-an-open-source-google-analytics-alternative-3noa",
+    "keywords": [
+      "source web analytics platform",
+      "source google analytics alternative",
+      "source google analytics alternative",
+      "deploying matomo analytics",
+      "deploying matomo analytics",
+      "keeps full ownership",
+      "43z matomo",
+      "visitor data",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Deploying Matomo Analytics - An Open-Source Google Analytics Alternative > Source: devto | Category: news | 2026-07-07T21:40:43Z Matomo is an open-source web analytics platform that keeps full ownership of visitor data on..."
+  },
+  "74d80700ec39f2e4": {
+    "file": "corpus/devto/dev_to_vultr_deploying-plausible-analytics-self-hosted-web-a_9006ed6bee.md",
+    "source": "devto",
+    "title": "Deploying Plausible Analytics - Self-Hosted Web Analytics Platform",
+    "url": "https://dev.to/vultr/deploying-plausible-analytics-self-hosted-web-analytics-platform-48he",
+    "keywords": [
+      "tracks traffic without ...",
+      "hosted web analytics tool",
+      "hosted web analytics platform",
+      "hosted web analytics platform",
+      "deploying plausible analytics",
+      "deploying plausible analytics",
+      "43z plausible analytics",
+      "source",
+      "source",
+      "self"
+    ],
+    "summary": "# Deploying Plausible Analytics - Self-Hosted Web Analytics Platform > Source: devto | Category: news | 2026-07-07T21:40:43Z Plausible Analytics is an open-source, self-hosted web analytics tool that tracks traffic without..."
+  },
+  "3264360a0a902448": {
+    "file": "corpus/devto/dev_to_ale3oula_being-an-engineer-in-the-ai-era-277p_f2f03dee8f.md",
+    "source": "devto",
+    "title": "Being an engineer in the AI era",
+    "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
+    "keywords": [
+      "software engineering",
+      "ai era",
+      "ai era",
+      "write",
+      "source",
+      "reactions",
+      "opinion",
+      "news"
+    ],
+    "summary": "# Being an engineer in the AI era I hesitated to write this. Not because I don’t have an opinion about AI in software engineering, but..."
+  },
+  "bdb13b1bb973413b": {
+    "file": "corpus/devto/dev_to_siddhartha_bhattarai_a084_getting-selected-for-the-lf_de48fa34cf.md",
+    "source": "devto",
+    "title": "Getting Selected for the LFX Mentorship, and What I've Learned So Far About OpenSSL",
+    "url": "https://dev.to/siddhartha_bhattarai_a084/getting-selected-for-the-lfx-mentorship-and-what-ive-learned-so-far-about-openssl-k0f",
+    "keywords": [
+      "still remember checking",
+      "lfx mentorship",
+      "lfx mentorship",
+      "getting selected",
+      "getting selected",
+      "source",
+      "seeing",
+      "reactions",
+      "openssl",
+      "openssl"
+    ],
+    "summary": "# Getting Selected for the LFX Mentorship, and What I've Learned So Far About OpenSSL > Source: devto | Category: news | 2026-07-07T21:40:44Z I still remember checking my email that morning and seeing the subject line something like..."
+  },
+  "1a7a7d9662199682": {
+    "file": "corpus/devto/dev_to_arysmart_i-wanted-a-task-tracker-that-gets-out-of-my-_123cc9cba3.md",
+    "source": "devto",
+    "title": "I wanted a task tracker that gets out of my way and remembers what I shipped. So I built shipflow",
+    "url": "https://dev.to/arysmart/i-wanted-a-task-tracker-that-gets-out-of-my-way-and-remembers-what-i-shipped-so-i-built-shipflow-584e",
+    "keywords": [
+      "async standup update",
+      "task tracker",
+      "task tracker",
+      "friday afternoon",
+      "built shipflow",
+      "built shipflow",
+      "always ...",
+      "way",
+      "way",
+      "wanted"
+    ],
+    "summary": "# I wanted a task tracker that gets out of my way and remembers what I shipped. So I built shipflow Your async standup update is due, and the question is the same one it's always..."
+  },
+  "25a9ece67b2a9a54": {
+    "file": "corpus/devto/dev_to_vultr_deploying-neko-self-hosted-virtual-browser-plat_88bd268c78.md",
+    "source": "devto",
+    "title": "Deploying Neko - Self-Hosted Virtual Browser Platform on Linux",
+    "url": "https://dev.to/vultr/deploying-neko-self-hosted-virtual-browser-platform-on-linux-3i9n",
+    "keywords": [
+      "hosted virtual browser platform",
+      "hosted virtual browser platform",
+      "source virtual browser platform",
+      "runs inside docker",
+      "interactive ...",
+      "deploying neko",
+      "deploying neko",
+      "43z neko",
+      "source",
+      "streams"
+    ],
+    "summary": "# Deploying Neko - Self-Hosted Virtual Browser Platform on Linux > Source: devto | Category: news | 2026-07-07T21:40:43Z Neko is an open-source virtual browser platform that runs inside Docker and streams an interactive..."
+  },
+  "e1fe73a4e2aeafde": {
+    "file": "corpus/devops/devops_com_how-ai-is-revamping-devsecops-processes_85d354ef8c.md",
+    "source": "devops",
+    "title": "[devops-com] How AI is revamping DevSecOps processes",
+    "url": "https://devops.com/how-ai-is-revamping-devsecops-processes/",
+    "keywords": [
+      "taken [&# 8230 ;]",
+      "revamping devsecops processes",
+      "revamping devsecops processes",
+      "pushing devsecops",
+      "software delivery",
+      "new phase",
+      "many organizations",
+      "detecting vulnerabilities",
+      "automatically within",
+      "automated remediation"
+    ],
+    "summary": "Artificial Intelligence is pushing DevSecOps into a new phase where security is no longer just about detecting vulnerabilities, but increasingly about resolving them automatically within the flow of software delivery. As many organizations are discovering, DevSecOps historically gave teams visibility into risk. AI is now turning that visibility into automated remediation."
+  },
+  "cd0a2f5f9699d0f4": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48823535_f9db774c41.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48823535",
+    "keywords": [
+      "turn complex technical ideas",
+      "120k –$ 190k base",
+      "lead product &# x2f",
+      "experience building &# x2f",
+      "equivalent functional &# x2f",
+      "meaningful equity .< p",
+      "incident response .< p",
+      "claude code .< p",
+      "handle high transaction volumes",
+      "stack systems .< p"
+    ],
+    "summary": "Youth Inc. (<a href=\"https:&#x2F;&#x2F;youth.inc\" rel=\"nofollow\">https:&#x2F;&#x2F;youth.inc</a>) is hiring a Senior Software Engineer (Hybrid: Boston&#x2F;Chicago)<p>We’re a venture-backed e-commerce marketplace and media network for youth and high school sports. We’ve moved from zero to one with real revenue and are now looking for a Senior Engineer to help us scale to serve the 65M American families in this space.<p>Our Stack: Elixir&#x2F;Phoenix (LiveView), PostgreSQL, Oban, Next.js, Meilise"
+  },
+  "209a0569ce87d041": {
+    "file": "corpus/ai-research/huggingface_co_blog_amazon_one-click-to-sagemaker-studio_77d64de254.md",
+    "source": "ai-research",
+    "title": "[hf-blog] From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "keywords": [
+      "amazon sagemaker studio",
+      "amazon sagemaker studio",
+      "amazon sagemaker studio",
+      "one click",
+      "one click",
+      "one click",
+      "hugging face",
+      "hugging face",
+      "hugging face",
+      "source"
+    ],
+    "summary": "# [hf-blog] From Hugging Face to Amazon SageMaker Studio in one click > Source: ai-research | Category: research | 2026-07-07T21:40:34Z From Hugging Face to Amazon SageMaker Studio in one click"
+  },
+  "f6c49565f87fc977": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_big-brand-job_32ada41670.md",
+    "source": "security",
+    "title": "[dark-reading] Big Brand Jobs Scam Targets Marketing Pros' Google Accounts",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts",
+    "keywords": [
+      "including nested redirects",
+      "unsuspecting targets",
+      "steal credentials",
+      "google accounts",
+      "google accounts",
+      "google accounts",
+      "evade detection",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [dark-reading] Big Brand Jobs Scam Targets Marketing Pros' Google Accounts Big Brand Jobs Scam Targets Marketing Pros' Google Accounts The phishing campaign uses several tactics, including nested redirects, to evade detection and steal credentials from unsuspecting targets."
+  },
+  "c57a3a7c1f69ac08": {
+    "file": "corpus/security/www_darkreading_com_application-security_dialogflow-cx-rogue_98dd274704.md",
+    "source": "security",
+    "title": "[dark-reading] Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft",
+    "url": "https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft",
+    "keywords": [
+      "34z dialogflow cx",
+      "ai infrastructure security",
+      "dialogflow cx",
+      "dialogflow cx",
+      "rogue agent",
+      "rogue agent",
+      "rogue agent",
+      "reminds defenders",
+      "late 2025",
+      "fresh look"
+    ],
+    "summary": "# [dark-reading] Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft Varonis reported the flaw to Google in late 2025 and it has been addressed, but it reminds defenders to take a fresh look at their AI Infrastructure security."
   }
 }
