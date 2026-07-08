@@ -196229,5 +196229,456 @@
       "streamed content growth"
     ],
     "summary": "- Fix MessageScroller autoScroll around anchored turns: the anchor hold now hands off to follow-output once the streamed reply fills the viewport, content growth outrunning the frame-coalesced resize handler no longer releases follow-output, and the scroll button no longer flickers while follow-output closes the gap a streamed chunk just opened. - Fix MessageScroller abandoning a newly appended scrollAnchor placement when autoScroll is enabled, so the anchored turn holds at the reading line whil"
+  },
+  "ee0fbd67caad939c": {
+    "file": "corpus/hackernews/manualmeida_dev_articles_noiselang_90419468e8.md",
+    "source": "hackernews",
+    "title": "NoiseLang: Where N = 5 is a Dirac delta",
+    "url": "https://manualmeida.dev/articles/noiselang/",
+    "keywords": [
+      "dirac delta",
+      "dirac delta",
+      "09z score",
+      "source",
+      "noiselang",
+      "noiselang",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# NoiseLang: Where N = 5 is a Dirac delta > Source: hackernews | Category: news | 2026-07-08T11:17:09Z Score: 3 | Comments: 1"
+  },
+  "be5067d287186068": {
+    "file": "corpus/hackernews/tris_sherliker_net_blog_obfuscated-self-evaluating-bash-scri_c5ac8a23c7.md",
+    "source": "hackernews",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "keywords": [
+      "obfuscated bash script",
+      "obfuscated bash script",
+      "06z score",
+      "uniqlo",
+      "uniqlo",
+      "source",
+      "shirt",
+      "shirt",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Decoding the obfuscated bash script on a Uniqlo t-shirt > Source: hackernews | Category: news | 2026-07-08T11:17:06Z Score: 253 | Comments: 58"
+  },
+  "198464ed00029c33": {
+    "file": "corpus/hackernews/github_com_dekart-xyz_geosql_b805019a2d.md",
+    "source": "hackernews",
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "url": "https://github.com/dekart-xyz/geosql",
+    "keywords": [
+      "geospatial data",
+      "geospatial data",
+      "codex skill",
+      "codex skill",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "geosql",
+      "geosql"
+    ],
+    "summary": "# Geosql: A Claude/Codex skill for geospatial data > Source: hackernews | Category: news | 2026-07-08T11:17:07Z Score: 20 | Comments: 0"
+  },
+  "53e66819b74b9a9a": {
+    "file": "corpus/devto/dev_to_shubhradev_my-nextjs-16-optimistic-ui-looked-perfect-_eb17e89a78.md",
+    "source": "devto",
+    "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
+    "url": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
+    "keywords": [
+      "five times fast",
+      "five times fast",
+      "15z everything worked",
+      "task list",
+      "someone clicked",
+      "someone clicked",
+      "checkbox flipped",
+      "wired",
+      "useoptimistic",
+      "source"
+    ],
+    "summary": "# My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast I'd wired up useOptimistic on a task list, the checkbox flipped the instant you..."
+  },
+  "894a43d8f501e009": {
+    "file": "corpus/devto/dev_to_rjeff-sudo_on-doubt-and-direction-3e49_389c2a66c8.md",
+    "source": "devto",
+    "title": "On Doubt And Direction",
+    "url": "https://dev.to/rjeff-sudo/on-doubt-and-direction-3e49",
+    "keywords": [
+      "nights ago",
+      "wall",
+      "wall",
+      "talking",
+      "source",
+      "reactions",
+      "news",
+      "doubt",
+      "doubt",
+      "direction"
+    ],
+    "summary": "# On Doubt And Direction It's Not the Wall. It's What You Do at the Wall."
+  },
+  "db803319160061a8": {
+    "file": "corpus/devto/dev_to_carlos_arturocastaog_de-programador-a-gerente-de-proc_68418b1068.md",
+    "source": "devto",
+    "title": "De programador a gerente de procesos: lo que la IA realmente está cambiando",
+    "url": "https://dev.to/carlos_arturocastaog_/de-programador-a-gerente-de-procesos-lo-que-la-ia-realmente-esta-cambiando-301l",
+    "keywords": [
+      "gerente de procesos",
+      "gerente de procesos",
+      "de programador",
+      "de programador",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026"
+    ],
+    "summary": "# De programador a gerente de procesos: lo que la IA realmente está cambiando > Source: devto | Category: news | 2026-07-08T11:17:17Z Mi rol como programador está cambiando, y no es la programación en sí lo que se está volviendo..."
+  },
+  "507052b127fdc4b4": {
+    "file": "corpus/devto/dev_to_sl4m3_debugging-benchmark-6-llm-models-on-a-real-race_148856c245.md",
+    "source": "devto",
+    "title": "Debugging Benchmark: 6 LLM Models on a Real Race Condition Bug",
+    "url": "https://dev.to/sl4m3/debugging-benchmark-6-llm-models-on-a-real-race-condition-bug-4kpj",
+    "keywords": [
+      "real race condition bug",
+      "real race condition bug",
+      "deepseek v4 flash",
+      "6 llm models",
+      "6 llm models",
+      "deepseek v4 pro",
+      "5 pro",
+      "mimo v2",
+      "mimo v2",
+      "debugging benchmark"
+    ],
+    "summary": "# Debugging Benchmark: 6 LLM Models on a Real Race Condition Bug > Source: devto | Category: news | 2026-07-08T11:17:16Z A comprehensive comparison of DeepSeek V4 Pro, MiMo V2.5 Pro, DeepSeek V4 Flash, MiMo V2.5, GLM 5.2,..."
+  },
+  "0810b0b9c0ff625a": {
+    "file": "corpus/devto/dev_to_surajrkhonde_nodejs-internals-explained-by-uncle-to-n_be086f6efd.md",
+    "source": "devto",
+    "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
+    "url": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
+    "keywords": [
+      "nephew — part 1",
+      "nephew — part 1",
+      "js internals explained",
+      "js internals explained",
+      "part 1",
+      "part series",
+      "wired ...",
+      "still uses",
+      "never knew",
+      "never knew"
+    ],
+    "summary": "# Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew > Source: devto | Category: news | 2026-07-08T11:17:16Z This is Part 1 of a 3-part series where an uncle (30 years in backend systems, still uses a wired..."
+  },
+  "91186165e6e3ed2f": {
+    "file": "corpus/devto/dev_to_gioboa_stop-giving-ai-agents-your-whole-laptop-secure_66a4875098.md",
+    "source": "devto",
+    "title": "Stop Giving AI Agents Your Whole Laptop: Secure Them with Dev Containers",
+    "url": "https://dev.to/gioboa/stop-giving-ai-agents-your-whole-laptop-secure-them-with-dev-containers-k4m",
+    "keywords": [
+      "stop giving ai agents",
+      "stop giving ai agents",
+      "llm coding agents",
+      "whole laptop",
+      "whole laptop",
+      "dev containers",
+      "dev containers",
+      "thought",
+      "source",
+      "secure"
+    ],
+    "summary": "# Stop Giving AI Agents Your Whole Laptop: Secure Them with Dev Containers > Source: devto | Category: news | 2026-07-08T11:17:14Z I recently started using Visual Studio Code Dev Containers with LLM coding agents and I thought to..."
+  },
+  "9339be6a533a4ed1": {
+    "file": "corpus/devto/dev_to_kushal1o1_zerorelay-direct-browser-to-browser-sharing_f105c319f8.md",
+    "source": "devto",
+    "title": "ZeroRelay: Direct Browser-to-Browser Sharing - No Server Ever Sees Your Data",
+    "url": "https://dev.to/kushal1o1/zerorelay-direct-browser-to-browser-sharing-no-server-ever-sees-your-data-4bn3",
+    "keywords": [
+      "source p2p mesh app",
+      "server ever sees",
+      "server ever sees",
+      "sharing text",
+      "fully open",
+      "files directly",
+      "direct browser",
+      "direct browser",
+      "browsers ....",
+      "browser sharing"
+    ],
+    "summary": "# ZeroRelay: Direct Browser-to-Browser Sharing - No Server Ever Sees Your Data > Source: devto | Category: news | 2026-07-08T11:17:18Z A fully open-source P2P mesh app for sharing text, code, notes, and files directly between browsers...."
+  },
+  "337fa08e46c3aa70": {
+    "file": "corpus/devto/dev_to_carlos_arturocastaog_de-programador-a-gerente-de-proc_18a661125e.md",
+    "source": "devto",
+    "title": "De programador a gerente de procesos: lo que la IA realmente está cambiando",
+    "url": "https://dev.to/carlos_arturocastaog_/de-programador-a-gerente-de-procesos-lo-que-la-ia-realmente-esta-cambiando-3nl5",
+    "keywords": [
+      "gerente de procesos",
+      "gerente de procesos",
+      "de programador",
+      "de programador",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026"
+    ],
+    "summary": "# De programador a gerente de procesos: lo que la IA realmente está cambiando > Source: devto | Category: news | 2026-07-08T11:17:17Z Mi rol como programador está cambiando, y no es la programación en sí lo que se está volviendo..."
+  },
+  "e108467bc141dd7e": {
+    "file": "corpus/devto/dev_to_erislandys_the-budget-that-actually-blocks-the-concur_821cdc080a.md",
+    "source": "devto",
+    "title": "The budget that actually blocks: the concurrency bug an AI agent's spend guardrail can't afford",
+    "url": "https://dev.to/erislandys/the-budget-that-actually-blocks-the-concurrency-bug-an-ai-agents-spend-guardrail-cant-afford-29gj",
+    "keywords": [
+      "5 per call \"...",
+      "budget — \"$ 50",
+      "spends money",
+      "spend guardrail",
+      "spend guardrail",
+      "concurrency bug",
+      "concurrency bug",
+      "ai agent",
+      "ai agent",
+      "ai agent"
+    ],
+    "summary": "# The budget that actually blocks: the concurrency bug an AI agent's spend guardrail can't afford An AI agent with a wallet is a loop that spends money. Give it a budget — \"$50/day, max $5 per call\"..."
+  },
+  "fec3bac5c5209b7d": {
+    "file": "corpus/devto/dev_to_moshams272_my-gsoc-2026-mid-term-how-building-webpack_d4201f0a08.md",
+    "source": "devto",
+    "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
+    "url": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
+    "keywords": [
+      "js core tools 👀",
+      "js core tools 👀",
+      "gsoc 2026 mid",
+      "gsoc 2026 mid",
+      "patch node",
+      "patch node",
+      "google summer",
+      "deeply immersed",
+      "building webpack",
+      "building webpack"
+    ],
+    "summary": "# My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀 > Source: devto | Category: news | 2026-07-08T11:17:18Z Halfway through Google Summer of Code 2026 🤦🏻‍♂️ Time flies when you are deeply immersed in AST..."
+  },
+  "90d50ff9a76d5059": {
+    "file": "corpus/devto/dev_to_parsajiravand_you-cant-transition-a-css-variable-prop_29228899c5.md",
+    "source": "devto",
+    "title": "You can't transition a CSS variable. @property says otherwise.",
+    "url": "https://dev.to/parsajiravand/you-cant-transition-a-css-variable-property-says-otherwise-50a0",
+    "keywords": [
+      "probably written something like",
+      "var (-- hue )...",
+      "property says otherwise",
+      "property says otherwise",
+      "-- hue",
+      "css variable",
+      "css variable",
+      "transition",
+      "transition",
+      "source"
+    ],
+    "summary": "# You can't transition a CSS variable. > Source: devto | Category: news | 2026-07-08T11:17:15Z You've probably written something like this:    .button {   --hue: 220;   background: hsl(var(--hue)..."
+  },
+  "8d94cffe2321c6a4": {
+    "file": "corpus/devto/dev_to_yimtheppariyapol_the-ai-that-writes-code-cant-see-its_ff8b029b61.md",
+    "source": "devto",
+    "title": "The AI That Writes Code Can't See Its Own Bugs",
+    "url": "https://dev.to/yimtheppariyapol/the-ai-that-writes-code-cant-see-its-own-bugs-43jg",
+    "keywords": [
+      "first ai wrote",
+      "second model",
+      "second model",
+      "real bug",
+      "every diff",
+      "14z twice",
+      "writes code",
+      "writes code",
+      "code"
+    ],
+    "summary": "# The AI That Writes Code Can't See Its Own Bugs > Source: devto | Category: news | 2026-07-08T11:17:14Z Twice, a second model (Codex) caught a real bug in code our first AI wrote and reviewed itself, and here's the shape for putting a second model on every diff before you merge."
+  },
+  "d6d51df0a363e1df": {
+    "file": "corpus/devto/dev_to_tessl_i-spent-a-week-fixing-the-wrong-skill-and-other_382d3a7996.md",
+    "source": "devto",
+    "title": "I Spent a Week Fixing the Wrong Skill (And Other Lessons from Evaluating an AI PR Reviewer)",
+    "url": "https://dev.to/tessl/i-spent-a-week-fixing-the-wrong-skill-and-other-lessons-from-evaluating-an-ai-pr-reviewer-54d8",
+    "keywords": [
+      "ai pr reviewer",
+      "ai pr reviewer",
+      "wrong skill",
+      "wrong skill",
+      "week fixing",
+      "week fixing",
+      "textbook ...",
+      "claude opus",
+      "baseline model",
+      "already catches"
+    ],
+    "summary": "# I Spent a Week Fixing the Wrong Skill (And Other Lessons from Evaluating an AI PR Reviewer) > Source: devto | Category: news | 2026-07-08T11:17:15Z TLDR      The baseline model (Claude Opus, no guidance) already catches ~65% of textbook..."
+  },
+  "55478d1a062b467f": {
+    "file": "corpus/finance/news_crunchbase_com_venture_data-top-active-us-investors-gen_23c95f7686.md",
+    "source": "finance",
+    "title": "[crunchbase] Familiar Names Top Active US Investor Ranks In Q2",
+    "url": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
+    "keywords": [
+      "put together several rankings",
+      "include active venture backers",
+      "prolific seed dealmakers",
+      "active investors",
+      "lead investors",
+      "highest spenders",
+      "expanded sense",
+      "source"
+    ],
+    "summary": "# [crunchbase] Familiar Names Top Active US Investor Ranks In Q2 To get an expanded sense of how busy startup backers spent Q2, we put together several rankings for active investors. These include active venture backers, lead investors, highest spenders and prolific seed dealmakers."
+  },
+  "e6925ceefb247158": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48054_visa-moves-beyond-payment_8c9be0b6af.md",
+    "source": "finance",
+    "title": "[finextra] Visa moves beyond payments to become international travel company",
+    "url": "https://www.finextra.com/newsarticle/48054/visa-moves-beyond-payments-to-become-international-travel-company?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "visa moves beyond payments",
+      "visa moves beyond payments",
+      "become international travel company",
+      "become international travel company",
+      "remit beyond payments",
+      "ten international locations",
+      "first travel platform",
+      "new mobile",
+      "source",
+      "launch"
+    ],
+    "summary": "# [finextra] Visa moves beyond payments to become international travel company Visa moves beyond payments to become international travel company Visa is expanding its remit beyond payments with the launch of a new mobile-first travel platform in ten international locations."
+  },
+  "4c24a1e1e99507ea": {
+    "file": "corpus/finance/news_crunchbase_com_saas_metrics-unit-economics-questions-sa_cd938a535e.md",
+    "source": "finance",
+    "title": "[crunchbase] Your SaaS Metrics Are A Result, Not A Strategy",
+    "url": "https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie/",
+    "keywords": [
+      "valuable indicators",
+      "underlying drivers",
+      "term health",
+      "saas metrics",
+      "saas metrics",
+      "saas metrics",
+      "look beyond",
+      "competitive strength",
+      "business performance",
+      "arr growth"
+    ],
+    "summary": "# [crunchbase] Your SaaS Metrics Are A Result, Not A Strategy Your SaaS Metrics Are A Result, Not A Strategy SaaS metrics like LTV/CAC, NRR, GRR, ARR growth, and the Rule of 40 are valuable indicators of business performance, writes guest author Itay Sagie, but leaders and boards should look beyond the numbers to understand the underlying drivers to assess the company's long-term health and competitive strength."
+  },
+  "1ea74547d7f580b9": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48055_nextgen-fincrime-2026-wha_6ef7b8cfa9.md",
+    "source": "finance",
+    "title": "[finextra] NextGen FinCrime 2026: What the UK really thinks about fraud",
+    "url": "https://www.finextra.com/newsarticle/48055/nextgen-fincrime-2026-what-the-uk-really-thinks-about-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "07z nextgen fincrime 2026",
+      "nextgen fincrime 2026",
+      "nextgen fincrime 2026",
+      "nextgen fincrime 2026",
+      "uk really thinks",
+      "uk really thinks",
+      "uk really thinks",
+      "uk really thinks",
+      "latest survey",
+      "finextra ’"
+    ],
+    "summary": "# [finextra] NextGen FinCrime 2026: What the UK really thinks about fraud NextGen FinCrime 2026: What the UK really thinks about fraud In the ‘Industry Pulse Check’ session at NextGen FinCrime 2026, never-before-seen-data from Finextra’s latest survey was revealed, capturing what the UK really thinks about fraud."
+  },
+  "ebd02260331e3fe6": {
+    "file": "corpus/podcast/syntax_fm_1019_372acc556f.md",
+    "source": "podcast",
+    "title": "[syntax-fm] 1019: LGTM, Ship It: The AI Code Review Problem",
+    "url": "https://syntax.fm/1019",
+    "keywords": [
+      "x instagram youtube threads",
+      "bose qc35 hit us",
+      "09 exploring new tools",
+      "ai code review problem",
+      "ai code review problem",
+      "ai code review problem",
+      "wes also dig",
+      "react debate 31",
+      "mounting technical debt",
+      "46 sick picks"
+    ],
+    "summary": "# [syntax-fm] 1019: LGTM, Ship It: The AI Code Review Problem 1019: LGTM, Ship It: The AI Code Review Problem Scott and Wes also dig into local models, whether jujutsu really beats git, how freelancers should price work in the AI era, and getting your team on board with external libraries."
+  },
+  "dc2dbf12ccf9166a": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_cybersecurity-and-the_7a204d38dd.md",
+    "source": "security",
+    "title": "[schneier] Cybersecurity and the Gap Between Skill and Ability",
+    "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
+    "keywords": [
+      "significant issue since long",
+      "five eyes &# 8212",
+      "generative ai models ...",
+      "small &# 8212",
+      "cyberattacks &# 8212",
+      "increasing cyber risks",
+      "national security agencies",
+      "ability last week",
+      "ai models",
+      "&# 8217"
+    ],
+    "summary": "Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a  statement  warning of the increasing cyber risks of AI models: in particular, their ability to autonomously hack into systems and networks. The statement was more measured than some of the  breathless headlines  about it, and the advice they gave is pretty much the standard advice everyone gives&#8212;albeit with newfound urgency. Internet risks"
+  },
+  "de06889a1acbf6a9": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-orders-feds-to-p_15ffdd0151.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA orders feds to prioritize patching Langflow auth bypass flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+    "keywords": [
+      "08z cisa orders feds",
+      "cisa orders feds",
+      "cisa orders feds",
+      "langflow visual framework",
+      "gave federal agencies",
+      "building ai agents",
+      "actively exploited vulnerability",
+      "infrastructure security agency",
+      "cisa",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] CISA orders feds to prioritize patching Langflow auth bypass flaw CISA orders feds to prioritize patching Langflow auth bypass flaw The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents."
+  },
+  "a8545062c17dc126": {
+    "file": "corpus/security/thehackernews_com_2026_07_china-linked-uat-7810-expands-orb__b00083c733.md",
+    "source": "security",
+    "title": "[hacker-news-sec] China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+    "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+    "keywords": [
+      "chinese threat actor tracked",
+      "7810 expands orb network",
+      "7810 expands orb network",
+      "7810 expands orb network",
+      "advanced persistent threat",
+      "operational relay box",
+      "facing networking devices",
+      "new longleash malware",
+      "new longleash malware",
+      "new longleash malware"
+    ],
+    "summary": "# [hacker-news-sec] China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025."
   }
 }
