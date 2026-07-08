@@ -194619,5 +194619,324 @@
       "https :// github"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-07T23:37:29Z ## What's Changed * ci: avoid unbounded parallelism by @dhiltgen in https://github.com/ollama/ollama/pull/16966 * fix cuda toolkit lookup and parallel by @MarkWard0110 in https://github.com/ollama/ollama/pull/16613 * docs(cloud): update retirement list by @mxyng in https://github.com/ollama/ollama/pull/17000 * discover: fall back to standard CUDA when the JetPack runner is absent by @kevinpark1217 in https://github.com/ollama"
+  },
+  "ac948b2b9b997bac": {
+    "file": "corpus/hackernews/www_bona-books_com_news_we-bought-an-ai-story_6826b0f119.md",
+    "source": "hackernews",
+    "title": "Honey, We Bought an AI Story",
+    "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
+    "keywords": [
+      "ai story",
+      "ai story",
+      "25z score",
+      "source",
+      "news",
+      "honey",
+      "honey",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Honey, We Bought an AI Story > Source: hackernews | Category: news | 2026-07-08T01:06:25Z Score: 7 | Comments: 2"
+  },
+  "fd8d13bd08242084": {
+    "file": "corpus/hackernews/arxiv_org_abs_2607_02820_ece490e602.md",
+    "source": "hackernews",
+    "title": "Git Hash Chain Malleability",
+    "url": "https://arxiv.org/abs/2607.02820",
+    "keywords": [
+      "git hash chain malleability",
+      "git hash chain malleability",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Git Hash Chain Malleability > Source: hackernews | Category: news | 2026-07-08T01:06:26Z Score: 3 | Comments: 1"
+  },
+  "3879b3b7404f03f3": {
+    "file": "corpus/hackernews/blog_klipse_tech_aboulafia_2026_07_06_a-13th-century-enumera_a4fb02c070.md",
+    "source": "hackernews",
+    "title": "A 13th-Century Enumeration Algorithm, Ignored for 700 Years",
+    "url": "https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html",
+    "keywords": [
+      "century enumeration algorithm",
+      "century enumeration algorithm",
+      "700 years",
+      "700 years",
+      "26z score",
+      "source",
+      "news",
+      "ignored",
+      "ignored",
+      "hackernews"
+    ],
+    "summary": "# A 13th-Century Enumeration Algorithm, Ignored for 700 Years > Source: hackernews | Category: news | 2026-07-08T01:06:26Z Score: 6 | Comments: 0"
+  },
+  "8e6b750a99a47963": {
+    "file": "corpus/hackernews/www_cbc_ca_news_canada_montreal_canada-s-only-watchmaking-sc_773cfd82d2.md",
+    "source": "hackernews",
+    "title": "Canada's only watchmaking school still ticking after 80 years",
+    "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+    "keywords": [
+      "watchmaking school still ticking",
+      "watchmaking school still ticking",
+      "80 years",
+      "80 years",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Canada's only watchmaking school still ticking after 80 years > Source: hackernews | Category: news | 2026-07-08T01:06:24Z Score: 7 | Comments: 0"
+  },
+  "d766608e79511e35": {
+    "file": "corpus/hackernews/moxiedocs_com_mermaid-diagram-editor_bafcaf7338.md",
+    "source": "hackernews",
+    "title": "Show HN: Free Mermaid Diagram Editor",
+    "url": "https://moxiedocs.com/mermaid-diagram-editor",
+    "keywords": [
+      "mermaid editor one blew",
+      "free mermaid diagram editor",
+      "free mermaid diagram editor",
+      "case people find",
+      "new free tools",
+      "free tools",
+      "slowly adding",
+      "show hn",
+      "show hn",
+      "moxie docs"
+    ],
+    "summary": "# Show HN: Free Mermaid Diagram Editor I&#x27;ve been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on Google rankings so I figured I&#x27;d share in case people find it useful! We also have ADR, AGENTS.md, LLMs, and a few other free tools."
+  },
+  "ffdee3551a456cdb": {
+    "file": "corpus/hackernews/www_goodfire_ai_research_bsf-vision_f6a9799de4.md",
+    "source": "hackernews",
+    "title": "Neural Geometry in Vision Models with Block-Sparse Featurizers",
+    "url": "https://www.goodfire.ai/research/bsf-vision",
+    "keywords": [
+      "vision models",
+      "vision models",
+      "sparse featurizers",
+      "sparse featurizers",
+      "neural geometry",
+      "neural geometry",
+      "27z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Neural Geometry in Vision Models with Block-Sparse Featurizers > Source: hackernews | Category: news | 2026-07-08T01:06:27Z Score: 3 | Comments: 0"
+  },
+  "a5e008421ef198d4": {
+    "file": "corpus/hackernews/vatsalbakshi_com_blog_benfords-law_835a8eec55.md",
+    "source": "hackernews",
+    "title": "An interactive explorer for Benford's Law across real datasets",
+    "url": "https://vatsalbakshi.com/blog/benfords-law/",
+    "keywords": [
+      "law across real datasets",
+      "law across real datasets",
+      "interactive explorer",
+      "interactive explorer",
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# An interactive explorer for Benford's Law across real datasets > Source: hackernews | Category: news | 2026-07-08T01:06:25Z Score: 3 | Comments: 0"
+  },
+  "5f046d8b25c58df1": {
+    "file": "corpus/hackernews/ocw_mit_edu_courses_6-001-structure-and-interpretation-of-co_dc57ab8dfd.md",
+    "source": "hackernews",
+    "title": "Structure and Interpretation of Computer Programs Video Lectures",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "keywords": [
+      "computer programs video lectures",
+      "computer programs video lectures",
+      "24z score",
+      "structure",
+      "structure",
+      "source",
+      "news",
+      "interpretation",
+      "interpretation",
+      "hackernews"
+    ],
+    "summary": "# Structure and Interpretation of Computer Programs Video Lectures > Source: hackernews | Category: news | 2026-07-08T01:06:24Z Score: 6 | Comments: 0"
+  },
+  "a35882d459682ed4": {
+    "file": "corpus/hackernews/github_com_tiliondev_fortress_190280598c.md",
+    "source": "hackernews",
+    "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+    "url": "https://github.com/tiliondev/fortress",
+    "keywords": [
+      "agents stop getting blocked",
+      "agents stop getting blocked",
+      "stealth chromium",
+      "stealth chromium",
+      "show hn",
+      "show hn",
+      "fortress –",
+      "fortress –",
+      "25z score",
+      "source"
+    ],
+    "summary": "# Show HN: Fortress – a stealth Chromium so your agents stop getting blocked > Source: hackernews | Category: news | 2026-07-08T01:06:25Z Score: 10 | Comments: 2"
+  },
+  "5f09b53b18086a88": {
+    "file": "corpus/hackernews/try_works_first-principles-of-model-routing_08c6c26f89.md",
+    "source": "hackernews",
+    "title": "First Principles of Model Routing",
+    "url": "https://try.works/first-principles-of-model-routing",
+    "keywords": [
+      "model routing",
+      "model routing",
+      "first principles",
+      "first principles",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# First Principles of Model Routing > Source: hackernews | Category: news | 2026-07-08T01:06:23Z Score: 12 | Comments: 8"
+  },
+  "ccfa9e611943aabd": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_chat-sdk-adds-dial-support_7769aa6e91.md",
+    "source": "vercel-blog",
+    "title": "Chat SDK adds Dial support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-dial-support",
+    "keywords": [
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "2026",
+      "08t01"
+    ],
+    "summary": "# Chat SDK adds Dial support > Source: vercel-blog | Category: news | 2026-07-08T01:06:33Z Chat SDK adds Dial support"
+  },
+  "0bf9cfe63b87f3dc": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_eve-chat-sdk-channel_f70a65c0cf.md",
+    "source": "vercel-blog",
+    "title": "Use any Chat SDK adapter with eve",
+    "url": "https://vercel.com/changelog/eve-chat-sdk-channel",
+    "keywords": [
+      "chat sdk adapter",
+      "chat sdk adapter",
+      "chat sdk adapter",
+      "33z use",
+      "use",
+      "use",
+      "vercel",
+      "source",
+      "news",
+      "eve"
+    ],
+    "summary": "# Use any Chat SDK adapter with eve > Source: vercel-blog | Category: news | 2026-07-08T01:06:33Z Use any Chat SDK adapter with eve"
+  },
+  "52c8cf0957cc90b5": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_chat-sdk-vercel-connect_27ff9c266e.md",
+    "source": "vercel-blog",
+    "title": "Chat SDK now supports Vercel Connect",
+    "url": "https://vercel.com/changelog/chat-sdk-vercel-connect",
+    "keywords": [
+      "supports vercel connect",
+      "supports vercel connect",
+      "supports vercel connect",
+      "33z chat sdk",
+      "chat sdk",
+      "chat sdk",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Chat SDK now supports Vercel Connect > Source: vercel-blog | Category: news | 2026-07-08T01:06:33Z Chat SDK now supports Vercel Connect"
+  },
+  "304b9e46f0ac0dcf": {
+    "file": "corpus/devto/dev_to_samson_tanimawo_database-reliability-the-sre-approach_b9a2e4af01.md",
+    "source": "devto",
+    "title": "Database Reliability: The SRE Approach to Keeping Data Safe",
+    "url": "https://dev.to/samson_tanimawo/database-reliability-the-sre-approach-to-keeping-data-safe-40hc",
+    "keywords": [
+      "keeping data safe",
+      "keeping data safe",
+      "sre approach",
+      "sre approach",
+      "perfectly configured",
+      "never ...",
+      "database reliability",
+      "database reliability",
+      "daily snapshots",
+      "source"
+    ],
+    "summary": "# Database Reliability: The SRE Approach to Keeping Data Safe > Source: devto | Category: news | 2026-07-08T01:06:30Z The Backup That Wasn't   We had backups."
+  },
+  "f58aae42c852fe68": {
+    "file": "corpus/devto/dev_to_nahat_ser_zen_mcp-a-complete-guide-from-zero-to-maxim_9e8ed81272.md",
+    "source": "devto",
+    "title": "MCP: A Complete Guide from Zero to Maximum, from Tools to Cross-Regional Discovery with Cryptographic Trust Scoring.",
+    "url": "https://dev.to/nahat_ser_zen/mcp-a-complete-guide-from-zero-to-maximum-from-tools-to-cross-regional-discovery-with-25m0",
+    "keywords": [
+      "model context protocol",
+      "cryptographic trust scoring",
+      "cryptographic trust scoring",
+      "another api ...",
+      "29z mcp stands",
+      "regional discovery",
+      "regional discovery",
+      "people treat",
+      "complete guide",
+      "complete guide"
+    ],
+    "summary": "# MCP: A Complete Guide from Zero to Maximum, from Tools to Cross-Regional Discovery with Cryptographic Trust Scoring. > Source: devto | Category: news | 2026-07-08T01:06:29Z MCP stands for Model Context Protocol, and although most people treat it like just another API..."
+  },
+  "04595c0397ac6c0b": {
+    "file": "corpus/ai-research/openai_com_index_mufg_b7195bbec0.md",
+    "source": "ai-research",
+    "title": "[openai-blog] MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "keywords": [
+      "powered financial services",
+      "deliver new ai",
+      "23z mufg aims",
+      "mufg aims",
+      "mufg aims",
+      "improve workflows",
+      "become ai",
+      "become ai",
+      "become ai",
+      "native organization"
+    ],
+    "summary": "# [openai-blog] MUFG aims to become AI-native with OpenAI MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+  },
+  "ef1f420b1957dc8f": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_80_d028197cca.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.80 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.80",
+    "keywords": [
+      "migrate webpack tests back",
+      "80 ### misc changes",
+      "js middleware without adapter",
+      "next info experimental analyze",
+      "edge adapter outputs",
+      "playwright install step",
+      "persistence file errors",
+      "graph css chunking",
+      "adapters variable name",
+      "js — v16"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-08T01:07:06Z - Turbopack: add more context to persistence file errors: #95318 - [ci] Split up large cache-components-dev-warmup test suite: #95553 - Cancel a superseded Server Components HMR refresh's server-side work: #95486 - test: Fix immutable static asset deployment tests: #95550 - [ci] Migrate webpack tests back to arm runners: #95549 - docs: Fix testing-adapters variable name: #95575 - test: Use Turbopack for 'Test new and changed "
   }
 }
