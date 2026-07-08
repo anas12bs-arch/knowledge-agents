@@ -195480,5 +195480,413 @@
       "listening flow methods"
     ],
     "summary": "### Features - Pull latest LLM models dynamically in the crew wizard. - Unify `crewai run` flow input resolution and prompt from the state schema. - Cut docs version nav from Edge so new pages aren't dropped."
+  },
+  "8cf5effd6e706194": {
+    "file": "corpus/design/uxdesign_cc_never-mind-the-prompts-heres-the-thinking-f4af4b_a8bc2a942b.md",
+    "source": "design",
+    "title": "[sidebar-io] Never mind the prompts, here’s the thinking",
+    "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
+    "keywords": [
+      "make us faster",
+      "06z never mind",
+      "never mind",
+      "never mind",
+      "year rebuilding",
+      "studio ’"
+    ],
+    "summary": "# [sidebar-io] Never mind the prompts, here’s the thinking A year rebuilding my studio’s entire design process around AI. It didn’t make us faster, and that’s exactly why it worked."
+  },
+  "07dfea6724468968": {
+    "file": "corpus/design/www_anthropic_com_research_global-workspace_b36169a44d.md",
+    "source": "design",
+    "title": "[sidebar-io] A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "keywords": [
+      "language models interpretability research",
+      "language models",
+      "language models",
+      "internal thoughts",
+      "global workspace",
+      "global workspace",
+      "global workspace",
+      "claude ’",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] A global workspace in language models A global workspace in language models Interpretability research on Claude’s internal thoughts."
+  },
+  "a546ff00fc59d824": {
+    "file": "corpus/design/astryx_atmeta_com_456ec662f7.md",
+    "source": "design",
+    "title": "[sidebar-io] Astryx Design System",
+    "url": "https://astryx.atmeta.com/",
+    "keywords": [
+      "06z astryx design system",
+      "open source design system",
+      "astryx design system",
+      "astryx design system",
+      "fully customizable",
+      "agent ready",
+      "design",
+      "design",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Astryx Design System Astryx Design System An open source design system that is fully customizable and agent ready."
+  },
+  "11fec3b78ae9382a": {
+    "file": "corpus/design/thinkroom_kieranklaassen_com_d_njrS5TJhis_27bad6aa01.md",
+    "source": "design",
+    "title": "[sidebar-io] Closing the verification loop",
+    "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+    "keywords": [
+      "verification loop",
+      "verification loop",
+      "verification loop",
+      "persona eyes",
+      "browser reality",
+      "branch proves",
+      "06z closing",
+      "closing",
+      "closing",
+      "source"
+    ],
+    "summary": "# [sidebar-io] Closing the verification loop Closing the verification loop How a branch proves itself ready: browser reality, persona eyes, and fixes that carry their own evidence."
+  },
+  "5d858f819e4a41a5": {
+    "file": "corpus/design/echo_logicaleap_com_e_1_4_a_0_rho_0_1_h_0_8_n_150_od_6_seed__84857fe7e4.md",
+    "source": "design",
+    "title": "[sidebar-io] Echo chamber: a healthy public square",
+    "url": "https://echo.logicaleap.com/?e=1.4&a=0&rho=0.1&h=0.8&n=150&od=6&seed=42&topo=ba&b=0&k=8&t=random&d=0&bp=1&co=1&sp=0&at=0&in=0&rl=0",
+    "keywords": [
+      "healthy public square",
+      "healthy public square",
+      "healthy public square",
+      "data visualization project",
+      "06z echo chamber",
+      "echo chamber",
+      "echo chamber",
+      "people end",
+      "split",
+      "source"
+    ],
+    "summary": "# [sidebar-io] Echo chamber: a healthy public square Echo chamber: a healthy public square How people end up in bubbles, and how easily a crowd can be split."
+  },
+  "4bdde58b9358e2b4": {
+    "file": "corpus/hackernews/literaryreview_co_uk_out-of-the-armchair_24a334b1b9.md",
+    "source": "hackernews",
+    "title": "Out of the Armchair",
+    "url": "https://literaryreview.co.uk/out-of-the-armchair",
+    "keywords": [
+      "09z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "armchair",
+      "armchair"
+    ],
+    "summary": "# Out of the Armchair > Source: hackernews | Category: news | 2026-07-08T06:44:09Z Score: 3 | Comments: 0"
+  },
+  "17c2a8174cedf87c": {
+    "file": "corpus/hackernews/www_digipres_org_the-floppy-guide_b9b1ba4044.md",
+    "source": "hackernews",
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+    "url": "https://www.digipres.org/the-floppy-guide/",
+    "keywords": [
+      "floppy – cambridge guide",
+      "floppy – cambridge guide",
+      "fragile floppy disks",
+      "fragile floppy disks",
+      "preserving data",
+      "preserving data",
+      "04z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks > Source: hackernews | Category: news | 2026-07-08T06:44:04Z Score: 32 | Comments: 7"
+  },
+  "cdfe5d83ede8c7fc": {
+    "file": "corpus/hackernews/devblogs_microsoft_com_oldnewthing_20260707-00_p_112508_aa0e5ce1e0.md",
+    "source": "hackernews",
+    "title": "How did Windows 95 decide that a setup program ran?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508",
+    "keywords": [
+      "windows 95 decide",
+      "windows 95 decide",
+      "setup program ran",
+      "setup program ran",
+      "11z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How did Windows 95 decide that a setup program ran? > Source: hackernews | Category: news | 2026-07-08T06:44:11Z Score: 8 | Comments: 0"
+  },
+  "39ff2726cfb207d6": {
+    "file": "corpus/hackernews/pluralistic_net_2026_07_02_canonization_cbf003ece0.md",
+    "source": "hackernews",
+    "title": "The difference between 'today's task' and 'accretive work",
+    "url": "https://pluralistic.net/2026/07/02/canonization/",
+    "keywords": [
+      "accretive work",
+      "accretive work",
+      "05z score",
+      "today",
+      "today",
+      "task",
+      "task",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The difference between \"today's task\" and \"accretive work\" > Source: hackernews | Category: news | 2026-07-08T06:44:05Z Score: 21 | Comments: 8"
+  },
+  "07a669d9055ab0cf": {
+    "file": "corpus/hackernews/noma_security_blog_gitlost-how-we-tricked-githubs-ai-agent-i_cf7d6d2d79.md",
+    "source": "hackernews",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "keywords": [
+      "leaking private repos",
+      "leaking private repos",
+      "tricked github",
+      "tricked github",
+      "ai agent",
+      "ai agent",
+      "06z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos > Source: hackernews | Category: news | 2026-07-08T06:44:06Z Score: 11 | Comments: 2"
+  },
+  "f5f19d616012b10b": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-8-alex-watched-an-ai-dashboard-_dd2cefbdea.md",
+    "source": "devto",
+    "title": "Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept the Keys Under the Table.",
+    "url": "https://dev.to/xulingfeng/stratagems-8-alex-watched-an-ai-dashboard-take-over-he-kept-the-keys-under-the-table-3n70",
+    "keywords": [
+      "ai dashboard take",
+      "ai dashboard take",
+      "obvious approach",
+      "long time",
+      "alex watched",
+      "alex watched",
+      "13z deceive",
+      "take",
+      "table",
+      "table"
+    ],
+    "summary": "# Stratagems #8: Alex Watched an AI Dashboard Take Over. > Source: devto | Category: news | 2026-07-08T06:44:13Z Deceive the enemy with an obvious approach that will take a very long time, while ambushing them..."
+  },
+  "6bed98a9a7499d71": {
+    "file": "corpus/devto/dev_to_spyrae_ai-security-audit-checklist-15-vulnerabilities_a89917dcb3.md",
+    "source": "devto",
+    "title": "AI Security Audit Checklist: 15 Vulnerabilities Claude Found in Production Code",
+    "url": "https://dev.to/spyrae/ai-security-audit-checklist-15-vulnerabilities-claude-found-in-production-code-3ajd",
+    "keywords": [
+      "15 vulnerabilities claude found",
+      "15 vulnerabilities claude found",
+      "ai security audit checklist",
+      "ai security audit checklist",
+      "typical security ...",
+      "web applications contain",
+      "owasp top 10",
+      "least one vulnerability",
+      "production code",
+      "production code"
+    ],
+    "summary": "# AI Security Audit Checklist: 15 Vulnerabilities Claude Found in Production Code > Source: devto | Category: news | 2026-07-08T06:44:13Z Most web applications contain at least one vulnerability from the OWASP Top 10."
+  },
+  "4b2ff29559b0f52e": {
+    "file": "corpus/devto/dev_to_nerdexam_certified-ethical-hacker-ceh-v13-312-50-what_30e02e8d28.md",
+    "source": "devto",
+    "title": "Certified Ethical Hacker (CEH v13, 312-50): What's Actually Tested",
+    "url": "https://dev.to/nerdexam/certified-ethical-hacker-ceh-v13-312-50-whats-actually-tested-2n7a",
+    "keywords": [
+      "ceh v13 actually tests",
+      "certified ethical hacker",
+      "certified ethical hacker",
+      "16z 125 questions",
+      "ceh v13",
+      "ceh v13",
+      "actually tested",
+      "actually tested",
+      "cut score",
+      "50 ):"
+    ],
+    "summary": "# Certified Ethical Hacker (CEH v13, 312-50): What's Actually Tested 125 questions, 4 hours, $1,199, a 60 to 85% cut score. Here's what CEH v13 actually tests, how hard it is, and how long to study."
+  },
+  "e964ce437b404056": {
+    "file": "corpus/devto/dev_to_rick13211_4-security-bugs-i-found-in-my-own-auth-syst_61bed80d64.md",
+    "source": "devto",
+    "title": "4 Security Bugs I Found in My Own Auth System (And How I Fixed Them)",
+    "url": "https://dev.to/rick13211/4-security-bugs-i-found-in-my-own-auth-system-and-how-i-fixed-them-4a7k",
+    "keywords": [
+      "learn advanced backend engineering",
+      "4 security bugs",
+      "4 security bugs",
+      "huge ...",
+      "auth system",
+      "auth system",
+      "took",
+      "source",
+      "recently",
+      "reactions"
+    ],
+    "summary": "# 4 Security Bugs I Found in My Own Auth System (And How I Fixed Them) > Source: devto | Category: news | 2026-07-08T06:44:14Z So recently I took on a challenge to learn advanced backend engineering all by myself."
+  },
+  "297bf82b600474a0": {
+    "file": "corpus/devto/dev_to_notme36912_http-query-is-here-and-your-infrastructure_07ff6ce4fe.md",
+    "source": "devto",
+    "title": "HTTP QUERY Is Here — And Your Infrastructure Isn't Ready For It",
+    "url": "https://dev.to/notme36912/http-query-is-here-and-your-infrastructure-isnt-ready-for-it-43ge",
+    "keywords": [
+      "14z http query",
+      "http query",
+      "http query",
+      "ietf ...",
+      "june 2026",
+      "2026",
+      "source"
+    ],
+    "summary": "# HTTP QUERY Is Here — And Your Infrastructure Isn't Ready For It > Source: devto | Category: news | 2026-07-08T06:44:14Z HTTP QUERY Is Here — And Your Infrastructure Isn't Ready For It   In June 2026, the IETF..."
+  },
+  "fd0d9b1a76987bbd": {
+    "file": "corpus/devto/dev_to_danielholtwrites_the-agile-lie-pjk_f117909fa3.md",
+    "source": "devto",
+    "title": "The Agile Lie",
+    "url": "https://dev.to/danielholtwrites/the-agile-lie-pjk",
+    "keywords": [
+      "large organizations",
+      "agile lie",
+      "agile lie",
+      "adopt agile",
+      "agile",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-08T06:44:17Z Most large organizations did not adopt Agile. They adopted the appearance of Agile."
+  },
+  "80e5a537f10e2fa5": {
+    "file": "corpus/devto/dev_to_surajrkhonde_react-explained-directly-part-2-producti_f1cab6491f.md",
+    "source": "devto",
+    "title": "React, Explained Directly — Part 2: Production, Performance, and Modern Patterns",
+    "url": "https://dev.to/surajrkhonde/react-explained-directly-part-2-production-performance-and-modern-patterns-5bfi",
+    "keywords": [
+      "14z continues directly",
+      "real mechanics",
+      "part 1",
+      "modern patterns",
+      "modern patterns",
+      "metaphors —",
+      "stories",
+      "source",
+      "rule",
+      "reactions"
+    ],
+    "summary": "# React, Explained Directly — Part 2: Production, Performance, and Modern Patterns Continues directly from Part 1. Same rule: no stories, no metaphors — just the real mechanics, in..."
+  },
+  "d29fcaa18b393d34": {
+    "file": "corpus/devto/dev_to_benjamin_tetteh_real-world-git-branching-strategies-h_eeaa4d11c2.md",
+    "source": "devto",
+    "title": "Real-World Git Branching Strategies: How Teams Manage Code in Practical Dev Environments",
+    "url": "https://dev.to/benjamin_tetteh/real-world-git-branching-strategies-how-teams-manage-code-in-practical-dev-environments-2gd9",
+    "keywords": [
+      "world git branching strategies",
+      "world git branching strategies",
+      "learned git commands",
+      "teams manage code",
+      "teams manage code",
+      "practical dev environments",
+      "practical dev environments",
+      "day —...",
+      "source",
+      "see"
+    ],
+    "summary": "# Real-World Git Branching Strategies: How Teams Manage Code in Practical Dev Environments > Source: devto | Category: news | 2026-07-08T06:44:17Z Now let's see how real development teams actually use Git day to day —..."
+  },
+  "f3066bedb6bf5da1": {
+    "file": "corpus/devto/dev_to_terrythreatt_133-people-started-my-apps-onboarding-on_0cd64a09c0.md",
+    "source": "devto",
+    "title": "133 People Started My App's Onboarding. One Finished. Here's Everything I Learned Building Toffee.",
+    "url": "https://dev.to/terrythreatt/133-people-started-my-apps-onboarding-one-finished-heres-everything-i-learned-building-toffee-3o2p",
+    "keywords": [
+      "personal finance app nights",
+      "133 people started",
+      "133 people started",
+      "learned building toffee",
+      "learned building toffee",
+      "13z building",
+      "one hour",
+      "one finished",
+      "one finished",
+      "time ..."
+    ],
+    "summary": "# 133 People Started My App's Onboarding. Here's Everything I Learned Building Toffee. > Source: devto | Category: news | 2026-07-08T06:44:13Z"
+  },
+  "55f82d68b80d9394": {
+    "file": "corpus/devto/dev_to_toyama0919_how-an-unbounded-fastmcp-version-constrain_2ddb404640.md",
+    "source": "devto",
+    "title": "How an Unbounded fastmcp Version Constraint Took Down Production with 421 Misdirected Request",
+    "url": "https://dev.to/toyama0919/how-an-unbounded-fastmcp-version-constraint-took-down-production-with-421-misdirected-request-1mh1",
+    "keywords": [
+      "breaking every request",
+      "421 misdirected request",
+      "421 misdirected request",
+      "security feature",
+      "root cause",
+      "new default",
+      "mcp server",
+      "fastmcp 3",
+      "source"
+    ],
+    "summary": "# How an Unbounded fastmcp Version Constraint Took Down Production with 421 Misdirected Request > Source: devto | Category: news | 2026-07-08T06:44:15Z A loose \">=\" dependency pin silently pulled in a new default-on security feature in fastmcp 3.4.3, breaking every request to our MCP server."
+  },
+  "af379fcf4badbf1e": {
+    "file": "corpus/security/thehackernews_com_2026_07_cisa-adds-4-actively-exploited-ado_963a877b9f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+    "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+    "keywords": [
+      "path traversal vulnerability",
+      "arbitrary code execution",
+      "known exploited vulnerabilities",
+      "infrastructure security agency",
+      "langflow flaws",
+      "langflow flaws",
+      "langflow flaws",
+      "cvss score",
+      "could lead",
+      "citing evidence"
+    ],
+    "summary": "# [hacker-news-sec] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation."
+  },
+  "e82d5421eece5e9d": {
+    "file": "corpus/security/thehackernews_com_2026_07_15-year-old-ghostlock-flaw-enables_ff55f94eaa.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+    "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+    "keywords": [
+      "old linux kernel flaw",
+      "user take full",
+      "linux distros researchers",
+      "linux distros",
+      "linux distros",
+      "flaw needs",
+      "vulnerable code",
+      "unusual settings",
+      "special permission",
+      "disclosed ghostlock"
+    ],
+    "summary": "# [hacker-news-sec] 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros The vulnerable code has shipped by default in essentially every mainstream distribution since 2011."
   }
 }
