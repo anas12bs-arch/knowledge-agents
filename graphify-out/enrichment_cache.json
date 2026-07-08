@@ -200616,5 +200616,403 @@
       "ruff preview rules"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-08T22:49:12Z Changes since langchain==1.3.11 release(langchain): 1.3.12 (#38730) fix(langchain): propagate interrupts through ToolRetryMiddleware (#38722) fix(langchain): avoid shared process-group kill in shell middleware (#36359) fix(langchain): sanitize anthropic cache markers on fallback retries (#37867) style: fix some ruff preview rules in `langchain_v1` and `standard-tests` (#38657) chore(langchain): add types in agent middleware t"
+  },
+  "4d53f54f8dd7e6f9": {
+    "file": "corpus/hackernews/arstechnica_com_ai_2026_07_we-cannot-choose-to-become-idiots_c47c4c24fc.md",
+    "source": "hackernews",
+    "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "keywords": [
+      "ivy league prof ordered",
+      "ivy league prof ordered",
+      "suspecting ai cheating",
+      "suspecting ai cheating",
+      "scores fell 50",
+      "scores fell 50",
+      "person final",
+      "person final",
+      "01z score",
+      "source"
+    ],
+    "summary": "# Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50% > Source: hackernews | Category: news | 2026-07-08T23:51:01Z Score: 30 | Comments: 10"
+  },
+  "88feef9d2114212c": {
+    "file": "corpus/hackernews/apnews_com_article_memphis-national-guard-shooting-tyrin-joh_b4594d5cc7.md",
+    "source": "hackernews",
+    "title": "The family of a man shot by the Tennessee National Guard demands video release",
+    "url": "https://apnews.com/article/memphis-national-guard-shooting-tyrin-johnson-6a1ea3e51176d8ddf6519f900eccb16c",
+    "keywords": [
+      "man shot",
+      "man shot",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "family",
+      "family",
+      "comments",
+      "category"
+    ],
+    "summary": "# The family of a man shot by the Tennessee National Guard demands video release > Source: hackernews | Category: news | 2026-07-08T23:51:06Z Score: 15 | Comments: 0"
+  },
+  "349fc7f1157b6889": {
+    "file": "corpus/hackernews/economist_com_1843_2026_03_06_my-road-trip-with-the-do-goodi_af4947d5d4.md",
+    "source": "hackernews",
+    "title": "My road trip with the do-gooding cactus smugglers",
+    "url": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
+    "keywords": [
+      "gooding cactus smugglers",
+      "gooding cactus smugglers",
+      "road trip",
+      "road trip",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# My road trip with the do-gooding cactus smugglers > Source: hackernews | Category: news | 2026-07-08T23:51:02Z Score: 7 | Comments: 0"
+  },
+  "2d449c6497fa2f7f": {
+    "file": "corpus/devto/dev_to_rameshpandian_the-agentic-cost-bottleneck-how-kotro-s_fb628488d9.md",
+    "source": "devto",
+    "title": "The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox",
+    "url": "https://dev.to/rameshpandian/the-agentic-cost-bottleneck-how-kotro-solves-the-ai-productivity-paradox-mmb",
+    "keywords": [
+      "ai productivity paradox",
+      "ai productivity paradox",
+      "agentic cost bottleneck",
+      "agentic cost bottleneck",
+      "adoption hype .\"...",
+      "kotro solves",
+      "kotro solves",
+      "source",
+      "shifted",
+      "reactions"
+    ],
+    "summary": "# The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox In 2026, the discourse around AI coding assistants has shifted. We are past the \"adoption hype."
+  },
+  "a733cbdca6f356c9": {
+    "file": "corpus/devto/dev_to_alexmercedcoder_the-state-of-apache-parquet-in-2026-t_30f48161d0.md",
+    "source": "devto",
+    "title": "The State of Apache Parquet in 2026: The Quiet Format Enters Its Loudest Decade",
+    "url": "https://dev.to/alexmercedcoder/the-state-of-apache-parquet-in-2026-the-quiet-format-enters-its-loudest-decade-27je",
+    "keywords": [
+      "thirteen years old",
+      "quiet format enters",
+      "quiet format enters",
+      "13z apache parquet",
+      "apache parquet",
+      "apache parquet",
+      "loudest decade",
+      "loudest decade",
+      "analytical data",
+      "world"
+    ],
+    "summary": "# The State of Apache Parquet in 2026: The Quiet Format Enters Its Loudest Decade > Source: devto | Category: news | 2026-07-08T23:51:13Z Apache Parquet is thirteen years old, holds more of the world's analytical data than any other..."
+  },
+  "1fe1f844435fe21d": {
+    "file": "corpus/devto/dev_to_sarah_m_how-to-handle-references-on-your-resume-2026-_6b4d0d2d1b.md",
+    "source": "devto",
+    "title": "How to Handle References on Your Resume (2026)",
+    "url": "https://dev.to/sarah_m/how-to-handle-references-on-your-resume-2026-apg",
+    "keywords": [
+      "candidates still list ...",
+      "misunderstood parts",
+      "job application",
+      "handle references",
+      "handle references",
+      "12z references",
+      "source",
+      "resume",
+      "resume",
+      "reactions"
+    ],
+    "summary": "# How to Handle References on Your Resume (2026) > Source: devto | Category: news | 2026-07-08T23:51:12Z References are one of the most misunderstood parts of a job application."
+  },
+  "4cb52b17a9531cd8": {
+    "file": "corpus/devto/dev_to_valerykot_bigger-context-windows-didnt-make-our-rag-s_cd91564b46.md",
+    "source": "devto",
+    "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+    "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+    "keywords": [
+      "stopped measuring retrieval quality",
+      "bigger context windows",
+      "bigger context windows",
+      "rag smarter",
+      "rag smarter",
+      "many tokens",
+      "could fit",
+      "source",
+      "reactions",
+      "prompt"
+    ],
+    "summary": "# Bigger Context Windows Didn't Make Our RAG Smarter > Source: devto | Category: news | 2026-07-08T23:51:08Z We stopped measuring retrieval quality by how many tokens we could fit into the prompt."
+  },
+  "eab8247ac54be7d9": {
+    "file": "corpus/devto/dev_to_alexmercedcoder_the-state-of-apache-arrow-in-2026-ten_3f68fcf61b.md",
+    "source": "devto",
+    "title": "The State of Apache Arrow in 2026: Ten Years In, the Invisible Standard Is Everywhere",
+    "url": "https://dev.to/alexmercedcoder/the-state-of-apache-arrow-in-2026-ten-years-in-the-invisible-standard-is-everywhere-2p01",
+    "keywords": [
+      "first commit landed",
+      "ten years",
+      "ten years",
+      "invisible standard",
+      "invisible standard",
+      "february 5th",
+      "apache arrow",
+      "apache arrow",
+      "2016 ,...",
+      "february 2026"
+    ],
+    "summary": "# The State of Apache Arrow in 2026: Ten Years In, the Invisible Standard Is Everywhere In February 2026, Apache Arrow turned ten years old. The first commit landed on February 5th, 2016,..."
+  },
+  "2f7c7fde392e6d3c": {
+    "file": "corpus/devto/dev_to_arthurpro_you-probably-dont-need-a-vector-database-fo_8fb91873a7.md",
+    "source": "devto",
+    "title": "You Probably Don't Need a Vector Database for RAG",
+    "url": "https://dev.to/arthurpro/you-probably-dont-need-a-vector-database-for-rag-3op",
+    "keywords": [
+      "vector database",
+      "vector database",
+      "vector database",
+      "keyword indices",
+      "embeddings earn",
+      "bundle —",
+      "source",
+      "reactions",
+      "rag",
+      "rag"
+    ],
+    "summary": "# You Probably Don't Need a Vector Database for RAG > Source: devto | Category: news | 2026-07-08T23:51:08Z RAG retrieval strategies without a vector database: BM25, keyword indices, knowledge-in-bundle — and when embeddings earn their cost."
+  },
+  "76f77465badc3279": {
+    "file": "corpus/devto/dev_to_alexmercedcoder_the-state-of-apache-polaris-in-july-2_d0d9a756b7.md",
+    "source": "devto",
+    "title": "The State of Apache Polaris in July 2026: From Incubating Catalog to the Governance Layer of the Open Lakehouse",
+    "url": "https://dev.to/alexmercedcoder/the-state-of-apache-polaris-in-july-2026-from-incubating-catalog-to-the-governance-layer-of-the-1n3h",
+    "keywords": [
+      "personal stake",
+      "open lakehouse",
+      "open lakehouse",
+      "incubating catalog",
+      "incubating catalog",
+      "governance layer",
+      "governance layer",
+      "apache polaris",
+      "apache polaris",
+      "apache polaris"
+    ],
+    "summary": "# The State of Apache Polaris in July 2026: From Incubating Catalog to the Governance Layer of the Open Lakehouse I have a personal stake in this one, so let me declare it up front. Apache Polaris was co-created by..."
+  },
+  "37aec3c60bfc5547": {
+    "file": "corpus/devto/dev_to_mjmirza_reading-a-new-codebase-cover-to-cover-is-the-_837600f0f1.md",
+    "source": "devto",
+    "title": "Reading a new codebase cover to cover is the slowest way to learn it",
+    "url": "https://dev.to/mjmirza/reading-a-new-codebase-cover-to-cover-is-the-slowest-way-to-learn-it-2i0k",
+    "keywords": [
+      "day two beats reading",
+      "new codebases reading",
+      "new codebase cover",
+      "new codebase cover",
+      "unfamiliar system",
+      "understanding nothing",
+      "slowest way",
+      "slowest way",
+      "physical way",
+      "hundred files"
+    ],
+    "summary": "# Reading a new codebase cover to cover is the slowest way to learn it I spent my first days in new codebases reading them front to back and understanding nothing. Here is the faster, more physical way to learn an unfamiliar system, and why asking the dumb question on day two beats reading a hundred files."
+  },
+  "b39ab9cbd016f329": {
+    "file": "corpus/devto/dev_to_masonwritescode_probing-ffmpegs-av1vulkan-encoder-doe_92d9c9b25f.md",
+    "source": "devto",
+    "title": "Probing FFmpeg's av1_vulkan encoder: does your GPU actually support it?",
+    "url": "https://dev.to/masonwritescode/probing-ffmpegs-av1vulkan-encoder-does-your-gpu-actually-support-it-2h07",
+    "keywords": [
+      "vendor gpu av1 encoder",
+      "gpu actually support",
+      "gpu actually support",
+      "x includes av1_vulkan",
+      "dr ffmpeg 8",
+      "av1_vulkan encoder",
+      "av1_vulkan encoder",
+      "probing ffmpeg",
+      "probing ffmpeg",
+      "mainline ..."
+    ],
+    "summary": "# Probing FFmpeg's av1_vulkan encoder: does your GPU actually support it? > Source: devto | Category: news | 2026-07-08T23:51:09Z TL;DR   FFmpeg 8.x includes av1_vulkan, the first cross-vendor GPU AV1 encoder in mainline..."
+  },
+  "087dae62ef6a776b": {
+    "file": "corpus/devto/dev_to_aialleyway_the-line-in-the-license-file-that-reorders_580bfd5eb5.md",
+    "source": "devto",
+    "title": "The line in the LICENSE file that reorders your n8n alternatives",
+    "url": "https://dev.to/aialleyway/the-line-in-the-license-file-that-reorders-your-n8n-alternatives-3ia3",
+    "keywords": [
+      "wrong column",
+      "n8n alternatives",
+      "n8n alternatives",
+      "n8n alternatives",
+      "lists compare",
+      "license file",
+      "license file",
+      "execution ...",
+      "connector counts",
+      "source"
+    ],
+    "summary": "# The line in the LICENSE file that reorders your n8n alternatives Most \"n8n alternatives\" lists compare the wrong column. They line up connector counts, per-execution..."
+  },
+  "4ac4499fc4830a10": {
+    "file": "corpus/devto/dev_to_mjfekri_the-open-weight-cliff-460_325f54aa3a.md",
+    "source": "devto",
+    "title": "The Open-Weight Cliff",
+    "url": "https://dev.to/mjfekri/the-open-weight-cliff-460",
+    "keywords": [
+      "model becomes free",
+      "weight cliff",
+      "weight cliff",
+      "thing left",
+      "used",
+      "source",
+      "record",
+      "reactions",
+      "open",
+      "open"
+    ],
+    "summary": "# The Open-Weight Cliff > Source: devto | Category: news | 2026-07-08T23:51:13Z When the model becomes free, the only thing left that's yours is the record of how you used it."
+  },
+  "1c895caa9531f32e": {
+    "file": "corpus/devto/dev_to_alexmercedcoder_the-state-of-apache-iceberg-v4-in-jul_f4aa1beded.md",
+    "source": "devto",
+    "title": "The State of Apache Iceberg v4 in July 2026: What the Dev List Tells Us About the Format's Next Chapter",
+    "url": "https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-in-july-2026-what-the-dev-list-tells-us-about-the-formats-next-475g",
+    "keywords": [
+      "dev list tells us",
+      "dev list tells us",
+      "apache iceberg v4",
+      "apache iceberg v4",
+      "dev ...",
+      "apache iceberg",
+      "press releases",
+      "next chapter",
+      "next chapter",
+      "july 2026"
+    ],
+    "summary": "# The State of Apache Iceberg v4 in July 2026: What the Dev List Tells Us About the Format's Next Chapter > Source: devto | Category: news | 2026-07-08T23:51:13Z If you want to know where Apache Iceberg is headed, do not read the press releases."
+  },
+  "3c7ad46e65848974": {
+    "file": "corpus/devto/dev_to_henry_dan_81513dd35a2f540_logging-into-the-higgsfield_5d10361864.md",
+    "source": "devto",
+    "title": "Logging Into the Higgsfield CLI on a Server With No Browser",
+    "url": "https://dev.to/henry_dan_81513dd35a2f540/logging-into-the-higgsfield-cli-on-a-server-with-no-browser-34gi",
+    "keywords": [
+      "oauth login demands one",
+      "loopback logins break",
+      "curl replay",
+      "higgsfield cli",
+      "higgsfield cli",
+      "headless server",
+      "browser —",
+      "cli",
+      "server",
+      "server"
+    ],
+    "summary": "# Logging Into the Higgsfield CLI on a Server With No Browser A headless server can't open a browser — so what do you do when a CLI's OAuth login demands one? Why loopback logins break over SSH, and the curl replay that fixes them."
+  },
+  "05ccbd76eaa9903b": {
+    "file": "corpus/devto/dev_to_michaeltruong_i-fixed-my-ai-reviewer-then-i-kept-solv_b6b24a8991.md",
+    "source": "devto",
+    "title": "I fixed my AI reviewer. Then I kept solving the wrong problem",
+    "url": "https://dev.to/michaeltruong/i-fixed-my-ai-reviewer-then-i-kept-solving-the-wrong-problem-58am",
+    "keywords": [
+      "notion cards become ...",
+      "assisted editorial pipeline",
+      "wrong problem",
+      "wrong problem",
+      "technical writing",
+      "kept solving",
+      "kept solving",
+      "ai reviewer",
+      "ai reviewer"
+    ],
+    "summary": "# I fixed my AI reviewer. Then I kept solving the wrong problem I've been building an AI-assisted editorial pipeline for technical writing."
+  },
+  "93a1c14c5c1b3c32": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48059_monzo-takes-the-hassle-ou_9498da569b.md",
+    "source": "finance",
+    "title": "[finextra] Monzo takes the hassle out of debt consolidation",
+    "url": "https://www.finextra.com/newsarticle/48059/monzo-takes-the-hassle-out-of-debt-consolidation?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "00z monzo takes",
+      "debt consolidation process",
+      "monzo takes",
+      "monzo takes",
+      "debt consolidation",
+      "debt consolidation",
+      "service designed",
+      "joined forces",
+      "source",
+      "simplify"
+    ],
+    "summary": "# [finextra] Monzo takes the hassle out of debt consolidation Monzo takes the hassle out of debt consolidation UK digital bank Monzo has joined forces with ClearScore for a service designed to simplify the debt consolidation process."
+  },
+  "fefbe187da67f710": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48057_jpmorgan-chase-picks-samb_350310f5d1.md",
+    "source": "finance",
+    "title": "[finextra] JPMorgan Chase picks SambaNova for on-prem AI inference",
+    "url": "https://www.finextra.com/newsarticle/48057/jpmorgan-chase-picks-sambanova-for-on-prem-ai-inference?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "jpmorgan chase picks sambanova",
+      "jpmorgan chase picks sambanova",
+      "premises ai inference",
+      "prem ai inference",
+      "prem ai inference",
+      "infrastructure partner",
+      "systems",
+      "source",
+      "power",
+      "finextra"
+    ],
+    "summary": "# [finextra] JPMorgan Chase picks SambaNova for on-prem AI inference JPMorgan Chase picks SambaNova for on-prem AI inference JPMorgan Chase has picked artificial intelligence chip startup SambaNova as an infrastructure partner, deploying its systems to power on-premises AI inference."
+  },
+  "d83e4bda4bdfcb87": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48838599_660a830ea1.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48838599",
+    "keywords": [
+      "industry software development experience",
+      "forward deployed software engineer",
+      "internal process improvement",
+      "go &# x2f",
+      "azure &# x2f",
+      "ai coding tools",
+      "july 2026 ))",
+      "july 2026 ))",
+      "senior )< p",
+      "ai &# x2f"
+    ],
+    "summary": "LightSight | Forward Deployed Software Engineer (multiple levels) | REMOTE (US) | Full-time<p>LightSight is a forward-deployed consulting company building customized solutions for mid-sized firms, predominantly in the Midwest. Our mission is to equip our clients with the knowledge and means to continuously innovate with AI - if that sounds inspiring, you would fit in well here.<p>If you have industry software development experience and like to work with AI coding tools, we would love to hear fro"
+  },
+  "90908b151a48bf46": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-ope_95bb679666.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-openai==1.3.4 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.3.4",
+    "keywords": [
+      "cassette setup (# 38690",
+      "async contexts (# 38157",
+      "11 updates (# 38587",
+      "4 changes since langchain",
+      "openai (# 38476",
+      "core ): use",
+      "4 (# 38731",
+      "40z ## langchain",
+      "openai == 1",
+      "openai == 1"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-08T23:51:40Z Changes since langchain-openai==1.3.3 release(openai): 1.3.4 (#38731) fix(openai): suppress Pydantic serializer warning on structured output parsed field (#37727) test(openai): skip Codex VCR tests before cassette setup (#38690) chore: bump the minor-and-patch group across 3 directories with 11 updates (#38587) chore: bump langgraph-checkpoint from 4.1.0 to 4.1.1 in /libs/partners/openai (#38476) fix(core): use `asyncio.get_r"
   }
 }
