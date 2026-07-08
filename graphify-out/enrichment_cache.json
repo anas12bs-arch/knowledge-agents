@@ -194938,5 +194938,547 @@
       "js — v16"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-08T01:07:06Z - Turbopack: add more context to persistence file errors: #95318 - [ci] Split up large cache-components-dev-warmup test suite: #95553 - Cancel a superseded Server Components HMR refresh's server-side work: #95486 - test: Fix immutable static asset deployment tests: #95550 - [ci] Migrate webpack tests back to arm runners: #95549 - docs: Fix testing-adapters variable name: #95575 - test: Use Turbopack for 'Test new and changed "
+  },
+  "d236f3f139df1ee5": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_07_esa-lobbying-against-stop-killin_118ec1cb31.md",
+    "source": "legal",
+    "title": "[techdirt] ESA Lobbying Against ‘Stop Killing Games’: Hosting Private Minecraft Servers Is Illegal Piracy",
+    "url": "https://www.techdirt.com/2026/07/07/esa-lobbying-against-stop-killing-games-hosting-private-minecraft-servers-is-illegal-piracy/",
+    "keywords": [
+      "stop killing games movement",
+      "movement &# 8217",
+      "[&# 8230 ;]",
+      "06z esa lobbying",
+      "movement hit",
+      "esa lobbying",
+      "esa lobbying",
+      "written version",
+      "snag recently",
+      "mentioned previously"
+    ],
+    "summary": "# [techdirt] ESA Lobbying Against ‘Stop Killing Games’: Hosting Private Minecraft Servers Is Illegal Piracy ESA Lobbying Against ‘Stop Killing Games’: Hosting Private Minecraft Servers Is Illegal Piracy As we mentioned previously, the Stop Killing Games movement has come to America and there is currently an effort to get some legislation based on the movement&#8217;s goals on the books in California."
+  },
+  "c66095c26e0e43d3": {
+    "file": "corpus/hackernews/ghostmeet_sshlab_dev_2c72b9c44a.md",
+    "source": "hackernews",
+    "title": "Show HN: Ghostmeet – Self-hosted meeting transcription and summaries",
+    "url": "https://ghostmeet.sshlab.dev/",
+    "keywords": [
+      "hosted meeting transcription",
+      "hosted meeting transcription",
+      "ghostmeet – self",
+      "ghostmeet – self",
+      "show hn",
+      "show hn",
+      "11z score",
+      "summaries",
+      "summaries",
+      "source"
+    ],
+    "summary": "# Show HN: Ghostmeet – Self-hosted meeting transcription and summaries > Source: hackernews | Category: news | 2026-07-08T04:26:11Z Score: 9 | Comments: 4"
+  },
+  "d03afe4f7243583e": {
+    "file": "corpus/hackernews/twitter_com_claudeai_status_2074548242386178258_f12bc5a3b4.md",
+    "source": "hackernews",
+    "title": "We're extending access to Fable 5 on all paid plans through July 12",
+    "url": "https://twitter.com/claudeai/status/2074548242386178258",
+    "keywords": [
+      "status &# x2f",
+      "status &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "claudeai &# x2f",
+      "claudeai &# x2f",
+      "paid plans",
+      "paid plans",
+      "july 12",
+      "july 12"
+    ],
+    "summary": "# We're extending access to Fable 5 on all paid plans through July 12 > Source: hackernews | Category: news | 2026-07-08T04:26:06Z <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;claudeai&#x2F;status&#x2F;2074548242386178258\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;claudeai&#x2F;status&#x2F;2074548242386178258</a>"
+  },
+  "10ed71ba7c278f76": {
+    "file": "corpus/hackernews/chiptune-radio_alephvoid_com_13947a635b.md",
+    "source": "hackernews",
+    "title": "Show HN: Chiptune Radio",
+    "url": "https://chiptune-radio.alephvoid.com/",
+    "keywords": [
+      "chiptune song generator",
+      "chiptune radio",
+      "chiptune radio",
+      "show hn",
+      "show hn",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# Show HN: Chiptune Radio > Source: hackernews | Category: news | 2026-07-08T04:26:07Z I built a chiptune song generator and its broadcasting algorithmically generated chiptune music."
+  },
+  "1d5bf0917ebd418f": {
+    "file": "corpus/hackernews/kb_cert_org_vuls_id_213560_7a2f4d3bf3.md",
+    "source": "hackernews",
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "keywords": [
+      "contains hidden authentication backdoor",
+      "contains hidden authentication backdoor",
+      "tenda firmware",
+      "tenda firmware",
+      "multiple versions",
+      "multiple versions",
+      "05z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tenda firmware (multiple versions) contains hidden authentication backdoor > Source: hackernews | Category: news | 2026-07-08T04:26:05Z Score: 83 | Comments: 18"
+  },
+  "7ddb376c3ca9b1a1": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48825811_fa5bf5d8ee.md",
+    "source": "hackernews",
+    "title": "Show HN: your website as a TUI, over SSH right now",
+    "url": "https://news.ycombinator.com/item?id=48825811",
+    "keywords": [
+      "old skool terminal days",
+      "real tui browser rendering",
+      "prior art exists",
+      "jingle jangle whistles",
+      "google cloud run",
+      "raw terminal fun",
+      "think .< p",
+      "etc ).< p",
+      "krnl tui browser",
+      "ssh krnl"
+    ],
+    "summary": "Let me know what you think.<p>This is a real TUI browser rendering the web as ANSI with its own layout engine. The backend is Google cloud run, running browserbox and the Krnl TUI browser and it is routed through a simple SSH server endpoint.<p>Prior art exists (brow.sh) but I wasn&#x27;t satisfied with their graphical take. Not sure how long the demo will last, but try it out."
+  },
+  "9f9b1429bd33c13e": {
+    "file": "corpus/hackernews/nypost_com_2026_07_07_business_meta-says-its-facing-1-4t-in-_f697b670bd.md",
+    "source": "hackernews",
+    "title": "Meta says it's facing $1.4T in penalties in teen mental health case",
+    "url": "https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/",
+    "keywords": [
+      "teen mental health case",
+      "teen mental health case",
+      "meta says",
+      "meta says",
+      "11z score",
+      "source",
+      "penalties",
+      "penalties",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Meta says it's facing $1.4T in penalties in teen mental health case > Source: hackernews | Category: news | 2026-07-08T04:26:11Z Score: 20 | Comments: 5"
+  },
+  "8fd3fe8ea6fb85bb": {
+    "file": "corpus/hackernews/neil_computer_notes_how-to-setup-minimal-zfs-nas-without-tru_d8aa048430.md",
+    "source": "hackernews",
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+    "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "keywords": [
+      "05z score",
+      "truenas",
+      "truenas",
+      "source",
+      "qnap",
+      "qnap",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS > Source: hackernews | Category: news | 2026-07-08T04:26:05Z Score: 12 | Comments: 1"
+  },
+  "aa89144cdf7d8be4": {
+    "file": "corpus/hackernews/twitter_com_OpenAI_status_2074704958419792299_1bd6a547e4.md",
+    "source": "hackernews",
+    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+    "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+    "keywords": [
+      "launch publicly",
+      "launch publicly",
+      "6 sol",
+      "6 sol",
+      "10z score",
+      "thursday",
+      "thursday",
+      "terra",
+      "terra",
+      "source"
+    ],
+    "summary": "# GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday > Source: hackernews | Category: news | 2026-07-08T04:26:10Z Score: 5 | Comments: 0"
+  },
+  "a58898964a55ddcd": {
+    "file": "corpus/hackernews/neiltheseal_app_6f3e2ab414.md",
+    "source": "hackernews",
+    "title": "Show HN: Neil the Seal Game",
+    "url": "https://neiltheseal.app/",
+    "keywords": [
+      "destroy battery point",
+      "show hn",
+      "show hn",
+      "07z score",
+      "seal game",
+      "seal game",
+      "1 neil",
+      "seal",
+      "game",
+      "neil"
+    ],
+    "summary": "# Show HN: Neil the Seal Game > Source: hackernews | Category: news | 2026-07-08T04:26:07Z Neil the seal now has a game to destroy Battery Point."
+  },
+  "0ec56413acd2a7ff": {
+    "file": "corpus/hackernews/www_economist_com_interactive_finance-and-economics_2026_07__2c2c02b1d7.md",
+    "source": "hackernews",
+    "title": "Is The Economist Always Wrong?",
+    "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+    "keywords": [
+      "economist always wrong",
+      "economist always wrong",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Is The Economist Always Wrong? > Source: hackernews | Category: news | 2026-07-08T04:26:05Z Score: 71 | Comments: 47"
+  },
+  "7a1c27c384e29d87": {
+    "file": "corpus/hackernews/stats_lineageos_org_b0af0eee99.md",
+    "source": "hackernews",
+    "title": "LineageOS Statistics",
+    "url": "https://stats.lineageos.org",
+    "keywords": [
+      "lineageos statistics",
+      "lineageos statistics",
+      "08z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# LineageOS Statistics > Source: hackernews | Category: news | 2026-07-08T04:26:08Z Score: 13 | Comments: 2"
+  },
+  "68cf1eae78bea7f6": {
+    "file": "corpus/hackernews/github_com_ariel95500-create_gp-elite_983d8bd56c.md",
+    "source": "hackernews",
+    "title": "Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point",
+    "url": "https://github.com/ariel95500-create/gp-elite",
+    "keywords": [
+      "python symbolic regression",
+      "python symbolic regression",
+      "8 data point",
+      "8 data point",
+      "rediscovered kepler",
+      "rediscovered kepler",
+      "07z score",
+      "source",
+      "pure",
+      "pure"
+    ],
+    "summary": "# Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point > Source: hackernews | Category: news | 2026-07-08T04:26:07Z Score: 16 | Comments: 9"
+  },
+  "4a161b00eff32689": {
+    "file": "corpus/devto/dev_to_sujankim_adding-voice-to-a-java-ai-assistant-whisper-_b1b924a00b.md",
+    "source": "devto",
+    "title": "Adding Voice to a Java AI Assistant — Whisper, TTS, and the Voice Conversation Loop",
+    "url": "https://dev.to/sujankim/adding-voice-to-a-java-ai-assistant-whisper-tts-and-the-voice-conversation-loop-5ed7",
+    "keywords": [
+      "speak — phase 5",
+      "jarvis ai platform ...",
+      "voice conversation loop",
+      "voice conversation loop",
+      "gave jarvis",
+      "adding voice",
+      "adding voice",
+      "tts",
+      "tts",
+      "source"
+    ],
+    "summary": "# Adding Voice to a Java AI Assistant — Whisper, TTS, and the Voice Conversation Loop > Source: devto | Category: news | 2026-07-08T04:26:17Z How we gave Jarvis the ability to hear and speak — Phase 5 of the Jarvis AI Platform              ..."
+  },
+  "75969ec9fd7969e3": {
+    "file": "corpus/devto/dev_to_m_toqeer_building-a-microservices-app-with-kubernetes_32128c974f.md",
+    "source": "devto",
+    "title": "Building a Microservices App with Kubernetes: What I Learned the Hard Way",
+    "url": "https://dev.to/m_toqeer/building-a-microservices-app-with-kubernetes-what-i-learned-the-hard-way-5h95",
+    "keywords": [
+      "one real project ...",
+      "microservices app",
+      "microservices app",
+      "hard way",
+      "hard way",
+      "source",
+      "skaffold",
+      "services",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Building a Microservices App with Kubernetes: What I Learned the Hard Way > Source: devto | Category: news | 2026-07-08T04:26:15Z From Docker to Minikube, Ingress, Services, and Skaffold in one real project          ..."
+  },
+  "201003dad5c15629": {
+    "file": "corpus/devto/dev_to_danielholtwrites_the-uncertainty-is-the-point-5b36_703e89f7ab.md",
+    "source": "devto",
+    "title": "The Uncertainty Is the Point",
+    "url": "https://dev.to/danielholtwrites/the-uncertainty-is-the-point-5b36",
+    "keywords": [
+      "particular kind",
+      "organizational anxiety",
+      "bad news",
+      "news",
+      "uncertainty",
+      "uncertainty",
+      "source",
+      "reactions",
+      "point"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-08T04:26:16Z There is a particular kind of organizational anxiety that doesn’t come from bad news. It comes from..."
+  },
+  "0bf33101467accf1": {
+    "file": "corpus/devto/dev_to_rileykim_i-benchmarked-chinas-top-4-llms-the-numbers-_6584441c18.md",
+    "source": "devto",
+    "title": "I Benchmarked China's Top 4 LLMs — The Numbers Don't Lie",
+    "url": "https://dev.to/rileykim/i-benchmarked-chinas-top-4-llms-the-numbers-dont-lie-40d2",
+    "keywords": [
+      "top 4 llms —",
+      "top 4 llms —",
+      "top 4 llms —",
+      "lie last quarter",
+      "benchmarked china",
+      "benchmarked china",
+      "benchmarked china",
+      "lie",
+      "lie",
+      "source"
+    ],
+    "summary": "# I Benchmarked China's Top 4 LLMs — The Numbers Don't Lie > Source: devto | Category: news | 2026-07-08T04:26:14Z So here's what happened: i Benchmarked China's Top 4 LLMs — The Numbers Don't Lie  Last quarter I..."
+  },
+  "1a766c6d9e20ea6f": {
+    "file": "corpus/devto/dev_to_sheryar_ahmed_an-ai-interview-experience-with-zero-ai_9532b34cd9.md",
+    "source": "devto",
+    "title": "an AI-interview experience with zero AI and zero cost.' Opens with the three bills you didn't pay (TTS, Whisper, proctoring vendor)",
+    "url": "https://dev.to/sheryar_ahmed/an-ai-interview-experience-with-zero-ai-and-zero-cost-opens-with-the-three-bills-you-didnt-pay-1jmm",
+    "keywords": [
+      "ai bill demo :...",
+      "zero cost .'",
+      "zero cost .\"",
+      "zero ai",
+      "zero ai",
+      "three bills",
+      "three bills",
+      "proctoring vendor",
+      "proctoring vendor",
+      "mock interviewer"
+    ],
+    "summary": "Opens with the three bills you didn't pay (TTS, Whisper, proctoring vendor) > Source: devto | Category: news | 2026-07-08T04:26:14Z A mock interviewer that speaks, listens, and proctors with no AI bill   Demo:..."
+  },
+  "ccc6de6b6c9b85d2": {
+    "file": "corpus/devto/dev_to_devopsaitoolkit_the-volume-that-wouldnt-let-go-a-kube_e8234cf6f5.md",
+    "source": "devto",
+    "title": "The Volume That Wouldn't Let Go: A Kubernetes PVC War Story",
+    "url": "https://dev.to/devopsaitoolkit/the-volume-that-wouldnt-let-go-a-kubernetes-pvc-war-story-3b9b",
+    "keywords": [
+      "kubernetes war story —",
+      "kubernetes pvc war story",
+      "kubernetes pvc war story",
+      "rwo persistentvolumeclaim took",
+      "real fix",
+      "let go",
+      "let go",
+      "com came",
+      "attach error",
+      "volume"
+    ],
+    "summary": "# The Volume That Wouldn't Let Go: A Kubernetes PVC War Story > Source: devto | Category: news | 2026-07-08T04:26:15Z The real fix, and where devopsaitoolkit.com came from."
+  },
+  "5982fbf37bc0b7e0": {
+    "file": "corpus/devto/dev_to_bphdev_behavior-determines-the-resolution-building-a-_866a362c61.md",
+    "source": "devto",
+    "title": "Behavior Determines the Resolution: Building a KH3 Trainer in Python",
+    "url": "https://dev.to/bphdev/behavior-determines-the-resolution-building-a-kh3-trainer-in-python-2ec6",
+    "keywords": [
+      "left ...",
+      "kh3 trainer",
+      "kh3 trainer",
+      "circle back",
+      "behavior determines",
+      "behavior determines",
+      "time",
+      "source",
+      "resolution"
+    ],
+    "summary": "# Behavior Determines the Resolution: Building a KH3 Trainer in Python > Source: devto | Category: news | 2026-07-08T04:26:14Z With a finished Kingdom Hearts 3 HP Freeze Cheat, it’s time to circle back to Munny."
+  },
+  "bb193a9ac8564b03": {
+    "file": "corpus/devto/dev_to_gamya_m_i-started-writing-my-prediction-before-readin_664b3b17e6.md",
+    "source": "devto",
+    "title": "I Started Writing My Prediction Before Reading the AI's Answer. Here's What Happened.",
+    "url": "https://dev.to/gamya_m/i-started-writing-my-prediction-before-reading-the-ais-answer-heres-what-happened-9c5",
+    "keywords": [
+      "quietly ruining junior ...",
+      "comment thread arguing",
+      "started writing",
+      "started writing",
+      "days ago",
+      "whether ai",
+      "source",
+      "reading"
+    ],
+    "summary": "# I Started Writing My Prediction Before Reading the AI's Answer. > Source: devto | Category: news | 2026-07-08T04:26:13Z So a few days ago I was in a comment thread arguing about whether AI is quietly ruining junior..."
+  },
+  "173d1343a5b1ae6a": {
+    "file": "corpus/devto/dev_to_steadystate_eng_your-postmortem-logs-what-the-system-_e87f5dcdf8.md",
+    "source": "devto",
+    "title": "Your postmortem logs what the system did. Nothing logs what it cost you.",
+    "url": "https://dev.to/steadystate_eng/your-postmortem-logs-what-the-system-did-nothing-logs-what-it-cost-you-59k4",
+    "keywords": [
+      "run generates two kinds",
+      "one kind gets captured",
+      "15z every incident",
+      "real rigor",
+      "postmortem logs",
+      "postmortem logs",
+      "nothing logs",
+      "nothing logs",
+      "system",
+      "system"
+    ],
+    "summary": "# Your postmortem logs what the system did. Every incident you run generates two kinds of data. One kind gets captured with real rigor: the..."
+  },
+  "89817b24716692f8": {
+    "file": "corpus/devto/dev_to_devopsaitoolkit_the-pod-that-lied-a-kubernetes-readin_1fc5f64824.md",
+    "source": "devto",
+    "title": "The Pod That Lied: A Kubernetes Readiness Probe War Story",
+    "url": "https://dev.to/devopsaitoolkit/the-pod-that-lied-a-kubernetes-readiness-probe-war-story-4kfg",
+    "keywords": [
+      "users getting 500s",
+      "every pod 1",
+      "write one",
+      "troubleshooting kubernetes",
+      "readiness probe",
+      "dashboards green",
+      "15z series",
+      "1 ready",
+      "lied —"
+    ],
+    "summary": "# The Pod That Lied: A Kubernetes Readiness Probe War Story Series #2 of Troubleshooting Kubernetes: every pod 1/1 Ready, dashboards green, users getting 500s. The readiness probe that lied — and how to write one that can't."
+  },
+  "2d41032986634b25": {
+    "file": "corpus/devto/dev_to_tusharrverma_i-built-a-free-azure-naming-tool-that-kn_7e69cbe21c.md",
+    "source": "devto",
+    "title": "I built a free Azure naming tool that knows every resource type's rules",
+    "url": "https://dev.to/tusharrverma/i-built-a-free-azure-naming-tool-that-knows-every-resource-types-rules-23kf",
+    "keywords": [
+      "knows every resource type",
+      "knows every resource type",
+      "cloud adoption framework defines",
+      "free azure naming tool",
+      "free azure naming tool",
+      "naming convention",
+      "good ...",
+      "source",
+      "rules",
+      "rules"
+    ],
+    "summary": "# I built a free Azure naming tool that knows every resource type's rules > Source: devto | Category: news | 2026-07-08T04:26:15Z Every Azure team needs a naming convention, and Microsoft's Cloud Adoption Framework defines a good..."
+  },
+  "a6ff0aa0840d6fc0": {
+    "file": "corpus/devto/dev_to_nazar-boyko_nuxt-in-2026-the-vue-full-stack-framework_f9e4d5da38.md",
+    "source": "devto",
+    "title": "Nuxt In 2026: The Vue Full-Stack Framework That Deserves More Attention",
+    "url": "https://dev.to/nazar-boyko/nuxt-in-2026-the-vue-full-stack-framework-that-deserves-more-attention-546k",
+    "keywords": [
+      "13z everyone knows next",
+      "job ads say",
+      "stack javascript framework",
+      "stack framework",
+      "stack framework",
+      "vue full",
+      "vue full",
+      "default full",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Nuxt In 2026: The Vue Full-Stack Framework That Deserves More Attention Everyone knows Next.js is the default full-stack JavaScript framework in 2026. The job ads say so,..."
+  },
+  "e0e74130645e11b4": {
+    "file": "corpus/devto/dev_to_zallauddin_ai-coding-agent-memory-32ac_335ef1758e.md",
+    "source": "devto",
+    "title": "AI Coding agent memory",
+    "url": "https://dev.to/zallauddin/ai-coding-agent-memory-32ac",
+    "keywords": [
+      "ai coding agent memory",
+      "ai coding agent memory",
+      "coding agents tl",
+      "term memory",
+      "16z agentic",
+      "source",
+      "reactions",
+      "news",
+      "long"
+    ],
+    "summary": "# AI Coding agent memory > Source: devto | Category: news | 2026-07-08T04:26:16Z agentic-cortex: Long-Term Memory for Coding Agents   TL;DR: AI coding agents forget..."
+  },
+  "6a6d9374436c5589": {
+    "file": "corpus/devto/dev_to_simple_memo_the-issue-tracker-was-built-for-a-team-i-_cd4efd239d.md",
+    "source": "devto",
+    "title": "The issue tracker was built for a team I don't have",
+    "url": "https://dev.to/simple_memo/the-issue-tracker-was-built-for-a-team-i-dont-have-4pli",
+    "keywords": [
+      "last tuesday",
+      "issue tracker",
+      "issue tracker",
+      "team",
+      "team",
+      "source",
+      "set",
+      "reactions",
+      "rant",
+      "news"
+    ],
+    "summary": "# The issue tracker was built for a team I don't have This is going to be a rant. I'll earn it before the end."
+  },
+  "700e6ac8481c68ab": {
+    "file": "corpus/devto/dev_to_jagostoni_agentic-ai-good-upfront-design-pays-you-bac_8655691a9b.md",
+    "source": "devto",
+    "title": "Agentic AI: Good Upfront Design Pays You Back Later",
+    "url": "https://dev.to/jagostoni/agentic-ai-good-upfront-design-pays-you-back-later-1485",
+    "keywords": [
+      "good upfront design pays",
+      "good upfront design pays",
+      "time preaching architecture",
+      "side ...",
+      "back later",
+      "back later",
+      "always nice",
+      "agentic ai",
+      "agentic ai",
+      "spend"
+    ],
+    "summary": "# Agentic AI: Good Upfront Design Pays You Back Later > Source: devto | Category: news | 2026-07-08T04:26:13Z I spend a lot of time preaching architecture and constraints, so it is always nice when a side..."
+  },
+  "ca87728e744ddd7e": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_2_abf5cd55e0.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.2 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2",
+    "keywords": [
+      "define stream frame protocol",
+      "match new dashboard changes",
+      "support inline skill definitions",
+      "document flow agent options",
+      "cut docs version nav",
+      "flow skill example",
+      "agent control plane",
+      "add streaming docs",
+      "repoint template commands",
+      "listening flow methods"
+    ],
+    "summary": "### Features - Pull latest LLM models dynamically in the crew wizard. - Unify `crewai run` flow input resolution and prompt from the state schema. - Cut docs version nav from Edge so new pages aren't dropped."
   }
 }
