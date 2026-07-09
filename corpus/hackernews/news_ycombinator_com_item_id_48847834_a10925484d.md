@@ -1,0 +1,18 @@
+---
+title: "Show HN: Reverse-engineering web apps into agent tools"
+url: "https://news.ycombinator.com/item?id=48847834"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-07-09T16:36:29Z"
+metadata:
+  score: "7"
+---
+
+# Show HN: Reverse-engineering web apps into agent tools
+
+> Source: hackernews | Category: news | 2026-07-09T16:36:29Z
+
+Score: 7 | Comments: 1
+
+Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns those into agent tools. You can think of it as an auto-generated MCP server that self-updates as the host app changes.<p>The result is a skilled AI assistant that actually integrates deeply with any product (not just chat and RAG) with minimal effort.<p>Check out these short demos below that show the agent in software you&#x27;re probably familiar with:<p>- Jira: <a href="https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=jira">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=jira</a><p>- Spotify: <a href="https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=spotify">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=spotify</a><p>- Hacker News (lol): <a href="https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=hackernews">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=hackernews</a><p>- Full Demo: <a href="https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=full-demo">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=full-demo</a><p>As you can see in the examples, you can do way more (and faster) than what you normally would be able to via point and click. And we never even touched the source code of these products!<p>Why do this?<p>In an ideal world, every application has an MCP server or an easily-digestible API available for AI agents to feed from. In practice, we found that even very modern software tends to have a spider web of confusing APIs and services that AI agents simply cannot use out of the box. Security also becomes a huge issue as applications have different (often homebrewed) standards for how endpoints are secured (JWTs&#x2F;cookies&#x2F;mix of both). Finally, having an actual browser agent go in and use the application on behalf of the user (i.e. computer-use), is simply too brittle, slow, and burns a lot of tokens.<p>We took our existing browser agent that’s already trained to use and learn authenticated applications, and added an extra step that automatically turns the app’s authenticated APIs into &quot;recipes&quot;. A recipe is a mix of the following:<p>- API endpoint + method<p>- Authentication method (and how to retrieve refresh auth tokens&#x2F;cookies)<p>- Response schema<p>- Input schema (for POST&#x2F;PUT)<p>- Human readable description of what the tool does<p>Putting it all together, these become reusable tools for LLMs, all without writing or maintaining any code. Even if the APIs change our agent figures this out and replaces the recipe for the tool with the updated version.<p>Adding tools to an AI agent becomes super simple this way:<p>- Our agent trains on the app and builds the recipes<p>- The app owner enables discovered tools from our dashboard<p>- The agent can now take actions on the user’s behalf directly inside the application. For instance, saying something like &quot;invite my teammate to my workspace&quot; would securely call the existing API endpoint for inviting users without proxying or relaying through a third party.<p>Of course, there&#x27;s a ton of edge cases you run into when you try to do this - every application is intrinsically different despite how many &quot;standards&quot; exist. Fun fact: graphql was by far the worst API to work with in standardizing the recipes.<p>Looking forward to your feedback&#x2F;comments!
