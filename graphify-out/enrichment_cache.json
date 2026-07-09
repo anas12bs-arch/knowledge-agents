@@ -201014,5 +201014,210 @@
       "openai == 1"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-08T23:51:40Z Changes since langchain-openai==1.3.3 release(openai): 1.3.4 (#38731) fix(openai): suppress Pydantic serializer warning on structured output parsed field (#37727) test(openai): skip Codex VCR tests before cassette setup (#38690) chore: bump the minor-and-patch group across 3 directories with 11 updates (#38587) chore: bump langgraph-checkpoint from 4.1.0 to 4.1.1 in /libs/partners/openai (#38476) fix(core): use `asyncio.get_r"
+  },
+  "f6abfdcac4381f56": {
+    "file": "corpus/youtube/www_youtube_com_shorts_rXT0bscwllk_0b30ed9910.md",
+    "source": "youtube",
+    "title": "[leerob] New workflows for improved web app quality: Modern Web Guidance and DevTools (I/O Connect '26)",
+    "url": "https://www.youtube.com/shorts/rXT0bscwllk",
+    "keywords": [
+      "paul kinlan products mentioned",
+      "improved web app quality",
+      "improved web app quality",
+      "improved web app quality",
+      "connect berlin 2026 speaker",
+      "ensure code quality",
+      "powered web development",
+      "modern web guidance",
+      "modern web guidance",
+      "modern web guidance"
+    ],
+    "summary": "Two new workflows are here to streamline AI-powered web development. Modern Web Guidance provides coding agents with up-to-date, expert-vetted skills to ensure code quality and backward compatibility. Build web applications more efficiently and effectively."
+  },
+  "cbee92ff683c38c9": {
+    "file": "corpus/hackernews/mira-wm_com_eb7fe8236d.md",
+    "source": "hackernews",
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "url": "https://mira-wm.com/",
+    "keywords": [
+      "post &# x2f ;</",
+      "com &# x2f",
+      "com &# x2f",
+      "rocket league",
+      "rocket league",
+      "07z score",
+      "source",
+      "news"
+    ],
+    "summary": "# MIRA: Multiplayer Interactive World Models Trained on Rocket League > Source: hackernews | Category: news | 2026-07-09T01:21:07Z <a href=\"https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;</a>"
+  },
+  "d23f7189ad230128": {
+    "file": "corpus/hackernews/krisshamloo_com_blog_007_3491a74172.md",
+    "source": "hackernews",
+    "title": "A software engineering interview question I like: computing the median",
+    "url": "https://krisshamloo.com/blog/007",
+    "keywords": [
+      "software engineering interview question",
+      "software engineering interview question",
+      "04z score",
+      "source",
+      "news",
+      "median",
+      "median",
+      "like",
+      "like",
+      "hackernews"
+    ],
+    "summary": "# A software engineering interview question I like: computing the median > Source: hackernews | Category: news | 2026-07-09T01:21:04Z Score: 8 | Comments: 2"
+  },
+  "a412cd224ff811cf": {
+    "file": "corpus/hackernews/apnews_com_article_john-deere-right-to-repair-agriculture-eq_85b4cb35f7.md",
+    "source": "hackernews",
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "keywords": [
+      "john deere owners",
+      "john deere owners",
+      "repair equipment",
+      "repair equipment",
+      "ftc settlement",
+      "ftc settlement",
+      "03z score",
+      "source",
+      "right",
+      "right"
+    ],
+    "summary": "# John Deere owners will get the right to repair equipment under FTC settlement > Source: hackernews | Category: news | 2026-07-09T01:21:03Z Score: 215 | Comments: 49"
+  },
+  "52687679b6b24c4f": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_CAJ_iIedx_I_2530e3baf9.md",
+    "source": "hackernews",
+    "title": "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
+    "keywords": [
+      "time version control",
+      "time version control",
+      "beyond git",
+      "beyond git",
+      "06z score",
+      "video",
+      "video",
+      "source",
+      "real",
+      "real"
+    ],
+    "summary": "# Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video] > Source: hackernews | Category: news | 2026-07-09T01:21:06Z Score: 8 | Comments: 1"
+  },
+  "f7c914522d8e1e0a": {
+    "file": "corpus/hackernews/www_liamcvw_com_p_remote-attestation_cbe3040de6.md",
+    "source": "hackernews",
+    "title": "Remote Attestation",
+    "url": "https://www.liamcvw.com/p/remote-attestation",
+    "keywords": [
+      "remote attestation",
+      "remote attestation",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Remote Attestation > Source: hackernews | Category: news | 2026-07-09T01:21:04Z Score: 13 | Comments: 4"
+  },
+  "4aef37331b3464fa": {
+    "file": "corpus/hackernews/www_tryai_dev_blog_grok-4_5-vs-gpt-5_5-vs-claude-build-off_d25428ae40.md",
+    "source": "hackernews",
+    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+    "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+    "keywords": [
+      "made grok 4",
+      "made grok 4",
+      "claude build",
+      "claude build",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "gpt",
+      "gpt"
+    ],
+    "summary": "# We made Grok 4.5, GPT-5.5, and Claude build the same apps > Source: hackernews | Category: news | 2026-07-09T01:21:04Z Score: 37 | Comments: 11"
+  },
+  "742bbd4e8c8e230f": {
+    "file": "corpus/hackernews/seriot_ch_computation_uts35_e1dea1330c.md",
+    "source": "hackernews",
+    "title": "Unicode's transliteration rules are Turing-complete",
+    "url": "https://seriot.ch/computation/uts35/",
+    "keywords": [
+      "transliteration rules",
+      "transliteration rules",
+      "04z score",
+      "unicode",
+      "unicode",
+      "turing",
+      "turing",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Unicode's transliteration rules are Turing-complete > Source: hackernews | Category: news | 2026-07-09T01:21:04Z Score: 24 | Comments: 2"
+  },
+  "c1536aee5ad6b1b1": {
+    "file": "corpus/hackernews/github_com_Rodiun_frugon_de0e0cc22c.md",
+    "source": "hackernews",
+    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+    "url": "https://github.com/Rodiun/frugon",
+    "keywords": [
+      "token usage climbed dramatically",
+      "general savings bands come",
+      "synthetic 56k call log",
+      "weekly quota would run",
+      "cheaper model could handle",
+      "cheaper model could handle",
+      "normal llm call would",
+      "routing recommendation .< p",
+      "cost per task type",
+      "cheaper model .< p"
+    ],
+    "summary": "# Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT) This revealed that a lot of my spend went to searches&#x2F;scans or simple things like scouting tasks.<p>I then decided to turn this into a simple CLI tool that can be used to read your OpenAI-style logs locally, and analyze the cost and compare this spend to other models, then show you how much you could potentially save by switching those calls to a cheaper model.<p>When you run analyze you get an offline estima"
+  },
+  "1ba7309d4cf0fa28": {
+    "file": "corpus/devto/dev_to_544bf5cbd223c35a49756_-why-your-image-compressor-shou_6a89fc207b.md",
+    "source": "devto",
+    "title": "# Why Your Image Compressor Should Never Upload Files",
+    "url": "https://dev.to/_544bf5cbd223c35a49756/-why-your-image-compressor-should-never-upload-files-1ko7",
+    "keywords": [
+      "never upload files",
+      "never upload files",
+      "build one ...",
+      "free online compressor",
+      "image compressor",
+      "image compressor",
+      "tell —",
+      "12z every",
+      "source",
+      "reading"
+    ],
+    "summary": "# # Why Your Image Compressor Should Never Upload Files > Source: devto | Category: news | 2026-07-09T01:21:12Z Every \"free online compressor\" is reading your images."
+  },
+  "78e063d9bb8b88c5": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_81_b61abdb96e.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.81 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.81",
+    "keywords": [
+      "81 ### misc changes",
+      "app ): render filenames",
+      "app ): pin",
+      "tailwind template logos",
+      "surface url data",
+      "pin typescript version",
+      "consistently gate navigation",
+      "partial prefetching enabled",
+      "js — v16",
+      "42z ## vercel"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-09T01:21:42Z - [ci] Pin typescript version in tests: #95619 - fix(create-next-app): render filenames in Geist Mono so the preloaded font is used: #95471 - [turbopack] print Turbopack warnings after SSG: #95430 - fix(create-next-app): pin both axes on Tailwind template logos to silence aspect-ratio warning: #95609 - Turbopack: enable `import with {type: 'text'}` by default: #95606 - Consistently gate navigation-testing-lock API on flag: #9"
   }
 }
