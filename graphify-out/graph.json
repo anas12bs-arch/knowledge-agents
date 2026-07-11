@@ -103524,6 +103524,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_antjs_org_00573cdd32",
+      "label": "antjs_org_00573cdd32.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/antjs_org_00573cdd32.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_antjs_org_00573cdd32_show_hn_ant_a_javascript_runtime_and_ecosystem",
+      "label": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/antjs_org_00573cdd32.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_antoine_fi_mri_analysis_using_claude_code_opus_795c64010b",
       "label": "antoine_fi_mri-analysis-using-claude-code-opus_795c64010b.md",
       "file_type": "document",
@@ -154804,6 +154820,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_youtube_com_watch_v_izh1rr7wogi_9ef5e3fd55",
+      "label": "www_youtube_com_watch_v_IZH1rR7WogI_9ef5e3fd55.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_youtube_com_watch_v_IZH1rR7WogI_9ef5e3fd55.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_youtube_com_watch_v_izh1rr7wogi_9ef5e3fd55_taiwan_s_lost_8_bit_computer_video",
+      "label": "Taiwan's Lost 8-Bit Computer [video]",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_youtube_com_watch_v_IZH1rR7WogI_9ef5e3fd55.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_youtube_com_watch_v_k4e01_zfo5i_d0ae41f51f",
       "label": "www_youtube_com_watch_v_K4E01_ZfO5I_d0ae41f51f.md",
       "file_type": "document",
@@ -155072,6 +155104,22 @@
       "label": "Show HN: ZeroFS – A log-structured filesystem for S3",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_zerofs_net_356411c2f3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_zerofs_net_blog_zerofs_vs_aws_s3_files_31537a567f",
+      "label": "www_zerofs_net_blog_zerofs-vs-aws-s3-files_31537a567f.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_zerofs_net_blog_zerofs-vs-aws-s3-files_31537a567f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_zerofs_net_blog_zerofs_vs_aws_s3_files_31537a567f_zerofs_vs_amazon_s3_files",
+      "label": "ZeroFS vs. Amazon S3 Files",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_zerofs_net_blog_zerofs-vs-aws-s3-files_31537a567f.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -270577,6 +270625,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_antjs_org_00573cdd32",
+      "target": "corpus_hackernews_antjs_org_00573cdd32_show_hn_ant_a_javascript_runtime_and_ecosystem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/antjs_org_00573cdd32.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_antoine_fi_mri_analysis_using_claude_code_opus_795c64010b",
       "target": "corpus_hackernews_antoine_fi_mri_analysis_using_claude_code_opus_795c64010b_i_used_claude_code_to_get_a_second_opinion_on_my_mri",
       "relation": "contains",
@@ -299431,6 +299488,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_hackernews_www_youtube_com_watch_v_izh1rr7wogi_9ef5e3fd55",
+      "target": "corpus_hackernews_www_youtube_com_watch_v_izh1rr7wogi_9ef5e3fd55_taiwan_s_lost_8_bit_computer_video",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_youtube_com_watch_v_IZH1rR7WogI_9ef5e3fd55.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_hackernews_www_youtube_com_watch_v_k4e01_zfo5i_d0ae41f51f",
       "target": "corpus_hackernews_www_youtube_com_watch_v_k4e01_zfo5i_d0ae41f51f_speech_plus_prose_2000_vintage_speech_synthesizer_as_used_by_stephen_hawking_video",
       "relation": "contains",
@@ -299580,6 +299646,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_zerofs_net_356411c2f3.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_hackernews_www_zerofs_net_blog_zerofs_vs_aws_s3_files_31537a567f",
+      "target": "corpus_hackernews_www_zerofs_net_blog_zerofs_vs_aws_s3_files_31537a567f_zerofs_vs_amazon_s3_files",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_zerofs_net_blog_zerofs-vs-aws-s3-files_31537a567f.md",
       "source_location": "L12",
       "weight": 1.0
     },
