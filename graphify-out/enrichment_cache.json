@@ -214490,5 +214490,98 @@
       "fix case"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-11T09:53:03Z This patch is focused on enabling `transformers` for the latest release of vllm! - Be more defensive with remap_legacy_layer_types for custom models (#47245) from @hmellor - Fix custom code which doesn't know about the new linear layer type names (#47174) from @hmellor - Fix case where _LazyAutoMapping.register is passed a str key (#47148) from @hmellor"
+  },
+  "b8e76cfd66b2a3cc": {
+    "file": "corpus/hackernews/www_mixfont_com_ghost-font_d25a187a89.md",
+    "source": "hackernews",
+    "title": "A font that humans can read but AI cannot",
+    "url": "https://www.mixfont.com/ghost-font",
+    "keywords": [
+      "ai cannot",
+      "ai cannot",
+      "16z score",
+      "source",
+      "read",
+      "read",
+      "news",
+      "humans",
+      "humans",
+      "hackernews"
+    ],
+    "summary": "# A font that humans can read but AI cannot > Source: hackernews | Category: news | 2026-07-11T10:47:16Z Score: 40 | Comments: 29"
+  },
+  "67c267c4e5e418e1": {
+    "file": "corpus/hackernews/www_theverge_com_tech_961955_google-search-console-reach-pla_0370980728.md",
+    "source": "hackernews",
+    "title": "Google Search lets creators know more about their reach",
+    "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+    "keywords": [
+      "20z score",
+      "source",
+      "reach",
+      "reach",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Google Search lets creators know more about their reach > Source: hackernews | Category: news | 2026-07-11T10:47:20Z Score: 5 | Comments: 3"
+  },
+  "50c78f201e2ebac8": {
+    "file": "corpus/devto/dev_to_therabbithole_what-actually-matters-when-youre-huntin_1ee7271be9.md",
+    "source": "devto",
+    "title": "What Actually Matters When You're Hunting a Generative AI Job",
+    "url": "https://dev.to/therabbithole/what-actually-matters-when-youre-hunting-a-generative-ai-job-pcc",
+    "keywords": [
+      "26z everybody keeps saying",
+      "generative ai job market",
+      "generative ai job",
+      "generative ai job",
+      "almost nobody tells",
+      "fine —",
+      "actually matters",
+      "actually matters",
+      "source",
+      "reactions"
+    ],
+    "summary": "# What Actually Matters When You're Hunting a Generative AI Job Everybody keeps saying the Generative AI job market is on fire. Fine — but almost nobody tells you..."
+  },
+  "863220e66f074f1d": {
+    "file": "corpus/devto/dev_to_ev3lynx727_hybrid-container-governance-scaling-patter_0f23cc70f2.md",
+    "source": "devto",
+    "title": "Hybrid Container Governance: Scaling Patterns That Work",
+    "url": "https://dev.to/ev3lynx727/hybrid-container-governance-scaling-patterns-that-work-1bih",
+    "keywords": [
+      "third wsl instance",
+      "hybrid container governance",
+      "hybrid container governance",
+      "scaling patterns",
+      "scaling patterns",
+      "pattern ...",
+      "26z hook",
+      "work",
+      "work",
+      "source"
+    ],
+    "summary": "# Hybrid Container Governance: Scaling Patterns That Work Hook   The third WSL instance didn't need a reinstall. That's when I knew the pattern..."
+  },
+  "6c13805671b8e9af": {
+    "file": "corpus/devto/dev_to_yuhaolin2005_i-ran-150-tasks-to-test-if-ai-agents-fol_3ac3d94dc7.md",
+    "source": "devto",
+    "title": "I Ran 150 Tasks to Test If AI Agents Follow Rules — The Answer Surprised Me",
+    "url": "https://dev.to/yuhaolin2005/i-ran-150-tasks-to-test-if-ai-agents-follow-rules-the-answer-surprised-me-2670",
+    "keywords": [
+      "ran 150 tasks",
+      "ran 150 tasks",
+      "23z 6 sessions",
+      "2 rule formats",
+      "150 standardized tasks",
+      "mechanical gate",
+      "everything else",
+      "answer surprised",
+      "answer surprised",
+      "test"
+    ],
+    "summary": "# I Ran 150 Tasks to Test If AI Agents Follow Rules — The Answer Surprised Me 6 sessions, 150 standardized tasks, 2 rule formats. The mechanical gate won."
   }
 }
