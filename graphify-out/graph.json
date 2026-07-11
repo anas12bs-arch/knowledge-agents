@@ -18892,6 +18892,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_bluelobster_agent_technical_blogs_arent_dying_theyre_966e8d65fd",
+      "label": "dev_to_bluelobster_agent_technical-blogs-arent-dying-theyre-_966e8d65fd.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_bluelobster_agent_technical-blogs-arent-dying-theyre-_966e8d65fd.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_bluelobster_agent_technical_blogs_arent_dying_theyre_966e8d65fd_technical_blogs_aren_t_dying_they_re_becoming_agent_memory",
+      "label": "Technical Blogs Aren't Dying. They're Becoming Agent Memory.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_bluelobster_agent_technical-blogs-arent-dying-theyre-_966e8d65fd.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_bluelobster_agent_the_senior_devs_refusing_to_use_ai_f7f27faa9d",
       "label": "dev_to_bluelobster_agent_the-senior-devs-refusing-to-use-ai-_f7f27faa9d.md",
       "file_type": "document",
@@ -47052,6 +47068,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_marrouchi_how_i_turned_slack_into_an_ai_teammate_that_a5f0b60030",
+      "label": "dev_to_marrouchi_how-i-turned-slack-into-an-ai-teammate-that_a5f0b60030.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_marrouchi_how-i-turned-slack-into-an-ai-teammate-that_a5f0b60030.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_marrouchi_how_i_turned_slack_into_an_ai_teammate_that_a5f0b60030_how_i_turned_slack_into_an_ai_teammate_that_opens_pull_requests",
+      "label": "How I Turned Slack Into an AI Teammate That Opens Pull Requests",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_marrouchi_how-i-turned-slack-into-an-ai-teammate-that_a5f0b60030.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_marrouchi_teaching_ai_coding_agents_how_to_build_work_da8faefd51",
       "label": "dev_to_marrouchi_teaching-ai-coding-agents-how-to-build-work_da8faefd51.md",
       "file_type": "document",
@@ -55500,6 +55532,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_parsajiravand_your_typescript_config_objects_are_losi_7a945f2ba1",
+      "label": "dev_to_parsajiravand_your-typescript-config-objects-are-losi_7a945f2ba1.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_parsajiravand_your-typescript-config-objects-are-losi_7a945f2ba1.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_parsajiravand_your_typescript_config_objects_are_losi_7a945f2ba1_your_typescript_config_objects_are_losing_type_information_satisfies_fixes_it",
+      "label": "Your TypeScript config objects are losing type information. `satisfies` fixes it.",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_parsajiravand_your-typescript-config-objects-are-losi_7a945f2ba1.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_parsajiravand_youve_been_deep_cloning_objects_with_a_34ef85747f",
       "label": "dev_to_parsajiravand_youve-been-deep-cloning-objects-with-a-_34ef85747f.md",
       "file_type": "document",
@@ -61336,6 +61384,22 @@
       "label": "Why Your Microservices Need Circuit Breakers (And How to Add Them)",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_samson_tanimawo_why-your-microservices-need-circuit-b_b833ed8231.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_samuelquansah_fanaticai_world_cup_rivalry_obsession_e_e240fee90d",
+      "label": "dev_to_samuelquansah_fanaticai-world-cup-rivalry-obsession-e_e240fee90d.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_samuelquansah_fanaticai-world-cup-rivalry-obsession-e_e240fee90d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_samuelquansah_fanaticai_world_cup_rivalry_obsession_e_e240fee90d_fanaticai_world_cup_rivalry_obsession_engine_powered_by_google_gemini",
+      "label": "FanaticAI — World Cup Rivalry Obsession Engine (Powered by Google Gemini)",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_samuelquansah_fanaticai-world-cup-rivalry-obsession-e_e240fee90d.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -214585,6 +214649,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_bluelobster_agent_technical_blogs_arent_dying_theyre_966e8d65fd",
+      "target": "corpus_devto_dev_to_bluelobster_agent_technical_blogs_arent_dying_theyre_966e8d65fd_technical_blogs_aren_t_dying_they_re_becoming_agent_memory",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_bluelobster_agent_technical-blogs-arent-dying-theyre-_966e8d65fd.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_bluelobster_agent_the_senior_devs_refusing_to_use_ai_f7f27faa9d",
       "target": "corpus_devto_dev_to_bluelobster_agent_the_senior_devs_refusing_to_use_ai_f7f27faa9d_the_senior_devs_refusing_to_use_ai_are_becoming_juniors_again",
       "relation": "contains",
@@ -230434,6 +230507,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_marrouchi_how_i_turned_slack_into_an_ai_teammate_that_a5f0b60030",
+      "target": "corpus_devto_dev_to_marrouchi_how_i_turned_slack_into_an_ai_teammate_that_a5f0b60030_how_i_turned_slack_into_an_ai_teammate_that_opens_pull_requests",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_marrouchi_how-i-turned-slack-into-an-ai-teammate-that_a5f0b60030.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_marrouchi_teaching_ai_coding_agents_how_to_build_work_da8faefd51",
       "target": "corpus_devto_dev_to_marrouchi_teaching_ai_coding_agents_how_to_build_work_da8faefd51_teaching_ai_coding_agents_how_to_build_workflows_with_skills_and_mcp",
       "relation": "contains",
@@ -235186,6 +235268,15 @@
       "weight": 1.0
     },
     {
+      "source": "corpus_devto_dev_to_parsajiravand_your_typescript_config_objects_are_losi_7a945f2ba1",
+      "target": "corpus_devto_dev_to_parsajiravand_your_typescript_config_objects_are_losi_7a945f2ba1_your_typescript_config_objects_are_losing_type_information_satisfies_fixes_it",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_parsajiravand_your-typescript-config-objects-are-losi_7a945f2ba1.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
       "source": "corpus_devto_dev_to_parsajiravand_youve_been_deep_cloning_objects_with_a_34ef85747f",
       "target": "corpus_devto_dev_to_parsajiravand_youve_been_deep_cloning_objects_with_a_34ef85747f_you_ve_been_deep_cloning_objects_with_a_json_hack_structuredclone_does_it_right",
       "relation": "contains",
@@ -238467,6 +238558,15 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_samson_tanimawo_why-your-microservices-need-circuit-b_b833ed8231.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "corpus_devto_dev_to_samuelquansah_fanaticai_world_cup_rivalry_obsession_e_e240fee90d",
+      "target": "corpus_devto_dev_to_samuelquansah_fanaticai_world_cup_rivalry_obsession_e_e240fee90d_fanaticai_world_cup_rivalry_obsession_engine_powered_by_google_gemini",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_samuelquansah_fanaticai-world-cup-rivalry-obsession-e_e240fee90d.md",
       "source_location": "L12",
       "weight": 1.0
     },
