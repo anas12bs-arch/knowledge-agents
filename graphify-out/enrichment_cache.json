@@ -213808,5 +213808,270 @@
       "rc0 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-11T04:20:28Z ## What's Changed * create: select the qwen3.5 parser and renderer for Qwen3.5/Next by @jessegross in https://github.com/ollama/ollama/pull/17078 * launch: warn before old agent models by @ParthSareen in https://github.com/ollama/ollama/pull/17063 * cmd: agent UI by @ParthSareen in https://github.com/ollama/ollama/pull/17017 **Full Changelog**: https://github.com/ollama/ollama/compare/v0.31.2...v0.32.0-rc0"
+  },
+  "6c4a135580c7dbb3": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_zl_Z5TNJB3U_f08ce9f76a.md",
+    "source": "youtube",
+    "title": "[theo] The unexpected death of Codex",
+    "url": "https://www.youtube.com/watch?v=zl_Z5TNJB3U",
+    "keywords": [
+      "single unified app",
+      "https :// x",
+      "https :// x",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "https :// openai",
+      "unexpected death"
+    ],
+    "summary": "# [theo] The unexpected death of Codex Thank you Blacksmith & DNSimple for sponsoring! Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "f0f97b7ea3440f37": {
+    "file": "corpus/hackernews/anartfulscience_com_insights_rule-of-7-marketing_143244ae36.md",
+    "source": "hackernews",
+    "title": "The Rule of 7 and the 7-Touchpoint Myth",
+    "url": "https://anartfulscience.com/insights/rule-of-7-marketing/",
+    "keywords": [
+      "touchpoint myth",
+      "touchpoint myth",
+      "22z score",
+      "source",
+      "rule",
+      "rule",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Rule of 7 and the 7-Touchpoint Myth > Source: hackernews | Category: news | 2026-07-11T06:29:22Z Score: 4 | Comments: 0"
+  },
+  "5b7f40b31a7913cf": {
+    "file": "corpus/hackernews/www_clemsau_com_posts_the-lindy-effect-in-software_736f8bbc81.md",
+    "source": "hackernews",
+    "title": "The Lindy Effect in Software",
+    "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
+    "keywords": [
+      "lindy effect",
+      "lindy effect",
+      "23z score",
+      "source",
+      "software",
+      "software",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Lindy Effect in Software > Source: hackernews | Category: news | 2026-07-11T06:29:23Z Score: 7 | Comments: 6"
+  },
+  "e77a747e6cf01498": {
+    "file": "corpus/devto/dev_to_devdenner_beyond-crud-building-personal-projects-to-v_ee8752ac2e.md",
+    "source": "devto",
+    "title": "Beyond CRUD: building personal projects to validate architecture, cloud, and automation",
+    "url": "https://dev.to/devdenner/beyond-crud-building-personal-projects-to-validate-architecture-cloud-and-automation-2p0g",
+    "keywords": [
+      "whenever someone mentioned",
+      "building personal projects",
+      "building personal projects",
+      "validate architecture",
+      "validate architecture",
+      "tech world",
+      "standard ...",
+      "portfolio project",
+      "long time",
+      "beyond crud"
+    ],
+    "summary": "# Beyond CRUD: building personal projects to validate architecture, cloud, and automation > Source: devto | Category: news | 2026-07-11T06:29:32Z For a long time, whenever someone mentioned a \"portfolio project\" in the tech world, the standard..."
+  },
+  "c3089c11cc5296dd": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-11-lena-watched-her-own-ai-plat_88daf735fa.md",
+    "source": "devto",
+    "title": "Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.",
+    "url": "https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59",
+    "keywords": [
+      "ai platform get cut",
+      "ai platform get cut",
+      "plum tree",
+      "lena watched",
+      "lena watched",
+      "ember stayed",
+      "ember stayed",
+      "32z better",
+      "36 stratagems",
+      "stratagems"
+    ],
+    "summary": "# Stratagems #11: Lena Watched Her Own AI Platform Get Cut. > Source: devto | Category: news | 2026-07-11T06:29:32Z Better to sacrifice a part to preserve the whole."
+  },
+  "63ad12c1ab11d320": {
+    "file": "corpus/devto/dev_to_kehinde_owolabi_e2e54567a_top-20-most-powerful-functi_6a2939b954.md",
+    "source": "devto",
+    "title": "🔥 Top 20 Most Powerful Functions in Limn Engine",
+    "url": "https://dev.to/kehinde_owolabi_e2e54567a/top-20-most-powerful-functions-in-limn-engine-2m4d",
+    "keywords": [
+      "29z 🔥 top 20",
+      "🔥 top 20",
+      "🔥 top 20",
+      "limn engine",
+      "limn engine",
+      "limn engine",
+      "actually transform",
+      "powerful functions",
+      "powerful functions",
+      "powerful functions"
+    ],
+    "summary": "# 🔥 Top 20 Most Powerful Functions in Limn Engine > Source: devto | Category: news | 2026-07-11T06:29:29Z 🔥 Top 20 Most Powerful Functions in Limn Engine   The Functions That Actually Transform Your..."
+  },
+  "54fef2c3513f60d5": {
+    "file": "corpus/devto/dev_to_maazkhanxo_bypassing-shadow-doms-same-origin-iframes-_ac280ec686.md",
+    "source": "devto",
+    "title": "Bypassing Shadow DOMs & Same-Origin Iframes: How I Solved LinkedIn's Massive SDUI Update",
+    "url": "https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk",
+    "keywords": [
+      "spent months building",
+      "massive sdui update",
+      "massive sdui update",
+      "bypassing shadow doms",
+      "bypassing shadow doms",
+      "31z imagine waking",
+      "solved linkedin",
+      "solved linkedin",
+      "scaling ...",
+      "origin iframes"
+    ],
+    "summary": "# Bypassing Shadow DOMs & Same-Origin Iframes: How I Solved LinkedIn's Massive SDUI Update > Source: devto | Category: news | 2026-07-11T06:29:31Z Imagine waking up to see the browser extension you spent months building, refining, and scaling..."
+  },
+  "841a71c6f70c157b": {
+    "file": "corpus/devto/dev_to_bob3x_i-solved-an-annoying-issue-by-building-my-own-r_44acbfbb1f.md",
+    "source": "devto",
+    "title": "I solved an annoying issue by building my own real-time audio Chrome extension",
+    "url": "https://dev.to/bob3x/i-solved-an-annoying-issue-by-building-my-own-real-time-audio-chrome-extension-3c9k",
+    "keywords": [
+      "time audio chrome extension",
+      "time audio chrome extension",
+      "think even posting",
+      "first ever post",
+      "31z hey guys",
+      "except ...",
+      "dev community",
+      "annoying issue",
+      "annoying issue",
+      "source"
+    ],
+    "summary": "# I solved an annoying issue by building my own real-time audio Chrome extension > Source: devto | Category: news | 2026-07-11T06:29:31Z Hey guys,   this is my first ever post in DEV Community and I think even posting at all."
+  },
+  "8b711695e1468d8e": {
+    "file": "corpus/devto/dev_to_get_anything_how-to-scrape-jobs-from-any-company-care_311f242bc9.md",
+    "source": "devto",
+    "title": "How to scrape jobs from any company career page (Greenhouse, Lever, Ashby, Workday)",
+    "url": "https://dev.to/get_anything/how-to-scrape-jobs-from-any-company-career-page-greenhouse-lever-ashby-workday-46f1",
+    "keywords": [
+      "public json api",
+      "company career page",
+      "company career page",
+      "working python",
+      "scrape jobs",
+      "scrape jobs",
+      "exact endpoints",
+      "workday",
+      "workday",
+      "source"
+    ],
+    "summary": "# How to scrape jobs from any company career page (Greenhouse, Lever, Ashby, Workday) Every major applicant tracking system has a public JSON API. Here are the exact endpoints, with working Python."
+  },
+  "eb884d36b7c090b3": {
+    "file": "corpus/devto/dev_to_himanshu_748_my-abandoned-cricket-kit-confronted-me-s_2d79367281.md",
+    "source": "devto",
+    "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
+    "url": "https://dev.to/himanshu_748/my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice-ph1",
+    "keywords": [
+      "abandoned cricket kit confronted",
+      "abandoned cricket kit confronted",
+      "dev weekend challenge",
+      "passion edition",
+      "voice",
+      "voice",
+      "submission",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# My Abandoned Cricket Kit Confronted Me. So I Built It a Voice This is a submission for the DEV Weekend Challenge: Passion Edition."
+  },
+  "4dab5d29ce098342": {
+    "file": "corpus/devto/dev_to_pavelespitia_prompt-caching-cut-my-claude-bill-by-80-_b282466804.md",
+    "source": "devto",
+    "title": "Prompt Caching Cut My Claude Bill by 80%: The Mistakes That Were Costing Me",
+    "url": "https://dev.to/pavelespitia/prompt-caching-cut-my-claude-bill-by-80-the-mistakes-that-were-costing-me-39dn",
+    "keywords": [
+      "prompt caching cut",
+      "prompt caching cut",
+      "paying full price",
+      "large system prompt",
+      "input tokens",
+      "fixed ...",
+      "claude bill",
+      "claude bill",
+      "80 %:",
+      "80 %:"
+    ],
+    "summary": "# Prompt Caching Cut My Claude Bill by 80%: The Mistakes That Were Costing Me > Source: devto | Category: news | 2026-07-11T06:29:30Z I was paying full price for input tokens I was sending over and over."
+  },
+  "f9d8482d5e0c0ba8": {
+    "file": "corpus/devto/dev_to_headzoo_the-evolution-of-a-software-engineer-2hjc_36518e9368.md",
+    "source": "devto",
+    "title": "The Evolution of a Software Engineer",
+    "url": "https://dev.to/headzoo/the-evolution-of-a-software-engineer-2hjc",
+    "keywords": [
+      "public static void main",
+      "first year class helloworld",
+      "string args [])",
+      "// displays ...",
+      "software engineer",
+      "software engineer",
+      "source",
+      "reactions",
+      "news",
+      "evolution"
+    ],
+    "summary": "# The Evolution of a Software Engineer > Source: devto | Category: news | 2026-07-11T06:29:29Z The first year      class HelloWorld { public static void main(String args[]) { // Displays..."
+  },
+  "346383aae37e3125": {
+    "file": "corpus/devto/dev_to_gabrielmahia_the-information-asymmetry-that-costs-eas_94fb3c39d5.md",
+    "source": "devto",
+    "title": "The Information Asymmetry That Costs East African Farmers Billions",
+    "url": "https://dev.to/gabrielmahia/the-information-asymmetry-that-costs-east-african-farmers-billions-4imc",
+    "keywords": [
+      "checks wholesale prices ...",
+      "trader drives",
+      "monday morning",
+      "information asymmetry",
+      "information asymmetry",
+      "source",
+      "reactions",
+      "news",
+      "nakuru",
+      "nairobi"
+    ],
+    "summary": "# The Information Asymmetry That Costs East African Farmers Billions A trader drives from Nairobi to Nakuru on Monday morning. Before leaving, he checks wholesale prices..."
+  },
+  "8155ca400bae183a": {
+    "file": "corpus/devto/dev_to_plasma_01_my-llm-bill-kept-growing-but-user-traffic-d_ea3826faf4.md",
+    "source": "devto",
+    "title": "My LLM Bill Kept Growing, but User Traffic Didn’t",
+    "url": "https://dev.to/plasma_01/my-llm-bill-kept-growing-but-user-traffic-didnt-14am",
+    "keywords": [
+      "request count looked normal",
+      "llm bill kept growing",
+      "llm bill kept growing",
+      "sudden wave",
+      "new users",
+      "mostly flat",
+      "user traffic",
+      "user traffic",
+      "traffic"
+    ],
+    "summary": "# My LLM Bill Kept Growing, but User Traffic Didn’t > Source: devto | Category: news | 2026-07-11T06:29:33Z My request count looked normal."
   }
 }
