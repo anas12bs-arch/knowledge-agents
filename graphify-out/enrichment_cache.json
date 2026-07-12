@@ -221937,5 +221937,100 @@
       "problem :< p"
     ],
     "summary": "Sports Trading Exchange | Founding Engineer &#x2F; CTO | Remote USA | $140–200k + meaningful equity + founder seat available<p>We&#x27;re building a peer-to-peer exchange where fans buy and sell positions in individual athletes, like a stock. Real money, central limit order book, mechanical settlement against a published rules-based rating computed from official on-field stats. Fans trade against each other like a prediction market.<p>We are far along on everything except the build."
+  },
+  "5be01a1aed1e103a": {
+    "file": "corpus/hackernews/www_wired_com_story_ubers-autonomous-vehicle-strategy-slow-t_bcea1da2e2.md",
+    "source": "hackernews",
+    "title": "Uber is lobbying to keep robotaxi rides 85% human in New Jersey",
+    "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+    "keywords": [
+      "keep robotaxi rides 85",
+      "keep robotaxi rides 85",
+      "new jersey",
+      "new jersey",
+      "30z score",
+      "uber",
+      "uber",
+      "source",
+      "news",
+      "lobbying"
+    ],
+    "summary": "# Uber is lobbying to keep robotaxi rides 85% human in New Jersey > Source: hackernews | Category: news | 2026-07-12T22:54:30Z Score: 9 | Comments: 0"
+  },
+  "0e70e98b0fc26d90": {
+    "file": "corpus/devto/dev_to_subhansh_i-built-a-programming-language-because-c-alm_350a87c3da.md",
+    "source": "devto",
+    "title": "I built a programming language because C++ almost killed my drone",
+    "url": "https://dev.to/subhansh/i-built-a-programming-language-because-c-almost-killed-my-drone-34l7",
+    "keywords": [
+      "spent 6 months building",
+      "sensor failure nearly turned",
+      "c ++ almost killed",
+      "c ++ almost killed",
+      "things fly",
+      "programming language",
+      "programming language",
+      "ilp solvers",
+      "good enough",
+      "checked language"
+    ],
+    "summary": "# I built a programming language because C++ almost killed my drone After a sensor failure nearly turned my $400 drone into a projectile, I spent 6 months building a safety-checked language for robotics. Here's what I learned about compilers, ILP solvers, and why \"it works on my machine\" isn't good enough when things fly."
+  },
+  "8eac983d6949c124": {
+    "file": "corpus/devto/dev_to_saint_vandora_debugging-a-legacy-cra-django-deploymen_8315f41474.md",
+    "source": "devto",
+    "title": "Debugging a Legacy CRA + Django Deployment Pipeline: A DevOps Postmortem",
+    "url": "https://dev.to/saint_vandora/debugging-a-legacy-cra-django-deployment-pipeline-a-devops-postmortem-2epd",
+    "keywords": [
+      "handed two deployment tasks",
+      "django deployment pipeline",
+      "django deployment pipeline",
+      "weeks ago",
+      "ship ...",
+      "looked routine",
+      "legacy cra",
+      "legacy cra",
+      "devops postmortem",
+      "devops postmortem"
+    ],
+    "summary": "# Debugging a Legacy CRA + Django Deployment Pipeline: A DevOps Postmortem > Source: devto | Category: news | 2026-07-12T22:54:30Z A few weeks ago I was handed two deployment tasks that looked routine on paper: containerize and ship..."
+  },
+  "dee33aeacb954b8c": {
+    "file": "corpus/devto/dev_to_valerykot_documents-arent-bags-of-chunks-3cha_b18e5d6b0a.md",
+    "source": "devto",
+    "title": "Documents Aren't Bags of Chunks",
+    "url": "https://dev.to/valerykot/documents-arent-bags-of-chunks-3cha",
+    "keywords": [
+      "retrieval systems",
+      "often destroy",
+      "source",
+      "reactions",
+      "news",
+      "documents",
+      "documents",
+      "document",
+      "devto",
+      "chunks"
+    ],
+    "summary": "# Documents Aren't Bags of Chunks > Source: devto | Category: news | 2026-07-12T22:54:30Z One thing kept bothering me about retrieval systems: they often destroy the document before..."
+  },
+  "1aae540bc99311cd": {
+    "file": "corpus/devto/dev_to_timexo_how-i-built-a-geoguessr-game-for-super-mario-o_2be85fe40a.md",
+    "source": "devto",
+    "title": "How I Built a GeoGuessr Game for Super Mario Odyssey",
+    "url": "https://dev.to/timexo/how-i-built-a-geoguessr-game-for-super-mario-odyssey-g04",
+    "keywords": [
+      "usual fan project",
+      "super mario odyssey",
+      "super mario odyssey",
+      "build something different",
+      "recreating gameplay",
+      "geoguessr game",
+      "geoguessr game",
+      "wanted",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How I Built a GeoGuessr Game for Super Mario Odyssey I wanted to build something different from the usual fan project. Instead of recreating gameplay, I..."
   }
 }
