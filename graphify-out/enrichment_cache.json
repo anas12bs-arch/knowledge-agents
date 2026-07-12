@@ -220860,5 +220860,383 @@
       "trulyfreeocr –"
     ],
     "summary": "# TrulyFreeOCR – a Java OCR pipeline in a single fat JAR, zero native deps required > Source: devto | Category: news | 2026-07-12T18:10:15Z Introduction   I'm the author of TrulyFreeOCR, an open-source OCR pipeline that turns..."
+  },
+  "091fae1d28f8b10f": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_12_funniest-most-insightful-comment_528108c8a3.md",
+    "source": "legal",
+    "title": "[techdirt] Funniest/Most Insightful Comments Of The Week At Techdirt",
+    "url": "https://www.techdirt.com/2026/07/12/funniest-most-insightful-comments-of-the-week-at-techdirt-216/",
+    "keywords": [
+      "many people involved",
+      "first place winner",
+      "[&# 8230 ;]",
+      "start rival project",
+      "rival project",
+      "personal vision",
+      "insightful side",
+      "insightful comments",
+      "insightful comments",
+      "insightful comments"
+    ],
+    "summary": "# [techdirt] Funniest/Most Insightful Comments Of The Week At Techdirt Funniest/Most Insightful Comments Of The Week At Techdirt This week, our first place winner on the insightful side is Bloof with a comment about Wikipedia banning its co-founder: Guy was one of many people involved in the start of Wikipedia, left in a snit to start rival project after rival project more in line with his personal vision, each dying a death because [&#8230;]"
+  },
+  "90f7f80bc80ede9c": {
+    "file": "corpus/hackernews/cacm_acm_org_news_can-we-understand-how-large-language-model_58e9d60354.md",
+    "source": "hackernews",
+    "title": "Can We Understand How Large Language Models Reason?",
+    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "keywords": [
+      "large language models reason",
+      "large language models reason",
+      "40z score",
+      "understand",
+      "understand",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Can We Understand How Large Language Models Reason? > Source: hackernews | Category: news | 2026-07-12T19:21:40Z Score: 13 | Comments: 4"
+  },
+  "f07ca16807fa8712": {
+    "file": "corpus/hackernews/www_larp_website_5a859e7642.md",
+    "source": "hackernews",
+    "title": "LARP – Revenue infrastructure for serious founders",
+    "url": "https://www.larp.website/",
+    "keywords": [
+      "larp – revenue infrastructure",
+      "larp – revenue infrastructure",
+      "serious founders",
+      "serious founders",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# LARP – Revenue infrastructure for serious founders > Source: hackernews | Category: news | 2026-07-12T19:21:41Z Score: 34 | Comments: 5"
+  },
+  "7d5f46de91c33203": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Deir_el-Medina_strikes_286c994cce.md",
+    "source": "hackernews",
+    "title": "Deir El-Medina Strikes",
+    "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+    "keywords": [
+      "medina strikes",
+      "medina strikes",
+      "deir el",
+      "deir el",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Deir El-Medina Strikes > Source: hackernews | Category: news | 2026-07-12T19:21:43Z Score: 9 | Comments: 1"
+  },
+  "ad884c82fe258890": {
+    "file": "corpus/hackernews/geohot_github_io_blog_jekyll_update_2026_07_12_i-love-llms_h_bccddf2bab.md",
+    "source": "hackernews",
+    "title": "I love LLMs, I hate hype",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "keywords": [
+      "love llms",
+      "love llms",
+      "hate hype",
+      "hate hype",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I love LLMs, I hate hype > Source: hackernews | Category: news | 2026-07-12T19:21:39Z Score: 23 | Comments: 3"
+  },
+  "6ec5a585477d8a5a": {
+    "file": "corpus/hackernews/systima_ai_blog_claude-code-vs-opencode-token-overhead_398431a5f1.md",
+    "source": "hackernews",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "keywords": [
+      "using opencode .< p",
+      "usage meter rise much",
+      "harness token usage",
+      "initial anecdotal evidence",
+      "agentic coding tool",
+      "usually use opencode",
+      "opencode sends 7k",
+      "opencode sends 7k",
+      "forced &# x27",
+      "anthropic &# x27"
+    ],
+    "summary": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usa"
+  },
+  "56225e885f6df403": {
+    "file": "corpus/hackernews/softwaredoug_com_blog_2026_07_09_write-code_106599d8ae.md",
+    "source": "hackernews",
+    "title": "Why write code in 2026",
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "keywords": [
+      "write code",
+      "write code",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why write code in 2026 > Source: hackernews | Category: news | 2026-07-12T19:21:40Z Score: 21 | Comments: 68"
+  },
+  "b73fd595dac12c0a": {
+    "file": "corpus/hackernews/arstechnica_com_science_2026_07_an-orbiting-disco-ball-gave-_2e82d38a01.md",
+    "source": "hackernews",
+    "title": "An orbiting disco ball gave Einstein's theory its most precise test yet",
+    "url": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
+    "keywords": [
+      "precise test yet",
+      "precise test yet",
+      "48z score",
+      "theory",
+      "theory",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# An orbiting disco ball gave Einstein's theory its most precise test yet > Source: hackernews | Category: news | 2026-07-12T19:21:48Z Score: 8 | Comments: 0"
+  },
+  "b1c8bca4eddc5431": {
+    "file": "corpus/hackernews/www_interconnects_ai_p_6-months-to-live-for-open-models_5d56208121.md",
+    "source": "hackernews",
+    "title": "6 months to live for open models",
+    "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+    "keywords": [
+      "open models",
+      "open models",
+      "6 months",
+      "6 months",
+      "48z score",
+      "source",
+      "news",
+      "live",
+      "live",
+      "hackernews"
+    ],
+    "summary": "# 6 months to live for open models > Source: hackernews | Category: news | 2026-07-12T19:21:48Z Score: 4 | Comments: 0"
+  },
+  "73a976d9c49ae983": {
+    "file": "corpus/devto/dev_to_nr7whfms97_i-built-a-file-grounded-continuity-system-_f14b6ecb7b.md",
+    "source": "devto",
+    "title": "I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating?",
+    "url": "https://dev.to/nr7whfms97/i-built-a-file-grounded-continuity-system-for-my-ai-german-teacher-what-am-i-overcomplicating-i32",
+    "keywords": [
+      "ai german teacher —",
+      "ai german teacher —",
+      "ai named felix",
+      "grounded continuity system",
+      "grounded continuity system",
+      "german teacher",
+      "use",
+      "time",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating? Why I built this   I use an AI named Felix as my German teacher. Over time, I ran into a..."
+  },
+  "b1ff519a096d390d": {
+    "file": "corpus/devto/dev_to_noorealam_building-a-threejs-3d-product-configurator-_5749958800.md",
+    "source": "devto",
+    "title": "Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn't Expect",
+    "url": "https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2",
+    "keywords": [
+      "js 3d product configurator",
+      "js 3d product configurator",
+      "thing stores",
+      "4 things",
+      "4 things",
+      "20 years",
+      "woocommerce",
+      "woocommerce",
+      "three",
+      "three"
+    ],
+    "summary": "# Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn't Expect > Source: devto | Category: news | 2026-07-12T19:21:51Z Most WooCommerce product pages still show the same thing stores have shown for 20 years: a handful of..."
+  },
+  "76616565db29eae2": {
+    "file": "corpus/devto/dev_to_softwarebuilding_glm-5-vs-minimax-m3-open-models-got-_d9a652fceb.md",
+    "source": "devto",
+    "title": "GLM-5 vs MiniMax M3: Open Models Got Serious",
+    "url": "https://dev.to/softwarebuilding/glm-5-vs-minimax-m3-open-models-got-serious-1hfd",
+    "keywords": [
+      "5 vs minimax m3",
+      "5 vs minimax m3",
+      "open models got serious",
+      "open models got serious",
+      "weight models",
+      "two years",
+      "honest advice",
+      "open",
+      "source",
+      "reactions"
+    ],
+    "summary": "# GLM-5 vs MiniMax M3: Open Models Got Serious > Source: devto | Category: news | 2026-07-12T19:21:53Z For two years, the honest advice about open-weight models was: great for experimentation, fine for..."
+  },
+  "a80f24d8a5838103": {
+    "file": "corpus/devto/dev_to_hexisteme_when-a-site-blocks-your-scraper-read-the-br_b6675ee322.md",
+    "source": "devto",
+    "title": "When a Site Blocks Your Scraper, Read the Browser Tab You Already Have Open",
+    "url": "https://dev.to/hexisteme/when-a-site-blocks-your-scraper-read-the-browser-tab-you-already-have-open-46j7",
+    "keywords": [
+      "better headless scraper —",
+      "way past robots",
+      "sidesteps every wall",
+      "line applescript bridge",
+      "authenticated chrome tab",
+      "browser tab",
+      "browser tab",
+      "site blocks",
+      "site blocks",
+      "rendered spas"
+    ],
+    "summary": "# When a Site Blocks Your Scraper, Read the Browser Tab You Already Have Open For a personal tool, the way past robots.txt, bot detection, login walls, and JS-rendered SPAs isn't a better headless scraper — it's reading the DOM out of the authenticated Chrome tab you already have open, via a ~40-line AppleScript bridge. Why it sidesteps every wall at once, and its honest limits."
+  },
+  "4aec5aa8d01a1577": {
+    "file": "corpus/devto/dev_to_srcanton_the-iso-27001-controls-that-actually-matter-_3f198094b4.md",
+    "source": "devto",
+    "title": "The ISO 27001 controls that actually matter when you connect two systems",
+    "url": "https://dev.to/srcanton/the-iso-27001-controls-that-actually-matter-when-you-connect-two-systems-4hon",
+    "keywords": [
+      "iso 27001 controls",
+      "iso 27001 controls",
+      "connect two systems",
+      "connect two systems",
+      "ai agents ....",
+      "lately erps",
+      "build integrations",
+      "actually matter",
+      "actually matter",
+      "source"
+    ],
+    "summary": "# The ISO 27001 controls that actually matter when you connect two systems > Source: devto | Category: news | 2026-07-12T19:21:50Z I build integrations for a living: ecommerce to ERP, CRM to invoicing, and lately ERPs to AI agents...."
+  },
+  "58616fa398b0e1ad": {
+    "file": "corpus/devto/dev_to_anchildress1_commit-chronicles-your-obsession-leaves-_150923089a.md",
+    "source": "devto",
+    "title": "Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.",
+    "url": "https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j",
+    "keywords": [
+      "50z snowflake fetches",
+      "commit chronicles —",
+      "commit chronicles —",
+      "commit history",
+      "six storylines",
+      "single thread",
+      "plain sql",
+      "one story",
+      "one card",
+      "obsession leaves"
+    ],
+    "summary": "# Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot. Snowflake fetches a repo's commit history, finds the one story in it with plain SQL, and narrates that single thread with Cortex."
+  },
+  "9d5f51241113c55c": {
+    "file": "corpus/devto/dev_to_rethabilebridgetvelelo_3-mistakes-i-made-as-a-visual-_c0b8bf33e8.md",
+    "source": "devto",
+    "title": "3 Mistakes I made as a Visual Basic Developer (And what they actually taught me).",
+    "url": "https://dev.to/rethabilebridgetvelelo/3-mistakes-i-made-as-a-visual-basic-developer-and-what-they-actually-taught-me-1flc",
+    "keywords": [
+      "often viewed ...",
+      "modern tech world",
+      "visual basic developer",
+      "visual basic developer",
+      "49z let ’",
+      "visual basic",
+      "actually taught",
+      "actually taught",
+      "3 mistakes",
+      "3 mistakes"
+    ],
+    "summary": "# 3 Mistakes I made as a Visual Basic Developer (And what they actually taught me). > Source: devto | Category: news | 2026-07-12T19:21:49Z Let’s face it: Visual Basic (VB.NET) gets a lot of flak in the modern tech world."
+  },
+  "04cc1d00b56fe107": {
+    "file": "corpus/devto/dev_to_antfarm-official_tokens-and-daos-the-real-technical-p_0253723fd2.md",
+    "source": "devto",
+    "title": "Tokens and DAOs: The Real Technical Problems Behind On-Chain Communities",
+    "url": "https://dev.to/antfarm-official/tokens-and-daos-the-real-technical-problems-behind-on-chain-communities-2de9",
+    "keywords": [
+      "real technical problems behind",
+      "real technical problems behind",
+      "simple ideas",
+      "often presented",
+      "distribute ownership",
+      "chain communities",
+      "chain communities",
+      "52z tokens",
+      "tokens",
+      "tokens"
+    ],
+    "summary": "# Tokens and DAOs: The Real Technical Problems Behind On-Chain Communities > Source: devto | Category: news | 2026-07-12T19:21:52Z Tokens and DAOs are often presented as simple ideas: issue a token, distribute ownership, let the..."
+  },
+  "353a87906cf16c9e": {
+    "file": "corpus/devto/dev_to_omar_bni_f6856a8bb0e021e9_everything-that-broke-while_854a6189d8.md",
+    "source": "devto",
+    "title": "Everything that broke while shipping an embeddable AI widget",
+    "url": "https://dev.to/omar_bni_f6856a8bb0e021e9/everything-that-broke-while-shipping-an-embeddable-ai-widget-5h4g",
+    "keywords": [
+      "embeddable ai widget",
+      "embeddable ai widget",
+      "clanker support widget",
+      "tag embed",
+      "source",
+      "shopify",
+      "shipping",
+      "shipping",
+      "shipping",
+      "script"
+    ],
+    "summary": "# Everything that broke while shipping an embeddable AI widget > Source: devto | Category: news | 2026-07-12T19:21:51Z Here is what broke while shipping the Clanker Support widget as a one-script-tag embed: Shopify's..."
+  },
+  "4713c74b0ea5808a": {
+    "file": "corpus/devto/dev_to_pavelespitia_hybrid-local-cloud-llms-in-2026-when-to-_49f8135ed2.md",
+    "source": "devto",
+    "title": "Hybrid Local + Cloud LLMs in 2026: When to Use Ollama and When to Pay for Fable",
+    "url": "https://dev.to/pavelespitia/hybrid-local-cloud-llms-in-2026-when-to-use-ollama-and-when-to-pay-for-fable-4c1o",
+    "keywords": [
+      "use ollama",
+      "use ollama",
+      "one ...",
+      "local model",
+      "hybrid local",
+      "hybrid local",
+      "common question",
+      "cloud models",
+      "cloud llms",
+      "cloud llms"
+    ],
+    "summary": "# Hybrid Local + Cloud LLMs in 2026: When to Use Ollama and When to Pay for Fable > Source: devto | Category: news | 2026-07-12T19:21:52Z I run a local model and I pay for cloud models, and the most common question I get is \"which one..."
+  },
+  "c964de3e88a5b648": {
+    "file": "corpus/devto/dev_to_beontime_davit_your-export-is-lying-to-you-4-bugs-we-_dc3d4aa456.md",
+    "source": "devto",
+    "title": "Your Export Is Lying to You: 4 Bugs We Shipped in a Jira Forge App",
+    "url": "https://dev.to/beontime_davit/your-export-is-lying-to-you-4-bugs-we-shipped-in-a-jira-forge-app-5eah",
+    "keywords": [
+      "resource management app",
+      "jira forge app",
+      "jira forge app",
+      "4 bugs",
+      "4 bugs",
+      "jira",
+      "timesheets",
+      "source",
+      "shipped",
+      "shipped"
+    ],
+    "summary": "# Your Export Is Lying to You: 4 Bugs We Shipped in a Jira Forge App > Source: devto | Category: news | 2026-07-12T19:21:51Z We build a resource management app for Jira on Atlassian Forge — capacity planning, timesheets, and..."
   }
 }
