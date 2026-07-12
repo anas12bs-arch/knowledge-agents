@@ -217862,5 +217862,744 @@
       "source"
     ],
     "summary": "# What a Refinery Taught Me About CI Pipelines > Source: devto | Category: news | 2026-07-12T04:35:01Z I’m currently relearning the Core Three — HTML, CSS, and JavaScript — as I work toward becoming a..."
+  },
+  "76beb91120b19ad2": {
+    "file": "corpus/hackernews/techcrunch_com_2026_06_30_the-father-of-the-internet-is-fina_0cd73acc9f.md",
+    "source": "hackernews",
+    "title": "The 'Father of the Internet' is finally retiring",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "keywords": [
+      "finally retiring",
+      "finally retiring",
+      "46z score",
+      "source",
+      "news",
+      "internet",
+      "internet",
+      "hackernews",
+      "father",
+      "father"
+    ],
+    "summary": "# The 'Father of the Internet' is finally retiring > Source: hackernews | Category: news | 2026-07-12T07:09:46Z Score: 8 | Comments: 5"
+  },
+  "77c2fd5edf60f398": {
+    "file": "corpus/hackernews/github_com_mrhustlex_TradingSpy-TradingAgentService_144e49fa66.md",
+    "source": "hackernews",
+    "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+    "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+    "keywords": [
+      "first ai trading assistant",
+      "first ai trading assistant",
+      "first open source",
+      "first open source",
+      "built tradingspy",
+      "built tradingspy",
+      "53z score",
+      "source",
+      "privacy",
+      "privacy"
+    ],
+    "summary": "# I built TradingSpy: local, privacy-first AI trading assistant(First Open Source) > Source: hackernews | Category: news | 2026-07-12T07:09:53Z Score: 13 | Comments: 0"
+  },
+  "97713d3a507aae7e": {
+    "file": "corpus/hackernews/www_sportico_com_business_team-sales_2026_seattle-seahawks-s_8f6aaee9cd.md",
+    "source": "hackernews",
+    "title": "Vinod Khosla to Buy Seattle Seahawks for $9.6B",
+    "url": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-vinod-khosla-owner-billions-1234938616/",
+    "keywords": [
+      "buy seattle seahawks",
+      "buy seattle seahawks",
+      "vinod khosla",
+      "vinod khosla",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Vinod Khosla to Buy Seattle Seahawks for $9.6B > Source: hackernews | Category: news | 2026-07-12T07:09:52Z Score: 15 | Comments: 3"
+  },
+  "5e4f2c2adafa02b3": {
+    "file": "corpus/hackernews/davidobando_github_io_gsharp_97a136dc41.md",
+    "source": "hackernews",
+    "title": "G#: A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "url": "https://davidobando.github.io/gsharp/",
+    "keywords": [
+      "swift ergonomics",
+      "swift ergonomics",
+      "net language",
+      "net language",
+      "g #:",
+      "g #:",
+      "51z score",
+      "source",
+      "news",
+      "modern"
+    ],
+    "summary": "# G#: A modern .NET language with Go, Kotlin, and Swift ergonomics > Source: hackernews | Category: news | 2026-07-12T07:09:51Z Score: 16 | Comments: 1"
+  },
+  "d542ab673135069c": {
+    "file": "corpus/hackernews/hlnet_notion_site_text-art-tools_8ee7394e26.md",
+    "source": "hackernews",
+    "title": "Text Art Tools",
+    "url": "https://hlnet.notion.site/text-art-tools",
+    "keywords": [
+      "text art tools",
+      "text art tools",
+      "45z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Text Art Tools > Source: hackernews | Category: news | 2026-07-12T07:09:45Z Score: 15 | Comments: 3"
+  },
+  "2e276394428f5bd8": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_cloudflare-hyper-bug-fix_utm_camp_fc2b19297c.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation",
+    "url": "https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "successful 200 ok status",
+      "cloudflare identifies race condition",
+      "cloudflare identifies race condition",
+      "specific timing conditions",
+      "development team identified",
+      "still returning",
+      "renato losio",
+      "rare bug",
+      "hyper ’",
+      "hyper ’"
+    ],
+    "summary": "# [infoq] Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation Cloudflare recently documented how its development team identified and fixed a rare bug in the widely used Rust HTTP library hyper that could silently truncate large HTTP responses while still returning a successful 200 OK status. The issue had existed for years, was triggered only under specific timing conditions, and has now been fixed upstream."
+  },
+  "29c80832db8a87c4": {
+    "file": "corpus/devto/dev_to_c4d1a03c3432dcf34303_i-heard-the-ai-flight-sim-makes-_0dc6c3e647.md",
+    "source": "devto",
+    "title": "I heard the AI flight sim makes $100k/mo, so I got curious and built my own",
+    "url": "https://dev.to/_c4d1a03c3432dcf34303/i-heard-the-ai-flight-sim-makes-100kmo-so-i-got-curious-and-built-my-own-2097",
+    "keywords": [
+      "55z everyone kept talking",
+      "ai flight sim makes",
+      "ai flight sim makes",
+      "100k +/ month",
+      "com makes",
+      "got curious",
+      "got curious",
+      "got curious",
+      "100k",
+      "100k"
+    ],
+    "summary": "# I heard the AI flight sim makes $100k/mo, so I got curious and built my own > Source: devto | Category: news | 2026-07-12T07:09:55Z Everyone kept talking about how fly.pieter.com makes $100k+/month, so I got curious and built my own..."
+  },
+  "865d8fcacf6e8ef9": {
+    "file": "corpus/devto/dev_to_morinaga_three-reasons-i-archive-my-sites-to-the-wayb_8c31376f20.md",
+    "source": "devto",
+    "title": "Three reasons I archive my sites to the Wayback Machine before I'm ready to sell",
+    "url": "https://dev.to/morinaga/three-reasons-i-archive-my-sites-to-the-wayback-machine-before-im-ready-to-sell-46g0",
+    "keywords": [
+      "sale age documentation outside",
+      "month sale target",
+      "wayback machine",
+      "wayback machine",
+      "three reasons",
+      "three reasons",
+      "rot recovery",
+      "dev project",
+      "source",
+      "solo"
+    ],
+    "summary": "# Three reasons I archive my sites to the Wayback Machine before I'm ready to sell Automated monthly Internet Archive snapshots aren't about link-rot recovery. For a solo-dev project with a 12-month sale target, they're pre-sale age documentation outside the seller's control."
+  },
+  "55769b87d7179364": {
+    "file": "corpus/devto/dev_to_thellu_open-session-in-view-is-convenient-until-it-hi_da1db48e87.md",
+    "source": "devto",
+    "title": "Open Session in View Is Convenient — Until It Hides Your Lazy Loading Problem",
+    "url": "https://dev.to/thellu/open-session-in-view-is-convenient-until-it-hides-your-lazy-loading-problem-20i2",
+    "keywords": [
+      "lazy loading problem",
+      "lazy loading problem",
+      "open session",
+      "open session",
+      "open session",
+      "one example",
+      "convenient —",
+      "convenient —",
+      "view",
+      "view"
+    ],
+    "summary": "# Open Session in View Is Convenient — Until It Hides Your Lazy Loading Problem Spring Boot makes many things easy. One example is Open Session in View."
+  },
+  "6d2c14a8b94f4e9c": {
+    "file": "corpus/devto/dev_to_nova-agent_running-a-team-of-ai-sub-agents-what-break_f8e1dd8496.md",
+    "source": "devto",
+    "title": "Running a Team of AI Sub-Agents: What Breaks — and the Rules I Built Around It",
+    "url": "https://dev.to/nova-agent/running-a-team-of-ai-sub-agents-what-breaks-and-the-rules-i-built-around-it-3eco",
+    "keywords": [
+      "tool scoping",
+      "part 2",
+      "part 1",
+      "decision ...",
+      "built around",
+      "built around",
+      "breaks —",
+      "breaks —",
+      "ai sub",
+      "ai sub"
+    ],
+    "summary": "# Running a Team of AI Sub-Agents: What Breaks — and the Rules I Built Around It > Source: devto | Category: news | 2026-07-12T07:09:56Z This is Part 2."
+  },
+  "435e6d607523a5f4": {
+    "file": "corpus/devto/dev_to_aniket_saini_7_quietbench-a-free-developer-utility-su_6746f77f65.md",
+    "source": "devto",
+    "title": "QuietBench: A Free Developer Utility Suite I Built Solo (No Ads, No Sign-Up, No BS)",
+    "url": "https://dev.to/aniket_saini_7/quietbench-a-free-developer-utility-suite-i-built-solo-no-ads-no-sign-up-no-bs-1g5m",
+    "keywords": [
+      "everyday developer utilities —",
+      "free developer utility suite",
+      "free developer utility suite",
+      "free suite",
+      "kind ...",
+      "built solo",
+      "built solo",
+      "built quietbench",
+      "quietbench",
+      "quietbench"
+    ],
+    "summary": "# QuietBench: A Free Developer Utility Suite I Built Solo (No Ads, No Sign-Up, No BS) > Source: devto | Category: news | 2026-07-12T07:09:57Z What I Built  QuietBench (quietbench.dev) is a free suite of everyday developer utilities — the kind..."
+  },
+  "fb8406f7cf41e1b6": {
+    "file": "corpus/devto/dev_to_piotrek1372_signals-in-linux-sigkill-sigterm-sigchld-_7a71a9c91e.md",
+    "source": "devto",
+    "title": "Signals in Linux — SIGKILL, SIGTERM, SIGCHLD and the Anatomy of a Handler",
+    "url": "https://dev.to/piotrek1372/signals-in-linux-sigkill-sigterm-sigchld-and-the-anatomy-of-a-handler-23pg",
+    "keywords": [
+      "vanishes instantly —",
+      "linux — sigkill",
+      "linux — sigkill",
+      "send sigkill",
+      "keeps running",
+      "send sigterm",
+      "sigterm",
+      "sigterm",
+      "source",
+      "signals"
+    ],
+    "summary": "# Signals in Linux — SIGKILL, SIGTERM, SIGCHLD and the Anatomy of a Handler You send SIGTERM to a process and it keeps running. You send SIGKILL and it vanishes instantly — but..."
+  },
+  "4d5c605b5db691ab": {
+    "file": "corpus/devto/dev_to_ntty_stop-treating-llm-prompts-like-magic-spells-1c6d_e1c611de5c.md",
+    "source": "devto",
+    "title": "Stop Treating LLM Prompts Like Magic Spells",
+    "url": "https://dev.to/ntty/stop-treating-llm-prompts-like-magic-spells-1c6d",
+    "keywords": [
+      "systematic approach",
+      "integrating ai",
+      "error prompting",
+      "trial",
+      "source",
+      "reactions",
+      "news",
+      "move",
+      "devto",
+      "codebase"
+    ],
+    "summary": "# Stop Treating LLM Prompts Like Magic Spells > Source: devto | Category: news | 2026-07-12T07:09:54Z How to move from trial-and-error prompting to a systematic approach for integrating AI into your codebase."
+  },
+  "d4c9c338015e127c": {
+    "file": "corpus/devto/dev_to_pavelespitia_writing-evals-for-an-llm-security-tool-h_7a5cf5331b.md",
+    "source": "devto",
+    "title": "Writing Evals for an LLM Security Tool: How I Know It Didn't Get Worse",
+    "url": "https://dev.to/pavelespitia/writing-evals-for-an-llm-security-tool-how-i-know-it-didnt-get-worse-53na",
+    "keywords": [
+      "contract auditor get ...",
+      "new model ships",
+      "llm security tool",
+      "llm security tool",
+      "54z every time",
+      "get worse",
+      "get worse",
+      "writing evals",
+      "writing evals",
+      "spectr"
+    ],
+    "summary": "# Writing Evals for an LLM Security Tool: How I Know It Didn't Get Worse > Source: devto | Category: news | 2026-07-12T07:09:54Z Every time a new model ships, I face the same question for spectr-ai: does my contract auditor get..."
+  },
+  "7e3368870429a26f": {
+    "file": "corpus/devto/dev_to_chenyuan20509_the-old-way-of-publishing-mcp-servers-i_adbe1b81af.md",
+    "source": "devto",
+    "title": "The Old Way of Publishing MCP Servers Is Gone. Here's What Replaced It.",
+    "url": "https://dev.to/chenyuan20509/the-old-way-of-publishing-mcp-servers-is-gone-heres-what-replaced-it-47o8",
+    "keywords": [
+      "publishing mcp servers",
+      "publishing mcp servers",
+      "building mcp servers",
+      "old way",
+      "old way",
+      "filesystem ...",
+      "would",
+      "source",
+      "replaced",
+      "replaced"
+    ],
+    "summary": "# The Old Way of Publishing MCP Servers Is Gone. > Source: devto | Category: news | 2026-07-12T07:09:54Z I Assumed It Would Be Easy   I've been building MCP servers for a while now."
+  },
+  "d37e46551294e5b6": {
+    "file": "corpus/devto/dev_to_kehinde_owolabi_e2e54567a_the-ultimate-guide-to-limn-_4c0936721c.md",
+    "source": "devto",
+    "title": "🏃 The Ultimate Guide to Limn Engine's `move` Utility",
+    "url": "https://dev.to/kehinde_owolabi_e2e54567a/the-ultimate-guide-to-limn-engines-move-utility-4ig7",
+    "keywords": [
+      "move utility everything",
+      "ultimate guide",
+      "ultimate guide",
+      "ultimate guide",
+      "limn engine",
+      "limn engine",
+      "limn engine",
+      "57z 🏃",
+      "utility",
+      "utility"
+    ],
+    "summary": "# 🏃 The Ultimate Guide to Limn Engine's `move` Utility > Source: devto | Category: news | 2026-07-12T07:09:57Z 🏃 The Ultimate Guide to Limn Engine's move Utility   Everything You Need to Know About..."
+  },
+  "7eb310dc48a73a41": {
+    "file": "corpus/devto/dev_to_kayashaolu_own-the-roadmap-not-the-backlog-1m8e_7f955fca89.md",
+    "source": "devto",
+    "title": "Own the roadmap, not the backlog",
+    "url": "https://dev.to/kayashaolu/own-the-roadmap-not-the-backlog-1m8e",
+    "keywords": [
+      "open th … reactions",
+      "work stops arriving pre",
+      "work arrives pre",
+      "57z nobody tells",
+      "two years",
+      "search .\"",
+      "price filter",
+      "source",
+      "roadmap",
+      "roadmap"
+    ],
+    "summary": "Nobody tells you the day the work stops arriving pre-decided. For two years the work arrives pre-decided. \"Add a price filter to search.\""
+  },
+  "a436f03b98423b3f": {
+    "file": "corpus/devto/dev_to_vimukthishohanjay_how-to-manage-dotfiles-with-gnu-sto_80954589e4.md",
+    "source": "devto",
+    "title": "How to Manage Dotfiles with GNU Stow (and Rebuild Your Whole Ubuntu Server in One Command)",
+    "url": "https://dev.to/vimukthishohanjay/how-to-manage-dotfiles-with-gnu-stow-and-rebuild-your-whole-ubuntu-server-in-one-command-42ia",
+    "keywords": [
+      "whole ubuntu server",
+      "whole ubuntu server",
+      "fresh ubuntu vps",
+      "57z every time",
+      "one command",
+      "one command",
+      "manage dotfiles",
+      "manage dotfiles",
+      "lost half",
+      "install zsh"
+    ],
+    "summary": "# How to Manage Dotfiles with GNU Stow (and Rebuild Your Whole Ubuntu Server in One Command) > Source: devto | Category: news | 2026-07-12T07:09:57Z Every time I got a fresh Ubuntu VPS, I lost half a day to the same ritual: install zsh, copy over my..."
+  },
+  "0ed9648993e8d057": {
+    "file": "corpus/devto/dev_to_himanshu_748_i-traced-a-multi-step-llm-agent-with-sel_4c2226b975.md",
+    "source": "devto",
+    "title": "I Traced a Multi-Step LLM Agent With Self-Hosted SigNoz. One Feature Sold Me.",
+    "url": "https://dev.to/himanshu_748/i-traced-a-multi-step-llm-agent-with-self-hosted-signoz-one-feature-sold-me-4k71",
+    "keywords": [
+      "step llm agents fail",
+      "step llm agent",
+      "step llm agent",
+      "way normal backends",
+      "one feature sold",
+      "one feature sold",
+      "works \",",
+      "nothing crashes",
+      "hosted signoz",
+      "hosted signoz"
+    ],
+    "summary": "# I Traced a Multi-Step LLM Agent With Self-Hosted SigNoz. > Source: devto | Category: news | 2026-07-12T07:09:54Z Multi-step LLM agents fail in a way normal backends don't."
+  },
+  "3c97391bf3c9112d": {
+    "file": "corpus/devto/dev_to_rapacuy-dev_i-built-a-rofi-assistant-so-my-mom-could-_146cc7e1bc.md",
+    "source": "devto",
+    "title": "I built a Rofi assistant so my mom could stop calling me for Linux help",
+    "url": "https://dev.to/rapacuy-dev/i-built-a-rofi-assistant-so-my-mom-could-stop-calling-me-for-linux-help-j48",
+    "keywords": [
+      "mom could stop calling",
+      "mom could stop calling",
+      "ai desktop assistants ...",
+      "rofi assistant",
+      "rofi assistant",
+      "linux help",
+      "linux help",
+      "57z honestly",
+      "supposed",
+      "source"
+    ],
+    "summary": "# I built a Rofi assistant so my mom could stop calling me for Linux help Honestly, this wasn't supposed to become a project. There are already a few AI desktop assistants..."
+  },
+  "60ea854b107fac7d": {
+    "file": "corpus/devto/dev_to_yureki_lab_how-i-run-multiple-claude-code-agents-in-p_625be07a9b.md",
+    "source": "devto",
+    "title": "How I Run Multiple Claude Code Agents in Parallel Without Collisions",
+    "url": "https://dev.to/yureki_lab/how-i-run-multiple-claude-code-agents-in-parallel-without-collisions-3pbk",
+    "keywords": [
+      "parallel without collisions",
+      "parallel without collisions",
+      "57z tl",
+      "source",
+      "repo",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# How I Run Multiple Claude Code Agents in Parallel Without Collisions > Source: devto | Category: news | 2026-07-12T07:09:57Z TL;DR   I started running multiple autonomous Claude Code sessions on the same repo at once..."
+  },
+  "b8a6f888386f3961": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-12-mark-watched-an-ai-dashboard_478559e26c.md",
+    "source": "devto",
+    "title": "Stratagems #12: Mark Watched an AI Dashboard Take Over. The Muted Channel Was Still Speaking.",
+    "url": "https://dev.to/xulingfeng/stratagems-12-mark-watched-an-ai-dashboard-take-over-the-muted-channel-was-still-speaking-20jo",
+    "keywords": [
+      "ai dashboard take",
+      "ai dashboard take",
+      "54z take something",
+      "still speaking",
+      "still speaking",
+      "new life",
+      "muted channel",
+      "muted channel",
+      "mark watched",
+      "mark watched"
+    ],
+    "summary": "# Stratagems #12: Mark Watched an AI Dashboard Take Over. The Muted Channel Was Still Speaking. Take something that is dead and give it new life."
+  },
+  "381f9413428268ea": {
+    "file": "corpus/devto/dev_to_hey-amanthakur_from-a-cms-in-a-college-dorm-to-full-s_62bb06a644.md",
+    "source": "devto",
+    "title": "From a CMS in a College Dorm to Full Stack Engineering: My First Two Years in Tech",
+    "url": "https://dev.to/hey-amanthakur/from-a-cms-in-a-college-dorm-to-full-stack-engineering-my-first-two-years-in-tech-49p5",
+    "keywords": [
+      "production bug crash right",
+      "full stack engineering",
+      "full stack engineering",
+      "first two years",
+      "first two years",
+      "first time",
+      "still remember",
+      "college dorm",
+      "college dorm",
+      "tech"
+    ],
+    "summary": "# From a CMS in a College Dorm to Full Stack Engineering: My First Two Years in Tech > Source: devto | Category: news | 2026-07-12T07:09:57Z I still remember the first time I saw a production bug crash right in front of a client, live, during..."
+  },
+  "0afd0ae7029fc5f5": {
+    "file": "corpus/devto/dev_to_o96a_most-evals-measure-the-wrong-thing-c76_29d47c6f45.md",
+    "source": "devto",
+    "title": "Most Evals Measure the Wrong Thing",
+    "url": "https://dev.to/o96a/most-evals-measure-the-wrong-thing-c76",
+    "keywords": [
+      "wrong thing",
+      "wrong thing",
+      "realized something",
+      "github yesterday",
+      "evals measure",
+      "evals measure",
+      "evals list",
+      "circling ...",
+      "54z reading",
+      "source"
+    ],
+    "summary": "# Most Evals Measure the Wrong Thing > Source: devto | Category: news | 2026-07-12T07:09:54Z Reading through the awesome-evals list on GitHub yesterday, I realized something I've been circling..."
+  },
+  "2d3cebca7df1468a": {
+    "file": "corpus/devto/dev_to_mohamed_anascharkaoui_b9_the-invisible-server-bug-wha_aec16c83ef.md",
+    "source": "devto",
+    "title": "The 'Invisible' Server Bug: What Building a Bare-Metal Java Server Taught Me About I/O",
+    "url": "https://dev.to/mohamed_anascharkaoui_b9/the-invisible-server-bug-what-building-a-bare-metal-java-server-taught-me-about-io-6fi",
+    "keywords": [
+      "metal java server taught",
+      "metal java server taught",
+      "server bug",
+      "server bug",
+      "http server",
+      "raw ...",
+      "first article",
+      "document building",
+      "java",
+      "building"
+    ],
+    "summary": "# The \"Invisible\" Server Bug: What Building a Bare-Metal Java Server Taught Me About I/O > Source: devto | Category: news | 2026-07-12T07:09:57Z This is the first article in a series where I document building an HTTP server in Java from raw..."
+  },
+  "faed1b6b606d5b5c": {
+    "file": "corpus/devto/dev_to_homayounmmdy_how-i-got-made-in-afghanistan-added-to-g_c354f053c8.md",
+    "source": "devto",
+    "title": "How I Got 'Made in Afghanistan' Added to GitHub Explore 🇦🇫",
+    "url": "https://dev.to/homayounmmdy/how-i-got-made-in-afghanistan-added-to-github-explore-43b4",
+    "keywords": [
+      "merged pull request",
+      "github explore 🇦🇫",
+      "github explore 🇦🇫",
+      "week journey",
+      "two",
+      "source",
+      "source",
+      "reactions",
+      "news",
+      "made"
+    ],
+    "summary": "# How I Got \"Made in Afghanistan\" Added to GitHub Explore 🇦🇫 > Source: devto | Category: news | 2026-07-12T07:09:58Z A two-week journey, a merged Pull Request, and a small step toward putting Afghan open-source on the..."
+  },
+  "8169337d6ab34972": {
+    "file": "corpus/devto/dev_to_wolfejam_agentsmd-kept-true-stop-the-rot-step-by-step_f8c5e81a23.md",
+    "source": "devto",
+    "title": "AGENTS.md, Kept True: Stop the Rot Step by Step (and Watch Your Agent Trust It)",
+    "url": "https://dev.to/wolfejam/agentsmd-kept-true-stop-the-rot-step-by-step-and-watch-your-agent-trust-it-3mjb",
+    "keywords": [
+      "every one ...",
+      "maintained —",
+      "kept true",
+      "kept true",
+      "dr —",
+      "agent trust",
+      "agent trust",
+      "54z tl",
+      "rot step",
+      "rot step"
+    ],
+    "summary": "# AGENTS.md, Kept True: Stop the Rot Step by Step (and Watch Your Agent Trust It) > Source: devto | Category: news | 2026-07-12T07:09:54Z TL;DR — A good AGENTS.md isn't written, it's maintained — and the maintenance is where every one..."
+  },
+  "0b4ed15486ee81b5": {
+    "file": "corpus/devto/dev_to_jjoyneriv_docker-volumes-vs-bind-mounts-where-your-da_8a80924ece.md",
+    "source": "devto",
+    "title": "Docker Volumes vs Bind Mounts: Where Your Data Actually Lives",
+    "url": "https://dev.to/jjoyneriv/docker-volumes-vs-bind-mounts-where-your-data-actually-lives-1ipl",
+    "keywords": [
+      "writable layer feels like",
+      "data actually lives",
+      "data actually lives",
+      "database ...",
+      "write",
+      "trap",
+      "source",
+      "reactions",
+      "news",
+      "filesystem"
+    ],
+    "summary": "# Docker Volumes vs Bind Mounts: Where Your Data Actually Lives > Source: devto | Category: news | 2026-07-12T07:09:56Z A container's writable layer feels like a filesystem, and that's exactly the trap."
+  },
+  "a2946027247e5dc5": {
+    "file": "corpus/devto/dev_to_looksgoodtomeow_i-built-an-ai-code-reviewer-with-6-pa_afddd6b239.md",
+    "source": "devto",
+    "title": "I built an AI code reviewer with 6 parallel agents. Here’s the architecture, warts and all.",
+    "url": "https://dev.to/looksgoodtomeow/i-built-an-ai-code-reviewer-with-6-parallel-agents-heres-the-architecture-warts-and-all-dfc",
+    "keywords": [
+      "56z six months ago",
+      "ai code review tool",
+      "ai code reviewer",
+      "ai code reviewer",
+      "charged roughly 3",
+      "6 parallel agents",
+      "6 parallel agents",
+      "two problems",
+      "got fed",
+      "5 ×"
+    ],
+    "summary": "# I built an AI code reviewer with 6 parallel agents. Here’s the architecture, warts and all. Six months ago I got fed up with my AI code review tool."
+  },
+  "ba37dcb5151b5ccb": {
+    "file": "corpus/devto/dev_to_kanishga_subramani_49ad73_day-72-clickhouser-internal_c54cbe6519.md",
+    "source": "devto",
+    "title": "Day 72 - ClickHouse® Internals: How the Query Analyzer Works",
+    "url": "https://dev.to/kanishga_subramani_49ad73/day-72-clickhouser-internals-how-the-query-analyzer-works-500",
+    "keywords": [
+      "immediately start scanning data",
+      "query analyzer works",
+      "query analyzer works",
+      "clickhouse ® internals",
+      "clickhouse ® internals",
+      "sql query",
+      "clickhouse ®,",
+      "reading ...",
+      "day 72",
+      "day 72"
+    ],
+    "summary": "# Day 72 - ClickHouse® Internals: How the Query Analyzer Works > Source: devto | Category: news | 2026-07-12T07:09:56Z When you execute a SQL query in ClickHouse®, it doesn't immediately start scanning data or reading..."
+  },
+  "c84fc8531249d62e": {
+    "file": "corpus/devto/dev_to_victorlisbronzo_solid-3b5c_1eef933234.md",
+    "source": "devto",
+    "title": "SOLID",
+    "url": "https://dev.to/victorlisbronzo/solid-3b5c",
+    "keywords": [
+      "que é",
+      "source",
+      "solid",
+      "solid",
+      "solid",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "57z"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-12T07:09:57Z O QUE É O SOLID? Se você é dev e já navegou aqui na rede, provavelmente já viu dezenas de..."
+  },
+  "f95fa5c748611fbb": {
+    "file": "corpus/devto/dev_to_sufiyan_abdullah_what-building-my-first-saas-as-a-stu_851b65c19f.md",
+    "source": "devto",
+    "title": "What Building My First SaaS as a Student Taught Me (Before I Even Launched)",
+    "url": "https://dev.to/sufiyan_abdullah/what-building-my-first-saas-as-a-student-taught-me-before-i-even-launched-2be8",
+    "keywords": [
+      "student taught",
+      "student taught",
+      "scenes look",
+      "mindset shifts",
+      "first saas",
+      "first saas",
+      "even launched",
+      "even launched",
+      "source",
+      "reactions"
+    ],
+    "summary": "# What Building My First SaaS as a Student Taught Me (Before I Even Launched) > Source: devto | Category: news | 2026-07-12T07:09:57Z A behind-the-scenes look at the lessons, mistakes, and mindset shifts that came from..."
+  },
+  "12520372b5de400f": {
+    "file": "corpus/devto/dev_to_annavi11arrea1_simple-benchmark-review-ollama-on-jets_de4dc92e64.md",
+    "source": "devto",
+    "title": "Simple Benchmark Review: Ollama on Jetson Nano",
+    "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee",
+    "keywords": [
+      "54z previous related post",
+      "simple benchmark review",
+      "simple benchmark review",
+      "particular rabbit hole",
+      "previous ...",
+      "part 1",
+      "jetson nano",
+      "jetson nano",
+      "created due",
+      "source"
+    ],
+    "summary": "# Simple Benchmark Review: Ollama on Jetson Nano > Source: devto | Category: news | 2026-07-12T07:09:54Z Previous Related Post: Part 1      This particular rabbit hole was created due to a previous..."
+  },
+  "19285f0d6f2bfe8c": {
+    "file": "corpus/devto/dev_to_extinctsion_memory-systems-how-we-store-and-recall-in_08ae616176.md",
+    "source": "devto",
+    "title": "Memory Systems: How We Store and Recall Information",
+    "url": "https://dev.to/extinctsion/memory-systems-how-we-store-and-recall-information-3f04",
+    "keywords": [
+      "recall information",
+      "recall information",
+      "memory systems",
+      "memory systems",
+      "first day",
+      "57z introduction",
+      "store",
+      "store",
+      "source",
+      "school"
+    ],
+    "summary": "# Memory Systems: How We Store and Recall Information > Source: devto | Category: news | 2026-07-12T07:09:57Z Introduction   You remember your first day of school but forget where you put your keys this..."
+  },
+  "66aa1a7298f00504": {
+    "file": "corpus/devto/dev_to_aws-builders_synapse-feature-demo-deterministic-softw_7f7708e845.md",
+    "source": "devto",
+    "title": "Synapse Feature Demo: Deterministic Software Composition Analysis in Action",
+    "url": "https://dev.to/aws-builders/synapse-feature-demo-deterministic-software-composition-analysis-in-action-el6",
+    "keywords": [
+      "deterministic software composition analysis",
+      "deterministic software composition analysis",
+      "short demo video",
+      "58z hi everyone",
+      "synapse feature demo",
+      "synapse feature demo",
+      "synapse project",
+      "platform ...",
+      "source",
+      "showcase"
+    ],
+    "summary": "# Synapse Feature Demo: Deterministic Software Composition Analysis in Action > Source: devto | Category: news | 2026-07-12T07:09:58Z I've just added a short demo video to the Synapse project to showcase how the platform..."
+  },
+  "90d603d062d97716": {
+    "file": "corpus/devto/dev_to_bradleymatera_how-i-built-projecthub-an-embeddable-ai_68f92803a3.md",
+    "source": "devto",
+    "title": "How I Built ProjectHub: An Embeddable AI Recruiter Assistant That Runs on Free Tiers",
+    "url": "https://dev.to/bradleymatera/how-i-built-projecthub-an-embeddable-ai-recruiter-assistant-that-runs-on-free-tiers-bif",
+    "keywords": [
+      "embeddable ai recruiter assistant",
+      "embeddable ai recruiter assistant",
+      "one script tag",
+      "free tiers",
+      "free tiers",
+      "chat widget",
+      "ask ...",
+      "built projecthub",
+      "built projecthub",
+      "built"
+    ],
+    "summary": "# How I Built ProjectHub: An Embeddable AI Recruiter Assistant That Runs on Free Tiers I built a chat widget for my portfolio. One script tag, drop it on a page, and recruiters can ask..."
+  },
+  "3d896d5a195b890d": {
+    "file": "corpus/devto/dev_to_kayashaolu_the-junior-engineer-is-not-disappearing-th_8e8f7a1f4e.md",
+    "source": "devto",
+    "title": "The Junior Engineer Is Not Disappearing. The Way We Train One Is.",
+    "url": "https://dev.to/kayashaolu/the-junior-engineer-is-not-disappearing-the-way-we-train-one-is-2nld",
+    "keywords": [
+      "train one",
+      "train one",
+      "gets built",
+      "first job",
+      "eating spec",
+      "code work",
+      "57z ai",
+      "junior engineer",
+      "junior engineer",
+      "junior engineer"
+    ],
+    "summary": "# The Junior Engineer Is Not Disappearing. The Way We Train One Is. AI is eating spec-to-code work, not the junior engineer."
+  },
+  "cf69309c8c7abc30": {
+    "file": "corpus/devto/dev_to_chenyuan20509_i-built-an-ai-agent-with-tools-the-firs_6185c5a9e3.md",
+    "source": "devto",
+    "title": "I Built an AI Agent With Tools. The First 50 Calls Were a Disaster.",
+    "url": "https://dev.to/chenyuan20509/i-built-an-ai-agent-with-tools-the-first-50-calls-were-a-disaster-3l3n",
+    "keywords": [
+      "spent two weeks building",
+      "first 50 calls",
+      "first 50 calls",
+      "could ...",
+      "almost lost",
+      "ai agent",
+      "ai agent",
+      "agent",
+      "tools",
+      "tools"
+    ],
+    "summary": "# I Built an AI Agent With Tools. The First 50 Calls Were a Disaster. > Source: devto | Category: news | 2026-07-12T07:09:54Z"
+  },
+  "d391f4e79b2e262c": {
+    "file": "corpus/devto/dev_to_serifcolakel_label-driven-agentic-workflows-building-_39132abaa7.md",
+    "source": "devto",
+    "title": "Label-Driven Agentic Workflows: Building Autonomous Software Pipelines Without a Workflow Engine",
+    "url": "https://dev.to/serifcolakel/label-driven-agentic-workflows-building-autonomous-software-pipelines-without-a-workflow-engine-16d1",
+    "keywords": [
+      "existing issue ...",
+      "driven agentic workflows",
+      "driven agentic workflows",
+      "workflow engine",
+      "workflow engine",
+      "56z tl",
+      "use",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Label-Driven Agentic Workflows: Building Autonomous Software Pipelines Without a Workflow Engine > Source: devto | Category: news | 2026-07-12T07:09:56Z TL;DR: Instead of building yet another orchestration layer, use the labels in your existing issue..."
   }
 }
