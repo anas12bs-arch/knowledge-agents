@@ -219923,5 +219923,174 @@
       "wireless adb"
     ],
     "summary": "# [bleeping-comp] RedHook Android malware now uses Wireless ADB for shell access RedHook Android malware now uses Wireless ADB for shell access A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection."
+  },
+  "8a996fbbd8bb3a9f": {
+    "file": "corpus/hackernews/github_com_Vadale_R-ebirth_335fe44350.md",
+    "source": "hackernews",
+    "title": "Relm – local LLMs as base-R objects, with interpretability",
+    "url": "https://github.com/Vadale/R-ebirth",
+    "keywords": [
+      "relm – local llms",
+      "relm – local llms",
+      "r objects",
+      "r objects",
+      "53z score",
+      "source",
+      "news",
+      "interpretability",
+      "interpretability",
+      "hackernews"
+    ],
+    "summary": "# Relm – local LLMs as base-R objects, with interpretability > Source: hackernews | Category: news | 2026-07-12T16:12:53Z Score: 4 | Comments: 0"
+  },
+  "a82b8413e56c37f2": {
+    "file": "corpus/hackernews/github_com_sshwarts_skillscript_a6a2f3ce01.md",
+    "source": "hackernews",
+    "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+    "url": "https://github.com/sshwarts/skillscript",
+    "keywords": [
+      ">)< p >- site",
+      ">)< p >- npm",
+      ">)< p >- docs",
+      "1 hi hn —",
+      "use small local models",
+      "deliberately minimal —",
+      "runtime `< p",
+      "runtime .< p",
+      "data .< p",
+      "works well enough"
+    ],
+    "summary": "Skillscript is a small language I built to write what I want my local agent to actually do, in a form I can read and version, instead of hoping the model gets it right each time.<p>The itch started with something small. I could put it in a system prompt or an MD skill file, but those are still instructions the model reads and reasons about every time. Rough edges I know about: first-run setup takes more steps than it should, some of the grammar is still moving, and the local model integration cu"
+  },
+  "61ca9a42534f05c8": {
+    "file": "corpus/devto/dev_to_rkondoju_i-built-a-personal-agentic-os-that-runs-my-d_eab71530dd.md",
+    "source": "devto",
+    "title": "I built a personal 'Agentic OS' that runs my DBA work — with approval gates, audit trails, and a $0.01 morning brief",
+    "url": "https://dev.to/rkondoju/i-built-a-personal-agentic-os-that-runs-my-dba-work-with-approval-gates-audit-trails-and-a-521f",
+    "keywords": [
+      "first orchestration layer",
+      "01 morning brief",
+      "01 morning brief",
+      "dba work —",
+      "dba work —",
+      "oracle dba",
+      "trust anything",
+      "permission tiers",
+      "mcp tools",
+      "live dashboard"
+    ],
+    "summary": "# I built a personal \"Agentic OS\" that runs my DBA work — with approval gates, audit trails, and a $0.01 morning brief A local-first orchestration layer for AI agents, built by an Oracle DBA who doesn't trust anything that touches a database. Kernel, permission tiers, MCP tools, live dashboard."
+  },
+  "5e9050c5ee912939": {
+    "file": "corpus/devto/dev_to_nishikantaray_insightstrack-pulse-i-taught-claude-des_4098fa3def.md",
+    "source": "devto",
+    "title": "InsightsTrack + Pulse: I taught Claude Desktop to read my web analytics (via MCP)",
+    "url": "https://dev.to/nishikantaray/insightstrack-pulse-i-taught-claude-desktop-to-read-my-web-analytics-via-mcp-13bd",
+    "keywords": [
+      "taught claude desktop",
+      "taught claude desktop",
+      "weekend challenge",
+      "web analytics",
+      "web analytics",
+      "via mcp",
+      "via mcp",
+      "passion edition",
+      "built insightstrack",
+      "insightstrack"
+    ],
+    "summary": "# InsightsTrack + Pulse: I taught Claude Desktop to read my web analytics (via MCP) > Source: devto | Category: news | 2026-07-12T16:12:57Z This is a submission for Weekend Challenge: Passion Edition           What I Built   InsightsTrack is..."
+  },
+  "f26ee6ba1f818987": {
+    "file": "corpus/devto/dev_to_gde03_claude-code-beyond-the-prompt-part-5-why-i-stop_5ae0a9b903.md",
+    "source": "devto",
+    "title": "Claude Code, Beyond the Prompt — Part 5: Why I Stopped Letting Claude grep (Semantic Code Search)",
+    "url": "https://dev.to/gde03/claude-code-beyond-the-prompt-part-5-why-i-stopped-letting-claude-grep-semantic-code-search-1n4e",
+    "keywords": [
+      "live automated trading system",
+      "stopped letting claude grep",
+      "stopped letting claude grep",
+      "prompt — part 5",
+      "prompt — part 5",
+      "prompt — patterns",
+      "57z part 5",
+      "semantic code search",
+      "semantic code search",
+      "claude code"
+    ],
+    "summary": "# Claude Code, Beyond the Prompt — Part 5: Why I Stopped Letting Claude grep (Semantic Code Search) > Source: devto | Category: news | 2026-07-12T16:12:57Z Part 5 of Claude Code, Beyond the Prompt — patterns from running a live automated trading system on..."
+  },
+  "0eef9673b8f69118": {
+    "file": "corpus/devto/dev_to_vladislavshter_egregor-local-multi-ai-consilium-for-c_bd494cd576.md",
+    "source": "devto",
+    "title": "Egregor: Local Multi-AI Consilium for Comprehensive Smart Contract and Code Audits",
+    "url": "https://dev.to/vladislavshter/egregor-local-multi-ai-consilium-for-comprehensive-smart-contract-and-code-audits-35d",
+    "keywords": [
+      "sovereign ecosystem last updated",
+      "july 2026 finding ...",
+      "comprehensive smart contract",
+      "comprehensive smart contract",
+      "vladislav shter",
+      "local multi",
+      "local multi",
+      "code audits",
+      "code audits",
+      "ai consilium"
+    ],
+    "summary": "# Egregor: Local Multi-AI Consilium for Comprehensive Smart Contract and Code Audits > Source: devto | Category: news | 2026-07-12T16:12:57Z Author: Vladislav Shter, Solo-founder of the Sovereign Ecosystem Last Updated: July 2026  Finding..."
+  },
+  "a518c3934050d084": {
+    "file": "corpus/devto/dev_to_solomonic_the-price-table-most-ai-cost-tools-multiply_c03895a7aa.md",
+    "source": "devto",
+    "title": "The price table most AI cost tools multiply by has one automated test: jq empty",
+    "url": "https://dev.to/solomonic/the-price-table-most-ai-cost-tools-multiply-by-has-one-automated-test-jq-empty-3468",
+    "keywords": [
+      "ai usage costs work",
+      "ai cost tools multiply",
+      "ai cost tools multiply",
+      "one automated test",
+      "one automated test",
+      "count tokens locally",
+      "multiply ...",
+      "price table",
+      "price table",
+      "jq empty"
+    ],
+    "summary": "# \"The price table most AI cost tools multiply by has one automated test: jq empty > Source: devto | Category: news | 2026-07-12T16:12:57Z Most tools that tell you what your AI usage costs work the same way: count tokens locally, multiply..."
+  },
+  "bf1f19bc1459be43": {
+    "file": "corpus/devto/dev_to_yuhaolin2005_i-told-my-ai-youre-safe-to-say-i-dont-kn_06cb874d99.md",
+    "source": "devto",
+    "title": "I Told My AI 'You're Safe to Say I Don't Know.' Then I Measured What Changed — With Logprobs.",
+    "url": "https://dev.to/yuhaolin2005/i-told-my-ai-youre-safe-to-say-i-dont-know-then-i-measured-what-changed-with-logprobs-986",
+    "keywords": [
+      "something —",
+      "know .'",
+      "know .\"",
+      "changed —",
+      "changed —",
+      "admit uncertainty",
+      "ai agent",
+      "told"
+    ],
+    "summary": "# I Told My AI \"You're Safe to Say I Don't Know.\" Then I Measured What Changed — With Logprobs. My AI agent has a problem."
+  },
+  "0a6adcab1f42064d": {
+    "file": "corpus/devto/dev_to_ujja_passion-atlas-a-living-map-of-human-curiosity-29_c2d2fe1c60.md",
+    "source": "devto",
+    "title": "Passion Atlas: A Living Map of Human Curiosity",
+    "url": "https://dev.to/ujja/passion-atlas-a-living-map-of-human-curiosity-298h",
+    "keywords": [
+      "built passion ...",
+      "passion edition",
+      "passion atlas",
+      "passion atlas",
+      "weekend challenge",
+      "living map",
+      "living map",
+      "human curiosity",
+      "human curiosity",
+      "built"
+    ],
+    "summary": "# Passion Atlas: A Living Map of Human Curiosity > Source: devto | Category: news | 2026-07-12T16:12:58Z This is a submission for Weekend Challenge: Passion Edition           What I Built   I built Passion..."
   }
 }
