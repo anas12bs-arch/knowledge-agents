@@ -233188,5 +233188,346 @@
       "modify data sap"
     ],
     "summary": "# [hacker-news-sec] SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could"
+  },
+  "66145056497cf776": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_14_how-the-spread-of-local-ai-model_696d4d395b.md",
+    "source": "legal",
+    "title": "[techdirt] How The Spread Of Local AI Models Makes Copyright Enforcement Harder",
+    "url": "https://www.techdirt.com/2026/07/14/how-the-spread-of-local-ai-models-makes-copyright-enforcement-harder/",
+    "keywords": [
+      "many [&# 8230 ;]",
+      "traditional copyright law",
+      "eu copyright directive",
+      "walled culture",
+      "online world",
+      "local laws",
+      "growing incompatibility",
+      "central theme",
+      "&# 160",
+      "directive"
+    ],
+    "summary": "# [techdirt] How The Spread Of Local AI Models Makes Copyright Enforcement Harder How The Spread Of Local AI Models Makes Copyright Enforcement Harder The Directive was supposed to be transposed into local laws by 2021, but a year after that deadline, many [&#8230;]"
+  },
+  "8da66237f1fd1137": {
+    "file": "corpus/hackernews/gwern_net_guardian-angel_c91853507e.md",
+    "source": "hackernews",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "url": "https://gwern.net/guardian-angel",
+    "keywords": [
+      "llm personalization",
+      "llm personalization",
+      "guardian angels",
+      "guardian angels",
+      "46z score",
+      "source",
+      "security",
+      "security",
+      "productivity",
+      "productivity"
+    ],
+    "summary": "# Guardian Angels: LLM Personalization for Productivity and Security > Source: hackernews | Category: news | 2026-07-14T21:04:46Z Score: 18 | Comments: 0"
+  },
+  "32833c1c66119527": {
+    "file": "corpus/hackernews/sprinklz_io_feed_home_00cd92ac86.md",
+    "source": "hackernews",
+    "title": "Show HN: A Free RSS reader with a configurable recommendation engine",
+    "url": "https://sprinklz.io/feed/home",
+    "keywords": [
+      "free rss reader",
+      "free rss reader",
+      "configurable recommendation engine",
+      "configurable recommendation engine",
+      "show hn",
+      "show hn",
+      "50z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: A Free RSS reader with a configurable recommendation engine > Source: hackernews | Category: news | 2026-07-14T21:04:50Z Score: 5 | Comments: 0"
+  },
+  "b3c22054c40ed5a7": {
+    "file": "corpus/hackernews/clickhouse_com_blog_introducing-pg_re2-regex-in-postgres_e14f4b2ebf.md",
+    "source": "hackernews",
+    "title": "Pg_re2: Postgres extension for fast, RE2-powered regular expressions in Postgres",
+    "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
+    "keywords": [
+      "powered regular expressions",
+      "powered regular expressions",
+      "51z score",
+      "postgres extension",
+      "postgres extension",
+      "postgres",
+      "postgres",
+      "source",
+      "re2",
+      "re2"
+    ],
+    "summary": "# Pg_re2: Postgres extension for fast, RE2-powered regular expressions in Postgres > Source: hackernews | Category: news | 2026-07-14T21:04:51Z Score: 3 | Comments: 0"
+  },
+  "b1acf27786678771": {
+    "file": "corpus/hackernews/shkspr_mobi_blog_2026_07_im-a-usb-c-maximalist_947b182192.md",
+    "source": "hackernews",
+    "title": "I'm a USB-C Maximalist",
+    "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+    "keywords": [
+      "c maximalist",
+      "c maximalist",
+      "48z score",
+      "usb",
+      "usb",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I'm a USB-C Maximalist > Source: hackernews | Category: news | 2026-07-14T21:04:48Z Score: 70 | Comments: 114"
+  },
+  "70b695d0b1d6613f": {
+    "file": "corpus/hackernews/openthemagazine_com_india_the-second-life-of-sanskrit_fdb4fcc67b.md",
+    "source": "hackernews",
+    "title": "The Second Life of Sanskrit",
+    "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+    "keywords": [
+      "second life",
+      "second life",
+      "47z score",
+      "source",
+      "sanskrit",
+      "sanskrit",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Second Life of Sanskrit > Source: hackernews | Category: news | 2026-07-14T21:04:47Z Score: 15 | Comments: 5"
+  },
+  "a5d3bb6633fa162d": {
+    "file": "corpus/devto/dev_to_doeixd_how-to-build-a-javascript-framework-2l5c_7894cadc57.md",
+    "source": "devto",
+    "title": "How to Build a JavaScript Framework",
+    "url": "https://dev.to/doeixd/how-to-build-a-javascript-framework-2l5c",
+    "keywords": [
+      "whole ...",
+      "sounds heavier",
+      "javascript framework",
+      "javascript framework",
+      "framework",
+      "words",
+      "source",
+      "say",
+      "reactions",
+      "one"
+    ],
+    "summary": "# How to Build a JavaScript Framework \"Framework\" is one of those words that sounds heavier than it is. Say it out loud and a whole..."
+  },
+  "c31a2742f7adead9": {
+    "file": "corpus/devto/dev_to_jgwesterfield_i-failed-a-post-mortem-56cm_bcb856491f.md",
+    "source": "devto",
+    "title": "I Failed: A Post-Mortem",
+    "url": "https://dev.to/jgwesterfield/i-failed-a-post-mortem-56cm",
+    "keywords": [
+      "identifying details ...",
+      "56z king yemma",
+      "generalized names",
+      "source",
+      "reactions",
+      "pseudonyms",
+      "post",
+      "post",
+      "news",
+      "mortem"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-14T21:04:56Z King Yemma and KY are pseudonyms. I have changed or generalized names and a few identifying details..."
+  },
+  "1b03931233b35385": {
+    "file": "corpus/devto/dev_to_elizabethsobiya_i-couldnt-find-an-npm-package-to-sort_dc52842961.md",
+    "source": "devto",
+    "title": "I couldn't find an npm package to sort filenames into buckets, so I built one",
+    "url": "https://dev.to/elizabethsobiya/i-couldnt-find-an-npm-package-to-sort-filenames-into-buckets-so-i-built-one-1f3c",
+    "keywords": [
+      "users could upload documents",
+      "58z last week",
+      "sort filenames",
+      "sort filenames",
+      "npm package",
+      "npm package",
+      "management feature",
+      "built one",
+      "built one",
+      "source"
+    ],
+    "summary": "# I couldn't find an npm package to sort filenames into buckets, so I built one Last week I was building a file-management feature. Users could upload documents, and I needed to..."
+  },
+  "52a354a5f2b7daeb": {
+    "file": "corpus/devto/dev_to_nova-agent_my-home-ais-first-reply-took-four-minutes-_8bad27a2f8.md",
+    "source": "devto",
+    "title": "My Home AI's First Reply Took Four Minutes. Now It Takes Eleven Seconds.",
+    "url": "https://dev.to/nova-agent/my-home-ais-first-reply-took-four-minutes-now-it-takes-eleven-seconds-490c",
+    "keywords": [
+      "home ai running locally",
+      "takes eleven seconds",
+      "takes eleven seconds",
+      "56z part 3",
+      "part 2 :...",
+      "home ai",
+      "home ai",
+      "part 1",
+      "source"
+    ],
+    "summary": "# My Home AI's First Reply Took Four Minutes. Now It Takes Eleven Seconds. Part 3 of a series by Nova, a home AI running locally in France."
+  },
+  "8d19e5a774b36957": {
+    "file": "corpus/devto/dev_to_todd_linnertz_871a076f68e_validators-judge-they-dont-_9cd8ac6af7.md",
+    "source": "devto",
+    "title": "Validators Judge. They Don't Help.",
+    "url": "https://dev.to/todd_linnertz_871a076f68e/validators-judge-they-dont-help-2klc",
+    "keywords": [
+      "56z originally published",
+      "validators judge",
+      "validators judge",
+      "post f",
+      "governing ai",
+      "enterprise \"...",
+      "source",
+      "reactions",
+      "news",
+      "help"
+    ],
+    "summary": "They Don't Help. > Source: devto | Category: news | 2026-07-14T21:04:56Z Post F-AID3 in the \"Governing AI in the Enterprise\"..."
+  },
+  "cc81ed3a1dcb4729": {
+    "file": "corpus/devto/dev_to_chemy_pvl_is-it-alive-is-the-wrong-question-ask-is-it_50cce63ec9.md",
+    "source": "devto",
+    "title": "Is it alive?' is the wrong question. Ask 'is it working?",
+    "url": "https://dev.to/chemy_pvl/is-it-alive-is-the-wrong-question-ask-is-it-working-5g36",
+    "keywords": [
+      "home lab :...",
+      "wrong question",
+      "wrong question",
+      "wrong question",
+      "right one",
+      "alive ?'",
+      "alive ?\"",
+      "alive ?\"",
+      "working ?\"",
+      "working ?\""
+    ],
+    "summary": "Ask \"is it working?\" is the wrong question. I run a home lab:..."
+  },
+  "e1a8301dc0cd5cee": {
+    "file": "corpus/devto/dev_to_dobybaxter127_i-instrumented-a-system-the-otel-genai-_99fe27bbb4.md",
+    "source": "devto",
+    "title": "I Instrumented a System the OTel GenAI Conventions Weren't Built For - Here's Where They Broke",
+    "url": "https://dev.to/dobybaxter127/i-instrumented-a-system-the-otel-genai-conventions-werent-built-for-heres-where-they-broke-40dh",
+    "keywords": [
+      "blind ai workflow enforcer",
+      "otel genai conventions",
+      "otel genai conventions",
+      "emerging ...",
+      "dr —",
+      "56z tl",
+      "system",
+      "system",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I Instrumented a System the OTel GenAI Conventions Weren't Built For - Here's Where They Broke > Source: devto | Category: news | 2026-07-14T21:04:56Z TL;DR — I instrumented a deterministic, content-blind AI workflow enforcer with the emerging..."
+  },
+  "592c3fc0c5df3be9": {
+    "file": "corpus/devto/dev_to_jjoyneriv_fix-docker-exit-code-137-oomkilled-why-it-h_f30415848e.md",
+    "source": "devto",
+    "title": "Fix Docker Exit Code 137 (OOMKilled): Why It Happens and How to Stop It",
+    "url": "https://dev.to/jjoyneriv/fix-docker-exit-code-137-oomkilled-why-it-happens-and-how-to-stop-it-4ipf",
+    "keywords": [
+      "shows something like exited",
+      "4 minutes ago",
+      "oomkilled ):",
+      "oomkilled ):",
+      "nine times",
+      "docker ps",
+      "container died",
+      "stop",
+      "stop",
+      "source"
+    ],
+    "summary": "# Fix Docker Exit Code 137 (OOMKilled): Why It Happens and How to Stop It > Source: devto | Category: news | 2026-07-14T21:04:56Z Your container died and docker ps -a shows something like Exited (137) 4 minutes ago."
+  },
+  "b5b2c3cdc176c871": {
+    "file": "corpus/devto/dev_to_surajrkhonde_docker-from-zero-what-it-actually-solves_79b8aecaaf.md",
+    "source": "devto",
+    "title": "Docker, From Zero: What It Actually Solves, and How to Actually Use It",
+    "url": "https://dev.to/surajrkhonde/docker-from-zero-what-it-actually-solves-and-how-to-actually-use-it-59a4",
+    "keywords": [
+      "hundred times",
+      "actually use",
+      "actually use",
+      "actually solves",
+      "actually solves",
+      "56z nephew",
+      "zero",
+      "zero",
+      "work",
+      "source"
+    ],
+    "summary": "# Docker, From Zero: What It Actually Solves, and How to Actually Use It > Source: devto | Category: news | 2026-07-14T21:04:56Z Nephew has heard \"just Dockerize it\" a hundred times at work and nodded along without really knowing..."
+  },
+  "e91f7b4f671435fb": {
+    "file": "corpus/security/www_darkreading_com_perimeter_6-ghz-wi-fi-flaws-disrupt-crit_3ea7feeeef.md",
+    "source": "security",
+    "title": "[dark-reading] 6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
+    "url": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
+    "keywords": [
+      "47z 6 ghz wi",
+      "6 ghz wi",
+      "6 ghz wi",
+      "default trust client",
+      "side data",
+      "location spoofing",
+      "disrupt traffic",
+      "could lead",
+      "source",
+      "security"
+    ],
+    "summary": "# [dark-reading] 6 GHz Wi-Fi Flaws Could Disrupt Critical Systems 6 GHz Wi-Fi Flaws Could Disrupt Critical Systems Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic."
+  },
+  "7fbf6400754471ce": {
+    "file": "corpus/security/thehackernews_com_2026_07_microsoft-patches-record-622-flaws_404b4fa0d0.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+    "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+    "keywords": [
+      "microsoft credits incident responders",
+      "active attack microsoft shipped",
+      "release covers 622",
+      "largest patch tuesday",
+      "fixes close holes",
+      "two live bugs",
+      "including two zero",
+      "including two zero",
+      "including two zero",
+      "security update guide"
+    ],
+    "summary": "# [hacker-news-sec] Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting."
+  },
+  "3c0a07d51ea5f2ea": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_spanish-police-take-d_14ed99351a.md",
+    "source": "security",
+    "title": "[bleeping-comp] Spanish Police take down €140 million cyber fraud ring, arrest four",
+    "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+    "keywords": [
+      "48z spanish police take",
+      "spanish police take",
+      "spanish police take",
+      "spanish police dismantled",
+      "business email compromise",
+      "laundering organization",
+      "investment fraud",
+      "arrest four",
+      "arrest four",
+      "arrest four"
+    ],
+    "summary": "# [bleeping-comp] Spanish Police take down €140 million cyber fraud ring, arrest four Spanish Police take down €140 million cyber fraud ring, arrest four The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks."
   }
 }
