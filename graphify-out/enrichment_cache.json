@@ -229982,5 +229982,326 @@
       "intercepted request"
     ],
     "summary": "# [hacker-news-sec] Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed."
+  },
+  "c7ba80cca93511f6": {
+    "file": "corpus/hackernews/knots_neocities_org_knotindex_b202bc7e35.md",
+    "source": "hackernews",
+    "title": "Notable Knot Index (2016)",
+    "url": "https://knots.neocities.org/knotindex",
+    "keywords": [
+      "notable knot index",
+      "notable knot index",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Notable Knot Index (2016) > Source: hackernews | Category: news | 2026-07-14T10:59:37Z Score: 7 | Comments: 0"
+  },
+  "aea9814fa7175cb4": {
+    "file": "corpus/hackernews/docs_docker_com_ai_sandboxes_78e0fc6feb.md",
+    "source": "hackernews",
+    "title": "MicroVM sandbox on Win, Mac, Linux, with policy engine",
+    "url": "https://docs.docker.com/ai/sandboxes",
+    "keywords": [
+      "policy engine",
+      "policy engine",
+      "microvm sandbox",
+      "microvm sandbox",
+      "43z score",
+      "win",
+      "win",
+      "source",
+      "news",
+      "mac"
+    ],
+    "summary": "# MicroVM sandbox on Win, Mac, Linux, with policy engine > Source: hackernews | Category: news | 2026-07-14T10:59:43Z Score: 5 | Comments: 0"
+  },
+  "44133796486a4c0a": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_genkit-agents-api-preview_utm_cam_ea2d6b9433.md",
+    "source": "engineering",
+    "title": "[infoq] Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go",
+    "url": "https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "single chat () interface",
+      "genkit ships agents api",
+      "genkit ships agents api",
+      "genkit ships agents api",
+      "interruptible tools provide human",
+      "genkit agents api",
+      "state persistence behind",
+      "go google released",
+      "tool loops",
+      "jan wiggers"
+    ],
+    "summary": "Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume."
+  },
+  "489ddffb49d1e912": {
+    "file": "corpus/devto/dev_to_dipankar_sarkar_i-threw-750-autonomous-llm-exploit-at_2ba944a5ff.md",
+    "source": "devto",
+    "title": "I threw 750 autonomous LLM exploit attempts at a $10k sandbox bounty. Zero escapes.",
+    "url": "https://dev.to/dipankar_sarkar/i-threw-750-autonomous-llm-exploit-attempts-at-a-10k-sandbox-bounty-zero-escapes-3j7n",
+    "keywords": [
+      "50z pydantic put",
+      "10k sandbox bounty",
+      "10k sandbox bounty",
+      "zero escapes",
+      "zero escapes",
+      "monty runtime",
+      "sandbox",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I threw 750 autonomous LLM exploit attempts at a $10k sandbox bounty. > Source: devto | Category: news | 2026-07-14T10:59:50Z Pydantic put up a $10,000 bounty called Hack Monty: escape the sandbox of their Monty runtime."
+  },
+  "2d85d450ea0657a4": {
+    "file": "corpus/devto/dev_to_arqamwd_logging-workouts-is-solved-im-building-what-c_7aa4211502.md",
+    "source": "devto",
+    "title": "Logging workouts is solved. I'm building what comes after.",
+    "url": "https://dev.to/arqamwd/logging-workouts-is-solved-im-building-what-comes-after-36cc",
+    "keywords": [
+      "45z every workout tracker",
+      "logging workouts",
+      "logging workouts",
+      "tried",
+      "source",
+      "solved",
+      "solved",
+      "records",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Logging workouts is solved. I'm building what comes after. Every workout tracker I've tried has the same limitation: it records what you did, but it doesn't..."
+  },
+  "6e5e9e85bede89b7": {
+    "file": "corpus/devto/dev_to_sanjaysah_building-react-native-shouldnt-feel-like-as_c7f5526f3e.md",
+    "source": "devto",
+    "title": "Building React Native Shouldn't Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit",
+    "url": "https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef",
+    "keywords": [
+      "modern monorepo starter kit",
+      "modern monorepo starter kit",
+      "sentence sounds simple",
+      "new react ...",
+      "building react native",
+      "building react native",
+      "ever started",
+      "app .\"",
+      "want",
+      "source"
+    ],
+    "summary": "# Building React Native Shouldn't Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit \"I just want to build my app.\" But if you've ever started a new React..."
+  },
+  "43702222caa7b146": {
+    "file": "corpus/devto/dev_to_ibrahimdans_managing-i18n-keys-in-react-without-losin_ae75057d8c.md",
+    "source": "devto",
+    "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
+    "url": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+    "keywords": [
+      "managing i18n keys",
+      "managing i18n keys",
+      "key actually exists",
+      "react without losing",
+      "react without losing",
+      "without leaving",
+      "without leaving",
+      "title ')…",
+      "serious ...",
+      "(' common"
+    ],
+    "summary": "# Managing i18n keys in React without losing your mind (without leaving your IDE) > Source: devto | Category: news | 2026-07-14T10:59:48Z t('common:user.profile.title')… and now you just hope that key actually exists."
+  },
+  "5304f50c353eb2b1": {
+    "file": "corpus/devto/dev_to_agentedeia_the-proposal-structure-that-closed-8-of-my_765fa773c8.md",
+    "source": "devto",
+    "title": "The proposal structure that closed 8 of my last 10 freelance projects",
+    "url": "https://dev.to/agentedeia/the-proposal-structure-that-closed-8-of-my-last-10-freelance-projects-1ab3",
+    "keywords": [
+      "last 10 freelance projects",
+      "last 10 freelance projects",
+      "freelance proposals read like",
+      "proposal structure",
+      "proposal structure",
+      "closed 8",
+      "closed 8",
+      "source",
+      "reactions",
+      "price"
+    ],
+    "summary": "# The proposal structure that closed 8 of my last 10 freelance projects > Source: devto | Category: news | 2026-07-14T10:59:48Z Most freelance proposals read like a menu: here's what I do, here's the price, let me know."
+  },
+  "a950e66d9c73e7aa": {
+    "file": "corpus/devto/dev_to_googleai_the-no-longer-missing-multi-agent-pattern-tr_d8bd73a966.md",
+    "source": "devto",
+    "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+    "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+    "keywords": [
+      "triggering dynamic workflows",
+      "triggering dynamic workflows",
+      "dynamic user ...",
+      "missing multi",
+      "missing multi",
+      "building multi",
+      "agent systems",
+      "agent pattern",
+      "agent pattern",
+      "agent"
+    ],
+    "summary": "# The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent > Source: devto | Category: news | 2026-07-14T10:59:44Z When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user..."
+  },
+  "66012241d3fe85f4": {
+    "file": "corpus/devto/dev_to_jamilxt_when-ai-knows-everything-what-should-humans-l_e00a49f57f.md",
+    "source": "devto",
+    "title": "When AI Knows Everything, What Should Humans Learn?",
+    "url": "https://dev.to/jamilxt/when-ai-knows-everything-what-should-humans-learn-p1l",
+    "keywords": [
+      "48z ai knows everything",
+      "ai knows everything",
+      "ai knows everything",
+      "humans learn",
+      "humans learn",
+      "coding question",
+      "ask gpt",
+      "ask claude",
+      "writes",
+      "source"
+    ],
+    "summary": "# When AI Knows Everything, What Should Humans Learn? > Source: devto | Category: news | 2026-07-14T10:59:48Z You ask Claude a coding question, it writes the code."
+  },
+  "d365e2fe3786af12": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48085_ofcom-to-hold-big-tech-ac_a32efa226c.md",
+    "source": "finance",
+    "title": "[finextra] Ofcom to hold Big Tech accountable for scam adverts",
+    "url": "https://www.finextra.com/newsarticle/48085/ofcom-to-hold-big-tech-accountable-for-scam-adverts?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "hold big tech accountable",
+      "hold big tech accountable",
+      "hold big tech accountable",
+      "scam adverts big tech",
+      "proposed new fraud",
+      "fighting rules announced",
+      "tackling scam ads",
+      "held accountable",
+      "scam adverts",
+      "scam adverts"
+    ],
+    "summary": "# [finextra] Ofcom to hold Big Tech accountable for scam adverts Ofcom to hold Big Tech accountable for scam adverts Big Tech will be held accountable for tackling scam ads on their platforms, under proposed new fraud-fighting rules announced by Ofcom, the independent regulatory and competition authority for the UK’s communications industries."
+  },
+  "a19bd3c8a03e791d": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48084_ecb-selects-36-psps-for-d_b44bc81079.md",
+    "source": "finance",
+    "title": "[finextra] ECB selects 36 PSPs for digital euro pilot phase",
+    "url": "https://www.finextra.com/newsarticle/48084/ecb-selects-36-psps-for-digital-euro-pilot-phase?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "ecb selects 36 psps",
+      "ecb selects 36 psps",
+      "digital euro pilot phase",
+      "digital euro pilot phase",
+      "digital euro pilot phase",
+      "digital euro pilot",
+      "european central bank",
+      "euro area",
+      "ecb",
+      "source"
+    ],
+    "summary": "# [finextra] ECB selects 36 PSPs for digital euro pilot phase ECB selects 36 PSPs for digital euro pilot phase The European Central Bank (ECB) has selected 36 payment service providers (PSP) from across the euro area to participate in the digital euro pilot."
+  },
+  "165192323ced8241": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48904312_40adaea0d9.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48904312",
+    "keywords": [
+      "crypto model revamp plus",
+      "drive foundation team builds",
+      "senior foundation engineer",
+      "professional software experience",
+      "check every box",
+      "c #, typescript",
+      "nonprofit proton foundation",
+      "drive ): geneva",
+      "web &# x2f",
+      "jobs &# x2f"
+    ],
+    "summary": "We&#x27;re profitable, have no VC control, and are majority owned by the nonprofit Proton Foundation, so no one can force a change in mission.<p>The Drive Foundation team builds the core SDK powering every Proton Drive client,C#, TypeScript, and Rust daily, with Swift and Kotlin bindings for mobile. It&#x27;s foundational work: what you build here ships to every Drive client, and there&#x27;s a crypto model revamp plus a Rust based next gen SDK on the roadmap.<p>Looking for someone with 5+ years"
+  },
+  "4a545f8655153fcd": {
+    "file": "corpus/ai-research/openai_com_academy_codex-for-work_how-data-science-teams-use_578b3bdf5c.md",
+    "source": "ai-research",
+    "title": "[openai-blog] How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "keywords": [
+      "use chatgpt work",
+      "real work inputs",
+      "data science teams",
+      "scoped analyses",
+      "kpi memos",
+      "impact readouts",
+      "dashboard specs",
+      "cause briefs",
+      "build root",
+      "source"
+    ],
+    "summary": "# [openai-blog] How data science teams use ChatGPT Work How data science teams use ChatGPT Work See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+  },
+  "f131366bb33f44c7": {
+    "file": "corpus/ai-research/openai_com_academy_codex-for-work_how-sales-teams-use-codex_0090139282.md",
+    "source": "ai-research",
+    "title": "[openai-blog] How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "keywords": [
+      "use chatgpt work",
+      "real work inputs",
+      "meeting prep packets",
+      "create pipeline briefs",
+      "sales teams",
+      "forecast reviews",
+      "deal diagnoses",
+      "account plans",
+      "stalled",
+      "source"
+    ],
+    "summary": "# [openai-blog] How sales teams use ChatGPT Work How sales teams use ChatGPT Work See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+  },
+  "a3c5e84ee484da25": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-starts-tes_9b6987b352.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft starts testing cleaner Windows Search without ads",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+    "keywords": [
+      "prioritize relevant results",
+      "windows search",
+      "promotional content",
+      "faster version",
+      "testing",
+      "source",
+      "security",
+      "security",
+      "comp",
+      "comp"
+    ],
+    "summary": "# [bleeping-comp] Microsoft starts testing cleaner Windows Search without ads Microsoft starts testing cleaner Windows Search without ads Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content."
+  },
+  "cc1fbbf8355fe866": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_us-sanctions-vpn-malw_e16d4d8b14.md",
+    "source": "security",
+    "title": "[bleeping-comp] US sanctions VPN, malware providers for enabling ransomware attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+    "keywords": [
+      "36z us sanctions vpn",
+      "us sanctions vpn",
+      "us sanctions vpn",
+      "sanctioned two individuals",
+      "foreign assets control",
+      "enabling ransomware attacks",
+      "enabling ransomware attacks",
+      "enabling ransomware attacks",
+      "enabling ransomware attacks",
+      "treasury department"
+    ],
+    "summary": "# [bleeping-comp] US sanctions VPN, malware providers for enabling ransomware attacks US sanctions VPN, malware providers for enabling ransomware attacks The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations."
   }
 }
