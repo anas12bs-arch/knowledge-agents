@@ -1,0 +1,36 @@
+---
+title: "vercel/next.js v16.3.0-canary.85 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.85"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-07-14T00:06:07Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.3.0-canary.85"
+---
+
+# vercel/next.js v16.3.0-canary.85 released
+
+> Source: github-releases | Category: changelog | 2026-07-14T00:06:07Z
+
+## vercel/next.js — v16.3.0-canary.85
+
+### Misc Changes
+
+- [turbopack] Switch `make_production_chunks` to use floats: #95749
+- Fix termination handling: #95692
+- Restore canary version 16.3.0-canary.84 after v16.3.0-preview.6 preview release
+- Turbopack: order CSS modules by chunk-group co-occurrence in linearize: #95579
+- [test] Disable i18n-api-support deploy test for Turbopack with adapters: #95739
+- Fork navigation-testing-lock module: #95611
+- docs: runtime prefetching update: #95564
+- request insights: add agent diagnosis access (4/5): #93977
+- Fix Pages router 404 runtime rendering with Adapter: #95264
+- Fix duplicate static files in adapter: #95681
+- Update font data: #95725
+- [test] Disable middleware-rewrites deploy test for Turbopack with adapters: #95680
+
+### Credits 
+
+Huge thanks to @sampoder, @lukesandberg, @sokra, @eps1lon, @icyJoseph, @feedthejim, @mischnic, and @vercel-release-bot for helping!
