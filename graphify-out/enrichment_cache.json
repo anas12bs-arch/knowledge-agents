@@ -230810,5 +230810,778 @@
       "clear previous_task reference"
     ],
     "summary": "-   fix: chain preprocessor sourcemaps with an empty `sources[0]` instead of dropping them ([#18518](https://github.com/sveltejs/svelte/pull/18518)) -   fix: clear previous_task reference after abort in Tween to prevent memory leak on interrupted tweens ([#18541](https://github.com/sveltejs/svelte/pull/18541)) -   fix: don't treat declaration tags as parts inside each blocks ([#18507](https://github.com/sveltejs/svelte/pull/18507))"
+  },
+  "8d197ee83f5e23e0": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_14_a-dozen-states-sue-to-block-para_e27e85f9c4.md",
+    "source": "legal",
+    "title": "[techdirt] A Dozen States Sue To Block Paramount’s Shitty, Unpopular Merger",
+    "url": "https://www.techdirt.com/2026/07/14/a-dozen-states-sue-to-block-paramounts-shitty-unpopular-merger/",
+    "keywords": [
+      "undermine market competition",
+      "hollywood entertainment industry",
+      "cause untold layoffs",
+      "[&# 8230 ;]",
+      "block paramount ’",
+      "block paramount ’",
+      "block paramount ’",
+      "dozen states sue",
+      "dozen states sue",
+      "dozen states sue"
+    ],
+    "summary": "# [techdirt] A Dozen States Sue To Block Paramount’s Shitty, Unpopular Merger A Dozen States Sue To Block Paramount’s Shitty, Unpopular Merger A dozen states have filed an antitrust lawsuit to block Paramount/CBS&#8217; $111 billion merger with Warner Brothers."
+  },
+  "6484baecd8f4686b": {
+    "file": "corpus/sales/www_saastr_com_500m-arr-60-engineers-cash-flow-positive-how-_0e20d4e113.md",
+    "source": "sales",
+    "title": "[saastr] $500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov",
+    "url": "https://www.saastr.com/500m-arr-60-engineers-cash-flow-positive-how-higgsfield-actually-runs-with-ceo-alex-mashrabov/",
+    "keywords": [
+      "proud early investor",
+      "... continue reading",
+      "higgsfield actually runs",
+      "higgsfield actually runs",
+      "higgsfield actually runs",
+      "ceo alex mashrabov",
+      "ceo alex mashrabov",
+      "ceo alex mashrabov",
+      "alex mashrabov",
+      "sponsorship teasers"
+    ],
+    "summary": "# [saastr] $500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov $500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov We&#8217;re also a proud early investor through SaaStr Fund."
+  },
+  "89ce227a6938f0d5": {
+    "file": "corpus/hackernews/heatherburns_tech_2026_07_08_the-kids-with-phones-are-alrigh_cf11ef9be0.md",
+    "source": "hackernews",
+    "title": "Kids (With Phones) Are Alright",
+    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "keywords": [
+      "07z score",
+      "source",
+      "phones",
+      "phones",
+      "news",
+      "kids",
+      "kids",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Kids (With Phones) Are Alright > Source: hackernews | Category: news | 2026-07-14T14:12:07Z Score: 27 | Comments: 12"
+  },
+  "0a561529ec081d09": {
+    "file": "corpus/hackernews/arxiv_org_abs_2607_05188_296b023501.md",
+    "source": "hackernews",
+    "title": "Coding agents think ahead of time",
+    "url": "https://arxiv.org/abs/2607.05188",
+    "keywords": [
+      "coding agents think ahead",
+      "coding agents think ahead",
+      "07z score",
+      "time",
+      "time",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Coding agents think ahead of time > Source: hackernews | Category: news | 2026-07-14T14:12:07Z Score: 35 | Comments: 27"
+  },
+  "42cd85059cc3a97e": {
+    "file": "corpus/hackernews/docs_pasteurlabs_ai_projects_tesseract-core_latest_blog_2026_a6daa21f3e.md",
+    "source": "hackernews",
+    "title": "Differentiable Fortran with LFortran and Enzyme",
+    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+    "keywords": [
+      "differentiable fortran",
+      "differentiable fortran",
+      "08z score",
+      "source",
+      "news",
+      "lfortran",
+      "lfortran",
+      "hackernews",
+      "enzyme",
+      "enzyme"
+    ],
+    "summary": "# Differentiable Fortran with LFortran and Enzyme > Source: hackernews | Category: news | 2026-07-14T14:12:08Z Score: 18 | Comments: 2"
+  },
+  "8a331f59b73e0ec6": {
+    "file": "corpus/hackernews/www_cnn_com_2026_07_13_americas_argentina-goldfish-sentient-_ff3c9a46b8.md",
+    "source": "hackernews",
+    "title": "Argentina court recognizes two goldfish as sentient beings with rights",
+    "url": "https://www.cnn.com/2026/07/13/americas/argentina-goldfish-sentient-latam-intl",
+    "keywords": [
+      "sentient beings",
+      "sentient beings",
+      "12z score",
+      "source",
+      "rights",
+      "rights",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Argentina court recognizes two goldfish as sentient beings with rights > Source: hackernews | Category: news | 2026-07-14T14:12:12Z Score: 13 | Comments: 0"
+  },
+  "7d02b2df7a7f7f69": {
+    "file": "corpus/hackernews/zserge_com_posts_tensor_12ae7fc4e2.md",
+    "source": "hackernews",
+    "title": "Tensor Is the Might",
+    "url": "https://zserge.com/posts/tensor/",
+    "keywords": [
+      "07z score",
+      "tensor",
+      "tensor",
+      "source",
+      "news",
+      "might",
+      "might",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Tensor Is the Might > Source: hackernews | Category: news | 2026-07-14T14:12:07Z Score: 17 | Comments: 5"
+  },
+  "864088f0ed44f2df": {
+    "file": "corpus/hackernews/jacobfilipp_com_care_51a4846c4d.md",
+    "source": "hackernews",
+    "title": "Proof of Care in the Age of A.I",
+    "url": "https://jacobfilipp.com/care/",
+    "keywords": [
+      "07z score",
+      "source",
+      "proof",
+      "proof",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "care",
+      "care"
+    ],
+    "summary": "# Proof of Care in the Age of A.I > Source: hackernews | Category: news | 2026-07-14T14:12:07Z Score: 46 | Comments: 19"
+  },
+  "a4d7cdd338d938fd": {
+    "file": "corpus/hackernews/github_com_Danau5tin_ai-trains-ai_6562e70676.md",
+    "source": "hackernews",
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+    "url": "https://github.com/Danau5tin/ai-trains-ai",
+    "keywords": [
+      "–$ 1",
+      "–$ 1",
+      "trains models",
+      "trains models",
+      "show hn",
+      "show hn",
+      "07z score",
+      "trained",
+      "trained",
+      "source"
+    ],
+    "summary": "# Show HN: I RL-trained an agent that trains models with RL (for –$1.3k) > Source: hackernews | Category: news | 2026-07-14T14:12:07Z Score: 34 | Comments: 13"
+  },
+  "47e36cd47b7de55f": {
+    "file": "corpus/hackernews/ryanjk5_github_io_posts_rjk-duck_efa2cc2fb4.md",
+    "source": "hackernews",
+    "title": "Beautiful Type Erasure with C++26 Reflection",
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "keywords": [
+      "c ++ 26 reflection",
+      "c ++ 26 reflection",
+      "beautiful type erasure",
+      "beautiful type erasure",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Beautiful Type Erasure with C++26 Reflection > Source: hackernews | Category: news | 2026-07-14T14:12:07Z Score: 29 | Comments: 9"
+  },
+  "bf19465d8490154a": {
+    "file": "corpus/hackernews/www_the-independent_com_tech_laptop-ban-university-ai-backla_1ce2bf5464.md",
+    "source": "hackernews",
+    "title": "U of Chicago law school bans laptops from classes amid AI backlash",
+    "url": "https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html",
+    "keywords": [
+      "classes amid ai backlash",
+      "classes amid ai backlash",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# U of Chicago law school bans laptops from classes amid AI backlash > Source: hackernews | Category: news | 2026-07-14T14:12:12Z Score: 11 | Comments: 4"
+  },
+  "02a2d860776c8eba": {
+    "file": "corpus/engineering/martinfowler_com_articles_llm-and-dsls_html_e99223cbf5.md",
+    "source": "engineering",
+    "title": "[martin-fowler] DSLs Enable Reliable Use of LLMs",
+    "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "keywords": [
+      "illustrating distributed system behavior",
+      "dsls enable reliable use",
+      "dsls enable reliable use",
+      "unmesh joshi describes",
+      "need clear boundaries",
+      "natural language interface",
+      "guides llms right",
+      "strong harness",
+      "specific languages",
+      "software systems"
+    ],
+    "summary": "Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from the start. Unmesh Joshi  describes how the example of Tickloom - a domain model and DSL for illustrating distributed system behavior -  shows how we can use an LLM  as a partner to iteratively build a DSL and as a natural language interface to use it. Such a DSL can act as the key source of truth for software systems in the world of LLMs."
+  },
+  "64dfc22195fdb610": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_agentic-resource-discovery-spec_u_74df64772e.md",
+    "source": "engineering",
+    "title": "[infoq] Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
+    "url": "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "enabling dynamic capability discovery",
+      "discovery layer built",
+      "leveraging existing protocols",
+      "verifying ai tools",
+      "ai agents google",
+      "ai agents",
+      "ai agents",
+      "open standard",
+      "leela kumili",
+      "emphasizing trust"
+    ],
+    "summary": "# [infoq] Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents."
+  },
+  "5628dd5f931714a0": {
+    "file": "corpus/engineering/www_infoq_com_presentations_migration-micro-frontend_utm_cam_17ef18d9f5.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Lessons Learned in Migrating to Micro-Frontends",
+    "url": "https://www.infoq.com/presentations/migration-micro-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "utilize edge compute",
+      "monolithic web applications",
+      "distributed frontend architectures",
+      "core architectural difference",
+      "server rendering",
+      "luca mezzalira",
+      "lessons learned",
+      "lessons learned",
+      "lessons learned",
+      "iterative rollouts"
+    ],
+    "summary": "# [infoq] Presentation: Lessons Learned in Migrating to Micro-Frontends Luca Mezzalira shares proven learnings from guiding hundreds of teams through the migration from monolithic web applications to distributed frontend architectures. He explains the core architectural difference between components and micro-frontends, outlines a 6-step decision framework spanning client vs. server rendering, and discusses how to utilize edge compute for safe, iterative rollouts."
+  },
+  "d4198f66a3236001": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_meta-brain-interface_utm_campaign_f81b536591.md",
+    "source": "engineering",
+    "title": "[infoq] Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy",
+    "url": "https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "word accuracy rate 61",
+      "accuracy meta recently open",
+      "thoughts using electroencephalography",
+      "sourced brain2qwerty v2",
+      "system achieved",
+      "invasive methods",
+      "decode sentences",
+      "anthony alford",
+      "08z meta",
+      "accuracy"
+    ],
+    "summary": "# [infoq] Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (EEG) or magnetoencephalography (MEG) signals from the brain. In evaluations, the system achieved a word accuracy rate 61% on average, compared to 8% for other non-invasive methods."
+  },
+  "220e5f27f8c0ee9a": {
+    "file": "corpus/devto/dev_to_sachit21_what-i-found-when-i-ran-a-quantum-crypto-sca_6f0161b8dc.md",
+    "source": "devto",
+    "title": "What I found when I ran a quantum crypto scanner on certbot",
+    "url": "https://dev.to/sachit21/what-i-found-when-i-ran-a-quantum-crypto-scanner-on-certbot-28bo",
+    "keywords": [
+      "quantum cryptography standards",
+      "quantum crypto scanner",
+      "quantum crypto scanner",
+      "15z nist finalized",
+      "first post",
+      "august 2024",
+      "source",
+      "rsa",
+      "reactions",
+      "ran"
+    ],
+    "summary": "# What I found when I ran a quantum crypto scanner on certbot NIST finalized the first post-quantum cryptography standards in August 2024. RSA, ECC, and ECDH are..."
+  },
+  "8daac328dc53fcbb": {
+    "file": "corpus/devto/dev_to_blacktracehq_i-filtered-bandits-false-positives-with-_1533cb10f2.md",
+    "source": "devto",
+    "title": "I filtered Bandit's false positives with a deterministic gate -- and published where it fails",
+    "url": "https://dev.to/blacktracehq/i-filtered-bandits-false-positives-with-a-deterministic-gate-and-published-where-it-fails-5g5d",
+    "keywords": [
+      "deterministic gate --",
+      "deterministic gate --",
+      "15z scanner noise",
+      "stop reading",
+      "flags ,...",
+      "filtered bandit",
+      "filtered bandit",
+      "false positives",
+      "false positives",
+      "enough files"
+    ],
+    "summary": "# I filtered Bandit's false positives with a deterministic gate -- and published where it fails Scanner noise isn't an annoyance. It's a mechanism: after enough files you stop reading the flags,..."
+  },
+  "c172918d5a11e06f": {
+    "file": "corpus/devto/dev_to_beyond_code7a733987_every-interview-has-two-stories-w_9a0388f27c.md",
+    "source": "devto",
+    "title": "Every Interview Has Two Stories. We Hear Only One",
+    "url": "https://dev.to/beyond_code7a733987/every-interview-has-two-stories-we-hear-only-one-i5b",
+    "keywords": [
+      "words ...",
+      "two stories",
+      "two stories",
+      "get back",
+      "every interview",
+      "every interview",
+      "source",
+      "reactions",
+      "one",
+      "one"
+    ],
+    "summary": "# Every Interview Has Two Stories. We'll get back to you. It's a sentence almost every job seeker has heard."
+  },
+  "3a2e2b069f7a8ff9": {
+    "file": "corpus/devto/dev_to_synapsesec_i-built-a-working-neural-signal-security-s_250ab5ba4e.md",
+    "source": "devto",
+    "title": "I Built a World's first Working Neural Signal Security System for BCI Devices (AES-256 + Anomaly Detection)",
+    "url": "https://dev.to/synapsesec/i-built-a-working-neural-signal-security-system-for-bci-devices-aes-256-anomaly-detection-ppe",
+    "keywords": [
+      "similar consumer ...",
+      "like neuralink",
+      "computer interfaces",
+      "bci devices",
+      "bci devices",
+      "anomaly detection",
+      "anomaly detection",
+      "world",
+      "world",
+      "source"
+    ],
+    "summary": "# I Built a World's first Working Neural Signal Security System for BCI Devices (AES-256 + Anomaly Detection) > Source: devto | Category: news | 2026-07-14T14:12:15Z Why I built this   As brain-computer interfaces (like Neuralink and similar consumer..."
+  },
+  "4102ca68cef35670": {
+    "file": "corpus/devto/dev_to_johnnylemonny_7-new-javascript-features-in-ecmascript_dab39243e4.md",
+    "source": "devto",
+    "title": "7 New JavaScript Features in ECMAScript 2026 That Replace Everyday Workarounds",
+    "url": "https://dev.to/johnnylemonny/7-new-javascript-features-in-ecmascript-2026-that-replace-everyday-workarounds-2076",
+    "keywords": [
+      "7 new javascript features",
+      "7 new javascript features",
+      "replace everyday workarounds",
+      "replace everyday workarounds",
+      "stack developers",
+      "precise calculations",
+      "binary encoding",
+      "async data",
+      "ecmascript 2026",
+      "ecmascript 2026"
+    ],
+    "summary": "# 7 New JavaScript Features in ECMAScript 2026 That Replace Everyday Workarounds ECMAScript 2026 adds practical APIs for async data, Maps, binary encoding, errors, iterators, JSON, and precise calculations. Here is what full-stack developers should know."
+  },
+  "bca65bc3e1daaaeb": {
+    "file": "corpus/devto/dev_to_le_beltagy_i-built-an-autonomous-vehicle-analytics-pl_f9f142bc8a.md",
+    "source": "devto",
+    "title": "I Built an Autonomous Vehicle Analytics Platform (Solo) — Here's What I Learned",
+    "url": "https://dev.to/le_beltagy/i-built-an-autonomous-vehicle-analytics-platform-solo-heres-what-i-learned-1c0g",
+    "keywords": [
+      "autonomous vehicle analytics platform",
+      "autonomous vehicle analytics platform",
+      "autonomous vehicle analytics platform",
+      "source",
+      "solo",
+      "solo",
+      "solo"
+    ],
+    "summary": "# I Built an Autonomous Vehicle Analytics Platform (Solo) — Here's What I Learned > Source: devto | Category: news | 2026-07-14T14:12:17Z # I Built an Autonomous Vehicle Analytics Platform (Solo) — Here's What I Learned  And why I'm..."
+  },
+  "744d2b3f97491f11": {
+    "file": "corpus/devto/dev_to_michael_pham018_rag-evaluation-with-ragas-faithfulnes_e64da03516.md",
+    "source": "devto",
+    "title": "RAG Evaluation with RAGAs: Faithfulness, Context Recall, and Answer Relevance",
+    "url": "https://dev.to/michael_pham018/rag-evaluation-with-ragas-faithfulness-context-recall-and-answer-relevance-5cb",
+    "keywords": [
+      "vietnamese bank",
+      "rag evaluation",
+      "rag evaluation",
+      "context recall",
+      "context recall",
+      "answer relevance",
+      "answer relevance",
+      "source",
+      "reactions",
+      "ragas"
+    ],
+    "summary": "# RAG Evaluation with RAGAs: Faithfulness, Context Recall, and Answer Relevance > Source: devto | Category: news | 2026-07-14T14:12:15Z When a Vietnamese bank's internal AI assistant started confidently quoting compliance rules that did..."
+  },
+  "6f1a03f826eba359": {
+    "file": "corpus/devto/dev_to_obataka_the-in-process-vector-db-trap-how-zvecs-optim_8d428f7e40.md",
+    "source": "devto",
+    "title": "The In-Process Vector DB Trap: How ZVec's `optimize()` Can Silently Erase Crash-Recovered Data",
+    "url": "https://dev.to/obataka/the-in-process-vector-db-trap-how-zvecs-optimize-can-silently-erase-crash-recovered-data-1ceh",
+    "keywords": [
+      "process vector db trap",
+      "process vector db trap",
+      "serverless vector databases",
+      "silently erase crash",
+      "silently erase crash",
+      "15z introduction embedded",
+      "recovered data",
+      "recovered data",
+      "optimize ()`",
+      "optimize ()`"
+    ],
+    "summary": "# The In-Process Vector DB Trap: How ZVec's `optimize()` Can Silently Erase Crash-Recovered Data > Source: devto | Category: news | 2026-07-14T14:12:15Z Introduction   Embedded, serverless vector databases are having a moment."
+  },
+  "38049abda943b385": {
+    "file": "corpus/devto/dev_to_fromzerotoship_13-the-day-everything-changed-meeting-_f3ef7d63ba.md",
+    "source": "devto",
+    "title": "#13 The Day Everything Changed: Meeting a Self-Taught Builder",
+    "url": "https://dev.to/fromzerotoship/13-the-day-everything-changed-meeting-a-self-taught-builder-3436",
+    "keywords": [
+      "building software felt like",
+      "day everything changed",
+      "day everything changed",
+      "taught builder",
+      "taught builder",
+      "physical ...",
+      "long time",
+      "thing",
+      "source",
+      "self"
+    ],
+    "summary": "# #13 The Day Everything Changed: Meeting a Self-Taught Builder > Source: devto | Category: news | 2026-07-14T14:12:16Z For a long time, building software felt like a thing I was doing in secret."
+  },
+  "49e1cbd6c7ef9c59": {
+    "file": "corpus/devto/dev_to_aidless_how-i-shipped-structured-json-logging-prometh_d68c337547.md",
+    "source": "devto",
+    "title": "How I shipped structured JSON logging + Prometheus metrics with zero new dependencies",
+    "url": "https://dev.to/aidless/how-i-shipped-structured-json-logging-prometheus-metrics-with-zero-new-dependencies-1fmj",
+    "keywords": [
+      "shipped structured json logging",
+      "shipped structured json logging",
+      "shipped structured json logging",
+      "zero new dependencies",
+      "zero new dependencies",
+      "zero new dependencies",
+      "almost added ...",
+      "prometheus metrics",
+      "prometheus metrics",
+      "prometheus metrics"
+    ],
+    "summary": "# How I shipped structured JSON logging + Prometheus metrics with zero new dependencies > Source: devto | Category: news | 2026-07-14T14:12:15Z How I shipped structured JSON logging + Prometheus metrics with zero new dependencies  I almost added..."
+  },
+  "85954f25e6b69a18": {
+    "file": "corpus/devto/dev_to_soulentheo_how-a-mesh-of-peer-ai-workspaces-catches-w_1624815e10.md",
+    "source": "devto",
+    "title": "How a mesh of peer AI workspaces catches what any single agent misses",
+    "url": "https://dev.to/soulentheo/how-a-mesh-of-peer-ai-workspaces-catches-what-any-single-agent-misses-2ffh",
+    "keywords": [
+      "peer ai workspaces catches",
+      "peer ai workspaces catches",
+      "peer ai workspaces catches",
+      "single agent misses",
+      "single agent misses",
+      "source",
+      "reactions",
+      "news",
+      "mesh",
+      "mesh"
+    ],
+    "summary": "# How a mesh of peer AI workspaces catches what any single agent misses > Source: devto | Category: news | 2026-07-14T14:12:15Z How a mesh of peer AI workspaces catches what any single agent misses   Two things about..."
+  },
+  "4e9d2e27bc0f603c": {
+    "file": "corpus/devto/dev_to_hoseinmdev_stop-arguing-about-code-style-set-up-prett_5cba507553.md",
+    "source": "devto",
+    "title": "Stop Arguing About Code Style — Set Up Prettier, ESLint & Husky Once",
+    "url": "https://dev.to/hoseinmdev/stop-arguing-about-code-style-set-up-prettier-eslint-husky-once-1g8j",
+    "keywords": [
+      "code style — set",
+      "code style — set",
+      "code reviews turned",
+      "stop arguing",
+      "stop arguing",
+      "frontend projects",
+      "worked",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Stop Arguing About Code Style — Set Up Prettier, ESLint & Husky Once > Source: devto | Category: news | 2026-07-14T14:12:16Z Why this matters   I’ve worked on a few frontend projects where code reviews turned into..."
+  },
+  "96d2a354eb5903e5": {
+    "file": "corpus/devto/dev_to_dobybaxter127_testing-against-state-drift-guarding-a-_203e1433ff.md",
+    "source": "devto",
+    "title": "Testing Against State Drift: Guarding a Config Tool Whose Source of Truth Lives Somewhere Else",
+    "url": "https://dev.to/dobybaxter127/testing-against-state-drift-guarding-a-config-tool-whose-source-of-truth-lives-somewhere-else-kgf",
+    "keywords": [
+      "truth lives somewhere else",
+      "truth lives somewhere else",
+      "config tool whose source",
+      "config tool whose source",
+      "based configuration tool",
+      "simulation framework ....",
+      "state drift",
+      "state drift",
+      "pyxel detector",
+      "dr —"
+    ],
+    "summary": "# Testing Against State Drift: Guarding a Config Tool Whose Source of Truth Lives Somewhere Else > Source: devto | Category: news | 2026-07-14T14:12:15Z TL;DR — I maintain a browser-based configuration tool for ESA's Pyxel detector-simulation framework...."
+  },
+  "3ba34b70e8fb5d68": {
+    "file": "corpus/devto/dev_to_bielcoelho_consegui-negociar-r50k-a-mais-por-ano-porq_588ec26f09.md",
+    "source": "devto",
+    "title": "Consegui negociar R$50k a mais por ano porque um desconhecido compartilhou como foi a entrevista dele. Entao construi o brtech.",
+    "url": "https://dev.to/bielcoelho/consegui-negociar-r50k-a-mais-por-ano-porque-um-desconhecido-compartilhou-como-foi-a-entrevista-15eg",
+    "keywords": [
+      "16z antes da entrevista",
+      "encontrei um relato",
+      "consegui negociar r",
+      "consegui negociar r",
+      "entrevista dele",
+      "entrevista dele",
+      "entao construi",
+      "entao construi",
+      "teamlyzer",
+      "source"
+    ],
+    "summary": "# Consegui negociar R$50k a mais por ano porque um desconhecido compartilhou como foi a entrevista dele. > Source: devto | Category: news | 2026-07-14T14:12:16Z Antes da entrevista, encontrei um relato no Teamlyzer - uma plataforma portuguesa que mistura Reclame..."
+  },
+  "7c673ec81bf6654d": {
+    "file": "corpus/devto/dev_to_ronin13_skip-linkedinindeed-most-companies-job-boards_e6d5d021ea.md",
+    "source": "devto",
+    "title": "Skip LinkedIn/Indeed: most companies' job boards have a public JSON API",
+    "url": "https://dev.to/ronin13/skip-linkedinindeed-most-companies-job-boards-have-a-public-json-api-48b",
+    "keywords": [
+      "public json api",
+      "public json api",
+      "pull job listings",
+      "job boards",
+      "job boards",
+      "skip linkedin",
+      "skip linkedin",
+      "scraping linkedin",
+      "ever tried",
+      "bot ..."
+    ],
+    "summary": "# Skip LinkedIn/Indeed: most companies' job boards have a public JSON API > Source: devto | Category: news | 2026-07-14T14:12:15Z If you've ever tried to pull job listings by scraping LinkedIn or Indeed, you know the pain: anti-bot..."
+  },
+  "650c21d35ec20353": {
+    "file": "corpus/devto/dev_to_reporails_loop-engineering-fine-tuning-the-guardrail-_fd6bc57751.md",
+    "source": "devto",
+    "title": "Loop Engineering: Fine-Tuning the Guardrail That Fired Wrong",
+    "url": "https://dev.to/reporails/loop-engineering-fine-tuning-the-guardrail-that-fired-wrong-3cbc",
+    "keywords": [
+      "greps every diff",
+      "loop engineering",
+      "loop engineering",
+      "import mock",
+      "fired wrong",
+      "fired wrong",
+      "week",
+      "tuning",
+      "tuning",
+      "src"
+    ],
+    "summary": "# Loop Engineering: Fine-Tuning the Guardrail That Fired Wrong The check had been green for a week. It greps every diff under src/ for import mock, because..."
+  },
+  "46b6383abdb08f73": {
+    "file": "corpus/devto/dev_to_susumun_a-variable-id-refactored-into-one-function-an_6bf253630d.md",
+    "source": "devto",
+    "title": "A variable I'd refactored into one function — and kept referencing from another. Python's lazy evaluation hid it, and an AST test finally caught it",
+    "url": "https://dev.to/susumun/a-variable-id-refactored-into-one-function-and-kept-referencing-from-another-pythons-lazy-4kli",
+    "keywords": [
+      "ast test finally caught",
+      "ast test finally caught",
+      "one function —",
+      "one function —",
+      "lazy evaluation hid",
+      "lazy evaluation hid",
+      "15z one day",
+      "plugin updates",
+      "name ...",
+      "kept referencing"
+    ],
+    "summary": "# A variable I'd refactored into one function — and kept referencing from another. Python's lazy evaluation hid it, and an AST test finally caught it One day the browser automation flow started failing right after plugin updates with NameError: name..."
+  },
+  "f8c6aefecc9c60ee": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48087_emirates-nbd-enables-bloc_d297a12b07.md",
+    "source": "finance",
+    "title": "[finextra] Emirates NBD enables blockchain-based cross-border payments on Partior network",
+    "url": "https://www.finextra.com/newsarticle/48087/emirates-nbd-enables-blockchain-based-cross-border-payments-on-partior-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "emirates nbd enables blockchain",
+      "emirates nbd enables blockchain",
+      "partior network emirates nbd",
+      "border us dollar payments",
+      "time blockchain",
+      "partior network",
+      "partior network",
+      "partior network",
+      "border payments",
+      "border payments"
+    ],
+    "summary": "# [finextra] Emirates NBD enables blockchain-based cross-border payments on Partior network Emirates NBD enables blockchain-based cross-border payments on Partior network Emirates NBD has gone live on the Partior network for real-time blockchain-based cross-border US dollar payments."
+  },
+  "c652c416941bcd83": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-entra-id-g_bd81cb6f83.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft Entra ID gets passkeys default authentication starting September",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+    "keywords": [
+      "default authentication method",
+      "source",
+      "security",
+      "security",
+      "passkeys",
+      "comp",
+      "comp",
+      "category",
+      "bleeping",
+      "bleeping"
+    ],
+    "summary": "# [bleeping-comp] Microsoft Entra ID gets passkeys default authentication starting September Microsoft Entra ID gets passkeys default authentication starting September Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026."
+  },
+  "6a7f66adc83b4cbc": {
+    "file": "corpus/security/thehackernews_com_2026_07_11-old-microsoft-signed-linux-uefi_6f88e63f0b.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+    "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+    "keywords": [
+      "unified extensible firmware interface",
+      "07z 11 old microsoft",
+      "modern firmware standard",
+      "discovered 11 old",
+      "11 old microsoft",
+      "11 old microsoft",
+      "execute untrusted code",
+      "attacker exploiting one",
+      "bypass secure boot",
+      "malicious uefi bootkits"
+    ],
+    "summary": "# [hacker-news-sec] 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard."
+  },
+  "19d0555258127b4a": {
+    "file": "corpus/security/thehackernews_com_2026_07_study-of-85-crypto-wallet-extensio_8e8ede61ba.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+    "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "keywords": [
+      "ku leuven tested 85",
+      "site tracking risks researchers",
+      "separate addresses together",
+      "let outsiders follow",
+      "site tracking risks",
+      "site tracking risks",
+      "popular crypto wallets",
+      "wallets talk",
+      "people using",
+      "leak enough"
+    ],
+    "summary": "# [hacker-news-sec] Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site."
+  },
+  "6273f6fa1a6d5595": {
+    "file": "corpus/security/thehackernews_com_2026_07_oauth-client-id-spoofing-lets-atta_5019a8434d.md",
+    "source": "security",
+    "title": "[hacker-news-sec] OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+    "keywords": [
+      "would otherwise alert defenders",
+      "microsoft entra id environments",
+      "without ever generating",
+      "validate stolen credentials",
+      "slipping past telemetry",
+      "enumerate user accounts",
+      "activity allows users",
+      "successful sign",
+      "cloud campaigns",
+      "bad actors"
+    ],
+    "summary": "# [hacker-news-sec] OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders."
+  },
+  "35ce0cd018b2af0c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-phishing-kits-tar_4a1fc432d4.md",
+    "source": "security",
+    "title": "[bleeping-comp] New phishing kits target Microsoft 365 accounts, evade MFA",
+    "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+    "keywords": [
+      "using techniques",
+      "mfa ).",
+      "factor authentication",
+      "evade mfa",
+      "evade mfa",
+      "defeat multi",
+      "source",
+      "security",
+      "security",
+      "omegalord"
+    ],
+    "summary": "# [bleeping-comp] New phishing kits target Microsoft 365 accounts, evade MFA New phishing kits target Microsoft 365 accounts, evade MFA Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA)."
+  },
+  "a33ab1b5b8583939": {
+    "file": "corpus/security/www_darkreading_com_application-security_cursor-ide-maliciou_2a4f7428d6.md",
+    "source": "security",
+    "title": "[dark-reading] Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
+    "url": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
+    "keywords": [
+      "popular ai coding platform",
+      "08z cursor ide auto",
+      "poisoned repos researchers reported",
+      "cursor ide auto",
+      "cursor ide auto",
+      "executes malicious code",
+      "executes malicious code",
+      "executes malicious code",
+      "poisoned repository attacks",
+      "poisoned repos"
+    ],
+    "summary": "# [dark-reading] Cursor IDE Auto-Executes Malicious Code in Poisoned Repos Cursor IDE Auto-Executes Malicious Code in Poisoned Repos Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks."
+  },
+  "32e8ecb1709f67e9": {
+    "file": "corpus/security/thehackernews_com_2026_07_how-pentera-turns-ai-security-work_8267c1579a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] How Pentera Turns AI Security Workflows into Validation Engines",
+    "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+    "keywords": [
+      "help teams move faster",
+      "influence real security decisions",
+      "recommend next steps",
+      "fragmented risk signals",
+      "validation engines",
+      "validation engines",
+      "threat intelligence",
+      "summarize findings",
+      "still rely",
+      "severity scores"
+    ],
+    "summary": "They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data. That fragmentation matters because attackers do not move through environments one"
+  },
+  "5bb60190097fe992": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_you-dont-have-to-run-_40e0a1043e.md",
+    "source": "security",
+    "title": "[bleeping-comp] You Don't Have to Run an Exploit to Know If You're Vulnerable",
+    "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+    "keywords": [
+      "vulnerable many vulnerabilities cannot",
+      "without launching",
+      "safely validated",
+      "picus explains",
+      "live exploits",
+      "attack techniques",
+      "affected systems",
+      "exploit exists",
+      "exploit depends",
+      "vulnerable"
+    ],
+    "summary": "# [bleeping-comp] You Don't Have to Run an Exploit to Know If You're Vulnerable Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself."
   }
 }
