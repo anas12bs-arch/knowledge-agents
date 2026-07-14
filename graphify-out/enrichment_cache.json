@@ -231981,5 +231981,404 @@
       "fraudulent websites"
     ],
     "summary": "# [bleeping-comp] LastPass, Bitwarden users targeted with fake security alerts LastPass, Bitwarden users targeted with fake security alerts LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites."
+  },
+  "6ee8ab75244bf54c": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_14_ice-camera-crews-are-labeling-th_5fc8f5388c.md",
+    "source": "legal",
+    "title": "[techdirt] ICE Camera Crews Are Labeling Themselves ‘Media,’ Filming Anti-ICE Protesters",
+    "url": "https://www.techdirt.com/2026/07/14/ice-camera-crews-are-labeling-themselves-media-filming-anti-ice-protesters/",
+    "keywords": [
+      "facial [&# 8230 ;]",
+      "leaked documents &# 8212",
+      "already know ice officers",
+      "08z ice camera crews",
+      "know &# 8212",
+      "administration &# 8217",
+      "ice camera crews",
+      "ice camera crews",
+      "masked kidnapping squads",
+      "ice protesters"
+    ],
+    "summary": "# [techdirt] ICE Camera Crews Are Labeling Themselves ‘Media,’ Filming Anti-ICE Protesters ICE Camera Crews Are Labeling Themselves ‘Media,’ Filming Anti-ICE Protesters We already know ICE officers have gone out of their way to aim their phones at protesters and others who try to derail their masked kidnapping squads."
+  },
+  "dab297c8062b7c9f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_new-york-is-the-first-st_fee7ad6e71.md",
+    "source": "legal",
+    "title": "[ars-policy] New York bans data center construction for a year, rattling AI industry",
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "keywords": [
+      "rattling ai industry",
+      "rattling ai industry",
+      "ai movement",
+      "year",
+      "year",
+      "year",
+      "source",
+      "policy",
+      "policy",
+      "legal"
+    ],
+    "summary": "# [ars-policy] New York bans data center construction for a year, rattling AI industry New York bans data center construction for a year, rattling AI industry New York’s data center moratorium may become the blueprint for anti-AI movement."
+  },
+  "e8721c875ebff037": {
+    "file": "corpus/product/techcrunch_com_2026_07_14_deepseek-reportedly-in-talks-to-ra_fa254fdd4c.md",
+    "source": "product",
+    "title": "[techcrunch-startups] DeepSeek reportedly in talks to raise $1.5B, then IPO",
+    "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+    "keywords": [
+      "71 billion valuation",
+      "2027 ipo debut",
+      "10z deepseek reportedly",
+      "deepseek reportedly",
+      "deepseek reportedly",
+      "5 billion",
+      "new funds",
+      "ipo deepseek",
+      "also looks",
+      "raise around"
+    ],
+    "summary": "# [techcrunch-startups] DeepSeek reportedly in talks to raise $1.5B, then IPO DeepSeek reportedly in talks to raise $1.5B, then IPO DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
+  },
+  "664cabc00432f45b": {
+    "file": "corpus/hackernews/dl_acm_org_doi_epdf_10_1145_36177_36194_e5ef57f820.md",
+    "source": "hackernews",
+    "title": "Superoptimizer – A Look at the Smallest Program",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
+    "keywords": [
+      "superoptimizer –",
+      "superoptimizer –",
+      "smallest program",
+      "smallest program",
+      "11z score",
+      "source",
+      "news",
+      "look",
+      "look",
+      "hackernews"
+    ],
+    "summary": "# Superoptimizer – A Look at the Smallest Program > Source: hackernews | Category: news | 2026-07-14T16:51:11Z Score: 11 | Comments: 1"
+  },
+  "9c34be73b0c66750": {
+    "file": "corpus/hackernews/agnost_ai_3a7019f83c.md",
+    "source": "hackernews",
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "url": "https://agnost.ai",
+    "keywords": [
+      "messages without sending everything",
+      "– extract user feedback",
+      "– extract user feedback",
+      "barely type &# x2f",
+      "technically successful .< p",
+      "voice agents .< p",
+      "agent ), repeatedly rephrasing",
+      "guess whether users got",
+      "building around agents",
+      "exist .< p"
+    ],
+    "summary": "When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it&#x27;s usually sugarcoated. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages."
+  },
+  "06b6b41cdb66c01f": {
+    "file": "corpus/hackernews/www_oodle_ai_product_agent-observability_c984324c42.md",
+    "source": "hackernews",
+    "title": "Show HN: Oodle.ai – $10 per million agent traces",
+    "url": "https://www.oodle.ai/product/agent-observability",
+    "keywords": [
+      "10 per million traces",
+      "second p99 query latency",
+      "still super early",
+      "past two years",
+      "like file format",
+      "detect tool failures",
+      "abnormal token usage",
+      "vijay !< p",
+      "expensive .< p",
+      "using deterministic techniques"
+    ],
+    "summary": "Today, it&#x27;s exciting for us to show what we&#x27;ve built on top of that foundation: LLM Agent Observability.<p>Given how non-deterministic agents are, storing all traces without sampling was critical for us. We detect tool failures, retries, loops, abnormal token usage, latency regressions, schema violations, sentiment, and other production signals. We&#x27;ve written more about the approach here: <a href=\"https:&#x2F;&#x2F;blog.oodle.ai&#x2F;you-cant-sample-your-way-to-reliable-agents&#x2"
+  },
+  "5ead3a594c31a1b3": {
+    "file": "corpus/hackernews/marco-nett_de_blog_measuring-input-latency-on-linux-x11-vs-w_15ab653984.md",
+    "source": "hackernews",
+    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+    "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+    "keywords": [
+      "measuring input latency",
+      "measuring input latency",
+      "x11 vs",
+      "x11 vs",
+      "09z score",
+      "wayland",
+      "wayland",
+      "vrr",
+      "vrr",
+      "source"
+    ],
+    "summary": "# Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK > Source: hackernews | Category: news | 2026-07-14T16:51:09Z Score: 9 | Comments: 1"
+  },
+  "234a804568e9ab7b": {
+    "file": "corpus/hackernews/www_bobbytables_io_p_the-agentic-loop-three-loops-in-a_757e72ee69.md",
+    "source": "hackernews",
+    "title": "The Agentic Loop: Three loops in a trench coat",
+    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "keywords": [
+      "trench coat",
+      "trench coat",
+      "three loops",
+      "three loops",
+      "agentic loop",
+      "agentic loop",
+      "14z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Agentic Loop: Three loops in a trench coat > Source: hackernews | Category: news | 2026-07-14T16:51:14Z Score: 9 | Comments: 2"
+  },
+  "752b9c86796cf4c8": {
+    "file": "corpus/hackernews/letters_byburk_net_p_the-death-of-the-creator-middle-class_fcf8287b13.md",
+    "source": "hackernews",
+    "title": "The Death of the Creator Middle Class",
+    "url": "https://letters.byburk.net/p/the-death-of-the-creator-middle-class",
+    "keywords": [
+      "creator middle class",
+      "creator middle class",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "death",
+      "death",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Death of the Creator Middle Class > Source: hackernews | Category: news | 2026-07-14T16:51:17Z Score: 7 | Comments: 2"
+  },
+  "06f2a78edb97ef3e": {
+    "file": "corpus/devto/dev_to_jeffrey_hamilton6399_i-got-tired-of-15-ad-filled-dev-_63bf79168e.md",
+    "source": "devto",
+    "title": "I got tired of 15 ad-filled dev tool websites, so I built one clean page",
+    "url": "https://dev.to/jeffrey_hamilton6399/i-got-tired-of-15-ad-filled-dev-tool-websites-so-i-built-one-clean-page-2172",
+    "keywords": [
+      "filled dev tool websites",
+      "filled dev tool websites",
+      "built one clean page",
+      "built one clean page",
+      "different sketchy ,...",
+      "20z every time",
+      "got tired",
+      "got tired",
+      "format json",
+      "15 ad"
+    ],
+    "summary": "# I got tired of 15 ad-filled dev tool websites, so I built one clean page > Source: devto | Category: news | 2026-07-14T16:51:20Z Every time I need to format JSON, decode a JWT, or generate a UUID, I end up on a different sketchy,..."
+  },
+  "a3d19a12928d069f": {
+    "file": "corpus/devto/dev_to_zacharylee_how-i-made-a-rust-hot-path-27x-faster-and-_73b1b0e7e4.md",
+    "source": "devto",
+    "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+    "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg",
+    "keywords": [
+      "19z two years ago",
+      "small desktop app",
+      "sourced keyecho",
+      "keyboard sound",
+      "ai fix",
+      "ai fix",
+      "source",
+      "refused",
+      "refused",
+      "reactions"
+    ],
+    "summary": "# How I made a Rust hot path 27x faster, and the AI fix I refused to merge > Source: devto | Category: news | 2026-07-14T16:51:19Z Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the..."
+  },
+  "dacc52f42616fc52": {
+    "file": "corpus/devto/dev_to_ben_http-gets-a-query-method-so-complex-searches-can-_55d5955ea3.md",
+    "source": "devto",
+    "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
+    "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
+    "keywords": [
+      "post https :// www",
+      "20z ...",
+      "stop pretending",
+      "stop pretending",
+      "query method",
+      "query method",
+      "http gets",
+      "http gets",
+      "complex searches",
+      "complex searches"
+    ],
+    "summary": "# HTTP gets a QUERY method so complex searches can stop pretending to be POST https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192 > Source: devto | Category: news | 2026-07-14T16:51:20Z"
+  },
+  "575104d8e659b5fb": {
+    "file": "corpus/devto/dev_to_pavelespitia_the-292m-kelpdao-bridge-hack-why-the-aud_f81e2c42ad.md",
+    "source": "devto",
+    "title": "The $292M KelpDAO Bridge Hack: Why the Audit Wasn't the Problem",
+    "url": "https://dev.to/pavelespitia/the-292m-kelpdao-bridge-hack-why-the-audit-wasnt-the-problem-3md9",
+    "keywords": [
+      "292m kelpdao bridge hack",
+      "292m kelpdao bridge hack",
+      "chain ...",
+      "attackers drained",
+      "april 18",
+      "500 rseth",
+      "292 million",
+      "source",
+      "roughly",
+      "reactions"
+    ],
+    "summary": "# The $292M KelpDAO Bridge Hack: Why the Audit Wasn't the Problem > Source: devto | Category: news | 2026-07-14T16:51:20Z On April 18, 2026, attackers drained about 116,500 rsETH, roughly $292 million, from a cross-chain..."
+  },
+  "204aa93d9cbfa87a": {
+    "file": "corpus/devto/dev_to_bwanachairman_navigating-intellectual-property-in-ken_5317bf6e4a.md",
+    "source": "devto",
+    "title": "Navigating Intellectual Property in Kenya",
+    "url": "https://dev.to/bwanachairman/navigating-intellectual-property-in-kenya-3iem",
+    "keywords": [
+      "navigating intellectual property",
+      "navigating intellectual property",
+      "22z kenyan devs",
+      "stop assuming",
+      "software ...",
+      "jargon guide",
+      "ip law",
+      "source",
+      "reactions",
+      "protected"
+    ],
+    "summary": "# Navigating Intellectual Property in Kenya > Source: devto | Category: news | 2026-07-14T16:51:22Z Kenyan Devs, Stop Assuming Your Code is Protected: A No-Jargon Guide to IP Law   As software..."
+  },
+  "f51db55950335130": {
+    "file": "corpus/devto/dev_to_zxpmail_six-experiments-on-adversarial-verification-a_ae18646d64.md",
+    "source": "devto",
+    "title": "Six experiments on adversarial verification — and the 75% wall that didn't move",
+    "url": "https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m",
+    "keywords": [
+      "every fix moves",
+      "adversarial verification —",
+      "adversarial verification —",
+      "six experiments",
+      "six experiments",
+      "one line",
+      "line —...",
+      "line",
+      "wall",
+      "wall"
+    ],
+    "summary": "# Six experiments on adversarial verification — and the 75% wall that didn't move > Source: devto | Category: news | 2026-07-14T16:51:19Z Every fix moves the line —..."
+  },
+  "eafb1c13a34c36f2": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48908740_22e1cbfc3e.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48908740",
+    "keywords": [
+      "work alongside city agencies",
+      "mayor mamdani &# x27",
+      "join us .< p",
+      "new york city ’",
+      "gov &# x2f",
+      "gov &# x2f",
+      "senior product manager",
+      "senior product engineer",
+      "senior product designer",
+      "public interest technology"
+    ],
+    "summary": "New York City Public Interest Technology (PIT) Crew | Senior Product Engineer, Senior Product Designer, Senior Product Manager | Full-time | NYC<p>We’re New York City’s Public Interest Technology (PIT) Crew, and we believe in using tech for good. We’re software engineers, user researchers, designers, and product managers building digital public goods for New Yorkers, faster and in-house. Each PIT Crew will work alongside City agencies and New Yorkers to design, build and launch digital solutions"
+  },
+  "04a854326c0c5b57": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_48909598_3f6c2c3237.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (July 2026))",
+    "url": "https://news.ycombinator.com/item?id=48909598",
+    "keywords": [
+      "marketron builds advertising software",
+      "website &# x2f",
+      "jobs &# x2f",
+      "jobs &# x2f",
+      "july 2026 ))",
+      "july 2026 ))",
+      "com &# x2f",
+      "com &# x2f",
+      "work .< p",
+      "&# x27"
+    ],
+    "summary": "Marketron | REMOTE (US) | Full-time | 70k - 90k | 3+ YOE required<p>Marketron builds advertising software in NodeJS and React, details available at the link below.<p>The company has been around for a long time and has a friendly, growth-oriented culture. Low bureaucracy, sustainable pace of development. We&#x27;re looking for a self-directed developer who takes ownership of their work.<p>If you apply below, feel free to send me a quick email with your resume and any links to website &#x2F; proje"
+  },
+  "0276ee58b50136e5": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_clickfixs-eco_c0342f40a6.md",
+    "source": "security",
+    "title": "[dark-reading] ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+    "keywords": [
+      "leaving yara analysis",
+      "best detection option",
+      "evades av",
+      "attack vector",
+      "10z clickfix",
+      "clickfix",
+      "clickfix",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [dark-reading] ClickFix's Mushrooming Ecosystem Demands New Defense Tactics ClickFix's Mushrooming Ecosystem Demands New Defense Tactics The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option."
+  },
+  "36c76e46691fc327": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_progress-confirms-sha_cb67bcbd4f.md",
+    "source": "security",
+    "title": "[bleeping-comp] Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+    "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+    "keywords": [
+      "progress confirms sharefile zero",
+      "progress confirms sharefile zero",
+      "released security updates",
+      "severity zero",
+      "emergency shutdown",
+      "day vulnerability",
+      "security",
+      "security",
+      "source",
+      "patch"
+    ],
+    "summary": "# [bleeping-comp] Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw."
+  },
+  "cf1da79c6e4c0042": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_upcoming-speaking-eng_3e1bb602a2.md",
+    "source": "security",
+    "title": "[schneier] Upcoming Speaking Engagements",
+    "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
+    "keywords": [
+      "relevant privacy research workshop",
+      "conventions runs august 6",
+      "conference runs august 6",
+      "09z upcoming speaking engagements",
+      "def con 34",
+      "upcoming speaking engagements",
+      "upcoming speaking engagements",
+      "cognitive security conference",
+      "boston leadership exchange",
+      "speaking time"
+    ],
+    "summary": "This is a current list of where and when I am scheduled to speak: I’m speaking (virtually) at the  Policy-Relevant Privacy Research Workshop  in Calgary, Canada, on Monday, July 20, 2026. I’m speaking at  Cognitive Security Conference  in Las Vegas, Nevada, USA."
+  },
+  "d5cb3e14c0080957": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_frontier-ai-gen_1f183aeba4.md",
+    "source": "security",
+    "title": "[dark-reading] Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?",
+    "url": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+    "keywords": [
+      "edge artificial intelligence models",
+      "several state governments",
+      "less human oversight",
+      "10z frontier ai",
+      "frontier ai",
+      "frontier ai",
+      "legislate transparency",
+      "use",
+      "trying",
+      "source"
+    ],
+    "summary": "# [dark-reading] Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook? Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use."
   }
 }
