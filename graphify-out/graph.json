@@ -4420,6 +4420,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_design_css_tricks_com_almanac_properties_p_pointer_events_9217d5a690",
+      "label": "css-tricks_com_almanac_properties_p_pointer-events_9217d5a690.md",
+      "file_type": "document",
+      "source_file": "corpus/design/css-tricks_com_almanac_properties_p_pointer-events_9217d5a690.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_design_css_tricks_com_almanac_properties_p_pointer_events_9217d5a690_css_tricks_pointer_events",
+      "label": "[css-tricks] pointer-events",
+      "file_type": "document",
+      "source_file": "corpus/design/css-tricks_com_almanac_properties_p_pointer-events_9217d5a690.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_design_css_tricks_com_almanac_pseudo_selectors_s_search_text_e431ddd398",
       "label": "css-tricks_com_almanac_pseudo-selectors_s_search-text_e431ddd398.md",
       "file_type": "document",
@@ -12856,6 +12872,22 @@
       "label": "The AI Senior Dev Dilemma: Am I Coding or Just Prompting?",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_agentic_architect_the-ai-senior-dev-dilemma-am-i-codi_e357fabbcd.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_agentis_the_last_jsonl_line_is_not_a_state_machine_pn_9616dc95a5",
+      "label": "dev_to_agentis_the-last-jsonl-line-is-not-a-state-machine-pn_9616dc95a5.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_agentis_the-last-jsonl-line-is-not-a-state-machine-pn_9616dc95a5.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_agentis_the_last_jsonl_line_is_not_a_state_machine_pn_9616dc95a5_the_last_jsonl_line_is_not_a_state_machine",
+      "label": "The Last JSONL Line Is Not a State Machine",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_agentis_the-last-jsonl-line-is-not-a-state-machine-pn_9616dc95a5.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -35964,6 +35996,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_gde_why_did_my_benchmark_stop_at_n22_a_debugging_stor_033ab549d4",
+      "label": "dev_to_gde_why-did-my-benchmark-stop-at-n22-a-debugging-stor_033ab549d4.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_gde_why-did-my-benchmark-stop-at-n22-a-debugging-stor_033ab549d4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_gde_why_did_my_benchmark_stop_at_n22_a_debugging_stor_033ab549d4_why_did_my_benchmark_stop_at_n_22_a_debugging_story_in_nine_bugs",
+      "label": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_gde_why-did-my-benchmark-stop-at-n22-a-debugging-stor_033ab549d4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_gdg_how_my_ai_agent_hacked_its_own_permissions_and_wh_46f2462f85",
       "label": "dev_to_gdg_how-my-ai-agent-hacked-its-own-permissions-and-wh_46f2462f85.md",
       "file_type": "document",
@@ -55972,6 +56020,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_moriturus_pinto_a_git_native_scrum_backlog_and_kanban_e5e9b382fe",
+      "label": "dev_to_moriturus_pinto-a-git-native-scrum-backlog-and-kanban_e5e9b382fe.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_moriturus_pinto-a-git-native-scrum-backlog-and-kanban_e5e9b382fe.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_moriturus_pinto_a_git_native_scrum_backlog_and_kanban_e5e9b382fe_pinto_a_git_native_scrum_backlog_and_kanban_board_for_your_terminal",
+      "label": "pinto: A Git-Native Scrum Backlog and Kanban Board for Your Terminal",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_moriturus_pinto-a-git-native-scrum-backlog-and-kanban_e5e9b382fe.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_moshams272_beyond_missing_exports_building_an_early_g_3f638efc93",
       "label": "dev_to_moshams272_beyond-missing-exports-building-an-early-g_3f638efc93.md",
       "file_type": "document",
@@ -56272,6 +56336,22 @@
       "label": "# Why I built Glyphic as infrastructure, not an app",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_msteja_-why-i-built-glyphic-as-infrastructure-not-an-_081309b6d7.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_msteja_a_diagram_is_data_not_a_drawing_4ej6_c5c2f8fba8",
+      "label": "dev_to_msteja_a-diagram-is-data-not-a-drawing-4ej6_c5c2f8fba8.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_msteja_a-diagram-is-data-not-a-drawing-4ej6_c5c2f8fba8.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_msteja_a_diagram_is_data_not_a_drawing_4ej6_c5c2f8fba8_a_diagram_is_data_not_a_drawing",
+      "label": "A diagram is data, not a drawing",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_msteja_a-diagram-is-data-not-a-drawing-4ej6_c5c2f8fba8.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -64688,6 +64768,22 @@
       "label": "MCP for TypeScript Developers: What It Actually Solves Beyond the Hype",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_raju_dandigam_mcp-for-typescript-developers-what-it-a_a4de4032bb.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_rakkunn_migrating_from_localstorage_to_native_fs_in_t_d281d7513d",
+      "label": "dev_to_rakkunn_migrating-from-localstorage-to-native-fs-in-t_d281d7513d.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_rakkunn_migrating-from-localstorage-to-native-fs-in-t_d281d7513d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_rakkunn_migrating_from_localstorage_to_native_fs_in_t_d281d7513d_migrating_from_localstorage_to_native_fs_in_tauri_repo_rter_v0_4_1_technical_deep_dive",
+      "label": "Migrating from LocalStorage to Native FS in Tauri: Repo-rter v0.4.1 Technical Deep Dive",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_rakkunn_migrating-from-localstorage-to-native-fs-in-t_d281d7513d.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -118012,6 +118108,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_brainless_swerdlow_dev_98a6a85447",
+      "label": "brainless_swerdlow_dev_98a6a85447.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/brainless_swerdlow_dev_98a6a85447.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_brainless_swerdlow_dev_98a6a85447_brainless_shadcn_components_that_look_like_claude_code_codex_and_grok",
+      "label": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/brainless_swerdlow_dev_98a6a85447.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_brandur_org_minimum_viable_unit_d1119878d9",
       "label": "brandur_org_minimum-viable-unit_d1119878d9.md",
       "file_type": "document",
@@ -122600,6 +122712,22 @@
       "label": "The Economics of Recursive Self-Improvement [pdf]",
       "file_type": "document",
       "source_file": "corpus/hackernews/elasticity_institute_rsi-paper_pdf_a07695ee60.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_elbowgreasegames_substack_com_p_misfits_attic_announces_dusk_cdbce07899",
+      "label": "elbowgreasegames_substack_com_p_misfits-attic-announces-dusk_cdbce07899.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/elbowgreasegames_substack_com_p_misfits-attic-announces-dusk_cdbce07899.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_elbowgreasegames_substack_com_p_misfits_attic_announces_dusk_cdbce07899_duskers_the_scary_command_line_game_is_getting_a_sequel",
+      "label": "Duskers, the scary command line game, is getting a sequel",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/elbowgreasegames_substack_com_p_misfits-attic-announces-dusk_cdbce07899.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -142412,6 +142540,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_openai_com_index_unlocking_self_improvement_gpt_red_789509211e",
+      "label": "openai_com_index_unlocking-self-improvement-gpt-red_789509211e.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/openai_com_index_unlocking-self-improvement-gpt-red_789509211e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_openai_com_index_unlocking_self_improvement_gpt_red_789509211e_gpt_red_unlocking_self_improvement_for_robustness",
+      "label": "GPT‑Red: Unlocking Self-Improvement for Robustness",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/openai_com_index_unlocking-self-improvement-gpt-red_789509211e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_openai_com_supply_co_lab_work_louder_f58c86e8a7",
       "label": "openai_com_supply_co-lab_work-louder_f58c86e8a7.md",
       "file_type": "document",
@@ -153852,6 +153996,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_abortretry_fail_p_micro_instrumentation_and_telemetry_6aa94bf167",
+      "label": "www_abortretry_fail_p_micro-instrumentation-and-telemetry_6aa94bf167.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_abortretry_fail_p_micro-instrumentation-and-telemetry_6aa94bf167.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_abortretry_fail_p_micro_instrumentation_and_telemetry_6aa94bf167_mits_rockets_calculators_and_personal_computers",
+      "label": "MITS: Rockets, Calculators, and Personal Computers",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_abortretry_fail_p_micro-instrumentation-and-telemetry_6aa94bf167.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_absurdlyoptimized_com_recipes_pancakes_1e58b96d37",
       "label": "www_absurdlyoptimized_com_recipes_pancakes_1e58b96d37.md",
       "file_type": "document",
@@ -157948,6 +158108,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_dropsitenews_com_p_iran_jd_vance_kushner_witkoff_exploit_1aee3f2526",
+      "label": "www_dropsitenews_com_p_iran-jd-vance-kushner-witkoff-exploit_1aee3f2526.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_dropsitenews_com_p_iran-jd-vance-kushner-witkoff-exploit_1aee3f2526.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_dropsitenews_com_p_iran_jd_vance_kushner_witkoff_exploit_1aee3f2526_iran_messaged_vance_warning_that_us_envoys_were_abusing_their_inside_access",
+      "label": "Iran Messaged Vance Warning That US Envoys Were \"Abusing\" Their Inside Access",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_dropsitenews_com_p_iran-jd-vance-kushner-witkoff-exploit_1aee3f2526.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_duration_ai_blog_generating_images_with_a_2025_android_6fbef2f91e",
       "label": "www_duration_ai_blog_generating-images-with-a-2025-android_6fbef2f91e.md",
       "file_type": "document",
@@ -159624,6 +159800,22 @@
       "label": "Why do commercial spaces sit vacant? (2025)",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_freerange_city_p_why-do-commercial-spaces-sit-vacant_c7355dad73.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_freestyle_sh_blog_opinion_designing_apis_for_agents_8170d8a1f5",
+      "label": "www_freestyle_sh_blog_opinion_designing-apis-for-agents_8170d8a1f5.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_freestyle_sh_blog_opinion_designing-apis-for-agents_8170d8a1f5.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_freestyle_sh_blog_opinion_designing_apis_for_agents_8170d8a1f5_designing_apis_for_agents",
+      "label": "Designing APIs for Agents",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_freestyle_sh_blog_opinion_designing-apis-for-agents_8170d8a1f5.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -161656,6 +161848,22 @@
       "label": "Probabilistic, Reformative Justice",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_lesswrong_com_posts_dqbhcm6g7CMWvhoid_probabilistic-refo_aaecb15e13.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_lexaloffle_com_voxatron_php_039e5799ea",
+      "label": "www_lexaloffle_com_voxatron_php_039e5799ea.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_lexaloffle_com_voxatron_php_039e5799ea.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_lexaloffle_com_voxatron_php_039e5799ea_voxatron",
+      "label": "Voxatron",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_lexaloffle_com_voxatron_php_039e5799ea.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -169240,6 +169448,22 @@
       "label": "Irish datacenters now guzzle 23% of the country's electricity",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_theregister_com_on-prem_2026_07_11_irish-datacenters-now_cad321884f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_theregister_com_os_platforms_2026_07_15_dark_patterns_in_3aad06e7f7",
+      "label": "www_theregister_com_os-platforms_2026_07_15_dark-patterns-in_3aad06e7f7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_theregister_com_os-platforms_2026_07_15_dark-patterns-in_3aad06e7f7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_theregister_com_os_platforms_2026_07_15_dark_patterns_in_3aad06e7f7_dark_patterns_in_windows_are_steering_users_to_edge_mozilla_commissioned_report",
+      "label": "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_theregister_com_os-platforms_2026_07_15_dark-patterns-in_3aad06e7f7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -183132,6 +183356,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_legal_www_eff_org_deeplinks_2026_07_most_smart_watches_rings_and_b_10e400439b",
+      "label": "www_eff_org_deeplinks_2026_07_most-smart-watches-rings-and-b_10e400439b.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_eff_org_deeplinks_2026_07_most-smart-watches-rings-and-b_10e400439b.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_eff_org_deeplinks_2026_07_most_smart_watches_rings_and_b_10e400439b_eff_most_smart_watches_rings_and_bands_lack_basic_transparency_reports_and_key_privacy_features",
+      "label": "[eff] Most Smart Watches, Rings, and Bands Lack Basic Transparency Reports and Key Privacy Features",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_eff_org_deeplinks_2026_07_most-smart-watches-rings-and-b_10e400439b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_legal_www_eff_org_deeplinks_2026_07_part_1_automated_moderation_he_662d2e6743",
       "label": "www_eff_org_deeplinks_2026_07_part-1-automated-moderation-he_662d2e6743.md",
       "file_type": "document",
@@ -186728,6 +186968,22 @@
       "label": "[techdirt] Daily Deal: Opusonix Pro Subscription",
       "file_type": "document",
       "source_file": "corpus/legal/www_techdirt_com_2026_07_15_daily-deal-opusonix-pro-subscrip_1f91c0f004.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_techdirt_com_2026_07_15_fifth_circuit_looks_like_its_rea_b9220fcda4",
+      "label": "www_techdirt_com_2026_07_15_fifth-circuit-looks-like-its-rea_b9220fcda4.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_15_fifth-circuit-looks-like-its-rea_b9220fcda4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_techdirt_com_2026_07_15_fifth_circuit_looks_like_its_rea_b9220fcda4_techdirt_fifth_circuit_looks_like_it_s_ready_to_roll_back_its_decision_recognizing_due_process_rights_for_migrants",
+      "label": "[techdirt] Fifth Circuit Looks Like It’s Ready To Roll Back Its Decision Recognizing Due Process Rights For Migrants",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_15_fifth-circuit-looks-like-its-rea_b9220fcda4.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -190904,6 +191160,22 @@
       "label": "[techcrunch-startups] Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
       "file_type": "document",
       "source_file": "corpus/product/techcrunch_com_2026_07_15_backed-by-60m-in-funding-oak-steps_88cec30382.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_product_techcrunch_com_2026_07_15_daniel_eks_body_scanning_startup_n_3581a245f4",
+      "label": "techcrunch_com_2026_07_15_daniel-eks-body-scanning-startup-n_3581a245f4.md",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_07_15_daniel-eks-body-scanning-startup-n_3581a245f4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_product_techcrunch_com_2026_07_15_daniel_eks_body_scanning_startup_n_3581a245f4_techcrunch_startups_daniel_ek_s_body_scanning_startup_neko_health_raises_another_700m",
+      "label": "[techcrunch-startups] Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_07_15_daniel-eks-body-scanning-startup-n_3581a245f4.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -206812,6 +207084,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_security_www_bleepingcomputer_com_news_security_zoom_warns_of_critica_59248d0152",
+      "label": "www_bleepingcomputer_com_news_security_zoom-warns-of-critica_59248d0152.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_zoom-warns-of-critica_59248d0152.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_bleepingcomputer_com_news_security_zoom_warns_of_critica_59248d0152_bleeping_comp_zoom_warns_of_critical_account_takeover_vulnerability",
+      "label": "[bleeping-comp] Zoom warns of critical account takeover vulnerability",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_zoom-warns-of-critica_59248d0152.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_security_www_bleepingcomputer_com_news_software_brave_software_releas_f199e98d8f",
       "label": "www_bleepingcomputer_com_news_software_brave-software-releas_f199e98d8f.md",
       "file_type": "document",
@@ -208792,6 +209080,22 @@
       "label": "[dark-reading] Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
       "file_type": "document",
       "source_file": "corpus/security/www_darkreading_com_identity-access-management-security_cisc_602a4aee23.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_darkreading_com_identity_access_management_security_iden_624a1ca522",
+      "label": "www_darkreading_com_identity-access-management-security_iden_624a1ca522.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_darkreading_com_identity-access-management-security_iden_624a1ca522.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_darkreading_com_identity_access_management_security_iden_624a1ca522_dark_reading_identity_attacks_overtake_exploits_as_top_ransomware_cause",
+      "label": "[dark-reading] Identity Attacks Overtake Exploits as Top Ransomware Cause",
+      "file_type": "document",
+      "source_file": "corpus/security/www_darkreading_com_identity-access-management-security_iden_624a1ca522.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -211416,6 +211720,22 @@
       "label": "Increased limit for projects per Git repo",
       "file_type": "document",
       "source_file": "corpus/vercel-blog/vercel_com_changelog_increased-limit-for-projects-per-git-re_2e31033201.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_vercel_blog_vercel_com_changelog_inkling_from_thinking_machines_is_now_a_de574f4082",
+      "label": "vercel_com_changelog_inkling-from-thinking-machines-is-now-a_de574f4082.md",
+      "file_type": "document",
+      "source_file": "corpus/vercel-blog/vercel_com_changelog_inkling-from-thinking-machines-is-now-a_de574f4082.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_vercel_blog_vercel_com_changelog_inkling_from_thinking_machines_is_now_a_de574f4082_inkling_from_thinking_machines_is_now_available_on_ai_gateway",
+      "label": "Inkling from Thinking Machines is now available on AI Gateway",
+      "file_type": "document",
+      "source_file": "corpus/vercel-blog/vercel_com_changelog_inkling-from-thinking-machines-is-now-a_de574f4082.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -228672,6 +228992,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_design_css_tricks_com_almanac_properties_p_pointer_events_9217d5a690",
+      "target": "corpus_design_css_tricks_com_almanac_properties_p_pointer_events_9217d5a690_css_tricks_pointer_events",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/design/css-tricks_com_almanac_properties_p_pointer-events_9217d5a690.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_design_css_tricks_com_almanac_pseudo_selectors_s_search_text_e431ddd398",
       "target": "corpus_design_css_tricks_com_almanac_pseudo_selectors_s_search_text_e431ddd398_css_tricks_search_text",
       "relation": "contains",
@@ -233957,6 +234287,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_agentic_architect_the-ai-senior-dev-dilemma-am-i-codi_e357fabbcd.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_devto_dev_to_agentis_the_last_jsonl_line_is_not_a_state_machine_pn_9616dc95a5",
+      "target": "corpus_devto_dev_to_agentis_the_last_jsonl_line_is_not_a_state_machine_pn_9616dc95a5_the_last_jsonl_line_is_not_a_state_machine",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_agentis_the-last-jsonl-line-is-not-a-state-machine-pn_9616dc95a5.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -248402,6 +248742,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_devto_dev_to_gde_why_did_my_benchmark_stop_at_n22_a_debugging_stor_033ab549d4",
+      "target": "corpus_devto_dev_to_gde_why_did_my_benchmark_stop_at_n22_a_debugging_stor_033ab549d4_why_did_my_benchmark_stop_at_n_22_a_debugging_story_in_nine_bugs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_gde_why-did-my-benchmark-stop-at-n22-a-debugging-stor_033ab549d4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_devto_dev_to_gdg_how_my_ai_agent_hacked_its_own_permissions_and_wh_46f2462f85",
       "target": "corpus_devto_dev_to_gdg_how_my_ai_agent_hacked_its_own_permissions_and_wh_46f2462f85_how_my_ai_agent_hacked_its_own_permissions_and_what_it_taught_me",
       "relation": "contains",
@@ -260922,6 +261272,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_devto_dev_to_moriturus_pinto_a_git_native_scrum_backlog_and_kanban_e5e9b382fe",
+      "target": "corpus_devto_dev_to_moriturus_pinto_a_git_native_scrum_backlog_and_kanban_e5e9b382fe_pinto_a_git_native_scrum_backlog_and_kanban_board_for_your_terminal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_moriturus_pinto-a-git-native-scrum-backlog-and-kanban_e5e9b382fe.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_devto_dev_to_moshams272_beyond_missing_exports_building_an_early_g_3f638efc93",
       "target": "corpus_devto_dev_to_moshams272_beyond_missing_exports_building_an_early_g_3f638efc93_beyond_missing_exports_building_an_early_garbage_collector_for_webpack_s_typedoc_ast",
       "relation": "contains",
@@ -261107,6 +261467,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_msteja_-why-i-built-glyphic-as-infrastructure-not-an-_081309b6d7.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_devto_dev_to_msteja_a_diagram_is_data_not_a_drawing_4ej6_c5c2f8fba8",
+      "target": "corpus_devto_dev_to_msteja_a_diagram_is_data_not_a_drawing_4ej6_c5c2f8fba8_a_diagram_is_data_not_a_drawing",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_msteja_a-diagram-is-data-not-a-drawing-4ej6_c5c2f8fba8.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -266367,6 +266737,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_raju_dandigam_mcp-for-typescript-developers-what-it-a_a4de4032bb.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_devto_dev_to_rakkunn_migrating_from_localstorage_to_native_fs_in_t_d281d7513d",
+      "target": "corpus_devto_dev_to_rakkunn_migrating_from_localstorage_to_native_fs_in_t_d281d7513d_migrating_from_localstorage_to_native_fs_in_tauri_repo_rter_v0_4_1_technical_deep_dive",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_rakkunn_migrating-from-localstorage-to-native-fs-in-t_d281d7513d.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -307192,6 +307572,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_brainless_swerdlow_dev_98a6a85447",
+      "target": "corpus_hackernews_brainless_swerdlow_dev_98a6a85447_brainless_shadcn_components_that_look_like_claude_code_codex_and_grok",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/brainless_swerdlow_dev_98a6a85447.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_brandur_org_minimum_viable_unit_d1119878d9",
       "target": "corpus_hackernews_brandur_org_minimum_viable_unit_d1119878d9_the_minimum_viable_unit_of_saleable_software",
       "relation": "contains",
@@ -310057,6 +310447,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/elasticity_institute_rsi-paper_pdf_a07695ee60.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_elbowgreasegames_substack_com_p_misfits_attic_announces_dusk_cdbce07899",
+      "target": "corpus_hackernews_elbowgreasegames_substack_com_p_misfits_attic_announces_dusk_cdbce07899_duskers_the_scary_command_line_game_is_getting_a_sequel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/elbowgreasegames_substack_com_p_misfits-attic-announces-dusk_cdbce07899.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -322462,6 +322862,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_openai_com_index_unlocking_self_improvement_gpt_red_789509211e",
+      "target": "corpus_hackernews_openai_com_index_unlocking_self_improvement_gpt_red_789509211e_gpt_red_unlocking_self_improvement_for_robustness",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/openai_com_index_unlocking-self-improvement-gpt-red_789509211e.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_openai_com_supply_co_lab_work_louder_f58c86e8a7",
       "target": "corpus_hackernews_openai_com_supply_co_lab_work_louder_f58c86e8a7_codex_micro",
       "relation": "contains",
@@ -329612,6 +330022,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_abortretry_fail_p_micro_instrumentation_and_telemetry_6aa94bf167",
+      "target": "corpus_hackernews_www_abortretry_fail_p_micro_instrumentation_and_telemetry_6aa94bf167_mits_rockets_calculators_and_personal_computers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_abortretry_fail_p_micro-instrumentation-and-telemetry_6aa94bf167.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_absurdlyoptimized_com_recipes_pancakes_1e58b96d37",
       "target": "corpus_hackernews_www_absurdlyoptimized_com_recipes_pancakes_1e58b96d37_show_hn_i_derived_a_pancake",
       "relation": "contains",
@@ -332172,6 +332592,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_dropsitenews_com_p_iran_jd_vance_kushner_witkoff_exploit_1aee3f2526",
+      "target": "corpus_hackernews_www_dropsitenews_com_p_iran_jd_vance_kushner_witkoff_exploit_1aee3f2526_iran_messaged_vance_warning_that_us_envoys_were_abusing_their_inside_access",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_dropsitenews_com_p_iran-jd-vance-kushner-witkoff-exploit_1aee3f2526.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_duration_ai_blog_generating_images_with_a_2025_android_6fbef2f91e",
       "target": "corpus_hackernews_www_duration_ai_blog_generating_images_with_a_2025_android_6fbef2f91e_generating_images_with_a_2025_android",
       "relation": "contains",
@@ -333217,6 +333647,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_freerange_city_p_why-do-commercial-spaces-sit-vacant_c7355dad73.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_freestyle_sh_blog_opinion_designing_apis_for_agents_8170d8a1f5",
+      "target": "corpus_hackernews_www_freestyle_sh_blog_opinion_designing_apis_for_agents_8170d8a1f5_designing_apis_for_agents",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_freestyle_sh_blog_opinion_designing-apis-for-agents_8170d8a1f5.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -334487,6 +334927,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_lesswrong_com_posts_dqbhcm6g7CMWvhoid_probabilistic-refo_aaecb15e13.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_lexaloffle_com_voxatron_php_039e5799ea",
+      "target": "corpus_hackernews_www_lexaloffle_com_voxatron_php_039e5799ea_voxatron",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_lexaloffle_com_voxatron_php_039e5799ea.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -339227,6 +339677,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_theregister_com_on-prem_2026_07_11_irish-datacenters-now_cad321884f.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_theregister_com_os_platforms_2026_07_15_dark_patterns_in_3aad06e7f7",
+      "target": "corpus_hackernews_www_theregister_com_os_platforms_2026_07_15_dark_patterns_in_3aad06e7f7_dark_patterns_in_windows_are_steering_users_to_edge_mozilla_commissioned_report",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_theregister_com_os-platforms_2026_07_15_dark-patterns-in_3aad06e7f7.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -347922,6 +348382,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_legal_www_eff_org_deeplinks_2026_07_most_smart_watches_rings_and_b_10e400439b",
+      "target": "corpus_legal_www_eff_org_deeplinks_2026_07_most_smart_watches_rings_and_b_10e400439b_eff_most_smart_watches_rings_and_bands_lack_basic_transparency_reports_and_key_privacy_features",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/www_eff_org_deeplinks_2026_07_most-smart-watches-rings-and-b_10e400439b.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_legal_www_eff_org_deeplinks_2026_07_part_1_automated_moderation_he_662d2e6743",
       "target": "corpus_legal_www_eff_org_deeplinks_2026_07_part_1_automated_moderation_he_662d2e6743_eff_automated_moderation_is_here_to_stay",
       "relation": "contains",
@@ -350167,6 +350637,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/legal/www_techdirt_com_2026_07_15_daily-deal-opusonix-pro-subscrip_1f91c0f004.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_legal_www_techdirt_com_2026_07_15_fifth_circuit_looks_like_its_rea_b9220fcda4",
+      "target": "corpus_legal_www_techdirt_com_2026_07_15_fifth_circuit_looks_like_its_rea_b9220fcda4_techdirt_fifth_circuit_looks_like_it_s_ready_to_roll_back_its_decision_recognizing_due_process_rights_for_migrants",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_15_fifth-circuit-looks-like-its-rea_b9220fcda4.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -352807,6 +353287,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/product/techcrunch_com_2026_07_15_backed-by-60m-in-funding-oak-steps_88cec30382.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_product_techcrunch_com_2026_07_15_daniel_eks_body_scanning_startup_n_3581a245f4",
+      "target": "corpus_product_techcrunch_com_2026_07_15_daniel_eks_body_scanning_startup_n_3581a245f4_techcrunch_startups_daniel_ek_s_body_scanning_startup_neko_health_raises_another_700m",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/product/techcrunch_com_2026_07_15_daniel-eks-body-scanning-startup-n_3581a245f4.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -363112,6 +363602,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_security_www_bleepingcomputer_com_news_security_zoom_warns_of_critica_59248d0152",
+      "target": "corpus_security_www_bleepingcomputer_com_news_security_zoom_warns_of_critica_59248d0152_bleeping_comp_zoom_warns_of_critical_account_takeover_vulnerability",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_zoom-warns-of-critica_59248d0152.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_security_www_bleepingcomputer_com_news_software_brave_software_releas_f199e98d8f",
       "target": "corpus_security_www_bleepingcomputer_com_news_software_brave_software_releas_f199e98d8f_bleeping_comp_brave_software_releases_origin_for_a_paid_bloat_free_browsing_experience",
       "relation": "contains",
@@ -364347,6 +364847,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/www_darkreading_com_identity-access-management-security_cisc_602a4aee23.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_security_www_darkreading_com_identity_access_management_security_iden_624a1ca522",
+      "target": "corpus_security_www_darkreading_com_identity_access_management_security_iden_624a1ca522_dark_reading_identity_attacks_overtake_exploits_as_top_ransomware_cause",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_darkreading_com_identity-access-management-security_iden_624a1ca522.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -365987,6 +366497,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/vercel-blog/vercel_com_changelog_increased-limit-for-projects-per-git-re_2e31033201.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_vercel_blog_vercel_com_changelog_inkling_from_thinking_machines_is_now_a_de574f4082",
+      "target": "corpus_vercel_blog_vercel_com_changelog_inkling_from_thinking_machines_is_now_a_de574f4082_inkling_from_thinking_machines_is_now_available_on_ai_gateway",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/vercel-blog/vercel_com_changelog_inkling-from-thinking-machines-is-now-a_de574f4082.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
