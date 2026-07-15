@@ -236055,5 +236055,231 @@
       "federal prosecutors"
     ],
     "summary": "# [bleeping-comp] US charges alleged operators of Russian bulletproof hosting service US charges alleged operators of Russian bulletproof hosting service U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide."
+  },
+  "44e76f55ecbe2ec7": {
+    "file": "corpus/podcast/syntax_fm_1021_4fe7820e85.md",
+    "source": "podcast",
+    "title": "[syntax-fm] 1021: We got addicted to an AI model we can't talk about",
+    "url": "https://syntax.fm/1021",
+    "keywords": [
+      "x instagram youtube threads",
+      "22 remote development environments",
+      "dev opentui hit us",
+      "15 software engineering methodology",
+      "21 open code 2",
+      "08 navigating claude code",
+      "23 comparing open source",
+      "ai model usage 30",
+      "talk remote dev servers",
+      "design philosophy 21"
+    ],
+    "summary": "Dax Raad, co-founder of OpenCode, joins Scott and Wes to talk remote dev servers, OpenCode 2.0, and why his team is “addicted” to AI models they’re not even allowed to name yet. 28:27 Cost Implications of AI Model Usage 35:40 The Future of API Access for AI Models"
+  },
+  "9bca4192879aad8f": {
+    "file": "corpus/design/smashingmagazine_com_2026_07_people-dont-want-more-ai_246910f432.md",
+    "source": "design",
+    "title": "[smashing-magazine] No, People Don’t Want More AI In Their Life",
+    "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+    "keywords": [
+      "** friendly video courses",
+      "ai leaders envision",
+      "ux **",
+      "design patterns",
+      "design patterns",
+      "ai interfaces",
+      "design",
+      "design"
+    ],
+    "summary": "# [smashing-magazine] No, People Don’t Want More AI In Their Life No, People Don’t Want More AI In Their Life But the reality is that most people don't want more AI &mdash; at least not in the way most AI leaders envision it."
+  },
+  "d8c534fd2f866f78": {
+    "file": "corpus/hackernews/github_com_vihdzp_combinatorial-games_86d5dd2851.md",
+    "source": "hackernews",
+    "title": "Combinatorial Games in Lean",
+    "url": "https://github.com/vihdzp/combinatorial-games",
+    "keywords": [
+      "combinatorial games",
+      "combinatorial games",
+      "44z score",
+      "source",
+      "news",
+      "lean",
+      "lean",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Combinatorial Games in Lean > Source: hackernews | Category: news | 2026-07-15T11:09:44Z Score: 15 | Comments: 2"
+  },
+  "722384dae5c00fdd": {
+    "file": "corpus/hackernews/github_com_LazoVelko_neverclick_033c6e5c53.md",
+    "source": "hackernews",
+    "title": "Neverclick: Desktop application for performing mouse actions with your keyboard",
+    "url": "https://github.com/LazoVelko/neverclick",
+    "keywords": [
+      "performing mouse actions",
+      "performing mouse actions",
+      "desktop application",
+      "desktop application",
+      "46z score",
+      "source",
+      "news",
+      "neverclick",
+      "neverclick",
+      "keyboard"
+    ],
+    "summary": "# Neverclick: Desktop application for performing mouse actions with your keyboard > Source: hackernews | Category: news | 2026-07-15T11:09:46Z Score: 11 | Comments: 9"
+  },
+  "b8ea8752536b0ddf": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_claude-apps-gateway-aws_utm_campa_9e2dcb2c8d.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop",
+    "url": "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "single stateless container",
+      "hosted control plane",
+      "hosted control plane",
+      "hosted control plane",
+      "hosted control plane",
+      "claude apps gateway",
+      "claude desktop aws",
+      "gateway runs",
+      "claude desktop",
+      "claude desktop"
+    ],
+    "summary": "# [infoq] AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS."
+  },
+  "df9bb7ca8351d9cf": {
+    "file": "corpus/security/thehackernews_com_2026_07_cursor-flaw-lets-malicious-cloned__48833fc438.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+    "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+    "keywords": [
+      "project stays open",
+      "project root",
+      "ssh keys",
+      "file named",
+      "cloud tokens",
+      "approval dialog",
+      "cursor runs",
+      "cursor keeps",
+      "cursor",
+      "windows"
+    ],
+    "summary": "# [hacker-news-sec] Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it."
+  },
+  "51597ab5dddf9522": {
+    "file": "corpus/security/thehackernews_com_2026_07_compromised-asyncapi-npm-packages__906c19b34c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+    "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "keywords": [
+      "stage botnet malware",
+      "stage botnet malware",
+      "stage botnet loader",
+      "observed distributing",
+      "affected packages",
+      "ox security",
+      "asyncapi namespace",
+      "security",
+      "security",
+      "asyncapi"
+    ],
+    "summary": "# [hacker-news-sec] Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity."
+  },
+  "9780d5a3af78251f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-warns-admins-to-_98464d0ee1.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA warns admins to patch actively exploited SharePoint flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+    "keywords": [
+      "premises sharepoint server instances",
+      "actively exploiting three vulnerabilities",
+      "45z cisa warns admins",
+      "cisa warns admins",
+      "cisa warns admins",
+      "infrastructure security agency",
+      "warned tuesday",
+      "hack internet",
+      "cisa",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] CISA warns admins to patch actively exploited SharePoint flaws CISA warns admins to patch actively exploited SharePoint flaws The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances."
+  },
+  "e1e2811474ad8f5b": {
+    "file": "corpus/finance/news_crunchbase_com_fintech_funding-rises-deals-slump-h1-202_cd88da69df.md",
+    "source": "finance",
+    "title": "[crunchbase] Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On AI And Financial Infrastructure",
+    "url": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
+    "keywords": [
+      "fintech funding surges 23",
+      "fintech funding surges 23",
+      "financial infrastructure venture funding",
+      "much larger checks",
+      "deal count fell",
+      "financial infrastructure",
+      "financial infrastructure",
+      "financial infrastructure",
+      "writing fewer",
+      "wealth management"
+    ],
+    "summary": "# [crunchbase] Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On AI And Financial Infrastructure Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On AI And Financial Infrastructure Venture funding into fintech startups climbed nearly 23% year over year in H1 2026, even as deal count fell more than 25%, Crunchbase data shows, a sign that investors are writing fewer, but much larger checks into the sector as they focus on areas such as wealth man"
+  },
+  "f1c03823b3210d73": {
+    "file": "corpus/finance/news_crunchbase_com_venture_corporate-vc-splitting-paypal-fi_5b84b66487.md",
+    "source": "finance",
+    "title": "[crunchbase] Corporate Venture Capital Is Splitting In Two",
+    "url": "https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha/",
+    "keywords": [
+      "43z corporate venture capital",
+      "corporate venture capital",
+      "corporate venture capital",
+      "smaller funds",
+      "feel first",
+      "data points",
+      "alpha partners",
+      "wind",
+      "two",
+      "two"
+    ],
+    "summary": "# [crunchbase] Corporate Venture Capital Is Splitting In Two Corporate Venture Capital Is Splitting In Two The wind-downs at PayPal and Fidelity International may look like a retreat, but the data points to a concentration of power at the top of the market that smaller funds will feel first, writes guest author Steve Brotman of Alpha Partners."
+  },
+  "9d553855d0a165a5": {
+    "file": "corpus/devto/dev_to_parsajiravand_your-sort-is-mutating-state-javascript-_c652ea67fa.md",
+    "source": "devto",
+    "title": "Your `.sort()` is mutating state. JavaScript finally gave you the fix.",
+    "url": "https://dev.to/parsajiravand/your-sort-is-mutating-state-javascript-finally-gave-you-the-fix-12i2",
+    "keywords": [
+      "javascript finally gave",
+      "javascript finally gave",
+      "`. sort ()`",
+      "`. sort ()`",
+      "mutating state",
+      "mutating state",
+      "tasks",
+      "source",
+      "shipped",
+      "settasks"
+    ],
+    "summary": "JavaScript finally gave you the fix. Here is a bug I have shipped before. Maybe you have too:    const [tasks, setTasks] =..."
+  },
+  "d9ebd60d7ff76bc2": {
+    "file": "corpus/product/techcrunch_com_2026_07_15_backed-by-60m-in-funding-oak-steps_88cec30382.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+    "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+    "keywords": [
+      "senior entrepreneur shai morag",
+      "making worse cofounded",
+      "making worse",
+      "making worse",
+      "oak steps",
+      "oak steps",
+      "oak steps",
+      "identity mess",
+      "identity mess",
+      "identity mess"
+    ],
+    "summary": "# [techcrunch-startups] Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse Cofounded by senior entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding."
   }
 }
