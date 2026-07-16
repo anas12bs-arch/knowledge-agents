@@ -242770,5 +242770,512 @@
       "vite"
     ],
     "summary": "# vitejs/vite v8.1.5 released > Source: github-releases | Category: changelog | 2026-07-16T08:41:25Z Please refer to [CHANGELOG.md](https://github.com/vitejs/vite/blob/v8.1.5/packages/vite/CHANGELOG.md) for details."
+  },
+  "4503e08205ba3fb7": {
+    "file": "corpus/podcast/softwareengineeringdaily_com_2026_07_16_agentic-devops-at-aw_2ba57ec557.md",
+    "source": "podcast",
+    "title": "[software-engineering-daily] Agentic DevOps at AWS",
+    "url": "https://softwareengineeringdaily.com/2026/07/16/agentic-devops-at-aws/?utm_source=rss&utm_medium=rss&utm_campaign=agentic-devops-at-aws",
+    "keywords": [
+      "reasoning across large amounts",
+      "persistent pain points",
+      "call engineer woken",
+      "aws appeared first",
+      "aws ai agents",
+      "post agentic devops",
+      "42z agentic devops",
+      "software engineering daily",
+      "agentic devops",
+      "agentic devops"
+    ],
+    "summary": "# [software-engineering-daily] Agentic DevOps at AWS AI agents have become capable of reasoning across large amounts of data, calling tools, and taking sequences of actions autonomously. These qualities make them well suited to some of the most persistent pain points in DevOps, including the on-call engineer woken at 3 AM to diagnose an incident, the build failure that takes hours to The post  Agentic DevOps at AWS  appeared first on  Software Engineering Daily ."
+  },
+  "1542e3ba290439b3": {
+    "file": "corpus/hackernews/aikoschurmann_com_blog_string-interning-compilers_57a0dbc4c5.md",
+    "source": "hackernews",
+    "title": "Dense Arena Interning: The Engine of Compiler Performance",
+    "url": "https://aikoschurmann.com/blog/string-interning-compilers",
+    "keywords": [
+      "dense arena interning",
+      "dense arena interning",
+      "compiler performance",
+      "compiler performance",
+      "09z score",
+      "source",
+      "news",
+      "hackernews",
+      "engine",
+      "engine"
+    ],
+    "summary": "# Dense Arena Interning: The Engine of Compiler Performance > Source: hackernews | Category: news | 2026-07-16T10:33:09Z Score: 8 | Comments: 1"
+  },
+  "c0e16f2628d6a196": {
+    "file": "corpus/hackernews/joinedanthropic_com_66a8bf2471.md",
+    "source": "hackernews",
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "url": "https://joinedanthropic.com",
+    "keywords": [
+      "yc founders",
+      "yc founders",
+      "04z score",
+      "source",
+      "openai",
+      "openai",
+      "news",
+      "mostly",
+      "mostly",
+      "hackernews"
+    ],
+    "summary": "# Where are YC founders now? OpenAI and Anthropic, mostly > Source: hackernews | Category: news | 2026-07-16T10:33:04Z"
+  },
+  "bbc5e0a74e1eccb9": {
+    "file": "corpus/hackernews/www_seangoedecke_com_in-defense-of-not-understanding-your-co_0504384aa4.md",
+    "source": "hackernews",
+    "title": "In defense of not understanding your codebase",
+    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "keywords": [
+      "06z score",
+      "understanding",
+      "understanding",
+      "source",
+      "news",
+      "hackernews",
+      "defense",
+      "defense",
+      "comments",
+      "codebase"
+    ],
+    "summary": "# In defense of not understanding your codebase > Source: hackernews | Category: news | 2026-07-16T10:33:06Z Score: 10 | Comments: 10"
+  },
+  "18b4cdd8ae2531e4": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_ai-agents-billing-guardrails_utm__37f705eb85.md",
+    "source": "engineering",
+    "title": "[infoq] AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes",
+    "url": "https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "outrunning billing guardrails built",
+      "outrunning billing guardrails built",
+      "outrunning billing guardrails built",
+      "cloud billing lags roughly",
+      "person agency received",
+      "burned claude invocations",
+      "autonomous agent provisioned",
+      "000 aws bill",
+      "day behind agent",
+      "05z ai agents"
+    ],
+    "summary": "# [infoq] AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend."
+  },
+  "4048a27967107525": {
+    "file": "corpus/engineering/www_infoq_com_presentations_rust-tps-service_utm_campaign_in_fedb8ec3e4.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: The Rust High Performance Talk You Did Not Expect",
+    "url": "https://www.infoq.com/presentations/rust-tps-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "rust high performance talk",
+      "rust high performance talk",
+      "rust high performance talk",
+      "expect ruth linehan explains",
+      "rust borrow checker",
+      "performance caching services",
+      "tools like criterion",
+      "time safety shortens",
+      "developer feedback loop",
+      "ruth linehan"
+    ],
+    "summary": "# [infoq] Presentation: The Rust High Performance Talk You Did Not Expect Presentation: The Rust High Performance Talk You Did Not Expect Ruth Linehan explains how migrating high-performance caching services from Kotlin to Rust shattered internal preconceptions around delivery velocity and engineering overhead."
+  },
+  "13306a50d591f5a1": {
+    "file": "corpus/security/thehackernews_com_2026_07_openais-gpt-red-automates-prompt_h_ef5250380f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+    "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+    "keywords": [
+      "prompt injection attacks ,\"",
+      "use gpt ‑ red",
+      "internal automated red",
+      "gpt ‑ red",
+      "04z openai ’",
+      "6 sol openai",
+      "openai ’",
+      "openai ’",
+      "6 sol",
+      "6 sol"
+    ],
+    "summary": "# [hacker-news-sec] OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said."
+  },
+  "3a075d25096925bf": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_russian-hackers-troja_0bb78fbc64.md",
+    "source": "security",
+    "title": "[bleeping-comp] Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+    "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+    "keywords": [
+      "russian hackers trojanize webex",
+      "russian hackers trojanize webex",
+      "using trojanized software",
+      "push starland malware",
+      "push starland malware",
+      "push starland malware",
+      "zoom apps",
+      "zoom apps",
+      "zoom apps",
+      "steal credentials"
+    ],
+    "summary": "# [bleeping-comp] Russian hackers trojanize WebEx, Zoom apps to push Starland malware Russian hackers trojanize WebEx, Zoom apps to push Starland malware A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT."
+  },
+  "682ff07c0ad79ed0": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-spirals-ransomwar_cd161f1ce3.md",
+    "source": "security",
+    "title": "[bleeping-comp] New Spirals ransomware encrypts victim network in under 24 hours",
+    "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+    "keywords": [
+      "initial access",
+      "data theft",
+      "corporate intrusion",
+      "24 hours",
+      "24 hours",
+      "24 hours",
+      "24 hours",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] New Spirals ransomware encrypts victim network in under 24 hours New Spirals ransomware encrypts victim network in under 24 hours A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours."
+  },
+  "f7563c34a3e0b961": {
+    "file": "corpus/psychology/fs_blog_knowledge-project-podcast_kaz-nejatian_4001d5387e.md",
+    "source": "psychology",
+    "title": "[farnam-street] Truth Over Feelings: Inside Opendoor’s Massive Turnaround",
+    "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
+    "keywords": [
+      "massive turnaround appeared first",
+      "inside opendoor &# 8217",
+      "kaz nejatian knows",
+      "traditional &# 8230",
+      "one comfortable lie",
+      "inside opendoor ’",
+      "inside opendoor ’",
+      "inside opendoor ’",
+      "fail one decision",
+      "&# 8217"
+    ],
+    "summary": "Kaz Nejatian knows what it looks like from the inside. He took over Opendoor when it was just months away from bankruptcy and set out to rebuild it from the ground up. What followed wasn&#8217;t a traditional &#8230; The post  Truth Over Feelings: Inside Opendoor&#8217;s Massive Turnaround  appeared first on  Farnam Street ."
+  },
+  "1c7e7172f77435b1": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_07_eff-and-article-19-submission-_46a5edf1b1.md",
+    "source": "legal",
+    "title": "[eff] EFF and ARTICLE 19 Submission to the European Commission on the DSA Trusted Flagger Guidelines",
+    "url": "https://www.eff.org/deeplinks/2026/07/eff-and-article-19-submission-european-commission-dsa-trusted-flagger-guidelines",
+    "keywords": [
+      "preserving intermediary liability protections",
+      "submission highlights several areas",
+      "digital services act ’",
+      "border assessments require caution",
+      "dsa trusted flagger guidelines",
+      "dsa trusted flagger guidelines",
+      "trusted flagger system",
+      "trusted flagger system",
+      "trusted flagger system",
+      "trusted flagger notice"
+    ],
+    "summary": "But if implemented poorly, it could also encourage over-removal of lawful speech, weaken due process, and give government authorities disproportionate influence over online expression. Platforms must therefore conduct careful, informed assessments and should not assume that a trusted flagger notice necessarily warrants restricting content. Platforms should not rely on a trusted flagger notice to assess legality across Member States, where national legal frameworks may differ."
+  },
+  "c9012919994092fe": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48104_inter-brings-wearable-pay_343e4b4125.md",
+    "source": "finance",
+    "title": "[finextra] Inter brings wearable payment devices to the US",
+    "url": "https://www.finextra.com/newsarticle/48104/inter-brings-wearable-payment-devices-to-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "brazillian digital bank inter",
+      "financial technology arm",
+      "contactless payments rings",
+      "wristbands",
+      "source",
+      "rolling"
+    ],
+    "summary": "# [finextra] Inter brings wearable payment devices to the US Inter brings wearable payment devices to the US The financial technology arm of Brazillian digital bank Inter is rolling out contactless payments rings and wristbands to the US."
+  },
+  "a0c3e103aef72629": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48103_fourthline-to-merge-with-_7a2916c95b.md",
+    "source": "finance",
+    "title": "[finextra] Fourthline to merge with Veridas",
+    "url": "https://www.finextra.com/newsarticle/48103/fourthline-to-merge-with-veridas?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "compliance platform across europe",
+      "global identity",
+      "backed veridas",
+      "05z fourthline",
+      "veridas",
+      "veridas",
+      "fourthline",
+      "fourthline",
+      "source"
+    ],
+    "summary": "# [finextra] Fourthline to merge with Veridas Fourthline to merge with Veridas KYC orchestration platform Fourthline is on the brink of merging with BBVA-backed Veridas to deliver a global identity and compliance platform across Europe and the US."
+  },
+  "00ab75bc200dd8fa": {
+    "file": "corpus/devto/dev_to_nekoautomata_a-five-stage-preflight-for-codex-and-cla_0e577005d7.md",
+    "source": "devto",
+    "title": "A five-stage preflight for Codex and Claude Code configuration",
+    "url": "https://dev.to/nekoautomata/a-five-stage-preflight-for-codex-and-claude-code-configuration-3fgd",
+    "keywords": [
+      "claude code configuration",
+      "claude code configuration",
+      "configuration diffs",
+      "stage preflight",
+      "stage preflight",
+      "plugin packages",
+      "instruction scope",
+      "boundary map",
+      "source",
+      "reactions"
+    ],
+    "summary": "# A five-stage preflight for Codex and Claude Code configuration > Source: devto | Category: news | 2026-07-16T10:33:18Z A failure-boundary map for permissions, instruction scope, configuration diffs, hooks, and plugin packages."
+  },
+  "dcb34b9a4bc2886f": {
+    "file": "corpus/devto/dev_to_gautam_f015817a44372df414_ai-can-write-your-react-cod_107b2b0cc5.md",
+    "source": "devto",
+    "title": "AI Can Write Your React Code. It Still Can't Tell You Why It's Wrong.",
+    "url": "https://dev.to/gautam_f015817a44372df414/ai-can-write-your-react-code-it-still-cant-tell-you-why-its-wrong-19oc",
+    "keywords": [
+      "made developers obsolete",
+      "react code",
+      "react code",
+      "new wave",
+      "months ...",
+      "15z every",
+      "months",
+      "every",
+      "wrong",
+      "wrong"
+    ],
+    "summary": "# AI Can Write Your React Code. > Source: devto | Category: news | 2026-07-16T10:33:15Z Every few months there's a new wave of \"AI just made developers obsolete\" takes, and every few months..."
+  },
+  "dc287ac27d7a45b0": {
+    "file": "corpus/devto/dev_to_rajeshbhola1_java-operator-precedence-122n_663f4003be.md",
+    "source": "devto",
+    "title": "Java Operator Precedence",
+    "url": "https://dev.to/rajeshbhola1/java-operator-precedence-122n",
+    "keywords": [
+      "expression contains multiple operators",
+      "java operator precedence",
+      "java operator precedence",
+      "java decide",
+      "perform ...",
+      "source",
+      "reactions",
+      "operation",
+      "news",
+      "devto"
+    ],
+    "summary": "# Java Operator Precedence > Source: devto | Category: news | 2026-07-16T10:33:17Z When an expression contains multiple operators, how does Java decide which operation to perform..."
+  },
+  "d9d21a2ed49c74dc": {
+    "file": "corpus/devto/dev_to_lksvn_strong-typescript-contracts-turn-refactors-into_c2377f0d59.md",
+    "source": "devto",
+    "title": "Strong TypeScript contracts turn refactors into checklists",
+    "url": "https://dev.to/lksvn/strong-typescript-contracts-turn-refactors-into-checklists-40h4",
+    "keywords": [
+      "looked worse",
+      "17z today",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "checklists",
+      "checklists",
+      "category"
+    ],
+    "summary": "# Strong TypeScript contracts turn refactors into checklists > Source: devto | Category: news | 2026-07-16T10:33:17Z Today a TypeScript refactor produced 15 compiler errors."
+  },
+  "f0dbb50be261abd5": {
+    "file": "corpus/devto/dev_to_ameer_abdullah_68d48c8496_python-exception-handling-t_2e9e77e018.md",
+    "source": "devto",
+    "title": "Python Exception Handling: Tracing try/except/else/finally Blocks",
+    "url": "https://dev.to/ameer_abdullah_68d48c8496/python-exception-handling-tracing-tryexceptelsefinally-blocks-l02",
+    "keywords": [
+      "python exception handling",
+      "python exception handling",
+      "exception handling blocks",
+      "finally blocks",
+      "finally blocks",
+      "tracing try",
+      "tracing try",
+      "senior ...",
+      "regularly tested",
+      "execution order"
+    ],
+    "summary": "# Python Exception Handling: Tracing try/except/else/finally Blocks > Source: devto | Category: news | 2026-07-16T10:33:17Z The execution order of exception handling blocks is non-obvious and regularly tested in senior..."
+  },
+  "832d13ff72645a25": {
+    "file": "corpus/devto/dev_to_parsajiravand_your-css-grid-cards-look-misaligned-sub_d7e1fe52c2.md",
+    "source": "devto",
+    "title": "Your CSS Grid cards look misaligned. `subgrid` is the fix you didn't know existed.",
+    "url": "https://dev.to/parsajiravand/your-css-grid-cards-look-misaligned-subgrid-is-the-fix-you-didnt-know-existed-k94",
+    "keywords": [
+      "css grid ....",
+      "know existed",
+      "know existed",
+      "times",
+      "subgrid",
+      "subgrid",
+      "source",
+      "row",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Your CSS Grid cards look misaligned. `subgrid` is the fix you didn't know existed. Here is a layout I have built more times than I can count."
+  },
+  "a7110c07c6f465b2": {
+    "file": "corpus/devto/dev_to_nekoautomata_a-plugin-can-pass-validation-and-still-f_83682abcfe.md",
+    "source": "devto",
+    "title": "A plugin can pass validation and still fail after install",
+    "url": "https://dev.to/nekoautomata/a-plugin-can-pass-validation-and-still-fail-after-install-570j",
+    "keywords": [
+      "14z five package",
+      "plugin manifest check",
+      "still fail",
+      "still fail",
+      "pass validation",
+      "pass validation",
+      "level failures",
+      "claude code",
+      "across codex",
+      "plugin"
+    ],
+    "summary": "# A plugin can pass validation and still fail after install > Source: devto | Category: news | 2026-07-16T10:33:14Z Five package-level failures that can survive a plugin manifest check, and a read-only way to catch them across Codex and Claude Code."
+  },
+  "33f32f8399840043": {
+    "file": "corpus/devto/dev_to_kielltampubolon_we-planted-10-vulnerabilities-to-test_f1d3cfa367.md",
+    "source": "devto",
+    "title": "We Planted 10 Vulnerabilities to Test Free Semgrep. It Reported 3.",
+    "url": "https://dev.to/kielltampubolon/we-planted-10-vulnerabilities-to-test-free-semgrep-it-reported-3-1k6j",
+    "keywords": [
+      "test free semgrep",
+      "test free semgrep",
+      "planted 10 vulnerabilities",
+      "planted 10 vulnerabilities",
+      "security experts",
+      "reported 3",
+      "reported 3",
+      "source",
+      "read",
+      "reactions"
+    ],
+    "summary": "# We Planted 10 Vulnerabilities to Test Free Semgrep. Before you read: we are not security experts. We are a small team learning security tooling by..."
+  },
+  "8e0c91748a439215": {
+    "file": "corpus/devto/dev_to_yimtheppariyapol_cloudflare-workers-ai-add-a-free-llm_9cbbd9bba0.md",
+    "source": "devto",
+    "title": "Cloudflare Workers AI: Add a Free LLM to a Static Site, No Backend Needed",
+    "url": "https://dev.to/yimtheppariyapol/cloudflare-workers-ai-add-a-free-llm-to-a-static-site-no-backend-needed-37ab",
+    "keywords": [
+      "static site behind cloudflare",
+      "cloudflare workers ai",
+      "cloudflare workers ai",
+      "14z quick answer",
+      "get ai without",
+      "static site",
+      "static site",
+      "without storing",
+      "free llm",
+      "free llm"
+    ],
+    "summary": "# Cloudflare Workers AI: Add a Free LLM to a Static Site, No Backend Needed > Source: devto | Category: news | 2026-07-16T10:33:14Z Quick answer: A static site behind Cloudflare can get AI without a backend and without storing an..."
+  },
+  "961650766151c423": {
+    "file": "corpus/devto/dev_to_dmitrymaranik_i-source-reviewed-200-self-hosted-ai-to_211fde054a.md",
+    "source": "devto",
+    "title": "I source-reviewed 200+ self-hosted AI tools for tenant isolation. 78 leaked across tenants.",
+    "url": "https://dev.to/dmitrymaranik/i-source-reviewed-200-self-hosted-ai-tools-for-tenant-isolation-78-leaked-across-tenants-4ff4",
+    "keywords": [
+      "78 leaked across tenants",
+      "78 leaked across tenants",
+      "retrofitted read sibling",
+      "hosted ai tools",
+      "hosted ai tools",
+      "tenant ai",
+      "tenant isolation",
+      "tenant isolation",
+      "saas ...",
+      "isolation flaw"
+    ],
+    "summary": "# I source-reviewed 200+ self-hosted AI tools for tenant isolation. > Source: devto | Category: news | 2026-07-16T10:33:18Z The same isolation flaw, the un-retrofitted read sibling, in 78 of 200+ multi-tenant AI and SaaS..."
+  },
+  "dd68576d32e1f4bb": {
+    "file": "corpus/devto/dev_to_george_panos_607e125c9161_from-zero-to-first-pr-how-i_da6009b89d.md",
+    "source": "devto",
+    "title": "From Zero to First PR: How I Contributed to an Open-Source AI Project as a Beginner",
+    "url": "https://dev.to/george_panos_607e125c9161/from-zero-to-first-pr-how-i-contributed-to-an-open-source-ai-project-as-a-beginner-5eh5",
+    "keywords": [
+      "felt like forever",
+      "source ai project",
+      "source ai project",
+      "github page",
+      "first pr",
+      "first pr",
+      "source",
+      "zero",
+      "zero",
+      "thousands"
+    ],
+    "summary": "# From Zero to First PR: How I Contributed to an Open-Source AI Project as a Beginner > Source: devto | Category: news | 2026-07-16T10:33:17Z I stared at the GitHub page for what felt like forever."
+  },
+  "8657dbb90ea18ed0": {
+    "file": "corpus/devto/dev_to_dhruv_mevada_dev_git-wasnt-the-hard-part-explaining-i_f21d65c2f6.md",
+    "source": "devto",
+    "title": "Git Wasn't the Hard Part. Explaining It Was.",
+    "url": "https://dev.to/dhruv_mevada_dev/git-wasnt-the-hard-part-explaining-it-was-4lec",
+    "keywords": [
+      "friend would ...",
+      "thought teaching git",
+      "hard part",
+      "hard part",
+      "hard part",
+      "17z git",
+      "git",
+      "git",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Git Wasn't the Hard Part. Git Wasn't the Hard Part. I thought teaching Git to my friend would..."
+  },
+  "8381b06ac7e2e93e": {
+    "file": "corpus/devto/dev_to_larrymargerum01_dreams-dont-always-arrive-on-schedule_455ce0e7f2.md",
+    "source": "devto",
+    "title": "Dreams Don't Always Arrive on Schedule.",
+    "url": "https://dev.to/larrymargerum01/dreams-dont-always-arrive-on-schedule-2dhd",
+    "keywords": [
+      "computer much later",
+      "quiet ...",
+      "days ago",
+      "always arrive",
+      "always arrive",
+      "source",
+      "sitting",
+      "schedule",
+      "schedule",
+      "room"
+    ],
+    "summary": "# Dreams Don't Always Arrive on Schedule. > Source: devto | Category: news | 2026-07-16T10:33:17Z A few days ago, I was sitting in front of my computer much later than I planned."
+  },
+  "fedd7a6e5eeb2f8c": {
+    "file": "corpus/github-releases/github_com_huggingface_transformers_releases_tag_v5_14_1_e711876fcc.md",
+    "source": "github-releases",
+    "title": "huggingface/transformers v5.14.1 released",
+    "url": "https://github.com/huggingface/transformers/releases/tag/v5.14.1",
+    "keywords": [
+      "multiple devices (# 47323",
+      "olmohybrid (# 47361",
+      "sdpa without padding",
+      "position_bias (# 47359",
+      "fix assisted decoding",
+      "patch release v5",
+      "integrating inkling model",
+      "transformers — v5",
+      "18z ## huggingface",
+      "fix sdpa prefill"
+    ],
+    "summary": "This patch solves a few issues which appeared when integrating Inkling model, most notably an issue affecting models using EncoderDecoderCache during assisted generation. It also fixes an issue that could appear during prefill with StaticCache and sdpa without padding for Inkling which uses a position_bias. - Fix sdpa prefill with position_bias (#47359) by @Cyrilvallez - Fix assisted decoding for models with EncoderDecoder cache & OlmoHybrid (#47361) by @Cyrilvallez - [FP8] Bump kernels version "
   }
 }
