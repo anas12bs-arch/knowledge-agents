@@ -244970,5 +244970,289 @@
       "14 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-16T14:15:11Z Changes since langchain==1.3.13 release(langchain): 1.3.14 (#38883) fix(langchain): only retry retryable exceptions in `ToolRetryMiddleware` (#38845) feat(langchain): `ToolErrorMiddleware` (#38781)"
+  },
+  "76f442fa65ac90e1": {
+    "file": "corpus/hackernews/www_kimi_com_en_c9498ffc02.md",
+    "source": "hackernews",
+    "title": "Kimi K3 is now live",
+    "url": "https://www.kimi.com/en",
+    "keywords": [
+      "kimi k3",
+      "kimi k3",
+      "04z score",
+      "source",
+      "news",
+      "live",
+      "live",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Kimi K3 is now live > Source: hackernews | Category: news | 2026-07-16T15:47:04Z Score: 173 | Comments: 81"
+  },
+  "2cfc390509f2d175": {
+    "file": "corpus/hackernews/macwright_com_2026_06_24_accidental-anonymity_8eb3c5c058.md",
+    "source": "hackernews",
+    "title": "Accidental Anonymity",
+    "url": "https://macwright.com/2026/06/24/accidental-anonymity",
+    "keywords": [
+      "accidental anonymity",
+      "accidental anonymity",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Accidental Anonymity > Source: hackernews | Category: news | 2026-07-16T15:47:06Z Score: 12 | Comments: 1"
+  },
+  "d2cfee63c83704ec": {
+    "file": "corpus/hackernews/sinja_io_blog_data-landscape-guide-for-developers_5fdbdc9231.md",
+    "source": "hackernews",
+    "title": "Guide to data tools landscape for developers",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "keywords": [
+      "data tools landscape",
+      "data tools landscape",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "guide",
+      "guide",
+      "developers",
+      "developers"
+    ],
+    "summary": "# Guide to data tools landscape for developers > Source: hackernews | Category: news | 2026-07-16T15:47:05Z Score: 17 | Comments: 2"
+  },
+  "ea03f9a6eadeb25f": {
+    "file": "corpus/hackernews/snehankekre_com_posts_hr_f25c1a2520.md",
+    "source": "hackernews",
+    "title": "My Homepage Has a Pulse",
+    "url": "https://snehankekre.com/posts/hr/",
+    "keywords": [
+      "11z score",
+      "source",
+      "pulse",
+      "pulse",
+      "news",
+      "homepage",
+      "homepage",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# My Homepage Has a Pulse > Source: hackernews | Category: news | 2026-07-16T15:47:11Z Score: 3 | Comments: 0"
+  },
+  "f1d73952ce5dcc25": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_protecting-privacy-in_a49b6697c0.md",
+    "source": "security",
+    "title": "[schneier] Protecting Privacy in an AI Era",
+    "url": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
+    "keywords": [
+      "wall street journal",
+      "reckless technological design",
+      "giving people control",
+      "rigorous data minimization",
+      "hold companies accountable",
+      "05z protecting privacy",
+      "protecting privacy",
+      "protecting privacy",
+      "personal data",
+      "drug companies"
+    ],
+    "summary": "Daniel Solove  argues  in the  Wall Street Journal  (alternate  link ) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to what we do with food and drug companies. Measures such as rigorous data minimization, fiduciary duties, liability for negligent or reckless technological design, liability for algorithms that cause harm, and multi-stakeholder review of technolog"
+  },
+  "4b1bad502459f959": {
+    "file": "corpus/security/thehackernews_com_2026_07_n8n-token-exchange-flaw-could-let__ae03488274.md",
+    "source": "security",
+    "title": "[hacker-news-sec] n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+    "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+    "keywords": [
+      "one external token issuer",
+      "workflow automation platform",
+      "enterprise instances configured",
+      "issuer b logged",
+      "another issuer n8n",
+      "valid token",
+      "another issuer",
+      "another issuer",
+      "wrong accounts",
+      "password never"
+    ],
+    "summary": "# [hacker-news-sec] n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss."
+  },
+  "5630fd54db48ce14": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_tesla-driver-who-blamed-_c5917588eb.md",
+    "source": "legal",
+    "title": "[ars-policy] Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+    "url": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+    "keywords": [
+      "driver manually overrode fsd",
+      "06z tesla driver",
+      "tesla driver",
+      "tesla driver",
+      "blamed crash",
+      "blamed crash",
+      "blamed crash",
+      "source",
+      "policy",
+      "policy"
+    ],
+    "summary": "# [ars-policy] Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds NTSB findings back Elon Musk's claim that driver manually overrode FSD."
+  },
+  "624433417e075c4d": {
+    "file": "corpus/devto/dev_to_hadil_browseract-vs-agent-browser-a-hands-on-stealth-_29e49b182f.md",
+    "source": "devto",
+    "title": "BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison",
+    "url": "https://dev.to/hadil/browseract-vs-agent-browser-a-hands-on-stealth-execution-comparison-1m1k",
+    "keywords": [
+      "browseract vs agent browser",
+      "browseract vs agent browser",
+      "stealth execution comparison cloudflare",
+      "stealth execution comparison",
+      "stealth execution comparison",
+      "source",
+      "reactions",
+      "news",
+      "hands",
+      "hands"
+    ],
+    "summary": "# BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison > Source: devto | Category: news | 2026-07-16T15:47:15Z BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison            Cloudflare and..."
+  },
+  "400ed1d9ddaec1af": {
+    "file": "corpus/devto/dev_to_alejandrodeveloper_part-5-stop-using-effects-for-stat_0ab9ef05d7.md",
+    "source": "devto",
+    "title": "Part 5: Stop Using Effects for State Resets",
+    "url": "https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado",
+    "keywords": [
+      "stop using effects",
+      "stop using effects",
+      "14z part 5",
+      "part 5",
+      "part 5",
+      "state resets",
+      "state resets",
+      "several ...",
+      "source",
+      "series"
+    ],
+    "summary": "# Part 5: Stop Using Effects for State Resets > Source: devto | Category: news | 2026-07-16T15:47:14Z Part 5 and last of the Modern React Patterns series  Throughout this series, we've looked at several..."
+  },
+  "609816d98980fa38": {
+    "file": "corpus/devto/dev_to_imisic_how-i-built-my-site-with-claude-code-2ojh_846bac5f0c.md",
+    "source": "devto",
+    "title": "How I Built My Site With Claude Code",
+    "url": "https://dev.to/imisic/how-i-built-my-site-with-claude-code-2ojh",
+    "keywords": [
+      "three weeks",
+      "claude code",
+      "claude code",
+      "actual work",
+      "week",
+      "website",
+      "source",
+      "site",
+      "site",
+      "scratch"
+    ],
+    "summary": "# How I Built My Site With Claude Code > Source: devto | Category: news | 2026-07-16T15:47:16Z I built this website from scratch over about three weeks of actual work."
+  },
+  "ab611ae62ec4f584": {
+    "file": "corpus/devto/dev_to_hexisteme_the-you-decide-reflex-blocking-ai-agent-dec_32ab8c743c.md",
+    "source": "devto",
+    "title": "The 'You Decide' Reflex: Blocking AI-Agent Decision Punting with a Stop Hook",
+    "url": "https://dev.to/hexisteme/the-you-decide-reflex-blocking-ai-agent-decision-punting-with-a-stop-hook-1jbk",
+    "keywords": [
+      "training gradient rewards deference",
+      "capable ai agent gathers",
+      "agent decision punting",
+      "agent decision punting",
+      "choice back —",
+      "gathered data —",
+      "blocking ai",
+      "blocking ai",
+      "gate —",
+      "prefer ?\""
+    ],
+    "summary": "# The 'You Decide' Reflex: Blocking AI-Agent Decision Punting with a Stop Hook — because the training gradient rewards deference as politeness. This is a deterministic Stop-hook that blocks it with an AND-gate — a deflection phrase AND evidence the agent just gathered data — so genuine value questions still pass through."
+  },
+  "db0e47c920495a1a": {
+    "file": "corpus/devto/dev_to_aws-builders_kiro-cli-gets-worse-after-an-hour-heres-_752c9d75a1.md",
+    "source": "devto",
+    "title": "Kiro CLI Gets Worse After an Hour. Here's How I Fixed It.",
+    "url": "https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g",
+    "keywords": [
+      "kiro cli gets worse",
+      "kiro cli gets worse",
+      "kiro cli degrades",
+      "daily aws workflow",
+      "context management techniques",
+      "long sessions",
+      "source",
+      "reactions",
+      "news",
+      "hour"
+    ],
+    "summary": "# Kiro CLI Gets Worse After an Hour. Here's How I Fixed It. Why Kiro CLI degrades in long sessions and the context management techniques that fixed it for my daily AWS workflow."
+  },
+  "8be26db2c91406e2": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_kimi-k3-is-now-available-on-ai-gateway_cfec036cbc.md",
+    "source": "vercel-blog",
+    "title": "Kimi K3 is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway",
+    "keywords": [
+      "18z kimi k3",
+      "kimi k3",
+      "kimi k3",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Kimi K3 is now available on AI Gateway > Source: vercel-blog | Category: news | 2026-07-16T15:47:18Z Kimi K3 is now available on AI Gateway"
+  },
+  "d5fb1de6e5178fee": {
+    "file": "corpus/product/techcrunch_com_2026_07_16_sheryl-sandberg-leads-10-million-i_0e83d929c7.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+    "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+    "keywords": [
+      "powered vehicle inspection service",
+      "powered vehicle inspection service",
+      "powered vehicle inspection service",
+      "06z sheryl sandberg leads",
+      "sheryl sandberg leads",
+      "sheryl sandberg leads",
+      "spot vehicle damage",
+      "10 million investment",
+      "10 million investment",
+      "10 million investment"
+    ],
+    "summary": "# [techcrunch-startups] Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage."
+  },
+  "37a713d4567996d8": {
+    "file": "corpus/product/techcrunch_com_2026_07_16_why-ami-labs-alexandre-lebrun-wont_88783e9ab7.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "keywords": [
+      "superintelligence ,\" alexandre lebrun",
+      "ai ‘ agi ’",
+      "ai ‘ agi ’",
+      "ai ‘ agi ’",
+      "‘ superintelligence ’",
+      "‘ superintelligence ’",
+      "‘ superintelligence ’",
+      "world model startup",
+      "yann lecun ’",
+      "ami labs"
+    ],
+    "summary": "# [techcrunch-startups] Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’ Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’ While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word."
   }
 }
