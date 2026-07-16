@@ -1,0 +1,29 @@
+---
+title: "ollama/ollama v0.32.1 released"
+url: "https://github.com/ollama/ollama/releases/tag/v0.32.1"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "ollama"]
+date: "2026-07-16T06:30:02Z"
+metadata:
+  repo: "ollama/ollama"
+  version: "v0.32.1"
+---
+
+# ollama/ollama v0.32.1 released
+
+> Source: github-releases | Category: changelog | 2026-07-16T06:30:02Z
+
+## ollama/ollama — v0.32.1
+
+## What's Changed
+- Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations
+- Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance
+- MLX text model loading now respects `OLLAMA_LOAD_TIMEOUT`
+- Agent web search and fetch now tell users to run `ollama signin` when authentication is required
+- The interactive agent now receives the current working directory for better project context
+- Fixed `ollama launch` so choosing **Pick another model** for a deprecated model passed with `--model` opens the model picker
+- Updated VS Code setup documentation for the official Ollama extension
+
+**Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.0...v0.32.1-rc0
+

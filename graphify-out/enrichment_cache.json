@@ -241989,5 +241989,471 @@
       "model picker"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-16T04:10:02Z ## What's Changed - Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations - Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance - MLX text model loading now respects `OLLAMA_LOAD_TIMEOUT` - Agent web search and fetch now tell users to run `ollama signin` when authentication is required - The interac"
+  },
+  "c4a6e97cc5613c54": {
+    "file": "corpus/design/garritfra_github_io_pac-hunt_70ef3ef671.md",
+    "source": "design",
+    "title": "[sidebar-io] Pac-Hunt: You’re the ghost",
+    "url": "https://garritfra.github.io/pac-hunt/",
+    "keywords": [
+      "corner pac ‑ man",
+      "simple game concept",
+      "ghost gotta love",
+      "00z pac",
+      "pac",
+      "pac",
+      "ghost",
+      "ghost"
+    ],
+    "summary": "# [sidebar-io] Pac-Hunt: You’re the ghost Gotta love a strong and simple game concept. Corner Pac‑Man before he clears the maze."
+  },
+  "9a555b50cdda21ca": {
+    "file": "corpus/design/namethatui_com_1e33452b78.md",
+    "source": "design",
+    "title": "[sidebar-io] What is this UI element called?",
+    "url": "https://namethatui.com/",
+    "keywords": [
+      "ui element called",
+      "ui element called",
+      "ui element called",
+      "ui element",
+      "real name",
+      "precise prompt",
+      "coding agent",
+      "api symbol",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] What is this UI element called? What is this UI element called? See the UI element, learn its real name and API symbol, and copy a precise prompt for your coding agent."
+  },
+  "6b0f20505ed6c0c7": {
+    "file": "corpus/design/blakewatson_com_journal_if-i-want-more-irl-i-must-go-afk_c3f68d4e2a.md",
+    "source": "design",
+    "title": "[sidebar-io] If I want more IRL, I must go AFK",
+    "url": "https://blakewatson.com/journal/if-i-want-more-irl-i-must-go-afk/",
+    "keywords": [
+      "must go afk",
+      "must go afk",
+      "must go afk",
+      "want",
+      "want",
+      "want",
+      "use",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] If I want more IRL, I must go AFK If I want more IRL, I must go AFK I use a computer for hours and hours a day, partly because I love it, and partly to compensate for my disability."
+  },
+  "aad296f340b9b9df": {
+    "file": "corpus/hackernews/www_pigeonsandplanes_com_read_music-piracy-what-cd-oink-nine_7cabad485d.md",
+    "source": "hackernews",
+    "title": "The lost joy of music piracy",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "keywords": [
+      "music piracy",
+      "music piracy",
+      "lost joy",
+      "lost joy",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The lost joy of music piracy > Source: hackernews | Category: news | 2026-07-16T06:28:58Z Score: 86 | Comments: 18"
+  },
+  "c8f77f441698c0de": {
+    "file": "corpus/hackernews/www_petekeen_net_homelab-resolved_e3d00c6c60.md",
+    "source": "hackernews",
+    "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+    "url": "https://www.petekeen.net/homelab-resolved/",
+    "keywords": [
+      "03z score",
+      "source",
+      "ruby",
+      "ruby",
+      "rebuilding",
+      "rebuilding",
+      "news",
+      "kubernetes",
+      "kubernetes",
+      "ipv6"
+    ],
+    "summary": "# Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes > Source: hackernews | Category: news | 2026-07-16T06:29:03Z Score: 9 | Comments: 5"
+  },
+  "666d59e135bd537c": {
+    "file": "corpus/hackernews/planetscale_com_blog_making-768-servers-look-like-1_8d8fdc7a1b.md",
+    "source": "hackernews",
+    "title": "Making 768 servers look like 1",
+    "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+    "keywords": [
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Making 768 servers look like 1 > Source: hackernews | Category: news | 2026-07-16T06:28:59Z Score: 41 | Comments: 7"
+  },
+  "dc37df9737443136": {
+    "file": "corpus/hackernews/www_openculture_com_2026_07_explore-1300-beautiful-wildlife-_9a06643264.md",
+    "source": "hackernews",
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "keywords": [
+      "300 beautiful wildlife illustrations",
+      "300 beautiful wildlife illustrations",
+      "59z score",
+      "19th century",
+      "19th century",
+      "source",
+      "restored",
+      "restored",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# 1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored > Source: hackernews | Category: news | 2026-07-16T06:28:59Z Score: 33 | Comments: 3"
+  },
+  "31086b2f2d87b5f9": {
+    "file": "corpus/hackernews/www_frank_computer_blog_2025_05_just-a-tool_html_323008a670.md",
+    "source": "hackernews",
+    "title": "Stop saying that AI is just a tool and it only matters how it is used",
+    "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+    "keywords": [
+      "stop saying",
+      "stop saying",
+      "01z score",
+      "used",
+      "used",
+      "tool",
+      "tool",
+      "source",
+      "news",
+      "matters"
+    ],
+    "summary": "# Stop saying that AI is just a tool and it only matters how it is used > Source: hackernews | Category: news | 2026-07-16T06:29:01Z Score: 33 | Comments: 23"
+  },
+  "2857fcdac582fe65": {
+    "file": "corpus/hackernews/a-rabbitsfoot_com_editorial_confessions_the-last-picture-sho_ddc888134e.md",
+    "source": "hackernews",
+    "title": "The Last Picture Show: A Conversation with George Lucas",
+    "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+    "keywords": [
+      "last picture show",
+      "last picture show",
+      "george lucas",
+      "george lucas",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "conversation",
+      "conversation"
+    ],
+    "summary": "# The Last Picture Show: A Conversation with George Lucas > Source: hackernews | Category: news | 2026-07-16T06:29:02Z Score: 12 | Comments: 2"
+  },
+  "8a7c4858c9c27b86": {
+    "file": "corpus/hackernews/thegustafson_com_blog_my-throw-decides-my-aim_66b19088c0.md",
+    "source": "hackernews",
+    "title": "My Throw Decides My Aim",
+    "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+    "keywords": [
+      "throw decides",
+      "throw decides",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "aim",
+      "aim"
+    ],
+    "summary": "# My Throw Decides My Aim > Source: hackernews | Category: news | 2026-07-16T06:29:01Z Score: 15 | Comments: 2"
+  },
+  "6618da329b510c2b": {
+    "file": "corpus/hackernews/cr_yp_to_proto_netstrings_txt_32e28b3a13.md",
+    "source": "hackernews",
+    "title": "DJB Netstrings (1997)",
+    "url": "https://cr.yp.to/proto/netstrings.txt",
+    "keywords": [
+      "djb netstrings",
+      "djb netstrings",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DJB Netstrings (1997) > Source: hackernews | Category: news | 2026-07-16T06:29:01Z Score: 4 | Comments: 3"
+  },
+  "68e7ef98fe986993": {
+    "file": "corpus/devto/dev_to_fromzerotoship_14-building-an-intranet-to-replace-our_e7f1a6d7d2.md",
+    "source": "devto",
+    "title": "#14 Building an Intranet to Replace Our Scattered Group Chats",
+    "url": "https://dev.to/fromzerotoship/14-building-an-intranet-to-replace-our-scattered-group-chats-1hf8",
+    "keywords": [
+      "scattered group chats",
+      "scattered group chats",
+      "first big job",
+      "planning office",
+      "14 building",
+      "14 building",
+      "years",
+      "source",
+      "replace",
+      "replace"
+    ],
+    "summary": "# #14 Building an Intranet to Replace Our Scattered Group Chats > Source: devto | Category: news | 2026-07-16T06:29:10Z When I moved to the planning office, the first big job that landed on me was counting."
+  },
+  "b2b90fa57e170f91": {
+    "file": "corpus/devto/dev_to_jeromefromhk_the-bug-that-kept-coming-back-47lp_dc28e426e4.md",
+    "source": "devto",
+    "title": "The Bug That Kept Coming Back",
+    "url": "https://dev.to/jeromefromhk/the-bug-that-kept-coming-back-47lp",
+    "keywords": [
+      "kept coming back",
+      "kept coming back",
+      "first sign something",
+      "first ...",
+      "wrong",
+      "source",
+      "reactions",
+      "platform",
+      "pattern",
+      "news"
+    ],
+    "summary": "# The Bug That Kept Coming Back > Source: devto | Category: news | 2026-07-16T06:29:10Z The first sign something was wrong wasn't a crash."
+  },
+  "ba4ed3fe9218f572": {
+    "file": "corpus/devto/dev_to_dipankar_sarkar_a-packagelock-for-the-prompts-hiding-_afbbdbc909.md",
+    "source": "devto",
+    "title": "A package.lock for the prompts hiding in your codebase",
+    "url": "https://dev.to/dipankar_sarkar/a-packagelock-for-the-prompts-hiding-in-your-codebase-2hom",
+    "keywords": [
+      "production llm app",
+      "prompts hiding",
+      "prompts hiding",
+      "prompt ...",
+      "11z prompts",
+      "treat",
+      "source",
+      "refuse",
+      "reactions",
+      "package"
+    ],
+    "summary": "# A package.lock for the prompts hiding in your codebase We just refuse to treat them like it. A production LLM app has prompt..."
+  },
+  "b7a3bf05db67a687": {
+    "file": "corpus/devto/dev_to_gathmo_designing-a-browser-upload-flow-for-unreliable_b132ed14ca.md",
+    "source": "devto",
+    "title": "Designing a browser upload flow for unreliable event Wi-Fi",
+    "url": "https://dev.to/gathmo/designing-a-browser-upload-flow-for-unreliable-event-wi-fi-jeg",
+    "keywords": [
+      "unreliable event wi",
+      "unreliable event wi",
+      "browser upload flow",
+      "browser upload flow",
+      "upload form",
+      "office wi",
+      "works perfectly",
+      "fail spectacularly",
+      "wedding",
+      "source"
+    ],
+    "summary": "# Designing a browser upload flow for unreliable event Wi-Fi > Source: devto | Category: news | 2026-07-16T06:29:08Z An upload form that works perfectly on office Wi-Fi can fail spectacularly at a wedding or..."
+  },
+  "18f64265d1aa8b86": {
+    "file": "corpus/devto/dev_to_muhammad_usman_dev_automating-my-weekly-github-activi_af45f925a5.md",
+    "source": "devto",
+    "title": "Automating My Weekly GitHub Activity Report with n8n, Slack, and AI",
+    "url": "https://dev.to/muhammad_usman_dev/automating-my-weekly-github-activity-report-with-n8n-slack-and-ai-1d0l",
+    "keywords": [
+      "weekly github activity report",
+      "weekly github activity report",
+      "thing every week",
+      "10z 📹 watch",
+      "opening ...",
+      "got tired",
+      "source",
+      "slack",
+      "slack",
+      "reactions"
+    ],
+    "summary": "# Automating My Weekly GitHub Activity Report with n8n, Slack, and AI > Source: devto | Category: news | 2026-07-16T06:29:10Z 📹 Watch the demo           The problem   I got tired of doing the same thing every week: opening..."
+  },
+  "cdf8e1ba190966dc": {
+    "file": "corpus/devto/dev_to_bikkisingh_why-your-php-form-is-not-working-5-common-_b83d84283c.md",
+    "source": "devto",
+    "title": "Why Your PHP Form Is Not Working — 5 Common Bugs Fixed",
+    "url": "https://dev.to/bikkisingh/why-your-php-form-is-not-working-5-common-bugs-fixed-5cmn",
+    "keywords": [
+      "wrong method ...",
+      "07z 💡 tl",
+      "php form",
+      "php form",
+      "five things",
+      "source",
+      "reactions",
+      "one",
+      "news"
+    ],
+    "summary": "# Why Your PHP Form Is Not Working — 5 Common Bugs Fixed > Source: devto | Category: news | 2026-07-16T06:29:07Z 💡 TL;DR   A broken PHP form almost always comes down to one of five things: wrong method..."
+  },
+  "dcc754b0ba5dbcba": {
+    "file": "corpus/devto/dev_to_himanshu_748_i-fixed-a-smolagents-bug-that-confused-e_61b09a9e94.md",
+    "source": "devto",
+    "title": "I fixed a smolagents bug that confused everyone who hit it (with Sentry watching the whole time)",
+    "url": "https://dev.to/himanshu_748/i-fixed-a-smolagents-bug-that-confused-everyone-who-hit-it-with-sentry-watching-the-whole-time-1im",
+    "keywords": [
+      "summer bug smash",
+      "smolagents bug",
+      "smolagents bug",
+      "whole time",
+      "whole time",
+      "lineup powered",
+      "confused everyone",
+      "confused everyone",
+      "sentry watching",
+      "sentry watching"
+    ],
+    "summary": "# I fixed a smolagents bug that confused everyone who hit it (with Sentry watching the whole time) > Source: devto | Category: news | 2026-07-16T06:29:08Z This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry."
+  },
+  "bf48b2cd404592f7": {
+    "file": "corpus/devto/dev_to_stkremen_building-with-mini-part-6-autonomous-mode-au_51ae27669f.md",
+    "source": "devto",
+    "title": "Building with mini, Part 6/9: Autonomous mode — auto and stop",
+    "url": "https://dev.to/stkremen/building-with-mini-part-6-autonomous-mode-auto-and-stop-3n03",
+    "keywords": [
+      "two human checkpoints around",
+      "autonomous mode — auto",
+      "autonomous mode — auto",
+      "parts 4",
+      "part 6",
+      "part 6",
+      "every ...",
+      "stop",
+      "stop",
+      "source"
+    ],
+    "summary": "# Building with mini, Part 6/9: Autonomous mode — auto and stop > Source: devto | Category: news | 2026-07-16T06:29:10Z After Parts 4 and 5, pycalc can compute and has two human checkpoints around the loop."
+  },
+  "53df1a63e787f3df": {
+    "file": "corpus/devto/dev_to_ayushh0110_i-built-a-landing-page-with-threejs-vanill_942affb0fc.md",
+    "source": "devto",
+    "title": "I built a landing page with Three.js, vanilla JS, and zero frameworks — here's what I learned",
+    "url": "https://dev.to/ayushh0110/i-built-a-landing-page-with-threejs-vanilla-js-and-zero-frameworks-heres-what-i-learned-3e55",
+    "keywords": [
+      "zero frameworks —",
+      "zero frameworks —",
+      "readme ...",
+      "landing page",
+      "landing page",
+      "vanilla js",
+      "vanilla js",
+      "source project",
+      "source"
+    ],
+    "summary": "# I built a landing page with Three.js, vanilla JS, and zero frameworks — here's what I learned > Source: devto | Category: news | 2026-07-16T06:29:10Z I've been building an open-source project for a while now, and it reached a point where the README..."
+  },
+  "061fab6050e6a820": {
+    "file": "corpus/devto/dev_to_scopeshieldops_scope-creep-is-a-state-machine-not-a-d_c154499b71.md",
+    "source": "devto",
+    "title": "Scope creep is a state machine, not a difficult-client problem",
+    "url": "https://dev.to/scopeshieldops/scope-creep-is-a-state-machine-not-a-difficult-client-problem-54do",
+    "keywords": [
+      "10z scope creep",
+      "scope creep",
+      "scope creep",
+      "usually described",
+      "state machine",
+      "state machine",
+      "people problem",
+      "client problem",
+      "client problem",
+      "client asks"
+    ],
+    "summary": "# Scope creep is a state machine, not a difficult-client problem > Source: devto | Category: news | 2026-07-16T06:29:10Z Scope creep is usually described as a people problem: a client asks for too much, a freelancer is too..."
+  },
+  "c93ed34805e5872e": {
+    "file": "corpus/devto/dev_to_croustibat44_stop-describing-pixels-to-your-ai-agent-_6c29b608c0.md",
+    "source": "devto",
+    "title": "Stop describing pixels to your AI agent — annotate them instead",
+    "url": "https://dev.to/croustibat44/stop-describing-pixels-to-your-ai-agent-annotate-them-instead-1ofp",
+    "keywords": [
+      "ai agent — annotate",
+      "ai agent — annotate",
+      "ai agent — annotate",
+      "10z stop describing pixels",
+      "stop describing pixels",
+      "stop describing pixels",
+      "source",
+      "reactions",
+      "program",
+      "pair"
+    ],
+    "summary": "# Stop describing pixels to your AI agent — annotate them instead > Source: devto | Category: news | 2026-07-16T06:29:10Z Stop describing pixels to your AI agent — annotate them instead   If you pair-program with..."
+  },
+  "8bc2f0ee17574a99": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_1_d1441f0b0c.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.1 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.1",
+    "keywords": [
+      "improved cache snapshot performance",
+      "mlx text model loading",
+      "current working directory",
+      "better project context",
+      "deprecated model passed",
+      "agent web search",
+      "0 ... v0",
+      "02z ## ollama",
+      "ollama — v0",
+      "model picker"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-16T06:30:02Z ## What's Changed - Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations - Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance - MLX text model loading now respects `OLLAMA_LOAD_TIMEOUT` - Agent web search and fetch now tell users to run `ollama signin` when authentication is required - The interac"
+  },
+  "daa8c8fec463c4ae": {
+    "file": "corpus/product/techcrunch_com_2026_07_15_applied-computing-wants-to-give-oi_faf51a2287.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "keywords": [
+      "00z applied computing wants",
+      "entire plant applied computing",
+      "applied computing wants",
+      "applied computing wants",
+      "foundation ai model",
+      "entire plant",
+      "entire plant",
+      "ai model",
+      "ai model",
+      "ai model"
+    ],
+    "summary": "# [techcrunch-startups] Applied Computing wants to give oil and gas operators an AI model for the entire plant Applied Computing wants to give oil and gas operators an AI model for the entire plant Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+  },
+  "388b29d2525ef1c5": {
+    "file": "corpus/product/techcrunch_com_2026_07_15_lululemon-backs-nylon-recycling-st_d7c56480a7.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+    "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+    "keywords": [
+      "00z lululemon backs nylon",
+      "lululemon backs nylon",
+      "lululemon backs nylon",
+      "already obtained big",
+      "recycling startup syntetica",
+      "recycling startup syntetica",
+      "recycling startup syntetica",
+      "recycling nylon",
+      "french startup",
+      "novel approach"
+    ],
+    "summary": "# [techcrunch-startups] Lululemon backs nylon-recycling startup Syntetica in $30M Series A Lululemon backs nylon-recycling startup Syntetica in $30M Series A Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors."
   }
 }
