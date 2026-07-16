@@ -246230,5 +246230,461 @@
       "handler trims history"
     ],
     "summary": "- Add step interception points and rework execution hooks documentation around `@on`. - Stop double-appending the turn reply when a handler trims history. - Expose token usage under both names on agent and crew results."
+  },
+  "e158fc68fe476b3e": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_c0m7n427xd8o_cc266b9108.md",
+    "source": "hackernews",
+    "title": "800 Canadian wildfires burning as air quality alerts extend to US",
+    "url": "https://www.bbc.com/news/articles/c0m7n427xd8o",
+    "keywords": [
+      "canadian",
+      "wildfires",
+      "burning",
+      "quality",
+      "alerts",
+      "extend",
+      "source",
+      "hackernews",
+      "category",
+      "news"
+    ],
+    "summary": "800 Canadian wildfires burning as air quality alerts extend to US > Source: hackernews | Category: news | 2026-07-16T19:02:16Z Score: 20 | Comments: 4"
+  },
+  "59d3e841a81036cc": {
+    "file": "corpus/hackernews/www_economist_com_science-and-technology_2026_07_15_the-rate_681b5df358.md",
+    "source": "hackernews",
+    "title": "The rate at which Earth is absorbing energy is alarming climate scientists",
+    "url": "https://www.economist.com/science-and-technology/2026/07/15/the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientists",
+    "keywords": [
+      "rate",
+      "earth",
+      "absorbing",
+      "energy",
+      "alarming",
+      "climate",
+      "scientists",
+      "source",
+      "hackernews",
+      "category"
+    ],
+    "summary": "The rate at which Earth is absorbing energy is alarming climate scientists > Source: hackernews | Category: news | 2026-07-16T19:02:16Z Score: 19 | Comments: 6"
+  },
+  "9f4c81edaa4687c2": {
+    "file": "corpus/hackernews/turso_tech_blog_a-new-modern-version-of-postgres-in-rust_6f85940a41.md",
+    "source": "hackernews",
+    "title": "We're Building Postgres in Rust. Using the LLVM of Databases",
+    "url": "https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust",
+    "keywords": [
+      "building",
+      "postgres",
+      "rust",
+      "llvm",
+      "databases",
+      "source",
+      "hackernews",
+      "category",
+      "news",
+      "score"
+    ],
+    "summary": "We're Building Postgres in Rust. Using the LLVM of Databases > Source: hackernews | Category: news | 2026-07-16T19:02:14Z Score: 27 | Comments: 5"
+  },
+  "fbcba9464fdc4717": {
+    "file": "corpus/hackernews/the-decoder_com_german-ai-consortium-releases-soofi-s-an-ope_9722fd2e96.md",
+    "source": "hackernews",
+    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "keywords": [
+      "german",
+      "consortium",
+      "releases",
+      "soofi",
+      "open",
+      "model",
+      "tops",
+      "benchmarks",
+      "source",
+      "hackernews"
+    ],
+    "summary": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks > Source: hackernews | Category: news | 2026-07-16T19:02:13Z Score: 26 | Comments: 1"
+  },
+  "ac1c27fa03be7a3e": {
+    "file": "corpus/hackernews/purplesyringa_moe_blog_guest_optimizing-lua-string-literals-_8ac7eeead4.md",
+    "source": "hackernews",
+    "title": "Optimizing Lua string literals to save 400 bytes",
+    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+    "keywords": [
+      "optimizing",
+      "string",
+      "literals",
+      "save",
+      "bytes",
+      "source",
+      "hackernews",
+      "category",
+      "news",
+      "score"
+    ],
+    "summary": "Optimizing Lua string literals to save 400 bytes > Source: hackernews | Category: news | 2026-07-16T19:02:11Z Score: 5 | Comments: 0"
+  },
+  "9d6452a5c3b90337": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_aws-continuum-code-security_utm_c_bf2f5d5231.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Continuum to Enable Agentic Code Security for Enterprises",
+    "url": "https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "continuum",
+      "code",
+      "security",
+      "agentic",
+      "enable",
+      "enterprises",
+      "infoq",
+      "engineering",
+      "source",
+      "category"
+    ],
+    "summary": "infoq AWS Continuum to Enable Agentic Code Security for Enterprises > Source: engineering | Category: engineering | 2026-07-16T19:02:04Z AWS Continuum to Enable Agentic Code Security for Enterprises Amazon Web Services has recently introduced AWS Continuum, a new integrated security platform to automate the discovery, enforcement, and remediation of security issues across codebases, dependencies, and applications. AWS Continuum launches with four agentic capabilities, aiming at the entire vulner"
+  },
+  "dc09e5746e66db8a": {
+    "file": "corpus/security/thehackernews_com_2026_07_two-scattered-spider-hackers-get-5_8c402b24a5.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+    "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+    "keywords": [
+      "years",
+      "each",
+      "hack",
+      "scattered",
+      "spider",
+      "hackers",
+      "million",
+      "hacker",
+      "news",
+      "security"
+    ],
+    "summary": "hacker-news-sec Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack > Source: security | Category: security | 2026-07-16T19:02:04Z Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's e"
+  },
+  "a3180d663b1b3b25": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_16_to-dodge-a-fight-with-trump-law-_b3037a9f8c.md",
+    "source": "legal",
+    "title": "[techdirt] To Dodge A Fight With Trump, Law Firms Cut Deals. Now The Deals Are Creating A Fight With Trump.",
+    "url": "https://www.techdirt.com/2026/07/16/to-dodge-a-fight-with-trump-law-firms-cut-deals-now-the-deals-are-creating-a-fight-with-trump/",
+    "keywords": [
+      "trump",
+      "fight",
+      "deals",
+      "firms",
+      "dodge",
+      "creating",
+      "techdirt",
+      "legal",
+      "source",
+      "category"
+    ],
+    "summary": "techdirt To Dodge A Fight With Trump, Law Firms Cut Deals. Now The Deals Are Creating A Fight With Trump. > Source: legal | Category: legal | 2026-07-16T19:02:04Z To Dodge A Fight With Trump, Law Firms Cut Deals."
+  },
+  "02357c4bcc5ec539": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_16_daily-deal-the-2026-microsoft-az_c90cf51882.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: The 2026 Microsoft Azure Architect & Administrator Exam Prep Bundle",
+    "url": "https://www.techdirt.com/2026/07/16/daily-deal-the-2026-microsoft-azure-architect-administrator-exam-prep-bundle/",
+    "keywords": [
+      "azure",
+      "microsoft",
+      "architect",
+      "administrator",
+      "exam",
+      "prep",
+      "bundle",
+      "techdirt",
+      "daily",
+      "deal"
+    ],
+    "summary": "techdirt Daily Deal: The 2026 Microsoft Azure Architect & Administrator Exam Prep Bundle > Source: legal | Category: legal | 2026-07-16T19:02:04Z Daily Deal: The 2026 Microsoft Azure Architect & Administrator Exam Prep Bundle The 2026 Microsoft Azure Architect &38; Administrator Exam Prep Bundle has 9 courses covering a wide range of Azure skills designed to help you pass your certification exams. Courses also include hands-on sections to help you put into practice what the lessons have covered."
+  },
+  "fe369f2a14209dae": {
+    "file": "corpus/github-trending/github_com_lyswhut_lx-music-desktop_76f59e3aa5.md",
+    "source": "github-trending",
+    "title": "lyswhut/lx-music-desktop ⭐52165",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "keywords": [
+      "music",
+      "github",
+      "lyswhut",
+      "desktop",
+      "https",
+      "shields",
+      "href",
+      "releases",
+      "electron",
+      "license"
+    ],
+    "summary": "lyswhut/lx-music-desktop ⭐52165 > Source: github-trending | Category: tool | 2026-07-16T19:02:39Z lyswhut/lx-music-desktop — ⭐ 52165 Language: TypeScript | Topics: electron, javascript, music-player, vue 一个基于 Electron 的音乐软件 <p align=\"center\"><a href=\" width=\"200\" src=\" alt=\"lx-music logo\"></a></p> <h1 align=\"center\">LX Music 桌面版</h1> <p align=\"center\"> <a href=\" src=\" alt=\"Release version\"></a> <a href=\" src=\" alt=\"Build status\"></a> <a href=\" src=\" alt=\"Build status\"></a> <a href=\" src=\" alt=\"E"
+  },
+  "966da4e90ea597ff": {
+    "file": "corpus/devto/dev_to_isaqureshi_dukaan-digital-teaching-an-ai-to-read-a-ki_4378a54ffc.md",
+    "source": "devto",
+    "title": "Dukaan Digital: Teaching an AI to Read a Kirana Shop So Small Stores Can Compete on ONDC",
+    "url": "https://dev.to/isaqureshi/dukaan-digital-teaching-an-ai-to-read-a-kirana-shop-so-small-stores-can-compete-on-ondc-2p0i",
+    "keywords": [
+      "dukaan",
+      "digital",
+      "teaching",
+      "read",
+      "kirana",
+      "shop",
+      "small",
+      "stores",
+      "compete",
+      "ondc"
+    ],
+    "summary": "Dukaan Digital: Teaching an AI to Read a Kirana Shop So Small Stores Can Compete on ONDC > Source: devto | Category: news | 2026-07-16T19:02:18Z The problem nobody built for Walk into any Indian neighborhood and you'll find one within 200..."
+  },
+  "ba789647e5c4367f": {
+    "file": "corpus/devto/dev_to_mohessaid_i-built-a-job-board-that-scores-how-real-ea_f6968d97d6.md",
+    "source": "devto",
+    "title": "I built a job board that scores how 'real' each listing is (A–F)",
+    "url": "https://dev.to/mohessaid/i-built-a-job-board-that-scores-how-real-each-listing-is-a-f-50gi",
+    "keywords": [
+      "built",
+      "board",
+      "scores",
+      "real",
+      "each",
+      "listing",
+      "source",
+      "devto",
+      "category",
+      "news"
+    ],
+    "summary": "I built a job board that scores how 'real' each listing is A–F > Source: devto | Category: news | 2026-07-16T19:02:17Z Most remote job listings are ghosts — already filled, never opened, or posted just to farm résumés...."
+  },
+  "02adaa70b6d564e9": {
+    "file": "corpus/devto/dev_to_harsh2644_every-ai-generated-line-of-code-is-a-small-_b1f0a3549a.md",
+    "source": "devto",
+    "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
+    "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
+    "keywords": [
+      "every",
+      "generated",
+      "line",
+      "code",
+      "small",
+      "loan",
+      "eventually",
+      "back",
+      "source",
+      "devto"
+    ],
+    "summary": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back > Source: devto | Category: news | 2026-07-16T19:02:17Z A bug showed up in my personal project last month. Nothing dramatic - a value wasn't updating the way..."
+  },
+  "4e9d72e422c5edd9": {
+    "file": "corpus/devto/dev_to_dhananjaykuseth_i-turned-my-free-browser-tools-into-a_b8b289371e.md",
+    "source": "devto",
+    "title": "I Turned My Free Browser Tools Into a Paid Product (Here's Exactly How)",
+    "url": "https://dev.to/dhananjaykuseth/i-turned-my-free-browser-tools-into-a-paid-product-heres-exactly-how-53l0",
+    "keywords": [
+      "tools",
+      "turned",
+      "free",
+      "browser",
+      "paid",
+      "product",
+      "here",
+      "exactly",
+      "source",
+      "devto"
+    ],
+    "summary": "I Turned My Free Browser Tools Into a Paid Product Here's Exactly How > Source: devto | Category: news | 2026-07-16T19:02:19Z A few weeks ago I wrote about four interactive engineering tools I built — a real-time FFT lab, a PID..."
+  },
+  "8064f6859502bacd": {
+    "file": "corpus/devto/dev_to_lovestaco_nobody-painted-that-rectangle-black-a3_72b5a749a9.md",
+    "source": "devto",
+    "title": "Nobody Painted That Rectangle Black",
+    "url": "https://dev.to/lovestaco/nobody-painted-that-rectangle-black-a3",
+    "keywords": [
+      "nobody",
+      "painted",
+      "rectangle",
+      "black",
+      "source",
+      "devto",
+      "category",
+      "news",
+      "hello",
+      "maneshwar"
+    ],
+    "summary": "Nobody Painted That Rectangle Black > Source: devto | Category: news | 2026-07-16T19:02:16Z Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit."
+  },
+  "fd0bcf2a038f0327": {
+    "file": "corpus/devto/dev_to_alex_spinov_codex-encrypted-its-sub-agent-prompts-gat_cdd3acd451.md",
+    "source": "devto",
+    "title": "Codex encrypted its sub-agent prompts. Gate the spawn plan.",
+    "url": "https://dev.to/alex_spinov/codex-encrypted-its-sub-agent-prompts-gate-the-spawn-plan-47j7",
+    "keywords": [
+      "spawn",
+      "codex",
+      "encrypted",
+      "agent",
+      "prompts",
+      "gate",
+      "plan",
+      "source",
+      "devto",
+      "category"
+    ],
+    "summary": "Codex encrypted its sub-agent prompts. > Source: devto | Category: news | 2026-07-16T19:02:18Z Pre-dispatch authorization for AI sub-agents means checking a child spawn's grant envelope its role,..."
+  },
+  "ec93659ee42b3d1c": {
+    "file": "corpus/devto/dev_to_moussaoutlook_i-ran-my-code-analyzer-on-9-codebases-i_cf38199224.md",
+    "source": "devto",
+    "title": "I ran my code analyzer on 9 codebases it had never seen. It found 3 real bugs, and embarrassed me first.",
+    "url": "https://dev.to/moussaoutlook/i-ran-my-code-analyzer-on-9-codebases-it-had-never-seen-it-found-3-real-bugs-and-embarrassed-me-5eo4",
+    "keywords": [
+      "code",
+      "analyzer",
+      "codebases",
+      "never",
+      "seen",
+      "found",
+      "real",
+      "bugs",
+      "embarrassed",
+      "first"
+    ],
+    "summary": "I ran my code analyzer on 9 codebases it had never seen. It found 3 real bugs, and embarrassed me first. > Source: devto | Category: news | 2026-07-16T19:02:18Z A maintainer of Apache Superset merged one of my fixes the same day I filed it."
+  },
+  "9a8d334fd54a4bbf": {
+    "file": "corpus/devto/dev_to_bernardkibathi_deploying-a-langchain-app-on-a-5-vps-a_dccf3d3960.md",
+    "source": "devto",
+    "title": "Deploying a LangChain App on a $5 VPS: A Step-by-Step Guide",
+    "url": "https://dev.to/bernardkibathi/deploying-a-langchain-app-on-a-5-vps-a-step-by-step-guide-35d6",
+    "keywords": [
+      "step",
+      "deploying",
+      "langchain",
+      "guide",
+      "source",
+      "devto",
+      "category",
+      "news",
+      "month",
+      "experiment"
+    ],
+    "summary": "Deploying a LangChain App on a $5 VPS: A Step-by-Step Guide > Source: devto | Category: news | 2026-07-16T19:02:18Z Deploying a LangChain app on a $5/month VPS was an experiment born out of necessity."
+  },
+  "43315f0d8f3e257a": {
+    "file": "corpus/devto/dev_to_kitarp29_can-a-mac-mini-handle-100-million-rows-3cpb_a72bcb20bb.md",
+    "source": "devto",
+    "title": "Can a Mac Mini Handle 100 Million Rows?",
+    "url": "https://dev.to/kitarp29/can-a-mac-mini-handle-100-million-rows-3cpb",
+    "keywords": [
+      "mini",
+      "million",
+      "rows",
+      "handle",
+      "source",
+      "devto",
+      "category",
+      "news",
+      "made",
+      "clickhouse"
+    ],
+    "summary": "Can a Mac Mini Handle 100 Million Rows? > Source: devto | Category: news | 2026-07-16T19:02:17Z I made ClickHouse and Postgres Fight to Find Out 🥊 One Mac Mini. 100 million rows of..."
+  },
+  "df510854629cc834": {
+    "file": "corpus/devto/dev_to_toxsec_build-a-multi-region-canary-trap-for-llm-promp_f452083167.md",
+    "source": "devto",
+    "title": "Build a Multi-Region Canary Trap for LLM Prompt Leaks",
+    "url": "https://dev.to/toxsec/build-a-multi-region-canary-trap-for-llm-prompt-leaks-5d0o",
+    "keywords": [
+      "prompt",
+      "build",
+      "multi",
+      "region",
+      "canary",
+      "trap",
+      "leaks",
+      "system",
+      "source",
+      "devto"
+    ],
+    "summary": "Build a Multi-Region Canary Trap for LLM Prompt Leaks > Source: devto | Category: news | 2026-07-16T19:02:18Z Your system prompt is going to leak. Not \"might.\" Every LLM app with a system prompt worth stealing..."
+  },
+  "ca12bbf4d199f352": {
+    "file": "corpus/devto/dev_to_konark_13_i-failed-a-promise-i-made-to-myself-4abj_66dd643c2b.md",
+    "source": "devto",
+    "title": "I Failed a Promise I Made to Myself",
+    "url": "https://dev.to/konark_13/i-failed-a-promise-i-made-to-myself-4abj",
+    "keywords": [
+      "failed",
+      "promise",
+      "made",
+      "myself",
+      "source",
+      "devto",
+      "category",
+      "news",
+      "room",
+      "quiet"
+    ],
+    "summary": "I Failed a Promise I Made to Myself > Source: devto | Category: news | 2026-07-16T19:02:19Z It was 2:07 a.m. The room was quiet, but my mind wasn't. Like many nights before, I was scrolling..."
+  },
+  "5a7ac3f740299880": {
+    "file": "corpus/devto/dev_to_wildeconforce_your-ai-agent-should-not-have-unrestric_c6531af796.md",
+    "source": "devto",
+    "title": "Your AI agent should not have unrestricted power",
+    "url": "https://dev.to/wildeconforce/your-ai-agent-should-not-have-unrestricted-power-4d7e",
+    "keywords": [
+      "agent",
+      "unrestricted",
+      "power",
+      "decides",
+      "source",
+      "devto",
+      "category",
+      "news",
+      "code",
+      "whether"
+    ],
+    "summary": "Your AI agent should not have unrestricted power > Source: devto | Category: news | 2026-07-16T19:02:18Z Your agent decides. Code decides whether it is allowed to act. A deterministic safety gate for AI agents."
+  },
+  "3cd4e922afbe085f": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_3a2_626c9befba.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.3a2 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.3a2",
+    "keywords": [
+      "crewaiinc",
+      "crewai",
+      "released",
+      "changelog",
+      "source",
+      "github",
+      "releases",
+      "category",
+      "changed",
+      "fixes"
+    ],
+    "summary": "crewAIInc/crewAI 1.15.3a2 released > Source: github-releases | Category: changelog | 2026-07-16T19:03:10Z crewAIInc/crewAI — 1.15.3a2 What's Changed Bug Fixes - Fix synchronization of kickoff-completed event with OUTPUT hook result Documentation - Update snapshot and changelog for v1.15.3a1 Dependency Updates - Bump setuptools to 0.83.0 to address PYSEC-2026-3447 Contributors @lucasgomide, @vinibrsl"
+  },
+  "fab5424ec25259a9": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_runtime-logs-now-show-cache-reasons_474404a61e.md",
+    "source": "vercel-blog",
+    "title": "Runtime logs now show cache reasons",
+    "url": "https://vercel.com/changelog/runtime-logs-now-show-cache-reasons",
+    "keywords": [
+      "runtime",
+      "logs",
+      "show",
+      "cache",
+      "reasons",
+      "source",
+      "vercel",
+      "blog",
+      "category",
+      "news"
+    ],
+    "summary": "Runtime logs now show cache reasons > Source: vercel-blog | Category: news | 2026-07-16T19:02:21Z Runtime logs now show cache reasons"
   }
 }
