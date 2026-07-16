@@ -247477,5 +247477,531 @@
       "security"
     ],
     "summary": "# [bleeping-comp] New ClickLock macOS malware traps users into revealing login password New ClickLock macOS malware traps users into revealing login password A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password."
+  },
+  "2f7dcd6d24a2c64c": {
+    "file": "corpus/hackernews/wc26_bogachev_fr_index_html_8bafa3f7e5.md",
+    "source": "hackernews",
+    "title": "FIFA World Cup 2026 Data Portraits",
+    "url": "https://wc26.bogachev.fr/index.html",
+    "keywords": [
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "16t23"
+    ],
+    "summary": "# FIFA World Cup 2026 Data Portraits > Source: hackernews | Category: news | 2026-07-16T23:10:24Z Score: 25 | Comments: 12"
+  },
+  "7345cdcdce16b8ec": {
+    "file": "corpus/hackernews/hellorecon_com_blog_cve-2026-25089_006436f9a0.md",
+    "source": "hackernews",
+    "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+    "url": "https://hellorecon.com/blog/cve-2026-25089",
+    "keywords": [
+      "cisa kev",
+      "cisa kev",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "cve",
+      "cve",
+      "comments",
+      "category"
+    ],
+    "summary": "# CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV > Source: hackernews | Category: news | 2026-07-16T23:10:28Z Score: 9 | Comments: 0"
+  },
+  "ae0f98ce27bf082c": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48940976_4c76d8ea2b.md",
+    "source": "hackernews",
+    "title": "Ask HN: cybersecurity refusal for turning a jailbroken kindle into a monitor",
+    "url": "https://news.ycombinator.com/item?id=48940976",
+    "keywords": [
+      "recognized legitimate use case",
+      "configure model switch behavior",
+      "</ code ></ pre",
+      "measures let us bring",
+      "ink monitor via usb",
+      "c tether .< p",
+      "custom typography .< p",
+      "fable 5 &# x27",
+      "custom typography thing",
+      "write custom software"
+    ],
+    "summary": "These measures let us bring you Mythos-level capabilities sooner, and we&#x27;re working to refine them. To learn about the Cyber Verification Program and apply for access, visit our help center: https:&#x2F;&#x2F;support.claude.com&#x2F;en&#x2F;articles&#x2F;14604842-real-time-cyber-safeguards-on-claude. If this crosses the line, then doesn&#x27;t a lot of other hardware and low-level software development too?<p>As far as I can tell, their argument is likely to be that writing firmware for such"
+  },
+  "d8fb04538453a6d3": {
+    "file": "corpus/hackernews/github_com_samyeyo_clx_12ea76a842.md",
+    "source": "hackernews",
+    "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+    "url": "https://github.com/samyeyo/clx",
+    "keywords": [
+      "adds full int64 support",
+      "host toolchain .< p",
+      "portable compiler backend instead",
+      "direct machine code generation",
+      "generates c ++ 20",
+      "clx – compile lua",
+      "clx – compile lua",
+      "produces standalone native executables",
+      "time compiled .< p",
+      "msvc .< p"
+    ],
+    "summary": "# Show HN: Clx – Compile Lua to Native Executables Through C++20 Hi HN,<p>clx is an ahead-of-time compiler for standard Lua that generates C++20 and produces standalone native executables through GCC, Clang or MSVC.<p>The project started as an experiment to see whether modern C++ could be used as a portable compiler backend instead of LLVM or direct machine code generation. The generated code is then compiled and optimized by the host toolchain.<p>The latest release replaces the previous NaN-tag"
+  },
+  "70352fa2da8235a1": {
+    "file": "corpus/hackernews/imdanielkendall_com_the-great-software-regress-how-move-fast_171c4c011c.md",
+    "source": "hackernews",
+    "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+    "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+    "keywords": [
+      "modern software",
+      "modern software",
+      "23z score",
+      "source",
+      "news",
+      "indictment",
+      "indictment",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# My car's OTA update broke Android Auto, and it's a indictment of modern software > Source: hackernews | Category: news | 2026-07-16T23:10:23Z Score: 39 | Comments: 22"
+  },
+  "9035e08ce663b2f1": {
+    "file": "corpus/hackernews/github_com_cgrtml_reasongate_ecd2bf8e33.md",
+    "source": "hackernews",
+    "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+    "url": "https://github.com/cgrtml/reasongate",
+    "keywords": [
+      "blocks llm prompt injection",
+      "blocks llm prompt injection",
+      "show hn",
+      "show hn",
+      "explainable gate",
+      "explainable gate",
+      "24z score",
+      "source",
+      "reasongate",
+      "reasongate"
+    ],
+    "summary": "# Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection > Source: hackernews | Category: news | 2026-07-16T23:10:24Z Score: 6 | Comments: 0"
+  },
+  "d964a40b61db84bc": {
+    "file": "corpus/hackernews/ray_zo_space_blog_just-do-things_ccc2f83fa0.md",
+    "source": "hackernews",
+    "title": "Just Do Things",
+    "url": "https://ray.zo.space/blog/just-do-things",
+    "keywords": [
+      "28z score",
+      "things",
+      "things",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Just Do Things > Source: hackernews | Category: news | 2026-07-16T23:10:28Z Score: 7 | Comments: 3"
+  },
+  "2fd9c588b0e1c9fe": {
+    "file": "corpus/hackernews/news_yale_edu_2026_07_15_meet-likweli-new-monkey-species-dis_de58767cec.md",
+    "source": "hackernews",
+    "title": "Likweli': A new monkey species discovered in the Congo Basin",
+    "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+    "keywords": [
+      "new monkey species discovered",
+      "new monkey species discovered",
+      "likweli ':",
+      "likweli ':",
+      "congo basin",
+      "congo basin",
+      "24z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# 'Likweli': A new monkey species discovered in the Congo Basin > Source: hackernews | Category: news | 2026-07-16T23:10:24Z Score: 16 | Comments: 1"
+  },
+  "230844ad17ad7541": {
+    "file": "corpus/hackernews/github_com_alxndrTL_little-book-rl_9cb3f7803d.md",
+    "source": "hackernews",
+    "title": "The Little Book of Reinforcement Learning",
+    "url": "https://github.com/alxndrTL/little-book-rl/",
+    "keywords": [
+      "reinforcement learning",
+      "reinforcement learning",
+      "little book",
+      "little book",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Little Book of Reinforcement Learning > Source: hackernews | Category: news | 2026-07-16T23:10:23Z Score: 10 | Comments: 1"
+  },
+  "4bbeee143fcf0b3d": {
+    "file": "corpus/hackernews/mojibake_zaerl_com_d8122e2984.md",
+    "source": "hackernews",
+    "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+    "url": "https://mojibake.zaerl.com/",
+    "keywords": [
+      "windows 11 .< p",
+      "level unicode library written",
+      "level unicode library written",
+      "unicode support .< p",
+      "others .< p",
+      "important unicode algorithms",
+      "two amalgamation files",
+      "public api functions",
+      "unicode libraries",
+      "written mojibake"
+    ],
+    "summary": "# Show HN: Mojibake – a low-level Unicode library written in C I&#x27;ve written Mojibake because I don&#x27;t like the other Unicode libraries for Unicode support.<p>It consists of only two amalgamation files: mojibake.h and mojibake.c. I&#x27;ve added all the most important Unicode algorithms, such as normalization, case conversion, segmentation, bidirectional text, collation, confusable, and others.<p>I regularly test it in these OSes: Linux, macOS, FreeBSD, OpenBSD, NetBSD, and Windows 11.<p"
+  },
+  "404f053aa22e68c2": {
+    "file": "corpus/hackernews/modal_com_blog_scaling-to-1-million-concurrent-sandboxes-in-_764c073dd4.md",
+    "source": "hackernews",
+    "title": "Scaling to 1M concurrent sandboxes in seconds",
+    "url": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+    "keywords": [
+      "1m concurrent sandboxes",
+      "1m concurrent sandboxes",
+      "29z score",
+      "source",
+      "seconds",
+      "seconds",
+      "scaling",
+      "scaling",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Scaling to 1M concurrent sandboxes in seconds > Source: hackernews | Category: news | 2026-07-16T23:10:29Z Score: 8 | Comments: 1"
+  },
+  "0aef22d12855e525": {
+    "file": "corpus/hackernews/arxiv_org_abs_2607_12395_c0cf9e7fd4.md",
+    "source": "hackernews",
+    "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+    "url": "https://arxiv.org/abs/2607.12395",
+    "keywords": [
+      "scaling zero rl",
+      "scaling zero rl",
+      "trillion parameters",
+      "trillion parameters",
+      "emergent reasoning",
+      "emergent reasoning",
+      "24z score",
+      "zero",
+      "zero",
+      "source"
+    ],
+    "summary": "# Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning > Source: hackernews | Category: news | 2026-07-16T23:10:24Z Score: 14 | Comments: 0"
+  },
+  "c234cb899fa90bcc": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_xai-cant-deny-grok-makes_368a3dfa05.md",
+    "source": "legal",
+    "title": "[ars-policy] xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+    "keywords": [
+      "making child sex images",
+      "xai files first lawsuit",
+      "grok user accused",
+      "suing users",
+      "suing users",
+      "suing users",
+      "elon musk",
+      "24z xai",
+      "xai",
+      "xai"
+    ],
+    "summary": "# [ars-policy] xAI can’t deny Grok makes CSAM anymore. xAI can’t deny Grok makes CSAM anymore. Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images."
+  },
+  "3e5b1061ad62d44d": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_16_fcc-officials-took-pricey-gifts-_543f1cfc4b.md",
+    "source": "legal",
+    "title": "[techdirt] FCC Officials Took Pricey Gifts From Paramount As The Company Needed Approval For Billion-Dollar Deals",
+    "url": "https://www.techdirt.com/2026/07/16/fcc-officials-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-billion-dollar-deals/",
+    "keywords": [
+      "people [&# 8230 ;]",
+      "president donald trump",
+      "company needed approval",
+      "company needed approval",
+      "company needed approval",
+      "annual honors gala",
+      "kennedy center ’",
+      "center ’",
+      "nation ’",
+      "tie event"
+    ],
+    "summary": "# [techdirt] FCC Officials Took Pricey Gifts From Paramount As The Company Needed Approval For Billion-Dollar Deals FCC Officials Took Pricey Gifts From Paramount As The Company Needed Approval For Billion-Dollar Deals The black-tie event, hosted by President Donald Trump, prioritized tickets to people [&#8230;]"
+  },
+  "8246e4bac924c92a": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_t-mobile-bungled-forced-_164bd68bcf.md",
+    "source": "legal",
+    "title": "[ars-policy] T-Mobile bungled forced plan migration, canceling some users' free lines",
+    "url": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+    "keywords": [
+      "restore free lines lost",
+      "price hikes remain",
+      "free lines",
+      "free lines",
+      "free lines",
+      "plan migration",
+      "users",
+      "users",
+      "users",
+      "source"
+    ],
+    "summary": "# [ars-policy] T-Mobile bungled forced plan migration, canceling some users' free lines T-Mobile bungled forced plan migration, canceling some users' free lines T-Mobile to restore free lines lost during plan migration, but price hikes remain."
+  },
+  "023b1c993228d462": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48111_citadel-securities-pumps-_738ca7d290.md",
+    "source": "finance",
+    "title": "[finextra] Citadel Securities pumps $400m into Crypto.com",
+    "url": "https://www.finextra.com/newsarticle/48111/citadel-securities-pumps-400m-into-cryptocom?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "24z citadel securities pumps",
+      "citadel securities pumps",
+      "citadel securities pumps",
+      "400 million investment",
+      "20 billion valuation",
+      "citadel securities",
+      "source",
+      "secured",
+      "finextra",
+      "finextra"
+    ],
+    "summary": "# [finextra] Citadel Securities pumps $400m into Crypto.com Citadel Securities pumps $400m into Crypto.com Digital asset exchange Crypto.com has secured a $400 million investment from Citadel Securities at a $20 billion valuation."
+  },
+  "b93a76321d4f3f27": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48109_h1-global-fintech-funding_dfeaa7bfae.md",
+    "source": "finance",
+    "title": "[finextra] H1 global fintech funding grows 23% YoY",
+    "url": "https://www.finextra.com/newsarticle/48109/h1-global-fintech-funding-grows-23-yoy?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "previous year",
+      "first half",
+      "6 billion",
+      "yoy",
+      "yoy",
+      "source",
+      "period",
+      "finextra",
+      "finextra",
+      "finance"
+    ],
+    "summary": "# [finextra] H1 global fintech funding grows 23% YoY H1 global fintech funding grows 23% YoY Global fintech venture funding hit $28.6 billion in the first half of 2026, up 23% on the same period the previous year, according to data from Crunchbase."
+  },
+  "bb87c1741eb8871d": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48108_mastercard-rolls-out-serv_922e432439.md",
+    "source": "finance",
+    "title": "[finextra] Mastercard rolls out service to help developers build mobile wallets",
+    "url": "https://www.finextra.com/newsarticle/48108/mastercard-rolls-out-service-to-help-developers-build-mobile-wallets?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "add contactless payments",
+      "24z mastercard rolls",
+      "mastercard rolls",
+      "mastercard rolls",
+      "software tools",
+      "services designed",
+      "android apps",
+      "source",
+      "set",
+      "service"
+    ],
+    "summary": "# [finextra] Mastercard rolls out service to help developers build mobile wallets Mastercard rolls out service to help developers build mobile wallets Mastercard has introduced a set of software tools and services designed to make it easier for banks and fintechs to add contactless payments into their iOS and Android apps."
+  },
+  "6578fad21f09644c": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48107_hsbc-joins-digital-gilt-p_bcce173119.md",
+    "source": "finance",
+    "title": "[finextra] HSBC joins digital gilt pilot as investor depository",
+    "url": "https://www.finextra.com/newsarticle/48107/hsbc-joins-digital-gilt-pilot-as-investor-depository?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "london stock exchange group",
+      "support hm treasury",
+      "digital gilt instrument",
+      "pilot issuance",
+      "investor depository",
+      "investor depository",
+      "investor depository",
+      "come together",
+      "source",
+      "hsbc"
+    ],
+    "summary": "# [finextra] HSBC joins digital gilt pilot as investor depository HSBC joins digital gilt pilot as investor depository The London Stock Exchange Group and HSBC have come together to support HM Treasury's Digital Gilt Instrument (Digit) pilot issuance"
+  },
+  "84404ba3e870cd12": {
+    "file": "corpus/devto/dev_to_thomasbnt_res-my-personal-safeguard-against-ai-3ja8_e3bb953241.md",
+    "source": "devto",
+    "title": "RES, my personal safeguard against AI",
+    "url": "https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8",
+    "keywords": [
+      "personal safeguard",
+      "personal safeguard",
+      "daily life",
+      "conversations get",
+      "use ai",
+      "source",
+      "res",
+      "res"
+    ],
+    "summary": "# RES, my personal safeguard against AI > Source: devto | Category: news | 2026-07-16T23:10:33Z The Problem   The more I use AI in my daily life, the longer my conversations get."
+  },
+  "10cc6b4465c5767f": {
+    "file": "corpus/devto/dev_to_phalkmin_i-burned-through-thousands-of-ai-tokens-then_c5dbb7fed4.md",
+    "source": "devto",
+    "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+    "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
+    "keywords": [
+      "kinda clickbait",
+      "funsies 😊)",
+      "ai tokens",
+      "ai tokens",
+      "yep",
+      "year",
+      "thousands",
+      "thousands",
+      "source",
+      "relaunched"
+    ],
+    "summary": "# I burned through thousands of AI tokens. Then a friend did it for free (yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my..."
+  },
+  "9510cd70f729c136": {
+    "file": "corpus/devto/dev_to_devengers_want-to-volunteer-with-me-as-a-full-stack-d_5ae1920e44.md",
+    "source": "devto",
+    "title": "Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!",
+    "url": "https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne",
+    "keywords": [
+      "dev opportunity ...",
+      "33z hey everyone",
+      "stack developer",
+      "stack developer",
+      "hemapriya_kanagala series",
+      "want",
+      "want",
+      "want",
+      "volunteer",
+      "volunteer"
+    ],
+    "summary": "# Want to Volunteer with me as a Full-Stack Developer? I don't want to steal @hemapriya_kanagala series. This is more of a DEV opportunity..."
+  },
+  "63e8afe4019e2c8f": {
+    "file": "corpus/devto/dev_to_googleai_what-is-an-agentic-harness-actually-4oie_e6538ab092.md",
+    "source": "devto",
+    "title": "What is an 'agentic harness,' actually?",
+    "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+    "keywords": [
+      "agentic harness ,' actually",
+      "agentic harness ,\" actually",
+      "thrown around",
+      "lot lately",
+      "harness",
+      "word",
+      "source",
+      "reactions",
+      "news",
+      "meant"
+    ],
+    "summary": "# What is an \"agentic harness,\" actually? I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or..."
+  },
+  "af6f8535f28a04c2": {
+    "file": "corpus/devto/dev_to_kaityo256_a-pythonc-pipeline-for-embarrassingly-paral_eb718e9617.md",
+    "source": "devto",
+    "title": "A Python/C++ Pipeline for Embarrassingly Parallel Simulations",
+    "url": "https://dev.to/kaityo256/a-pythonc-pipeline-for-embarrassingly-parallel-simulations-3c45",
+    "keywords": [
+      "program many times ...",
+      "32z numerical simulations often",
+      "embarrassingly parallel simulations",
+      "embarrassingly parallel simulations",
+      "c ++ pipeline",
+      "c ++ pipeline",
+      "important structure",
+      "source",
+      "simple",
+      "run"
+    ],
+    "summary": "# A Python/C++ Pipeline for Embarrassingly Parallel Simulations > Source: devto | Category: news | 2026-07-16T23:10:32Z Numerical simulations often have a simple but important structure: run the same program many times..."
+  },
+  "a4f564b41312f7a0": {
+    "file": "corpus/devto/dev_to_amih_a-litellm-circuit-breaker-that-kills-runaway-age_bdea644ebe.md",
+    "source": "devto",
+    "title": "A LiteLLM circuit breaker that kills runaway agent runs",
+    "url": "https://dev.to/amih/a-litellm-circuit-breaker-that-kills-runaway-agent-runs-3fp6",
+    "keywords": [
+      "kills runaway agent runs",
+      "kills runaway agent runs",
+      "one agent run",
+      "litellm circuit breaker",
+      "litellm circuit breaker",
+      "got ...",
+      "source",
+      "ruins",
+      "reactions",
+      "news"
+    ],
+    "summary": "# A LiteLLM circuit breaker that kills runaway agent runs The bill that ruins a Monday doesn't come from a break-in. It comes from one agent run that got..."
+  },
+  "7b427b5925b80d41": {
+    "file": "corpus/devto/dev_to_gabrielmahia_reputation-portability-the-missing-infra_e52a58e72e.md",
+    "source": "devto",
+    "title": "Reputation Portability: The Missing Infrastructure for Economic Mobility",
+    "url": "https://dev.to/gabrielmahia/reputation-portability-the-missing-infrastructure-for-economic-mobility-hko",
+    "keywords": [
+      "yelp reviews ,...",
+      "immediately find work",
+      "skilled plumber",
+      "reputation portability",
+      "reputation portability",
+      "missing infrastructure",
+      "missing infrastructure",
+      "los angeles",
+      "economic mobility",
+      "economic mobility"
+    ],
+    "summary": "# Reputation Portability: The Missing Infrastructure for Economic Mobility > Source: devto | Category: news | 2026-07-16T23:10:32Z A skilled plumber in Chicago can move to Los Angeles and immediately find work."
+  },
+  "d2b79c82a048e4b4": {
+    "file": "corpus/devto/dev_to_vystartasv_my-agent-shipped-3-prs-in-an-evening-40-of_2f3c78b6e0.md",
+    "source": "devto",
+    "title": "My Agent Shipped 3 PRs in an Evening. 40% of My Messages Were Corrections.",
+    "url": "https://dev.to/vystartasv/my-agent-shipped-3-prs-in-an-evening-40-of-my-messages-were-corrections-5jo",
+    "keywords": [
+      "part 3 last night",
+      "agent shipped 3 prs",
+      "agent shipped 3 prs",
+      "agent session",
+      "33z let",
+      "source",
+      "reactions",
+      "news",
+      "messages",
+      "messages"
+    ],
+    "summary": "# My Agent Shipped 3 PRs in an Evening. 40% of My Messages Were Corrections. Let It Break, Part 3  Last night an agent session I was running submitted three pull requests to..."
+  },
+  "4c04706ecfc94ded": {
+    "file": "corpus/github-releases/github_com_sveltejs_svelte_releases_tag_svelte_405_56_6_ec2a7780af.md",
+    "source": "github-releases",
+    "title": "sveltejs/svelte svelte@5.56.6 released",
+    "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%405.56.6",
+    "keywords": [
+      "skip unnecessary blocker analysis",
+      "compiling components without top",
+      "6 ### patch changes",
+      "38z ## sveltejs",
+      "svelte — svelte",
+      "6 released",
+      "6 released",
+      "svelte svelte",
+      "svelte svelte",
+      "rerun derived"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-16T23:10:38Z -   perf: skip unnecessary blocker analysis when compiling components without top-level await ([#18548](https://github.com/sveltejs/svelte/pull/18548)) -   fix: rerun derived that had an abort controller on reconnection ([#18551](https://github.com/sveltejs/svelte/pull/18551))"
   }
 }
