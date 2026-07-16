@@ -243277,5 +243277,551 @@
       "fix sdpa prefill"
     ],
     "summary": "This patch solves a few issues which appeared when integrating Inkling model, most notably an issue affecting models using EncoderDecoderCache during assisted generation. It also fixes an issue that could appear during prefill with StaticCache and sdpa without padding for Inkling which uses a position_bias. - Fix sdpa prefill with position_bias (#47359) by @Cyrilvallez - Fix assisted decoding for models with EncoderDecoder cache & OlmoHybrid (#47361) by @Cyrilvallez - [FP8] Bump kernels version "
+  },
+  "9442dbe86c613b4f": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_Noo0NWD0gHU_ca04688d81.md",
+    "source": "youtube",
+    "title": "[theo] I need you to hear me out (it’s REALLY good)",
+    "url": "https://www.youtube.com/watch?v=Noo0NWD0gHU",
+    "keywords": [
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "really good",
+      "really good",
+      "really good",
+      "going insane",
+      "genuinely better",
+      "feel like"
+    ],
+    "summary": "# [theo] I need you to hear me out (it’s REALLY good) I need you to hear me out (it’s REALLY good) Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "b5daa8b0098a1662": {
+    "file": "corpus/hackernews/mathspp_com_blog_lsbasi-apl-part1_55efb28d55.md",
+    "source": "hackernews",
+    "title": "Let's build a simple interpreter for APL – part 1",
+    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
+    "keywords": [
+      "apl – part 1",
+      "apl – part 1",
+      "simple interpreter",
+      "simple interpreter",
+      "20z score",
+      "source",
+      "news",
+      "let",
+      "let",
+      "hackernews"
+    ],
+    "summary": "# Let's build a simple interpreter for APL – part 1 > Source: hackernews | Category: news | 2026-07-16T12:04:20Z Score: 5 | Comments: 0"
+  },
+  "cebd6a22bcee3d11": {
+    "file": "corpus/hackernews/community_oneplus_com_thread_2170715118587871237_ddfa190fec.md",
+    "source": "hackernews",
+    "title": "OnePlus halts operations in USA and Europe",
+    "url": "https://community.oneplus.com/thread/2170715118587871237",
+    "keywords": [
+      "oneplus halts operations",
+      "oneplus halts operations",
+      "18z score",
+      "usa",
+      "usa",
+      "source",
+      "news",
+      "hackernews",
+      "europe",
+      "europe"
+    ],
+    "summary": "# OnePlus halts operations in USA and Europe > Source: hackernews | Category: news | 2026-07-16T12:04:18Z Score: 93 | Comments: 49"
+  },
+  "41e3c3f03154ae44": {
+    "file": "corpus/hackernews/marginalrevolution_com_marginalrevolution_2026_05_a-beautifu_8ab5e1d548.md",
+    "source": "hackernews",
+    "title": "A Beautiful Theory Falls to Ugly Data",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+    "keywords": [
+      "beautiful theory falls",
+      "beautiful theory falls",
+      "ugly data",
+      "ugly data",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Beautiful Theory Falls to Ugly Data > Source: hackernews | Category: news | 2026-07-16T12:04:18Z Score: 29 | Comments: 8"
+  },
+  "9e13bd43a61d2514": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_platform-business-users_utm_campa_1cd37df1bb.md",
+    "source": "engineering",
+    "title": "[infoq] Developing and Deploying a Platform that the Business Understands and Developers Actually Want",
+    "url": "https://www.infoq.com/news/2026/07/platform-business-users/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "really cool stuff",
+      "metrics like dora",
+      "christian matthaei presented",
+      "developers actually want",
+      "developers actually want",
+      "developers actually want",
+      "platform teams face",
+      "value measurable",
+      "lucas hornung",
+      "hidden pain"
+    ],
+    "summary": "# [infoq] Developing and Deploying a Platform that the Business Understands and Developers Actually Want A lot of platform teams face a problem: they build a lot of really cool stuff, and then their developers don't use it. Be visible to management, talk to stakeholders and listen to their problems, make your value measurable with metrics like DORA, create narratives, and show the hidden pain to make it personal: these are lessons that Lucas Hornung and Christian Matthaei presented."
+  },
+  "a0a5a3cd09d646d8": {
+    "file": "corpus/devto/dev_to_nicanor_korir_the-new-way-to-showcase-software-skills_91e76c7e15.md",
+    "source": "devto",
+    "title": "The New Way to Showcase Software Skills",
+    "url": "https://dev.to/nicanor_korir/the-new-way-to-showcase-software-skills-in7",
+    "keywords": [
+      "job seekers say ...",
+      "showcase software skills",
+      "showcase software skills",
+      "28z two things",
+      "new way",
+      "new way",
+      "true",
+      "true",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The New Way to Showcase Software Skills > Source: devto | Category: news | 2026-07-16T12:04:28Z Two things are true about hiring in 2026, and they should not both be true at once."
+  },
+  "54f50d5982153c50": {
+    "file": "corpus/devto/dev_to_yimtheppariyapol_mattpocockskills-review-a-real-engin_59b5341ef3.md",
+    "source": "devto",
+    "title": "mattpocock/skills review: a real engineer's .claude, 160k stars",
+    "url": "https://dev.to/yimtheppariyapol/mattpocockskills-review-a-real-engineers-claude-160k-stars-4d3f",
+    "keywords": [
+      "36 small composable skills",
+      "matt pocock opened",
+      "trending repos",
+      "real engineer",
+      "real engineer",
+      "160k stars",
+      "160k stars",
+      "skills review",
+      "skills review",
+      "claude directory"
+    ],
+    "summary": "# mattpocock/skills review: a real engineer's .claude, 160k stars A review of mattpocock/skills, where Matt Pocock opened his own .claude directory: ~36 small composable skills you fork and remix. How it differs from the other trending repos."
+  },
+  "52b054018d952046": {
+    "file": "corpus/devto/dev_to_raleighschickel_non-determinism-is-the-job-2omf_1ebcdf028c.md",
+    "source": "devto",
+    "title": "Non-determinism is the job",
+    "url": "https://dev.to/raleighschickel/non-determinism-is-the-job-2omf",
+    "keywords": [
+      "little silly",
+      "29z early",
+      "worked",
+      "source",
+      "reactions",
+      "place",
+      "partially",
+      "non",
+      "non",
+      "news"
+    ],
+    "summary": "# Non-determinism is the job > Source: devto | Category: news | 2026-07-16T12:04:29Z Early in my career, and partially because I worked at a place that was a little silly and I didn't..."
+  },
+  "b3a895aa60f1b52a": {
+    "file": "corpus/devto/dev_to_puffball1567_rochedb-v06-planning-safer-queries-and-d_c22e3012ee.md",
+    "source": "devto",
+    "title": "RocheDB v0.6 Planning: Safer Queries and Deeper Data Locality",
+    "url": "https://dev.to/puffball1567/rochedb-v06-planning-safer-queries-and-deeper-data-locality-1622",
+    "keywords": [
+      "deeper physical locality validation",
+      "deeper data locality",
+      "deeper data locality",
+      "safer filter builders",
+      "safer queries",
+      "safer queries",
+      "topology improvements",
+      "tls ux",
+      "rochedb v0",
+      "rochedb v0"
+    ],
+    "summary": "# RocheDB v0.6 Planning: Safer Queries and Deeper Data Locality > Source: devto | Category: news | 2026-07-16T12:04:30Z A development note on RocheDB v0.6 planning: safer filter builders, deeper physical locality validation, topology improvements, and config/TLS UX."
+  },
+  "6802132d90443e58": {
+    "file": "corpus/devto/dev_to_datadriven_the-ai-cheat-tool-your-interview-cannot-se_8208dcb31a.md",
+    "source": "devto",
+    "title": "The AI Cheat Tool Your Interview Cannot See",
+    "url": "https://dev.to/datadriven/the-ai-cheat-tool-your-interview-cannot-see-jkc",
+    "keywords": [
+      "invisible ai overlays",
+      "interview cannot see",
+      "interview cannot see",
+      "cheating technical interviews",
+      "ai cheat tool",
+      "ai cheat tool",
+      "screen share",
+      "actually happening",
+      "28z 48",
+      "source"
+    ],
+    "summary": "# The AI Cheat Tool Your Interview Cannot See 48% of candidates are cheating technical interviews with invisible AI overlays. Screen share doesn't catch it."
+  },
+  "2051d2448ef7284d": {
+    "file": "corpus/devto/dev_to_juddisjudd_why-i-built-svocs-svelte-first-docs-in-202_b6c76af24e.md",
+    "source": "devto",
+    "title": "Why I built SVOCS: Svelte-first docs in 2026",
+    "url": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+    "keywords": [
+      "building great documentation",
+      "first docs",
+      "first docs",
+      "built svocs",
+      "built svocs",
+      "svelte",
+      "svelte",
+      "started",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why I built SVOCS: Svelte-first docs in 2026 > Source: devto | Category: news | 2026-07-16T12:04:27Z The Frustration That Started It All   In 2026, building great documentation should be..."
+  },
+  "e5dc4af7a0fe9f61": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-commit-message-generator-kept-signin_fa7afeb15f.md",
+    "source": "devto",
+    "title": "My Commit Message Generator Kept Signing Its Own Work. Telling It Not To Wasn't the Fix.",
+    "url": "https://dev.to/enjoy_kumawat/my-commit-message-generator-kept-signing-its-own-work-telling-it-not-to-wasnt-the-fix-2j3j",
+    "keywords": [
+      "script called git_commit",
+      "staged ...",
+      "work",
+      "work",
+      "telling",
+      "telling",
+      "source",
+      "shells",
+      "repos",
+      "reactions"
+    ],
+    "summary": "# My Commit Message Generator Kept Signing Its Own Work. I have a script called git_commit.py in one of my repos. It shells out to claude -p with the staged..."
+  },
+  "d163387b01f91773": {
+    "file": "corpus/devto/dev_to_ladipo_samuel_7cfaa827bf5_docker-series-part-3dockeri_40079ed038.md",
+    "source": "devto",
+    "title": "Docker Series Part 3: Dockerizing Your First Application.",
+    "url": "https://dev.to/ladipo_samuel_7cfaa827bf5/docker-series-part-3dockerizing-your-first-application-1ji6",
+    "keywords": [
+      "docker series part 3",
+      "docker series part 3",
+      "first two parts",
+      "understanding docker",
+      "first application",
+      "first application",
+      "series",
+      "talked",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Docker Series Part 3: Dockerizing Your First Application. > Source: devto | Category: news | 2026-07-16T12:04:29Z In the first two parts of this series, we focused on understanding Docker."
+  },
+  "ea6d0a7fbf8ba20e": {
+    "file": "corpus/devto/dev_to_kislay_why-programmers-hate-linkedin-57aa_d14c13ce89.md",
+    "source": "devto",
+    "title": "Why Programmers Hate LinkedIn?",
+    "url": "https://dev.to/kislay/why-programmers-hate-linkedin-57aa",
+    "keywords": [
+      "programmers hate linkedin",
+      "programmers hate linkedin",
+      "28z open linkedin",
+      "founder crying",
+      "five minutes",
+      "source",
+      "see",
+      "reactions",
+      "news",
+      "failure"
+    ],
+    "summary": "# Why Programmers Hate LinkedIn? Open LinkedIn for five minutes as a developer. You will see a founder crying about failure in an..."
+  },
+  "1503d5ca5515ae31": {
+    "file": "corpus/devto/dev_to_rulestack_agentsmd-how-to-write-the-one-rules-file-mo_59fb3c2afa.md",
+    "source": "devto",
+    "title": "AGENTS.md: how to write the one rules file most coding agents now read",
+    "url": "https://dev.to/rulestack/agentsmd-how-to-write-the-one-rules-file-most-coding-agents-now-read-1p21",
+    "keywords": [
+      "dozen newer coding agents",
+      "one rules file",
+      "one rules file",
+      "coding agents",
+      "coding agents",
+      "openai codex",
+      "met ...",
+      "agents",
+      "agents",
+      "write"
+    ],
+    "summary": "# AGENTS.md: how to write the one rules file most coding agents now read > Source: devto | Category: news | 2026-07-16T12:04:29Z If you've picked up OpenAI Codex, OpenCode, or half a dozen newer coding agents, you've met..."
+  },
+  "4e2d2c97cc22ceda": {
+    "file": "corpus/devto/dev_to_suzanne_builds_i-rebuilt-2048-from-scratch-and-accide_fd97a12f63.md",
+    "source": "devto",
+    "title": "I Rebuilt 2048 From Scratch and Accidentally Learned How Much I Didn't Know About CSS Grids",
+    "url": "https://dev.to/suzanne_builds/i-rebuilt-2048-from-scratch-and-accidentally-learned-how-much-i-didnt-know-about-css-grids-ccp",
+    "keywords": [
+      "shipped production code",
+      "rebuilt 2048",
+      "rebuilt 2048",
+      "css grids",
+      "css grids",
+      "accidentally learned",
+      "accidentally learned",
+      "years",
+      "told",
+      "still"
+    ],
+    "summary": "# I Rebuilt 2048 From Scratch and Accidentally Learned How Much I Didn't Know About CSS Grids I have a confession. I've shipped production code for years, and I still couldn't have told you, off..."
+  },
+  "5a0e194c6d62b32e": {
+    "file": "corpus/devto/dev_to_yimtheppariyapol_addy-osmani-agent-skills-review-24-p_ccf2c72849.md",
+    "source": "devto",
+    "title": "Addy Osmani agent-skills review: 24 production skills, 72.6k stars",
+    "url": "https://dev.to/yimtheppariyapol/addy-osmani-agent-skills-review-24-production-skills-726k-stars-22em",
+    "keywords": [
+      "take even without installing",
+      "grade skills covering",
+      "addy osmani agent",
+      "addy osmani agent",
+      "24 production skills",
+      "24 production skills",
+      "24 production",
+      "skills review",
+      "skills review",
+      "full lifecycle"
+    ],
+    "summary": "# Addy Osmani agent-skills review: 24 production skills, 72.6k stars A review of addyosmani/agent-skills: 24 production-grade skills covering the full lifecycle, with browser work and performance as first-class. What to take even without installing it."
+  },
+  "7e5bdb33869624cc": {
+    "file": "corpus/devto/dev_to_ibrahimdans_claude-wake-up-start-your-claude-session-_fce9b5645e.md",
+    "source": "devto",
+    "title": "Claude Wake Up ⏰: Start your Claude session at 5 AM (without getting up yourself)",
+    "url": "https://dev.to/ibrahimdans/claude-wake-up-start-your-claude-session-at-5-am-without-getting-up-yourself-4ecn",
+    "keywords": [
+      "usage limit reached .\"",
+      "worst possible moment",
+      "line never landed",
+      "⏰: start",
+      "⏰: start",
+      "without getting",
+      "without getting",
+      "claude wake",
+      "claude wake",
+      "claude session"
+    ],
+    "summary": "# Claude Wake Up ⏰: Start your Claude session at 5 AM (without getting up yourself) Mid-flow, at the worst possible moment. What if that line never landed when..."
+  },
+  "f7859132fd744861": {
+    "file": "corpus/devto/dev_to_usman_awan_how-i-built-a-provider-agnostic-ai-archite_d8a5cf9200.md",
+    "source": "devto",
+    "title": "How I built a provider-agnostic AI architecture that automatically switches between Groq, OpenRouter, Ollama, and Gemini.",
+    "url": "https://dev.to/usman_awan/how-i-built-a-provider-agnostic-ai-architecture-that-automatically-switches-between-groq-790",
+    "keywords": [
+      "agnostic ai architecture",
+      "agnostic ai architecture",
+      "26z 🚀 building",
+      "ready multi",
+      "llm router",
+      "designed ...",
+      "automatically switches",
+      "automatically switches",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How I built a provider-agnostic AI architecture that automatically switches between Groq, OpenRouter, Ollama, and Gemini. > Source: devto | Category: news | 2026-07-16T12:04:26Z 🚀 Building a Production-Ready Multi-LLM Router with LangChain &amp; FastAPI   How I designed..."
+  },
+  "cf8fdc4c87ba826b": {
+    "file": "corpus/devto/dev_to_codesmithnazim_why-does-my-react-component-crash-on-t_2bf89ea9bd.md",
+    "source": "devto",
+    "title": "Why does my React component crash on the first render when using data fetched inside useEffect()?",
+    "url": "https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3",
+    "keywords": [
+      "react component crash",
+      "react component crash",
+      "network request",
+      "first render",
+      "first render",
+      "source",
+      "runs",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Why does my React component crash on the first render when using data fetched inside useEffect()? > Source: devto | Category: news | 2026-07-16T12:04:29Z When you fetch data inside useEffect(), the network request is asynchronous and only runs after the..."
+  },
+  "e9f8256ad0f91326": {
+    "file": "corpus/finance/news_crunchbase_com_venture_data-china-ai-lead-asia-startup-_245e64930d.md",
+    "source": "finance",
+    "title": "[crunchbase] China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2",
+    "url": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
+    "keywords": [
+      "4 billion deepseek raise",
+      "ai lead asia ’",
+      "ai lead asia ’",
+      "ai lead asia ’",
+      "startup funding rounds across",
+      "highest quarterly total",
+      "per crunchbase data",
+      "startup funding",
+      "startup funding",
+      "startup funding"
+    ],
+    "summary": "# [crunchbase] China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2 China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2 Overall, investors poured $42.8 billion into startup funding rounds across all of Asia in Q2 2026, per Crunchbase data."
+  },
+  "10ad2c9f5afa0a76": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48105_finance-and-tech-firms-un_782659f804.md",
+    "source": "finance",
+    "title": "[finextra] Finance and tech firms unite around Internet payments protocol x402",
+    "url": "https://www.finextra.com/newsarticle/48105/finance-and-tech-firms-unite-around-internet-payments-protocol-x402?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "recruited 40 finance",
+      "x402 protocol",
+      "tech firms",
+      "sending payments",
+      "linux foundation",
+      "19z finance",
+      "finance",
+      "finance",
+      "finance",
+      "finance"
+    ],
+    "summary": "# [finextra] Finance and tech firms unite around Internet payments protocol x402 Finance and tech firms unite around Internet payments protocol x402 The Linux Foundation has recruited 40 finance and tech firms in support of the x402 protocol for sending payments over the Internet."
+  },
+  "6fcc2bc0e0a5579b": {
+    "file": "corpus/finance/news_crunchbase_com_venture_billion-dollar-seed-ai-biotech-m_e8b97d6160.md",
+    "source": "finance",
+    "title": "[crunchbase] The Billion-Dollar Seed Isn’t The Deal You Think It Is",
+    "url": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
+    "keywords": [
+      "raised modest early rounds",
+      "strongest venture outcomes",
+      "historical data shows",
+      "grabbing ai mega",
+      "seed rounds",
+      "typically come",
+      "scale returns",
+      "efficient startups",
+      "dollar seed",
+      "dollar seed"
+    ],
+    "summary": "# [crunchbase] The Billion-Dollar Seed Isn’t The Deal You Think It Is Despite attention-grabbing AI mega-seed rounds, historical data shows that very large first financings rarely produce venture-scale returns because high entry valuations limit investor upside. Instead, argues guest author Ellie McDonald, the strongest venture outcomes have typically come from capital-efficient startups that raised modest early rounds."
+  },
+  "10bc761ec958e91e": {
+    "file": "corpus/ai-research/huggingface_co_blog_security-incident-july-2026_f443de946c.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Security incident disclosure — July 2026",
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "keywords": [
+      "source",
+      "research",
+      "research",
+      "category",
+      "blog",
+      "blog",
+      "2026"
+    ],
+    "summary": "# [hf-blog] Security incident disclosure — July 2026 > Source: ai-research | Category: research | 2026-07-16T12:04:19Z Security incident disclosure — July 2026"
+  },
+  "50df92ee2f2f761f": {
+    "file": "corpus/ai-research/huggingface_co_blog_Dharma-AI_newer-models-same-advantages_c5c3971a89.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "keywords": [
+      "19z newer models",
+      "newer models",
+      "newer models",
+      "source",
+      "research",
+      "research",
+      "category",
+      "blog"
+    ],
+    "summary": "# [hf-blog] Newer Models, Same Advantage > Source: ai-research | Category: research | 2026-07-16T12:04:19Z Newer Models, Same Advantage"
+  },
+  "7bb08aea5e1a1638": {
+    "file": "corpus/security/thehackernews_com_2026_07_unpatched-shark-vacuum-flaw-could-_9a31af7437.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+    "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+    "keywords": [
+      "shark rv2320edus robot vacuum",
+      "run root commands",
+      "shark vacuums across",
+      "vacuums region",
+      "vacuums region",
+      "vacuums region",
+      "researcher publishing",
+      "method online",
+      "handle tokay0",
+      "fi password"
+    ],
+    "summary": "# [hacker-news-sec] Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide A researcher publishing under the handle tokay0&nbsp;put the method online&nbsp;on Monday, having tested it only against vacuums he"
+  },
+  "aac546c66cf7285f": {
+    "file": "corpus/security/thehackernews_com_2026_07_ai-can-find-bugs-but-human-knowled_fbd1f8791c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] AI Can Find Bugs, But Human Knowledge Still Proves Them",
+    "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+    "keywords": [
+      "run repetitive testing workflows",
+      "human knowledge still proves",
+      "human knowledge still proves",
+      "human knowledge still proves",
+      "summarize attack surfaces",
+      "read code quickly",
+      "explain unfamiliar apis",
+      "changing offensive security",
+      "real advantage",
+      "impressive speed"
+    ],
+    "summary": "# [hacker-news-sec] AI Can Find Bugs, But Human Knowledge Still Proves Them Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive testing workflows at impressive speed."
+  },
+  "e0482da9306ba914": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-orders-feds-to-p_d4b510a9d8.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+    "keywords": [
+      "business suite financial application",
+      "23z cisa orders feds",
+      "cisa orders feds",
+      "cisa orders feds",
+      "ordered federal agencies",
+      "ongoing attacks exploiting",
+      "saturday cisa",
+      "oracle e",
+      "critical vulnerability",
+      "saturday"
+    ],
+    "summary": "# [bleeping-comp] CISA orders feds to patch actively exploited Oracle flaw by Saturday CISA orders feds to patch actively exploited Oracle flaw by Saturday CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application."
+  },
+  "8a391dac5b70ec5d": {
+    "file": "corpus/github-releases/github_com_tailwindlabs_tailwindcss_releases_tag_v4_3_3_22faeeeb04.md",
+    "source": "github-releases",
+    "title": "tailwindlabs/tailwindcss v4.3.3 released",
+    "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.3",
+    "keywords": [
+      "preprocessor like sass changes",
+      "js plugins resolves correctly",
+      "match arbitrary hex colors",
+      "polar color spaces like",
+      "triggering full page reloads",
+      "bg -[# fff ]`",
+      "input css without changing",
+      "prevent achromatic theme colors",
+      "`-- watch -- poll",
+      "named shadow sizes like"
+    ],
+    "summary": "# tailwindlabs/tailwindcss v4.3.3 released > Source: github-releases | Category: changelog | 2026-07-16T12:05:33Z - Support `--watch --poll[=ms]` in `@tailwindcss/cli` when filesystem events are unreliable or unavailable ([#20297](https://github.com/tailwindlabs/tailwindcss/pull/20297)) - Canonicalization: match arbitrary hex colors against theme colors case-insensitively (e.g. `bg-[#fff]` and `bg-[#FFF]` → `bg-white`) ([#20298](https://github.com/tailwindlabs/tailwindcss/pull/20298)) - Prevent "
   }
 }
