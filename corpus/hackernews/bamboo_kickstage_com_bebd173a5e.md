@@ -1,0 +1,19 @@
+---
+title: "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow"
+url: "https://bamboo.kickstage.com"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-07-16T22:14:10Z"
+metadata:
+  score: "12"
+---
+
+# Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow
+
+> Source: hackernews | Category: news | 2026-07-16T22:14:10Z
+
+Score: 12 | Comments: 2
+
+Hi HN, I am co-founder of Kickstage, a software company specializing in solutions for the electrical industry and lately grid operators.<p>We are hiring engineers from different backgrounds, a lot of them software developers with limited experience in the sectors. Deep domain knowledge is key in our industry however, so we are constantly teaching the basics of power flow analysis, active vs reactive power, transmission line properties etc.<p>With Jupyter notebooks and the Python console only, that&#x27;s a tedious task and hardly ever led to a deep understanding of the topics.<p>So we built BambooGrid: a web-based editor on top of pandapower, a popular simulation library in our industry. You drag elements like buses, lines, loads generators and transformers onto a canvas, wire them up, set parameters and run power flow. It will print results directly on the canvas, color buses according to their voltages, even allows you to see an interactive admittance matrix.<p>You can try it out without installing anything on <a href="https:&#x2F;&#x2F;bamboo.kickstage.com" rel="nofollow">https:&#x2F;&#x2F;bamboo.kickstage.com</a> (thanks to our friends at Hostzero who sponsored hosting). Start with one of the included samples or draw your own. Just don&#x27;t forget to add a slack element.<p>Built on a Python backend (driven by the choice of pandapower mainly) and a React frontend. Fully MIT licensed, so feel free to use and modify to your liking.
+Even better: Give us feedback - we&#x27;re extremely open to suggestions how to improve the tool and are glad about every user who learns a bit more about power systems through it.<p>Šime, who built most of this, is also in the thread. We are both happy to answer anything about the implementation or power systems in general.

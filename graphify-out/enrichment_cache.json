@@ -247344,5 +247344,138 @@
       "2026"
     ],
     "summary": "# How do you become a Forward Deployed Engineer? > Source: devto | Category: news | 2026-07-16T21:12:49Z The concrete 2026 path to an FDE offer: the skills, the three portfolio artifacts, and the 5-stage interview loop - including the case-study round that fails 60% of candidates."
+  },
+  "50ba0dcfbbcd8e57": {
+    "file": "corpus/devops/devops_com_why-you-need-ai-agent-security-validation-in-soft_e50ba4a0c7.md",
+    "source": "devops",
+    "title": "[devops-com] Why You Need AI Agent Security Validation in Software Testing",
+    "url": "https://devops.com/why-you-need-ai-agent-security-validation-in-software-testing/",
+    "keywords": [
+      "qa team ever could",
+      "generate test coverage reports",
+      "software testing engineering teams",
+      "last two years",
+      "find bugs faster",
+      "developers finally get",
+      "deploy ai agents",
+      "autonomous testing agents",
+      "software testing",
+      "software testing"
+    ],
+    "summary": "# [devops-com] Why You Need AI Agent Security Validation in Software Testing Engineering teams have been racing for the last two years to deploy AI agents that can find bugs faster than any QA team ever could. Autonomous testing agents can crawl through codebases, identify vulnerabilities, and generate test coverage reports while developers finally get to take a breath."
+  },
+  "cbee272b5900aa51": {
+    "file": "corpus/hackernews/bamboo_kickstage_com_bebd173a5e.md",
+    "source": "hackernews",
+    "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+    "url": "https://bamboo.kickstage.com",
+    "keywords": [
+      "drag elements like buses",
+      "active vs reactive power",
+      "slack element .< p",
+      "color buses according",
+      "topics .< p",
+      "sponsored hosting ).",
+      "print results directly",
+      "popular simulation library",
+      "hardly ever led",
+      "give us feedback"
+    ],
+    "summary": "Hi HN, I am co-founder of Kickstage, a software company specializing in solutions for the electrical industry and lately grid operators.<p>We are hiring engineers from different backgrounds, a lot of them software developers with limited experience in the sectors. Even better: Give us feedback - we&#x27;re extremely open to suggestions how to improve the tool and are glad about every user who learns a bit more about power systems through it.<p>Šime, who built most of this, is also in the thread."
+  },
+  "c449b7e5425607a6": {
+    "file": "corpus/hackernews/libretto_sh_debug-agents_29d9e205d7.md",
+    "source": "hackernews",
+    "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+    "url": "https://libretto.sh/debug-agents",
+    "keywords": [
+      "helped us generate playwright",
+      "llm provider api keys",
+      "building deterministic browser automations",
+      "0 libretto pr agents",
+      "especially repetitive business workflows",
+      "</ code ></ pre",
+      "ai agent making decisions",
+      "playwright browser automation scripts",
+      "libretto pr agent pulls",
+      "maintaining playwright browser automations"
+    ],
+    "summary": "Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails.<p>A few months ago we released Libretto, a CLI + coding-agent skill for building deterministic browser automations. If you already have a bunch of functioning Playwright scripts, the last thing you want is to rewrite everything around a new runtime AI framework like browser-use or stagehand just to make maintenance easier.<p>The Libretto PR Agent pulls your"
+  },
+  "980f1986a5b59e37": {
+    "file": "corpus/hackernews/arxiv_org_abs_2607_11938_e80c033217.md",
+    "source": "hackernews",
+    "title": "Mathematics of Data Science",
+    "url": "https://arxiv.org/abs/2607.11938",
+    "keywords": [
+      "data science",
+      "data science",
+      "08z score",
+      "source",
+      "news",
+      "mathematics",
+      "mathematics",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mathematics of Data Science > Source: hackernews | Category: news | 2026-07-16T22:14:08Z Score: 31 | Comments: 1"
+  },
+  "d505556fc81510b7": {
+    "file": "corpus/hackernews/crowdhailer_me_2026-07-15_abstracting-effects-with-continuat_35daf53c9b.md",
+    "source": "hackernews",
+    "title": "Abstracting Effects with Continuations",
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "keywords": [
+      "abstracting effects",
+      "abstracting effects",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "continuations",
+      "continuations",
+      "comments",
+      "category"
+    ],
+    "summary": "# Abstracting Effects with Continuations > Source: hackernews | Category: news | 2026-07-16T22:14:10Z Score: 14 | Comments: 0"
+  },
+  "02b8d6c292ccf2d7": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_agentic-ai-unta_35e1e10c2c.md",
+    "source": "security",
+    "title": "[dark-reading] Agentic AI Is Untamable: Ask the Right Security Questions",
+    "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
+    "keywords": [
+      "right security questions forget",
+      "right security questions",
+      "right security questions",
+      "creating enough risks",
+      "agentic artificial intelligence",
+      "10z agentic ai",
+      "agentic ai",
+      "agentic ai",
+      "security reframe",
+      "security"
+    ],
+    "summary": "# [dark-reading] Agentic AI Is Untamable: Ask the Right Security Questions Agentic AI Is Untamable: Ask the Right Security Questions Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe."
+  },
+  "138fbec7b96f06d7": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-clicklock-macos-m_0a06e6307f.md",
+    "source": "security",
+    "title": "[bleeping-comp] New ClickLock macOS malware traps users into revealing login password",
+    "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+    "keywords": [
+      "system login password",
+      "revealing login password",
+      "revealing login password",
+      "revealing login password",
+      "new macos information",
+      "visible processes",
+      "force users",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] New ClickLock macOS malware traps users into revealing login password New ClickLock macOS malware traps users into revealing login password A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password."
   }
 }
