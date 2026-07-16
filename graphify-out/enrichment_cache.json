@@ -241352,5 +241352,642 @@
       "generate component chunks"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-16T01:00:31Z - [turbopack] Generate component chunks for each merged group to increase cache hits: #95261 - Exclude stale under 5 minutes from app shells: #95833 - docs: remove experimental @next/routing note: #94903 - [turbopack] Tell agents not to mention next.config.js options: #95825 - chore: Remove stale build warning: #95813 - Replay same-document traversals that happen before hydration: #95682 - docs: cssChunking graph option: #956"
+  },
+  "a252282dc1a64699": {
+    "file": "corpus/hackernews/www_anaconda_com_blog_anaconda-acquires-kilo-code_6166a8cb6b.md",
+    "source": "hackernews",
+    "title": "Kilo Code has been acquired by Anaconda",
+    "url": "https://www.anaconda.com/blog/anaconda-acquires-kilo-code",
+    "keywords": [
+      "kilo code",
+      "kilo code",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "anaconda",
+      "anaconda"
+    ],
+    "summary": "# Kilo Code has been acquired by Anaconda > Source: hackernews | Category: news | 2026-07-16T04:09:01Z Score: 5 | Comments: 0"
+  },
+  "237701d3484995fd": {
+    "file": "corpus/hackernews/hyperallergic_com_guerrilla-london-bus-ads-mock-kylie-jenner_422cb95bf2.md",
+    "source": "hackernews",
+    "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+    "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+    "keywords": [
+      "meta glasses campaign",
+      "meta glasses campaign",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign > Source: hackernews | Category: news | 2026-07-16T04:08:55Z Score: 17 | Comments: 1"
+  },
+  "3234913239665249": {
+    "file": "corpus/hackernews/pmbanugo_me_blog_why-async-await-complect-concurrency_2a006ff336.md",
+    "source": "hackernews",
+    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+    "keywords": [
+      "await fails concurrency",
+      "await fails concurrency",
+      "rayon trap",
+      "rayon trap",
+      "54z score",
+      "tokio",
+      "tokio",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Tokio/Rayon Trap and Why Async/Await Fails Concurrency > Source: hackernews | Category: news | 2026-07-16T04:08:54Z Score: 13 | Comments: 9"
+  },
+  "64d33b8ac30623b8": {
+    "file": "corpus/hackernews/arxiv_org_abs_2607_11859_e624fbe986.md",
+    "source": "hackernews",
+    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "url": "https://arxiv.org/abs/2607.11859",
+    "keywords": [
+      "computer architecture papers",
+      "computer architecture papers",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers > Source: hackernews | Category: news | 2026-07-16T04:09:00Z Score: 4 | Comments: 0"
+  },
+  "0954015355f6355b": {
+    "file": "corpus/hackernews/www_catchcat_lol_df1d9af58c.md",
+    "source": "hackernews",
+    "title": "CatchCat – Pokémon Go for Cats, IRL",
+    "url": "https://www.catchcat.lol/",
+    "keywords": [
+      "catchcat – pokémon go",
+      "catchcat – pokémon go",
+      "55z score",
+      "source",
+      "news",
+      "irl",
+      "irl",
+      "hackernews",
+      "comments",
+      "cats"
+    ],
+    "summary": "# CatchCat – Pokémon Go for Cats, IRL > Source: hackernews | Category: news | 2026-07-16T04:08:55Z Score: 23 | Comments: 5"
+  },
+  "3ca853bbaf499481": {
+    "file": "corpus/hackernews/github_com_PrestigePvP_Voicebox_018c497fd3.md",
+    "source": "hackernews",
+    "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
+    "url": "https://github.com/PrestigePvP/Voicebox",
+    "keywords": [
+      "55z score",
+      "open source",
+      "open source",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Open Source, Free Tier Capable Whispr Using Cloudflare AI > Source: hackernews | Category: news | 2026-07-16T04:08:55Z Score: 5 | Comments: 1"
+  },
+  "989e06e311cb4ed6": {
+    "file": "corpus/hackernews/arxiv_org_abs_2604_15379_058dab2743.md",
+    "source": "hackernews",
+    "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
+    "url": "https://arxiv.org/abs/2604.15379",
+    "keywords": [
+      "hierarchical task",
+      "hierarchical task",
+      "die gpus",
+      "die gpus",
+      "based abstraction",
+      "based abstraction",
+      "58z score",
+      "source",
+      "news",
+      "multi"
+    ],
+    "summary": "# Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs > Source: hackernews | Category: news | 2026-07-16T04:08:58Z Score: 6 | Comments: 1"
+  },
+  "77e310fd6503256d": {
+    "file": "corpus/hackernews/www_openculture_com_2026_07_free-photos-from-john-margolies-_6500f91405.md",
+    "source": "hackernews",
+    "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+    "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+    "keywords": [
+      "700 free photos",
+      "700 free photos",
+      "john margolies",
+      "john margolies",
+      "americana architecture",
+      "americana architecture",
+      "01z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# 11,700 Free Photos from John Margolies' Archive of Americana Architecture > Source: hackernews | Category: news | 2026-07-16T04:09:01Z Score: 10 | Comments: 1"
+  },
+  "5534d0ef0484a37f": {
+    "file": "corpus/hackernews/artifipedia_com_map_a24af069d5.md",
+    "source": "hackernews",
+    "title": "An Interactive Map of AI",
+    "url": "https://artifipedia.com/map",
+    "keywords": [
+      "interactive map",
+      "interactive map",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# An Interactive Map of AI > Source: hackernews | Category: news | 2026-07-16T04:08:54Z Score: 4 | Comments: 1"
+  },
+  "d7c7e6bda463b8ae": {
+    "file": "corpus/hackernews/madcampos_dev_blog_2026_07_accessibility-from-scratch_0f8eef59c4.md",
+    "source": "hackernews",
+    "title": "If you want to create a button from scratch, you must first create the universe",
+    "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+    "keywords": [
+      "must first create",
+      "must first create",
+      "55z score",
+      "create",
+      "create",
+      "want",
+      "want",
+      "universe",
+      "universe",
+      "source"
+    ],
+    "summary": "# If you want to create a button from scratch, you must first create the universe > Source: hackernews | Category: news | 2026-07-16T04:08:55Z Score: 3 | Comments: 0"
+  },
+  "f4b4be914f5010ad": {
+    "file": "corpus/hackernews/spectrum_ieee_org_high-bandwidth-flash_f9133cd2e1.md",
+    "source": "hackernews",
+    "title": "High-Bandwidth Flash offers efficient storage for model weights",
+    "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "keywords": [
+      "model weights",
+      "model weights",
+      "55z score",
+      "source",
+      "news",
+      "high",
+      "high",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# High-Bandwidth Flash offers efficient storage for model weights > Source: hackernews | Category: news | 2026-07-16T04:08:55Z Score: 10 | Comments: 0"
+  },
+  "45d8b3f82abc3f28": {
+    "file": "corpus/hackernews/atproto_com_blog_at-protocol-trademark_eb4ed6a696.md",
+    "source": "hackernews",
+    "title": "Bluesky Trademarks ATProto",
+    "url": "https://atproto.com/blog/at-protocol-trademark",
+    "keywords": [
+      "bluesky trademarks atproto",
+      "bluesky trademarks atproto",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Bluesky Trademarks ATProto > Source: hackernews | Category: news | 2026-07-16T04:08:54Z Score: 34 | Comments: 10"
+  },
+  "71622e42b1453f73": {
+    "file": "corpus/hackernews/arcbrush_com_press_arcbrush-1-5_dd995359de.md",
+    "source": "hackernews",
+    "title": "ArcBrush 1.5 – Node-based image editor (OCIO, OpenEXR, 97 nodes)",
+    "url": "https://arcbrush.com/press/arcbrush-1-5/",
+    "keywords": [
+      "based image editor",
+      "based image editor",
+      "5 – node",
+      "5 – node",
+      "arcbrush 1",
+      "arcbrush 1",
+      "97 nodes",
+      "97 nodes",
+      "01z score",
+      "source"
+    ],
+    "summary": "# ArcBrush 1.5 – Node-based image editor (OCIO, OpenEXR, 97 nodes) > Source: hackernews | Category: news | 2026-07-16T04:09:01Z Score: 4 | Comments: 0"
+  },
+  "6681f946b65d3ace": {
+    "file": "corpus/hackernews/loc_closertotruth_com_77a12dad89.md",
+    "source": "hackernews",
+    "title": "Landscape of Consciousness",
+    "url": "https://loc.closertotruth.com/",
+    "keywords": [
+      "00z score",
+      "source",
+      "news",
+      "landscape",
+      "landscape",
+      "hackernews",
+      "consciousness",
+      "consciousness",
+      "comments",
+      "category"
+    ],
+    "summary": "# Landscape of Consciousness > Source: hackernews | Category: news | 2026-07-16T04:09:00Z Score: 4 | Comments: 0"
+  },
+  "6eb154a912a6404a": {
+    "file": "corpus/hackernews/www_reuters_com_legal_litigation_french-parliament-votes-lan_9cfbc8a1b2.md",
+    "source": "hackernews",
+    "title": "French parliament approves landmark assisted-dying bill",
+    "url": "https://www.reuters.com/legal/litigation/french-parliament-votes-landmark-assisted-dying-bill-2026-07-15/",
+    "keywords": [
+      "dying bill",
+      "dying bill",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# French parliament approves landmark assisted-dying bill > Source: hackernews | Category: news | 2026-07-16T04:09:01Z Score: 4 | Comments: 0"
+  },
+  "2e8ed55d196ad283": {
+    "file": "corpus/hackernews/dl_acm_org_doi_full_10_1145_3806645_3807580_c62a61436f.md",
+    "source": "hackernews",
+    "title": "Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
+    "url": "https://dl.acm.org/doi/full/10.1145/3806645.3807580",
+    "keywords": [
+      "rank foundation model inference",
+      "rank foundation model inference",
+      "accelerating block low",
+      "accelerating block low",
+      "memoryconstrained gpus",
+      "memoryconstrained gpus",
+      "56z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs > Source: hackernews | Category: news | 2026-07-16T04:08:56Z Score: 4 | Comments: 0"
+  },
+  "55f01fc501ddcc77": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_15_sony-deletes-a-bunch-more-movies_3850985641.md",
+    "source": "legal",
+    "title": "[techdirt] Sony Deletes A Bunch More Movies From The Accounts Of People Who ‘Bought’ Them",
+    "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+    "keywords": [
+      "spilled much ink complaining",
+      "‘ bought ’",
+      "‘ bought ’",
+      "‘ bought ’",
+      "get particularly frustrated",
+      "consumer practice needs",
+      "[&# 8230 ;]",
+      "54z sony deletes",
+      "sony deletes",
+      "sony deletes"
+    ],
+    "summary": "# [techdirt] Sony Deletes A Bunch More Movies From The Accounts Of People Who ‘Bought’ Them Sony Deletes A Bunch More Movies From The Accounts Of People Who ‘Bought’ Them We&#8217;ve spilled much ink complaining that this clearly anti-consumer practice needs to be done away with, where [&#8230;]"
+  },
+  "9d135f7ecf66768a": {
+    "file": "corpus/devto/dev_to_gde03_one-mcp-server-two-models-an-always-on-ops-agen_1f9a063d0a.md",
+    "source": "devto",
+    "title": "One MCP Server, Two Models: An Always-On Ops Agent That Costs $0",
+    "url": "https://dev.to/gde03/one-mcp-server-two-models-an-always-on-ops-agent-that-costs-0-57b6",
+    "keywords": [
+      "one mcp server",
+      "one mcp server",
+      "hardening deep dive",
+      "first mcp server",
+      "two models",
+      "two models",
+      "ops agent",
+      "ops agent",
+      "claude code",
+      "beyond ..."
+    ],
+    "summary": "# One MCP Server, Two Models: An Always-On Ops Agent That Costs $0 A companion to Part 4: your first MCP server and the hardening deep dive. Part of Claude Code, Beyond..."
+  },
+  "67bf08a02f44916f": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-15-derek-and-alex-shared-one-se_f2810ce06c.md",
+    "source": "devto",
+    "title": "Stratagems #15: Derek and Alex Shared One Server. ACL's AI Was Listening to Both.",
+    "url": "https://dev.to/xulingfeng/stratagems-15-derek-and-alex-shared-one-server-acls-ai-was-listening-to-both-2j73",
+    "keywords": [
+      "enemy occupies favorable terrain",
+      "alex shared one server",
+      "alex shared one server",
+      "attack head",
+      "use",
+      "tiger",
+      "stratagems",
+      "stratagems",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Stratagems #15: Derek and Alex Shared One Server. When the enemy occupies favorable terrain, don't attack head-on. Use a decoy to lure the tiger down..."
+  },
+  "19e410850586e89f": {
+    "file": "corpus/devto/dev_to_morellodev_pnpm-v12-is-being-rewritten-in-rust-5036_36ca98132f.md",
+    "source": "devto",
+    "title": "pnpm v12 Is Being Rewritten in Rust",
+    "url": "https://dev.to/morellodev/pnpm-v12-is-being-rewritten-in-rust-5036",
+    "keywords": [
+      "02z every package manager",
+      "add one dependency",
+      "pnpm v12",
+      "pnpm v12",
+      "branch ...",
+      "wait",
+      "source",
+      "rust",
+      "rust",
+      "rewritten"
+    ],
+    "summary": "# pnpm v12 Is Being Rewritten in Rust > Source: devto | Category: news | 2026-07-16T04:09:02Z Every package manager has a moment where you just wait."
+  },
+  "22bed4b91c465e54": {
+    "file": "corpus/devto/dev_to_kike_post-mortem-building-a-local-mcp-server-for-code_c4ee4b82ef.md",
+    "source": "devto",
+    "title": "Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB",
+    "url": "https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg",
+    "keywords": [
+      "codebase memory using ollama",
+      "codebase memory using ollama",
+      "sending proprietary ...",
+      "local mcp server",
+      "local mcp server",
+      "cloud api billing",
+      "pushing back",
+      "privacy risks",
+      "02z developers",
+      "source"
+    ],
+    "summary": "# Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB > Source: devto | Category: news | 2026-07-16T04:09:02Z Developers are pushing back against cloud API billing and the privacy risks of sending proprietary..."
+  },
+  "4db4808a0af63bb0": {
+    "file": "corpus/devto/dev_to_gde_my-benchmarks-python-column-was-na-for-a-year-cpy_0dd92671cb.md",
+    "source": "devto",
+    "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+    "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk",
+    "keywords": [
+      "year — cpython",
+      "year — cpython",
+      "python column",
+      "python column",
+      "lineup track",
+      "digit limit",
+      "digit limit",
+      "03z submission",
+      "source",
+      "reactions"
+    ],
+    "summary": "# My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs > Source: devto | Category: news | 2026-07-16T04:09:03Z Submission for DEV's Summer Bug Smash — Clear the Lineup track."
+  },
+  "bc18fd9f4ab2181f": {
+    "file": "corpus/devto/dev_to_androve2k_a-black-box-drawn-over-a-pdf-isnt-redaction_a7aba934f4.md",
+    "source": "devto",
+    "title": "A Black Box Drawn Over a PDF Isn't Redaction — Here's How I Fixed It Client-Side",
+    "url": "https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd",
+    "keywords": [
+      "browser — page reordering",
+      "black box drawn",
+      "black box drawn",
+      "redaction —",
+      "redaction —",
+      "annotations ,...",
+      "wanted",
+      "source",
+      "side",
+      "side"
+    ],
+    "summary": "# A Black Box Drawn Over a PDF Isn't Redaction — Here's How I Fixed It Client-Side > Source: devto | Category: news | 2026-07-16T04:09:02Z I wanted a complete PDF editor running entirely in the browser — page reordering, annotations,..."
+  },
+  "e5b2c8c01903256b": {
+    "file": "corpus/devto/dev_to_nazar-boyko_llm-evals-for-developer-tools-useful-corr_0f2403a3d3.md",
+    "source": "devto",
+    "title": "LLM Evals For Developer Tools: Useful, Correct, Safe",
+    "url": "https://dev.to/nazar-boyko/llm-evals-for-developer-tools-useful-correct-safe-33jg",
+    "keywords": [
+      "team built",
+      "llm feature",
+      "llm evals",
+      "llm evals",
+      "inline code",
+      "developer tools",
+      "developer tools",
+      "02z someone",
+      "useful",
+      "useful"
+    ],
+    "summary": "# LLM Evals For Developer Tools: Useful, Correct, Safe Someone on your team built an LLM feature. Maybe it's a \"fix this..."
+  },
+  "e7b21085d05e0d20": {
+    "file": "corpus/devto/dev_to_savage_solutions_a-weekly-cron-died-silently-for-10-w_0b2a69302f.md",
+    "source": "devto",
+    "title": "A Weekly Cron Died Silently for 10 Weeks. Here Is What We Changed.",
+    "url": "https://dev.to/savage_solutions/a-weekly-cron-died-silently-for-10-weeks-here-is-what-we-changed-33m5",
+    "keywords": [
+      "weekly cron died silently",
+      "weekly cron died silently",
+      "bug nobody saw",
+      "roughly 10 weeks",
+      "10 weeks",
+      "10 weeks",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# A Weekly Cron Died Silently for 10 Weeks. Here Is What We Changed. The Bug Nobody Saw   For roughly 10 weeks, a scheduled publishing job produced zero output...."
+  },
+  "06a9bb283bcf64cf": {
+    "file": "corpus/devto/dev_to_shaojie_i-fixed-my-scraper-four-times-in-one-night-ea_ccaea981fd.md",
+    "source": "devto",
+    "title": "I fixed my scraper four times in one night. Each fix revealed a worse bug.",
+    "url": "https://dev.to/shaojie/i-fixed-my-scraper-four-times-in-one-night-each-fix-revealed-a-worse-bug-31mf",
+    "keywords": [
+      "scraper four times",
+      "scraper four times",
+      "worse bug",
+      "worse bug",
+      "works 90",
+      "one night",
+      "one night",
+      "fix revealed",
+      "fix revealed",
+      "time"
+    ],
+    "summary": "# I fixed my scraper four times in one night. Each fix revealed a worse bug. You know what's scarier than a crash?"
+  },
+  "c1343bc2a3c93876": {
+    "file": "corpus/devto/dev_to_edison_flores_6d2cd381b13_i-built-8-security-layers-f_7c4b518389.md",
+    "source": "devto",
+    "title": "I built 8 security layers for an MCP marketplace. Here's what each one actually catches.",
+    "url": "https://dev.to/edison_flores_6d2cd381b13/i-built-8-security-layers-for-an-mcp-marketplace-heres-what-each-one-actually-catches-49fc",
+    "keywords": [
+      "built 8 security layers",
+      "built 8 security layers",
+      "mcp marketplace last week",
+      "one actually catches",
+      "one actually catches",
+      "mtb hidden ...",
+      "real trojan slipped",
+      "mcp marketplace",
+      "mcp marketplace",
+      "trojan"
+    ],
+    "summary": "# I built 8 security layers for an MCP marketplace. Here's what each one actually catches. After a real trojan slipped through my MCP marketplace last week (Trojan:Win64/Lazy.PGPK!MTB hidden..."
+  },
+  "8dd853b2ac49061a": {
+    "file": "corpus/devto/dev_to_bilalshahdev_from-mern-to-modern-full-stack-everythin_5498350f00.md",
+    "source": "devto",
+    "title": "From MERN to Modern Full Stack: Everything That Changed",
+    "url": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
+    "keywords": [
+      "modern full stack",
+      "modern full stack",
+      "source",
+      "reactions",
+      "news",
+      "mern",
+      "mern",
+      "everything",
+      "everything",
+      "devto"
+    ],
+    "summary": "# From MERN to Modern Full Stack: Everything That Changed Is the MERN Stack Still Worth Learning in 2026? What Modern Full Stack Development Looks..."
+  },
+  "c3a4411711509dd3": {
+    "file": "corpus/devto/dev_to_mithamovictor_mastering-java-loops-under-the-hood-mem_6eb5c220ab.md",
+    "source": "devto",
+    "title": "Mastering Java Loops: Under the Hood, Memory Pitfalls, and High-Scale Optimizations",
+    "url": "https://dev.to/mithamovictor/mastering-java-loops-under-the-hood-memory-pitfalls-and-high-scale-optimizations-3e16",
+    "keywords": [
+      "understanding jvm loop bytecode",
+      "silent gc traps",
+      "mastering java loops",
+      "mastering java loops",
+      "scale optimizations",
+      "scale optimizations",
+      "memory pitfalls",
+      "memory pitfalls",
+      "architectural guide",
+      "source"
+    ],
+    "summary": "# Mastering Java Loops: Under the Hood, Memory Pitfalls, and High-Scale Optimizations > Source: devto | Category: news | 2026-07-16T04:09:02Z An architectural guide to understanding JVM loop bytecode, avoiding the silent GC traps of..."
+  },
+  "99d2f15ac7df8905": {
+    "file": "corpus/devto/dev_to_qingyuan_yang_11c04dc68d8_building-a-self-hosted-voic_1439c3a1b1.md",
+    "source": "devto",
+    "title": "Building a Self-Hosted Voice AI Interview Platform with Next.js, Supabase, and WebSockets",
+    "url": "https://dev.to/qingyuan_yang_11c04dc68d8/building-a-self-hosted-voice-ai-interview-platform-with-nextjs-supabase-and-websockets-23f2",
+    "keywords": [
+      "static question banks",
+      "02z aural started",
+      "simple limitation",
+      "websockets",
+      "websockets",
+      "supabase",
+      "supabase",
+      "source",
+      "self",
+      "self"
+    ],
+    "summary": "# Building a Self-Hosted Voice AI Interview Platform with Next.js, Supabase, and WebSockets > Source: devto | Category: news | 2026-07-16T04:09:02Z Aural started with a simple limitation: static question banks and chatbots do not reproduce the..."
+  },
+  "788c2c883fa0a144": {
+    "file": "corpus/devto/dev_to_darshanraval_7-git-commands-every-developer-should-kn_0c2cd931d0.md",
+    "source": "devto",
+    "title": "🚀 7 Git Commands Every Developer Should Know (But Most Don't)",
+    "url": "https://dev.to/darshanraval/7-git-commands-every-developer-should-know-but-most-dont-3g9k",
+    "keywords": [
+      "git workflow still ...",
+      "source",
+      "reactions",
+      "news",
+      "know",
+      "know",
+      "know",
+      "devto",
+      "category"
+    ],
+    "summary": "# 🚀 7 Git Commands Every Developer Should Know (But Most Don't) > Source: devto | Category: news | 2026-07-16T04:09:02Z 🚀 7 Git Commands Every Developer Should Know (But Most Don't)   If your Git workflow still..."
+  },
+  "a2a86598f29ace72": {
+    "file": "corpus/devto/dev_to_magopredator_citefid-010-verificar-la-fidelidad-de-ci_fee3cf6589.md",
+    "source": "devto",
+    "title": "citefid 0.1.0: verificar la fidelidad de citas en wikis OKF con NLI (AUC 0.7029 sobre código)",
+    "url": "https://dev.to/magopredator/citefid-010-verificar-la-fidelidad-de-citas-en-wikis-okf-con-nli-auc-070-sobre-codigo-1ojf",
+    "keywords": [
+      "7029 sobre código",
+      "7029 sobre código",
+      "70 sobre ...",
+      "03z citefid 0",
+      "citefid 0",
+      "citefid 0",
+      "auc 0",
+      "auc 0",
+      "auc 0"
+    ],
+    "summary": "# citefid 0.1.0: verificar la fidelidad de citas en wikis OKF con NLI (AUC 0.7029 sobre código) > Source: devto | Category: news | 2026-07-16T04:09:03Z citefid 0.1.0: verificar la fidelidad de citas en wikis OKF con NLI (AUC 0.70 sobre..."
+  },
+  "7ea26d2ba5de8548": {
+    "file": "corpus/devto/dev_to_bibimbop123_the-search-for-a-bigger-life-a-reflection_e68e2a939c.md",
+    "source": "devto",
+    "title": "The Search for a Bigger Life: A Reflection on Money, Meaning, Society, and Becoming",
+    "url": "https://dev.to/bibimbop123/the-search-for-a-bigger-life-a-reflection-on-money-meaning-society-and-becoming-1e5j",
+    "keywords": [
+      "question beneath",
+      "bigger life",
+      "bigger life",
+      "04z introduction",
+      "think",
+      "source",
+      "society",
+      "society",
+      "searching",
+      "search"
+    ],
+    "summary": "# The Search for a Bigger Life: A Reflection on Money, Meaning, Society, and Becoming > Source: devto | Category: news | 2026-07-16T04:09:04Z Introduction: The Question Beneath All Questions   I think a lot of people are searching for..."
+  },
+  "c158b4ff5712ffc9": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_1-rc0_9b134a8138.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.1-rc0 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.1-rc0",
+    "keywords": [
+      "improved cache snapshot performance",
+      "mlx text model loading",
+      "current working directory",
+      "better project context",
+      "deprecated model passed",
+      "agent web search",
+      "0 ... v0",
+      "02z ## ollama",
+      "ollama — v0",
+      "model picker"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-16T04:10:02Z ## What's Changed - Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations - Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance - MLX text model loading now respects `OLLAMA_LOAD_TIMEOUT` - Agent web search and fetch now tell users to run `ollama signin` when authentication is required - The interac"
   }
 }
