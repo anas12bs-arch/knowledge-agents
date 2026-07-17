@@ -248003,5 +248003,116 @@
       "rerun derived"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-16T23:10:38Z -   perf: skip unnecessary blocker analysis when compiling components without top-level await ([#18548](https://github.com/sveltejs/svelte/pull/18548)) -   fix: rerun derived that had an abort controller on reconnection ([#18551](https://github.com/sveltejs/svelte/pull/18551))"
+  },
+  "bf255664dd589bab": {
+    "file": "corpus/hackernews/solod_dev_ef2bd4d588.md",
+    "source": "hackernews",
+    "title": "Solod: Go can be a better C",
+    "url": "https://solod.dev",
+    "keywords": [
+      "better c",
+      "better c",
+      "36z score",
+      "source",
+      "solod",
+      "solod",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Solod: Go can be a better C > Source: hackernews | Category: news | 2026-07-17T00:10:36Z Score: 9 | Comments: 1"
+  },
+  "48afd5dbaab87fa6": {
+    "file": "corpus/devto/dev_to_aakash_gour_building-postalls-developer-community-wha_1a096a1406.md",
+    "source": "devto",
+    "title": "Building PostAll's Developer Community: What We Need from You",
+    "url": "https://dev.to/aakash_gour/building-postalls-developer-community-what-we-need-from-you-2e5m",
+    "keywords": [
+      "formatting engine repo",
+      "ignoring ...",
+      "developer community",
+      "developer community",
+      "building postall",
+      "building postall",
+      "source",
+      "reactions",
+      "news",
+      "need"
+    ],
+    "summary": "# Building PostAll's Developer Community: What We Need from You > Source: devto | Category: news | 2026-07-17T00:10:43Z Three weeks ago someone opened an issue on the formatting engine repo, fixed a bug I'd been ignoring..."
+  },
+  "effc1713459bbda1": {
+    "file": "corpus/devto/dev_to_sujankim_nepalpay-v121-i-had-the-same-bug-in-six-file_964d825167.md",
+    "source": "devto",
+    "title": "NepalPay v1.2.1 — I Had the Same Bug in Six Files and Didn't Know It",
+    "url": "https://dev.to/sujankim/nepalpay-v121-i-had-the-same-bug-in-six-files-and-didnt-know-it-2m1e",
+    "keywords": [
+      "fixes security issues found",
+      "eliminates six duplicated implementations",
+      "43z nepalpay v1",
+      "nepalpay v1",
+      "nepalpay v1",
+      "six files",
+      "six files",
+      "shared pfxloader",
+      "1 —",
+      "1 —"
+    ],
+    "summary": "# NepalPay v1.2.1 — I Had the Same Bug in Six Files and Didn't Know It > Source: devto | Category: news | 2026-07-17T00:10:43Z NepalPay v1.2.1 adds configurable ConnectIPS timeouts, eliminates six duplicated implementations with a shared PfxLoader, and fixes security issues found by CodeRabbit."
+  },
+  "ae96beea8cee5019": {
+    "file": "corpus/devto/dev_to_ayinedjimi-consultants_how-to-detect-and-block-sql-in_88181fd5c5.md",
+    "source": "devto",
+    "title": "How to Detect and Block SQL Injection Attempts Programmatically",
+    "url": "https://dev.to/ayinedjimi-consultants/how-to-detect-and-block-sql-injection-attempts-programmatically-5325",
+    "keywords": [
+      "41z sql injection",
+      "owasp top 10",
+      "two decades",
+      "still accounts",
+      "significant ...",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# How to Detect and Block SQL Injection Attempts Programmatically > Source: devto | Category: news | 2026-07-17T00:10:41Z SQL injection has been on the OWASP Top 10 for over two decades and still accounts for a significant..."
+  },
+  "d5ca8a0ecff4ae32": {
+    "file": "corpus/devto/dev_to_locahl_9bd77121e3d366f72f_use-a-custom-local-domain-i_fd88ee4eed.md",
+    "source": "devto",
+    "title": "Use a custom local domain instead of localhost:3000",
+    "url": "https://dev.to/locahl_9bd77121e3d366f72f/use-a-custom-local-domain-instead-of-localhost3000-340b",
+    "keywords": [
+      "custom local domain instead",
+      "custom local domain instead",
+      "42z http :// localhost",
+      "world checks early",
+      "cookies scoped",
+      "also breaks",
+      "3000 works",
+      "localhost",
+      "localhost",
+      "3000"
+    ],
+    "summary": "# Use a custom local domain instead of localhost:3000 > Source: devto | Category: news | 2026-07-17T00:10:42Z It also breaks a few real-world checks early:   cookies scoped to a..."
+  },
+  "f3fd68421e163e69": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_88_b5ff994a66.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.88 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.88",
+    "keywords": [
+      "### credits huge thanks",
+      "server actions (# 95824",
+      "88 ### misc changes",
+      "trace externals imported",
+      "unify appshells flag",
+      "group bootstrap manifest",
+      "chunk group bootstrap",
+      "16z ## vercel",
+      "js — v16",
+      "(# 94661"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-17T00:11:16Z - Run more test suites under cacheComponents flag: #95878 - Unify appShells flag with Partial Prefetching: #95415 - Fix Request Insights span collection: #95818 - Revert \"Replay same-document traversals that happen before hydration\": #95853 - [ci] Allow running all deploy tests with builds from a private registry: #95784 - [turbopack] Only ship pages-router routes in the client chunk-group bootstrap manifest: #94671 - [turbop"
   }
 }
