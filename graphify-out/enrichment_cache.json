@@ -249402,5 +249402,327 @@
       "virtual dom"
     ],
     "summary": "# Ever wondered why React applications feel so fast? The answer lies in one of React's smartest concepts: the Virtual DOM. > Source: devto | Category: news | 2026-07-17T08:16:07Z"
+  },
+  "3b06400c62780716": {
+    "file": "corpus/design/smashingmagazine_com_2026_07_when-makes-sense-block-main-thr_c728b3a629.md",
+    "source": "design",
+    "title": "[smashing-magazine] When It Makes Sense To “Block” The Main Thread",
+    "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+    "keywords": [
+      "never “ block ”",
+      "“ block ”",
+      "“ block ”",
+      "“ block ”",
+      "victor ayomipo describes",
+      "running javascript tasks",
+      "use case",
+      "screenshot extension",
+      "right thing",
+      "makes sense"
+    ],
+    "summary": "# [smashing-magazine] When It Makes Sense To “Block” The Main Thread When It Makes Sense To “Block” The Main Thread Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do."
+  },
+  "a1662b91048ce46d": {
+    "file": "corpus/hackernews/wyounas_github_io_puzzles_concurrency_2026_01_10_how-to-help_42c13442d9.md",
+    "source": "hackernews",
+    "title": "Solving Santa Claus Puzzle",
+    "url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
+    "keywords": [
+      "solving santa claus puzzle",
+      "solving santa claus puzzle",
+      "20z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Solving Santa Claus Puzzle > Source: hackernews | Category: news | 2026-07-17T10:12:20Z Score: 4 | Comments: 0"
+  },
+  "7591edd53c502b51": {
+    "file": "corpus/hackernews/economist_com_culture_2026_07_15_a-very-silly-adaptation-of-_7aa83341fe.md",
+    "source": "hackernews",
+    "title": "A Silly Adaptation of 'The Odyssey",
+    "url": "https://economist.com/culture/2026/07/15/a-very-silly-adaptation-of-the-odyssey",
+    "keywords": [
+      "silly adaptation",
+      "silly adaptation",
+      "24z score",
+      "source",
+      "odyssey",
+      "odyssey",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Silly Adaptation of \"The Odyssey\" > Source: hackernews | Category: news | 2026-07-17T10:12:24Z Score: 6 | Comments: 6"
+  },
+  "2dd9eed8d291c04c": {
+    "file": "corpus/hackernews/transistor-man_com_gimbal_camera_rover_html_f2ed9836e3.md",
+    "source": "hackernews",
+    "title": "Camera Chase Vehicle",
+    "url": "https://transistor-man.com/gimbal_camera_rover.html",
+    "keywords": [
+      "camera chase vehicle",
+      "camera chase vehicle",
+      "20z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "17t10"
+    ],
+    "summary": "# Camera Chase Vehicle > Source: hackernews | Category: news | 2026-07-17T10:12:20Z Score: 10 | Comments: 0"
+  },
+  "8f8f8b2b6839c56e": {
+    "file": "corpus/hackernews/www_goto10retro_com_p_i-owe-my-life-to-the-commodore-64_9712f09870.md",
+    "source": "hackernews",
+    "title": "I Owe My Life to the Commodore 64",
+    "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+    "keywords": [
+      "commodore 64",
+      "commodore 64",
+      "23z score",
+      "source",
+      "owe",
+      "owe",
+      "news",
+      "life",
+      "life",
+      "hackernews"
+    ],
+    "summary": "# I Owe My Life to the Commodore 64 > Source: hackernews | Category: news | 2026-07-17T10:12:23Z Score: 4 | Comments: 0"
+  },
+  "f63ce500cfb3874c": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_production-ai-platforms-evals_utm_684bd9dc00.md",
+    "source": "engineering",
+    "title": "[infoq] QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals",
+    "url": "https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "19z qcon ai boston",
+      "qcon ai boston",
+      "qcon ai boston",
+      "robust production infrastructure",
+      "deploying ai agents",
+      "comprehensive engineering model",
+      "around agents",
+      "tatiana fesenko",
+      "operational challenges",
+      "ensuring security"
+    ],
+    "summary": "# [infoq] QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a \"harness\" around agents, and adopting a comprehensive engineering model for AI."
+  },
+  "252229aa1c303617": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_uber-opensearch-zone-failure_utm__8217067fc9.md",
+    "source": "engineering",
+    "title": "[infoq] How Uber Builds Zone-Failure-Resilient OpenSearch Clusters",
+    "url": "https://www.infoq.com/news/2026/07/uber-opensearch-zone-failure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "odin container orchestration platform",
+      "uber builds zone",
+      "uber builds zone",
+      "uber builds zone",
+      "resilient opensearch clusters",
+      "resilient opensearch clusters",
+      "opensearch deployments running",
+      "zone outage",
+      "using opensearch",
+      "shard allocation"
+    ],
+    "summary": "Uber explained how it keeps its OpenSearch deployments running during a zone outage. It does this by using OpenSearch's built-in shard allocation and its own isolation-group system, which relies on the Odin container orchestration platform. This way, it maintains both query and ingestion capabilities."
+  },
+  "70595fb6b4f4a93e": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_Q4LoxsIwriA_b3071f1d40.md",
+    "source": "youtube",
+    "title": "[theo] Kimi K3 is the best model ever made (sometimes)",
+    "url": "https://www.youtube.com/watch?v=Q4LoxsIwriA",
+    "keywords": [
+      "best model ever made",
+      "best model ever made",
+      "best model ever made",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "38z kimi k3",
+      "kimi k3",
+      "kimi k3"
+    ],
+    "summary": "# [theo] Kimi K3 is the best model ever made (sometimes) Kimi K3 is the best model ever made (sometimes) Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "75c207e3e8d16b9c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_windows-server-2022-_7e8632d64b.md",
+    "source": "security",
+    "title": "[bleeping-comp] Windows Server 2022 reach end of mainstream support in 90 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+    "keywords": [
+      "continue receiving security updates",
+      "90 days microsoft announced",
+      "windows server 2022",
+      "mainstream end date",
+      "90 days",
+      "90 days",
+      "mainstream support",
+      "mainstream support",
+      "mainstream support",
+      "extended support"
+    ],
+    "summary": "# [bleeping-comp] Windows Server 2022 reach end of mainstream support in 90 days Windows Server 2022 reach end of mainstream support in 90 days Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years."
+  },
+  "f75842a271978aaa": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48112_alipay-enables-qr-code-pa_0c42a3b2f0.md",
+    "source": "finance",
+    "title": "[finextra] Alipay+ enables QR code payments for travellers to Argentina",
+    "url": "https://www.finextra.com/newsarticle/48112/alipay-enables-qr-code-payments-for-travellers-to-argentina?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "make qr code payments",
+      "enables qr code payments",
+      "enables qr code payments",
+      "enables qr code payments",
+      "payment gateway alipay +.",
+      "19z alipay",
+      "argentina travellers",
+      "alipay",
+      "alipay",
+      "travellers"
+    ],
+    "summary": "# [finextra] Alipay+ enables QR code payments for travellers to Argentina Alipay+ enables QR code payments for travellers to Argentina Travellers to Argentina can now make QR code payments through payment gateway Alipay+."
+  },
+  "d5e341ccad5c6458": {
+    "file": "corpus/devto/dev_to_antoinette_clennox_why-i-switched-from-ponytail-to-gu_f1ce4451c9.md",
+    "source": "devto",
+    "title": "Why I Switched from Ponytail to Guardsman for AI Coding",
+    "url": "https://dev.to/antoinette_clennox/why-i-switched-from-ponytail-to-guardsman-for-ai-coding-2m8a",
+    "keywords": [
+      "write less code",
+      "write accountable ...",
+      "ai coding",
+      "ai coding",
+      "ai agent",
+      "24z tl",
+      "ponytail taught",
+      "guardsman taught",
+      "ponytail",
+      "ponytail"
+    ],
+    "summary": "# Why I Switched from Ponytail to Guardsman for AI Coding TL;DR: Ponytail taught my AI agent to write less code. Guardsman taught it to write accountable..."
+  },
+  "b59ee1faeeeb8944": {
+    "file": "corpus/devto/dev_to_md_yousufhossain_086953_stop-serving-stale-data-autom_cd764bf214.md",
+    "source": "devto",
+    "title": "Stop Serving Stale Data: Automatic Eloquent Query Caching on Any Cache Store",
+    "url": "https://dev.to/md_yousufhossain_086953/stop-serving-stale-data-automatic-eloquent-query-caching-on-any-cache-store-2e84",
+    "keywords": [
+      "stop serving stale data",
+      "stop serving stale data",
+      "automatic eloquent query caching",
+      "automatic eloquent query caching",
+      "built autocache —",
+      "laravel package",
+      "every write",
+      "cache store",
+      "cache store",
+      "source"
+    ],
+    "summary": "# Stop Serving Stale Data: Automatic Eloquent Query Caching on Any Cache Store > Source: devto | Category: news | 2026-07-17T10:12:28Z How I built AutoCache — a Laravel package that caches your reads, flushes on every write, and doesn't..."
+  },
+  "960095dd6fc7f593": {
+    "file": "corpus/devto/dev_to_mohanvenkatakrishnan_experiments-with-on-device-ai-wh_5182d90029.md",
+    "source": "devto",
+    "title": "Experiments with On-device AI — What building on Gemini Nano actually teaches you",
+    "url": "https://dev.to/mohanvenkatakrishnan/experiments-with-on-device-ai-what-building-on-gemini-nano-actually-teaches-you-5deo",
+    "keywords": [
+      "gemini nano actually teaches",
+      "gemini nano actually teaches",
+      "— gemini nano",
+      "real llm inside",
+      "device ai —",
+      "device ai —",
+      "25z chrome ships",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Experiments with On-device AI — What building on Gemini Nano actually teaches you > Source: devto | Category: news | 2026-07-17T10:12:25Z Chrome ships a real LLM inside the browser now — Gemini Nano, exposed through a handful of built-in..."
+  },
+  "4b2917c51e8baa62": {
+    "file": "corpus/devto/dev_to_parsajiravand_your-margin-left-doesnt-exist-in-arabic_3e19ec59a0.md",
+    "source": "devto",
+    "title": "Your `margin-left` doesn't exist in Arabic. CSS logical properties fix that.",
+    "url": "https://dev.to/parsajiravand/your-margin-left-doesnt-exist-in-arabic-css-logical-properties-fix-that-133i",
+    "keywords": [
+      "probably made without thinking",
+      "css logical properties fix",
+      "css logical properties fix",
+      "sidebar sits",
+      "layout assumption",
+      "source",
+      "reactions",
+      "news",
+      "margin",
+      "margin"
+    ],
+    "summary": "# Your `margin-left` doesn't exist in Arabic. CSS logical properties fix that. Here is a layout assumption you have probably made without thinking about it."
+  },
+  "bc6b7fc25d74dc5d": {
+    "file": "corpus/devto/dev_to_antoinette_clennox_guardsman-skill-from-lazy-to-loyal_d979b6a7c4.md",
+    "source": "devto",
+    "title": "Guardsman SKILL; From Lazy to Loyal: Why My AI Agent Needed a Promotion",
+    "url": "https://dev.to/antoinette_clennox/guardsman-skill-from-lazy-to-loyal-why-my-ai-agent-needed-a-promotion-hjb",
+    "keywords": [
+      "ai agent needed",
+      "ai agent needed",
+      "24z ponytail made",
+      "guardsman made",
+      "guardsman skill",
+      "guardsman skill",
+      "agent lazy",
+      "lazy",
+      "lazy",
+      "source"
+    ],
+    "summary": "# Guardsman SKILL; From Lazy to Loyal: Why My AI Agent Needed a Promotion > Source: devto | Category: news | 2026-07-17T10:12:24Z Ponytail made my agent lazy."
+  },
+  "5eb37edeb9a13c50": {
+    "file": "corpus/devto/dev_to_nyxun123_designing-a-no-tracking-mixing-calculator-fo_deb3f210b0.md",
+    "source": "devto",
+    "title": "Designing a No-Tracking Mixing Calculator for Product-Specific Ratios",
+    "url": "https://dev.to/nyxun123/designing-a-no-tracking-mixing-calculator-for-product-specific-ratios-5a9b",
+    "keywords": [
+      "tracking mixing calculator",
+      "tracking mixing calculator",
+      "specific ratios",
+      "specific ratios",
+      "karn ),",
+      "28z disclosure",
+      "work",
+      "source",
+      "reactions",
+      "product"
+    ],
+    "summary": "# Designing a No-Tracking Mixing Calculator for Product-Specific Ratios > Source: devto | Category: news | 2026-07-17T10:12:28Z Disclosure: I work with Hangzhou Karn New Building Materials Co., Ltd. (KARN), a manufacturer and..."
+  },
+  "c829cb6c1b5678f1": {
+    "file": "corpus/devto/dev_to_toboreeee_hey-dev-im-tobore-lets-actually-connect-1m0_e838d9af28.md",
+    "source": "devto",
+    "title": "Hey DEV, I'm Tobore. Let's actually connect.",
+    "url": "https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02",
+    "keywords": [
+      "25z hey dev",
+      "hey dev",
+      "hey dev",
+      "mostly writing",
+      "actually connect",
+      "actually connect",
+      "actually connect",
+      "tobore",
+      "tobore",
+      "tobore"
+    ],
+    "summary": "# Hey DEV, I'm Tobore. Hey DEV, I'm Tobore. I've been on here for a while now, mostly writing and..."
   }
 }
