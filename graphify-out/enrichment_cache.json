@@ -252663,5 +252663,138 @@
       "6b valuation"
     ],
     "summary": "# [techcrunch-startups] Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices."
+  },
+  "be79c8c34bf69418": {
+    "file": "corpus/hackernews/goliath32_com_blog_z80_html_a7644ea90b.md",
+    "source": "hackernews",
+    "title": "The Zilog Z80 has turned 50",
+    "url": "https://goliath32.com/blog/z80.html",
+    "keywords": [
+      "zilog z80",
+      "zilog z80",
+      "turned 50",
+      "turned 50",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Zilog Z80 has turned 50 > Source: hackernews | Category: news | 2026-07-17T20:35:30Z Score: 38 | Comments: 4"
+  },
+  "545bbf39c5b64032": {
+    "file": "corpus/hackernews/www_forbes_com_sites_thomasbrewster_2026_07_17_flock-ceo-sor_9465e7b943.md",
+    "source": "hackernews",
+    "title": "Flock CEO Apologizes for Calling Activists 'Terrorists",
+    "url": "https://www.forbes.com/sites/thomasbrewster/2026/07/17/flock-ceo-sorry-for-labelling-activists-terrorists/",
+    "keywords": [
+      "flock ceo apologizes",
+      "flock ceo apologizes",
+      "calling activists",
+      "calling activists",
+      "32z score",
+      "terrorists",
+      "terrorists",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Flock CEO Apologizes for Calling Activists 'Terrorists' > Source: hackernews | Category: news | 2026-07-17T20:35:32Z Score: 22 | Comments: 8"
+  },
+  "b1d0c985f6fefd7a": {
+    "file": "corpus/hackernews/www_lego_com_en-us_history_articles_d-lego-building-instruct_170820a846.md",
+    "source": "hackernews",
+    "title": "Lego building instructions through time",
+    "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+    "keywords": [
+      "lego building instructions",
+      "lego building instructions",
+      "35z score",
+      "time",
+      "time",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Lego building instructions through time > Source: hackernews | Category: news | 2026-07-17T20:35:35Z Score: 3 | Comments: 0"
+  },
+  "987e60888e6141f1": {
+    "file": "corpus/security/thehackernews_com_2026_07_openssl-hollowbyte-flaw-could-free_d32c627961.md",
+    "source": "security",
+    "title": "[hacker-news-sec] OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+    "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+    "keywords": [
+      "glibc systems okta tested",
+      "changelog entry pointing",
+      "byte tls requests",
+      "byte tls requests",
+      "service bug",
+      "red team",
+      "process restarts",
+      "openssl shipped",
+      "never arrives",
+      "hollowbyte fix"
+    ],
+    "summary": "# [hacker-news-sec] OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives."
+  },
+  "e2d0c333a1661644": {
+    "file": "corpus/security/www_darkreading_com_vulnerabilities-threats_inc-ransomware-e_61fdf19a9d.md",
+    "source": "security",
+    "title": "[dark-reading] Inc Ransomware Exploits SonicWall SMA Zero-Days",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+    "keywords": [
+      "mobile access appliances",
+      "level capabilities",
+      "gain root",
+      "chained together",
+      "source",
+      "sonicwall",
+      "security",
+      "security",
+      "reading",
+      "reading"
+    ],
+    "summary": "# [dark-reading] Inc Ransomware Exploits SonicWall SMA Zero-Days Inc Ransomware Exploits SonicWall SMA Zero-Days When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances."
+  },
+  "dfea34b27b2a617e": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_17_ctrl-alt-speech-putting-some-mea_46cf894636.md",
+    "source": "legal",
+    "title": "[techdirt] Ctrl-Alt-Speech: Putting Some Meat On The Bans",
+    "url": "https://www.techdirt.com/2026/07/17/ctrl-alt-speech-putting-some-meat-on-the-bans/",
+    "keywords": [
+      "moderation &# 8216",
+      "get extended episodes",
+      "[&# 8230 ;]",
+      "weekly podcast",
+      "support us",
+      "rss feed",
+      "podcast app",
+      "pocket casts",
+      "mike masnick",
+      "latest news"
+    ],
+    "summary": "Ctrl-Alt-Speech is a weekly podcast about the latest news in online speech, from Mike Masnick and Everything in Moderation&#8216;s Ben Whitelaw. Subscribe now on Apple Podcasts, Overcast, Spotify, Pocket Casts, YouTube, or your podcast app of choice — or go straight to the RSS feed. To get extended episodes with additional coverage, support us on [&#8230;]"
+  },
+  "32e581b2b2108da2": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-plugin-now-available-in-kimi-cod_0f276e397c.md",
+    "source": "vercel-blog",
+    "title": "Vercel Plugin now available in Kimi Code CLI",
+    "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli",
+    "keywords": [
+      "kimi code cli",
+      "kimi code cli",
+      "kimi code cli",
+      "43z vercel plugin",
+      "vercel plugin",
+      "vercel plugin",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Vercel Plugin now available in Kimi Code CLI > Source: vercel-blog | Category: news | 2026-07-17T20:35:43Z Vercel Plugin now available in Kimi Code CLI"
   }
 }
