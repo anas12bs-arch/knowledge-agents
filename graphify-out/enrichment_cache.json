@@ -249724,5 +249724,288 @@
       "tobore"
     ],
     "summary": "# Hey DEV, I'm Tobore. Hey DEV, I'm Tobore. I've been on here for a while now, mostly writing and..."
+  },
+  "4dcfdf2d43117cdd": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48945681_3aeef83dad.md",
+    "source": "hackernews",
+    "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+    "url": "https://news.ycombinator.com/item?id=48945681",
+    "keywords": [
+      "even used aws actively",
+      "aws billing issues known",
+      "aws billing issues known",
+      "3 billion dollars .)",
+      "3 billion dollars",
+      "3 billion dollars",
+      "aws iam roles",
+      "aws console lists",
+      "aws support yet",
+      "aws budgets alert"
+    ],
+    "summary": "I haven&#x27;t even used AWS actively in the last year, but AWS console lists the amount as stated above. No feedback from AWS support yet, but the support AI chat bot says: &quot;Die perfekt gleichmäßigen Tageskosten seit dem 1. Juli deuten stark auf einen Abrechnungs- oder Messfehler hin.&quot; (&quot;The perfectly consistent daily costs since July 1 strongly suggest a billing or metering error.&quot;) Bot created a support ticket (or at least told me so)."
+  },
+  "d528a4ca0ea61028": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48945125_6bec7f760a.md",
+    "source": "hackernews",
+    "title": "Ask HN: Do you say please and thank you to your LLMs?",
+    "url": "https://news.ycombinator.com/item?id=48945125",
+    "keywords": [
+      "memory access patterns",
+      "hypothetical qualia would",
+      "also almost certainly",
+      "almost certainly",
+      "word choice",
+      "way correlated",
+      "say please",
+      "say please",
+      "mechanistic factors",
+      "ask hn"
+    ],
+    "summary": "# Ask HN: Do you say please and thank you to your LLMs? > Source: hackernews | Category: news | 2026-07-17T11:39:45Z This is an orthogonal question to whether LLMs have qualia (almost certainly no) and to the question of whether any hypothetical qualia would be in any way correlated with word choice (also almost certainly no), as opposed to mechanistic factors such as runtime and memory access patterns."
+  },
+  "3ef9e2910abac0b9": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48945606_f0a9c2b8a2.md",
+    "source": "hackernews",
+    "title": "Just got an AWS billing alert projecting my monthly cost at $140B",
+    "url": "https://news.ycombinator.com/item?id=48945606",
+    "keywords": [
+      "aws billing alert projecting",
+      "aws billing alert projecting",
+      "usual monthly s3 bill",
+      "sc &# x2f",
+      "anyone else received",
+      "2 – 3",
+      "monthly cost",
+      "monthly cost",
+      "40z score",
+      "uqjcyd3rsqrs"
+    ],
+    "summary": "# Just got an AWS billing alert projecting my monthly cost at $140B This has to be a bug. Has anyone else received a strange billing estimate today?<p>https:&#x2F;&#x2F;prnt.sc&#x2F;UqjcYD3RSQrS"
+  },
+  "40b77f3617be07fd": {
+    "file": "corpus/hackernews/www_dbpro_app_blog_sqlite-is-all-you-need_a437d0833a.md",
+    "source": "hackernews",
+    "title": "SQLite Is All You Need",
+    "url": "https://www.dbpro.app/blog/sqlite-is-all-you-need",
+    "keywords": [
+      "38z score",
+      "sqlite",
+      "sqlite",
+      "source",
+      "news",
+      "need",
+      "need",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# SQLite Is All You Need > Source: hackernews | Category: news | 2026-07-17T11:39:38Z Score: 35 | Comments: 37"
+  },
+  "ac7b853de36dce64": {
+    "file": "corpus/hackernews/www_kaggle_com_competitions_kaggle-measuring-agi_discussion__4ef77d5a07.md",
+    "source": "hackernews",
+    "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+    "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "keywords": [
+      "blatant ai slop",
+      "blatant ai slop",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize > Source: hackernews | Category: news | 2026-07-17T11:39:38Z Score: 9 | Comments: 0"
+  },
+  "41a856f8dd59393c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-windows-legacyhiv_3ad33dd2b5.md",
+    "source": "security",
+    "title": "[bleeping-comp] New Windows LegacyHive zero-day gives hackers admin privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+    "keywords": [
+      "day exploit dubbed legacyhive",
+      "new windows legacyhive zero",
+      "new windows legacyhive zero",
+      "date windows systems",
+      "security researcher using",
+      "windows zero",
+      "nightmare eclipse",
+      "escalate privileges",
+      "allows attackers",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] New Windows LegacyHive zero-day gives hackers admin privileges New Windows LegacyHive zero-day gives hackers admin privileges A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems."
+  },
+  "b9affc243d1253ed": {
+    "file": "corpus/security/thehackernews_com_2026_07_new-goserpent-malware-targets-sout_cf5dd33c64.md",
+    "source": "security",
+    "title": "[hacker-news-sec] New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+    "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+    "keywords": [
+      "russian cybersecurity company kaspersky",
+      "cyber attacks targeting entities",
+      "espionage cybersecurity researchers",
+      "diplomatic entities",
+      "term access",
+      "intelligence gathering",
+      "february 2026",
+      "espionage",
+      "espionage",
+      "2026"
+    ],
+    "summary": "# [hacker-news-sec] New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering."
+  },
+  "abcae123a7ded9bd": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_details-of-alan-turin_0a1d42d5ef.md",
+    "source": "security",
+    "title": "[schneier] Details of Alan Turing’s Voice Encryption System",
+    "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
+    "keywords": [
+      "turing passed away ...",
+      "wartime papers &# 8212",
+      "also material written",
+      "turing &# 8217",
+      "turing &# 8217",
+      "alan turing ’",
+      "alan turing ’",
+      "alan turing ’",
+      "secret &# 8220",
+      "voice encryption system"
+    ],
+    "summary": "The previously unknown cache contains many sheets in Turing&#8217;s own handwriting, telling of his top-secret &#8220;Delilah&#8221; engineering project from 1943 to 1945. Delilah was Turing&#8217;s portable voice-encryption system, named after the biblical deceiver of men. There is also material written by Bayley, often in the form of notes he took while Turing was speaking."
+  },
+  "45d9138d9d769d1c": {
+    "file": "corpus/security/thehackernews_com_2026_07_acr-stealer-uses-clickfix-lures-to_d7cd26a86c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+    "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+    "keywords": [
+      "steal browser tokens",
+      "steal browser tokens",
+      "steal browser tokens",
+      "saved browser passwords",
+      "live session tokens",
+      "defender experts team",
+      "circulation since 2024",
+      "microsoft 365 documents",
+      "microsoft 365 files",
+      "microsoft 365 files"
+    ],
+    "summary": "# [hacker-news-sec] ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders."
+  },
+  "d9a3157d4cc01f66": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48115_naturealpha-and-the-natur_05be1df356.md",
+    "source": "finance",
+    "title": "[finextra] NatureAlpha and The Nature Conservancy make geospatial conservation science data openly accessible",
+    "url": "https://www.finextra.com/newsarticle/48115/naturealpha-and-the-nature-conservancy-make-geospatial-conservation-science-data-openly-accessible?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "nature conservancy ’",
+      "38z naturealpha",
+      "naturealpha",
+      "naturealpha",
+      "source",
+      "pledge",
+      "finextra",
+      "finextra",
+      "finance",
+      "finance"
+    ],
+    "summary": "# [finextra] NatureAlpha and The Nature Conservancy make geospatial conservation science data openly accessible NatureAlpha and The Nature Conservancy make geospatial conservation science data openly accessible AI-powered nature intelligence platform NatureAlpha announced support for The Nature Conservancy’s pledge to make geospatial conservation science data accessible."
+  },
+  "37a518e27014311a": {
+    "file": "corpus/finance/news_crunchbase_com_venture_world-cup-finalists-argentina-sp_5d109f88d4.md",
+    "source": "finance",
+    "title": "[crunchbase] Where Argentina And Spain Are Scoring Startup Goals",
+    "url": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
+    "keywords": [
+      "recent startup funding tallies",
+      "world cup finalists spain",
+      "scoring startup goals",
+      "scoring startup goals",
+      "scoring startup goals",
+      "recently funded companies",
+      "particularly large share",
+      "even regional investment",
+      "put together",
+      "neither accounts"
+    ],
+    "summary": "# [crunchbase] Where Argentina And Spain Are Scoring Startup Goals Where Argentina And Spain Are Scoring Startup Goals While neither accounts for a particularly large share of global or even regional investment, both have an intriguing pipeline of recently funded companies."
+  },
+  "1388ebd64feb043b": {
+    "file": "corpus/devto/dev_to_marcossouzadotdev_contract-first-code-last-the-workfl_d9f3d3d5b0.md",
+    "source": "devto",
+    "title": "Contract First, Code Last: The Workflow That Stopped Us From Rebuilding Features Twice",
+    "url": "https://dev.to/marcossouzadotdev/contract-first-code-last-the-workflow-that-stopped-us-from-rebuilding-features-twice-4074",
+    "keywords": [
+      "throwaway interactive mockup —",
+      "single real component —",
+      "rebuilding features twice",
+      "rebuilding features twice",
+      "real product",
+      "stopped us",
+      "stopped us",
+      "leverage habit",
+      "contract first",
+      "contract first"
+    ],
+    "summary": "# Contract First, Code Last: The Workflow That Stopped Us From Rebuilding Features Twice > Source: devto | Category: news | 2026-07-17T11:39:49Z Why validating a feature's UX in a throwaway interactive mockup — before writing a single real component — is the highest-leverage habit I've picked up this year, and what it actually saves in a real product."
+  },
+  "54dac729c1c2bea7": {
+    "file": "corpus/devto/dev_to_harshmangalam_from-httpservemux-to-dependency-injecti_68ebd1600f.md",
+    "source": "devto",
+    "title": "From http.ServeMux to Dependency Injection in Go: A Beginner-Friendly Guide",
+    "url": "https://dev.to/harshmangalam/from-httpservemux-to-dependency-injection-in-go-a-beginner-friendly-guide-3kc3",
+    "keywords": [
+      "first saw code like",
+      "one ...",
+      "many things",
+      "friendly guide",
+      "friendly guide",
+      "dependency injection",
+      "dependency injection",
+      "source",
+      "servemux",
+      "servemux"
+    ],
+    "summary": "# From http.ServeMux to Dependency Injection in Go: A Beginner-Friendly Guide > Source: devto | Category: news | 2026-07-17T11:39:50Z When I first saw code like this, it felt as if too many things were happening in one..."
+  },
+  "d5111167bad4b0ab": {
+    "file": "corpus/devto/dev_to_jaideepparashar_my-personal-ai-stack-in-2026-2epn_88641dc446.md",
+    "source": "devto",
+    "title": "My Personal AI Stack in 2026",
+    "url": "https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn",
+    "keywords": [
+      "personal ai stack",
+      "personal ai stack",
+      "ai ...",
+      "use",
+      "tools",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# My Personal AI Stack in 2026 > Source: devto | Category: news | 2026-07-17T11:39:50Z Ask ten AI developers what tools they use, and you'll probably get ten different answers."
+  },
+  "ec2069689739a2d3": {
+    "file": "corpus/devto/dev_to_muskan_bandta_i-let-an-ai-agent-run-my-cloud-ops-for-_f120d73a37.md",
+    "source": "devto",
+    "title": "I Let an AI Agent Run My Cloud Ops for a Week: Here's What Broke",
+    "url": "https://dev.to/muskan_bandta/i-let-an-ai-agent-run-my-cloud-ops-for-a-week-heres-what-broke-5f",
+    "keywords": [
+      "ai agent run",
+      "ai agent run",
+      "ai agent access",
+      "whether aiops",
+      "seven days",
+      "handled well",
+      "hand experiment",
+      "cloud ops",
+      "cloud ops",
+      "cloud operations"
+    ],
+    "summary": "# I Let an AI Agent Run My Cloud Ops for a Week: Here's What Broke A first-hand experiment: I gave an AI agent access to my cloud operations for seven days. Here's what it handled well, what broke, the near-miss that scared me, and whether AIOps is actually ready for real on-call work."
   }
 }
