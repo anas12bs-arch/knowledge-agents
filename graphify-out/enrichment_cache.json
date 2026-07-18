@@ -253583,5 +253583,138 @@
       "ai ’"
     ],
     "summary": "# [techcrunch-startups] Databricks hits $188B valuation, extending its run as AI’s favorite second act Databricks hits $188B valuation, extending its run as AI’s favorite second act Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+  },
+  "9b4711ab92f9306e": {
+    "file": "corpus/hackernews/bombich_com_blog_2026_07_07_disk-not-ejected-properly_fa5e748422.md",
+    "source": "hackernews",
+    "title": "Disk Not Ejected Properly': What It Means",
+    "url": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
+    "keywords": [
+      "ejected properly ':",
+      "ejected properly \":",
+      "25z score",
+      "source",
+      "news",
+      "means",
+      "means",
+      "hackernews",
+      "disk",
+      "disk"
+    ],
+    "summary": "# \"Disk Not Ejected Properly\": What It Means > Source: hackernews | Category: news | 2026-07-18T00:02:25Z Score: 8 | Comments: 1"
+  },
+  "d19e03f0257721ac": {
+    "file": "corpus/hackernews/www_texasattorneygeneral_gov_news_releases_attorney-general-_acef08713a.md",
+    "source": "hackernews",
+    "title": "Texas wins court order to suspend domain name for violating age-verification law",
+    "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+    "keywords": [
+      "texas wins court order",
+      "texas wins court order",
+      "suspend domain name",
+      "suspend domain name",
+      "violating age",
+      "violating age",
+      "verification law",
+      "verification law",
+      "23z score",
+      "source"
+    ],
+    "summary": "# Texas wins court order to suspend domain name for violating age-verification law > Source: hackernews | Category: news | 2026-07-18T00:02:23Z Score: 40 | Comments: 22"
+  },
+  "c46614407e162f34": {
+    "file": "corpus/hackernews/dustycloud_org_blog_faulty-towers-vibe-sickness-and-the-vibe_d631252447.md",
+    "source": "hackernews",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled",
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "keywords": [
+      "vibe sickness",
+      "vibe sickness",
+      "vibe bobsled",
+      "vibe bobsled",
+      "faulty towers",
+      "faulty towers",
+      "32z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Faulty Towers, vibe sickness, and the vibe bobsled > Source: hackernews | Category: news | 2026-07-18T00:02:32Z Score: 5 | Comments: 3"
+  },
+  "2c2bd2a925ccfbfc": {
+    "file": "corpus/hackernews/www_techradar_com_televisions_lgs-gaming-monitors-and-tvs-ar_0018442bd9.md",
+    "source": "hackernews",
+    "title": "LG monitors installing adware on Windows PCs",
+    "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+    "keywords": [
+      "lg monitors installing adware",
+      "lg monitors installing adware",
+      "windows pcs",
+      "windows pcs",
+      "33z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# LG monitors installing adware on Windows PCs > Source: hackernews | Category: news | 2026-07-18T00:02:33Z Score: 9 | Comments: 8"
+  },
+  "163f22876f276b68": {
+    "file": "corpus/devto/dev_to_michaeltruong_model-experiments-became-an-architectur_fb583ad5dc.md",
+    "source": "devto",
+    "title": "Model experiments became an architectural stress test",
+    "url": "https://dev.to/michaeltruong/model-experiments-became-an-architectural-stress-test-3gc0",
+    "keywords": [
+      "tuning codenames ai",
+      "small web game",
+      "model experiments became",
+      "model experiments became",
+      "llm plays codenames",
+      "architectural stress test",
+      "architectural stress test",
+      "clue ...",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Model experiments became an architectural stress test > Source: devto | Category: news | 2026-07-18T00:02:35Z I've been tuning Codenames AI, a small web game where an LLM plays Codenames with you."
+  },
+  "a490fa1a252c29ab": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_89_a123a04740.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.89 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.89",
+    "keywords": [
+      "fix rust doctest failures",
+      "89 ### misc changes",
+      "instant navigation lock",
+      "claude code plugin",
+      "cachecomponents flag \":",
+      "action docker image",
+      "fix repeated navigations",
+      "js — v16",
+      "59z ## vercel",
+      "nav inspector back"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-18T00:02:59Z - Fix Rust doctest failures: #95909 - [turbopack] Clean up `server_chunking_context`: #95908 - [turbopack] Don't SSR on pages only navigated to through a soft nav: #95539 - Package skills/ as a Claude Code plugin: #95907 - [ci] Avoid apt-get in the next-stats-action Docker image: #95847 - Back/forward set the Nav Inspector back to pending: #95865 - fix(agent-rules): pad managed AGENTS.md block with blank lines: #95892 - Rever"
+  },
+  "fb5c14fb1cf745cb": {
+    "file": "corpus/product/techcrunch_com_2026_07_17_applications-close-in-48-hours-her_403d5f6113.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+    "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+    "keywords": [
+      "one startup walks away",
+      "stripe x startup battlefield",
+      "stripe x startup battlefield",
+      "stripe x startup battlefield",
+      "everything australian founders need",
+      "everything australian founders need",
+      "everything australian founders need",
+      "stripe tour sydney",
+      "australian tech community",
+      "world &# 8217"
+    ],
+    "summary": "# [techcrunch-startups] Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world&#8217;s most [&#8230;]"
   }
 }
