@@ -160724,6 +160724,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_newscientist_com_article_2580139_supplement_that_binds_t_d558d375f7",
+      "label": "www_newscientist_com_article_2580139-supplement-that-binds-t_d558d375f7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_newscientist_com_article_2580139-supplement-that-binds-t_d558d375f7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_newscientist_com_article_2580139_supplement_that_binds_t_d558d375f7_supplement_that_binds_to_microplastics_may_remove_them_from_our_body",
+      "label": "Supplement that binds to microplastics may remove them from our body",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_newscientist_com_article_2580139-supplement-that-binds-t_d558d375f7.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_newsweek_com_cost_me_the_election_data_centers_trigger_v_cda7e3cd5e",
       "label": "www_newsweek_com_cost-me-the-election-data-centers-trigger-v_cda7e3cd5e.md",
       "file_type": "document",
@@ -323785,6 +323801,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_newscientist_com_article_2578806-game-that-reduces-demen_793af00c29.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_newscientist_com_article_2580139_supplement_that_binds_t_d558d375f7",
+      "target": "corpus_hackernews_www_newscientist_com_article_2580139_supplement_that_binds_t_d558d375f7_supplement_that_binds_to_microplastics_may_remove_them_from_our_body",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_newscientist_com_article_2580139-supplement-that-binds-t_d558d375f7.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
