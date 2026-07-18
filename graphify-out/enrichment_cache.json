@@ -254411,5 +254411,137 @@
       "source"
     ],
     "summary": "# How I get reviewer comments back into Codex after sharing HTML Putting a local HTML file online is mostly solved. There are small CLIs for it, plus the usual..."
+  },
+  "fe6c16ebf9e611df": {
+    "file": "corpus/hackernews/github_com_doctorfree_Asciiville_eff4bfa9b8.md",
+    "source": "hackernews",
+    "title": "ASCII Art",
+    "url": "https://github.com/doctorfree/Asciiville",
+    "keywords": [
+      "ascii art",
+      "ascii art",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# ASCII Art > Source: hackernews | Category: news | 2026-07-18T07:15:30Z Score: 3 | Comments: 0"
+  },
+  "0fd624f1a25ab737": {
+    "file": "corpus/hackernews/in-toto_io_f03e667940.md",
+    "source": "hackernews",
+    "title": "In-toto: A framework to secure the integrity of software supply chains",
+    "url": "https://in-toto.io/",
+    "keywords": [
+      "software supply chains",
+      "software supply chains",
+      "26z score",
+      "toto",
+      "toto",
+      "source",
+      "secure",
+      "secure",
+      "news",
+      "integrity"
+    ],
+    "summary": "# In-toto: A framework to secure the integrity of software supply chains > Source: hackernews | Category: news | 2026-07-18T07:15:26Z Score: 6 | Comments: 0"
+  },
+  "7c2f5fa7550ebeb3": {
+    "file": "corpus/hackernews/ikea_greg_technology_780611b41e.md",
+    "source": "hackernews",
+    "title": "Show HN: IKEA Complexity Index",
+    "url": "https://ikea.greg.technology/",
+    "keywords": [
+      "ikea complexity index",
+      "ikea complexity index",
+      "show hn",
+      "show hn",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: IKEA Complexity Index > Source: hackernews | Category: news | 2026-07-18T07:15:30Z Score: 5 | Comments: 2"
+  },
+  "cef075eed6eb3a87": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_IfkBQyWuTOE_b50ebdf54a.md",
+    "source": "youtube",
+    "title": "[theo] Fable 5 vs GPT-5.6",
+    "url": "https://www.youtube.com/watch?v=IfkBQyWuTOE",
+    "keywords": [
+      "fable 5 vs gpt",
+      "fable 5 vs gpt",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "best models right",
+      "awesome edit 🙏",
+      "gpt 5",
+      "different thank",
+      "traycer want"
+    ],
+    "summary": "It’s time to breakdown the biggest difference between Fable and GPT 5.6-Sol, because while they are the biggest and best models right now, they’re still very different Want to sponsor a video? Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "0f690aadb2d1571e": {
+    "file": "corpus/devto/dev_to_damion_gayle56_your-calculator-app-has-a-units-proble_367cd67e5c.md",
+    "source": "devto",
+    "title": "Your Calculator App Has a Units Problem",
+    "url": "https://dev.to/damion_gayle56/your-calculator-app-has-a-units-problem-2177",
+    "keywords": [
+      "units problem",
+      "units problem",
+      "units problem",
+      "five lines",
+      "calculator apps",
+      "calculator app",
+      "calculator app",
+      "calculator app",
+      "arithmetic wrapped",
+      "source"
+    ],
+    "summary": "# Your Calculator App Has a Units Problem > Source: devto | Category: news | 2026-07-18T07:15:32Z Your Calculator App Has a Units Problem Most calculator apps are five lines of arithmetic wrapped in..."
+  },
+  "ab647c0b2f6ab4ea": {
+    "file": "corpus/devto/dev_to_surajrkhonde_can-a-semantic-cache-become-your-primary_17b491dfd6.md",
+    "source": "devto",
+    "title": "Can a Semantic Cache Become Your Primary Retrieval Layer?",
+    "url": "https://dev.to/surajrkhonde/can-a-semantic-cache-become-your-primary-retrieval-layer-2o11",
+    "keywords": [
+      "underrated cost ...",
+      "semantic cache layer",
+      "semantic cache become",
+      "semantic cache become",
+      "primary retrieval layer",
+      "primary retrieval layer",
+      "rag —",
+      "32z building",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Can a Semantic Cache Become Your Primary Retrieval Layer? > Source: devto | Category: news | 2026-07-18T07:15:32Z Building a semantic cache layer in front of RAG — and why it might be the most underrated cost..."
+  },
+  "e086033d3724d4de": {
+    "file": "corpus/devto/dev_to_martinrojas_loops-are-for-prototypes-lifecycles-are-f_45a2931cb1.md",
+    "source": "devto",
+    "title": "Loops Are for Prototypes. Lifecycles Are for Production",
+    "url": "https://dev.to/martinrojas/loops-are-for-prototypes-lifecycles-are-for-production-17de",
+    "keywords": [
+      "32z loop engineering",
+      "line ...",
+      "everywhere right",
+      "useful",
+      "strategy",
+      "source",
+      "real",
+      "reactions",
+      "prototypes",
+      "prototypes"
+    ],
+    "summary": "Lifecycles Are for Production Loop engineering is real, useful, and everywhere right now. It's also not a strategy."
   }
 }
