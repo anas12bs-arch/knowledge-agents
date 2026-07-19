@@ -261585,5 +261585,60 @@
       "hackernews"
     ],
     "summary": "# FIFA World Cup Triggers a Global Anti-Piracy Crackdown > Source: hackernews | Category: news | 2026-07-19T21:07:00Z Score: 8 | Comments: 0"
+  },
+  "c9dcfb5836f7b152": {
+    "file": "corpus/hackernews/thenextweb_com_news_ai-advice-suppresses-critical-thinking-w_8c341ca217.md",
+    "source": "hackernews",
+    "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "keywords": [
+      "researchers found",
+      "researchers found",
+      "47z score",
+      "2x confident",
+      "2x confident",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI advice made people 3x less accurate but 2x confident, researchers found > Source: hackernews | Category: news | 2026-07-19T22:04:47Z Score: 9 | Comments: 2"
+  },
+  "c65dfcba0401b317": {
+    "file": "corpus/hackernews/raymii_org_s_blog_Intel_Itanium_IA-64-Emulator_that_boots_Wi_9b849dcc4e.md",
+    "source": "hackernews",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "keywords": [
+      "new intel itanium",
+      "new intel itanium",
+      "boots windows",
+      "boots windows",
+      "45z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A new Intel Itanium (IA-64) emulator that boots Windows > Source: hackernews | Category: news | 2026-07-19T22:04:45Z Score: 16 | Comments: 10"
+  },
+  "07574436f73c53f2": {
+    "file": "corpus/security/thehackernews_com_2026_07_critical-nginx-vulnerability-can-c_89f3cdde9d.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+    "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "keywords": [
+      "42z critical nginx vulnerability",
+      "critical nginx vulnerability",
+      "critical nginx vulnerability",
+      "critical nginx flaw",
+      "unauthenticated attacker trigger",
+      "nginx plus 37",
+      "heap buffer overflow",
+      "crafted http requests",
+      "nginx 1",
+      "shipped fixes"
+    ],
+    "summary": "# [hacker-news-sec] Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution Triggering it can crash or restart the worker, causing a denial of"
   }
 }

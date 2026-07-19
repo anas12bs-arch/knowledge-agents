@@ -144156,6 +144156,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_raymii_org_s_blog_intel_itanium_ia_64_emulator_that_boots_wi_9b849dcc4e",
+      "label": "raymii_org_s_blog_Intel_Itanium_IA-64-Emulator_that_boots_Wi_9b849dcc4e.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/raymii_org_s_blog_Intel_Itanium_IA-64-Emulator_that_boots_Wi_9b849dcc4e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_raymii_org_s_blog_intel_itanium_ia_64_emulator_that_boots_wi_9b849dcc4e_a_new_intel_itanium_ia_64_emulator_that_boots_windows",
+      "label": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/raymii_org_s_blog_Intel_Itanium_IA-64-Emulator_that_boots_Wi_9b849dcc4e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_raymii_org_s_blog_run_windows_2000_for_dec_alpha_on_a_new_es_a22f4c9168",
       "label": "raymii_org_s_blog_Run_Windows_2000_for_Dec_Alpha_on_a_new_es_a22f4c9168.md",
       "file_type": "document",
@@ -149592,6 +149608,22 @@
       "label": "Netlify CTO Dana Lawson: Writing code is no longer the job",
       "file_type": "document",
       "source_file": "corpus/hackernews/thenewstack_io_netlify-agent-experience-engineers_e049216551.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_thenextweb_com_news_ai_advice_suppresses_critical_thinking_w_8c341ca217",
+      "label": "thenextweb_com_news_ai-advice-suppresses-critical-thinking-w_8c341ca217.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/thenextweb_com_news_ai-advice-suppresses-critical-thinking-w_8c341ca217.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_thenextweb_com_news_ai_advice_suppresses_critical_thinking_w_8c341ca217_ai_advice_made_people_3x_less_accurate_but_2x_confident_researchers_found",
+      "label": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/thenextweb_com_news_ai-advice-suppresses-critical-thinking-w_8c341ca217.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -197336,6 +197368,22 @@
       "label": "[hacker-news-sec] Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
       "file_type": "document",
       "source_file": "corpus/security/thehackernews_com_2026_07_critical-cursor-flaws-could-let-pr_3b3d2e8677.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_thehackernews_com_2026_07_critical_nginx_vulnerability_can_c_89f3cdde9d",
+      "label": "thehackernews_com_2026_07_critical-nginx-vulnerability-can-c_89f3cdde9d.md",
+      "file_type": "document",
+      "source_file": "corpus/security/thehackernews_com_2026_07_critical-nginx-vulnerability-can-c_89f3cdde9d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_thehackernews_com_2026_07_critical_nginx_vulnerability_can_c_89f3cdde9d_hacker_news_sec_critical_nginx_vulnerability_can_crash_workers_and_may_allow_remote_code_execution",
+      "label": "[hacker-news-sec] Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "file_type": "document",
+      "source_file": "corpus/security/thehackernews_com_2026_07_critical-nginx-vulnerability-can-c_89f3cdde9d.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -317176,6 +317224,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_raymii_org_s_blog_intel_itanium_ia_64_emulator_that_boots_wi_9b849dcc4e",
+      "target": "corpus_hackernews_raymii_org_s_blog_intel_itanium_ia_64_emulator_that_boots_wi_9b849dcc4e_a_new_intel_itanium_ia_64_emulator_that_boots_windows",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/raymii_org_s_blog_Intel_Itanium_IA-64-Emulator_that_boots_Wi_9b849dcc4e.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_raymii_org_s_blog_run_windows_2000_for_dec_alpha_on_a_new_es_a22f4c9168",
       "target": "corpus_hackernews_raymii_org_s_blog_run_windows_2000_for_dec_alpha_on_a_new_es_a22f4c9168_run_windows_2000_on_a_dec_alpha_with_a_new_es40_fork",
       "relation": "contains",
@@ -320571,6 +320629,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/thenewstack_io_netlify-agent-experience-engineers_e049216551.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_thenextweb_com_news_ai_advice_suppresses_critical_thinking_w_8c341ca217",
+      "target": "corpus_hackernews_thenextweb_com_news_ai_advice_suppresses_critical_thinking_w_8c341ca217_ai_advice_made_people_3x_less_accurate_but_2x_confident_researchers_found",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/thenextweb_com_news_ai-advice-suppresses-critical-thinking-w_8c341ca217.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -350421,6 +350489,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/thehackernews_com_2026_07_critical-cursor-flaws-could-let-pr_3b3d2e8677.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_security_thehackernews_com_2026_07_critical_nginx_vulnerability_can_c_89f3cdde9d",
+      "target": "corpus_security_thehackernews_com_2026_07_critical_nginx_vulnerability_can_c_89f3cdde9d_hacker_news_sec_critical_nginx_vulnerability_can_crash_workers_and_may_allow_remote_code_execution",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/thehackernews_com_2026_07_critical-nginx-vulnerability-can-c_89f3cdde9d.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
