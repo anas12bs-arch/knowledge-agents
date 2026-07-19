@@ -257592,5 +257592,117 @@
       "second"
     ],
     "summary": "# My Mac Said “System Data” Was Using 300 GB. Here’s How I Actually Cleared It. I opened System Settings → General → Storage and stared at the screen for a second."
+  },
+  "adbea689e2c3ff37": {
+    "file": "corpus/hackernews/www_sciencedaily_com_releases_2026_07_260717033213_htm_fa1a664bde.md",
+    "source": "hackernews",
+    "title": "Popular sugar substitutes linked to faster brain aging",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+    "keywords": [
+      "popular sugar substitutes linked",
+      "popular sugar substitutes linked",
+      "faster brain aging",
+      "faster brain aging",
+      "29z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Popular sugar substitutes linked to faster brain aging > Source: hackernews | Category: news | 2026-07-19T00:00:29Z Score: 4 | Comments: 1"
+  },
+  "fcfaaceaca59930e": {
+    "file": "corpus/hackernews/www_theverge_com_tech_966937_microsoft-surface-laptop-13-inc_fd787866ab.md",
+    "source": "hackernews",
+    "title": "Even Microsoft couldn't make Windows 11 work well on 8GB of RAM",
+    "url": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
+    "keywords": [
+      "even microsoft",
+      "even microsoft",
+      "30z score",
+      "source",
+      "ram",
+      "ram",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Even Microsoft couldn't make Windows 11 work well on 8GB of RAM > Source: hackernews | Category: news | 2026-07-19T00:00:30Z Score: 6 | Comments: 3"
+  },
+  "6aecbd99aa04c27d": {
+    "file": "corpus/hackernews/codex-resets_com_e4b958abbc.md",
+    "source": "hackernews",
+    "title": "Codex Resets",
+    "url": "https://codex-resets.com/",
+    "keywords": [
+      "codex resets",
+      "codex resets",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Codex Resets > Source: hackernews | Category: news | 2026-07-19T00:00:23Z Score: 29 | Comments: 22"
+  },
+  "601cc5cebc283bcc": {
+    "file": "corpus/devto/dev_to_wondadav_architecting-lean-llm-caching-how-to-drop-a-_4ef181d75f.md",
+    "source": "devto",
+    "title": "Architecting lean LLM caching: how to drop a 20M-row table without losing your AI memory",
+    "url": "https://dev.to/wondadav/architecting-lean-llm-caching-how-to-drop-a-20m-row-table-without-losing-your-ai-memory-3g2n",
+    "keywords": [
+      "row table without losing",
+      "row table without losing",
+      "architecting lean llm caching",
+      "architecting lean llm caching",
+      "reloaded dataset caches",
+      "team running",
+      "inputs ...",
+      "ai memory",
+      "ai memory",
+      "agentic pipeline"
+    ],
+    "summary": "# Architecting lean LLM caching: how to drop a 20M-row table without losing your AI memory > Source: devto | Category: news | 2026-07-19T00:00:32Z Any team running an agentic pipeline on a periodically-reloaded dataset caches the output of inputs..."
+  },
+  "1054b21741db838f": {
+    "file": "corpus/devto/dev_to_ofri-peretz_i-built-what-i-benchmark-heres-how-i-try-_32f95168b3.md",
+    "source": "devto",
+    "title": "I Built What I Benchmark. Here's How I Try Not to Cheat.",
+    "url": "https://dev.to/ofri-peretz/i-built-what-i-benchmark-heres-how-i-try-not-to-cheat-3k3n",
+    "keywords": [
+      "32z every benchmark",
+      "use instead",
+      "site compares",
+      "real conflict",
+      "eslint plugins",
+      "competitors —",
+      "checkable process",
+      "benchmark",
+      "benchmark",
+      "write"
+    ],
+    "summary": "Here's How I Try Not to Cheat. Every benchmark on this site compares my own ESLint plugins to competitors — a real conflict of interest, not a disclaimer I can write my way out of. Here's the actual, checkable process I use instead of asking you to trust my verdict."
+  },
+  "b44b8a1a4e2ff695": {
+    "file": "corpus/devto/dev_to_sanjaysah_why-i-stopped-copy-pasting-repositories-and_cfa4ac6be5.md",
+    "source": "devto",
+    "title": "Why I Stopped Copy-Pasting Repositories and Started Building My Own Starter CLI",
+    "url": "https://dev.to/sanjaysah/why-i-stopped-copy-pasting-repositories-and-started-building-my-own-starter-cli-246j",
+    "keywords": [
+      "35z every developer",
+      "starter project .\"",
+      "starter cli",
+      "starter cli",
+      "stopped copy",
+      "stopped copy",
+      "started building",
+      "started building",
+      "previous ...",
+      "pasting repositories"
+    ],
+    "summary": "# Why I Stopped Copy-Pasting Repositories and Started Building My Own Starter CLI Every developer has a \"starter project.\" Some keep a GitHub template."
   }
 }
