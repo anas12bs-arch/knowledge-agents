@@ -108300,6 +108300,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_mastergodzilla_github_io_posts_2025_07_muon_clip_a4365e0b1b",
+      "label": "MasterGodzilla_github_io_posts_2025_07_muon-clip_a4365e0b1b.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/MasterGodzilla_github_io_posts_2025_07_muon-clip_a4365e0b1b.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_mastergodzilla_github_io_posts_2025_07_muon_clip_a4365e0b1b_from_muon_to_gradient_clipping_some_thoughts_on_qk_stability",
+      "label": "From Muon to Gradient Clipping: Some Thoughts on QK Stability",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/MasterGodzilla_github_io_posts_2025_07_muon-clip_a4365e0b1b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_a_rabbitsfoot_com_editorial_confessions_the_last_picture_sho_ddc888134e",
       "label": "a-rabbitsfoot_com_editorial_confessions_the-last-picture-sho_ddc888134e.md",
       "file_type": "document",
@@ -119624,6 +119640,22 @@
       "label": "The Clouds of Hiroshima",
       "file_type": "document",
       "source_file": "corpus/hackernews/doomsdaymachines_net_p_the-clouds-of-hiroshima_84b1a9fc4f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_dornsife_usc_edu_news_stories_heavy_tv_watching_associated_w_95352137fc",
+      "label": "dornsife_usc_edu_news_stories_heavy-tv-watching-associated-w_95352137fc.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/dornsife_usc_edu_news_stories_heavy-tv-watching-associated-w_95352137fc.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_dornsife_usc_edu_news_stories_heavy_tv_watching_associated_w_95352137fc_heavy_tv_watching_associated_with_smaller_brain_structures_study_finds",
+      "label": "Heavy TV watching associated with smaller brain structures, study finds",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/dornsife_usc_edu_news_stories_heavy-tv-watching-associated-w_95352137fc.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -141676,6 +141708,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_orionbrowser_com_65802c4710",
+      "label": "orionbrowser_com_65802c4710.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/orionbrowser_com_65802c4710.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_orionbrowser_com_65802c4710_orion_browser_by_kagi",
+      "label": "Orion Browser by Kagi",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/orionbrowser_com_65802c4710.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_orionbrowser_com_updates_versions_1_1_1faa0efb91",
       "label": "orionbrowser_com_updates_versions_1_1_1faa0efb91.md",
       "file_type": "document",
@@ -150216,6 +150264,22 @@
       "label": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
       "file_type": "document",
       "source_file": "corpus/hackernews/torrentfreak_com_european-isps-want-rightsholders-held-accou_4e7e8684ff.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_torrentfreak_com_fifa_world_cup_triggers_a_global_anti_pirac_b9a83310b0",
+      "label": "torrentfreak_com_fifa-world-cup-triggers-a-global-anti-pirac_b9a83310b0.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/torrentfreak_com_fifa-world-cup-triggers-a-global-anti-pirac_b9a83310b0.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_torrentfreak_com_fifa_world_cup_triggers_a_global_anti_pirac_b9a83310b0_fifa_world_cup_triggers_a_global_anti_piracy_crackdown",
+      "label": "FIFA World Cup Triggers a Global Anti-Piracy Crackdown",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/torrentfreak_com_fifa-world-cup-triggers-a-global-anti-pirac_b9a83310b0.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -294682,6 +294746,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_mastergodzilla_github_io_posts_2025_07_muon_clip_a4365e0b1b",
+      "target": "corpus_hackernews_mastergodzilla_github_io_posts_2025_07_muon_clip_a4365e0b1b_from_muon_to_gradient_clipping_some_thoughts_on_qk_stability",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/MasterGodzilla_github_io_posts_2025_07_muon-clip_a4365e0b1b.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_a_rabbitsfoot_com_editorial_confessions_the_last_picture_sho_ddc888134e",
       "target": "corpus_hackernews_a_rabbitsfoot_com_editorial_confessions_the_last_picture_sho_ddc888134e_the_last_picture_show_a_conversation_with_george_lucas",
       "relation": "contains",
@@ -301757,6 +301831,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/doomsdaymachines_net_p_the-clouds-of-hiroshima_84b1a9fc4f.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_dornsife_usc_edu_news_stories_heavy_tv_watching_associated_w_95352137fc",
+      "target": "corpus_hackernews_dornsife_usc_edu_news_stories_heavy_tv_watching_associated_w_95352137fc_heavy_tv_watching_associated_with_smaller_brain_structures_study_finds",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/dornsife_usc_edu_news_stories_heavy-tv-watching-associated-w_95352137fc.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -315562,6 +315646,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_orionbrowser_com_65802c4710",
+      "target": "corpus_hackernews_orionbrowser_com_65802c4710_orion_browser_by_kagi",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/orionbrowser_com_65802c4710.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_orionbrowser_com_updates_versions_1_1_1faa0efb91",
       "target": "corpus_hackernews_orionbrowser_com_updates_versions_1_1_1faa0efb91_orion_1_1_for_macos_is_out_with_containers",
       "relation": "contains",
@@ -320897,6 +320991,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/torrentfreak_com_european-isps-want-rightsholders-held-accou_4e7e8684ff.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_torrentfreak_com_fifa_world_cup_triggers_a_global_anti_pirac_b9a83310b0",
+      "target": "corpus_hackernews_torrentfreak_com_fifa_world_cup_triggers_a_global_anti_pirac_b9a83310b0_fifa_world_cup_triggers_a_global_anti_piracy_crackdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/torrentfreak_com_fifa-world-cup-triggers-a-global-anti-pirac_b9a83310b0.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
