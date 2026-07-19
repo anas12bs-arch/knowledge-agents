@@ -259676,5 +259676,138 @@
       "visibility changes"
     ],
     "summary": "# Your scroll listener fires on every pixel. Detecting whether an element is in the viewport by listening to scroll events runs an expensive layout calculation on every frame. `IntersectionObserver` is the browser-native alternative — it fires only when visibility changes, off the main thread, with no scroll handler involved."
+  },
+  "7a7c21b6cc0693df": {
+    "file": "corpus/hackernews/qwen_ai_home_2096343346.md",
+    "source": "hackernews",
+    "title": "Qwen 3.8 Max",
+    "url": "https://qwen.ai/home",
+    "keywords": [
+      "qwen 3",
+      "qwen 3",
+      "8 max",
+      "8 max",
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Qwen 3.8 Max > Source: hackernews | Category: news | 2026-07-19T11:46:51Z Score: 9 | Comments: 0"
+  },
+  "8cba3d4ea050422c": {
+    "file": "corpus/hackernews/thepotato_tech_posts_i-put-my-son-in-a-swamp_3689e9e614.md",
+    "source": "hackernews",
+    "title": "I Put My Son in a Swamp",
+    "url": "https://thepotato.tech/posts/i-put-my-son-in-a-swamp/",
+    "keywords": [
+      "53z score",
+      "swamp",
+      "swamp",
+      "source",
+      "son",
+      "son",
+      "put",
+      "put",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# I Put My Son in a Swamp > Source: hackernews | Category: news | 2026-07-19T11:46:53Z Score: 6 | Comments: 0"
+  },
+  "d6658bb020ca4807": {
+    "file": "corpus/hackernews/www_pcgamer_com_hardware_steam-machines_valve-says-theres-no_2a106e6ced.md",
+    "source": "hackernews",
+    "title": "Valve say there's no end in sight to the memory crisis, prices going to increase",
+    "url": "https://www.pcgamer.com/hardware/steam-machines/valve-says-theres-no-end-in-sight-to-the-memory-crisis-and-prices-are-only-going-to-increase-honestly-its-still-getting-worse/",
+    "keywords": [
+      "valve say",
+      "valve say",
+      "prices going",
+      "prices going",
+      "memory crisis",
+      "memory crisis",
+      "57z score",
+      "source",
+      "sight",
+      "sight"
+    ],
+    "summary": "# Valve say there's no end in sight to the memory crisis, prices going to increase > Source: hackernews | Category: news | 2026-07-19T11:46:57Z Score: 19 | Comments: 0"
+  },
+  "3251210a28b51f38": {
+    "file": "corpus/hackernews/sgt_hootr_club_blog_home-server-rebirth_8400f2a50a.md",
+    "source": "hackernews",
+    "title": "The death and rebirth of my home server",
+    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "keywords": [
+      "home server",
+      "home server",
+      "54z score",
+      "source",
+      "rebirth",
+      "rebirth",
+      "news",
+      "hackernews",
+      "death",
+      "death"
+    ],
+    "summary": "# The death and rebirth of my home server > Source: hackernews | Category: news | 2026-07-19T11:46:54Z Score: 4 | Comments: 0"
+  },
+  "9c2a594f980ef52d": {
+    "file": "corpus/hackernews/chipweinberger_com_articles_20260719-hardware-is-not-so-hard_8d304728ca.md",
+    "source": "hackernews",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "keywords": [
+      "learned selling 2",
+      "learned selling 2",
+      "500 midi recorders",
+      "500 midi recorders",
+      "54z score",
+      "source",
+      "news",
+      "hardware",
+      "hardware",
+      "hard"
+    ],
+    "summary": "# What I learned selling 2,500 MIDI recorders: Hardware is not so hard > Source: hackernews | Category: news | 2026-07-19T11:46:54Z Score: 7 | Comments: 5"
+  },
+  "297e8b39f3dd9481": {
+    "file": "corpus/devto/dev_to_rockyyy_how-i-cut-my-claude-code-token-usage-by-70-an_ee7860382b.md",
+    "source": "devto",
+    "title": "How I Cut My Claude Code Token Usage by 70% (and Got Better Output)",
+    "url": "https://dev.to/rockyyy/how-i-cut-my-claude-code-token-usage-by-70-and-got-better-output-3ljo",
+    "keywords": [
+      "claude code token usage",
+      "claude code token usage",
+      "claude code usage",
+      "got better output",
+      "got better output",
+      "every session felt",
+      "months ago",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How I Cut My Claude Code Token Usage by 70% (and Got Better Output) > Source: devto | Category: news | 2026-07-19T11:47:00Z A few months ago I was burning through my Claude Code usage before lunch."
+  },
+  "26c643003ddcba85": {
+    "file": "corpus/devto/dev_to_zihanlei_building-a-real-time-multiplayer-poker-game-_bd4db6e828.md",
+    "source": "devto",
+    "title": "Building a Real-time, Multiplayer Poker Game: Phase 1 of 3",
+    "url": "https://dev.to/zihanlei/building-a-real-time-multiplayer-poker-game-phase-1-of-3-1gk4",
+    "keywords": [
+      "high school student ...",
+      "multiplayer poker game",
+      "multiplayer poker game",
+      "phase 1",
+      "phase 1",
+      "phase 1",
+      "00z building",
+      "building",
+      "building",
+      "time"
+    ],
+    "summary": "# Building a Real-time, Multiplayer Poker Game: Phase 1 of 3 > Source: devto | Category: news | 2026-07-19T11:47:00Z Building a Server‑Authoritative Poker Engine: Phase 1 of 3   I'm a high school student..."
   }
 }
