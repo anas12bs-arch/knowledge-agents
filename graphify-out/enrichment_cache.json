@@ -258338,5 +258338,706 @@
       "slow"
     ],
     "summary": "# Your Multi-Agent Pipeline Isn't Slow Because of the Model I run Suhail, my own Claude Code orchestrator, against real repos most days. The first time I timed a..."
+  },
+  "dfbf99265f29c09a": {
+    "file": "corpus/hackernews/chipsandcheese_com_p_scrying-the-amd-gfx1250-llvm-tea_2e49f38dd9.md",
+    "source": "hackernews",
+    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+    "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+    "keywords": [
+      "59z score",
+      "source",
+      "scrying",
+      "scrying",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Scrying the AMD GFX1250 LLVM Tea Leaves > Source: hackernews | Category: news | 2026-07-19T07:47:59Z Score: 15 | Comments: 0"
+  },
+  "667a23230f594b85": {
+    "file": "corpus/hackernews/supabase_com_blog_searchable-field-level-encryption-with-cip_4ba1637846.md",
+    "source": "hackernews",
+    "title": "Searchable field-level encryption on Supabase with CipherStash",
+    "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+    "keywords": [
+      "searchable field",
+      "searchable field",
+      "level encryption",
+      "level encryption",
+      "59z score",
+      "supabase",
+      "supabase",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Searchable field-level encryption on Supabase with CipherStash > Source: hackernews | Category: news | 2026-07-19T07:47:59Z Score: 29 | Comments: 5"
+  },
+  "07f0e533d7c0257e": {
+    "file": "corpus/hackernews/hjerpbakk_com_blog_2026_07_14_umami-for-apps_f924a2d9c6.md",
+    "source": "hackernews",
+    "title": "Using self-hosted Umami for iOS app analytics",
+    "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+    "keywords": [
+      "ios app analytics",
+      "ios app analytics",
+      "using self",
+      "using self",
+      "hosted umami",
+      "hosted umami",
+      "01z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Using self-hosted Umami for iOS app analytics > Source: hackernews | Category: news | 2026-07-19T07:48:01Z Score: 4 | Comments: 1"
+  },
+  "bb2b6c0b263ad986": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_cloudformation-express-mode_utm_c_686fdece23.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments",
+    "url": "https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "marking stack operations complete",
+      "reduce infrastructure deployment times",
+      "faster infrastructure deployments aws",
+      "faster infrastructure deployments",
+      "faster infrastructure deployments",
+      "full resource stabilization",
+      "deployment option",
+      "resource configuration",
+      "renato losio",
+      "waiting"
+    ],
+    "summary": "# [infoq] AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments AWS has recently introduced CloudFormation express mode, a deployment option that can reduce infrastructure deployment times by marking stack operations complete once resource configuration is applied, rather than waiting for full resource stabilization."
+  },
+  "52a230b8a930f780": {
+    "file": "corpus/devto/dev_to_shayesta_my-insights-on-what-working-at-big-tech-is-a_c3291efe8c.md",
+    "source": "devto",
+    "title": "My insights on What Working at Big Tech Is Actually Like",
+    "url": "https://dev.to/shayesta/my-insights-on-what-working-at-big-tech-is-actually-like-kgd",
+    "keywords": [
+      "side projects prepare",
+      "scale engineering looks",
+      "honest picture",
+      "big tech",
+      "big tech",
+      "actually like",
+      "actually like",
+      "working",
+      "working",
+      "source"
+    ],
+    "summary": "# My insights on What Working at Big Tech Is Actually Like The day-to-day of large-scale engineering looks very different from what school or side projects prepare you for. Here's the honest picture."
+  },
+  "280fc993507419de": {
+    "file": "corpus/devto/dev_to_tbson87_your-clients-schema-doesnt-belong-in-your-clo_dce960173d.md",
+    "source": "devto",
+    "title": "Your Client's Schema Doesn't Belong in Your Cloud Account",
+    "url": "https://dev.to/tbson87/your-clients-schema-doesnt-belong-in-your-cloud-account-e5g",
+    "keywords": [
+      "one workspace per client",
+      "engagement ends ....",
+      "local folders",
+      "erd tool",
+      "cloud account",
+      "cloud account",
+      "client work",
+      "client",
+      "client",
+      "stored"
+    ],
+    "summary": "# Your Client's Schema Doesn't Belong in Your Cloud Account > Source: devto | Category: news | 2026-07-19T07:48:07Z An ERD tool for consultants and client work: one workspace per client, stored as local folders you can hand over or delete when the engagement ends...."
+  },
+  "53b9468b4fabbc80": {
+    "file": "corpus/devto/dev_to_gde03_retrieval-augmented-self-recall-part-4-benchmar_3276c69faf.md",
+    "source": "devto",
+    "title": "Retrieval-Augmented Self-Recall — Part 4: Benchmarking Retrieval *and* Honesty",
+    "url": "https://dev.to/gde03/retrieval-augmented-self-recall-part-4-benchmarking-retrieval-and-honesty-aj3",
+    "keywords": [
+      "recall — part 4",
+      "recall — part 4",
+      "04z part 4",
+      "part 3",
+      "standard ...",
+      "augmented self",
+      "augmented self",
+      "augmented self",
+      "benchmarking retrieval",
+      "benchmarking retrieval"
+    ],
+    "summary": "# Retrieval-Augmented Self-Recall — Part 4: Benchmarking Retrieval *and* Honesty > Source: devto | Category: news | 2026-07-19T07:48:04Z Part 4 of Retrieval-Augmented Self-Recall."
+  },
+  "d6d93a751bf21e88": {
+    "file": "corpus/devto/dev_to_yashvardhan_thanvi_6762e7_building-llmslim-architectu_947e37c2d3.md",
+    "source": "devto",
+    "title": "Building LLMSlim: Architecture Deep-Dive into Deterministic Prompt Compression",
+    "url": "https://dev.to/yashvardhan_thanvi_6762e7/building-llmslim-architecture-deep-dive-into-deterministic-prompt-compression-2ip0",
+    "keywords": [
+      "prompt compression discussions focus",
+      "deterministic prompt compression",
+      "deterministic prompt compression",
+      "long rag context",
+      "happy path",
+      "building llmslim",
+      "building llmslim",
+      "architecture deep",
+      "architecture deep",
+      "trim"
+    ],
+    "summary": "# Building LLMSlim: Architecture Deep-Dive into Deterministic Prompt Compression > Source: devto | Category: news | 2026-07-19T07:48:06Z Most prompt compression discussions focus on the happy path: you have a long RAG context, you trim it..."
+  },
+  "066c787955336b23": {
+    "file": "corpus/devto/dev_to_prodevopsguytech_a-complete-guide-to-moonshots-new-28_345f01abda.md",
+    "source": "devto",
+    "title": "A Complete Guide to Moonshot's New 2.8T Flagship",
+    "url": "https://dev.to/prodevopsguytech/a-complete-guide-to-moonshots-new-28t-flagship-2lme",
+    "keywords": [
+      "kimi k3 actually",
+      "new 2",
+      "new 2",
+      "complete guide",
+      "complete guide",
+      "8t flagship",
+      "8t flagship",
+      "source",
+      "scale",
+      "reactions"
+    ],
+    "summary": "# A Complete Guide to Moonshot's New 2.8T Flagship > Source: devto | Category: news | 2026-07-19T07:48:05Z By the end of this article, you'll know:   what Kimi K3 actually is, the architecture, the scale, and..."
+  },
+  "dac2466a6cbc731a": {
+    "file": "corpus/devto/dev_to_huangchihhungleo_your-llm-cant-actually-watch-video-h_279e24e431.md",
+    "source": "devto",
+    "title": "Your LLM can't actually watch video. Here's the smallest fix (MIT)",
+    "url": "https://dev.to/huangchihhungleo/your-llm-cant-actually-watch-video-heres-the-smallest-fix-mit-2igp",
+    "keywords": [
+      "real video file",
+      "actually watch video",
+      "actually watch video",
+      "smallest fix",
+      "smallest fix",
+      "multimodal \".",
+      "source",
+      "reactions",
+      "news",
+      "model"
+    ],
+    "summary": "# Your LLM can't actually watch video. Here's the smallest fix (MIT) Then you hand the model a real video file and discover what that..."
+  },
+  "cbd9db774ef422cf": {
+    "file": "corpus/devto/dev_to_pool_guard_603fe0cb4809a4_building-a-self-healing-git_47825d8abc.md",
+    "source": "devto",
+    "title": "Building a Self-Healing GitHub Trending API in One Day",
+    "url": "https://dev.to/pool_guard_603fe0cb4809a4/building-a-self-healing-github-trending-api-in-one-day-1h9i",
+    "keywords": [
+      "healing github trending api",
+      "healing github trending api",
+      "problem github",
+      "one day",
+      "one day",
+      "source",
+      "source",
+      "self",
+      "self",
+      "refuse"
+    ],
+    "summary": "# Building a Self-Healing GitHub Trending API in One Day > Source: devto | Category: news | 2026-07-19T07:48:06Z What happens when you refuse to accept \"the source is down\" as an answer."
+  },
+  "c6db022dd60ed63d": {
+    "file": "corpus/devto/dev_to_savaid_khan_18d9f0b0c7dae_how-to-scan-your-codebase-f_0e981e2962.md",
+    "source": "devto",
+    "title": "How to Scan Your Codebase for Quantum-Vulnerable Cryptography (Free Open Source Tool)",
+    "url": "https://dev.to/savaid_khan_18d9f0b0c7dae/how-to-scan-your-codebase-for-quantum-vulnerable-cryptography-free-open-source-tool-3d04",
+    "keywords": [
+      "free open source tool",
+      "free open source tool",
+      "quantum computers ....",
+      "codebase uses rsa",
+      "vulnerable cryptography",
+      "vulnerable cryptography",
+      "already vulnerable",
+      "source",
+      "quantum",
+      "quantum"
+    ],
+    "summary": "# How to Scan Your Codebase for Quantum-Vulnerable Cryptography (Free Open Source Tool) > Source: devto | Category: news | 2026-07-19T07:48:08Z If your codebase uses RSA, ECC, DSA, or ECDSA, it is already vulnerable to quantum computers...."
+  },
+  "07b8f0bc6d794b3e": {
+    "file": "corpus/devto/dev_to_shubham399_how-i-built-a-personal-ai-assistant-that-l_4e6af82255.md",
+    "source": "devto",
+    "title": "How I Built a Personal AI Assistant That Lives in Telegram",
+    "url": "https://dev.to/shubham399/how-i-built-a-personal-ai-assistant-that-lives-in-telegram-1j8o",
+    "keywords": [
+      "personal ai assistant",
+      "personal ai assistant",
+      "personal ai agent",
+      "telegram using bun",
+      "injection defenses",
+      "conversation memory",
+      "04z build",
+      "telegram",
+      "telegram",
+      "zero"
+    ],
+    "summary": "# How I Built a Personal AI Assistant That Lives in Telegram Build a personal AI agent in Telegram using Bun, Telegraf, SQLite, and Composio. Zero-infrastructure with conversation memory and prompt-injection defenses."
+  },
+  "e70f483843b07b1b": {
+    "file": "corpus/devto/dev_to_mjodeh_why-faster-typing-rarely-produces-faster-deliv_7a7bbeffe2.md",
+    "source": "devto",
+    "title": "Why faster typing rarely produces faster delivery",
+    "url": "https://dev.to/mjodeh/why-faster-typing-rarely-produces-faster-delivery-2863",
+    "keywords": [
+      "three tuesdays later",
+      "happened ...",
+      "developer finishes",
+      "customer sees",
+      "tuesday",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "change"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-19T07:48:04Z A developer finishes the change on Tuesday. The customer sees it three Tuesdays later."
+  },
+  "bfced532059a0625": {
+    "file": "corpus/devto/dev_to_flarecanary_jiras-agile-api-drops-offset-pagination-o_e20d7a9d7d.md",
+    "source": "devto",
+    "title": "Jira's agile API drops offset pagination on November 1, 2026 — three ways your board and sprint syncs silently truncate",
+    "url": "https://dev.to/flarecanary/jiras-agile-api-drops-offset-pagination-on-november-1-2026-three-ways-your-board-and-sprint-1fjg",
+    "keywords": [
+      "sprint syncs silently truncate",
+      "sprint syncs silently truncate",
+      "2026 — three ways",
+      "2026 — three ways",
+      "jira —",
+      "sync data",
+      "report dashboard",
+      "november 1",
+      "november 1",
+      "sprint"
+    ],
+    "summary": "# Jira's agile API drops offset pagination on November 1, 2026 — three ways your board and sprint syncs silently truncate > Source: devto | Category: news | 2026-07-19T07:48:07Z If you sync data out of Jira — a sprint-report dashboard, a Snowflake warehouse pulling issue..."
+  },
+  "1ac088650c2a6b63": {
+    "file": "corpus/devto/dev_to_le_beltagy_kubernetes-for-solo-developers-stop-overth_bd426ea7cb.md",
+    "source": "devto",
+    "title": "Kubernetes for Solo Developers: Stop Overthinking It (And Start Using It)",
+    "url": "https://dev.to/le_beltagy/kubernetes-for-solo-developers-stop-overthinking-it-and-start-using-it-3m1e",
+    "keywords": [
+      "stop overthinking",
+      "stop overthinking",
+      "stop overthinking",
+      "start using",
+      "start using",
+      "start using",
+      "solo developers",
+      "solo developers",
+      "solo developers",
+      "solo ..."
+    ],
+    "summary": "# Kubernetes for Solo Developers: Stop Overthinking It (And Start Using It) > Source: devto | Category: news | 2026-07-19T07:48:07Z Kubernetes for Solo Developers: Stop Overthinking It (And Start Using It)   Why a solo..."
+  },
+  "aa97552de2e4e4e7": {
+    "file": "corpus/devto/dev_to_stanleya_wordpress-702-patching-an-unauthenticated-rc_dfeb77064c.md",
+    "source": "devto",
+    "title": "WordPress 7.0.2 — Patching an Unauthenticated RCE Chain Right Now",
+    "url": "https://dev.to/stanleya/wordpress-702-patching-an-unauthenticated-rce-chain-right-now-3j9a",
+    "keywords": [
+      "two vulnerabilities — cve",
+      "unauthenticated rce chain right",
+      "unauthenticated rce chain right",
+      "2 — patching",
+      "2 — patching",
+      "wordpress dropped 7",
+      "wordpress 7",
+      "wordpress 7",
+      "july 17",
+      "60137 ..."
+    ],
+    "summary": "# WordPress 7.0.2 — Patching an Unauthenticated RCE Chain Right Now > Source: devto | Category: news | 2026-07-19T07:48:07Z On July 17, 2026, WordPress dropped 7.0.2 to patch a chain of two vulnerabilities — CVE-2026-60137..."
+  },
+  "bd0c55f514fc4599": {
+    "file": "corpus/devto/dev_to_greatsage_sh_grading-free-form-japanese-answers-with-_3cf95f70bf.md",
+    "source": "devto",
+    "title": "Grading free-form Japanese answers with an LLM: Django + pydantic-ai",
+    "url": "https://dev.to/greatsage_sh/grading-free-form-japanese-answers-with-an-llm-django-pydantic-ai-5g5h",
+    "keywords": [
+      "form japanese answers",
+      "form japanese answers",
+      "kept bugging",
+      "grading free",
+      "grading free",
+      "every ...",
+      "cycle ),",
+      "thing",
+      "studying",
+      "source"
+    ],
+    "summary": "# Grading free-form Japanese answers with an LLM: Django + pydantic-ai > Source: devto | Category: news | 2026-07-19T07:48:06Z I'm studying for the JLPT (aiming for N2 this cycle), and the thing that kept bugging me about every..."
+  },
+  "acbe830ec3faf1c2": {
+    "file": "corpus/devto/dev_to_toothbrush_rest-api-design-best-practices-a-practical_f732be981e.md",
+    "source": "devto",
+    "title": "REST API Design Best Practices: A Practical Guide for 2026",
+    "url": "https://dev.to/toothbrush/rest-api-design-best-practices-a-practical-guide-for-2026-2eb0",
+    "keywords": [
+      "rate limiting",
+      "production apis",
+      "practical guide",
+      "practical guide",
+      "error handling",
+      "versioning",
+      "source",
+      "reactions",
+      "pagination",
+      "news"
+    ],
+    "summary": "# REST API Design Best Practices: A Practical Guide for 2026 > Source: devto | Category: news | 2026-07-19T07:48:07Z REST API design best practices with real code examples — naming conventions, pagination, error handling, versioning, rate limiting, and HATEOAS for production APIs in 2026."
+  },
+  "8e55d74f689eea96": {
+    "file": "corpus/devto/dev_to_juandastic_i-built-an-ai-app-eight-months-later-it-be_81c097e941.md",
+    "source": "devto",
+    "title": "I Built an AI App. Eight Months Later, It Became a Skill",
+    "url": "https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn",
+    "keywords": [
+      "eight months later",
+      "eight months later",
+      "python ...",
+      "november 2025",
+      "full application",
+      "first wrote",
+      "ai app",
+      "ai app",
+      "source",
+      "skill"
+    ],
+    "summary": "# I Built an AI App. Eight Months Later, It Became a Skill When I first wrote about NutriAgent in November 2025, it was a full application."
+  },
+  "83abde3d364ae8e7": {
+    "file": "corpus/devto/dev_to_aman_raj_960_from-classroom-to-code-my-journey-as-a-s_c6e3337884.md",
+    "source": "devto",
+    "title": "From Classroom to Code: My Journey as a Student Developer",
+    "url": "https://dev.to/aman_raj_960/from-classroom-to-code-my-journey-as-a-student-developer-4426",
+    "keywords": [
+      "student developer",
+      "student developer",
+      "straight line",
+      "software developer",
+      "journey ...",
+      "journey",
+      "journey",
+      "source",
+      "reactions",
+      "path"
+    ],
+    "summary": "# From Classroom to Code: My Journey as a Student Developer The path to becoming a software developer isn't always a straight line. For me, it has been a journey..."
+  },
+  "4a8609b0e840d5b8": {
+    "file": "corpus/devto/dev_to_turtleand_were-hiring-a-foundational-engineer-the-com_1564ff7306.md",
+    "source": "devto",
+    "title": "We're Hiring a Foundational Engineer. The Company Is Fake. The Work Is Not.",
+    "url": "https://dev.to/turtleand/were-hiring-a-foundational-engineer-the-company-is-fake-the-work-is-not-3jpd",
+    "keywords": [
+      "07z fictional job post",
+      "foundational engineer",
+      "foundational engineer",
+      "aster loop",
+      "invented company",
+      "company",
+      "company",
+      "work",
+      "work",
+      "source"
+    ],
+    "summary": "# We're Hiring a Foundational Engineer. > Source: devto | Category: news | 2026-07-19T07:48:07Z Fictional job post: Aster Loop is an invented company, and this opening does not exist."
+  },
+  "9c0aeebdaca469a1": {
+    "file": "corpus/devto/dev_to_fromzerotoship_17-none-of-it-was-for-me-a-year-of-bui_9badece6ed.md",
+    "source": "devto",
+    "title": "#17 None of It Was for Me: A Year of Building With AI",
+    "url": "https://dev.to/fromzerotoship/17-none-of-it-was-for-me-a-year-of-building-with-ai-32kf",
+    "keywords": [
+      "noticed something ...",
+      "two tools",
+      "one day",
+      "17 none",
+      "17 none",
+      "year",
+      "year",
+      "year",
+      "twenty",
+      "source"
+    ],
+    "summary": "# #17 None of It Was for Me: A Year of Building With AI I laid them all out one day. Twenty-two tools I had built over a year."
+  },
+  "fdd53e0913ac4744": {
+    "file": "corpus/devto/dev_to_ratiotech_how-to-scrape-ashby-job-listings-with-salar_2bcebd687c.md",
+    "source": "devto",
+    "title": "How to Scrape Ashby Job Listings (With Salary Ranges) to JSON",
+    "url": "https://dev.to/ratiotech/how-to-scrape-ashby-job-listings-with-salary-ranges-to-json-4en3",
+    "keywords": [
+      "scrape ashby job listings",
+      "scrape ashby job listings",
+      "market research ,...",
+      "job board",
+      "salary ranges",
+      "salary ranges",
+      "running labor",
+      "compensation benchmarking",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How to Scrape Ashby Job Listings (With Salary Ranges) to JSON > Source: devto | Category: news | 2026-07-19T07:48:07Z If you're building a job board, doing compensation benchmarking, or running labor-market research,..."
+  },
+  "ec35b419b34e518c": {
+    "file": "corpus/devto/dev_to_jjoyneriv_opentofu-vs-terraform-in-2026-what-actually_82793979bb.md",
+    "source": "devto",
+    "title": "OpenTofu vs Terraform in 2026: What Actually Changed",
+    "url": "https://dev.to/jjoyneriv/opentofu-vs-terraform-in-2026-what-actually-changed-2do7",
+    "keywords": [
+      "opentofu across production infra",
+      "opentofu vs terraform",
+      "opentofu vs terraform",
+      "number ...",
+      "actually changed",
+      "actually changed",
+      "terraform",
+      "source",
+      "running",
+      "reactions"
+    ],
+    "summary": "# OpenTofu vs Terraform in 2026: What Actually Changed > Source: devto | Category: news | 2026-07-19T07:48:07Z I've been running both Terraform and OpenTofu across production infra for a while now, and the number..."
+  },
+  "e88c14116276f48d": {
+    "file": "corpus/devto/dev_to_taheera04_why-intellectual-property-matters-to-softwa_935781082b.md",
+    "source": "devto",
+    "title": "Why Intellectual Property Matters to Software Engineers: Key Takeaways from Zone01 Kisumu",
+    "url": "https://dev.to/taheera04/why-intellectual-property-matters-to-software-engineers-key-takeaways-from-zone01-kisumu-35hp",
+    "keywords": [
+      "intellectual property matters",
+      "intellectual property matters",
+      "zone01 kisumu",
+      "zone01 kisumu",
+      "time thinking",
+      "software engineers",
+      "software engineers",
+      "runtime complexity",
+      "key takeaways",
+      "key takeaways"
+    ],
+    "summary": "# Why Intellectual Property Matters to Software Engineers: Key Takeaways from Zone01 Kisumu > Source: devto | Category: news | 2026-07-19T07:48:07Z As developers, we spend most of our time thinking about runtime complexity, clean architecture, and..."
+  },
+  "cd77e1258fbcfc09": {
+    "file": "corpus/devto/dev_to_elon_zuckerman_bc59ff99f3_i-got-tired-of-remote-meani_30a3add486.md",
+    "source": "devto",
+    "title": "I got tired of 'remote' meaning 'remote, US only', so I counted 2,798 companies",
+    "url": "https://dev.to/elon_zuckerman_bc59ff99f3/i-got-tired-of-remote-meaning-remote-us-only-so-i-counted-2798-companies-26k2",
+    "keywords": [
+      "went looking",
+      "thing ...",
+      "got tired",
+      "got tired",
+      "every time",
+      "counted 2",
+      "counted 2",
+      "798 companies",
+      "798 companies",
+      "remote job"
+    ],
+    "summary": "# I got tired of \"remote\" meaning \"remote, US only\", so I counted 2,798 companies > Source: devto | Category: news | 2026-07-19T07:48:07Z Every time I went looking for a remote job the same thing..."
+  },
+  "887383a57897b743": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-ai-commit-script-and-my-mcp-tool-run_58114cdd62.md",
+    "source": "devto",
+    "title": "My AI Commit Script and My MCP Tool Run the Exact Same Code. Only One of Them Is Agentic.",
+    "url": "https://dev.to/enjoy_kumawat/my-ai-commit-script-and-my-mcp-tool-run-the-exact-same-code-only-one-of-them-is-agentic-b50",
+    "keywords": [
+      "mcp tool run",
+      "mcp tool run",
+      "ai commit script",
+      "ai commit script",
+      "line script",
+      "commit message",
+      "two ways",
+      "source",
+      "repo",
+      "reactions"
+    ],
+    "summary": "# My AI Commit Script and My MCP Tool Run the Exact Same Code. Only One of Them Is Agentic. I have two ways to generate a commit message in this repo."
+  },
+  "ca1beac97c476635": {
+    "file": "corpus/devto/dev_to_lukasz_tarczyluk_when-you-inherit-software-that-can-n_01648e6f47.md",
+    "source": "devto",
+    "title": "When You Inherit Software That Can No Longer Be Built",
+    "url": "https://dev.to/lukasz_tarczyluk/when-you-inherit-software-that-can-no-longer-be-built-1nka",
+    "keywords": [
+      "simple question",
+      "particular kind",
+      "inherit software",
+      "inherit software",
+      "source",
+      "silence",
+      "room",
+      "reactions",
+      "news",
+      "longer"
+    ],
+    "summary": "# When You Inherit Software That Can No Longer Be Built > Source: devto | Category: news | 2026-07-19T07:48:07Z There is a particular kind of silence that falls over a room when you ask a simple question and..."
+  },
+  "d8eb4de46cd7aca7": {
+    "file": "corpus/devto/dev_to_hexisteme_verify-the-output-surface-how-19-green-test_0d784a41f1.md",
+    "source": "devto",
+    "title": "Verify the Output Surface: How 19 Green Tests Shipped Nine Broken Titles for Nine Days",
+    "url": "https://dev.to/hexisteme/verify-the-output-surface-how-19-green-tests-shipped-nine-broken-titles-for-nine-days-1a7n",
+    "keywords": [
+      "matter quotes literally visible",
+      "19 green gate tests",
+      "still published nine articles",
+      "tests pass",
+      "nine days",
+      "nine days",
+      "nine days",
+      "live title",
+      "different claims",
+      "crosspost pipeline"
+    ],
+    "summary": "# Verify the Output Surface: How 19 Green Tests Shipped Nine Broken Titles for Nine Days A dev.to crosspost pipeline had 19 green gate tests and still published nine articles with the front-matter quotes literally visible in the live title, for nine days, undetected. The postmortem on why \"tests pass\" and \"the output is correct\" are different claims."
+  },
+  "b55912347d8de78d": {
+    "file": "corpus/devto/dev_to_productimpossible_you-dont-need-an-observability-stac_2a2950952f.md",
+    "source": "devto",
+    "title": "You don't need an observability stack yet",
+    "url": "https://dev.to/productimpossible/you-dont-need-an-observability-stack-yet-n0",
+    "keywords": [
+      "question gets asked",
+      "observability stack yet",
+      "observability stack yet",
+      "selfhosted every",
+      "node every",
+      "hacker ...",
+      "weeks",
+      "source",
+      "reactions"
+    ],
+    "summary": "# You don't need an observability stack yet > Source: devto | Category: news | 2026-07-19T07:48:07Z The question gets asked on r/node every few months, on r/selfhosted every few weeks, and on Hacker..."
+  },
+  "621523e8324e73bc": {
+    "file": "corpus/devto/dev_to_gde03_retrieval-augmented-self-recall-part-3-teaching_af9bab7278.md",
+    "source": "devto",
+    "title": "Retrieval-Augmented Self-Recall — Part 3: Teaching RAG to Say \\'I Don't Know\\",
+    "url": "https://dev.to/gde03/retrieval-augmented-self-recall-part-3-teaching-rag-to-say-i-dont-know-28no",
+    "keywords": [
+      "recall — part 3",
+      "recall — part 3",
+      "04z part 3",
+      "part 2",
+      "teaching rag",
+      "teaching rag",
+      "say \\'",
+      "say \\\"",
+      "augmented self",
+      "augmented self"
+    ],
+    "summary": "# Retrieval-Augmented Self-Recall — Part 3: Teaching RAG to Say \\\"I Don't Know\\ Part 3 of Retrieval-Augmented Self-Recall. Part 2: hybrid retrieval on..."
+  },
+  "6261d979f61bc4da": {
+    "file": "corpus/devto/dev_to_kanishga_subramani_49ad73_day-84-explain-pretty1-and-_242fade115.md",
+    "source": "devto",
+    "title": "Day 84: EXPLAIN `pretty=1` and `compact=1` in ClickHouse® 26.3",
+    "url": "https://dev.to/kanishga_subramani_49ad73/day-84-explain-pretty1-and-compact1-in-clickhouser-263-4en1",
+    "keywords": [
+      "clickhouse ® 26",
+      "clickhouse ® 26",
+      "always insufficient hardware",
+      "root cause",
+      "day 84",
+      "day 84",
+      "source",
+      "reactions",
+      "pretty",
+      "pretty"
+    ],
+    "summary": "# Day 84: EXPLAIN `pretty=1` and `compact=1` in ClickHouse® 26.3 > Source: devto | Category: news | 2026-07-19T07:48:07Z When a ClickHouse® query runs slowly, the root cause is not always insufficient hardware or an..."
+  },
+  "6915eb04c0decc77": {
+    "file": "corpus/devto/dev_to_adgapar_riding-the-wave-of-ai-303m_e94e445508.md",
+    "source": "devto",
+    "title": "riding the wave of ai",
+    "url": "https://dev.to/adgapar/riding-the-wave-of-ai-303m",
+    "keywords": [
+      "coding interviews happened",
+      "marker ...",
+      "whiteboard",
+      "wave",
+      "wave",
+      "source",
+      "riding",
+      "riding",
+      "remember",
+      "reactions"
+    ],
+    "summary": "# riding the wave of ai > Source: devto | Category: news | 2026-07-19T07:48:07Z I remember when coding interviews happened at a whiteboard, no computer, no internet, just a marker..."
+  },
+  "dfb4daec6e406e10": {
+    "file": "corpus/devto/dev_to_mjmirza_i-was-hired-before-i-could-speak-german-and-t_35d72c5dda.md",
+    "source": "devto",
+    "title": "I was hired before I could speak German, and that CV would be filtered out today",
+    "url": "https://dev.to/mjmirza/i-was-hired-before-i-could-speak-german-and-that-cv-would-be-filtered-out-today-lah",
+    "keywords": [
+      "could speak german",
+      "could speak german",
+      "room ...",
+      "order bread",
+      "good enough",
+      "good enough",
+      "cv would",
+      "cv would",
+      "german",
+      "today"
+    ],
+    "summary": "# I was hired before I could speak German, and that CV would be filtered out today My German was good enough to order bread. It was not good enough to defend an idea."
+  },
+  "fd4faa4a0ad2aa1f": {
+    "file": "corpus/devto/dev_to_yashvardhan_thanvi_6762e7_why-your-llm-pipeline-is-bu_4f39f81a46.md",
+    "source": "devto",
+    "title": "Why Your LLM Pipeline Is Burning 60% of Its Token Budget on Noise (and How to Fix It)",
+    "url": "https://dev.to/yashvardhan_thanvi_6762e7/why-your-llm-pipeline-is-burning-60-of-its-token-budget-on-noise-and-how-to-fix-it-27gp",
+    "keywords": [
+      "token budget",
+      "token budget",
+      "rag pipelines",
+      "llm pipeline",
+      "llm pipeline",
+      "k ...",
+      "burning 60",
+      "burning 60",
+      "top",
+      "source"
+    ],
+    "summary": "# Why Your LLM Pipeline Is Burning 60% of Its Token Budget on Noise (and How to Fix It) I run a lot of RAG pipelines. And for a while, I was doing what most people do: retrieve the top-k..."
+  },
+  "48df5e0d5e401f38": {
+    "file": "corpus/devto/dev_to_darkmaster0345_i-scanned-gitlabs-source-code-and-foun_4ac7efe936.md",
+    "source": "devto",
+    "title": "I scanned GitLab's source code and found 2,449 undocumented API routes",
+    "url": "https://dev.to/darkmaster0345/i-scanned-gitlabs-source-code-and-found-2449-undocumented-api-routes-3l0c",
+    "keywords": [
+      "449 undocumented api routes",
+      "449 undocumented api routes",
+      "static analysis tool",
+      "08z last week",
+      "public source code",
+      "449 ...",
+      "source code",
+      "source code",
+      "found 2",
+      "found 2"
+    ],
+    "summary": "# I scanned GitLab's source code and found 2,449 undocumented API routes > Source: devto | Category: news | 2026-07-19T07:48:08Z Last week I pointed a static analysis tool I built at GitLab's public source code."
   }
 }
