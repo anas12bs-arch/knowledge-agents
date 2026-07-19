@@ -261058,5 +261058,155 @@
       "coverage one"
     ],
     "summary": "# Stop Judging Every Run: Eval Sampling Is a Budget Decision, Not a Coverage One > Source: devto | Category: news | 2026-07-19T17:12:17Z There's a slide in every \"LLM eval platform\" pitch deck that says: score every response, catch every..."
+  },
+  "a1bf631f66a5eb08": {
+    "file": "corpus/hackernews/www_thedrive_com_news_how-texas-police-spent-4-5-million-on-_931332f71a.md",
+    "source": "hackernews",
+    "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+    "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+    "keywords": [
+      "texas police spent",
+      "texas police spent",
+      "four chevy tahoes",
+      "four chevy tahoes",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Texas Police Spent $4.5M on Four Chevy Tahoes > Source: hackernews | Category: news | 2026-07-19T18:06:50Z Score: 24 | Comments: 2"
+  },
+  "fc223b6008c37313": {
+    "file": "corpus/hackernews/www_hmd_com_en_int_hmd-touch-4g_4d38b0d0ef.md",
+    "source": "hackernews",
+    "title": "HMD Touch 4G",
+    "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+    "keywords": [
+      "hmd touch 4g",
+      "hmd touch 4g",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "19t18"
+    ],
+    "summary": "# HMD Touch 4G > Source: hackernews | Category: news | 2026-07-19T18:06:48Z Score: 16 | Comments: 12"
+  },
+  "f574031156864b3d": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_48968606_7a5ada317d.md",
+    "source": "hackernews",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "url": "https://news.ycombinator.com/item?id=48968606",
+    "keywords": [
+      "running slightly different firmware",
+      "raspberry pi lane computer",
+      "absurdly expensive .< p",
+      "120k bowling center system",
+      "120k bowling center system",
+      "r desert .< p",
+      "80 -$ 120k",
+      "lane bowling center",
+      "200 per lane",
+      "upset .< p"
+    ],
+    "summary": "It&#x27;s a more in-depth gig than you&#x27;d think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. I&#x27;m upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I&#x27;ve built an equivalent prototype for about $200 per lane-pair, $400 if you&#x27;re fancy. From there it&#x27;s event streaming: RX packets get translated and"
+  },
+  "1ae7f0728d1b3328": {
+    "file": "corpus/hackernews/sebsite_pw_w_20260708-badstdcxx_html_faa9d1b4d9.md",
+    "source": "hackernews",
+    "title": "Neither GCC nor Clang are compliant with standard C++",
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "keywords": [
+      "standard c ++",
+      "standard c ++",
+      "neither gcc",
+      "neither gcc",
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "compliant",
+      "compliant"
+    ],
+    "summary": "# Neither GCC nor Clang are compliant with standard C++ > Source: hackernews | Category: news | 2026-07-19T18:06:51Z Score: 4 | Comments: 0"
+  },
+  "2535405208429943": {
+    "file": "corpus/hackernews/twitter_com_kimi_moonshot_status_2078855608565207130_88d1139971.md",
+    "source": "hackernews",
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "keywords": [
+      "kimi k3 demand",
+      "kimi k3 demand",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Moonshot AI suspends new subscriptions due to Kimi K3 demand > Source: hackernews | Category: news | 2026-07-19T18:06:50Z Score: 28 | Comments: 4"
+  },
+  "c700c9a0f3b38dee": {
+    "file": "corpus/devto/dev_to_votiakov_stop-parsing-html-to-get-product-data-the-js_a67994e25c.md",
+    "source": "devto",
+    "title": "Stop parsing HTML to get product data — the JSON is already in the page",
+    "url": "https://dev.to/votiakov/stop-parsing-html-to-get-product-data-the-json-is-already-in-the-page-51ob",
+    "keywords": [
+      "get product data —",
+      "get product data —",
+      "stop parsing html",
+      "stop parsing html",
+      "54z css selectors",
+      "rendered product page",
+      "marketing ships",
+      "look fine",
+      "page",
+      "page"
+    ],
+    "summary": "# Stop parsing HTML to get product data — the JSON is already in the page CSS selectors against a rendered product page are a trap. They look fine until marketing ships a..."
+  },
+  "975ea00ec86c0809": {
+    "file": "corpus/devto/dev_to_votiakov_most-company-job-boards-are-just-a-public-js_abbb46bb89.md",
+    "source": "devto",
+    "title": "Most company job boards are just a public JSON API you can GET",
+    "url": "https://dev.to/votiakov/most-company-job-boards-are-just-a-public-json-api-you-can-get-55g3",
+    "keywords": [
+      "public json api",
+      "public json api",
+      "company job boards",
+      "company job boards",
+      "headless browser",
+      "careers page",
+      "afternoon trying",
+      "spent",
+      "source",
+      "scrape"
+    ],
+    "summary": "# Most company job boards are just a public JSON API you can GET > Source: devto | Category: news | 2026-07-19T18:06:54Z I spent an afternoon trying to scrape a careers page with a headless browser before I noticed the..."
+  },
+  "801ae2ad2af1e72b": {
+    "file": "corpus/devto/dev_to_fromzerotoship_18-six-rules-i-learned-from-a-year-of-_22691aa4a5.md",
+    "source": "devto",
+    "title": "#18 Six Rules I Learned From a Year of Working With AI",
+    "url": "https://dev.to/fromzerotoship/18-six-rules-i-learned-from-a-year-of-working-with-ai-47b7",
+    "keywords": [
+      "56z every post",
+      "18 six rules",
+      "18 six rules",
+      "started asking",
+      "plainer ...",
+      "year",
+      "year",
+      "working",
+      "working",
+      "story"
+    ],
+    "summary": "# #18 Six Rules I Learned From a Year of Working With AI Every post so far has been a story. People have started asking me a plainer..."
   }
 }
