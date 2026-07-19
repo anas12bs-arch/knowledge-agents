@@ -260227,5 +260227,326 @@
       "got tired"
     ],
     "summary": "# I built a Postgres migration linter that simulates your migration instead of pattern-matching SQL > Source: devto | Category: news | 2026-07-19T14:09:11Z I got tired of migration linters that just grep for scary keywords."
+  },
+  "d4b4f8f1ff161a5d": {
+    "file": "corpus/sales/www_saastr_com_what-a-great-vp-sales-does-in-their-first-wee_edc83b6d31.md",
+    "source": "sales",
+    "title": "[saastr] What a Great VP Sales Does In Their First Week. Watch For It.",
+    "url": "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
+    "keywords": [
+      "know within 30 days",
+      "... continue reading",
+      "great vp sales",
+      "great vp sales",
+      "great vp sales",
+      "day 30",
+      "90 days",
+      "vp right",
+      "paying attention",
+      "first week"
+    ],
+    "summary": "# [saastr] What a Great VP Sales Does In Their First Week. What a Great VP Sales Does In Their First Week. One of the most controversial things I&#8217;ve said over the years on SaaStr is: You know within 30 days if you hired a VP right."
+  },
+  "1926b91b92addfed": {
+    "file": "corpus/hackernews/land-atlas-production_up_railway_app_welcome_ce478eff0b.md",
+    "source": "hackernews",
+    "title": "Land Atlas – soil, farmability, and crop analysis for land listings",
+    "url": "https://land-atlas-production.up.railway.app/welcome",
+    "keywords": [
+      "land atlas – soil",
+      "land atlas – soil",
+      "land listings",
+      "land listings",
+      "crop analysis",
+      "crop analysis",
+      "56z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Land Atlas – soil, farmability, and crop analysis for land listings > Source: hackernews | Category: news | 2026-07-19T15:10:56Z Score: 10 | Comments: 1"
+  },
+  "10b385050f6faea2": {
+    "file": "corpus/hackernews/theconvivialsociety_substack_com_p_what-did-we-lose-when-we-_efd0c2e204.md",
+    "source": "hackernews",
+    "title": "What Did We Lose When We Lost the Stars",
+    "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the-c3b",
+    "keywords": [
+      "03z score",
+      "stars",
+      "stars",
+      "source",
+      "news",
+      "lost",
+      "lost",
+      "lose",
+      "lose",
+      "hackernews"
+    ],
+    "summary": "# What Did We Lose When We Lost the Stars > Source: hackernews | Category: news | 2026-07-19T15:11:03Z Score: 4 | Comments: 1"
+  },
+  "6ddc5e7b4dcac6ee": {
+    "file": "corpus/hackernews/www_tomshardware_com_networking_clever-hacker-fits-537-000-d_9fe7bc588b.md",
+    "source": "hackernews",
+    "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+    "keywords": [
+      "clever hacker fits 537",
+      "clever hacker fits 537",
+      "5 esp32 ad",
+      "5 esp32 ad",
+      "blocking dongle",
+      "blocking dongle",
+      "59z score",
+      "000 domains",
+      "000 domains",
+      "source"
+    ],
+    "summary": "# Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle > Source: hackernews | Category: news | 2026-07-19T15:10:59Z Score: 6 | Comments: 1"
+  },
+  "90384040abfd491b": {
+    "file": "corpus/hackernews/claude_com_blog_ai-code-migration_ec3d361c5b.md",
+    "source": "hackernews",
+    "title": "Anthropic runs large-scale code migrations with Claude Code",
+    "url": "https://claude.com/blog/ai-code-migration",
+    "keywords": [
+      "anthropic runs large",
+      "anthropic runs large",
+      "scale code migrations",
+      "scale code migrations",
+      "claude code",
+      "claude code",
+      "59z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Anthropic runs large-scale code migrations with Claude Code > Source: hackernews | Category: news | 2026-07-19T15:10:59Z Score: 8 | Comments: 2"
+  },
+  "48d9eaec7f9f3a5c": {
+    "file": "corpus/security/thehackernews_com_2026_07_sonicwall-sma-zero-days-exploited__ef3919eea1.md",
+    "source": "security",
+    "title": "[hacker-news-sec] SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+    "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+    "keywords": [
+      "previously undocumented threat actor",
+      "incident response investigation earlier",
+      "1000 series vpn appliances",
+      "54z sonicwall sma zero",
+      "gain root access",
+      "gain root access",
+      "gain root access",
+      "cybersecurity company volexity",
+      "sonicwall sma zero",
+      "sonicwall sma zero"
+    ],
+    "summary": "# [hacker-news-sec] SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. The discovery was made following an incident response investigation earlier this"
+  },
+  "46ea0286c244728f": {
+    "file": "corpus/security/thehackernews_com_2026_07_uac-0145-uses-clickfix-captchas-to_3eace55fa6.md",
+    "source": "security",
+    "title": "[hacker-news-sec] UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+    "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+    "keywords": [
+      "computer emergency response team",
+      "advanced hacking unit affiliated",
+      "0145 uses clickfix captchas",
+      "0145 uses clickfix captchas",
+      "0145 uses clickfix captchas",
+      "infamous clickfix strategy",
+      "trick ukrainian targets",
+      "sponsored threat actors",
+      "cluster within sandworm",
+      "ua ),"
+    ],
+    "summary": "# [hacker-news-sec] UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's"
+  },
+  "cf4335dcf32d2912": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-abuse-vipnet-_32a7886bc9.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers abuse ViPNet software to target Russian govt agencies",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+    "keywords": [
+      "hackers abuse vipnet software",
+      "hackers abuse vipnet software",
+      "target russian govt agencies",
+      "target russian govt agencies",
+      "target russian govt agencies",
+      "target russian organizations",
+      "including government agencies",
+      "advanced threat actor",
+      "update mechanism",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] Hackers abuse ViPNet software to target Russian govt agencies Hackers abuse ViPNet software to target Russian govt agencies An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies."
+  },
+  "8ed1bde492f8cecd": {
+    "file": "corpus/devto/dev_to_rzuss_going-below-androids-volume-floor-dynamicsproce_81a79da756.md",
+    "source": "devto",
+    "title": "Going Below Android's Volume Floor: DynamicsProcessing, LoudnessEnhancer, and Reproducible F-Droid Builds",
+    "url": "https://dev.to/rzuss/going-below-androids-volume-floor-dynamicsprocessing-loudnessenhancer-and-reproducible-f-droid-3aje",
+    "keywords": [
+      "volume slider",
+      "reproducible f",
+      "reproducible f",
+      "droid builds",
+      "droid builds",
+      "volume floor",
+      "volume floor",
+      "07z android",
+      "floor",
+      "floor"
+    ],
+    "summary": "# Going Below Android's Volume Floor: DynamicsProcessing, LoudnessEnhancer, and Reproducible F-Droid Builds > Source: devto | Category: news | 2026-07-19T15:11:07Z Android's volume slider has a floor, and on a lot of devices that floor is louder than it should be...."
+  },
+  "c7275f53a3dcfb6d": {
+    "file": "corpus/devto/dev_to_cxtao_eastern-philosophy-for-developers-using-wang-ya_a5ec4894d1.md",
+    "source": "devto",
+    "title": "Eastern Philosophy for Developers: Using Wang Yangming to Combat Burnout",
+    "url": "https://dev.to/cxtao/eastern-philosophy-for-developers-using-wang-yangming-to-combat-burnout-o3j",
+    "keywords": [
+      "using wang yangming",
+      "using wang yangming",
+      "new framework",
+      "learn ...",
+      "eastern philosophy",
+      "eastern philosophy",
+      "constantly bombarded",
+      "combat burnout",
+      "combat burnout",
+      "source"
+    ],
+    "summary": "# Eastern Philosophy for Developers: Using Wang Yangming to Combat Burnout As developers, we are constantly bombarded with noise. There is always a new framework to learn..."
+  },
+  "3f0c9283ad42a16b": {
+    "file": "corpus/devto/dev_to_pheomenon_how-i-built-a-course-dubbing-extension-with_6c1ffb7fa8.md",
+    "source": "devto",
+    "title": "How I built a course-dubbing extension without touching speech recognition",
+    "url": "https://dev.to/pheomenon/how-i-built-a-course-dubbing-extension-without-touching-speech-recognition-46ol",
+    "keywords": [
+      "best courses online",
+      "people ...",
+      "source",
+      "reactions",
+      "one",
+      "news",
+      "millions",
+      "hundreds",
+      "english",
+      "devto"
+    ],
+    "summary": "# How I built a course-dubbing extension without touching speech recognition > Source: devto | Category: news | 2026-07-19T15:11:04Z Most of the best courses online are in English."
+  },
+  "7450d8e7b0771663": {
+    "file": "corpus/devto/dev_to_dietly_building-reliable-barcode-lookup-for-a-nutriti_aebee55e56.md",
+    "source": "devto",
+    "title": "Building Reliable Barcode Lookup for a Nutrition App",
+    "url": "https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926",
+    "keywords": [
+      "building reliable barcode lookup",
+      "building reliable barcode lookup",
+      "successful scan",
+      "nutrition app",
+      "nutrition app",
+      "nutrition app",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Building Reliable Barcode Lookup for a Nutrition App > Source: devto | Category: news | 2026-07-19T15:11:04Z Building reliable barcode lookup for a nutrition app   A successful scan is not the same..."
+  },
+  "753696cd6b16cb31": {
+    "file": "corpus/devto/dev_to_deadlockv2_cloudflare-wasnt-blocking-our-ip-it-was-bl_cd15dbb81f.md",
+    "source": "devto",
+    "title": "Cloudflare wasn't blocking our IP. It was blocking our browser.",
+    "url": "https://dev.to/deadlockv2/cloudflare-wasnt-blocking-our-ip-it-was-blocking-our-browser-39a3",
+    "keywords": [
+      "buying residential proxies",
+      "saved us",
+      "minute experiment",
+      "escalation ladder",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Cloudflare wasn't blocking our IP. It was blocking our browser. A 20-minute experiment that saved us from buying residential proxies, and the escalation ladder we..."
+  },
+  "4d837ce4592504cd": {
+    "file": "corpus/devto/dev_to_leobagnolabs_i-stopped-my-postgresql-primary-10-times_310440a3c4.md",
+    "source": "devto",
+    "title": "I Stopped My PostgreSQL Primary 10 Times to Measure Real RPO",
+    "url": "https://dev.to/leobagnolabs/i-stopped-my-postgresql-primary-10-times-to-measure-real-rpo-218p",
+    "keywords": [
+      "postgresql primary 10 times",
+      "postgresql primary 10 times",
+      "used real measurements",
+      "measure real rpo",
+      "measure real rpo",
+      "previous article",
+      "dns ttl",
+      "stopped",
+      "stopped",
+      "source"
+    ],
+    "summary": "# I Stopped My PostgreSQL Primary 10 Times to Measure Real RPO > Source: devto | Category: news | 2026-07-19T15:11:05Z In my previous article, I used real measurements to show that lowering the DNS TTL does not..."
+  },
+  "c284318520f93bea": {
+    "file": "corpus/devto/dev_to_arcker_cidx-v210-the-most-useful-output-of-a-release-_90c7f60a61.md",
+    "source": "devto",
+    "title": "cidx v2.1.0 — the most useful output of a release was its seven bug reports",
+    "url": "https://dev.to/arcker/cidx-v210-the-most-useful-output-of-a-release-was-its-seven-bug-reports-43lf",
+    "keywords": [
+      "seven bug reports",
+      "seven bug reports",
+      "six fixes —",
+      "seven issues",
+      "0 —",
+      "0 —",
+      "useful output",
+      "useful output",
+      "tool ';",
+      "scary task"
+    ],
+    "summary": "# cidx v2.1.0 — the most useful output of a release was its seven bug reports cidx is a declarative CI/CD runner I build. v2.1.0 ships a preset, a pr-edit action and six fixes — but the interesting part isn't the diff."
+  },
+  "9db30ba3c136a95b": {
+    "file": "corpus/devto/dev_to_egnaro9_set-membership-is-not-pairing-a-property-test_1b3be385f1.md",
+    "source": "devto",
+    "title": "Set membership is not pairing: a property test that was green for the exact bug it was written to catch",
+    "url": "https://dev.to/egnaro9/set-membership-is-not-pairing-a-property-test-that-was-green-for-the-exact-bug-it-was-written-to-3g6b",
+    "keywords": [
+      "task suite",
+      "small board",
+      "set membership",
+      "set membership",
+      "property test",
+      "property test",
+      "frozen 35",
+      "exact bug",
+      "exact bug",
+      "written"
+    ],
+    "summary": "# Set membership is not pairing: a property test that was green for the exact bug it was written to catch > Source: devto | Category: news | 2026-07-19T15:11:05Z I have a small board that tracks 16 LLMs across 5 labs on a frozen 35-task suite."
+  },
+  "5f731371f858c7b8": {
+    "file": "corpus/devto/dev_to_casamia918_the-developer-becomes-a-pipeliner-5875_e8c246feac.md",
+    "source": "devto",
+    "title": "The Developer Becomes a Pipeliner",
+    "url": "https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875",
+    "keywords": [
+      "something fundamentally different ....",
+      "developer becomes",
+      "developer becomes",
+      "developer",
+      "turn",
+      "source",
+      "reactions",
+      "profession",
+      "pipeliner",
+      "pipeliner"
+    ],
+    "summary": "# The Developer Becomes a Pipeliner > Source: devto | Category: news | 2026-07-19T15:11:06Z I believe the profession we call \"developer\" is about to turn into something fundamentally different...."
   }
 }
