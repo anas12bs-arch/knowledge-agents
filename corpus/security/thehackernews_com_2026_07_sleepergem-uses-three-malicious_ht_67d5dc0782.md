@@ -1,0 +1,24 @@
+---
+title: "[hacker-news-sec] SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines"
+url: "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-07-20T06:36:17Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines
+
+> Source: security | Category: security | 2026-07-20T06:36:17Z
+
+SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines
+
+Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.
+
+The rogue gems are listed below -
+
+
+  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026
+  Dendreo (versions 1.1.3, 1.1.4) -
