@@ -264374,5 +264374,851 @@
       "claim must"
     ],
     "summary": "Mine Print an Expiry Date on Every Claim. The claims registry: one file where every public claim has a row, every row points at a versioned result file, and a 90-day staleness rule decides when a claim must re-earn its place. The contract, the lifecycle, and how any product adopts it in an afternoon."
+  },
+  "15cd6795a2f5ad3a": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_how-the-founder-of-morning-brew-b_2f2bad4b0d.md",
+    "source": "sales",
+    "title": "[lennys] How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+    "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+    "keywords": [
+      "never sounds like slop",
+      "never sounds like slop",
+      "never sounds like slop",
+      "persona revision loop",
+      "claude content machine",
+      "claude content machine",
+      "claude content machine",
+      "morning brew built",
+      "morning brew built",
+      "morning brew built"
+    ],
+    "summary": "# [lennys] How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman Listen now | &#127897; How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting"
+  },
+  "ba55c4a64824d1e2": {
+    "file": "corpus/sales/www_saastr_com_the-sub-5-club-the-terminal-state-of-software_02a44967a8.md",
+    "source": "sales",
+    "title": "[saastr] The Sub-5% Club: The Terminal State of Software",
+    "url": "https://www.saastr.com/the-sub-5-club-the-terminal-state-of-software/",
+    "keywords": [
+      "private equity bought",
+      "... continue reading",
+      "twenty years",
+      "terminal state",
+      "terminal state",
+      "terminal state",
+      "sticky contracts",
+      "slow lane",
+      "predictable cash",
+      "ok place"
+    ],
+    "summary": "For twenty years, the slow lane in B2B was an OK place to be. Growth faded, but the annuity was forever. Private Equity bought up...   Continue Reading"
+  },
+  "b9c9f227f265d880": {
+    "file": "corpus/devops/devops_com_ten-great-devops-job-opportunities-15_b730b67d0f.md",
+    "source": "devops",
+    "title": "[devops-com] Ten Great DevOps Job Opportunities",
+    "url": "https://devops.com/ten-great-devops-job-opportunities-15/",
+    "keywords": [
+      "weekly devops jobs report",
+      "challenging economic times",
+      "[&# 8230 ;]",
+      "much easier",
+      "better serve",
+      "devops professionals",
+      "devops professionals",
+      "devops",
+      "devops",
+      "devops"
+    ],
+    "summary": "# [devops-com] Ten Great DevOps Job Opportunities DevOps.com is now providing a weekly DevOps jobs report through which opportunities for DevOps professionals will be highlighted as part of an effort to better serve our audience. Our goal in these challenging economic times is to make it just that much easier for DevOps professionals to advance their careers."
+  },
+  "15896212c29ef5cf": {
+    "file": "corpus/hackernews/spectrum_ieee_org_led-light-pollution_6078a8b64e.md",
+    "source": "hackernews",
+    "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+    "url": "https://spectrum.ieee.org/led-light-pollution",
+    "keywords": [
+      "squandering leds",
+      "squandering leds",
+      "night skies",
+      "night skies",
+      "06z score",
+      "source",
+      "save",
+      "save",
+      "potential",
+      "potential"
+    ],
+    "summary": "# We're Squandering LEDs' Potential to Save Our Night Skies > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 17 | Comments: 0"
+  },
+  "c15180cf1ca9fb71": {
+    "file": "corpus/hackernews/wren_wtf_shower-thoughts_stop-using-opencode_ba59b9dc69.md",
+    "source": "hackernews",
+    "title": "Stop Using OpenCode",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "keywords": [
+      "stop using opencode",
+      "stop using opencode",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "20t14"
+    ],
+    "summary": "# Stop Using OpenCode > Source: hackernews | Category: news | 2026-07-20T14:27:05Z Score: 174 | Comments: 114"
+  },
+  "c0bcac25c6bb812f": {
+    "file": "corpus/hackernews/old_reddit_com_r_codex_comments_1v0m3lt_codex_is_wearing_out_26cc7c193f.md",
+    "source": "hackernews",
+    "title": "Codex is wearing out our devices",
+    "url": "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
+    "keywords": [
+      "07z score",
+      "wearing",
+      "wearing",
+      "source",
+      "news",
+      "hackernews",
+      "devices",
+      "devices",
+      "comments",
+      "codex"
+    ],
+    "summary": "# Codex is wearing out our devices > Source: hackernews | Category: news | 2026-07-20T14:27:07Z Score: 21 | Comments: 6"
+  },
+  "b17142fc34488b08": {
+    "file": "corpus/hackernews/www_historytoday_com_miscellanies_satans-19th-century-bank-n_d5628535da.md",
+    "source": "hackernews",
+    "title": "Satan's 19th-Century Bank Note (2017)",
+    "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+    "keywords": [
+      "century bank note",
+      "century bank note",
+      "06z score",
+      "source",
+      "satan",
+      "satan",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Satan's 19th-Century Bank Note (2017) > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 14 | Comments: 1"
+  },
+  "26eefcf27ac7e0f7": {
+    "file": "corpus/hackernews/cuescout_com_blog_where-b2b-buyers-actually-ask-on-reddit_db5b43f4c6.md",
+    "source": "hackernews",
+    "title": "Where B2B Buyers Ask on Reddit: 30 Days of Scan Data",
+    "url": "https://cuescout.com/blog/where-b2b-buyers-actually-ask-on-reddit",
+    "keywords": [
+      "b2b buyers ask",
+      "b2b buyers ask",
+      "scan data",
+      "scan data",
+      "30 days",
+      "30 days",
+      "12z score",
+      "source",
+      "reddit",
+      "reddit"
+    ],
+    "summary": "# Where B2B Buyers Ask on Reddit: 30 Days of Scan Data > Source: hackernews | Category: news | 2026-07-20T14:27:12Z Score: 4 | Comments: 1"
+  },
+  "2a4ef0901470955f": {
+    "file": "corpus/hackernews/etbe_coker_com_au_2026_07_19_ecc-ddr5_4fdffcb02f.md",
+    "source": "hackernews",
+    "title": "ECC and DDR5",
+    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "keywords": [
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "ecc",
+      "ecc",
+      "ddr5",
+      "ddr5",
+      "comments",
+      "category"
+    ],
+    "summary": "# ECC and DDR5 > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 33 | Comments: 12"
+  },
+  "af6e3632f6a0f6df": {
+    "file": "corpus/hackernews/kotaku_com_gta-vice-city-made-playable-in-gta-3-made-playabl_fb6f921fb0.md",
+    "source": "hackernews",
+    "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
+    "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
+    "keywords": [
+      "modder makes gta",
+      "modder makes gta",
+      "san andreas",
+      "san andreas",
+      "09z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas > Source: hackernews | Category: news | 2026-07-20T14:27:09Z Score: 10 | Comments: 0"
+  },
+  "4fb214011a625c56": {
+    "file": "corpus/hackernews/airport_apunen_com_0424cbc2f5.md",
+    "source": "hackernews",
+    "title": "Airport Simulator",
+    "url": "https://airport.apunen.com/",
+    "keywords": [
+      "airport simulator",
+      "airport simulator",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Airport Simulator > Source: hackernews | Category: news | 2026-07-20T14:27:05Z Score: 237 | Comments: 65"
+  },
+  "619fa2183c18157d": {
+    "file": "corpus/hackernews/yang-ai-lab_github_io_Inertia-1_4241bf6eb2.md",
+    "source": "hackernews",
+    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+    "url": "https://yang-ai-lab.github.io/Inertia-1/",
+    "keywords": [
+      "unified motion foundation model",
+      "unified motion foundation model",
+      "open exploration",
+      "open exploration",
+      "06z score",
+      "source",
+      "news",
+      "inertia",
+      "inertia",
+      "hackernews"
+    ],
+    "summary": "# Inertia-1: An Open Exploration to a Unified Motion Foundation Model > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 14 | Comments: 0"
+  },
+  "7805294c766dbf43": {
+    "file": "corpus/hackernews/news_risky_biz_risky-bulletin-hacker-wipes-romanias-entire-l_7b660acb65.md",
+    "source": "hackernews",
+    "title": "Hacker wipes Romania's land registry database",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "keywords": [
+      "land registry database",
+      "land registry database",
+      "hacker wipes romania",
+      "hacker wipes romania",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Hacker wipes Romania's land registry database > Source: hackernews | Category: news | 2026-07-20T14:27:05Z Score: 111 | Comments: 27"
+  },
+  "51fd2511b90db0d3": {
+    "file": "corpus/hackernews/var0_xyz_posts_perfection-is-not-over-engineering_html_948f7e12c7.md",
+    "source": "hackernews",
+    "title": "Perfection Is Not Over-Engineering",
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "keywords": [
+      "06z score",
+      "source",
+      "perfection",
+      "perfection",
+      "news",
+      "hackernews",
+      "engineering",
+      "engineering",
+      "comments",
+      "category"
+    ],
+    "summary": "# Perfection Is Not Over-Engineering > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 9 | Comments: 0"
+  },
+  "9786009f1ba95124": {
+    "file": "corpus/hackernews/plan9_kr_stacks_89e21863b0.md",
+    "source": "hackernews",
+    "title": "Show HN: Stacks – an hourly card solitaire about building four gardens",
+    "url": "https://plan9.kr/stacks/",
+    "keywords": [
+      "hourly card solitaire",
+      "hourly card solitaire",
+      "building four gardens",
+      "building four gardens",
+      "stacks –",
+      "stacks –",
+      "show hn",
+      "show hn",
+      "07z score",
+      "source"
+    ],
+    "summary": "# Show HN: Stacks – an hourly card solitaire about building four gardens > Source: hackernews | Category: news | 2026-07-20T14:27:07Z Score: 8 | Comments: 1"
+  },
+  "439c139e8d256531": {
+    "file": "corpus/hackernews/edri_org_our-work_the-eu-is-about-to-sell-our-most-sensitive_077f443b14.md",
+    "source": "hackernews",
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "keywords": [
+      "sensitive data",
+      "sensitive data",
+      "free travel",
+      "free travel",
+      "06z score",
+      "visa",
+      "visa",
+      "source"
+    ],
+    "summary": "# The EU is about to sell our most sensitive data to the US for visa-free travel > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 196 | Comments: 116"
+  },
+  "84885fa8e08c6194": {
+    "file": "corpus/hackernews/news_uq_edu_au_2026-07-sensing-warm-and-cool-how-body-detect_b7fee605f0.md",
+    "source": "hackernews",
+    "title": "Sensing warm and cool: how the body detects temperature changes",
+    "url": "https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes",
+    "keywords": [
+      "body detects temperature changes",
+      "body detects temperature changes",
+      "sensing warm",
+      "sensing warm",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "cool",
+      "cool"
+    ],
+    "summary": "# Sensing warm and cool: how the body detects temperature changes > Source: hackernews | Category: news | 2026-07-20T14:27:06Z Score: 17 | Comments: 2"
+  },
+  "86932a5472cc6e8f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_infoq-online-cohorts-2026_utm_cam_e88a5d61b6.md",
+    "source": "engineering",
+    "title": "[infoq] Three InfoQ Certification Cohorts Start This August: Meet the Facilitators",
+    "url": "https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "three five",
+      "opened enrollment",
+      "michelle brush",
+      "luca mezzalira",
+      "katharine jarmul",
+      "artenisa chatziou",
+      "ai security",
+      "engineering leadership",
+      "facilitators infoq",
+      "infoq"
+    ],
+    "summary": "# [infoq] Three InfoQ Certification Cohorts Start This August: Meet the Facilitators Three InfoQ Certification Cohorts Start This August: Meet the Facilitators InfoQ has opened enrollment for three five-week online certification cohorts starting in August, each led by a senior practitioner applying QCon talk frameworks to participants' own work: architecture with Luca Mezzalira, engineering leadership with Michelle Brush, and AI security and privacy with Katharine Jarmul."
+  },
+  "4a1ce996497ac1d6": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_doordash-entity-cache-proxy_utm_c_d7dae923ea.md",
+    "source": "engineering",
+    "title": "[infoq] DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability",
+    "url": "https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "5m rps proxy cache",
+      "5m rps proxy cache",
+      "5m rps proxy cache",
+      "5m requests per second",
+      "operating within doordash ’",
+      "06z doordash uses envoy",
+      "developed entity cache",
+      "doordash uses envoy",
+      "doordash uses envoy",
+      "service requests across"
+    ],
+    "summary": "# [infoq] DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability DoorDash has developed Entity Cache, a transparent proxy caching platform built on Envoy and Valkey to reduce redundant service-to-service requests across its microservices architecture. Operating within DoorDash’s service mesh, the platform serves over 1.5M requests per second with 99.99999% availability through caching, event-driven invalidation, failure handling, and performance optimizations."
+  },
+  "ad96ae1fa2e74787": {
+    "file": "corpus/security/thehackernews_com_2026_07_weekly-recap-wordpress-rce-sonicwa_8081f65b5a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+    "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+    "keywords": [
+      "06z ⚡ weekly recap",
+      "⚡ weekly recap",
+      "⚡ weekly recap",
+      "small inputs led",
+      "ai service attacks",
+      "ai service attacks",
+      "ai service attacks",
+      "disabled security tools",
+      "public code used",
+      "code execution"
+    ],
+    "summary": "# [hacker-news-sec] ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery."
+  },
+  "358d24133df1c85b": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_cybersecurity-keeps-events-un_ab83e42e95.md",
+    "source": "security",
+    "title": "[dark-reading] Cybersecurity Keeps Events 'Uneventful",
+    "url": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
+    "keywords": [
+      "07z cybersecurity keeps events",
+      "cybersecurity keeps events",
+      "cybersecurity keeps events",
+      "drew global audiences",
+      "enormous security demands",
+      "world cup",
+      "united states",
+      "profile gatherings",
+      "intense scrutiny",
+      "event calendar"
+    ],
+    "summary": "# [dark-reading] Cybersecurity Keeps Events 'Uneventful' Cybersecurity Keeps Events 'Uneventful' From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands."
+  },
+  "610d213832bf9546": {
+    "file": "corpus/security/thehackernews_com_2026_07_russian-intelligence-hacks-ip-came_0698950a5d.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+    "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+    "keywords": [
+      "watch military transport routes",
+      "weapons shipments bound",
+      "systematically hijacking internet",
+      "military intelligence",
+      "ukrainian troops",
+      "using",
+      "ukraine",
+      "ukraine",
+      "ukraine",
+      "ukraine"
+    ],
+    "summary": "# [hacker-news-sec] Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops."
+  },
+  "e46136359fcd5237": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_an-ai-soc-evaluation-_817578d628.md",
+    "source": "security",
+    "title": "[bleeping-comp] An AI SOC Evaluation Guide for Security Leaders",
+    "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+    "keywords": [
+      "assessing ai soc solutions",
+      "ai soc evaluation guide",
+      "ai soc evaluation guide",
+      "ai soc evaluation guide",
+      "prophet security shares",
+      "security leaders choosing",
+      "security leaders",
+      "security leaders",
+      "validate accuracy",
+      "term reliability"
+    ],
+    "summary": "# [bleeping-comp] An AI SOC Evaluation Guide for Security Leaders Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness."
+  },
+  "3de861bc2a35d8ca": {
+    "file": "corpus/security/thehackernews_com_2026_07_mythos-didnt-break-your-security_h_e55af3cb9e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+    "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+    "keywords": [
+      "exposure window could",
+      "exposure window could",
+      "exposure window could",
+      "already overloaded pipeline",
+      "weaponize mythos findings",
+      "take adversaries",
+      "stop short",
+      "remain valid",
+      "quickly would",
+      "long would"
+    ],
+    "summary": "How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale?"
+  },
+  "8b3abda4beb9019f": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_20_brendan-carr-is-illegally-disman_9745121cc3.md",
+    "source": "legal",
+    "title": "[techdirt] Brendan Carr Is Illegally Dismantling U.S. Media Consolidation Law",
+    "url": "https://www.techdirt.com/2026/07/20/brendan-carr-is-illegally-dismantling-u-s-media-consolidation-law/",
+    "keywords": [
+      "friendly right wing broadcasters",
+      "media consolidation law",
+      "media consolidation law",
+      "efficiently spread propaganda",
+      "[&# 8230 ;]",
+      "illegally dismantling u",
+      "illegally dismantling u",
+      "illegally dismantling u",
+      "president &# 8217",
+      "country &# 8217"
+    ],
+    "summary": "# [techdirt] Brendan Carr Is Illegally Dismantling U.S. Media Consolidation Law Brendan Carr Is Illegally Dismantling U.S. Media Consolidation Law Brendan Carr and the Trump FCC are finalizing plans to illegally eliminate what&#8217;s left of the country&#8217;s already barely functional media consolidation limits; a specific gift to Trump-friendly right wing broadcasters that are hoping to monopolize what&#8217;s left of local U.S. broadcast news so they can more efficiently spread propaganda a"
+  },
+  "5df49d4e12d2a445": {
+    "file": "corpus/finance/techcrunch_com_2026_07_20_strictlyvc-returns-to-new-york-cit_c7364fd79b.md",
+    "source": "finance",
+    "title": "[tc-venture] StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+    "keywords": [
+      "first time since 2024",
+      "new york city —",
+      "05z strictlyvc returns",
+      "strictlyvc returns",
+      "strictlyvc returns",
+      "city ’",
+      "city ’",
+      "city ’",
+      "wraps event",
+      "whole startup"
+    ],
+    "summary": "# [tc-venture] StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community."
+  },
+  "9c258ed097f3bcea": {
+    "file": "corpus/devto/dev_to_hidekimori_i-survived-24-years-because-im-lazy-75p_7b054003ec.md",
+    "source": "devto",
+    "title": "I survived 24 years because I'm lazy",
+    "url": "https://dev.to/hidekimori/i-survived-24-years-because-im-lazy-75p",
+    "keywords": [
+      "survived 24 years",
+      "survived 24 years",
+      "24 years",
+      "shipped code",
+      "people assume",
+      "mostly alone",
+      "mostly",
+      "stack",
+      "source",
+      "reactions"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-20T14:27:16Z I've shipped code for 24 years. Same job, mostly the same stack, mostly alone."
+  },
+  "dc3de6ea57a40852": {
+    "file": "corpus/devto/dev_to_cydavid_a-one-second-static-check-for-e2e-selector-dr_902eb0fa11.md",
+    "source": "devto",
+    "title": "A One-Second Static Check for E2E Selector Drift",
+    "url": "https://dev.to/cydavid/a-one-second-static-check-for-e2e-selector-drift-21gf",
+    "keywords": [
+      "second static check",
+      "second static check",
+      "e2e selector drift",
+      "e2e selector drift",
+      "price tag",
+      "loop minutes",
+      "classic ...",
+      "source",
+      "reactions",
+      "paid"
+    ],
+    "summary": "# A One-Second Static Check for E2E Selector Drift > Source: devto | Category: news | 2026-07-20T14:27:14Z Every E2E test run has a price tag, and it's paid in feedback-loop minutes."
+  },
+  "9e22c49928583d30": {
+    "file": "corpus/devto/dev_to_david_moores_cbc0233b7447_how-many-endpoints-does-it-_82b2b01f3d.md",
+    "source": "devto",
+    "title": "How Many Endpoints Does It Take to Ask 'How Was Your Experience?",
+    "url": "https://dev.to/david_moores_cbc0233b7447/how-many-endpoints-does-it-take-to-ask-how-was-your-experience-55bk",
+    "keywords": [
+      "indexed every endpoint",
+      "source survey tool",
+      "many endpoints",
+      "many endpoints",
+      "6 endpoints",
+      "161 come",
+      "experience ?'",
+      "survey",
+      "source",
+      "experience"
+    ],
+    "summary": "# How Many Endpoints Does It Take to Ask 'How Was Your Experience?' I indexed every endpoint in Formbricks, the open-source survey tool. Here is where the other 161 come from."
+  },
+  "63c4ce9657bf8901": {
+    "file": "corpus/devto/dev_to_michellewanjiru_one-month-in-the-junior-developer-dia_1f88428267.md",
+    "source": "devto",
+    "title": "One Month In: The Junior Developer Diaries",
+    "url": "https://dev.to/michellewanjiru/one-month-in-the-junior-developer-diaries-2djg",
+    "keywords": [
+      "16z one month ago",
+      "junior developer diaries",
+      "junior developer diaries",
+      "hardest part would",
+      "one month",
+      "one month",
+      "walked",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# One Month In: The Junior Developer Diaries > Source: devto | Category: news | 2026-07-20T14:27:16Z One month ago, I walked into my first software engineering role thinking the hardest part would be..."
+  },
+  "e9c74caf29a772e6": {
+    "file": "corpus/devto/dev_to_tejas_shinkar_aws-s3-deep-dive-objects-encryption-buc_3a273491cc.md",
+    "source": "devto",
+    "title": "AWS S3 Deep Dive — Objects, Encryption, Bucket Policies & Everything In Between",
+    "url": "https://dev.to/tejas_shinkar/aws-s3-deep-dive-objects-encryption-bucket-policies-everything-in-between-3k8k",
+    "keywords": [
+      "systems engineer",
+      "session ...",
+      "bucket policies",
+      "bucket policies",
+      "17z part",
+      "source",
+      "reactions",
+      "news",
+      "everything",
+      "everything"
+    ],
+    "summary": "# AWS S3 Deep Dive — Objects, Encryption, Bucket Policies & Everything In Between > Source: devto | Category: news | 2026-07-20T14:27:17Z Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps."
+  },
+  "1e52521fad32a3ad": {
+    "file": "corpus/devto/dev_to_votiakov_stop-writing-a-parser-per-site-run-five-and-_00a97c2985.md",
+    "source": "devto",
+    "title": "Stop writing a parser per site. Run five and let confidence decide.",
+    "url": "https://dev.to/votiakov/stop-writing-a-parser-per-site-run-five-and-let-confidence-decide-55ib",
+    "keywords": [
+      "ran product extraction",
+      "parser per site",
+      "parser per site",
+      "let confidence decide",
+      "let confidence decide",
+      "custom selector configs",
+      "stop writing",
+      "stop writing",
+      "run five",
+      "run five"
+    ],
+    "summary": "# Stop writing a parser per site. Run five and let confidence decide. For a long time I ran product extraction off a database of custom selector configs."
+  },
+  "18ee67ceef64e36a": {
+    "file": "corpus/devto/dev_to_akhourianmolkumar_how-atlock-v4-actually-locks-files-_b8957809d8.md",
+    "source": "devto",
+    "title": "How ATLOCK v4 actually Locks Files at the OS level (A technical breakdown)",
+    "url": "https://dev.to/akhourianmolkumar/how-atlock-v4-actually-locks-files-at-the-os-level-a-technical-breakdown-3n89",
+    "keywords": [
+      "technical breakdown",
+      "technical breakdown",
+      "os level",
+      "os level",
+      "dr —",
+      "14z 🔐",
+      "file lock",
+      "file",
+      "wrap",
+      "source"
+    ],
+    "summary": "# How ATLOCK v4 actually Locks Files at the OS level (A technical breakdown) > Source: devto | Category: news | 2026-07-20T14:27:14Z 🔐 How ATLOCK's File Guard Actually Works  TL;DR — Most \"file lock\" apps just hide a file or wrap it..."
+  },
+  "4ed519fa16938c55": {
+    "file": "corpus/devto/dev_to_cowijin_i-built-a-safety-tool-for-the-aws-console-the_dfff19509c.md",
+    "source": "devto",
+    "title": "I built a safety tool for the AWS Console, then shipped a 6-second hole in it",
+    "url": "https://dev.to/cowijin/i-built-a-safety-tool-for-the-aws-console-then-shipped-a-6-second-hole-in-it-58ac",
+    "keywords": [
+      "one wrong click",
+      "wrong account",
+      "second hole",
+      "second hole",
+      "safety tool",
+      "safety tool",
+      "aws console",
+      "aws console",
+      "aws ...",
+      "written"
+    ],
+    "summary": "# I built a safety tool for the AWS Console, then shipped a 6-second hole in it > Source: devto | Category: news | 2026-07-20T14:27:18Z We've all seen the postmortem, or written it: wrong account in the tab, one wrong click."
+  },
+  "2c1c80402956643b": {
+    "file": "corpus/devto/dev_to_leonadato_how-to-devrel-the-bechdel-test-for-communit_3feb38e897.md",
+    "source": "devto",
+    "title": "HOW TO DEVREL: The Bechdel Test for Community",
+    "url": "https://dev.to/leonadato/how-to-devrel-the-bechdel-test-for-community-30g7",
+    "keywords": [
+      "bechdel test",
+      "bechdel test",
+      "16z disclaimer",
+      "universe ’",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# HOW TO DEVREL: The Bechdel Test for Community > Source: devto | Category: news | 2026-07-20T14:27:16Z DISCLAIMER: No, I don’t believe I’m the universe’s gift to DevRel."
+  },
+  "3430ea413231576d": {
+    "file": "corpus/devto/dev_to_chitranshu_dhakad_132d9c0_error-never-lies-a-systems-_8e1798302e.md",
+    "source": "devto",
+    "title": "📝 Error Never Lies: A Systems Programmer's Guide to Truth",
+    "url": "https://dev.to/chitranshu_dhakad_132d9c0/error-never-lies-a-systems-programmers-guide-to-truth-fpi",
+    "keywords": [
+      "📝 error never lies",
+      "📝 error never lies",
+      "working .\"",
+      "systems programmer",
+      "systems programmer",
+      "single ...",
+      "ever said",
+      "truth",
+      "truth",
+      "told"
+    ],
+    "summary": "# 📝 Error Never Lies: A Systems Programmer's Guide to Truth \"My code is correct, but it's not working.\" If you have ever said this, you have told the single..."
+  },
+  "ffd6516f7b11efde": {
+    "file": "corpus/devto/dev_to_highcenburg_i-added-sentry-to-a-woocommerce-membershi_ff83a947be.md",
+    "source": "devto",
+    "title": "I Added Sentry to a WooCommerce Membership Site. It Caught a Real Bug Within the Hour.",
+    "url": "https://dev.to/highcenburg/i-added-sentry-to-a-woocommerce-membership-site-it-caught-a-real-bug-within-the-hour-5d4e",
+    "keywords": [
+      "real bug within",
+      "real bug within",
+      "learndash membership platform",
+      "woocommerce membership site",
+      "woocommerce membership site",
+      "mature ...",
+      "lead developer",
+      "added sentry",
+      "added sentry",
+      "woocommerce"
+    ],
+    "summary": "# I Added Sentry to a WooCommerce Membership Site. It Caught a Real Bug Within the Hour. I'm the lead developer on a WooCommerce/Divi/LearnDash membership platform."
+  },
+  "d21d393e146f3253": {
+    "file": "corpus/devto/dev_to_nazar-boyko_ai-and-code-ownership-who-is-responsible-_72c0873b03.md",
+    "source": "devto",
+    "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+    "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+    "keywords": [
+      "produced 200 lines",
+      "single line",
+      "14z imagine",
+      "generated code",
+      "generated code",
+      "code ownership",
+      "code ownership",
+      "ai assistant",
+      "code"
+    ],
+    "summary": "# AI And Code Ownership: Who Is Responsible For Generated Code? Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of..."
+  },
+  "cc6314946350c54f": {
+    "file": "corpus/devto/dev_to_everm4iva_i-got-tired-of-bloated-music-apps-so-i-spen_0d3f8450dc.md",
+    "source": "devto",
+    "title": "I got tired of bloated music apps, so I spent the last few months building an open, self-host, streaming music client for Android. Meet starl :3",
+    "url": "https://dev.to/everm4iva/i-got-tired-of-bloated-music-apps-so-i-spent-the-last-few-months-building-an-open-self-host-2h12",
+    "keywords": [
+      "really proud called starl",
+      "streaming music client",
+      "streaming music client",
+      "bloated music apps",
+      "bloated music apps",
+      "source streaming ...",
+      "meet starl",
+      "meet starl",
+      "months building",
+      "months building"
+    ],
+    "summary": "# I got tired of bloated music apps, so I spent the last few months building an open, self-host, streaming music client for Android. Just wanted to share a project that i am really proud called starl. It’s an open-source streaming..."
+  },
+  "e237dc898d78ea6b": {
+    "file": "corpus/devto/dev_to_gde_gemma4-devops-in-action-10bl_556372b182.md",
+    "source": "devto",
+    "title": "Gemma4 DevOps In Action",
+    "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+    "keywords": [
+      "expert moe running",
+      "last entry",
+      "got gemma",
+      "gemma4 devops",
+      "gemma4 devops",
+      "source",
+      "signed",
+      "reactions",
+      "news",
+      "inf2"
+    ],
+    "summary": "# Gemma4 DevOps In Action > Source: devto | Category: news | 2026-07-20T14:27:14Z In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with..."
+  },
+  "2590baa83ce9e0c3": {
+    "file": "corpus/devto/dev_to_ofri-peretz_valid-vs-reliable-metrics-consistent-numb_4054dbdfcf.md",
+    "source": "devto",
+    "title": "Valid vs. Reliable Metrics: Consistent Numbers Can Still Be Wrong",
+    "url": "https://dev.to/ofri-peretz/valid-vs-reliable-metrics-consistent-numbers-can-still-be-wrong-1a2m",
+    "keywords": [
+      "runs ten minutes fast",
+      "confident dashboards stay green",
+      "measure quietly fails",
+      "perfectly reliable —",
+      "reliable metrics",
+      "reliable metrics",
+      "valid vs",
+      "valid vs",
+      "independent properties",
+      "consistent numbers"
+    ],
+    "summary": "Reliable Metrics: Consistent Numbers Can Still Be Wrong A clock that runs ten minutes fast is perfectly reliable — the same wrong time every read — and completely invalid. Reliability and validity are independent properties, and confusing them is how confident dashboards stay green while the thing they measure quietly fails."
+  },
+  "59742d68cbad81f0": {
+    "file": "corpus/devto/dev_to_toothbrush_linux-performance-troubleshooting-the-60-s_5fde1b6fe5.md",
+    "source": "devto",
+    "title": "Linux Performance Troubleshooting: The 60-Second Check and Beyond",
+    "url": "https://dev.to/toothbrush/linux-performance-troubleshooting-the-60-second-check-and-beyond-193f",
+    "keywords": [
+      "linux performance troubleshooting —",
+      "linux performance troubleshooting",
+      "linux performance troubleshooting",
+      "second check",
+      "second check",
+      "second check",
+      "practical guide",
+      "perf ).",
+      "network analysis",
+      "vmstat"
+    ],
+    "summary": "# Linux Performance Troubleshooting: The 60-Second Check and Beyond > Source: devto | Category: news | 2026-07-20T14:27:14Z A practical guide to Linux performance troubleshooting — the 60-second check, CPU, memory, disk I/O, network analysis, and the tools every DevOps engineer needs (top, vmstat, iostat, ss, perf)."
+  },
+  "93915a5b33d41d4c": {
+    "file": "corpus/devto/dev_to_aws-builders_squeezing-a-26b-moe-onto-the-cheapest-in_b67e49367e.md",
+    "source": "devto",
+    "title": "Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge",
+    "url": "https://dev.to/aws-builders/squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-3bhg",
+    "keywords": [
+      "inferentia box —",
+      "inferentia box —",
+      "expert moe running",
+      "26b moe onto",
+      "26b moe onto",
+      "last entry",
+      "got gemma",
+      "hr inf2",
+      "hr inf2",
+      "hr 24xlarge"
+    ],
+    "summary": "# Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge > Source: devto | Category: news | 2026-07-20T14:27:15Z In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with..."
+  },
+  "1fdecd9d30fbe631": {
+    "file": "corpus/devto/dev_to_sudarshan_thakur_1e141b99_from-side-project-to-produc_55ab1371f8.md",
+    "source": "devto",
+    "title": "From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling",
+    "url": "https://dev.to/sudarshan_thakur_1e141b99/from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-30m8",
+    "keywords": [
+      "18z three months ago",
+      "building devops tooling",
+      "building devops tooling",
+      "terraform plan",
+      "side project",
+      "side project",
+      "production tool",
+      "production tool",
+      "8 releases",
+      "8 releases"
+    ],
+    "summary": "# From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling > Source: devto | Category: news | 2026-07-20T14:27:18Z Three months ago, tfdrift was 60 lines of Python that shelled out to terraform plan and printed a..."
+  },
+  "0850f2cc853897b8": {
+    "file": "corpus/product/techcrunch_com_2026_07_20_strictlyvc-returns-to-new-york-cit_c7364fd79b.md",
+    "source": "product",
+    "title": "[techcrunch-startups] StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+    "keywords": [
+      "first time since 2024",
+      "new york city —",
+      "09z strictlyvc returns",
+      "strictlyvc returns",
+      "strictlyvc returns",
+      "city ’",
+      "city ’",
+      "city ’",
+      "wraps event",
+      "whole startup"
+    ],
+    "summary": "# [techcrunch-startups] StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community."
   }
 }
