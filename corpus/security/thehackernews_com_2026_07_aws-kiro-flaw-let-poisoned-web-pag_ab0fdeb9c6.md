@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code"
+url: "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-07-21T17:08:00Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
+
+> Source: security | Category: security | 2026-07-21T17:08:00Z
+
+AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
+
+Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.
+
+Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been
