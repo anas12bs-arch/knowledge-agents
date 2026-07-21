@@ -102764,6 +102764,38 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_finance_www_finextra_com_newsarticle_48126_capital_one_open_sources_0540690d3d",
+      "label": "www_finextra_com_newsarticle_48126_capital-one-open-sources-_0540690d3d.md",
+      "file_type": "document",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_48126_capital-one-open-sources-_0540690d3d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_finance_www_finextra_com_newsarticle_48126_capital_one_open_sources_0540690d3d_finextra_capital_one_open_sources_vulnhunter_an_ai_security_tool_that_thinks_like_a_hacker",
+      "label": "[finextra] Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
+      "file_type": "document",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_48126_capital-one-open-sources-_0540690d3d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_finance_www_finextra_com_newsarticle_48127_natural_raises_30_million_d9d6627e58",
+      "label": "www_finextra_com_newsarticle_48127_natural-raises-30-million_d9d6627e58.md",
+      "file_type": "document",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_48127_natural-raises-30-million_d9d6627e58.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_finance_www_finextra_com_newsarticle_48127_natural_raises_30_million_d9d6627e58_finextra_natural_raises_30_million_to_build_ai_agent_payments_stack",
+      "label": "[finextra] Natural raises $30 million to build AI agent payments stack",
+      "file_type": "document",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_48127_natural-raises-30-million_d9d6627e58.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_finance_www_finextra_com_newsarticle_48128_samsung_unveils_first_cre_b446742979",
       "label": "www_finextra_com_newsarticle_48128_samsung-unveils-first-cre_b446742979.md",
       "file_type": "document",
@@ -103041,6 +103073,54 @@
       "file_type": "document",
       "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_562194593b.md",
       "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e",
+      "label": "github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_anthropics_anthropic_sdk_python_v0_117_1_released",
+      "label": "anthropics/anthropic-sdk-python v0.117.1 released",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_anthropics_anthropic_sdk_python_v0_117_1",
+      "label": "anthropics/anthropic-sdk-python — v0.117.1",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_0_117_1_2026_07_21",
+      "label": "0.117.1 (2026-07-21)",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_bug_fixes",
+      "label": "Bug Fixes",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_chores",
+      "label": "Chores",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L28",
       "_origin": "ast"
     },
     {
@@ -114624,6 +114704,22 @@
       "label": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
       "file_type": "document",
       "source_file": "corpus/hackernews/ai-law-tracker_com_0e30cb6394.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_ai_google_dev_gemini_api_docs_latest_model_15559a4891",
+      "label": "ai_google_dev_gemini-api_docs_latest-model_15559a4891.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/ai_google_dev_gemini-api_docs_latest-model_15559a4891.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_ai_google_dev_gemini_api_docs_latest_model_15559a4891_gemini_last_models_temperature_top_p_and_top_k_are_deprecated_and_ignored",
+      "label": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/ai_google_dev_gemini-api_docs_latest-model_15559a4891.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -128596,6 +128692,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_fireworks_ai_blog_kimik3_fable_2be495dfbb",
+      "label": "fireworks_ai_blog_kimik3-fable_2be495dfbb.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/fireworks_ai_blog_kimik3-fable_2be495dfbb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_fireworks_ai_blog_kimik3_fable_2be495dfbb_kimi_k3_is_competitive_with_fable_kimi_k3_and_fable_is_sota",
+      "label": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/fireworks_ai_blog_kimik3-fable_2be495dfbb.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_fitelson_org_seminar_dawid_pdf_724b22a920",
       "label": "fitelson_org_seminar_dawid_pdf_724b22a920.md",
       "file_type": "document",
@@ -141216,6 +141328,22 @@
       "label": "The labor share of income in the US is at its lowest post-war level",
       "file_type": "document",
       "source_file": "corpus/hackernews/libertystreeteconomics_newyorkfed_org_2026_06_the-post-covid_e067b1efad.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_libretto_sh_browser_tools_26eaa70922",
+      "label": "libretto_sh_browser-tools_26eaa70922.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/libretto_sh_browser-tools_26eaa70922.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_libretto_sh_browser_tools_26eaa70922_show_hn_browser_tools_sdk_an_optimal_browser_harness_for_agents",
+      "label": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/libretto_sh_browser-tools_26eaa70922.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -165396,6 +165524,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_celestrak_org_satcat_180a54ffc4",
+      "label": "www_celestrak_org_satcat_180a54ffc4.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_celestrak_org_satcat_180a54ffc4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_celestrak_org_satcat_180a54ffc4_celestrak_adds_catalog_digit_fixes_y2k_bug",
+      "label": "Celestrak adds catalog digit, fixes Y2K bug",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_celestrak_org_satcat_180a54ffc4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_cell_com_neuron_fulltext_s0896_6273_26_00339_9_c3fb972338",
       "label": "www_cell_com_neuron_fulltext_S0896-6273_26_00339-9_c3fb972338.md",
       "file_type": "document",
@@ -170016,6 +170160,22 @@
       "label": "Alternative(s) to run CUDA on non-Nvidia hardware",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_hpcwire_com_2026_07_09_spectral-compute-aims-to-set-cuda_48757b3ecc.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_hpcwire_com_off_the_wire_nvidia_vera_rubin_driving_perfo_6d573071d5",
+      "label": "www_hpcwire_com_off-the-wire_nvidia-vera-rubin-driving-perfo_6d573071d5.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_hpcwire_com_off-the-wire_nvidia-vera-rubin-driving-perfo_6d573071d5.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_hpcwire_com_off_the_wire_nvidia_vera_rubin_driving_perfo_6d573071d5_nvidia_vera_rubin_driving_performance_per_watt_lowest_token_cost_for_partners",
+      "label": "Nvidia Vera Rubin Driving Performance per Watt, Lowest Token Cost for Partners",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_hpcwire_com_off-the-wire_nvidia-vera-rubin-driving-perfo_6d573071d5.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -176368,6 +176528,22 @@
       "label": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_reuters_com_world_ubisofts-co-founder-claude-guillemot-d_1fa0380c0e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_reuters_com_world_us_health_secretary_kennedy_says_cms_i_cd757c1739",
+      "label": "www_reuters_com_world_us-health-secretary-kennedy-says-cms-i_cd757c1739.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_reuters_com_world_us-health-secretary-kennedy-says-cms-i_cd757c1739.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_reuters_com_world_us_health_secretary_kennedy_says_cms_i_cd757c1739_us_pauses_1b_in_medicaid_payments_to_california_minnesota",
+      "label": "US pauses $1B in Medicaid payments to California, Minnesota",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_reuters_com_world_us-health-secretary-kennedy-says-cms-i_cd757c1739.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -197412,6 +197588,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_legal_www_techdirt_com_2026_07_21_victory_flock_ends_rollout_of_au_59be672084",
+      "label": "www_techdirt_com_2026_07_21_victory-flock-ends-rollout-of-au_59be672084.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_21_victory-flock-ends-rollout-of-au_59be672084.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_techdirt_com_2026_07_21_victory_flock_ends_rollout_of_au_59be672084_techdirt_victory_flock_ends_rollout_of_audio_distress_detection_of_human_voices",
+      "label": "[techdirt] Victory! Flock Ends Rollout Of Audio “Distress Detection” Of Human Voices",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_21_victory-flock-ends-rollout-of-au_59be672084.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_legal_www_techdirt_com_2026_07_21_xai_which_is_being_sued_over_gro_69da0b05cf",
       "label": "www_techdirt_com_2026_07_21_xai-which-is-being-sued-over-gro_69da0b05cf.md",
       "file_type": "document",
@@ -197440,6 +197632,22 @@
       "label": "[changelog] From open source hits to OpenAI (Interview)",
       "file_type": "document",
       "source_file": "corpus/podcast/changelog_com_podcast_682_9a7e0c256d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_podcast_changelog_com_podcast_683_49ea634a19",
+      "label": "changelog_com_podcast_683_49ea634a19.md",
+      "file_type": "document",
+      "source_file": "corpus/podcast/changelog_com_podcast_683_49ea634a19.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_podcast_changelog_com_podcast_683_49ea634a19_changelog_canary_tokens_and_digital_tripwires_interview",
+      "label": "[changelog] Canary tokens and digital tripwires (Interview)",
+      "file_type": "document",
+      "source_file": "corpus/podcast/changelog_com_podcast_683_49ea634a19.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -212176,6 +212384,22 @@
       "label": "[bleeping-comp] Fake Perplexity extension on Chrome Web Store tracked searches",
       "file_type": "document",
       "source_file": "corpus/security/www_bleepingcomputer_com_news_security_fake-perplexity-exten_707d892f3c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_bleepingcomputer_com_news_security_fakegit_campaign_uses_7dbe7337f4",
+      "label": "www_bleepingcomputer_com_news_security_fakegit-campaign-uses_7dbe7337f4.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_fakegit-campaign-uses_7dbe7337f4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_bleepingcomputer_com_news_security_fakegit_campaign_uses_7dbe7337f4_bleeping_comp_fakegit_campaign_uses_7_600_github_repos_to_push_smartloader_malware",
+      "label": "[bleeping-comp] FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_fakegit-campaign-uses_7dbe7337f4.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -298640,6 +298864,26 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_finance_www_finextra_com_newsarticle_48126_capital_one_open_sources_0540690d3d",
+      "target": "corpus_finance_www_finextra_com_newsarticle_48126_capital_one_open_sources_0540690d3d_finextra_capital_one_open_sources_vulnhunter_an_ai_security_tool_that_thinks_like_a_hacker",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_48126_capital-one-open-sources-_0540690d3d.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_finance_www_finextra_com_newsarticle_48127_natural_raises_30_million_d9d6627e58",
+      "target": "corpus_finance_www_finextra_com_newsarticle_48127_natural_raises_30_million_d9d6627e58_finextra_natural_raises_30_million_to_build_ai_agent_payments_stack",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/finance/www_finextra_com_newsarticle_48127_natural-raises-30-million_d9d6627e58.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_finance_www_finextra_com_newsarticle_48128_samsung_unveils_first_cre_b446742979",
       "target": "corpus_finance_www_finextra_com_newsarticle_48128_samsung_unveils_first_cre_b446742979_finextra_samsung_unveils_first_credit_card",
       "relation": "contains",
@@ -298906,6 +299150,56 @@
       "confidence": "EXTRACTED",
       "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_562194593b.md",
       "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e",
+      "target": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_anthropics_anthropic_sdk_python_v0_117_1_released",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_anthropics_anthropic_sdk_python_v0_117_1_released",
+      "target": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_anthropics_anthropic_sdk_python_v0_117_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_anthropics_anthropic_sdk_python_v0_117_1_released",
+      "target": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_0_117_1_2026_07_21",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_0_117_1_2026_07_21",
+      "target": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_bug_fixes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_0_117_1_2026_07_21",
+      "target": "corpus_github_releases_github_com_anthropics_anthropic_sdk_python_releases_tag_v0_1_5ad639b83e_chores",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_5ad639b83e.md",
+      "source_location": "L28",
       "weight": 1.0,
       "_origin": "ast"
     },
@@ -310180,6 +310474,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_ai_google_dev_gemini_api_docs_latest_model_15559a4891",
+      "target": "corpus_hackernews_ai_google_dev_gemini_api_docs_latest_model_15559a4891_gemini_last_models_temperature_top_p_and_top_k_are_deprecated_and_ignored",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/ai_google_dev_gemini-api_docs_latest-model_15559a4891.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_ai_meta_com_blog_brain2qwerty_brain_ai_human_communication_f_a29b2b081c",
       "target": "corpus_hackernews_ai_meta_com_blog_brain2qwerty_brain_ai_human_communication_f_a29b2b081c_meta_s_brain_scanning_system_reads_sentences_non_invasively_code_open_source",
       "relation": "contains",
@@ -318910,6 +319214,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_fireworks_ai_blog_kimik3_fable_2be495dfbb",
+      "target": "corpus_hackernews_fireworks_ai_blog_kimik3_fable_2be495dfbb_kimi_k3_is_competitive_with_fable_kimi_k3_and_fable_is_sota",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/fireworks_ai_blog_kimik3-fable_2be495dfbb.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_fitelson_org_seminar_dawid_pdf_724b22a920",
       "target": "corpus_hackernews_fitelson_org_seminar_dawid_pdf_724b22a920_the_well_calibrated_bayesian_pdf",
       "relation": "contains",
@@ -326805,6 +327119,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/libertystreeteconomics_newyorkfed_org_2026_06_the-post-covid_e067b1efad.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_libretto_sh_browser_tools_26eaa70922",
+      "target": "corpus_hackernews_libretto_sh_browser_tools_26eaa70922_show_hn_browser_tools_sdk_an_optimal_browser_harness_for_agents",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/libretto_sh_browser-tools_26eaa70922.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -341930,6 +342254,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_celestrak_org_satcat_180a54ffc4",
+      "target": "corpus_hackernews_www_celestrak_org_satcat_180a54ffc4_celestrak_adds_catalog_digit_fixes_y2k_bug",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_celestrak_org_satcat_180a54ffc4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_cell_com_neuron_fulltext_s0896_6273_26_00339_9_c3fb972338",
       "target": "corpus_hackernews_www_cell_com_neuron_fulltext_s0896_6273_26_00339_9_c3fb972338_slow_breathing_modulates_brain_function_and_risk_behavior",
       "relation": "contains",
@@ -344815,6 +345149,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_hpcwire_com_2026_07_09_spectral-compute-aims-to-set-cuda_48757b3ecc.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_hpcwire_com_off_the_wire_nvidia_vera_rubin_driving_perfo_6d573071d5",
+      "target": "corpus_hackernews_www_hpcwire_com_off_the_wire_nvidia_vera_rubin_driving_perfo_6d573071d5_nvidia_vera_rubin_driving_performance_per_watt_lowest_token_cost_for_partners",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_hpcwire_com_off-the-wire_nvidia-vera-rubin-driving-perfo_6d573071d5.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -348785,6 +349129,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_reuters_com_world_ubisofts-co-founder-claude-guillemot-d_1fa0380c0e.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_reuters_com_world_us_health_secretary_kennedy_says_cms_i_cd757c1739",
+      "target": "corpus_hackernews_www_reuters_com_world_us_health_secretary_kennedy_says_cms_i_cd757c1739_us_pauses_1b_in_medicaid_payments_to_california_minnesota",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_reuters_com_world_us-health-secretary-kennedy-says-cms-i_cd757c1739.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -361950,6 +362304,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_legal_www_techdirt_com_2026_07_21_victory_flock_ends_rollout_of_au_59be672084",
+      "target": "corpus_legal_www_techdirt_com_2026_07_21_victory_flock_ends_rollout_of_au_59be672084_techdirt_victory_flock_ends_rollout_of_audio_distress_detection_of_human_voices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_21_victory-flock-ends-rollout-of-au_59be672084.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_legal_www_techdirt_com_2026_07_21_xai_which_is_being_sued_over_gro_69da0b05cf",
       "target": "corpus_legal_www_techdirt_com_2026_07_21_xai_which_is_being_sued_over_gro_69da0b05cf_techdirt_xai_which_is_being_sued_over_grok_s_csam_problem_sues_a_user_over_grok_s_csam_problem",
       "relation": "contains",
@@ -361965,6 +362329,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/podcast/changelog_com_podcast_682_9a7e0c256d.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_podcast_changelog_com_podcast_683_49ea634a19",
+      "target": "corpus_podcast_changelog_com_podcast_683_49ea634a19_changelog_canary_tokens_and_digital_tripwires_interview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/podcast/changelog_com_podcast_683_49ea634a19.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -371175,6 +371549,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/www_bleepingcomputer_com_news_security_fake-perplexity-exten_707d892f3c.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_security_www_bleepingcomputer_com_news_security_fakegit_campaign_uses_7dbe7337f4",
+      "target": "corpus_security_www_bleepingcomputer_com_news_security_fakegit_campaign_uses_7dbe7337f4_bleeping_comp_fakegit_campaign_uses_7_600_github_repos_to_push_smartloader_malware",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_security_fakegit-campaign-uses_7dbe7337f4.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
