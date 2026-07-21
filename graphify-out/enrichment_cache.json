@@ -272809,5 +272809,402 @@
       "0 (# 38983"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-21T17:08:58Z Changes since langchain-openai==1.3.5 release(openai): 1.4.0 (#38983) chore: bump pillow from 12.2.0 to 12.3.0 in /libs/partners/openai (#38999) feat(core): add `reasoning_effort` as a standard chat model parameter (#38887) chore(model-profiles): refresh model profile data (#38797)"
+  },
+  "3b32c22db28b0b59": {
+    "file": "corpus/hackernews/runtimewire_com_article_jack-dorsey-block-buzz-team-chat-ai-_3a7231974e.md",
+    "source": "hackernews",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "keywords": [
+      "jack dorsey launches buzz",
+      "jack dorsey launches buzz",
+      "combine team chat",
+      "combine team chat",
+      "git hosting",
+      "git hosting",
+      "ai agents",
+      "ai agents",
+      "57z score",
+      "source"
+    ],
+    "summary": "# Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting > Source: hackernews | Category: news | 2026-07-21T18:23:57Z Score: 23 | Comments: 6"
+  },
+  "c5bfc8acd5a4c120": {
+    "file": "corpus/hackernews/blog_dlang_org_2026_07_19_abusing-overload-sets-to-create-ad_fa82aa6df1.md",
+    "source": "hackernews",
+    "title": "(Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D",
+    "url": "https://blog.dlang.org/2026/07/19/abusing-overload-sets-to-create-ad-hoc-template-apis/",
+    "keywords": [
+      "using overload sets",
+      "using overload sets",
+      "hoc template apis",
+      "hoc template apis",
+      "create ad",
+      "create ad",
+      "59z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# (Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D > Source: hackernews | Category: news | 2026-07-21T18:23:59Z Score: 6 | Comments: 2"
+  },
+  "7eeb889ee5528df7": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-07-21_apple-to-launch-u_30f33f85f2.md",
+    "source": "hackernews",
+    "title": "Apple to launch 'upgrade' device leasing program with Klarna to spur sales",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales",
+    "keywords": [
+      "device leasing program",
+      "device leasing program",
+      "spur sales",
+      "spur sales",
+      "03z score",
+      "upgrade",
+      "upgrade",
+      "source",
+      "news",
+      "launch"
+    ],
+    "summary": "# Apple to launch 'upgrade' device leasing program with Klarna to spur sales > Source: hackernews | Category: news | 2026-07-21T18:24:03Z Score: 8 | Comments: 0"
+  },
+  "1bd2f3feb5f55323": {
+    "file": "corpus/hackernews/github_com_AlmanacCode_codealmanac_71786e3e35.md",
+    "source": "hackernews",
+    "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+    "url": "https://github.com/AlmanacCode/codealmanac/",
+    "keywords": [
+      "future sessions automatically search",
+      "files quickly become outdated",
+      "single file .< p",
+      "actually read .< p",
+      "contains connected markdown pages",
+      "existing codex &# x2f",
+      "start coding .< p",
+      "free .< p",
+      "codex &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. There is almost a sense of relief now knowing that the decisions I made are written down somewhere their agents will actually read.<p>It’s live today for everyone to try. Please let me know your feedback and I’ll be here to answer any questions."
+  },
+  "724354398667a204": {
+    "file": "corpus/hackernews/rootkitlabs_com_2026_06_22_I_27m-Building-a-Secure-USB-Drive_cbcd45e0c7.md",
+    "source": "hackernews",
+    "title": "My USB Drive Has a Hidden Encrypted Vault",
+    "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+    "keywords": [
+      "hidden encrypted vault",
+      "hidden encrypted vault",
+      "usb drive",
+      "usb drive",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# My USB Drive Has a Hidden Encrypted Vault > Source: hackernews | Category: news | 2026-07-21T18:23:58Z Score: 54 | Comments: 21"
+  },
+  "465ed7d88a13cfff": {
+    "file": "corpus/hackernews/github_com_mvp_uhubctl_b74fd3b2e7.md",
+    "source": "hackernews",
+    "title": "Uhubctl – control USB power per-port on smart USB hubs",
+    "url": "https://github.com/mvp/uhubctl",
+    "keywords": [
+      "smart usb hubs",
+      "smart usb hubs",
+      "58z score",
+      "source",
+      "port",
+      "port",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Uhubctl – control USB power per-port on smart USB hubs > Source: hackernews | Category: news | 2026-07-21T18:23:58Z Score: 8 | Comments: 1"
+  },
+  "cd92ba312b0a72ee": {
+    "file": "corpus/hackernews/ai_meta_com_blog_genesis-mission-lawrence-berkeley-national-_98acef3eb1.md",
+    "source": "hackernews",
+    "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "keywords": [
+      "genesis mission projects",
+      "genesis mission projects",
+      "first wave",
+      "first wave",
+      "ai models",
+      "ai models",
+      "57z score",
+      "source",
+      "powering",
+      "powering"
+    ],
+    "summary": "# Meta's AI Models Are Powering the First Wave of Genesis Mission Projects > Source: hackernews | Category: news | 2026-07-21T18:23:57Z Score: 37 | Comments: 14"
+  },
+  "e4bac8a5f45d8afc": {
+    "file": "corpus/hackernews/github_com_cristibaluta_Imagin-Raw_e5b3469f94.md",
+    "source": "hackernews",
+    "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+    "url": "https://github.com/cristibaluta/Imagin-Raw",
+    "keywords": [
+      "imagin raw –",
+      "imagin raw –",
+      "show hn",
+      "show hn",
+      "adobe bridge",
+      "adobe bridge",
+      "9mb open",
+      "9mb open",
+      "58z score",
+      "source alternative"
+    ],
+    "summary": "# Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac > Source: hackernews | Category: news | 2026-07-21T18:23:58Z Score: 12 | Comments: 0"
+  },
+  "ab18150364bfe59f": {
+    "file": "corpus/hackernews/officechai_com_ai_gumroad-says-that-its-now-spending-as-much_928cc25bf4.md",
+    "source": "hackernews",
+    "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
+    "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+    "keywords": [
+      "human employees",
+      "human employees",
+      "gumroad says",
+      "gumroad says",
+      "ai tokens",
+      "ai tokens",
+      "02z score",
+      "spending",
+      "spending",
+      "source"
+    ],
+    "summary": "# Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens > Source: hackernews | Category: news | 2026-07-21T18:24:02Z Score: 10 | Comments: 8"
+  },
+  "9a9fe36d8c16002a": {
+    "file": "corpus/hackernews/blog_mozilla_org_en_firefox_firefox-containers-preview_a0503c5bea.md",
+    "source": "hackernews",
+    "title": "Firefox Containers Preview",
+    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+    "keywords": [
+      "firefox containers preview",
+      "firefox containers preview",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Firefox Containers Preview > Source: hackernews | Category: news | 2026-07-21T18:23:59Z Score: 27 | Comments: 12"
+  },
+  "83e4bc6656e8b467": {
+    "file": "corpus/hackernews/github_com_Observal_Observal_ce1e413880.md",
+    "source": "hackernews",
+    "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
+    "url": "https://github.com/Observal/Observal",
+    "keywords": [
+      "harness self hosted registry",
+      "harness self hosted registry",
+      "show hn",
+      "show hn",
+      "oss cross",
+      "oss cross",
+      "ai agents",
+      "ai agents",
+      "00z score",
+      "source"
+    ],
+    "summary": "# Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents > Source: hackernews | Category: news | 2026-07-21T18:24:00Z Score: 14 | Comments: 1"
+  },
+  "d58543bf4b118d78": {
+    "file": "corpus/hackernews/www_euronews_com_2026_07_21_irans-irgc-claims-attack-on-amaz_16b6fda08d.md",
+    "source": "hackernews",
+    "title": "Iran's IRGC claims attack on Amazon's main data hub in Bahrain",
+    "url": "https://www.euronews.com/2026/07/21/irans-irgc-claims-attack-on-amazons-main-data-hub-in-bahrain",
+    "keywords": [
+      "main data hub",
+      "main data hub",
+      "irgc claims attack",
+      "irgc claims attack",
+      "02z score",
+      "source",
+      "news",
+      "iran",
+      "iran",
+      "hackernews"
+    ],
+    "summary": "# Iran's IRGC claims attack on Amazon's main data hub in Bahrain > Source: hackernews | Category: news | 2026-07-21T18:24:02Z Score: 9 | Comments: 3"
+  },
+  "308ac641a3451f06": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_5lJ0a6tdj-4_bce80f3459.md",
+    "source": "youtube",
+    "title": "[leerob] Merged Version: How to build and debug WebMCP tools for browser agents",
+    "url": "https://www.youtube.com/watch?v=5lJ0a6tdj-4",
+    "keywords": [
+      "alexandra klepper products mentioned",
+      "browser agent integration 03",
+      "home declarative api demo",
+      "webmcp origin trial resources",
+      "setup webmcp origin trial",
+      "browser agents join us",
+      "alexandra klepper details",
+      "imperative api demo",
+      "https :// goo",
+      "https :// goo"
+    ],
+    "summary": "# [leerob] Merged Version: How to build and debug WebMCP tools for browser agents Join us for this special episode of Developer Tooling Tips on tour from Google I/O Connect Berlin! Alexandra Klepper details how WebMCP bridges the gap between your web application and browser agents by providing structured tools."
+  },
+  "61dabadd153aff84": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_21_daily-deal-adguard-personal-or-f_23ea990608.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: AdGuard Personal or Family Plan",
+    "url": "https://www.techdirt.com/2026/07/21/daily-deal-adguard-personal-or-family-plan-2/",
+    "keywords": [
+      "robust parental control system",
+      "comprehensive privacy protection tool",
+      "intuitive ad blocker offers",
+      "unparalleled web experience",
+      "three core features",
+      "disruptive video ads",
+      "[&# 8230 ;]",
+      "57z daily deal",
+      "family plan welcome",
+      "advanced ad"
+    ],
+    "summary": "Welcome to the world of seamless browsing with AdGuard Personal or Family plans. This intuitive ad blocker offers an unparalleled web experience, powered by its three core features: an advanced ad-blocking module, a comprehensive privacy protection tool, and a robust parental control system. Say goodbye to annoying banners, intrusive pop-ups, and disruptive video ads as [&#8230;]"
+  },
+  "31bf3cd2649fb6b8": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_21_florida-fires-expose-violations-_c6e86aa4f7.md",
+    "source": "legal",
+    "title": "[techdirt] Florida Fires Expose Violations Of Over 100 Court Orders By ICE, DOJ",
+    "url": "https://www.techdirt.com/2026/07/21/florida-fires-expose-violations-of-over-100-court-orders-by-ice-doj/",
+    "keywords": [
+      "florida fires expose violations",
+      "florida fires expose violations",
+      "14th amendment &# 8217",
+      "trump administration continues",
+      "nation &# 8217",
+      "fifth circuit continues",
+      "due process rights",
+      "contrary &# 8212",
+      "[&# 8230 ;]",
+      "100 court orders"
+    ],
+    "summary": "# [techdirt] Florida Fires Expose Violations Of Over 100 Court Orders By ICE, DOJ Florida Fires Expose Violations Of Over 100 Court Orders By ICE, DOJ The Trump administration continues to pretend migrants don&#8217;t have due process rights."
+  },
+  "bd04f91c34164a2e": {
+    "file": "corpus/devto/dev_to_renato_marinho_your-incident-postmortems-arent-invest_b62bd86ae2.md",
+    "source": "devto",
+    "title": "Your incident postmortems aren't investigations; they're fan fiction.",
+    "url": "https://dev.to/renato_marinho/your-incident-postmortems-arent-investigations-theyre-fan-fiction-3am",
+    "keywords": [
+      "incident postmortems fail",
+      "incident postmortems",
+      "incident postmortems",
+      "use mcp",
+      "grade rigor",
+      "fan fiction",
+      "fan fiction",
+      "enforce sre",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Your incident postmortems aren't investigations; they're fan fiction. > Source: devto | Category: news | 2026-07-21T18:24:05Z A look at why incident postmortems fail and how we can use MCP to enforce SRE-grade rigor."
+  },
+  "fba4e6182c17636e": {
+    "file": "corpus/devto/dev_to_canro91_ama-2dpe_90624a6cdc.md",
+    "source": "devto",
+    "title": "AMA!",
+    "url": "https://dev.to/canro91/ama-2dpe",
+    "keywords": [
+      "spent 10",
+      "software engineering",
+      "years",
+      "source",
+      "sickness",
+      "reactions",
+      "news",
+      "layoff",
+      "devto",
+      "category"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-21T18:24:06Z I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm..."
+  },
+  "ba6c7dd26cc03c73": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_92_57a305861a.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.92 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.92",
+    "keywords": [
+      "validating mpa form submissions",
+      "91457 ### misc changes",
+      "expand ai agents guide",
+      "single browser instance across",
+      "validate server reference ids",
+      "exact fetch cache key",
+      "image ): improve performance",
+      "92 ### example changes",
+      "cache ): key fetch",
+      "fix unstable_cache syntax error"
+    ],
+    "summary": "- fix: error handling and loading states in with-apollo-and-redux example: #91457 - Upgrade React from `172742b4-20260716` to `81e442ea-20260721`: #96016 - Fix Turbopack middleware matcher with i18n single locale: #96014 - Improve performance of validating MPA form submissions: #96013 - Enforce `serverActions.bodySizeLimit` for Server Actions in Edge runtime: #96012 - Set correct origin for internal redirects in custom server: #96011 - Ensure exotic rewrite param values are properly encoded: #96"
+  },
+  "7b167b001d9a2daf": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-connect-preset-connectors_99206d7da7.md",
+    "source": "vercel-blog",
+    "title": "Vercel Connect adds 90+ preset connectors",
+    "url": "https://vercel.com/changelog/vercel-connect-preset-connectors",
+    "keywords": [
+      "vercel connect adds 90",
+      "vercel connect adds 90",
+      "preset connectors",
+      "preset connectors",
+      "preset connectors",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog"
+    ],
+    "summary": "# Vercel Connect adds 90+ preset connectors > Source: vercel-blog | Category: news | 2026-07-21T18:24:08Z Vercel Connect adds 90+ preset connectors"
+  },
+  "df6af67efaf50deb": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_laguna-s-2-1-is-now-available-on-ai-gat_82f0b524ee.md",
+    "source": "vercel-blog",
+    "title": "Laguna S 2.1 is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway",
+    "keywords": [
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "08z laguna",
+      "laguna",
+      "laguna",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Laguna S 2.1 is now available on AI Gateway > Source: vercel-blog | Category: news | 2026-07-21T18:24:08Z Laguna S 2.1 is now available on AI Gateway"
+  },
+  "085d158a3d0bd4fc": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-mcp-now-supports-purchases_f7b591ddea.md",
+    "source": "vercel-blog",
+    "title": "Vercel MCP now supports purchases",
+    "url": "https://vercel.com/changelog/vercel-mcp-now-supports-purchases",
+    "keywords": [
+      "08z vercel mcp",
+      "vercel mcp",
+      "vercel mcp",
+      "supports purchases",
+      "supports purchases",
+      "supports purchases",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Vercel MCP now supports purchases > Source: vercel-blog | Category: news | 2026-07-21T18:24:08Z Vercel MCP now supports purchases"
   }
 }
