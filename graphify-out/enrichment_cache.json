@@ -268141,5 +268141,138 @@
       "configure"
     ],
     "summary": "# Configure where run state lives in Vercel Workflows > Source: vercel-blog | Category: news | 2026-07-20T23:08:25Z Configure where run state lives in Vercel Workflows"
+  },
+  "2b39cd531d2d9674": {
+    "file": "corpus/hackernews/www_routledge_com_The-Psychology-of-Software-Teams_Hicks_p_b_2700639363.md",
+    "source": "hackernews",
+    "title": "The Psychology of Software Teams",
+    "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+    "keywords": [
+      "software teams",
+      "software teams",
+      "09z score",
+      "source",
+      "psychology",
+      "psychology",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Psychology of Software Teams > Source: hackernews | Category: news | 2026-07-21T00:07:09Z Score: 4 | Comments: 1"
+  },
+  "1441e4f8f6052946": {
+    "file": "corpus/hackernews/fortune_com_2026_07_14_voters-ai-backlash-politicians-lose-s_ac7e20bc41.md",
+    "source": "hackernews",
+    "title": "Americans hate AI so much that politicians are losing their jobs over it",
+    "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
+    "keywords": [
+      "americans hate ai",
+      "americans hate ai",
+      "12z score",
+      "source",
+      "politicians",
+      "politicians",
+      "news",
+      "much",
+      "much",
+      "losing"
+    ],
+    "summary": "# Americans hate AI so much that politicians are losing their jobs over it > Source: hackernews | Category: news | 2026-07-21T00:07:12Z Score: 17 | Comments: 2"
+  },
+  "1a36d9933ad627e5": {
+    "file": "corpus/devto/dev_to_yura_solovey_when-does-a-prompt-become-an-undocumente_22c1ab0e53.md",
+    "source": "devto",
+    "title": "When Does a Prompt Become an Undocumented Program?",
+    "url": "https://dev.to/yura_solovey/when-does-a-prompt-become-an-undocumented-program-4i6b",
+    "keywords": [
+      "task seemed fairly",
+      "analysts ’ work",
+      "undocumented program",
+      "undocumented program",
+      "prompt become",
+      "prompt become",
+      "first decided",
+      "bring ai",
+      "source",
+      "reactions"
+    ],
+    "summary": "# When Does a Prompt Become an Undocumented Program? > Source: devto | Category: news | 2026-07-21T00:07:17Z When we first decided to bring AI into analysts’ work, the task seemed fairly down-to-earth."
+  },
+  "be637c8a0b205e3c": {
+    "file": "corpus/devto/dev_to_ejmeri_um-guia-open-source-em-portugues-para-se-prepa_2fedaba529.md",
+    "source": "devto",
+    "title": "Um guia open source (em português) para se preparar para entrevistas técnicas backend",
+    "url": "https://dev.to/ejmeri/um-guia-open-source-em-portugues-para-se-preparar-para-entrevistas-tecnicas-backend-2eap",
+    "keywords": [
+      "um guia open source",
+      "um guia open source",
+      "em português",
+      "em português",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "21t00"
+    ],
+    "summary": "# Um guia open source (em português) para se preparar para entrevistas técnicas backend > Source: devto | Category: news | 2026-07-21T00:07:16Z Passei os últimos meses me preparando para processos seletivos de backend e percebi um problema: o..."
+  },
+  "430564f7f79ab0a1": {
+    "file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_37_0-beta_0_0de0e71fa5.md",
+    "source": "github-releases",
+    "title": "kubernetes/kubernetes v1.37.0-beta.0 released",
+    "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-beta.0",
+    "keywords": [
+      "forum /#! forum",
+      "additional binary downloads",
+      "53z ## kubernetes",
+      "kubernetes — v1",
+      "announce ).",
+      "kubernetes v1",
+      "kubernetes v1",
+      "md ).",
+      "0 released",
+      "0 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-21T00:07:53Z Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.37.md). See the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.37.md) for more details."
+  },
+  "37e0de32f3af20e0": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_91_895d70b3f4.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.91 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.91",
+    "keywords": [
+      "91 ### misc changes",
+      "skip redundant top",
+      "server requests bypass",
+      "run rust doctests",
+      "level root updates",
+      "drop unused exports",
+      "js — v16",
+      "43z ## vercel",
+      "js v16",
+      "js v16"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-21T00:07:43Z - [turbopack] Skip redundant top-level root updates: #95903 - [turbopack] Drop unused exports from a CJS module: #95716 - Turbopack: Simplify parent directory creation retry loop logic: #95835 - Run Rust doctests in CI: #95911 - docs: add 'Set up your editor' to the installation guide: #95928 - fix(cms-contentful): await draftMode() and use Promise<> params type: #95631 - Move outputHashSalt out of experimental: #95840 - Move"
+  },
+  "ec8597088378b019": {
+    "file": "corpus/product/techcrunch_com_2026_07_20_colossal-biosciences-reportedly-in_f18e917ea8.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+    "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+    "keywords": [
+      "20b –$ 30b valuation",
+      "20b –$ 30b valuation",
+      "20b –$ 30b valuation",
+      "09z colossal biosciences reportedly",
+      "colossal biosciences reportedly",
+      "colossal biosciences reportedly",
+      "raise new capital",
+      "raise new capital",
+      "raise new capital",
+      "previous valuation"
+    ],
+    "summary": "# [techcrunch-startups] Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation The de-extinction startup is looking to double or triple its previous valuation, according to the report."
   }
 }
