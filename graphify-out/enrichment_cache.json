@@ -281193,5 +281193,381 @@
       "7 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-22T20:48:52Z Changes since langchain-openrouter==0.2.6 release(openrouter): 0.2.7 (#39022) chore(model-profiles): refresh model profile data (#39010) chore(model-profiles): refresh model profile data (#38990) chore(model-profiles): refresh model profile data (#38927) chore(model-profiles): refresh model profile data (#38905) chore(model-profiles): refresh model profile data (#38876) chore(model-profiles): refresh model profile data (#3885"
+  },
+  "7d2e03e866a155e2": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_9y8_QYiC9AM_f06980a42c.md",
+    "source": "youtube",
+    "title": "[theo] We've been cooking",
+    "url": "https://www.youtube.com/watch?v=9y8_QYiC9AM",
+    "keywords": [
+      "cooking sup nerds",
+      "got things",
+      "cooking",
+      "cooking",
+      "youtube",
+      "video",
+      "theo",
+      "theo",
+      "source",
+      "discuss"
+    ],
+    "summary": "# [theo] We've been cooking > Source: youtube | Category: video | 2026-07-22T21:55:01Z Sup nerds we got things to discuss."
+  },
+  "b8de75f982b65364": {
+    "file": "corpus/devto/dev_to_giboulz_i-ran-3-months-of-spec-driven-development-wit_171a31616f.md",
+    "source": "devto",
+    "title": "I ran 3 months of spec-driven development without ever reading the code",
+    "url": "https://dev.to/giboulz/i-ran-3-months-of-spec-driven-development-without-ever-reading-the-code-1nbc",
+    "keywords": [
+      "ticket model dosing",
+      "review gate run",
+      "ran 3 months",
+      "ran 3 months",
+      "black box forced",
+      "know nothing",
+      "treating code",
+      "code",
+      "code",
+      "code"
+    ],
+    "summary": "# I ran 3 months of spec-driven development without ever reading the code > Source: devto | Category: news | 2026-07-22T21:54:47Z How treating code as a black box forced me to build a backlog that lives in git, per-ticket model dosing, and a review gate run by agents who know nothing about the code."
+  },
+  "bbee5a45d571df7a": {
+    "file": "corpus/devto/dev_to_alex_spinov_zero-failures-isnt-zero-risk-the-rule-of-_d4a770d0fe.md",
+    "source": "devto",
+    "title": "Zero failures isn't zero risk: the rule of three for evals",
+    "url": "https://dev.to/alex_spinov/zero-failures-isnt-zero-risk-the-rule-of-three-for-evals-4hcd",
+    "keywords": [
+      "evals says zero failures",
+      "zero failures",
+      "zero failures",
+      "0 failures",
+      "zero risk",
+      "zero risk",
+      "n runs",
+      "n ...",
+      "evals",
+      "evals"
+    ],
+    "summary": "# Zero failures isn't zero risk: the rule of three for evals > Source: devto | Category: news | 2026-07-22T21:54:44Z The rule of three for evals says zero failures in N runs is a count, not a rate."
+  },
+  "6380c11745e468bd": {
+    "file": "corpus/devto/dev_to_vkimutai_why-youre-slowing-yourself-down-by-avoiding-_53f709537d.md",
+    "source": "devto",
+    "title": "Why You're Slowing Yourself Down By Avoiding The Terminal",
+    "url": "https://dev.to/vkimutai/why-youre-slowing-yourself-down-by-avoiding-the-terminal-5e54",
+    "keywords": [
+      "debating state management",
+      "terminal",
+      "terminal",
+      "source",
+      "slowing",
+      "slowing",
+      "reactions",
+      "news",
+      "devto",
+      "customizing"
+    ],
+    "summary": "# Why You're Slowing Yourself Down By Avoiding The Terminal > Source: devto | Category: news | 2026-07-22T21:54:47Z We spend weeks mastering new JavaScript frameworks, debating state management, and customizing our..."
+  },
+  "ab62480ec00a7bdb": {
+    "file": "corpus/devto/dev_to_amit_kumar_jha_quant_monte-carlo-simulation-in-financ_ccfc759d47.md",
+    "source": "devto",
+    "title": "Monte Carlo Simulation in Finance: From Random Walks to Option Pricing",
+    "url": "https://dev.to/amit_kumar_jha_quant/monte-carlo-simulation-in-finance-from-random-walks-to-option-pricing-47p9",
+    "keywords": [
+      "swiss army knife",
+      "monte carlo simulation",
+      "monte carlo simulation",
+      "monte carlo simulation",
+      "quantitative finance ....",
+      "monte carlo",
+      "random walks",
+      "random walks",
+      "option pricing",
+      "option pricing"
+    ],
+    "summary": "# Monte Carlo Simulation in Finance: From Random Walks to Option Pricing > Source: devto | Category: news | 2026-07-22T21:54:46Z Monte Carlo simulation is the Swiss Army knife of quantitative finance...."
+  },
+  "d540f69e32562867": {
+    "file": "corpus/devto/dev_to_darshanraval_i-built-an-ai-employee-instead-of-an-ai-_23bc1aa508.md",
+    "source": "devto",
+    "title": "I Built an AI Employee Instead of an AI Chatbot",
+    "url": "https://dev.to/darshanraval/i-built-an-ai-employee-instead-of-an-ai-chatbot-5i",
+    "keywords": [
+      "ai chatbot everyone seems",
+      "building ai ...",
+      "ai employee instead",
+      "ai employee instead",
+      "ai employee instead",
+      "ai chatbot",
+      "ai chatbot",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I Built an AI Employee Instead of an AI Chatbot > Source: devto | Category: news | 2026-07-22T21:54:44Z I Built an AI Employee Instead of an AI Chatbot    Everyone seems to be building AI..."
+  },
+  "e4d2486707b30b2e": {
+    "file": "corpus/devto/dev_to_darshanraval_stop-writing-prompts-start-writing-conte_3b63548b83.md",
+    "source": "devto",
+    "title": "Stop Writing Prompts. Start Writing Context",
+    "url": "https://dev.to/darshanraval/stop-writing-prompts-start-writing-context-1po3",
+    "keywords": [
+      "44z stop writing prompts",
+      "stop writing prompts",
+      "stop writing prompts",
+      "start writing context",
+      "start writing context",
+      "start writing context",
+      "writing ...",
+      "everyone talked",
+      "source",
+      "reactions"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-22T21:54:44Z Stop Writing Prompts. For months, everyone talked about writing..."
+  },
+  "1b8dad9bc2ec9ad5": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_isps-long-nightmare-of-h_15f05035fd.md",
+    "source": "legal",
+    "title": "[ars-policy] ISPs' long nightmare of having to list all the fees they charge is finally over",
+    "url": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+    "keywords": [
+      "long nightmare",
+      "long nightmare",
+      "long nightmare",
+      "companies complained",
+      "37z isps",
+      "isps",
+      "isps",
+      "source",
+      "policy",
+      "policy"
+    ],
+    "summary": "# [ars-policy] ISPs' long nightmare of having to list all the fees they charge is finally over ISPs' long nightmare of having to list all the fees they charge is finally over FCC lets ISPs stop listing all fees after companies complained it was too hard."
+  },
+  "fca1d19d7122c520": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_attackers-live-off-ai-toolcha_b6268eeeff.md",
+    "source": "security",
+    "title": "[dark-reading] Attackers Are Learning to Live Off the AI Toolchain",
+    "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+    "keywords": [
+      "exploits trusted ai tools",
+      "ai toolchain sandworm_mode",
+      "ai toolchain",
+      "ai toolchain",
+      "normal activity",
+      "early example",
+      "37z attackers",
+      "attackers",
+      "attackers",
+      "workflows"
+    ],
+    "summary": "# [dark-reading] Attackers Are Learning to Live Off the AI Toolchain Attackers Are Learning to Live Off the AI Toolchain Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity."
+  },
+  "6e92e545f7ab6b23": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_upbound-says-hack-cau_4d491fd7a7.md",
+    "source": "security",
+    "title": "[bleeping-comp] Upbound says hack caused $13 million in fraudulent Acima leases",
+    "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+    "keywords": [
+      "upbound says hack caused",
+      "upbound says hack caused",
+      "fraudulent acima leases",
+      "fraudulent acima leases",
+      "fraudulent acima leases",
+      "acima leases",
+      "threat actors",
+      "systems leveraged",
+      "stole data",
+      "13 million"
+    ],
+    "summary": "# [bleeping-comp] Upbound says hack caused $13 million in fraudulent Acima leases Upbound says hack caused $13 million in fraudulent Acima leases The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases."
+  },
+  "46a0b915e520b6d3": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_eve-extensions_c5b2ad6b16.md",
+    "source": "vercel-blog",
+    "title": "Extend eve agents with installable extensions",
+    "url": "https://vercel.com/changelog/eve-extensions",
+    "keywords": [
+      "49z extend eve agents",
+      "extend eve agents",
+      "extend eve agents",
+      "installable extensions",
+      "installable extensions",
+      "installable extensions",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Extend eve agents with installable extensions > Source: vercel-blog | Category: news | 2026-07-22T21:54:49Z Extend eve agents with installable extensions"
+  },
+  "9bff4a1349f1a556": {
+    "file": "corpus/hackernews/arstechnica_com_tech-policy_2026_07_isps-long-nightmare-of-h_15f05035fd.md",
+    "source": "hackernews",
+    "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+    "url": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+    "keywords": [
+      "long nightmare",
+      "long nightmare",
+      "42z score",
+      "source",
+      "news",
+      "list",
+      "list",
+      "isps",
+      "isps",
+      "hackernews"
+    ],
+    "summary": "# ISPs' long nightmare of having to list all the fees they charge is finally over > Source: hackernews | Category: news | 2026-07-22T21:54:42Z Score: 16 | Comments: 0"
+  },
+  "c47c66204b379ddf": {
+    "file": "corpus/hackernews/webkit_org_blog_18162_release-notes-for-safari-technology-pr_bc571d12f5.md",
+    "source": "hackernews",
+    "title": "Safari Technology Preview 248 Released",
+    "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+    "keywords": [
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "22t21",
+      "2026"
+    ],
+    "summary": "# Safari Technology Preview 248 Released > Source: hackernews | Category: news | 2026-07-22T21:54:38Z Score: 27 | Comments: 2"
+  },
+  "3501dc500718cdf1": {
+    "file": "corpus/hackernews/resobscura_substack_com_p_quality-non-fiction-books-are-the_112f311453.md",
+    "source": "hackernews",
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "keywords": [
+      "app &# x2f ;</",
+      "quality non",
+      "quality non",
+      "fiction books",
+      "fiction books",
+      "ai slop",
+      "ai slop",
+      "38z score",
+      "vercel",
+      "vercel"
+    ],
+    "summary": "# Quality non-fiction books are the antithesis of AI slop > Source: hackernews | Category: news | 2026-07-22T21:54:38Z Score: 7 | Comments: 2"
+  },
+  "935489fbc831d9f8": {
+    "file": "corpus/hackernews/mattjhall_co_uk_posts_taking-ocaml-eio-for-a-spin_html_f3c43ff92a.md",
+    "source": "hackernews",
+    "title": "Taking OCaml and Eio for a Spin",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "keywords": [
+      "taking ocaml",
+      "taking ocaml",
+      "39z score",
+      "spin",
+      "spin",
+      "source",
+      "news",
+      "hackernews",
+      "eio",
+      "eio"
+    ],
+    "summary": "# Taking OCaml and Eio for a Spin > Source: hackernews | Category: news | 2026-07-22T21:54:39Z Score: 21 | Comments: 2"
+  },
+  "bb9029a8661b7fce": {
+    "file": "corpus/hackernews/www_hakstuff_net_blog_teardown-the-bmw-idc23h-infotainment-u_e71b83da97.md",
+    "source": "hackernews",
+    "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+    "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+    "keywords": [
+      "harman idc23h infotainment unit",
+      "harman idc23h infotainment unit",
+      "41z score",
+      "teardown",
+      "teardown",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Teardown: The BMW / Harman IDC23H Infotainment Unit (B423) > Source: hackernews | Category: news | 2026-07-22T21:54:41Z Score: 6 | Comments: 0"
+  },
+  "311174d4d7c7c054": {
+    "file": "corpus/hackernews/yummymelon_com_devnull_malleable-computing-emacs-and-you_htm_f70c19d300.md",
+    "source": "hackernews",
+    "title": "Malleable Computing, Emacs, and You",
+    "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "keywords": [
+      "malleable computing",
+      "malleable computing",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "emacs",
+      "emacs",
+      "comments",
+      "category"
+    ],
+    "summary": "# Malleable Computing, Emacs, and You > Source: hackernews | Category: news | 2026-07-22T21:54:37Z Score: 23 | Comments: 2"
+  },
+  "b2ea0785ef0ff285": {
+    "file": "corpus/hackernews/nondescriptpointer_com_articles_fairphone-6-wide-camera-linu_c287b6212b.md",
+    "source": "hackernews",
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "keywords": [
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "22t21",
+      "2026"
+    ],
+    "summary": "# Fairphone 6 wide camera experimental Linux support > Source: hackernews | Category: news | 2026-07-22T21:54:39Z Score: 15 | Comments: 0"
+  },
+  "93c06ac6e98f02d5": {
+    "file": "corpus/hackernews/citizendot_github_io_articles_fake-job-interview-git-hook-ma_adff176fe2.md",
+    "source": "hackernews",
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "keywords": [
+      "home interview project",
+      "home interview project",
+      "whole operation",
+      "whole operation",
+      "37z score",
+      "take",
+      "take",
+      "source",
+      "news",
+      "inspected"
+    ],
+    "summary": "# I Inspected My Take-Home Interview Project. It Was a Whole Operation > Source: hackernews | Category: news | 2026-07-22T21:54:37Z"
+  },
+  "599187e6ab556665": {
+    "file": "corpus/hackernews/www_techdirt_com_2026_07_22_doj-now-citing-fake-ai-generated_73f140253a.md",
+    "source": "hackernews",
+    "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+    "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+    "keywords": [
+      "keep ice detainees locked",
+      "keep ice detainees locked",
+      "citing fake ai",
+      "citing fake ai",
+      "generated cases",
+      "generated cases",
+      "43z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up > Source: hackernews | Category: news | 2026-07-22T21:54:43Z Score: 12 | Comments: 0"
   }
 }
