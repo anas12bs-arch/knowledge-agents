@@ -1,0 +1,22 @@
+---
+title: "Show HN: ValuePair – a friendship app that cares about values first"
+url: "https://valuepair.app"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-07-22T23:40:35Z"
+metadata:
+  score: "4"
+---
+
+# Show HN: ValuePair – a friendship app that cares about values first
+
+> Source: hackernews | Category: news | 2026-07-22T23:40:35Z
+
+Score: 4 | Comments: 4
+
+Hey,<p>I would like to show you my project, but it&#x27;s difficult because it only works with a registration, so I explain the concept to you.<p>The Idea:
+Everyone who registers has to do an onboarding and answer meaningful questions that help you to find a right match. The matching happens by the system. Once you&#x27;re done with the onboarding, you enter the pool. When a match is found, you go into a 1on1 14 question-set with that person. All answers are revealed immediately. At the end both decide if they form a connection or not. Only if both agree, the chat opens. Once a connection is formed, they can play through other prepared question sets, so the conversation doesn&#x27;t get dry. It&#x27;s also possible to create custom question sets to play through with your connected matches.<p>I just got this idea because I really wanted away from all the typical friendship and dating apps that are just a marketplace of user profiles. I feel like that&#x27;s the only hook other apps offer, people come back because they are bored and browse through profiles. On tinder it&#x27;s swiping through pictures and on other apps it&#x27;s a list of profiles where you can filter with your matching criteria. But all that felt just shallow to me. I think people rarely ask the right questions each other, like really mandatory things that matter to form a any kind of relationship with someone. I&#x27;ve been on multiple different social platforms and it always felt mega shallow. Most people can&#x27;t even start a good conversation, it&#x27;s often just stuck at small talk. Maybe it&#x27;s not even peoples fault, that&#x27;s why I tried with these question sets to tackle multiple problems. First, that you don&#x27;t even have to bother with someone if you have entirely different worldviews, which you would normally just find out if you talk long enough with someone. And second, just killing the small talk issue, by giving people a base.<p>So before I started coding this project, I actually did a research if there is anything backed by science to find out, which kind of questions would actually matter to find out, if you can handle someone. There were a lot of studies I&#x27;ve found e.g. &quot;Aron and colleagues (1997)&quot;, &quot;Hall (2019)&quot;, &quot;Byrne (1971)&quot;, &quot;Finkel and colleagues (2012)&quot; and &quot;Hazan and Shaver (1987)&quot;. I took their research work and tried to create questions based on them.<p>The project is running on Next, Postgresql, everything dockerized, running on a small Hetzner VPS.
+I used Claude+Codex to develop everything, but I wouldn&#x27;t say it&#x27;s really vibecoded, since I work as a Senior Dev and I used my main tech stack.<p>It&#x27;s an open beta currently and it&#x27;s live for like 14 days - I have ~150 users right now. And honestly, I am really overwhelmed by those numbers, because it&#x27;s the first time that I ever managed to attract this amount of people on a project I&#x27;ve launched.<p>When I started, I launched it as a closed beta, so it was invite only. During that period I got so much good feedback from people, it was incredible. I implemented almost everything my first users told me. Since all the changes, I didn&#x27;t retrieve any further feedback what people wish would be different. It&#x27;s just constant good feedback since then. People contact me from alone and just tell me how much they like these questions and the loop.<p>My marketing strategy is mainly Reddit currently, but I started also new methods. I found some super relevant subreddits that had no rules against advertising. When I wrote my posts on reddit, I didn&#x27;t mention a product name or link. I&#x27;ve only described the idea and if somebody would have interest trying it out. That worked surprisingly well.
+Another thing I&#x27;ve done was using a social app that allows anonymous posts at your current location, kinda something like &quot;Nextdoor&quot;.
+Posts on this app bring me daily 1-5 new registrations.<p>I wonder what you guys think about it and I am open for any critics!
