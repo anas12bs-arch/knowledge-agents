@@ -19548,6 +19548,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_autoshiftops_i_built_a_sql_diagnostics_tool_for_devel_6083fe4783",
+      "label": "dev_to_autoshiftops_i-built-a-sql-diagnostics-tool-for-devel_6083fe4783.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_autoshiftops_i-built-a-sql-diagnostics-tool-for-devel_6083fe4783.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_autoshiftops_i_built_a_sql_diagnostics_tool_for_devel_6083fe4783_i_built_a_sql_diagnostics_tool_for_developers_who_don_t_have_a_dba",
+      "label": "I Built a SQL Diagnostics Tool for Developers Who Don't Have a DBA",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_autoshiftops_i-built-a-sql-diagnostics-tool-for-devel_6083fe4783.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_avi_arora_0206_i_joined_ericsson_with_modern_skills_t_f97c949076",
       "label": "dev_to_avi_arora_0206_i-joined-ericsson-with-modern-skills-t_f97c949076.md",
       "file_type": "document",
@@ -34584,6 +34600,22 @@
       "label": "I couldn't find an npm package to sort filenames into buckets, so I built one",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_elizabethsobiya_i-couldnt-find-an-npm-package-to-sort_dc52842961.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_elkhiar_4780f5eb3f1f84d0b_i_built_tabscroll_because_i_d3b2d1b059",
+      "label": "dev_to_elkhiar_4780f5eb3f1f84d0b_i-built-tabscroll-because-i_d3b2d1b059.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_elkhiar_4780f5eb3f1f84d0b_i-built-tabscroll-because-i_d3b2d1b059.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_elkhiar_4780f5eb3f1f84d0b_i_built_tabscroll_because_i_d3b2d1b059_i_built_tabscroll_because_i_was_tired_of_losing_tabs",
+      "label": "I built TabScroll because I was tired of losing tabs",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_elkhiar_4780f5eb3f1f84d0b_i-built-tabscroll-because-i_d3b2d1b059.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -73180,6 +73212,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_devto_dev_to_reporails_loop_engineering_how_to_stop_your_agent_rew_cf7e6cbaba",
+      "label": "dev_to_reporails_loop-engineering-how-to-stop-your-agent-rew_cf7e6cbaba.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_reporails_loop-engineering-how-to-stop-your-agent-rew_cf7e6cbaba.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_reporails_loop_engineering_how_to_stop_your_agent_rew_cf7e6cbaba_loop_engineering_how_to_stop_your_agent_reward_hacking_its_own_checks",
+      "label": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_reporails_loop-engineering-how-to-stop-your-agent-rew_cf7e6cbaba.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_devto_dev_to_reporails_prompt_engineering_context_engineering_loop_0eb08536b0",
       "label": "dev_to_reporails_prompt-engineering-context-engineering-loop_0eb08536b0.md",
       "file_type": "document",
@@ -108892,6 +108940,30 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298",
+      "label": "github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298.md",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298_kubernetes_kubernetes_v1_34_10_released",
+      "label": "kubernetes/kubernetes v1.34.10 released",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298_kubernetes_kubernetes_v1_34_10",
+      "label": "kubernetes/kubernetes — v1.34.10",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_9_50ad0e0608",
       "label": "github_com_kubernetes_kubernetes_releases_tag_v1_34_9_50ad0e0608.md",
       "file_type": "document",
@@ -108936,6 +109008,30 @@
       "label": "kubernetes/kubernetes — v1.35.6",
       "file_type": "document",
       "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_6_4e856d5225.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f",
+      "label": "github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f.md",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f_kubernetes_kubernetes_v1_35_7_released",
+      "label": "kubernetes/kubernetes v1.35.7 released",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f_kubernetes_kubernetes_v1_35_7",
+      "label": "kubernetes/kubernetes — v1.35.7",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f.md",
       "source_location": "L17",
       "_origin": "ast"
     },
@@ -125564,6 +125660,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_cacm_acm_org_blogcacm_if_you_think_you_can_do_real_world_tex_d32b723db4",
+      "label": "cacm_acm_org_blogcacm_if-you-think-you-can-do-real-world-tex_d32b723db4.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/cacm_acm_org_blogcacm_if-you-think-you-can-do-real-world-tex_d32b723db4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_cacm_acm_org_blogcacm_if_you_think_you_can_do_real_world_tex_d32b723db4_any_text_to_sql_benchmark_should_address_difficulties_of_real_world_data_stores",
+      "label": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/cacm_acm_org_blogcacm_if-you-think-you-can-do-real-world-tex_d32b723db4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_cacm_acm_org_federal_funding_of_academic_research_the_llvm_c_e77c0d87b2",
       "label": "cacm_acm_org_federal-funding-of-academic-research_the-llvm-c_e77c0d87b2.md",
       "file_type": "document",
@@ -135516,6 +135628,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_github_com_cactus_compute_cactus_hybrid_df8198b3a4",
+      "label": "github_com_cactus-compute_cactus-hybrid_df8198b3a4.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_cactus-compute_cactus-hybrid_df8198b3a4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_cactus_compute_cactus_hybrid_df8198b3a4_show_hn_cactus_hybrid_we_taught_gemma_4_to_know_when_it_s_wrong",
+      "label": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_cactus-compute_cactus-hybrid_df8198b3a4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_github_com_cajal_technologies_talos_6da3d524ea",
       "label": "github_com_cajal-technologies_talos_6da3d524ea.md",
       "file_type": "document",
@@ -145404,6 +145532,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_liquidbrain_ai_8053ac4f85",
+      "label": "liquidbrain_ai_8053ac4f85.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/liquidbrain_ai_8053ac4f85.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_liquidbrain_ai_8053ac4f85_show_hn_liquidbrain_unlimited_tokens_unlimited_context_one_fixed_price",
+      "label": "Show HN: LiquidBrain – Unlimited Tokens. Unlimited Context. One Fixed Price",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/liquidbrain_ai_8053ac4f85.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_lispcookbook_github_io_cl_cookbook_lispworks_html_6e56dfe9a5",
       "label": "lispcookbook_github_io_cl-cookbook_lispworks_html_6e56dfe9a5.md",
       "file_type": "document",
@@ -154776,6 +154920,22 @@
       "label": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
       "file_type": "document",
       "source_file": "corpus/hackernews/pmbanugo_me_blog_why-async-await-complect-concurrency_2a006ff336.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_pmc_ncbi_nlm_nih_gov_articles_pmc6353111_b3a7ce62fa",
+      "label": "pmc_ncbi_nlm_nih_gov_articles_PMC6353111_b3a7ce62fa.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/pmc_ncbi_nlm_nih_gov_articles_PMC6353111_b3a7ce62fa.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_pmc_ncbi_nlm_nih_gov_articles_pmc6353111_b3a7ce62fa_why_do_we_love_music_2018",
+      "label": "Why do we love music? (2018)",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/pmc_ncbi_nlm_nih_gov_articles_PMC6353111_b3a7ce62fa.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -170604,6 +170764,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_cnn_com_2026_07_15_science_medici_family_mystery_dna_mal_75a6396f3f",
+      "label": "www_cnn_com_2026_07_15_science_medici-family-mystery-dna-mal_75a6396f3f.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_cnn_com_2026_07_15_science_medici-family-mystery-dna-mal_75a6396f3f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_cnn_com_2026_07_15_science_medici_family_mystery_dna_mal_75a6396f3f_medici_family_mystery_may_be_solved_after_more_than_400_years",
+      "label": "Medici family mystery may be solved after more than 400 years",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_cnn_com_2026_07_15_science_medici-family-mystery-dna-mal_75a6396f3f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_cnn_com_climate_new_jersey_balcony_solar_renters_97042aec27",
       "label": "www_cnn_com_climate_new-jersey-balcony-solar-renters_97042aec27.md",
       "file_type": "document",
@@ -170648,6 +170824,22 @@
       "label": "Cleaning up after AI rockstar developers",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_codingwithjesse_com_blog_rockstar-developers_d4d728962b.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_cole_k_com_2026_07_21_reddit_9fda597f5d",
+      "label": "www_cole-k_com_2026_07_21_reddit_9fda597f5d.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_cole-k_com_2026_07_21_reddit_9fda597f5d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_cole_k_com_2026_07_21_reddit_9fda597f5d_so_reddit_has_decided_that_plain_html_is_unsafe",
+      "label": "So Reddit has decided that plain HTML is unsafe",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_cole-k_com_2026_07_21_reddit_9fda597f5d.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -198572,6 +198764,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_legal_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda",
+      "label": "www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda_eff_the_fourth_circuit_says_border_agents_can_search_your_phone_by_hand_no_suspicion_required",
+      "label": "[eff] The Fourth Circuit Says Border Agents Can Search Your Phone By Hand, No Suspicion Required",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_legal_www_eff_org_deeplinks_2026_07_googles_new_remote_attestation_1607c0b842",
       "label": "www_eff_org_deeplinks_2026_07_googles-new-remote-attestation_1607c0b842.md",
       "file_type": "document",
@@ -202792,6 +203000,22 @@
       "label": "[techdirt] Careful What You Sue For: Trump’s BBC Case Just Forced His Financial Records Into Discovery",
       "file_type": "document",
       "source_file": "corpus/legal/www_techdirt_com_2026_07_22_careful-what-you-sue-for-trumps-_58196460f3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_techdirt_com_2026_07_22_ctrl_alt_speech_spotlight_pwcs_d_b390adb7c7",
+      "label": "www_techdirt_com_2026_07_22_ctrl-alt-speech-spotlight-pwcs-d_b390adb7c7.md",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_22_ctrl-alt-speech-spotlight-pwcs-d_b390adb7c7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_legal_www_techdirt_com_2026_07_22_ctrl_alt_speech_spotlight_pwcs_d_b390adb7c7_techdirt_ctrl_alt_speech_spotlight_pwc_s_dan_hays_on_the_future_of_trust_safety",
+      "label": "[techdirt] Ctrl-Alt-Speech Spotlight: PwC’s Dan Hays On The Future Of Trust & Safety",
+      "file_type": "document",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_22_ctrl-alt-speech-spotlight-pwcs-d_b390adb7c7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -252772,6 +252996,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_devto_dev_to_autoshiftops_i_built_a_sql_diagnostics_tool_for_devel_6083fe4783",
+      "target": "corpus_devto_dev_to_autoshiftops_i_built_a_sql_diagnostics_tool_for_devel_6083fe4783_i_built_a_sql_diagnostics_tool_for_developers_who_don_t_have_a_dba",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_autoshiftops_i-built-a-sql-diagnostics-tool-for-devel_6083fe4783.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_devto_dev_to_avi_arora_0206_i_joined_ericsson_with_modern_skills_t_f97c949076",
       "target": "corpus_devto_dev_to_avi_arora_0206_i_joined_ericsson_with_modern_skills_t_f97c949076_i_joined_ericsson_with_modern_skills_the_codebase_was_from_another_era_so_i_gave_our_ai_a_memory",
       "relation": "contains",
@@ -262167,6 +262401,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_elizabethsobiya_i-couldnt-find-an-npm-package-to-sort_dc52842961.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_devto_dev_to_elkhiar_4780f5eb3f1f84d0b_i_built_tabscroll_because_i_d3b2d1b059",
+      "target": "corpus_devto_dev_to_elkhiar_4780f5eb3f1f84d0b_i_built_tabscroll_because_i_d3b2d1b059_i_built_tabscroll_because_i_was_tired_of_losing_tabs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_elkhiar_4780f5eb3f1f84d0b_i-built-tabscroll-because-i_d3b2d1b059.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -286302,6 +286546,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_devto_dev_to_reporails_loop_engineering_how_to_stop_your_agent_rew_cf7e6cbaba",
+      "target": "corpus_devto_dev_to_reporails_loop_engineering_how_to_stop_your_agent_rew_cf7e6cbaba_loop_engineering_how_to_stop_your_agent_reward_hacking_its_own_checks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_reporails_loop-engineering-how-to-stop-your-agent-rew_cf7e6cbaba.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_devto_dev_to_reporails_prompt_engineering_context_engineering_loop_0eb08536b0",
       "target": "corpus_devto_dev_to_reporails_prompt_engineering_context_engineering_loop_0eb08536b0_prompt_engineering_context_engineering_loop_engineering_what_actually_changed",
       "relation": "contains",
@@ -310052,6 +310306,26 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298",
+      "target": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298_kubernetes_kubernetes_v1_34_10_released",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298_kubernetes_kubernetes_v1_34_10_released",
+      "target": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298_kubernetes_kubernetes_v1_34_10",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_34_10_64c4793298.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_9_50ad0e0608",
       "target": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_34_9_50ad0e0608_kubernetes_kubernetes_v1_34_9_released",
       "relation": "contains",
@@ -310087,6 +310361,26 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_6_4e856d5225.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f",
+      "target": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f_kubernetes_kubernetes_v1_35_7_released",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f_kubernetes_kubernetes_v1_35_7_released",
+      "target": "corpus_github_releases_github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f_kubernetes_kubernetes_v1_35_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_7_4b05a0e98f.md",
       "source_location": "L17",
       "weight": 1.0,
       "_origin": "ast"
@@ -323292,6 +323586,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_cacm_acm_org_blogcacm_if_you_think_you_can_do_real_world_tex_d32b723db4",
+      "target": "corpus_hackernews_cacm_acm_org_blogcacm_if_you_think_you_can_do_real_world_tex_d32b723db4_any_text_to_sql_benchmark_should_address_difficulties_of_real_world_data_stores",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/cacm_acm_org_blogcacm_if-you-think-you-can-do-real-world-tex_d32b723db4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_cacm_acm_org_federal_funding_of_academic_research_the_llvm_c_e77c0d87b2",
       "target": "corpus_hackernews_cacm_acm_org_federal_funding_of_academic_research_the_llvm_c_e77c0d87b2_the_llvm_compiler_infrastructure",
       "relation": "contains",
@@ -329512,6 +329816,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_github_com_cactus_compute_cactus_hybrid_df8198b3a4",
+      "target": "corpus_hackernews_github_com_cactus_compute_cactus_hybrid_df8198b3a4_show_hn_cactus_hybrid_we_taught_gemma_4_to_know_when_it_s_wrong",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_cactus-compute_cactus-hybrid_df8198b3a4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_github_com_cajal_technologies_talos_6da3d524ea",
       "target": "corpus_hackernews_github_com_cajal_technologies_talos_6da3d524ea_show_hn_talos_open_source_wasm_interpreter_for_lean",
       "relation": "contains",
@@ -335702,6 +336016,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_liquidbrain_ai_8053ac4f85",
+      "target": "corpus_hackernews_liquidbrain_ai_8053ac4f85_show_hn_liquidbrain_unlimited_tokens_unlimited_context_one_fixed_price",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/liquidbrain_ai_8053ac4f85.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_lispcookbook_github_io_cl_cookbook_lispworks_html_6e56dfe9a5",
       "target": "corpus_hackernews_lispcookbook_github_io_cl_cookbook_lispworks_html_6e56dfe9a5_the_common_lisp_cookbook_lispworks_review",
       "relation": "contains",
@@ -341567,6 +341891,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/pmbanugo_me_blog_why-async-await-complect-concurrency_2a006ff336.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_pmc_ncbi_nlm_nih_gov_articles_pmc6353111_b3a7ce62fa",
+      "target": "corpus_hackernews_pmc_ncbi_nlm_nih_gov_articles_pmc6353111_b3a7ce62fa_why_do_we_love_music_2018",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/pmc_ncbi_nlm_nih_gov_articles_PMC6353111_b3a7ce62fa.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -351462,6 +351796,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_cnn_com_2026_07_15_science_medici_family_mystery_dna_mal_75a6396f3f",
+      "target": "corpus_hackernews_www_cnn_com_2026_07_15_science_medici_family_mystery_dna_mal_75a6396f3f_medici_family_mystery_may_be_solved_after_more_than_400_years",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_cnn_com_2026_07_15_science_medici-family-mystery-dna-mal_75a6396f3f.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_cnn_com_climate_new_jersey_balcony_solar_renters_97042aec27",
       "target": "corpus_hackernews_www_cnn_com_climate_new_jersey_balcony_solar_renters_97042aec27_why_new_jersey_s_balcony_solar_bill_is_a_huge_deal_for_renters",
       "relation": "contains",
@@ -351487,6 +351831,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_codingwithjesse_com_blog_rockstar-developers_d4d728962b.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_cole_k_com_2026_07_21_reddit_9fda597f5d",
+      "target": "corpus_hackernews_www_cole_k_com_2026_07_21_reddit_9fda597f5d_so_reddit_has_decided_that_plain_html_is_unsafe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_cole-k_com_2026_07_21_reddit_9fda597f5d.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -368952,6 +369306,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_legal_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda",
+      "target": "corpus_legal_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda_eff_the_fourth_circuit_says_border_agents_can_search_your_phone_by_hand_no_suspicion_required",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_legal_www_eff_org_deeplinks_2026_07_googles_new_remote_attestation_1607c0b842",
       "target": "corpus_legal_www_eff_org_deeplinks_2026_07_googles_new_remote_attestation_1607c0b842_eff_google_s_new_remote_attestation_scheme_is_every_bit_as_terrible_as_its_old_remote_attestation_scheme",
       "relation": "contains",
@@ -371587,6 +371951,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/legal/www_techdirt_com_2026_07_22_careful-what-you-sue-for-trumps-_58196460f3.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_legal_www_techdirt_com_2026_07_22_ctrl_alt_speech_spotlight_pwcs_d_b390adb7c7",
+      "target": "corpus_legal_www_techdirt_com_2026_07_22_ctrl_alt_speech_spotlight_pwcs_d_b390adb7c7_techdirt_ctrl_alt_speech_spotlight_pwc_s_dan_hays_on_the_future_of_trust_safety",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/legal/www_techdirt_com_2026_07_22_ctrl-alt-speech-spotlight-pwcs-d_b390adb7c7.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
