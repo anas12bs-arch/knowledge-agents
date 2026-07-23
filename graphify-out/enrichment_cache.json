@@ -283619,5 +283619,574 @@
       "research"
     ],
     "summary": "# [hf-blog] Bringing Nunchaku 4-bit Diffusion Inference to Diffusers > Source: ai-research | Category: research | 2026-07-23T09:30:48Z Bringing Nunchaku 4-bit Diffusion Inference to Diffusers"
+  },
+  "8df6aa271eccf68d": {
+    "file": "corpus/hackernews/www_agent-swarm_dev_blog_code-mode-token-savings_d531b3578d.md",
+    "source": "hackernews",
+    "title": "Code mode yields a 99.2% cost reduction in our systems",
+    "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+    "keywords": [
+      "code mode yields",
+      "code mode yields",
+      "cost reduction",
+      "cost reduction",
+      "27z score",
+      "systems",
+      "systems",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Code mode yields a 99.2% cost reduction in our systems > Source: hackernews | Category: news | 2026-07-23T11:25:27Z Score: 10 | Comments: 2"
+  },
+  "4ac2380ecda46066": {
+    "file": "corpus/hackernews/jtpeterson_substack_com_p_faq-on-expertise_b1ce7ebb82.md",
+    "source": "hackernews",
+    "title": "Frequently Asked Questions on Expertise",
+    "url": "https://jtpeterson.substack.com/p/faq-on-expertise",
+    "keywords": [
+      "frequently asked questions",
+      "frequently asked questions",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "expertise",
+      "expertise",
+      "comments",
+      "category"
+    ],
+    "summary": "# Frequently Asked Questions on Expertise > Source: hackernews | Category: news | 2026-07-23T11:25:30Z Score: 8 | Comments: 0"
+  },
+  "58c5aad4536d73e1": {
+    "file": "corpus/hackernews/www_worseonpurpose_com_a039e3aa46.md",
+    "source": "hackernews",
+    "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
+    "url": "https://www.worseonpurpose.com/",
+    "keywords": [
+      "31z score",
+      "purpose –",
+      "purpose –",
+      "purpose",
+      "purpose",
+      "worse",
+      "worse",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose > Source: hackernews | Category: news | 2026-07-23T11:25:31Z Score: 7 | Comments: 1"
+  },
+  "0c743a3ff2adf04a": {
+    "file": "corpus/hackernews/unity_com_blog_meet-the-unity-cli_2be39edd8c.md",
+    "source": "hackernews",
+    "title": "The Unity CLI: manage Unity from your terminal",
+    "url": "https://unity.com/blog/meet-the-unity-cli",
+    "keywords": [
+      "unity cli",
+      "unity cli",
+      "manage unity",
+      "manage unity",
+      "29z score",
+      "terminal",
+      "terminal",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Unity CLI: manage Unity from your terminal > Source: hackernews | Category: news | 2026-07-23T11:25:29Z Score: 6 | Comments: 0"
+  },
+  "2e68f94b79862cc8": {
+    "file": "corpus/hackernews/www_theguardian_com_technology_2026_jul_23_eu-fines-google-f_512b6c7a9b.md",
+    "source": "hackernews",
+    "title": "EU fines Google €890M for competition breaches over search and apps",
+    "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+    "keywords": [
+      "competition breaches",
+      "competition breaches",
+      "28z score",
+      "source",
+      "search",
+      "search",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# EU fines Google €890M for competition breaches over search and apps > Source: hackernews | Category: news | 2026-07-23T11:25:28Z Score: 29 | Comments: 21"
+  },
+  "5f8a76caa4d594d5": {
+    "file": "corpus/hackernews/frame_work_desktop_tab_192gb-coming-soon_f7b701c741.md",
+    "source": "hackernews",
+    "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+    "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+    "keywords": [
+      "new framework desktop option",
+      "new framework desktop option",
+      "amd ryzen ai max",
+      "amd ryzen ai max",
+      "pro 495",
+      "pro 495",
+      "33z score",
+      "192gb memory",
+      "192gb memory",
+      "source"
+    ],
+    "summary": "# New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory > Source: hackernews | Category: news | 2026-07-23T11:25:33Z Score: 3 | Comments: 0"
+  },
+  "5cecf0ceea6bf65a": {
+    "file": "corpus/hackernews/www_marginalia_nu_log_a_138_systemdocker_6837d0a9d8.md",
+    "source": "hackernews",
+    "title": "Unranked, Systemd, Crawls",
+    "url": "https://www.marginalia.nu/log/a_138_systemdocker/",
+    "keywords": [
+      "35z score",
+      "unranked",
+      "unranked",
+      "systemd",
+      "systemd",
+      "source",
+      "news",
+      "hackernews",
+      "crawls",
+      "crawls"
+    ],
+    "summary": "# Unranked, Systemd, Crawls > Source: hackernews | Category: news | 2026-07-23T11:25:35Z Score: 3 | Comments: 0"
+  },
+  "2728def95bb6f892": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_bijou64-canonical-varint_utm_camp_fb35251934.md",
+    "source": "engineering",
+    "title": "[infoq] Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing",
+    "url": "https://www.infoq.com/news/2026/07/bijou64-canonical-varint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "exactly one byte representation",
+      "design also decodes two",
+      "ten times faster",
+      "switch published bijou64",
+      "switch introduces bijou64",
+      "switch introduces bijou64",
+      "switch introduces bijou64",
+      "residual range checks",
+      "length integer encoding",
+      "length integer encoding"
+    ],
+    "summary": "# [infoq] Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing Ink & Switch published bijou64, a variable-length integer encoding where every number has exactly one byte representation, closing the canonicality bug class behind attacks on PKCS#1, JWT libraries, and Bitcoin."
+  },
+  "7bb5e57f3ed57a36": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_qcon-ai-newyork-2026-live_utm_cam_02c2b78bf8.md",
+    "source": "engineering",
+    "title": "[infoq] QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference",
+    "url": "https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "westin jersey city newport",
+      "first sessions announced",
+      "wes reisz",
+      "six tracks",
+      "registration opens",
+      "registration opens",
+      "registration opens",
+      "production ai",
+      "opened registration",
+      "full program"
+    ],
+    "summary": "# [infoq] QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference QCon AI New York 2026 (Dec 15-16) has opened registration at The Westin Jersey City Newport. Six tracks on production AI, chaired by Eder Ignatowicz with Faye Zhang and Wes Reisz."
+  },
+  "01264d2de8457fe7": {
+    "file": "corpus/engineering/www_infoq_com_presentations_dbos_utm_campaign_infoq_content__898167d74a.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does)",
+    "url": "https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "external orchestrators decrease reliability",
+      "unique primary keys",
+      "skip locked queues",
+      "separate distributed systems",
+      "tolerant ai workflows",
+      "qian li discuss",
+      "qian li",
+      "compiling workflows",
+      "compiling workflows",
+      "compiling workflows"
+    ],
+    "summary": "# [infoq] Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does) Jeremy Edberg & Qian Li discuss why external orchestrators decrease reliability and how to use your existing database for durable execution. They share how DBOS Transact uses standard tables, SKIP LOCKED queues, and unique primary keys to manage complex, fault-tolerant AI workflows with minimal latency, all without the operational overhead of separate distributed systems."
+  },
+  "887a6cc05790535a": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-msarat-malware-us_64a0279d03.md",
+    "source": "security",
+    "title": "[bleeping-comp] New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+    "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+    "keywords": [
+      "new backdoor dubbed msarat",
+      "chaos ransomware gang",
+      "route c2 traffic",
+      "route c2 traffic",
+      "route c2 traffic",
+      "hides command",
+      "edge browsers",
+      "edge browsers",
+      "edge browsers",
+      "edge browsers"
+    ],
+    "summary": "# [bleeping-comp] New msaRAT malware uses Chrome, Edge browsers to route C2 traffic New msaRAT malware uses Chrome, Edge browsers to route C2 traffic The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers."
+  },
+  "0e30f0132b6d1920": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_end-to-end-encryption_ef27ce895c.md",
+    "source": "security",
+    "title": "[schneier] End-to-End Encryption and “Going Dark”",
+    "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
+    "keywords": [
+      "lawful access remained available",
+      "“ going dark ”",
+      "“ going dark ”",
+      "globalization 15 years later",
+      "strong encryption ultimately fell",
+      "going dark &# 8217",
+      "round 3 &# 8221",
+      "authors call &# 8220",
+      "surveillance &# 8221",
+      "round 3 addresses"
+    ],
+    "summary": "Governments around the world have proposed, and in some cases enacted, laws limiting E2EE for law enforcement and national security purposes. This Article explains the underlying technologies and market developments for a law and policy audience to assess those proposals critically. Round 2 covers the period roughly 2010 to 2015, when encryption-in-transit became widespread but lawful access remained available through cloud providers, giving rise to what the authors called a &#8220;golden age of"
+  },
+  "7f6bca05f8bb5e8e": {
+    "file": "corpus/security/www_darkreading_com_identity-access-management-security_flaw_eae79913c9.md",
+    "source": "security",
+    "title": "[dark-reading] Flaws in Passkey Implementation Show Old Attacks Still Work",
+    "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
+    "keywords": [
+      "researchers find exploitable flaws",
+      "microsoft handles passkeys",
+      "impersonate privileged users",
+      "could allow attackers",
+      "black hat usa",
+      "28z flaws",
+      "flaws",
+      "flaws",
+      "source",
+      "security"
+    ],
+    "summary": "# [dark-reading] Flaws in Passkey Implementation Show Old Attacks Still Work Flaws in Passkey Implementation Show Old Attacks Still Work Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users."
+  },
+  "cd1ec0db815705cb": {
+    "file": "corpus/security/thehackernews_com_2026_07_nine-year-old-refluxfs-linux-flaw-_624c6b9802.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+    "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+    "keywords": [
+      "gain persistent root access",
+      "qualys said default installations",
+      "red hat enterprise linux",
+      "default rhel installs refluxfs",
+      "default rhel installs",
+      "default rhel installs",
+      "amazon linux",
+      "xfs filesystem",
+      "owned files",
+      "july 22"
+    ],
+    "summary": "# [hacker-news-sec] Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access."
+  },
+  "1661a1b18836b98e": {
+    "file": "corpus/psychology/fs_blog_knowledge-project-podcast_outliers-john-d-rockefelle_0310b84c42.md",
+    "source": "psychology",
+    "title": "[farnam-street] [Outliers] John D. Rockefeller: The Principles Behind The Greatest Fortune in History",
+    "url": "https://fs.blog/knowledge-project-podcast/outliers-john-d-rockefeller/",
+    "keywords": [
+      "apple podcasts &# 124",
+      "youtube &# 124",
+      "spotify &# 124",
+      "built &# 8230",
+      "history appeared first",
+      "&# 160",
+      "thinking differently",
+      "standard oil",
+      "richest man",
+      "public release"
+    ],
+    "summary": "# [farnam-street] [Outliers] John D. Rockefeller: The Principles Behind The Greatest Fortune in History John D. Rockefeller became the richest man the world had ever known by thinking differently about business, competition, and family. Coming Soon: YouTube &#124; Spotify &#124; Apple Podcasts &#124; Transcript This episode isn’t just the story of Standard Oil."
+  },
+  "f77b4c1dba8b0abc": {
+    "file": "corpus/finance/news_crunchbase_com_venture_billion-dollar-plus-round-counts_4ad6da8da5.md",
+    "source": "finance",
+    "title": "[crunchbase] The Rise And Rise Of Billion-Dollar-Plus Rounds",
+    "url": "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/",
+    "keywords": [
+      "320 billion — went",
+      "pushing global funding",
+      "per crunchbase data",
+      "record levels",
+      "first half",
+      "rounds instrumental",
+      "plus rounds",
+      "plus rounds",
+      "plus rounds",
+      "1 billion"
+    ],
+    "summary": "# [crunchbase] The Rise And Rise Of Billion-Dollar-Plus Rounds The Rise And Rise Of Billion-Dollar-Plus Rounds So far this year, 60% of global startup funding across stages — around $320 billion — went to rounds of $1 billion or more, per Crunchbase data, with such rounds instrumental in pushing global funding for the first half of the year to record levels."
+  },
+  "5cb48d5bc6476161": {
+    "file": "corpus/finance/news_crunchbase_com_ai_on-prem-systems-vs-cloud-security-sag_39a8707e3a.md",
+    "source": "finance",
+    "title": "[crunchbase] Is On-Prem Making A Comeback?",
+    "url": "https://news.crunchbase.com/ai/on-prem-systems-vs-cloud-security-sagie/",
+    "keywords": [
+      "perceive localized systems",
+      "offering superior long",
+      "term security",
+      "prem making",
+      "prem making",
+      "prem making",
+      "prem back",
+      "guest commentary",
+      "cost efficiency",
+      "source"
+    ],
+    "summary": "# [crunchbase] Is On-Prem Making A Comeback? While cloud migration previously offered unmatched speed and cost efficiency, decision-makers now perceive localized systems as offering superior long-term security. In this guest commentary, strategic adviser Itay Sagie shares three trends he believes are pushing on-prem back into the limelight."
+  },
+  "1871c970aa556610": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48138_monzo-and-inclusive-money_8f3fa8e53b.md",
+    "source": "finance",
+    "title": "[finextra] Monzo and Inclusive Money collaborate on sole trader pensions",
+    "url": "https://www.finextra.com/newsarticle/48138/monzo-and-inclusive-money-collaborate-on-sole-trader-pensions?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "sole trader pensions",
+      "sole trader pensions",
+      "sole trader pensions",
+      "inclusive money collaborate",
+      "inclusive money collaborate",
+      "inclusive money collaborate",
+      "digital bank monzo",
+      "inclusive money",
+      "low levels",
+      "joined forces"
+    ],
+    "summary": "# [finextra] Monzo and Inclusive Money collaborate on sole trader pensions Monzo and Inclusive Money collaborate on sole trader pensions The Centre for Inclusive Money has joined forces with digital bank Monzo to tackle the low levels of retirement savings seen amongst self-employed people."
+  },
+  "7465273ac8b660d8": {
+    "file": "corpus/devto/dev_to_francescoxx_better-than-nextjs-is-rust-finally-ready-_d26274dd87.md",
+    "source": "devto",
+    "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+    "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
+    "keywords": [
+      "new rust web framework",
+      "stack web development",
+      "stack web development",
+      "rust finally ready",
+      "rust finally ready",
+      "topcoat rust",
+      "solid ...",
+      "introducing topcoat",
+      "introducing topcoat",
+      "town"
+    ],
+    "summary": "Is Rust Finally Ready for Full-Stack Web Development? > Source: devto | Category: news | 2026-07-23T11:25:37Z There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid..."
+  },
+  "0131d704601ae90c": {
+    "file": "corpus/devto/dev_to_sylwia-lask_the-dirty-secret-behind-ai-agents-demo--2_646faeffc7.md",
+    "source": "devto",
+    "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+    "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+    "keywords": [
+      "mystical aura ....",
+      "demo 🚀)",
+      "demo 🚀)",
+      "ai agents",
+      "surrounded",
+      "source",
+      "reactions",
+      "quite",
+      "news",
+      "feeling"
+    ],
+    "summary": "# The Dirty Secret Behind AI Agents (Demo 🚀) > Source: devto | Category: news | 2026-07-23T11:25:36Z For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura...."
+  },
+  "d250354a1329bd49": {
+    "file": "corpus/devto/dev_to_pioner92_how-i-reduced-ai-coding-context-by-95-5ao5_48206838a8.md",
+    "source": "devto",
+    "title": "How I reduced AI coding context by 95%",
+    "url": "https://dev.to/pioner92/how-i-reduced-ai-coding-context-by-95-5ao5",
+    "keywords": [
+      "reduced ai coding context",
+      "reduced ai coding context",
+      "ai coding assistant work",
+      "large typescript project",
+      "36z every time",
+      "watched",
+      "source",
+      "reactions",
+      "noticed",
+      "news"
+    ],
+    "summary": "# How I reduced AI coding context by 95% > Source: devto | Category: news | 2026-07-23T11:25:36Z Every time I watched an AI coding assistant work on a large TypeScript project, I noticed the same..."
+  },
+  "c958df0ac77e6610": {
+    "file": "corpus/devto/dev_to_gramli_how-ai-endpoints-change-the-traditional-api-fl_c1d2be92dc.md",
+    "source": "devto",
+    "title": "How AI Endpoints Change the Traditional API Flow",
+    "url": "https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773",
+    "keywords": [
+      "typical endpoint flow",
+      "traditional api flow",
+      "traditional api flow",
+      "ai endpoints change",
+      "ai endpoints change",
+      "deeply ...",
+      "build hundreds",
+      "backend developer",
+      "endpoints",
+      "source"
+    ],
+    "summary": "# How AI Endpoints Change the Traditional API Flow > Source: devto | Category: news | 2026-07-23T11:25:36Z As a backend developer, I have build hundreds of endpoints, so the typical endpoint flow is deeply..."
+  },
+  "bee7bbfe9cc2d648": {
+    "file": "corpus/devto/dev_to_gamya_m_swift-classes-the-four-ways-variables-and-con_8fb4593623.md",
+    "source": "devto",
+    "title": "Swift Classes — The Four Ways Variables and Constants Can Combine 🎭",
+    "url": "https://dev.to/gamya_m/swift-classes-the-four-ways-variables-and-constants-can-combine-3mjj",
+    "keywords": [
+      "swift classes —",
+      "swift classes —",
+      "sounds inconsistent ...",
+      "four ways variables",
+      "four ways variables",
+      "properties changed",
+      "constant struct",
+      "constant class",
+      "combine 🎭",
+      "combine 🎭"
+    ],
+    "summary": "# Swift Classes — The Four Ways Variables and Constants Can Combine 🎭 A constant class can have its properties changed. A constant struct can't."
+  },
+  "8a3a8ed1cdecdf8a": {
+    "file": "corpus/devto/dev_to_carvalhocaio_agente-de-triagem-com-langgraph-quando-a_f98b798af6.md",
+    "source": "devto",
+    "title": "Agente de triagem com LangGraph: quando a entrada é hostil por padrão",
+    "url": "https://dev.to/carvalhocaio/agente-de-triagem-com-langgraph-quando-a-entrada-e-hostil-por-padrao-8if",
+    "keywords": [
+      "source",
+      "reactions",
+      "quando",
+      "quando",
+      "news",
+      "devto",
+      "category",
+      "23t11",
+      "2026"
+    ],
+    "summary": "# Agente de triagem com LangGraph: quando a entrada é hostil por padrão > Source: devto | Category: news | 2026-07-23T11:25:38Z Construí um agente de IA que lê e-mails de terceiros e tem poder de decisão sobre dinheiro."
+  },
+  "8667c45d6881747d": {
+    "file": "corpus/devto/dev_to_parsajiravand_youve-been-doing-set-math-by-hand-javas_d3d2ff5b04.md",
+    "source": "devto",
+    "title": "You've been doing Set math by hand. JavaScript finally shipped `.union()`, `.intersection()`, and friends.",
+    "url": "https://dev.to/parsajiravand/youve-been-doing-set-math-by-hand-javascript-finally-shipped-union-intersection-and-476",
+    "keywords": [
+      "x =& gt ;...",
+      "set math",
+      "set math",
+      "const intersection",
+      "written",
+      "version",
+      "source",
+      "reactions",
+      "news",
+      "hand"
+    ],
+    "summary": "# You've been doing Set math by hand. JavaScript finally shipped `.union()`, `.intersection()`, and friends. You've written some version of this:    const intersection = new Set([...setA].filter(x =&gt;..."
+  },
+  "918a5174119b1a80": {
+    "file": "corpus/devto/dev_to_mxhlix_4-ways-canvas-text-rendering-breaks-in-multili_0c5245c8c7.md",
+    "source": "devto",
+    "title": "4 ways canvas text rendering breaks in multilingual apps (that en/ja testing will never catch)",
+    "url": "https://dev.to/mxhlix/4-ways-canvas-text-rendering-breaks-in-multilingual-apps-that-enja-testing-will-never-catch-409n",
+    "keywords": [
+      "never catch",
+      "never catch",
+      "multilingual apps",
+      "multilingual apps",
+      "large fleet",
+      "ja testing",
+      "ja testing",
+      "certificate ...",
+      "source",
+      "run"
+    ],
+    "summary": "# 4 ways canvas text rendering breaks in multilingual apps (that en/ja testing will never catch) > Source: devto | Category: news | 2026-07-23T11:25:37Z I run a large fleet of \"preview it, then download it as PNG\" web tools — name tags, certificate..."
+  },
+  "662b7d64c2012f47": {
+    "file": "corpus/devto/dev_to_morellodev_baseline-2026-4-apis-that-changed-how-i-co_93a767f19b.md",
+    "source": "devto",
+    "title": "Baseline 2026: 4 APIs That Changed How I Code",
+    "url": "https://dev.to/morellodev/baseline-2026-4-apis-that-changed-how-i-code-43n9",
+    "keywords": [
+      "replaced actual dependencies",
+      "container style queries",
+      "37z navigation api",
+      "sumprecise ()",
+      "became baseline",
+      "4 apis",
+      "4 apis",
+      "baseline 2026",
+      "baseline 2026",
+      "2026"
+    ],
+    "summary": "# Baseline 2026: 4 APIs That Changed How I Code Navigation API, container style queries, :open, and Math.sumPrecise() all became Baseline in 2026. The ones that replaced actual dependencies in my projects."
+  },
+  "c15d75ae96baaa81": {
+    "file": "corpus/devto/dev_to_usman_awan_16-days-5-frontier-ai-models-how-to-surviv_b5393ed0dd.md",
+    "source": "devto",
+    "title": "🚀 16 Days, 5 Frontier AI Models: How to Survive the AI Release Firehose",
+    "url": "https://dev.to/usman_awan/16-days-5-frontier-ai-models-how-to-survive-the-ai-release-firehose-2kb8",
+    "keywords": [
+      "5 frontier ai models",
+      "5 frontier ai models",
+      "5 ai launches",
+      "ai release firehose",
+      "ai release firehose",
+      "🚀 16 days",
+      "🚀 16 days",
+      "16 days reveal",
+      "platform wars",
+      "model wars"
+    ],
+    "summary": "# 🚀 16 Days, 5 Frontier AI Models: How to Survive the AI Release Firehose > Source: devto | Category: news | 2026-07-23T11:25:36Z From Model Wars to Platform Wars: What 5 AI Launches in 16 Days Reveal About the..."
+  },
+  "364dbe2157771435": {
+    "file": "corpus/devto/dev_to_waseverinlabs_how-i-built-a-privacy-friendly-image-co_ab8bf10326.md",
+    "source": "devto",
+    "title": "How I Built a Privacy-Friendly Image Converter That Runs Entirely in the Browser",
+    "url": "https://dev.to/waseverinlabs/how-i-built-a-privacy-friendly-image-converter-that-runs-entirely-in-the-browser-26i",
+    "keywords": [
+      "waseverin image converter",
+      "lightweight online ...",
+      "friendly image converter",
+      "friendly image converter",
+      "first side project",
+      "runs entirely",
+      "runs entirely",
+      "recently launched",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How I Built a Privacy-Friendly Image Converter That Runs Entirely in the Browser I recently launched my first side project: WASEVERIN Image Converter. It is a lightweight online..."
+  },
+  "3d04bd986424c247": {
+    "file": "corpus/devto/dev_to_codexsavage6s_react-components-arent-magic-theyre-bui_33c555c03a.md",
+    "source": "devto",
+    "title": "React Components Aren't Magic—They're Built on a JavaScript Mindset",
+    "url": "https://dev.to/codexsavage6s/react-components-arent-magic-theyre-built-on-a-javascript-mindset-46ic",
+    "keywords": [
+      "react components",
+      "react components",
+      "magic —",
+      "magic —",
+      "learn react",
+      "javascript mindset",
+      "javascript mindset",
+      "javascript habit",
+      "source",
+      "reactions"
+    ],
+    "summary": "# React Components Aren't Magic—They're Built on a JavaScript Mindset > Source: devto | Category: news | 2026-07-23T11:25:40Z Before You Learn React, Master This JavaScript Habit   When I first started learning React,..."
   }
 }
