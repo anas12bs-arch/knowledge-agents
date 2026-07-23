@@ -287213,5 +287213,305 @@
       "category"
     ],
     "summary": "# Waymo's driverless cars crash less often than people > Source: hackernews | Category: news | 2026-07-23T18:53:10Z Score: 4 | Comments: 0"
+  },
+  "12198c5426ccfe5d": {
+    "file": "corpus/devto/dev_to_lincoln_romais_-o-dia-em-que-coloquei-um-agente-de-ia_bdaad8139a.md",
+    "source": "devto",
+    "title": "O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina",
+    "url": "https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734",
+    "keywords": [
+      "só de deploy",
+      "multiplica ...",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "23t20",
+      "2026"
+    ],
+    "summary": "# O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina > Source: devto | Category: news | 2026-07-23T20:04:32Z Trabalho num ambiente onde, só de deploy, sobem mais de 5 mil por dia — em um dia calmo."
+  },
+  "cb006ab92a6916da": {
+    "file": "corpus/devto/dev_to_ale3oula_stop-hiring-a-rocket-scientist-to-check-if-a_70780e5026.md",
+    "source": "devto",
+    "title": "Stop Hiring a Rocket Scientist to Check If a Box Is Empty",
+    "url": "https://dev.to/ale3oula/stop-hiring-a-rocket-scientist-to-check-if-a-box-is-empty-1i4c",
+    "keywords": [
+      "33z one thing",
+      "stop hiring",
+      "stop hiring",
+      "rocket scientist",
+      "rocket scientist",
+      "order ...",
+      "offs companies",
+      "willing",
+      "trade",
+      "thinking"
+    ],
+    "summary": "# Stop Hiring a Rocket Scientist to Check If a Box Is Empty > Source: devto | Category: news | 2026-07-23T20:04:33Z One thing I've been thinking about lately is what trade-offs companies are willing to make in order..."
+  },
+  "dcb86c9fa8ea3ed1": {
+    "file": "corpus/devto/dev_to_544bf5cbd223c35a49756_how-i-built-a-privacy-first-ima_5f84f29998.md",
+    "source": "devto",
+    "title": "How I Built a Privacy-First Image Compressor with Next.js + Web Worker",
+    "url": "https://dev.to/_544bf5cbd223c35a49756/how-i-built-a-privacy-first-image-compressor-with-nextjs-web-worker-2gg",
+    "keywords": [
+      "first image compressor",
+      "first image compressor",
+      "first image compressor",
+      "web worker",
+      "web worker",
+      "source",
+      "reactions",
+      "privacy",
+      "privacy",
+      "privacy"
+    ],
+    "summary": "# How I Built a Privacy-First Image Compressor with Next.js + Web Worker > Source: devto | Category: news | 2026-07-23T20:04:31Z How I Built a Privacy-First Image Compressor with Next.js + Web Workers    Zero uploads...."
+  },
+  "431230d781aee51f": {
+    "file": "corpus/devto/dev_to_shaojie_i-spent-a-week-proving-a-feature-couldnt-be-b_2992cc0b38.md",
+    "source": "devto",
+    "title": "I spent a week proving a feature couldn't be built. That was the win.",
+    "url": "https://dev.to/shaojie/i-spent-a-week-proving-a-feature-couldnt-be-built-that-was-the-win-39o2",
+    "keywords": [
+      "33z someone smart left",
+      "comment months ago",
+      "week proving",
+      "week proving",
+      "level ...",
+      "killer feature",
+      "feature",
+      "feature",
+      "win",
+      "win"
+    ],
+    "summary": "# I spent a week proving a feature couldn't be built. That was the win. Someone smart left me a comment months ago: the killer feature isn't the citations, it's page-level..."
+  },
+  "ee764a1554e60b11": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_ai-kill-switch-act-would_598c44d0ce.md",
+    "source": "legal",
+    "title": "[ars-policy] AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "keywords": [
+      "rogue ai systems",
+      "rogue ai systems",
+      "source",
+      "shut",
+      "policy",
+      "policy",
+      "legal",
+      "legal",
+      "category"
+    ],
+    "summary": "# [ars-policy] AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems Bill would let Homeland Security chief decide when an AI should be shut down."
+  },
+  "1f847651d0f58492": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fake-claude-app-promo_2cb10c32bd.md",
+    "source": "security",
+    "title": "[bleeping-comp] Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+    "keywords": [
+      "fake claude app promoted",
+      "fake claude app promoted",
+      "bing search service",
+      "legitimate claude",
+      "sectoprat malware",
+      "malvertising campaign",
+      "ai domain",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Fake Claude app promoted by Bing ads pushes SectopRAT malware Fake Claude app promoted by Bing ads pushes SectopRAT malware A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware."
+  },
+  "9b4f8d8b69e73d7f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_gitlost-github-prompt-injection_u_18c39f687f.md",
+    "source": "engineering",
+    "title": "[infoq] Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
+    "url": "https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "leak private repository data",
+      "leak private repository data",
+      "leaking private data",
+      "sergio de simone",
+      "reveal confidential information",
+      "new agentic workflows",
+      "injection exploit discovered",
+      "circumvent security safeguards",
+      "induce ai agents",
+      "noma security"
+    ],
+    "summary": "# [infoq] Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data GitLost is a prompt-injection exploit discovered by Noma Security that tricks GitHub's new Agentic Workflows into leaking private data."
+  },
+  "8102081c18977c41": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_connect-to-and-manage-sandboxes-from-th_142bbaf68a.md",
+    "source": "vercel-blog",
+    "title": "Connect to and manage Sandboxes from the dashboard",
+    "url": "https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard",
+    "keywords": [
+      "manage sandboxes",
+      "manage sandboxes",
+      "manage sandboxes",
+      "35z connect",
+      "connect",
+      "connect",
+      "vercel",
+      "source",
+      "news",
+      "dashboard"
+    ],
+    "summary": "# Connect to and manage Sandboxes from the dashboard > Source: vercel-blog | Category: news | 2026-07-23T20:04:35Z Connect to and manage Sandboxes from the dashboard"
+  },
+  "2c3d50754e38298d": {
+    "file": "corpus/hackernews/blog_google_innovation-and-ai_technology_safety-security_sel_15bbd3f302.md",
+    "source": "hackernews",
+    "title": "Selfie for sign-in: a new, easy way to access your Google Account",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
+    "keywords": [
+      "google account",
+      "google account",
+      "easy way",
+      "easy way",
+      "28z score",
+      "source",
+      "sign",
+      "sign",
+      "selfie",
+      "selfie"
+    ],
+    "summary": "# Selfie for sign-in: a new, easy way to access your Google Account > Source: hackernews | Category: news | 2026-07-23T20:04:28Z Score: 7 | Comments: 3"
+  },
+  "8e72d7836aba7961": {
+    "file": "corpus/hackernews/trifle_io_abfc0a3773.md",
+    "source": "hackernews",
+    "title": "Show HN: Trifle – Open-source analytics that stores answers, not events",
+    "url": "https://trifle.io/",
+    "keywords": [
+      "node hetzner mongodb cluster",
+      "</ code ></ pre",
+      "</ code ></ pre",
+      "large writes .< p",
+      "get back aggregated values",
+      "trifle :: stats comes",
+      "aggregates nested counters instead",
+      "day job .< p",
+      "well .< p",
+      "another .< p"
+    ],
+    "summary": "Trifle is an open-source time-series analytics library that aggregates nested counters instead of storing raw events. The APM eventually faded away without much traction.<p>Later in 2021 I needed analytics at my day job. It runs surprisingly cheap when you&#x27;re willing to trade some safety away (turn off journaling and write concerns in Mongo)."
+  },
+  "8834e1e5978c19f7": {
+    "file": "corpus/hackernews/www_theregister_com_security_2026_07_23_millions-of-californ_f947661979.md",
+    "source": "hackernews",
+    "title": "California-bought cars can be hijacked via Bluetooth",
+    "url": "https://www.theregister.com/security/2026/07/23/millions-of-california-bought-cars-can-be-hijacked-via-bluetooth/5277315",
+    "keywords": [
+      "hijacked via bluetooth",
+      "hijacked via bluetooth",
+      "bought cars",
+      "bought cars",
+      "29z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# California-bought cars can be hijacked via Bluetooth > Source: hackernews | Category: news | 2026-07-23T20:04:29Z Score: 9 | Comments: 1"
+  },
+  "27b72b76b29e2cc9": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49026810_a0189ee4ca.md",
+    "source": "hackernews",
+    "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+    "url": "https://news.ycombinator.com/item?id=49026810",
+    "keywords": [
+      "every task .< p",
+      "echo consistently performed better",
+      "evaluation setup .< p",
+      "ai &# x2f ;</",
+      "inference cost .< p",
+      "making one ai system",
+      "short &# x2f",
+      "docs &# x2f",
+      "docs &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.<p>That hypothetical system performed substantially better than any individual model in the pool. Echo is my attempt to recover some of that advantage without having that information in advance.<p>For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts"
+  },
+  "b8073987a89db0d8": {
+    "file": "corpus/hackernews/abc7news_com_post_new-rental-trend-200-work-home-fee-tacked-_dcae1d2d0d.md",
+    "source": "hackernews",
+    "title": "New rental trend? A $200 'work-from-home fee' tacked on to Bay Area lease",
+    "url": "https://abc7news.com/post/new-rental-trend-200-work-home-fee-tacked-bay-area-lease/19547108/",
+    "keywords": [
+      "new rental trend",
+      "new rental trend",
+      "bay area lease",
+      "bay area lease",
+      "home fee",
+      "home fee",
+      "29z score",
+      "work",
+      "work",
+      "tacked"
+    ],
+    "summary": "# New rental trend? A $200 'work-from-home fee' tacked on to Bay Area lease > Source: hackernews | Category: news | 2026-07-23T20:04:29Z"
+  },
+  "658a2d81de15be14": {
+    "file": "corpus/hackernews/wuemeli_com_blog_sulfur-part-1_fc9d2b3505.md",
+    "source": "hackernews",
+    "title": "Converting Files into Minecraft Worlds",
+    "url": "https://wuemeli.com/blog/sulfur-part-1/",
+    "keywords": [
+      "minecraft worlds",
+      "minecraft worlds",
+      "converting files",
+      "converting files",
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Converting Files into Minecraft Worlds > Source: hackernews | Category: news | 2026-07-23T20:04:25Z Score: 17 | Comments: 1"
+  },
+  "901c888f8785c3e3": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Bakelite_bf542d9645.md",
+    "source": "hackernews",
+    "title": "Bakelite – first commercial synthetic plastic",
+    "url": "https://en.wikipedia.org/wiki/Bakelite",
+    "keywords": [
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "23t20",
+      "2026"
+    ],
+    "summary": "# Bakelite – first commercial synthetic plastic > Source: hackernews | Category: news | 2026-07-23T20:04:30Z Score: 4 | Comments: 0"
+  },
+  "3bc7517ad49b3eb1": {
+    "file": "corpus/devops/devops_com_ai-native-testing-is-now-a-core-quality-engineeri_328d9d072d.md",
+    "source": "devops",
+    "title": "[devops-com] AI-Native Testing Is Now a Core Quality Engineering Discipline",
+    "url": "https://devops.com/ai-native-testing-is-now-a-core-quality-engineering-discipline/",
+    "keywords": [
+      "core quality engineering discipline",
+      "core quality engineering discipline",
+      "technology industry suggest",
+      "ripple effect spreads",
+      "leaders urging developers",
+      "across social media",
+      "still unfolding",
+      "prominent voices",
+      "news outlets",
+      "native testing"
+    ],
+    "summary": "# [devops-com] AI-Native Testing Is Now a Core Quality Engineering Discipline AI-Native Testing Is Now a Core Quality Engineering Discipline The ripple effect spreads further across social media and news outlets, with some leaders urging developers to start seriously considering alternative career [&#8230;]"
   }
 }
