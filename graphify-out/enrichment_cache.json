@@ -284720,5 +284720,664 @@
       "dedicated hmr message"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-23T12:55:25Z - [Bench] Add client-trace attribution pass and document metrics to render-pipeline: #95828 - Turbopack: Split up turbo-tasks-fs/src/lib.rs into smaller modules: #96030 - Turbopack: Use Arc<PathMap> and Box<Path> to make InvalidatorMap slightly more efficient: #95987 - Turbopack: Use `swc_core::ecma::utils::prop_name_eq` for a couple of the `next-custom-transforms`: #96035 - [Cache Components] Exclude dynamic params from prer"
+  },
+  "2098d248ba759304": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48139_judge-rejects-zelle-bid-t_e1e6c09914.md",
+    "source": "finance",
+    "title": "[finextra] Judge rejects Zelle bid to dismiss lawsuit over fraud losses",
+    "url": "https://www.finextra.com/newsarticle/48139/judge-rejects-zelle-bid-to-dismiss-lawsuit-over-fraud-losses?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "backed p2p payments service",
+      "judge rejects zelle bid",
+      "judge rejects zelle bid",
+      "us judge",
+      "protect users",
+      "massive amounts",
+      "lawsuit filed",
+      "fraud losses",
+      "fraud losses",
+      "fraud losses"
+    ],
+    "summary": "# [finextra] Judge rejects Zelle bid to dismiss lawsuit over fraud losses Judge rejects Zelle bid to dismiss lawsuit over fraud losses A US judge has rejected an effort from the operator of Zelle to dismiss a lawsuit filed by New York Attorney General Letitia James accusing the bank-backed P2P payments service of failing to protect users from \"massive amounts of fraud\"."
+  },
+  "d6bde0374e879919": {
+    "file": "corpus/youtube/www_youtube_com_shorts_GIoYrH2jn3U_0c4466fd48.md",
+    "source": "youtube",
+    "title": "[kevin-powell] Wait, line-height works like that?!",
+    "url": "https://www.youtube.com/shorts/GIoYrH2jn3U",
+    "keywords": [
+      "never use anything",
+      "height works like",
+      "height works like",
+      "height works like",
+      "never knew 🤷",
+      "06z wait",
+      "like",
+      "knew",
+      "wait",
+      "wait"
+    ],
+    "summary": "# [kevin-powell] Wait, line-height works like that? Wait, line-height works like that? I'd like to say I knew this and just forgot because I never use anything other than unitless, but this might just have been something I never knew 🤷"
+  },
+  "9c709b2c29eb0ff7": {
+    "file": "corpus/devto/dev_to_rffanlab_your-fastapi-webhook-returned-200-why-did-th_23a1325a3e.md",
+    "source": "devto",
+    "title": "Your FastAPI Webhook Returned 200. Why Did the Order Run Twice?",
+    "url": "https://dev.to/rffanlab/your-fastapi-webhook-returned-200-why-did-the-order-run-twice-49h6",
+    "keywords": [
+      "fastapi webhook returned 200",
+      "fastapi webhook returned 200",
+      "provider still delivered",
+      "order run twice",
+      "order run twice",
+      "source",
+      "reactions",
+      "news",
+      "event",
+      "devto"
+    ],
+    "summary": "Why Did the Order Run Twice? > Source: devto | Category: news | 2026-07-23T14:56:49Z Your webhook endpoint returned 200 OK."
+  },
+  "4099fffb45acd322": {
+    "file": "corpus/devto/dev_to_tanmay_bhurkunde_reverse-engineering-linkedins-email-_c968ff883d.md",
+    "source": "devto",
+    "title": "Reverse-Engineering LinkedIn's Email Templates to Automate an Airtable CRM",
+    "url": "https://dev.to/tanmay_bhurkunde/reverse-engineering-linkedins-email-templates-to-automate-an-airtable-crm-1cin",
+    "keywords": [
+      "hashnode — full version",
+      "49z originally posted",
+      "email templates",
+      "email templates",
+      "dives live",
+      "airtable crm",
+      "airtable crm",
+      "engineering linkedin",
+      "engineering linkedin",
+      "linkedin"
+    ],
+    "summary": "# Reverse-Engineering LinkedIn's Email Templates to Automate an Airtable CRM > Source: devto | Category: news | 2026-07-23T14:56:49Z Originally posted on Hashnode — full version and any follow-up deep-dives live here."
+  },
+  "6611cc6662f0be6d": {
+    "file": "corpus/devto/dev_to_numbpill3d_bash-error-handling-a-field-guide-to-preve_8918968a5c.md",
+    "source": "devto",
+    "title": "Bash Error Handling: A Field Guide to Preventing Emotional Damage",
+    "url": "https://dev.to/numbpill3d/bash-error-handling-a-field-guide-to-preventing-emotional-damage-a3c",
+    "keywords": [
+      "preventing emotional damage",
+      "preventing emotional damage",
+      "bash error handling",
+      "bash error handling",
+      "realize ...",
+      "field guide",
+      "field guide",
+      "every developer",
+      "terminal",
+      "stare"
+    ],
+    "summary": "# Bash Error Handling: A Field Guide to Preventing Emotional Damage > Source: devto | Category: news | 2026-07-23T14:56:48Z There comes a moment in every developer's life when they stare at a terminal at 3:47 AM and realize..."
+  },
+  "a2b1843d616809f2": {
+    "file": "corpus/devto/dev_to_ihopenreeng_six-ways-gitlab-cli-documented-itself-wro_cc20fcd248.md",
+    "source": "devto",
+    "title": "Six ways GitLab CLI documented itself wrong, and the two CI traps I hit finding them",
+    "url": "https://dev.to/ihopenreeng/six-ways-gitlab-cli-documented-itself-wrong-and-the-two-ci-traps-i-hit-finding-them-3ddg",
+    "keywords": [
+      "go source behind ...",
+      "july 2026 gitlab hackathon",
+      "days reading gitlab",
+      "two ci traps",
+      "two ci traps",
+      "hit finding",
+      "hit finding",
+      "source",
+      "2026",
+      "wrong"
+    ],
+    "summary": "# Six ways GitLab CLI documented itself wrong, and the two CI traps I hit finding them > Source: devto | Category: news | 2026-07-23T14:56:52Z Before the July 2026 GitLab Hackathon I spent a few days reading gitlab-org/cli, the Go source behind..."
+  },
+  "07ae9b474c9a95a2": {
+    "file": "corpus/devto/dev_to_ammarnajjar_i-rebuilt-my-personal-site-with-astro-bun_dc7b3a0692.md",
+    "source": "devto",
+    "title": "I Rebuilt My Personal Site with Astro + Bun + Cloudflare, Here’s the Full Architecture Breakdown",
+    "url": "https://dev.to/ammarnajjar/i-rebuilt-my-personal-site-with-astro-bun-cloudflare-heres-the-full-architecture-breakdown-2agg",
+    "keywords": [
+      "something lighter ,...",
+      "full architecture breakdown",
+      "full architecture breakdown",
+      "react setup",
+      "personal site",
+      "personal site",
+      "heavier docusaurus",
+      "years"
+    ],
+    "summary": "# I Rebuilt My Personal Site with Astro + Bun + Cloudflare, Here’s the Full Architecture Breakdown > Source: devto | Category: news | 2026-07-23T14:56:49Z After years with a heavier Docusaurus/React setup, I decided it was time for something lighter,..."
+  },
+  "e5d5b14f5ab92881": {
+    "file": "corpus/devto/dev_to_wasp_roll-your-own-file-based-router-in-under-50-line_95b73e4999.md",
+    "source": "devto",
+    "title": "Roll your own file-based router in under 50 lines of code",
+    "url": "https://dev.to/wasp/roll-your-own-file-based-router-in-under-50-lines-of-code-2kb4",
+    "keywords": [
+      "✨ magic ✨.",
+      "web frameworks come",
+      "based router",
+      "based router",
+      "50 lines",
+      "50 lines",
+      "48z nowadays",
+      "source",
+      "roll",
+      "roll"
+    ],
+    "summary": "# Roll your own file-based router in under 50 lines of code Nowadays, web frameworks come with ✨ magic ✨. Some more than others, but all of them have some."
+  },
+  "44b8ca5e7eff32f2": {
+    "file": "corpus/devto/dev_to_cyclopt_dimitrisk_banning-chatgpt-wont-fix-your-shado_cd4830a074.md",
+    "source": "devto",
+    "title": "Banning ChatGPT Won't Fix Your Shadow AI Problem. It'll Just Hide It.",
+    "url": "https://dev.to/cyclopt_dimitrisk/banning-chatgpt-wont-fix-your-shadow-ai-problem-itll-just-hide-it-58nl",
+    "keywords": [
+      "shadow ai problem",
+      "shadow ai problem",
+      "ai tools developers",
+      "banning chatgpt",
+      "banning chatgpt",
+      "source",
+      "reactions",
+      "policy",
+      "news",
+      "hide"
+    ],
+    "summary": "# Banning ChatGPT Won't Fix Your Shadow AI Problem. > Source: devto | Category: news | 2026-07-23T14:56:48Z Intro   Every engineering org has a policy about which AI tools developers are allowed to..."
+  },
+  "5f46caec193f464a": {
+    "file": "corpus/devto/dev_to_freema_mozilla-adopted-my-firefox-devtools-mcp-but-i-_7387ac0113.md",
+    "source": "devto",
+    "title": "Mozilla adopted my Firefox DevTools MCP, but I didn't build it to browse the web",
+    "url": "https://dev.to/freema/mozilla-adopted-my-firefox-devtools-mcp-but-i-didnt-build-it-to-browse-the-web-5142",
+    "keywords": [
+      "ai agent inspect",
+      "firefox devtools mcp",
+      "firefox devtools mcp",
+      "mcp server",
+      "control firefox",
+      "mozilla adopted",
+      "mozilla adopted",
+      "wrote",
+      "web",
+      "web"
+    ],
+    "summary": "# Mozilla adopted my Firefox DevTools MCP, but I didn't build it to browse the web > Source: devto | Category: news | 2026-07-23T14:56:51Z A little while ago I wrote an MCP server that lets an AI agent inspect and control Firefox through..."
+  },
+  "3ca744c8803c64cc": {
+    "file": "corpus/devto/dev_to_tech-aficionado_i-built-a-self-hostable-url-shortener_1ff4f58104.md",
+    "source": "devto",
+    "title": "I Built a Self-Hostable URL Shortener Because Bitly Now Charges $10/Month for Basic Links",
+    "url": "https://dev.to/tech-aficionado/i-built-a-self-hostable-url-shortener-because-bitly-now-charges-10month-for-basic-links-dj4",
+    "keywords": [
+      "100 links per month",
+      "hostable url shortener",
+      "hostable url shortener",
+      "free plan gave",
+      "basic links",
+      "basic links",
+      "slashed ...",
+      "full analytics",
+      "month",
+      "month"
+    ],
+    "summary": "# I Built a Self-Hostable URL Shortener Because Bitly Now Charges $10/Month for Basic Links > Source: devto | Category: news | 2026-07-23T14:56:51Z In 2023, Bitly's free plan gave you 100 links per month with full analytics."
+  },
+  "9c83695ee0f4496a": {
+    "file": "corpus/devto/dev_to_rhuturaj_takle_dapper-high-performance-lightweight-sq_7ad8a06e57.md",
+    "source": "devto",
+    "title": "Dapper: High-Performance, Lightweight SQL for .NET",
+    "url": "https://dev.to/rhuturaj_takle/dapper-high-performance-lightweight-sql-for-net-4jpb",
+    "keywords": [
+      "practical guide",
+      "lightweight sql",
+      "lightweight sql",
+      "lightweight sql",
+      "dapper —",
+      "48z dapper",
+      "dapper",
+      "dapper",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Dapper: High-Performance, Lightweight SQL for .NET > Source: devto | Category: news | 2026-07-23T14:56:48Z Dapper: High-Performance, Lightweight SQL for .NET   A practical guide to Dapper — the..."
+  },
+  "38aa0c0cd55dc7af": {
+    "file": "corpus/devto/dev_to_gde_gcp-in-action-line-business-card-bot-evolution-du_5be21b3933.md",
+    "source": "devto",
+    "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
+    "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
+    "keywords": [
+      "one chinese business card",
+      "48z pain point",
+      "side recognition",
+      "side recognition",
+      "source",
+      "reactions",
+      "news",
+      "merging",
+      "merging",
+      "gemini"
+    ],
+    "summary": "# [GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini > Source: devto | Category: news | 2026-07-23T14:56:48Z Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in..."
+  },
+  "5527f78b0e7f3298": {
+    "file": "corpus/devto/dev_to_tech-aficionado_i-built-a-git-based-decision-tracker-_7acfec9613.md",
+    "source": "devto",
+    "title": "I Built a Git-Based Decision Tracker — Branch Your Life Choices, Commit Predictions, and Let Time Score Your Judgment",
+    "url": "https://dev.to/tech-aficionado/i-built-a-git-based-decision-tracker-branch-your-life-choices-commit-predictions-and-let-time-295i",
+    "keywords": [
+      "51z every developer knows",
+      "let time score",
+      "let time score",
+      "experiment without fear",
+      "revert mistakes",
+      "life choices",
+      "life choices",
+      "commit predictions",
+      "commit predictions",
+      "git branch"
+    ],
+    "summary": "# I Built a Git-Based Decision Tracker — Branch Your Life Choices, Commit Predictions, and Let Time Score Your Judgment Every developer knows the power of git branch. You experiment without fear, revert mistakes, and..."
+  },
+  "ce32bb00d646e8c3": {
+    "file": "corpus/devto/dev_to_kaan_tokali_5a4828a3f897c_the-us-government-publishes_8b10671064.md",
+    "source": "devto",
+    "title": "The US government publishes 7 million flight records a year. Nobody can read them.",
+    "url": "https://dev.to/kaan_tokali_5a4828a3f897c/the-us-government-publishes-7-million-flight-records-a-year-nobody-can-read-them-4m80",
+    "keywords": [
+      "49z every delayed flight",
+      "public federal database",
+      "almost nobody opens",
+      "zip full",
+      "nobody",
+      "nobody",
+      "year",
+      "year",
+      "source",
+      "read"
+    ],
+    "summary": "# The US government publishes 7 million flight records a year. It arrives as a zip full of CSVs, so almost nobody opens it. Here is what happened when I did."
+  },
+  "f4081ec09c2a732a": {
+    "file": "corpus/devto/dev_to_surajrkhonde_where-does-rag-actually-cost-you-money-i_d734e0e5fb.md",
+    "source": "devto",
+    "title": "Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.",
+    "url": "https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm",
+    "keywords": [
+      "dig one layer deeper",
+      "rag actually cost",
+      "rag actually cost",
+      "48z rag",
+      "stop guessing",
+      "stop guessing",
+      "every day",
+      "current obsession",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Where Does RAG Actually Cost You Money? RAG has become my current obsession. Every day I dig one layer deeper into my own pipeline, and..."
+  },
+  "bfc614e13e7603c9": {
+    "file": "corpus/product/techcrunch_com_2026_07_23_your-backstage-pass-to-techcrunch-_dba4c09ef8.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Your backstage pass to TechCrunch Disrupt 2026 is waiting",
+    "url": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
+    "keywords": [
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "scenes look",
+      "backstage pass",
+      "backstage pass",
+      "backstage pass",
+      "waiting volunteer",
+      "2026"
+    ],
+    "summary": "# [techcrunch-startups] Your backstage pass to TechCrunch Disrupt 2026 is waiting Your backstage pass to TechCrunch Disrupt 2026 is waiting Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built."
+  },
+  "f4f101f131661b3d": {
+    "file": "corpus/security/thehackernews_com_2026_07_china-nexus-jadeprox-uses-new-trib_fc34dbd20e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+    "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+    "keywords": [
+      "education organizations across asia",
+      "exposed alibaba cloud server",
+      "alibaba cloud",
+      "singapore region",
+      "nexus operation",
+      "latin america",
+      "ib tracks",
+      "ib found",
+      "healthcare attacks",
+      "healthcare attacks"
+    ],
+    "summary": "# [hacker-news-sec] China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx."
+  },
+  "f7b3ab726dd61360": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fedramp-rev5-is-endin_e7e460d8ba.md",
+    "source": "security",
+    "title": "[bleeping-comp] FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+    "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+    "keywords": [
+      "20x transition really requires",
+      "20x transition really requires",
+      "fedramp 20x means",
+      "demonstrates security controls",
+      "40z fedramp rev5",
+      "fedramp rev5",
+      "fedramp rev5",
+      "time assessments",
+      "based assurance",
+      "anecdotes explains"
+    ],
+    "summary": "# [bleeping-comp] FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for continuous, evidence-based assurance."
+  },
+  "7d9baa85f92f137c": {
+    "file": "corpus/security/thehackernews_com_2026_07_claude-cowork-flaw-could-let-ai-ag_e159988bd4.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+    "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+    "keywords": [
+      "000 macos users running",
+      "write files anywhere",
+      "linux virtual machine",
+      "access mac files",
+      "access mac files",
+      "sandbox escape vulnerability",
+      "hacker news ahead",
+      "shared details",
+      "claude cowork",
+      "agent runs"
+    ],
+    "summary": "# [hacker-news-sec] Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac."
+  },
+  "1b53ded650c5bd1a": {
+    "file": "corpus/security/thehackernews_com_2026_07_chaos-ransomware-uses-msarat-to-ro_fafb9124e0.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+    "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+    "keywords": [
+      "compromised windows machine ahead",
+      "chaos ransomware group ran",
+      "chaos ransomware uses msarat",
+      "chaos ransomware uses msarat",
+      "thursday detailed msarat",
+      "rust implant behind",
+      "route c2 traffic",
+      "route c2 traffic",
+      "route c2 traffic",
+      "implant never opens"
+    ],
+    "summary": "# [hacker-news-sec] Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge It starts Chrome or Edge in headless mode and drives the browser"
+  },
+  "209aa1d09a01da69": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_expedia-ai-observability-star_utm_695cc9934c.md",
+    "source": "engineering",
+    "title": "[infoq] Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
+    "url": "https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "generate root cause assessments",
+      "star follows structured workflows",
+      "support incident response",
+      "assisted observability platform",
+      "accelerate incident investigation",
+      "accelerate incident investigation",
+      "introduced star",
+      "leela kumili",
+      "keeping engineers",
+      "internal ai"
+    ],
+    "summary": "# [infoq] Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service telemetry and LLMs. Built with FastAPI, Datadog, Celery, Redis, and Langfuse, STAR follows structured workflows to analyze telemetry, generate root cause assessments, and support incident response while keeping engineers in the loop."
+  },
+  "58435be5826e0929": {
+    "file": "corpus/hackernews/haqr_eu_tinyrenderer_31ded29738.md",
+    "source": "hackernews",
+    "title": "Software rendering in 500 lines of bare C++",
+    "url": "https://haqr.eu/tinyrenderer/",
+    "keywords": [
+      "bare c ++",
+      "bare c ++",
+      "software rendering",
+      "software rendering",
+      "500 lines",
+      "500 lines",
+      "38z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Software rendering in 500 lines of bare C++ > Source: hackernews | Category: news | 2026-07-23T14:56:38Z Score: 18 | Comments: 1"
+  },
+  "1bc770fe571d63d0": {
+    "file": "corpus/hackernews/veryfineprint_substack_com_p_scanning-for-pangram-errors_d574526c50.md",
+    "source": "hackernews",
+    "title": "Scanning for Pangram Errors",
+    "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+    "keywords": [
+      "pangram errors",
+      "pangram errors",
+      "39z score",
+      "source",
+      "scanning",
+      "scanning",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Scanning for Pangram Errors > Source: hackernews | Category: news | 2026-07-23T14:56:39Z Score: 39 | Comments: 22"
+  },
+  "5ba7cb47dc00c58b": {
+    "file": "corpus/hackernews/werd_io_private-healthcare-makes-industries-less-innovative-_7af7d8e913.md",
+    "source": "hackernews",
+    "title": "Private healthcare makes industries less innovative. It's time for change",
+    "url": "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/",
+    "keywords": [
+      "38z score",
+      "time",
+      "time",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "change",
+      "change",
+      "category"
+    ],
+    "summary": "# Private healthcare makes industries less innovative. It's time for change > Source: hackernews | Category: news | 2026-07-23T14:56:38Z"
+  },
+  "8a26149b32a59c66": {
+    "file": "corpus/hackernews/www_reuters_com_business_retail-consumer_alphabets-cash-burn_bce0c57c33.md",
+    "source": "hackernews",
+    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "keywords": [
+      "cash burn raises alarm",
+      "cash burn raises alarm",
+      "ai spending climbs",
+      "ai spending climbs",
+      "big tech",
+      "big tech",
+      "40z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Alphabet's cash burn raises alarm for Big Tech as AI spending climbs > Source: hackernews | Category: news | 2026-07-23T14:56:40Z Score: 167 | Comments: 160"
+  },
+  "d131169577887104": {
+    "file": "corpus/hackernews/nealstephenson_substack_com_p_writing-by-hand-is-good-for-yo_529f64350b.md",
+    "source": "hackernews",
+    "title": "Writing by Hand is Good for your Brain",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "keywords": [
+      "39z score",
+      "writing",
+      "writing",
+      "source",
+      "news",
+      "hand",
+      "hand",
+      "hackernews",
+      "good",
+      "good"
+    ],
+    "summary": "# Writing by Hand is Good for your Brain > Source: hackernews | Category: news | 2026-07-23T14:56:39Z Score: 22 | Comments: 1"
+  },
+  "497324961191b008": {
+    "file": "corpus/hackernews/www_eso_org_public_news_eso2610_8b56e24e02.md",
+    "source": "hackernews",
+    "title": "Astronomers may have found the first exomoon",
+    "url": "https://www.eso.org/public/news/eso2610/",
+    "keywords": [
+      "first exomoon",
+      "first exomoon",
+      "astronomers may",
+      "astronomers may",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "found",
+      "found"
+    ],
+    "summary": "# Astronomers may have found the first exomoon > Source: hackernews | Category: news | 2026-07-23T14:56:38Z Score: 65 | Comments: 31"
+  },
+  "f49c90f60fcb1ee3": {
+    "file": "corpus/hackernews/xn--gckvb8fzb_com_i-regret-migrating-to-codeberg_8f793b1721.md",
+    "source": "hackernews",
+    "title": "I Regret Migrating to Codeberg",
+    "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "keywords": [
+      "regret migrating",
+      "regret migrating",
+      "45z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "codeberg",
+      "codeberg",
+      "category"
+    ],
+    "summary": "# I Regret Migrating to Codeberg > Source: hackernews | Category: news | 2026-07-23T14:56:45Z Score: 36 | Comments: 15"
+  },
+  "3ecbc5c732bd02fd": {
+    "file": "corpus/hackernews/www_axios_com_2026_07_22_openai-anthropic-open-models-trump-_50f7411ddc.md",
+    "source": "hackernews",
+    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+    "keywords": [
+      "weight ai risks",
+      "weight ai risks",
+      "bottom line",
+      "bottom line",
+      "anthropic unite",
+      "anthropic unite",
+      "44z score",
+      "source",
+      "openai",
+      "openai"
+    ],
+    "summary": "# OpenAI and Anthropic unite against open-weight AI risks to their bottom line > Source: hackernews | Category: news | 2026-07-23T14:56:44Z Score: 217 | Comments: 252"
+  },
+  "310a9d78c78a1ce3": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49019663_31e92e034d.md",
+    "source": "hackernews",
+    "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
+    "url": "https://news.ycombinator.com/item?id=49019663",
+    "keywords": [
+      "model running unattended risk",
+      "concerned citizens making inquiries",
+      "23 hugging face put",
+      "french authorities .< p",
+      "france .< p",
+      "co &# x2f",
+      "blog &# x2f",
+      "openai hacked huggingface",
+      "openai hacked huggingface",
+      "&# x27"
+    ],
+    "summary": "Hugging Face put up a blogpost saying that they reported the hacking to the authorities: https:&#x2F;&#x2F;huggingface.co&#x2F;blog&#x2F;security-incident-july-2026<p>It&#x27;s not clear whether they mean authorities for their US HQ or the French authorities.<p>But I can&#x27;t find any announcement of the follow-up. Is there a case open against OpenAI the company? Anyone detained yet?<p>I guess the people who left the model running unattended risk at least a suspended sentence here in France.<p"
+  },
+  "431ad0fba7a29bcc": {
+    "file": "corpus/hackernews/goldberg_berkeley_edu_garden_858c68c54a.md",
+    "source": "hackernews",
+    "title": "The Telegarden (1995-2004)",
+    "url": "https://goldberg.berkeley.edu/garden/",
+    "keywords": [
+      "39z score",
+      "telegarden",
+      "telegarden",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "23t14"
+    ],
+    "summary": "# The Telegarden (1995-2004) > Source: hackernews | Category: news | 2026-07-23T14:56:39Z Score: 14 | Comments: 1"
+  },
+  "e26744f9e6f8987c": {
+    "file": "corpus/hackernews/futurism_com_artificial-intelligence_ai-companies-hide-debt-_c2b72901f9.md",
+    "source": "hackernews",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "keywords": [
+      "staggering amount",
+      "staggering amount",
+      "ai companies",
+      "ai companies",
+      "39z score",
+      "trying",
+      "trying",
+      "source",
+      "news",
+      "hide"
+    ],
+    "summary": "# AI Companies Are Trying to Hide a Staggering Amount of Debt > Source: hackernews | Category: news | 2026-07-23T14:56:39Z Score: 147 | Comments: 74"
+  },
+  "0718915ac213c6ed": {
+    "file": "corpus/sales/www_saastr_com_ai-wont-kill-saas-but-it-will-kill-vendors-th_d1e443ae71.md",
+    "source": "sales",
+    "title": "[saastr] AI Won’t Kill SaaS. But It Will Kill Vendors That Stopped Shipping. Point Solutions Are Most at Risk.",
+    "url": "https://www.saastr.com/ai-wont-kill-saas-but-it-will-kill-vendors-that-stopped-shipping-point-solutions-are-most-at-risk/",
+    "keywords": [
+      "... continue reading",
+      "stopped shipping",
+      "stopped shipping",
+      "stopped shipping",
+      "point solutions",
+      "point solutions",
+      "point solutions",
+      "kill vendors",
+      "kill vendors",
+      "kill vendors"
+    ],
+    "summary": "But It Will Kill Vendors That Stopped Shipping. But It Will Kill Vendors That Stopped Shipping. Let me start with where I actually land on build-vs-buy: I&#8217;d rather not build or vibe."
+  },
+  "5adea5c7ca77a601": {
+    "file": "corpus/devops/devops_com_new-copilot-dashboard-shows-enterprises-which-dev_4f39933dea.md",
+    "source": "devops",
+    "title": "[devops-com] New Copilot Dashboard Shows Enterprises Which Developers Are Actually Using AI — Not Just Who’s Logged In",
+    "url": "https://devops.com/new-copilot-dashboard-shows-enterprises-which-developers-are-actually-using-ai-not-just-whos-logged-in/",
+    "keywords": [
+      "real productivity business case",
+      "actually using ai —",
+      "actually using ai —",
+      "actually using ai —",
+      "source",
+      "logged",
+      "logged"
+    ],
+    "summary": "# [devops-com] New Copilot Dashboard Shows Enterprises Which Developers Are Actually Using AI — Not Just Who’s Logged In New Copilot Dashboard Shows Enterprises Which Developers Are Actually Using AI — Not Just Who’s Logged In GitHub's new Copilot dashboard shows enterprises which developers use AI deeply — turning adoption data into a real productivity business case."
   }
 }
