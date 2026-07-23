@@ -3668,6 +3668,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_business_sequoiacap_com_article_partnering_with_etched_building_the_i_d1b2a7b9a8",
+      "label": "sequoiacap_com_article_partnering-with-etched-building-the-i_d1b2a7b9a8.md",
+      "file_type": "document",
+      "source_file": "corpus/business/sequoiacap_com_article_partnering-with-etched-building-the-i_d1b2a7b9a8.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_business_sequoiacap_com_article_partnering_with_etched_building_the_i_d1b2a7b9a8_sequoia_partnering_with_etched_building_the_inference_machine",
+      "label": "[sequoia] Partnering with Etched: Building the Inference Machine",
+      "file_type": "document",
+      "source_file": "corpus/business/sequoiacap_com_article_partnering-with-etched-building-the-i_d1b2a7b9a8.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf",
       "label": "sequoiacap_com_article_partnering-with-probook-ai-for-the-tr_be8f5751cf.md",
       "file_type": "document",
@@ -18408,6 +18424,22 @@
       "label": "waitForResponse() timing: the one-line fix with a non-obvious mental model",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_ariless_waitforresponse-timing-the-one-line-fix-with-_0d44b9a18f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_arindam_1729_did_cursor_kill_the_model_router_compani_b1c5c0f8dc",
+      "label": "dev_to_arindam_1729_did-cursor-kill-the-model-router-compani_b1c5c0f8dc.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_arindam_1729_did-cursor-kill-the-model-router-compani_b1c5c0f8dc.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_arindam_1729_did_cursor_kill_the_model_router_compani_b1c5c0f8dc_did_cursor_kill_the_model_router_companies",
+      "label": "Did Cursor Kill the Model Router Companies?",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_arindam_1729_did-cursor-kill-the-model-router-compani_b1c5c0f8dc.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -36728,6 +36760,22 @@
       "label": "I built a GitHub App that auto-generates adversarial tests for AI-written code — here's how it works",
       "file_type": "document",
       "source_file": "corpus/devto/dev_to_fahadhafeeezofficial_i-built-a-github-app-that-auto-g_178d32c431.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_faisal_nadeem_752520c3e03_unhandled_promise_rejection_2742c33ccc",
+      "label": "dev_to_faisal_nadeem_752520c3e03_unhandled-promise-rejection_2742c33ccc.md",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_faisal_nadeem_752520c3e03_unhandled-promise-rejection_2742c33ccc.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_devto_dev_to_faisal_nadeem_752520c3e03_unhandled_promise_rejection_2742c33ccc_unhandled_promise_rejections_in_node_js_why_they_silently_kill_jobs",
+      "label": "Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs",
+      "file_type": "document",
+      "source_file": "corpus/devto/dev_to_faisal_nadeem_752520c3e03_unhandled-promise-rejection_2742c33ccc.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -95820,6 +95868,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_engineering_blog_bytebytego_com_p_a_beginners_guide_to_clocks_causality_5edce65a1c",
+      "label": "blog_bytebytego_com_p_a-beginners-guide-to-clocks-causality_5edce65a1c.md",
+      "file_type": "document",
+      "source_file": "corpus/engineering/blog_bytebytego_com_p_a-beginners-guide-to-clocks-causality_5edce65a1c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_engineering_blog_bytebytego_com_p_a_beginners_guide_to_clocks_causality_5edce65a1c_bytebytego_a_beginner_s_guide_to_clocks_causality_and_ordering_in_distributed_systems",
+      "label": "[bytebytego] A Beginner’s Guide to Clocks, Causality, and Ordering in Distributed Systems",
+      "file_type": "document",
+      "source_file": "corpus/engineering/blog_bytebytego_com_p_a-beginners-guide-to-clocks-causality_5edce65a1c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_engineering_blog_bytebytego_com_p_a_guide_to_ai_inference_engineering_a0c346316c",
       "label": "blog_bytebytego_com_p_a-guide-to-ai-inference-engineering_a0c346316c.md",
       "file_type": "document",
@@ -96808,6 +96872,22 @@
       "label": "[pragmatic-engineer] The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
       "file_type": "document",
       "source_file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-groks-cli-caugh_9d293a5ca0.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_engineering_newsletter_pragmaticengineer_com_p_the_pulse_quitting_spotif_92cb7fd085",
+      "label": "newsletter_pragmaticengineer_com_p_the-pulse-quitting-spotif_92cb7fd085.md",
+      "file_type": "document",
+      "source_file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-quitting-spotif_92cb7fd085.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_engineering_newsletter_pragmaticengineer_com_p_the_pulse_quitting_spotif_92cb7fd085_pragmatic_engineer_the_pulse_quitting_spotify_podcasts_over_reliability",
+      "label": "[pragmatic-engineer] The Pulse: Quitting Spotify Podcasts over reliability",
+      "file_type": "document",
+      "source_file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-quitting-spotif_92cb7fd085.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -102616,6 +102696,22 @@
       "label": "[tc-venture] Travis Kalanick’s robotics company raises $1.7B, led by a16z",
       "file_type": "document",
       "source_file": "corpus/finance/techcrunch_com_2026_07_22_travis-kalanicks-robotics-company-_7ff4f84009.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_finance_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4",
+      "label": "techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
+      "file_type": "document",
+      "source_file": "corpus/finance/techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_finance_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4_tc_venture_edtech_platform_raises_4_5m_to_help_teach_students_how_to_vibe_code",
+      "label": "[tc-venture] Edtech platform raises $4.5M to help teach students how to vibe code",
+      "file_type": "document",
+      "source_file": "corpus/finance/techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -112892,6 +112988,38 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c",
+      "label": "github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_ollama_ollama_v0_32_3_released",
+      "label": "ollama/ollama v0.32.3 released",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_ollama_ollama_v0_32_3",
+      "label": "ollama/ollama — v0.32.3",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_what_s_changed",
+      "label": "What's Changed",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_github_releases_github_com_openai_openai_python_releases_tag_v2_39_0_a5d345f37e",
       "label": "github_com_openai_openai-python_releases_tag_v2_39_0_a5d345f37e.md",
       "file_type": "document",
@@ -114072,6 +114200,38 @@
       "label": "Minor Changes",
       "file_type": "document",
       "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_0_949f506751.md",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e",
+      "label": "github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_shadcn_ui_ui_shadcn_4_14_1_released",
+      "label": "shadcn-ui/ui shadcn@4.14.1 released",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_shadcn_ui_ui_shadcn_4_14_1",
+      "label": "shadcn-ui/ui — shadcn@4.14.1",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_patch_changes",
+      "label": "Patch Changes",
+      "file_type": "document",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
       "source_location": "L19",
       "_origin": "ast"
     },
@@ -125644,6 +125804,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_blog_jimgrey_net_2026_06_30_what_happens_when_the_informatio_9730345ce9",
+      "label": "blog_jimgrey_net_2026_06_30_what-happens-when-the-informatio_9730345ce9.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/blog_jimgrey_net_2026_06_30_what-happens-when-the-informatio_9730345ce9.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_blog_jimgrey_net_2026_06_30_what_happens_when_the_informatio_9730345ce9_what_happens_when_the_information_runs_out",
+      "label": "What happens when the information runs out",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/blog_jimgrey_net_2026_06_30_what-happens-when-the-informatio_9730345ce9.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_blog_jimgrey_net_2026_07_21_its_a_shame_whats_happened_to_ra_3c66d7ded7",
       "label": "blog_jimgrey_net_2026_07_21_its-a-shame-whats-happened-to-ra_3c66d7ded7.md",
       "file_type": "document",
@@ -132460,6 +132636,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_eliemichel_github_io_learnwebgpu_89ff16ffa9",
+      "label": "eliemichel_github_io_LearnWebGPU_89ff16ffa9.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/eliemichel_github_io_LearnWebGPU_89ff16ffa9.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_eliemichel_github_io_learnwebgpu_89ff16ffa9_learn_webgpu_for_c",
+      "label": "Learn WebGPU for C++",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/eliemichel_github_io_LearnWebGPU_89ff16ffa9.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_elifesciences_org_articles_107088_2ed76096a2",
       "label": "elifesciences_org_articles_107088_2ed76096a2.md",
       "file_type": "document",
@@ -132616,6 +132808,22 @@
       "label": "The Normalization of Deviance in AI",
       "file_type": "document",
       "source_file": "corpus/hackernews/embracethered_com_blog_posts_2025_the-normalization-of-devia_968661ccb8.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_en_andros_dev_blog_06bfd107_emacs_is_a_lispboard_edf291e52d",
+      "label": "en_andros_dev_blog_06bfd107_emacs-is-a-lispboard_edf291e52d.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/en_andros_dev_blog_06bfd107_emacs-is-a-lispboard_edf291e52d.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_en_andros_dev_blog_06bfd107_emacs_is_a_lispboard_edf291e52d_emacs_is_a_lispboard",
+      "label": "Emacs Is a Lispboard",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/en_andros_dev_blog_06bfd107_emacs-is-a-lispboard_edf291e52d.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -135980,6 +136188,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_github_com_conradqh_scrapemychats_060adbe5be",
+      "label": "github_com_Conradqh_scrapemychats_060adbe5be.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_Conradqh_scrapemychats_060adbe5be.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_conradqh_scrapemychats_060adbe5be_free_way_to_get_your_data_out_of_chatgpt_business_accounts",
+      "label": "Free way to get your data out of ChatGPT Business accounts",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_Conradqh_scrapemychats_060adbe5be.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_github_com_corgea_sighthound_65571858c8",
       "label": "github_com_Corgea_Sighthound_65571858c8.md",
       "file_type": "document",
@@ -136216,6 +136440,22 @@
       "label": "Claude-real-video － any LLM can watch a video",
       "file_type": "document",
       "source_file": "corpus/hackernews/github_com_HUANGCHIHHUNGLeo_claude-real-video_f8a707d9ac.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_haeata_ash_hanky_f546f925b7",
+      "label": "github_com_Haeata-Ash_hanky_f546f925b7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_Haeata-Ash_hanky_f546f925b7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_haeata_ash_hanky_f546f925b7_show_hn_hanky_etl_style_framework_for_loading_flash_cards_into_anki",
+      "label": "Show HN: Hanky – ETL style framework for loading flash cards into Anki",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_Haeata-Ash_hanky_f546f925b7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -136920,6 +137160,22 @@
       "label": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
       "file_type": "document",
       "source_file": "corpus/hackernews/github_com_Tessil_hopscotch-map_347592f352.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_thatxliner_nerdlens_7627451e86",
+      "label": "github_com_ThatXliner_NerdLens_7627451e86.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_ThatXliner_NerdLens_7627451e86.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_thatxliner_nerdlens_7627451e86_nerdlens_mirror_your_computer_with_cardboard_vr",
+      "label": "NerdLens: Mirror your computer with cardboard VR",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_ThatXliner_NerdLens_7627451e86.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -138668,6 +138924,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_github_com_h3nock_remux_d42f10020f",
+      "label": "github_com_h3nock_remux_d42f10020f.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_h3nock_remux_d42f10020f.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_h3nock_remux_d42f10020f_show_hn_remux_an_open_source_tmux_workspace_designed_for_iphone",
+      "label": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_h3nock_remux_d42f10020f.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_github_com_harihkk_debug_brief_7c03294e18",
       "label": "github_com_harihkk_Debug-Brief_7c03294e18.md",
       "file_type": "document",
@@ -139448,6 +139720,22 @@
       "label": "AI agents write Ruby but can't navigate it: a 5-model, 13-codebase benchmark",
       "file_type": "document",
       "source_file": "corpus/hackernews/github_com_luuuc_sense_blob_main_bench_verticals_ruby-rails__7ece64b59d.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_lx2026_relaybar_3fd0394ec8",
+      "label": "github_com_lx2026_RelayBar_3fd0394ec8.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_lx2026_RelayBar_3fd0394ec8.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_lx2026_relaybar_3fd0394ec8_show_hn_macos_menu_bar_manager_for_ssh_port_forwards",
+      "label": "Show HN: macOS menu-bar manager for SSH port forwards",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_lx2026_RelayBar_3fd0394ec8.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -140520,6 +140808,22 @@
       "label": "David Ahl's Basic Computer Games Ported to C",
       "file_type": "document",
       "source_file": "corpus/hackernews/github_com_proteanthread_bcg_cda8eec41e.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_pullrun_pullrun_006af6ecab",
+      "label": "github_com_pullrun_pullrun_006af6ecab.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_pullrun_pullrun_006af6ecab.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_github_com_pullrun_pullrun_006af6ecab_you_can_now_run_same_oci_images_as_containers_or_firecracker_microvms",
+      "label": "You can now run same OCI images as containers or Firecracker microVMs",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/github_com_pullrun_pullrun_006af6ecab.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -147244,6 +147548,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_learnopengl_com_97cafa1a61",
+      "label": "learnopengl_com_97cafa1a61.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/learnopengl_com_97cafa1a61.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_learnopengl_com_97cafa1a61_learn_opengl_extensive_tutorial_resource_for_learning_modern_opengl",
+      "label": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/learnopengl_com_97cafa1a61.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_learnthroughstories_substack_com_p_i_tested_885_duolingo_che_f1732cfb7d",
       "label": "learnthroughstories_substack_com_p_i-tested-885-duolingo-che_f1732cfb7d.md",
       "file_type": "document",
@@ -149548,6 +149868,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_mctools_site_ade8d0a444",
+      "label": "mctools_site_ade8d0a444.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/mctools_site_ade8d0a444.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_mctools_site_ade8d0a444_show_hn_dally_a_little_every_day_adds_up",
+      "label": "Show HN: Dally – A little every day adds up",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/mctools_site_ade8d0a444.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_mechanical_pencil_com_products_car_dcf9f03e62",
       "label": "mechanical-pencil_com_products_car_dcf9f03e62.md",
       "file_type": "document",
@@ -151336,6 +151672,22 @@
       "label": "Nintendo has raised its employees base salary by 10%",
       "file_type": "document",
       "source_file": "corpus/hackernews/mynintendonews_com_2026_06_26_nintendo-has-raised-its-employ_395ae10d79.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_mysk_blog_2026_07_23_macos_overwrite_app_executables_493a4a6c22",
+      "label": "mysk_blog_2026_07_23_macos-overwrite-app-executables_493a4a6c22.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/mysk_blog_2026_07_23_macos-overwrite-app-executables_493a4a6c22.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_mysk_blog_2026_07_23_macos_overwrite_app_executables_493a4a6c22_silent_replacement_of_trusted_macos_app_executables",
+      "label": "Silent Replacement of Trusted macOS App Executables",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/mysk_blog_2026_07_23_macos-overwrite-app-executables_493a4a6c22.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -153756,6 +154108,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_news_ycombinator_com_item_id_49022990_1a3836631c",
+      "label": "news_ycombinator_com_item_id_49022990_1a3836631c.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/news_ycombinator_com_item_id_49022990_1a3836631c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_news_ycombinator_com_item_id_49022990_1a3836631c_ask_hn_is_there_a_website_that_tracks_excessive_writes_to_ssds_in_os_app_betas",
+      "label": "Ask HN: Is there a website that tracks excessive writes to SSDs in OS/app betas?",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/news_ycombinator_com_item_id_49022990_1a3836631c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_newsletter_bphogan_com_archive_issue_52_run_coding_models_lo_00de748ba5",
       "label": "newsletter_bphogan_com_archive_issue-52-run-coding-models-lo_00de748ba5.md",
       "file_type": "document",
@@ -155228,6 +155596,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_omnideck_cc_c47dd1e776",
+      "label": "omnideck_cc_c47dd1e776.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/omnideck_cc_c47dd1e776.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_omnideck_cc_c47dd1e776_show_hn_i_built_a_zero_latency_developer_tool_suite_in_pure_vanilla_javascript",
+      "label": "Show HN: I built a zero-latency developer tool suite in pure Vanilla JavaScript",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/omnideck_cc_c47dd1e776.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_onatm_dev_2026_07_16_homescale_part_1_78d049a068",
       "label": "onatm_dev_2026_07_16_homescale-part-1_78d049a068.md",
       "file_type": "document",
@@ -155596,6 +155980,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_openjdk_org_jeps_540_c3fed3ff80",
+      "label": "openjdk_org_jeps_540_c3fed3ff80.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/openjdk_org_jeps_540_c3fed3ff80.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_openjdk_org_jeps_540_c3fed3ff80_jep_540_simple_json_api_now_in_incubator",
+      "label": "JEP 540: Simple JSON API (Now in Incubator)",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/openjdk_org_jeps_540_c3fed3ff80.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_openjsf_org_blog_burnout_is_real_for_open_source_maintainers_950c459444",
       "label": "openjsf_org_blog_burnout-is-real-for-open-source-maintainers_950c459444.md",
       "file_type": "document",
@@ -155900,6 +156300,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_ourworldindata_org_how_much_energy_do_data_centers_and_artif_0efb302f46",
+      "label": "ourworldindata_org_how-much-energy-do-data-centers-and-artif_0efb302f46.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/ourworldindata_org_how-much-energy-do-data-centers-and-artif_0efb302f46.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_ourworldindata_org_how_much_energy_do_data_centers_and_artif_0efb302f46_how_much_energy_do_data_centers_and_artificial_intelligence_use",
+      "label": "How much energy do data centers and artificial intelligence use?",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/ourworldindata_org_how-much-energy-do-data-centers-and-artif_0efb302f46.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_outyet_ai_078c57b20a",
       "label": "outyet_ai_078c57b20a.md",
       "file_type": "document",
@@ -156120,6 +156536,22 @@
       "label": "Some AI Systems Differentially Downplay Their Creators' Controversies",
       "file_type": "document",
       "source_file": "corpus/hackernews/papers_ssrn_com_sol3_papers_cfm_0fea050938.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b",
+      "label": "papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b_encryption_and_globalization_15_years_later_e2ee_and_the_going_dark_debate",
+      "label": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -157944,6 +158376,22 @@
       "label": "Optimizing Lua string literals to save 400 bytes",
       "file_type": "document",
       "source_file": "corpus/hackernews/purplesyringa_moe_blog_guest_optimizing-lua-string-literals-_8ac7eeead4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_purplesyringa_moe_blog_log_is_non_monotonic_in_php_and_lua_1a0fa5f8bb",
+      "label": "purplesyringa_moe_blog_log-is-non-monotonic-in-php-and-lua_1a0fa5f8bb.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/purplesyringa_moe_blog_log-is-non-monotonic-in-php-and-lua_1a0fa5f8bb.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_purplesyringa_moe_blog_log_is_non_monotonic_in_php_and_lua_1a0fa5f8bb_log_is_non_monotonic_in_php_and_lua",
+      "label": "Log is non-monotonic in PHP and Lua",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/purplesyringa_moe_blog_log-is-non-monotonic-in-php-and-lua_1a0fa5f8bb.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -160472,6 +160920,22 @@
       "label": "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
       "file_type": "document",
       "source_file": "corpus/hackernews/semiconductor_samsung_com_news-events_tech-blog_from-gaa-to-_27299ad5f3.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_semisafe_com_coding_ai_2026_07_22_sorcery_in_the_open_c607d39a6e",
+      "label": "semisafe_com_coding_ai_2026_07_22_sorcery-in-the-open_c607d39a6e.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/semisafe_com_coding_ai_2026_07_22_sorcery-in-the-open_c607d39a6e.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_semisafe_com_coding_ai_2026_07_22_sorcery_in_the_open_c607d39a6e_sorcery_in_the_open_is_generated_code_still_source_code",
+      "label": "Sorcery in the open: is generated code still source code?",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/semisafe_com_coding_ai_2026_07_22_sorcery-in-the-open_c607d39a6e.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -163528,6 +163992,22 @@
       "label": "Gleam Is Now on Tangled",
       "file_type": "document",
       "source_file": "corpus/hackernews/tangled_org_gleam_run_gleam_3bbef4aea6.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_tangled_org_janantos_tngl_sh_brow6el_e368dfb690",
+      "label": "tangled_org_janantos_tngl_sh_brow6el_e368dfb690.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/tangled_org_janantos_tngl_sh_brow6el_e368dfb690.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_tangled_org_janantos_tngl_sh_brow6el_e368dfb690_brow6el_a_full_featured_web_browser_for_the_terminal_using_chromium",
+      "label": "Brow6el: A full-featured web browser for the terminal using Chromium",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/tangled_org_janantos_tngl_sh_brow6el_e368dfb690.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -168476,6 +168956,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_wiki_openstreetmap_org_wiki_tag_boundary_3dadministrative_ta_bfdddec4e6",
+      "label": "wiki_openstreetmap_org_wiki_Tag_boundary_3Dadministrative_Ta_bfdddec4e6.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/wiki_openstreetmap_org_wiki_Tag_boundary_3Dadministrative_Ta_bfdddec4e6.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_wiki_openstreetmap_org_wiki_tag_boundary_3dadministrative_ta_bfdddec4e6_openstreetmap_admin_level_for_all_countries",
+      "label": "OpenStreetMap: Admin_level for All Countries",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/wiki_openstreetmap_org_wiki_Tag_boundary_3Dadministrative_Ta_bfdddec4e6.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_wiki_wordsoftype_com_627f72292e",
       "label": "wiki_wordsoftype_com_627f72292e.md",
       "file_type": "document",
@@ -169272,6 +169768,22 @@
       "label": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_404media_co_judge-learns-lawyers-on-both-sides-of-case-u_8832cb13cd.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_404media_co_leaked_document_shows_the_surveillance_tech_878dc8c361",
+      "label": "www_404media_co_leaked-document-shows-the-surveillance-tech-_878dc8c361.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_404media_co_leaked-document-shows-the-surveillance-tech-_878dc8c361.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_404media_co_leaked_document_shows_the_surveillance_tech_878dc8c361_leaked_document_shows_the_surveillance_tech_at_ice_s_fingertips",
+      "label": "Leaked Document Shows the Surveillance Tech at ICE's Fingertips",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_404media_co_leaked-document-shows-the-surveillance-tech-_878dc8c361.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -173932,6 +174444,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_darpa_mil_news_2026_darpa_us_air_force_fly_ai_controlled_b8e8184e18",
+      "label": "www_darpa_mil_news_2026_darpa-us-air-force-fly-ai-controlled_b8e8184e18.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_darpa_mil_news_2026_darpa-us-air-force-fly-ai-controlled_b8e8184e18.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_darpa_mil_news_2026_darpa_us_air_force_fly_ai_controlled_b8e8184e18_darpa_u_s_air_force_fly_ai_controlled_f_16",
+      "label": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_darpa_mil_news_2026_darpa-us-air-force-fly-ai-controlled_b8e8184e18.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_darpa_mil_research_challenges_lift_91626ba499",
       "label": "www_darpa_mil_research_challenges_lift_91626ba499.md",
       "file_type": "document",
@@ -174556,6 +175084,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_economist_com_business_2026_07_16_how_to_sell_a_kettle_22e05b5cd0",
+      "label": "www_economist_com_business_2026_07_16_how-to-sell-a-kettle_22e05b5cd0.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_economist_com_business_2026_07_16_how-to-sell-a-kettle_22e05b5cd0.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_economist_com_business_2026_07_16_how_to_sell_a_kettle_22e05b5cd0_how_to_sell_a_kettle",
+      "label": "How to Sell a Kettle",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_economist_com_business_2026_07_16_how-to-sell-a-kettle_22e05b5cd0.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_economist_com_by_invitation_2026_06_02_how_the_war_on_te_3540c97022",
       "label": "www_economist_com_by-invitation_2026_06_02_how-the-war-on-te_3540c97022.md",
       "file_type": "document",
@@ -175080,6 +175624,22 @@
       "label": "European Court: Apple Can Not Shirk Off Its Interoperability Requirements",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_eff_org_deeplinks_2026_07_european-court-apple-can-not-s_1fa9b6b0a4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda",
+      "label": "www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda_fourth_circuit_border_agents_can_search_your_phone_by_hand_no_suspicion_needed",
+      "label": "Fourth Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Needed",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -179660,6 +180220,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_mathunion_org_imu_awards_fields_medal_fields_medals_2026_2b823d8d07",
+      "label": "www_mathunion_org_imu-awards_fields-medal_fields-medals-2026_2b823d8d07.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_mathunion_org_imu-awards_fields-medal_fields-medals-2026_2b823d8d07.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_mathunion_org_imu_awards_fields_medal_fields_medals_2026_2b823d8d07_fields_medals_2026",
+      "label": "Fields Medals 2026",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_mathunion_org_imu-awards_fields-medal_fields-medals-2026_2b823d8d07.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_matteast_io_spacex_escape_velocity_html_b0f41eb077",
       "label": "www_matteast_io_spacex-escape-velocity_html_b0f41eb077.md",
       "file_type": "document",
@@ -180024,6 +180600,22 @@
       "label": "A font that humans can read but AI cannot",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_mixfont_com_ghost-font_d25a187a89.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_modelbias_ai_prompt_public_or_private_healthcare_bcb275e6a4",
+      "label": "www_modelbias_ai_prompt_public-or-private-healthcare_bcb275e6a4.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_modelbias_ai_prompt_public-or-private-healthcare_bcb275e6a4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_modelbias_ai_prompt_public_or_private_healthcare_bcb275e6a4_show_hn_what_s_ai_s_go_to_public_or_private_healthcare",
+      "label": "Show HN: What's AI's go-to, public or private healthcare?",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_modelbias_ai_prompt_public-or-private-healthcare_bcb275e6a4.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -183036,6 +183628,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_politico_com_news_2026_07_22_startup_founders_urge_trump_5b3b2271e7",
+      "label": "www_politico_com_news_2026_07_22_startup-founders-urge-trump_5b3b2271e7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_politico_com_news_2026_07_22_startup-founders-urge-trump_5b3b2271e7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_politico_com_news_2026_07_22_startup_founders_urge_trump_5b3b2271e7_startup_founders_urge_trump_not_to_shut_off_chinese_open_weight_ai",
+      "label": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_politico_com_news_2026_07_22_startup-founders-urge-trump_5b3b2271e7.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_politico_com_news_magazine_2026_06_20_south_korea_weapon_398a2bed61",
       "label": "www_politico_com_news_magazine_2026_06_20_south-korea-weapon_398a2bed61.md",
       "file_type": "document",
@@ -184472,6 +185080,22 @@
       "label": "EU will seek to limit children's access to social media",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_rte_ie_news_europe_2026_0713_1583074-eu-social-media_83d9892fc5.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_rtx_com_news_news_center_2026_07_21_rtxs_pratt_whitney_c_c607e14585",
+      "label": "www_rtx_com_news_news-center_2026_07_21_rtxs-pratt-whitney-c_c607e14585.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_rtx_com_news_news-center_2026_07_21_rtxs-pratt-whitney-c_c607e14585.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_rtx_com_news_news_center_2026_07_21_rtxs_pratt_whitney_c_c607e14585_hybrid_electric_aicraft_engine_targeting_30_fuel_efficiency",
+      "label": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_rtx_com_news_news-center_2026_07_21_rtxs-pratt-whitney-c_c607e14585.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -187132,6 +187756,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_www_theguardian_com_money_2026_jul_23_uk_households_free_ins_ac0bb79f85",
+      "label": "www_theguardian_com_money_2026_jul_23_uk-households-free-ins_ac0bb79f85.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_theguardian_com_money_2026_jul_23_uk-households-free-ins_ac0bb79f85.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_theguardian_com_money_2026_jul_23_uk_households_free_ins_ac0bb79f85_uk_households_free_to_install_plug_in_balcony_solar_panels_from_end_of_august",
+      "label": "UK households free to install plug-in balcony solar panels from end of August",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_theguardian_com_money_2026_jul_23_uk-households-free-ins_ac0bb79f85.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_www_theguardian_com_science_2026_jun_02_journey_into_spain_p_249fab866e",
       "label": "www_theguardian_com_science_2026_jun_02_journey-into-spain-p_249fab866e.md",
       "file_type": "document",
@@ -188984,6 +189624,22 @@
       "label": "Twenty Years Later, Everything Is the Truman Show (2018)",
       "file_type": "document",
       "source_file": "corpus/hackernews/www_vanityfair_com_hollywood_2018_06_truman-show-anniversary_939ed5c93c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_varac_hamradio_com_9672b1dfcd",
+      "label": "www_varac-hamradio_com_9672b1dfcd.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_varac-hamradio_com_9672b1dfcd.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_www_varac_hamradio_com_9672b1dfcd_varac_hf_fm_sat_digital_chat_reinvented",
+      "label": "VarAC. HF/FM/SAT Digital Chat Reinvented",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/www_varac-hamradio_com_9672b1dfcd.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -191196,6 +191852,22 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_hackernews_yafl_dev_92d93eafb7",
+      "label": "yafl_dev_92d93eafb7.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/yafl_dev_92d93eafb7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_yafl_dev_92d93eafb7_show_hn_i_made_yafl_a_e2ee_file_handoff_for_ai_agents",
+      "label": "Show HN: I made YAFL – a E2EE file handoff for AI agents",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/yafl_dev_92d93eafb7.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_hackernews_yalereview_org_article_thomas_mann_goethe_2c6b165218",
       "label": "yalereview_org_article_thomas-mann-goethe_2c6b165218.md",
       "file_type": "document",
@@ -191208,6 +191880,22 @@
       "label": "Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)",
       "file_type": "document",
       "source_file": "corpus/hackernews/yalereview_org_article_thomas-mann-goethe_2c6b165218.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_yamafaktory_github_io_whetuu_06f7822028",
+      "label": "yamafaktory_github_io_whetuu_06f7822028.md",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/yamafaktory_github_io_whetuu_06f7822028.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_hackernews_yamafaktory_github_io_whetuu_06f7822028_show_hn_whetuu_a_zero_config_cross_shell_prompt_written_in_zig",
+      "label": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+      "file_type": "document",
+      "source_file": "corpus/hackernews/yamafaktory_github_io_whetuu_06f7822028.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -208844,6 +209532,38 @@
       "_origin": "ast"
     },
     {
+      "id": "corpus_product_techcrunch_com_2026_07_23_ai_chip_startup_etched_defies_skep_2b073f5d2c",
+      "label": "techcrunch_com_2026_07_23_ai-chip-startup-etched-defies-skep_2b073f5d2c.md",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_07_23_ai-chip-startup-etched-defies-skep_2b073f5d2c.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_product_techcrunch_com_2026_07_23_ai_chip_startup_etched_defies_skep_2b073f5d2c_techcrunch_startups_ai_chip_startup_etched_defies_skeptics_hits_10_3b_valuation_from_big_name_investors",
+      "label": "[techcrunch-startups] AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_07_23_ai-chip-startup-etched-defies-skep_2b073f5d2c.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_product_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4",
+      "label": "techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_product_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4_techcrunch_startups_edtech_platform_raises_4_5m_to_help_teach_students_how_to_vibe_code",
+      "label": "[techcrunch-startups] Edtech platform raises $4.5M to help teach students how to vibe code",
+      "file_type": "document",
+      "source_file": "corpus/product/techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
       "id": "corpus_product_techcrunch_com_2026_07_23_your_backstage_pass_to_techcrunch_dba4c09ef8",
       "label": "techcrunch_com_2026_07_23_your-backstage-pass-to-techcrunch-_dba4c09ef8.md",
       "file_type": "document",
@@ -210296,6 +211016,22 @@
       "label": "[saastr] 5 Interesting Learnings from Vertical B2B Leader ServiceTitan at $1B+ in ARR.  Not Slowing Down, Growing 25%, Fintech Growing Fastest, 110% NRR",
       "file_type": "document",
       "source_file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-servicetitan-at-_f9696bff77.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_sales_www_saastr_com_5_interesting_learnings_from_stripe_at_6_8_bi_13d2b19df8",
+      "label": "www_saastr_com_5-interesting-learnings-from-stripe-at-6-8-bi_13d2b19df8.md",
+      "file_type": "document",
+      "source_file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-stripe-at-6-8-bi_13d2b19df8.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_sales_www_saastr_com_5_interesting_learnings_from_stripe_at_6_8_bi_13d2b19df8_saastr_5_interesting_learnings_from_stripe_at_6_8_billion_in_revenue_33_growth_47_free_cash_flow_margins_and_a_53b_bid_for_paypal",
+      "label": "[saastr] 5 Interesting Learnings from Stripe at $6.8 Billion in Revenue: 33% Growth, 47% Free Cash Flow Margins, and a $53B Bid for PayPal",
+      "file_type": "document",
+      "source_file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-stripe-at-6-8-bi_13d2b19df8.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -219000,6 +219736,22 @@
       "label": "[bleeping-comp] Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
       "file_type": "document",
       "source_file": "corpus/security/www_bleepingcomputer_com_news_microsoft_hands-on-with-intell_1a4b4c5cfc.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_bleepingcomputer_com_news_microsoft_microsoft_365_outage_48a6e328f4",
+      "label": "www_bleepingcomputer_com_news_microsoft_microsoft-365-outage_48a6e328f4.md",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-365-outage_48a6e328f4.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_security_www_bleepingcomputer_com_news_microsoft_microsoft_365_outage_48a6e328f4_bleeping_comp_microsoft_365_outage_affects_teams_sharepoint_and_other_services",
+      "label": "[bleeping-comp] Microsoft 365 outage affects Teams, SharePoint and other services",
+      "file_type": "document",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-365-outage_48a6e328f4.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -229576,6 +230328,22 @@
       "label": "Laguna S 2.1 is now available on AI Gateway",
       "file_type": "document",
       "source_file": "corpus/vercel-blog/vercel_com_changelog_laguna-s-2-1-is-now-available-on-ai-gat_82f0b524ee.md",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_vercel_blog_vercel_com_changelog_ling_3_0_flash_is_now_available_on_ai_g_58faddaab7",
+      "label": "vercel_com_changelog_ling-3-0-flash-is-now-available-on-ai-g_58faddaab7.md",
+      "file_type": "document",
+      "source_file": "corpus/vercel-blog/vercel_com_changelog_ling-3-0-flash-is-now-available-on-ai-g_58faddaab7.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "corpus_vercel_blog_vercel_com_changelog_ling_3_0_flash_is_now_available_on_ai_g_58faddaab7_ling_3_0_flash_is_now_available_on_ai_gateway",
+      "label": "Ling 3.0 Flash is now available on AI Gateway",
+      "file_type": "document",
+      "source_file": "corpus/vercel-blog/vercel_com_changelog_ling-3-0-flash-is-now-available-on-ai-g_58faddaab7.md",
       "source_location": "L12",
       "_origin": "ast"
     },
@@ -246170,6 +246938,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_business_sequoiacap_com_article_partnering_with_etched_building_the_i_d1b2a7b9a8",
+      "target": "corpus_business_sequoiacap_com_article_partnering_with_etched_building_the_i_d1b2a7b9a8_sequoia_partnering_with_etched_building_the_inference_machine",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/business/sequoiacap_com_article_partnering-with-etched-building-the-i_d1b2a7b9a8.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf",
       "target": "corpus_business_sequoiacap_com_article_partnering_with_probook_ai_for_the_tr_be8f5751cf_sequoia_partnering_with_probook_ai_for_the_trades",
       "relation": "contains",
@@ -255385,6 +256163,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_ariless_waitforresponse-timing-the-one-line-fix-with-_0d44b9a18f.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_devto_dev_to_arindam_1729_did_cursor_kill_the_model_router_compani_b1c5c0f8dc",
+      "target": "corpus_devto_dev_to_arindam_1729_did_cursor_kill_the_model_router_compani_b1c5c0f8dc_did_cursor_kill_the_model_router_companies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_arindam_1729_did-cursor-kill-the-model-router-compani_b1c5c0f8dc.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -266835,6 +267623,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/devto/dev_to_fahadhafeeezofficial_i-built-a-github-app-that-auto-g_178d32c431.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_devto_dev_to_faisal_nadeem_752520c3e03_unhandled_promise_rejection_2742c33ccc",
+      "target": "corpus_devto_dev_to_faisal_nadeem_752520c3e03_unhandled_promise_rejection_2742c33ccc_unhandled_promise_rejections_in_node_js_why_they_silently_kill_jobs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/devto/dev_to_faisal_nadeem_752520c3e03_unhandled-promise-rejection_2742c33ccc.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -303780,6 +304578,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_engineering_blog_bytebytego_com_p_a_beginners_guide_to_clocks_causality_5edce65a1c",
+      "target": "corpus_engineering_blog_bytebytego_com_p_a_beginners_guide_to_clocks_causality_5edce65a1c_bytebytego_a_beginner_s_guide_to_clocks_causality_and_ordering_in_distributed_systems",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/engineering/blog_bytebytego_com_p_a-beginners-guide-to-clocks-causality_5edce65a1c.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_engineering_blog_bytebytego_com_p_a_guide_to_ai_inference_engineering_a0c346316c",
       "target": "corpus_engineering_blog_bytebytego_com_p_a_guide_to_ai_inference_engineering_a0c346316c_bytebytego_a_guide_to_ai_inference_engineering",
       "relation": "contains",
@@ -304395,6 +305203,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-groks-cli-caugh_9d293a5ca0.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_engineering_newsletter_pragmaticengineer_com_p_the_pulse_quitting_spotif_92cb7fd085",
+      "target": "corpus_engineering_newsletter_pragmaticengineer_com_p_the_pulse_quitting_spotif_92cb7fd085_pragmatic_engineer_the_pulse_quitting_spotify_podcasts_over_reliability",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-quitting-spotif_92cb7fd085.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -308025,6 +308843,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/finance/techcrunch_com_2026_07_22_travis-kalanicks-robotics-company-_7ff4f84009.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_finance_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4",
+      "target": "corpus_finance_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4_tc_venture_edtech_platform_raises_4_5m_to_help_teach_students_how_to_vibe_code",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/finance/techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -316520,6 +317348,36 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c",
+      "target": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_ollama_ollama_v0_32_3_released",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_ollama_ollama_v0_32_3_released",
+      "target": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_ollama_ollama_v0_32_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_ollama_ollama_v0_32_3_released",
+      "target": "corpus_github_releases_github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c_what_s_changed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_3_5533ede68c.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_github_releases_github_com_openai_openai_python_releases_tag_v2_39_0_a5d345f37e",
       "target": "corpus_github_releases_github_com_openai_openai_python_releases_tag_v2_39_0_a5d345f37e_openai_openai_python_v2_39_0_released",
       "relation": "contains",
@@ -317695,6 +318553,36 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_0_949f506751.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e",
+      "target": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_shadcn_ui_ui_shadcn_4_14_1_released",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_shadcn_ui_ui_shadcn_4_14_1_released",
+      "target": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_shadcn_ui_ui_shadcn_4_14_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_shadcn_ui_ui_shadcn_4_14_1",
+      "target": "corpus_github_releases_github_com_shadcn_ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e_patch_changes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_14_1_8b797c3c6e.md",
       "source_location": "L19",
       "weight": 1.0,
       "_origin": "ast"
@@ -326730,6 +327618,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_blog_jimgrey_net_2026_06_30_what_happens_when_the_informatio_9730345ce9",
+      "target": "corpus_hackernews_blog_jimgrey_net_2026_06_30_what_happens_when_the_informatio_9730345ce9_what_happens_when_the_information_runs_out",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/blog_jimgrey_net_2026_06_30_what-happens-when-the-informatio_9730345ce9.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_blog_jimgrey_net_2026_07_21_its_a_shame_whats_happened_to_ra_3c66d7ded7",
       "target": "corpus_hackernews_blog_jimgrey_net_2026_07_21_its_a_shame_whats_happened_to_ra_3c66d7ded7_it_s_a_shame_what_s_happened_to_radio",
       "relation": "contains",
@@ -330990,6 +331888,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_eliemichel_github_io_learnwebgpu_89ff16ffa9",
+      "target": "corpus_hackernews_eliemichel_github_io_learnwebgpu_89ff16ffa9_learn_webgpu_for_c",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/eliemichel_github_io_LearnWebGPU_89ff16ffa9.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_elifesciences_org_articles_107088_2ed76096a2",
       "target": "corpus_hackernews_elifesciences_org_articles_107088_2ed76096a2_auditory_and_spontaneous_movement_responses_to_music_over_first_postnatal_year",
       "relation": "contains",
@@ -331085,6 +331993,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/embracethered_com_blog_posts_2025_the-normalization-of-devia_968661ccb8.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_en_andros_dev_blog_06bfd107_emacs_is_a_lispboard_edf291e52d",
+      "target": "corpus_hackernews_en_andros_dev_blog_06bfd107_emacs_is_a_lispboard_edf291e52d_emacs_is_a_lispboard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/en_andros_dev_blog_06bfd107_emacs-is-a-lispboard_edf291e52d.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -333190,6 +334108,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_github_com_conradqh_scrapemychats_060adbe5be",
+      "target": "corpus_hackernews_github_com_conradqh_scrapemychats_060adbe5be_free_way_to_get_your_data_out_of_chatgpt_business_accounts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_Conradqh_scrapemychats_060adbe5be.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_github_com_corgea_sighthound_65571858c8",
       "target": "corpus_hackernews_github_com_corgea_sighthound_65571858c8_show_hn_sighthound_open_source_vulnerability_scanner_for_source_code",
       "relation": "contains",
@@ -333335,6 +334263,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/github_com_HUANGCHIHHUNGLeo_claude-real-video_f8a707d9ac.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_github_com_haeata_ash_hanky_f546f925b7",
+      "target": "corpus_hackernews_github_com_haeata_ash_hanky_f546f925b7_show_hn_hanky_etl_style_framework_for_loading_flash_cards_into_anki",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_Haeata-Ash_hanky_f546f925b7.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -333775,6 +334713,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/github_com_Tessil_hopscotch-map_347592f352.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_github_com_thatxliner_nerdlens_7627451e86",
+      "target": "corpus_hackernews_github_com_thatxliner_nerdlens_7627451e86_nerdlens_mirror_your_computer_with_cardboard_vr",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_ThatXliner_NerdLens_7627451e86.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -334870,6 +335818,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_github_com_h3nock_remux_d42f10020f",
+      "target": "corpus_hackernews_github_com_h3nock_remux_d42f10020f_show_hn_remux_an_open_source_tmux_workspace_designed_for_iphone",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_h3nock_remux_d42f10020f.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_github_com_harihkk_debug_brief_7c03294e18",
       "target": "corpus_hackernews_github_com_harihkk_debug_brief_7c03294e18_show_hn_debugbrief_turn_debugging_sessions_into_reports_no_ai",
       "relation": "contains",
@@ -335355,6 +336313,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/github_com_luuuc_sense_blob_main_bench_verticals_ruby-rails__7ece64b59d.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_github_com_lx2026_relaybar_3fd0394ec8",
+      "target": "corpus_hackernews_github_com_lx2026_relaybar_3fd0394ec8_show_hn_macos_menu_bar_manager_for_ssh_port_forwards",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_lx2026_RelayBar_3fd0394ec8.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -336025,6 +336993,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/github_com_proteanthread_bcg_cda8eec41e.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_github_com_pullrun_pullrun_006af6ecab",
+      "target": "corpus_hackernews_github_com_pullrun_pullrun_006af6ecab_you_can_now_run_same_oci_images_as_containers_or_firecracker_microvms",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/github_com_pullrun_pullrun_006af6ecab.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -340240,6 +341218,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_learnopengl_com_97cafa1a61",
+      "target": "corpus_hackernews_learnopengl_com_97cafa1a61_learn_opengl_extensive_tutorial_resource_for_learning_modern_opengl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/learnopengl_com_97cafa1a61.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_learnthroughstories_substack_com_p_i_tested_885_duolingo_che_f1732cfb7d",
       "target": "corpus_hackernews_learnthroughstories_substack_com_p_i_tested_885_duolingo_che_f1732cfb7d_i_tested_885_duolingo_chess_puzzles_24_do_not_make_sense",
       "relation": "contains",
@@ -341680,6 +342668,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_mctools_site_ade8d0a444",
+      "target": "corpus_hackernews_mctools_site_ade8d0a444_show_hn_dally_a_little_every_day_adds_up",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/mctools_site_ade8d0a444.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_mechanical_pencil_com_products_car_dcf9f03e62",
       "target": "corpus_hackernews_mechanical_pencil_com_products_car_dcf9f03e62_how_does_a_pull_back_car_work_illustrated_teardown",
       "relation": "contains",
@@ -342795,6 +343793,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/mynintendonews_com_2026_06_26_nintendo-has-raised-its-employ_395ae10d79.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_mysk_blog_2026_07_23_macos_overwrite_app_executables_493a4a6c22",
+      "target": "corpus_hackernews_mysk_blog_2026_07_23_macos_overwrite_app_executables_493a4a6c22_silent_replacement_of_trusted_macos_app_executables",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/mysk_blog_2026_07_23_macos-overwrite-app-executables_493a4a6c22.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -344320,6 +345328,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_news_ycombinator_com_item_id_49022990_1a3836631c",
+      "target": "corpus_hackernews_news_ycombinator_com_item_id_49022990_1a3836631c_ask_hn_is_there_a_website_that_tracks_excessive_writes_to_ssds_in_os_app_betas",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/news_ycombinator_com_item_id_49022990_1a3836631c.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_newsletter_bphogan_com_archive_issue_52_run_coding_models_lo_00de748ba5",
       "target": "corpus_hackernews_newsletter_bphogan_com_archive_issue_52_run_coding_models_lo_00de748ba5_why_being_overqualified_is_a_risk",
       "relation": "contains",
@@ -345240,6 +346258,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_omnideck_cc_c47dd1e776",
+      "target": "corpus_hackernews_omnideck_cc_c47dd1e776_show_hn_i_built_a_zero_latency_developer_tool_suite_in_pure_vanilla_javascript",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/omnideck_cc_c47dd1e776.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_onatm_dev_2026_07_16_homescale_part_1_78d049a068",
       "target": "corpus_hackernews_onatm_dev_2026_07_16_homescale_part_1_78d049a068_let_s_build_planetscale_from_scratch_infrastructure",
       "relation": "contains",
@@ -345470,6 +346498,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_openjdk_org_jeps_540_c3fed3ff80",
+      "target": "corpus_hackernews_openjdk_org_jeps_540_c3fed3ff80_jep_540_simple_json_api_now_in_incubator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/openjdk_org_jeps_540_c3fed3ff80.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_openjsf_org_blog_burnout_is_real_for_open_source_maintainers_950c459444",
       "target": "corpus_hackernews_openjsf_org_blog_burnout_is_real_for_open_source_maintainers_950c459444_burnout_is_real_in_the_oss_world_says_john_david_dalton_creator_of_lodash",
       "relation": "contains",
@@ -345660,6 +346698,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_ourworldindata_org_how_much_energy_do_data_centers_and_artif_0efb302f46",
+      "target": "corpus_hackernews_ourworldindata_org_how_much_energy_do_data_centers_and_artif_0efb302f46_how_much_energy_do_data_centers_and_artificial_intelligence_use",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/ourworldindata_org_how-much-energy-do-data-centers-and-artif_0efb302f46.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_outyet_ai_078c57b20a",
       "target": "corpus_hackernews_outyet_ai_078c57b20a_is_it_out_yet",
       "relation": "contains",
@@ -345795,6 +346843,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/papers_ssrn_com_sol3_papers_cfm_0fea050938.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b",
+      "target": "corpus_hackernews_papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b_encryption_and_globalization_15_years_later_e2ee_and_the_going_dark_debate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/papers_ssrn_com_sol3_papers_cfm_abstract_id_6959699_8012c32a9b.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -346935,6 +347993,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/purplesyringa_moe_blog_guest_optimizing-lua-string-literals-_8ac7eeead4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_purplesyringa_moe_blog_log_is_non_monotonic_in_php_and_lua_1a0fa5f8bb",
+      "target": "corpus_hackernews_purplesyringa_moe_blog_log_is_non_monotonic_in_php_and_lua_1a0fa5f8bb_log_is_non_monotonic_in_php_and_lua",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/purplesyringa_moe_blog_log-is-non-monotonic-in-php-and-lua_1a0fa5f8bb.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -348515,6 +349583,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/semiconductor_samsung_com_news-events_tech-blog_from-gaa-to-_27299ad5f3.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_semisafe_com_coding_ai_2026_07_22_sorcery_in_the_open_c607d39a6e",
+      "target": "corpus_hackernews_semisafe_com_coding_ai_2026_07_22_sorcery_in_the_open_c607d39a6e_sorcery_in_the_open_is_generated_code_still_source_code",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/semisafe_com_coding_ai_2026_07_22_sorcery-in-the-open_c607d39a6e.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -350425,6 +351503,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/tangled_org_gleam_run_gleam_3bbef4aea6.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_tangled_org_janantos_tngl_sh_brow6el_e368dfb690",
+      "target": "corpus_hackernews_tangled_org_janantos_tngl_sh_brow6el_e368dfb690_brow6el_a_full_featured_web_browser_for_the_terminal_using_chromium",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/tangled_org_janantos_tngl_sh_brow6el_e368dfb690.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -353520,6 +354608,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_wiki_openstreetmap_org_wiki_tag_boundary_3dadministrative_ta_bfdddec4e6",
+      "target": "corpus_hackernews_wiki_openstreetmap_org_wiki_tag_boundary_3dadministrative_ta_bfdddec4e6_openstreetmap_admin_level_for_all_countries",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/wiki_openstreetmap_org_wiki_Tag_boundary_3Dadministrative_Ta_bfdddec4e6.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_wiki_wordsoftype_com_627f72292e",
       "target": "corpus_hackernews_wiki_wordsoftype_com_627f72292e_words_of_type",
       "relation": "contains",
@@ -354015,6 +355113,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_404media_co_judge-learns-lawyers-on-both-sides-of-case-u_8832cb13cd.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_404media_co_leaked_document_shows_the_surveillance_tech_878dc8c361",
+      "target": "corpus_hackernews_www_404media_co_leaked_document_shows_the_surveillance_tech_878dc8c361_leaked_document_shows_the_surveillance_tech_at_ice_s_fingertips",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_404media_co_leaked-document-shows-the-surveillance-tech-_878dc8c361.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -356930,6 +358038,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_darpa_mil_news_2026_darpa_us_air_force_fly_ai_controlled_b8e8184e18",
+      "target": "corpus_hackernews_www_darpa_mil_news_2026_darpa_us_air_force_fly_ai_controlled_b8e8184e18_darpa_u_s_air_force_fly_ai_controlled_f_16",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_darpa_mil_news_2026_darpa-us-air-force-fly-ai-controlled_b8e8184e18.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_darpa_mil_research_challenges_lift_91626ba499",
       "target": "corpus_hackernews_www_darpa_mil_research_challenges_lift_91626ba499_darpa_heavy_life_challenge",
       "relation": "contains",
@@ -357320,6 +358438,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_economist_com_business_2026_07_16_how_to_sell_a_kettle_22e05b5cd0",
+      "target": "corpus_hackernews_www_economist_com_business_2026_07_16_how_to_sell_a_kettle_22e05b5cd0_how_to_sell_a_kettle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_economist_com_business_2026_07_16_how-to-sell-a-kettle_22e05b5cd0.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_economist_com_by_invitation_2026_06_02_how_the_war_on_te_3540c97022",
       "target": "corpus_hackernews_www_economist_com_by_invitation_2026_06_02_how_the_war_on_te_3540c97022_the_war_on_terror_primed_america_for_autocracy",
       "relation": "contains",
@@ -357645,6 +358773,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_eff_org_deeplinks_2026_07_european-court-apple-can-not-s_1fa9b6b0a4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda",
+      "target": "corpus_hackernews_www_eff_org_deeplinks_2026_07_fourth_circuit_says_border_age_0da36c6eda_fourth_circuit_border_agents_can_search_your_phone_by_hand_no_suspicion_needed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_eff_org_deeplinks_2026_07_fourth-circuit-says-border-age_0da36c6eda.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -360510,6 +361648,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_mathunion_org_imu_awards_fields_medal_fields_medals_2026_2b823d8d07",
+      "target": "corpus_hackernews_www_mathunion_org_imu_awards_fields_medal_fields_medals_2026_2b823d8d07_fields_medals_2026",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_mathunion_org_imu-awards_fields-medal_fields-medals-2026_2b823d8d07.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_matteast_io_spacex_escape_velocity_html_b0f41eb077",
       "target": "corpus_hackernews_www_matteast_io_spacex_escape_velocity_html_b0f41eb077_why_spacex_2040_revenue_fcst_4_3t_in_highly_unlikely",
       "relation": "contains",
@@ -360735,6 +361883,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_mixfont_com_ghost-font_d25a187a89.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_modelbias_ai_prompt_public_or_private_healthcare_bcb275e6a4",
+      "target": "corpus_hackernews_www_modelbias_ai_prompt_public_or_private_healthcare_bcb275e6a4_show_hn_what_s_ai_s_go_to_public_or_private_healthcare",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_modelbias_ai_prompt_public-or-private-healthcare_bcb275e6a4.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -362620,6 +363778,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_politico_com_news_2026_07_22_startup_founders_urge_trump_5b3b2271e7",
+      "target": "corpus_hackernews_www_politico_com_news_2026_07_22_startup_founders_urge_trump_5b3b2271e7_startup_founders_urge_trump_not_to_shut_off_chinese_open_weight_ai",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_politico_com_news_2026_07_22_startup-founders-urge-trump_5b3b2271e7.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_politico_com_news_magazine_2026_06_20_south_korea_weapon_398a2bed61",
       "target": "corpus_hackernews_www_politico_com_news_magazine_2026_06_20_south_korea_weapon_398a2bed61_the_rise_of_south_korea_s_weapons_business",
       "relation": "contains",
@@ -363515,6 +364683,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_rte_ie_news_europe_2026_0713_1583074-eu-social-media_83d9892fc5.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_rtx_com_news_news_center_2026_07_21_rtxs_pratt_whitney_c_c607e14585",
+      "target": "corpus_hackernews_www_rtx_com_news_news_center_2026_07_21_rtxs_pratt_whitney_c_c607e14585_hybrid_electric_aicraft_engine_targeting_30_fuel_efficiency",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_rtx_com_news_news-center_2026_07_21_rtxs-pratt-whitney-c_c607e14585.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -365180,6 +366358,16 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_www_theguardian_com_money_2026_jul_23_uk_households_free_ins_ac0bb79f85",
+      "target": "corpus_hackernews_www_theguardian_com_money_2026_jul_23_uk_households_free_ins_ac0bb79f85_uk_households_free_to_install_plug_in_balcony_solar_panels_from_end_of_august",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_theguardian_com_money_2026_jul_23_uk-households-free-ins_ac0bb79f85.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_www_theguardian_com_science_2026_jun_02_journey_into_spain_p_249fab866e",
       "target": "corpus_hackernews_www_theguardian_com_science_2026_jun_02_journey_into_spain_p_249fab866e_they_take_you_out_of_life_out_of_time_a_journey_into_spain_s_cave_paintings",
       "relation": "contains",
@@ -366335,6 +367523,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/www_vanityfair_com_hollywood_2018_06_truman-show-anniversary_939ed5c93c.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_www_varac_hamradio_com_9672b1dfcd",
+      "target": "corpus_hackernews_www_varac_hamradio_com_9672b1dfcd_varac_hf_fm_sat_digital_chat_reinvented",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/www_varac-hamradio_com_9672b1dfcd.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -367720,11 +368918,31 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_hackernews_yafl_dev_92d93eafb7",
+      "target": "corpus_hackernews_yafl_dev_92d93eafb7_show_hn_i_made_yafl_a_e2ee_file_handoff_for_ai_agents",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/yafl_dev_92d93eafb7.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_hackernews_yalereview_org_article_thomas_mann_goethe_2c6b165218",
       "target": "corpus_hackernews_yalereview_org_article_thomas_mann_goethe_2c6b165218_thomas_mann_goethe_heartened_by_panama_as_suez_for_english_or_danube_rhine",
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/hackernews/yalereview_org_article_thomas-mann-goethe_2c6b165218.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_hackernews_yamafaktory_github_io_whetuu_06f7822028",
+      "target": "corpus_hackernews_yamafaktory_github_io_whetuu_06f7822028_show_hn_whetuu_a_zero_config_cross_shell_prompt_written_in_zig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/hackernews/yamafaktory_github_io_whetuu_06f7822028.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -378760,6 +379978,26 @@
       "_origin": "ast"
     },
     {
+      "source": "corpus_product_techcrunch_com_2026_07_23_ai_chip_startup_etched_defies_skep_2b073f5d2c",
+      "target": "corpus_product_techcrunch_com_2026_07_23_ai_chip_startup_etched_defies_skep_2b073f5d2c_techcrunch_startups_ai_chip_startup_etched_defies_skeptics_hits_10_3b_valuation_from_big_name_investors",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/product/techcrunch_com_2026_07_23_ai-chip-startup-etched-defies-skep_2b073f5d2c.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_product_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4",
+      "target": "corpus_product_techcrunch_com_2026_07_23_edtech_platform_raises_4_5m_to_hel_128ca5a9b4_techcrunch_startups_edtech_platform_raises_4_5m_to_help_teach_students_how_to_vibe_code",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/product/techcrunch_com_2026_07_23_edtech-platform-raises-4-5m-to-hel_128ca5a9b4.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
       "source": "corpus_product_techcrunch_com_2026_07_23_your_backstage_pass_to_techcrunch_dba4c09ef8",
       "target": "corpus_product_techcrunch_com_2026_07_23_your_backstage_pass_to_techcrunch_dba4c09ef8_techcrunch_startups_your_backstage_pass_to_techcrunch_disrupt_2026_is_waiting",
       "relation": "contains",
@@ -379665,6 +380903,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-servicetitan-at-_f9696bff77.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_sales_www_saastr_com_5_interesting_learnings_from_stripe_at_6_8_bi_13d2b19df8",
+      "target": "corpus_sales_www_saastr_com_5_interesting_learnings_from_stripe_at_6_8_bi_13d2b19df8_saastr_5_interesting_learnings_from_stripe_at_6_8_billion_in_revenue_33_growth_47_free_cash_flow_margins_and_a_53b_bid_for_paypal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-stripe-at-6-8-bi_13d2b19df8.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -385105,6 +386353,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/security/www_bleepingcomputer_com_news_microsoft_hands-on-with-intell_1a4b4c5cfc.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_security_www_bleepingcomputer_com_news_microsoft_microsoft_365_outage_48a6e328f4",
+      "target": "corpus_security_www_bleepingcomputer_com_news_microsoft_microsoft_365_outage_48a6e328f4_bleeping_comp_microsoft_365_outage_affects_teams_sharepoint_and_other_services",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-365-outage_48a6e328f4.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
@@ -391715,6 +392973,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "corpus/vercel-blog/vercel_com_changelog_laguna-s-2-1-is-now-available-on-ai-gat_82f0b524ee.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "corpus_vercel_blog_vercel_com_changelog_ling_3_0_flash_is_now_available_on_ai_g_58faddaab7",
+      "target": "corpus_vercel_blog_vercel_com_changelog_ling_3_0_flash_is_now_available_on_ai_g_58faddaab7_ling_3_0_flash_is_now_available_on_ai_gateway",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/vercel-blog/vercel_com_changelog_ling-3-0-flash-is-now-available-on-ai-g_58faddaab7.md",
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast"
