@@ -288758,5 +288758,364 @@
       "know"
     ],
     "summary": "# Your AI Doesn't Know the Difference Between Knowing and Guessing > Source: devto | Category: news | 2026-07-24T03:39:16Z Your AI Doesn't Know the Difference Between Knowing and Guessing   I asked a local model..."
+  },
+  "ee24f0fde5d4bc33": {
+    "file": "corpus/devops/devops_com_ai-assisted-development-under-deadline-what-it-ta_296d7cb9d9.md",
+    "source": "devops",
+    "title": "[devops-com] AI-Assisted Development Under Deadline: What It Takes to Ship Production Code on an Unfamiliar Stack",
+    "url": "https://devops.com/ai-assisted-development-under-deadline-what-it-takes-to-ship-production-code-on-an-unfamiliar-stack/",
+    "keywords": [
+      "claude code accelerated development",
+      "ship production code",
+      "ship production code",
+      "ship production code",
+      "assisted development",
+      "assisted development",
+      "assisted development",
+      "unfamiliar stack",
+      "unfamiliar stack",
+      "unfamiliar stack"
+    ],
+    "summary": "# [devops-com] AI-Assisted Development Under Deadline: What It Takes to Ship Production Code on an Unfamiliar Stack AI-Assisted Development Under Deadline: What It Takes to Ship Production Code on an Unfamiliar Stack How Claude Code accelerated development on an unfamiliar stack while proving that production-ready AI-generated code still requires human judgment."
+  },
+  "e25aafb40cf13b6e": {
+    "file": "corpus/devops/devops_com_when-the-message-broker-becomes-the-bottleneck-sc_751e3b861d.md",
+    "source": "devops",
+    "title": "[devops-com] When the Message Broker Becomes the Bottleneck: Scaling Push and SMS With MongoDB Polling",
+    "url": "https://devops.com/when-the-message-broker-becomes-the-bottleneck-scaling-push-and-sms-with-mongodb-polling/",
+    "keywords": [
+      "shared rabbitmq cluster could",
+      "message broker becomes",
+      "message broker becomes",
+      "message broker becomes",
+      "large ruby monolith",
+      "centralized go service",
+      "[&# 8230 ;]",
+      "scaling problem inside",
+      "problem using mongodb",
+      "scaling push"
+    ],
+    "summary": "# [devops-com] When the Message Broker Becomes the Bottleneck: Scaling Push and SMS With MongoDB Polling A back-end team extracted notification delivery from a large Ruby monolith into a centralized Go service, only to discover that their shared RabbitMQ cluster could not reliably support the new workload. Here&#8217;s how they solved the problem using MongoDB as a polling queue and the trade-offs that came with it."
+  },
+  "d53019ac0e794cc4": {
+    "file": "corpus/devops/devops_com_ai-agents-are-writing-your-infrastructure-code-is_30d937a0ea.md",
+    "source": "devops",
+    "title": "[devops-com] AI Agents Are Writing Your Infrastructure Code. Is Anyone Governing It?",
+    "url": "https://devops.com/ai-agents-are-writing-your-infrastructure-code-is-anyone-governing-it/",
+    "keywords": [
+      "security pass rates",
+      "37z ai agents",
+      "generate infrastructure code",
+      "ai agents",
+      "ai agents",
+      "ai agents",
+      "infrastructure code",
+      "infrastructure code",
+      "infrastructure code",
+      "governance gap"
+    ],
+    "summary": "# [devops-com] AI Agents Are Writing Your Infrastructure Code. AI Agents Are Writing Your Infrastructure Code. Here’s how teams can close the governance gap."
+  },
+  "91dcfebe92ac0cc2": {
+    "file": "corpus/devops/devops_com_from-reactive-monitoring-to-ai-driven-operational_3df8b630e7.md",
+    "source": "devops",
+    "title": "[devops-com] From Reactive Monitoring to AI-Driven Operational Intelligence",
+    "url": "https://devops.com/from-reactive-monitoring-to-ai-driven-operational-intelligence/",
+    "keywords": [
+      "helping engineers surface issues",
+      "aws cloudwatch — long",
+      "driven operational intelligence",
+      "driven operational intelligence",
+      "driven operational intelligence",
+      "already impacted users",
+      "[&# 8230 ;]",
+      "aws —",
+      "reactive paradigm",
+      "reactive monitoring"
+    ],
+    "summary": "# [devops-com] From Reactive Monitoring to AI-Driven Operational Intelligence Traditional monitoring often meant chasing alerts and toggling between dashboards after an issue had already impacted users. The latest CloudWatch capabilities infuse AI-driven operational intelligence into observability, helping engineers surface issues before they escalate and [&#8230;]"
+  },
+  "5a3ee25e32adbe6c": {
+    "file": "corpus/devops/devops_com_building-soc-2-compliant-ci-cd-pipelines-on-aws-w_33bc1b3751.md",
+    "source": "devops",
+    "title": "[devops-com] Building SOC 2 Compliant CI/CD Pipelines on AWS with GitHub Actions",
+    "url": "https://devops.com/building-soc-2-compliant-ci-cd-pipelines-on-aws-with-github-actions/",
+    "keywords": [
+      "immutable image promotion",
+      "traceable aws ci",
+      "soc 2",
+      "github actions",
+      "github actions",
+      "github actions",
+      "centralized ecr",
+      "cd pipelines",
+      "cd pipelines",
+      "cd pipelines"
+    ],
+    "summary": "# [devops-com] Building SOC 2 Compliant CI/CD Pipelines on AWS with GitHub Actions Building SOC 2 Compliant CI/CD Pipelines on AWS with GitHub Actions How to design a secure, traceable AWS CI/CD pipeline using separate accounts, centralized ECR, OIDC and immutable image promotion for SOC 2."
+  },
+  "212cbd162d16837d": {
+    "file": "corpus/devops/devops_com_the-end-of-manual-triage_b460fca148.md",
+    "source": "devops",
+    "title": "[devops-com] The End of Manual Triage",
+    "url": "https://devops.com/the-end-of-manual-triage/",
+    "keywords": [
+      "replacing manual incident triage",
+      "controlled agentic workflows",
+      "manual triage",
+      "manual triage",
+      "manual triage",
+      "stronger observability",
+      "sre teams",
+      "assisted correlation",
+      "source",
+      "infrastructure"
+    ],
+    "summary": "# [devops-com] The End of Manual Triage The End of Manual Triage Why SRE teams are replacing manual incident triage with AI-assisted correlation, stronger observability and controlled agentic workflows."
+  },
+  "9c0941d0183b79a5": {
+    "file": "corpus/hackernews/scrollprize_org_2026_open_problems_5f1c003735.md",
+    "source": "hackernews",
+    "title": "Open Problems: Why Reading Every Herculaneum Scroll Is Still a Challenge",
+    "url": "https://scrollprize.org/2026_open_problems",
+    "keywords": [
+      "reading every herculaneum scroll",
+      "reading every herculaneum scroll",
+      "open problems",
+      "open problems",
+      "40z score",
+      "still",
+      "still",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Open Problems: Why Reading Every Herculaneum Scroll Is Still a Challenge > Source: hackernews | Category: news | 2026-07-24T06:12:40Z Score: 6 | Comments: 0"
+  },
+  "837f7cff08378309": {
+    "file": "corpus/hackernews/github_com_newren_git-filter-repo_95bf8a949d.md",
+    "source": "hackernews",
+    "title": "Quickly rewrite Git repository history",
+    "url": "https://github.com/newren/git-filter-repo",
+    "keywords": [
+      "36z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "24t06",
+      "2026"
+    ],
+    "summary": "# Quickly rewrite Git repository history > Source: hackernews | Category: news | 2026-07-24T06:12:36Z Score: 9 | Comments: 0"
+  },
+  "262fee094bf26f8a": {
+    "file": "corpus/hackernews/www_logisheets_com_craft_factory-simulator_fa47060ab6.md",
+    "source": "hackernews",
+    "title": "Show HN: A factory simulator game built on Spreadsheets",
+    "url": "https://www.logisheets.com/?craft=factory-simulator",
+    "keywords": [
+      "factory simulator game built",
+      "factory simulator game built",
+      "would say",
+      "show hn",
+      "show hn",
+      "38z score",
+      "spreadsheets",
+      "spreadsheets",
+      "source",
+      "news"
+    ],
+    "summary": "# Show HN: A factory simulator game built on Spreadsheets > Source: hackernews | Category: news | 2026-07-24T06:12:38Z I would say this is the real factory simulator game haha"
+  },
+  "3467d0501f2a7c63": {
+    "file": "corpus/hackernews/www_wheresyoured_at_the-subprime-data-center-crisis_79660a55b0.md",
+    "source": "hackernews",
+    "title": "Zitron: The Subprime Datacenter Crisis",
+    "url": "https://www.wheresyoured.at/the-subprime-data-center-crisis/",
+    "keywords": [
+      "subprime datacenter crisis",
+      "subprime datacenter crisis",
+      "37z score",
+      "zitron",
+      "zitron",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Zitron: The Subprime Datacenter Crisis > Source: hackernews | Category: news | 2026-07-24T06:12:37Z Score: 26 | Comments: 12"
+  },
+  "afe6ae9edfa75ce2": {
+    "file": "corpus/hackernews/arxiv_org_abs_2606_22608_93517556d1.md",
+    "source": "hackernews",
+    "title": "Automated sign detection across the Electronic Babylonian Library",
+    "url": "https://arxiv.org/abs/2606.22608",
+    "keywords": [
+      "automated sign detection across",
+      "automated sign detection across",
+      "electronic babylonian library",
+      "electronic babylonian library",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Automated sign detection across the Electronic Babylonian Library > Source: hackernews | Category: news | 2026-07-24T06:12:40Z Score: 3 | Comments: 0"
+  },
+  "5777994a807efcd7": {
+    "file": "corpus/hackernews/moj-analytical-services_github_io_splink_index_html_3d6a3fdbba.md",
+    "source": "hackernews",
+    "title": "Splink – Fast, accurate and scalable probabilistic data linkage",
+    "url": "https://moj-analytical-services.github.io/splink/index.html",
+    "keywords": [
+      "scalable probabilistic data linkage",
+      "scalable probabilistic data linkage",
+      "splink – fast",
+      "splink – fast",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Splink – Fast, accurate and scalable probabilistic data linkage > Source: hackernews | Category: news | 2026-07-24T06:12:39Z Score: 6 | Comments: 0"
+  },
+  "65cd7f9998fb8477": {
+    "file": "corpus/hackernews/news_mit_edu_2026_us-drivers-electric-vehicles-offer-emissio_c76947c55b.md",
+    "source": "hackernews",
+    "title": "For most US drivers, EVs offer emissions benefits and cost savings",
+    "url": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+    "keywords": [
+      "evs offer emissions benefits",
+      "evs offer emissions benefits",
+      "us drivers",
+      "us drivers",
+      "cost savings",
+      "cost savings",
+      "40z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# For most US drivers, EVs offer emissions benefits and cost savings > Source: hackernews | Category: news | 2026-07-24T06:12:40Z Score: 3 | Comments: 0"
+  },
+  "cfb5d06ac128139f": {
+    "file": "corpus/devto/dev_to_pawfromoz_i-built-a-terminal-tool-to-see-your-ai-codi_4c2e7d3030.md",
+    "source": "devto",
+    "title": "I built a terminal tool to see your AI coding limits before they stop you",
+    "url": "https://dev.to/pawfromoz/i-built-a-terminal-tool-to-see-your-ai-coding-limits-before-they-stop-you-3a93",
+    "keywords": [
+      "rate limit mid",
+      "ai coding limits",
+      "ai coding limits",
+      "coding session",
+      "worst moment",
+      "terminal tool",
+      "terminal tool",
+      "refactor ....",
+      "task",
+      "stop"
+    ],
+    "summary": "# I built a terminal tool to see your AI coding limits before they stop you The worst moment in a coding session is hitting a rate limit mid-task. You're deep in a refactor...."
+  },
+  "2785d00c6b163a8e": {
+    "file": "corpus/devto/dev_to_towernter_automate-spotify-and-youtube-playlists-chap_074ff4ff52.md",
+    "source": "devto",
+    "title": "Automate Spotify and YouTube Playlists - Chapter 5: Running It Locally",
+    "url": "https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-5-running-it-locally-1211",
+    "keywords": [
+      "things get real",
+      "project folder ,...",
+      "youtube playlists",
+      "youtube playlists",
+      "automate spotify",
+      "automate spotify",
+      "chapter 5",
+      "chapter 5",
+      "chapter",
+      "source"
+    ],
+    "summary": "# Automate Spotify and YouTube Playlists - Chapter 5: Running It Locally This is the chapter where things get real. We're going to set up Python, create the project folder,..."
+  },
+  "5a2f0dccb2e62f98": {
+    "file": "corpus/devto/dev_to_faisal_nadeem_752520c3e03_nodejs-error-handling-patte_4332b2bdbc.md",
+    "source": "devto",
+    "title": "Node.js Error Handling Patterns for Production Queue Systems",
+    "url": "https://dev.to/faisal_nadeem_752520c3e03/nodejs-error-handling-patterns-for-production-queue-systems-3275",
+    "keywords": [
+      "js error handling stop",
+      "js error handling patterns",
+      "js error handling patterns",
+      "production queue systems",
+      "production queue systems",
+      "stack trace",
+      "try",
+      "source",
+      "reactions",
+      "node"
+    ],
+    "summary": "# Node.js Error Handling Patterns for Production Queue Systems > Source: devto | Category: news | 2026-07-24T06:12:42Z Most articles about Node.js error handling stop at try/catch and a stack trace in the console."
+  },
+  "7c0775d5896384fd": {
+    "file": "corpus/devto/dev_to_susiewang_build-a-feedback-channel-that-doesnt-become_ad8ab108f7.md",
+    "source": "devto",
+    "title": "Build a Feedback Channel That Doesn't Become Another Abandoned Inbox",
+    "url": "https://dev.to/susiewang/build-a-feedback-channel-that-doesnt-become-another-abandoned-inbox-3n3a",
+    "keywords": [
+      "become another abandoned inbox",
+      "become another abandoned inbox",
+      "routing public issues",
+      "reproducible github workflow",
+      "private messages",
+      "feedback channel",
+      "feedback channel",
+      "source",
+      "reactions",
+      "questions"
+    ],
+    "summary": "# Build a Feedback Channel That Doesn't Become Another Abandoned Inbox > Source: devto | Category: news | 2026-07-24T06:12:44Z A reproducible GitHub workflow for routing public issues, private messages, questions, and security reports without losing ownership or context."
+  },
+  "9ade7344c1b73ed6": {
+    "file": "corpus/devto/dev_to_kandz_mapping-human-biology-the-bitwise-boolean-algeb_2ec0f8065a.md",
+    "source": "devto",
+    "title": "Mapping Human Biology: The Bitwise Boolean Algebra of Blood Transfusion Compatibility",
+    "url": "https://dev.to/kandz/mapping-human-biology-the-bitwise-boolean-algebra-of-blood-transfusion-compatibility-3dhj",
+    "keywords": [
+      "underlying compatibility rules",
+      "mapping human biology",
+      "mapping human biology",
+      "bitwise boolean algebra",
+      "bitwise boolean algebra",
+      "blood transfusion compatibility",
+      "blood transfusion compatibility",
+      "blood transfusion",
+      "medical procedure",
+      "source"
+    ],
+    "summary": "# Mapping Human Biology: The Bitwise Boolean Algebra of Blood Transfusion Compatibility > Source: devto | Category: news | 2026-07-24T06:12:42Z While blood transfusion is fundamentally a medical procedure, its underlying compatibility rules can..."
+  },
+  "409a48016c038181": {
+    "file": "corpus/devto/dev_to_xenocoregiger31_my-ai-pentest-agent-reported-23-root-_cc97378cab.md",
+    "source": "devto",
+    "title": "My AI pentest agent reported 23 root shells. It had actually popped zero.",
+    "url": "https://dev.to/xenocoregiger31/my-ai-pentest-agent-reported-23-root-shells-it-had-actually-popped-zero-510",
+    "keywords": [
+      "llm driving real tools",
+      "testing agent —",
+      "actually popped zero",
+      "actually popped zero",
+      "nmap ,...",
+      "autonomous penetration",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# My AI pentest agent reported 23 root shells. It had actually popped zero. I've been building an autonomous penetration-testing agent — an LLM driving real tools (nmap,..."
   }
 }
