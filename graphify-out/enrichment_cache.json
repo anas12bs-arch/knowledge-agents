@@ -289117,5 +289117,641 @@
       "devto"
     ],
     "summary": "# My AI pentest agent reported 23 root shells. It had actually popped zero. I've been building an autonomous penetration-testing agent — an LLM driving real tools (nmap,..."
+  },
+  "2ea544e13ff21347": {
+    "file": "corpus/devto/dev_to_moose978_disaster-recovery-and-backups-11l5_2de85959cb.md",
+    "source": "devto",
+    "title": "Disaster Recovery and Backups",
+    "url": "https://dev.to/moose978/disaster-recovery-and-backups-11l5",
+    "keywords": [
+      "saas grows past",
+      "single server",
+      "load ...",
+      "last article",
+      "disaster recovery",
+      "disaster recovery",
+      "walked",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Disaster Recovery and Backups > Source: devto | Category: news | 2026-07-24T08:41:15Z In the last article, I walked through what changes when a SaaS grows past a single server: load..."
+  },
+  "654a2059e72001d1": {
+    "file": "corpus/devto/dev_to_bob1982_debugging-an-llm-agent-that-wouldnt-stop-clic_de51234272.md",
+    "source": "devto",
+    "title": "Debugging an LLM Agent That Wouldn't Stop Clicking: A Postmortem",
+    "url": "https://dev.to/bob1982/debugging-an-llm-agent-that-wouldnt-stop-clicking-a-postmortem-57em",
+    "keywords": [
+      "navigate real ...",
+      "built browserpilot —",
+      "browser automation agent",
+      "stop clicking",
+      "stop clicking",
+      "pairs playwright",
+      "llm agent",
+      "llm agent",
+      "llm",
+      "source"
+    ],
+    "summary": "# Debugging an LLM Agent That Wouldn't Stop Clicking: A Postmortem > Source: devto | Category: news | 2026-07-24T08:41:14Z I built BrowserPilot — a browser automation agent that pairs Playwright with an LLM to navigate real..."
+  },
+  "6be9e109667f91d1": {
+    "file": "corpus/devto/dev_to_amitchandra_i-built-a-local-first-personal-ai-gateway_1b29301d2b.md",
+    "source": "devto",
+    "title": "I built a local-first personal AI gateway that connects 32 messaging platforms to 13 LLM providers — NeuralCleave",
+    "url": "https://dev.to/amitchandra/i-built-a-local-first-personal-ai-gateway-that-connects-32-messaging-platforms-to-13-llm-providers-o9f",
+    "keywords": [
+      "connects 32 messaging platforms",
+      "connects 32 messaging platforms",
+      "first personal ai gateway",
+      "first personal ai gateway",
+      "ai assistants ask",
+      "new subscription",
+      "new interface",
+      "new app",
+      "14z ``",
+      "source"
+    ],
+    "summary": "# I built a local-first personal AI gateway that connects 32 messaging platforms to 13 LLM providers — NeuralCleave > Source: devto | Category: news | 2026-07-24T08:41:14Z ``Most AI assistants ask you to move to them."
+  },
+  "f8d1ebe27c35b656": {
+    "file": "corpus/devto/dev_to_julesrobineau_rebuild-it-to-understand-it-from-networ_6d989ce32d.md",
+    "source": "devto",
+    "title": "Rebuild It to Understand It: From Network Protocols to LLM Agents",
+    "url": "https://dev.to/julesrobineau/rebuild-it-to-understand-it-from-network-protocols-to-llm-agents-35fa",
+    "keywords": [
+      "minimal llm agent loop",
+      "llm agents",
+      "llm agents",
+      "network protocols",
+      "network protocols",
+      "effort pays",
+      "dev instinct",
+      "ages well",
+      "understand",
+      "understand"
+    ],
+    "summary": "# Rebuild It to Understand It: From Network Protocols to LLM Agents The dev instinct that ages well: to understand a system, rebuild it. From TCP, DNS and Modbus in Go to a minimal LLM agent loop, and when the effort pays off."
+  },
+  "5b29bdd40265122c": {
+    "file": "corpus/devto/dev_to_nileshcodehub_the-hidden-part-of-refresh-token-implem_66e0f8f26c.md",
+    "source": "devto",
+    "title": "The Hidden Part of Refresh Token Implementation that every developers should know",
+    "url": "https://dev.to/nileshcodehub/the-hidden-part-of-refresh-token-implementation-that-every-developers-should-know-260b",
+    "keywords": [
+      "refresh token implementation",
+      "refresh token implementation",
+      "hidden part",
+      "hidden part",
+      "expired jwt",
+      "every developers",
+      "every developers",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The Hidden Part of Refresh Token Implementation that every developers should know > Source: devto | Category: news | 2026-07-24T08:41:14Z What happens when 5 parallel API calls hit for an expired JWT at the exact same..."
+  },
+  "6e3a12a6d8ea137b": {
+    "file": "corpus/devto/dev_to_devopsdaily_build-a-terraform-provider-for-your-side-_84c717c57f.md",
+    "source": "devto",
+    "title": "Build a Terraform provider for your side project's API (it's smaller than you think)",
+    "url": "https://dev.to/devopsdaily/build-a-terraform-provider-for-your-side-projects-api-its-smaller-than-you-think-5bg8",
+    "keywords": [
+      "terraform provider sounds like",
+      "something hashicorp partners",
+      "terraform provider",
+      "terraform provider",
+      "side project",
+      "side project",
+      "company activity",
+      "15z writing",
+      "think",
+      "think"
+    ],
+    "summary": "# Build a Terraform provider for your side project's API (it's smaller than you think) > Source: devto | Category: news | 2026-07-24T08:41:15Z Writing a Terraform provider sounds like a big-company activity, something HashiCorp partners do with..."
+  },
+  "b1faae13b8cbc04d": {
+    "file": "corpus/devto/dev_to_bikidev_building-your-own-deep-learning-framework-a-3_ab9945ab4f.md",
+    "source": "devto",
+    "title": "Building Your Own Deep Learning Framework: A 3–5 Month Journey From Zero to Tiny Transformer",
+    "url": "https://dev.to/bikidev/building-your-own-deep-learning-framework-a-3-5-month-journey-from-zero-to-tiny-transformer-51gn",
+    "keywords": [
+      "early 2010s ,...",
+      "deep learning framework",
+      "deep learning framework",
+      "tiny transformer",
+      "tiny transformer",
+      "research lab",
+      "learn somewhere",
+      "14z prologue",
+      "zero",
+      "zero"
+    ],
+    "summary": "# Building Your Own Deep Learning Framework: A 3–5 Month Journey From Zero to Tiny Transformer > Source: devto | Category: news | 2026-07-24T08:41:14Z Prologue: The Machine That Learns to Learn   Somewhere in a research lab in the early 2010s,..."
+  },
+  "bda1134879599c71": {
+    "file": "corpus/devto/dev_to_peculiarengineer_reverse-proxy-your-containers-with-c_d64c5da3c9.md",
+    "source": "devto",
+    "title": "Reverse Proxy Your Containers with Caddy and Docker Compose on Ubuntu 26.04",
+    "url": "https://dev.to/peculiarengineer/reverse-proxy-your-containers-with-caddy-and-docker-compose-on-ubuntu-2604-1n97",
+    "keywords": [
+      "wall everyone hits :...",
+      "reverse proxy",
+      "reverse proxy",
+      "docker running",
+      "docker compose",
+      "docker compose",
+      "ubuntu 26",
+      "ubuntu 26",
+      "source"
+    ],
+    "summary": "# Reverse Proxy Your Containers with Caddy and Docker Compose on Ubuntu 26.04 > Source: devto | Category: news | 2026-07-24T08:41:15Z Once you have Docker running on 26.04 and a couple of containers up, you hit the wall everyone hits:..."
+  },
+  "0eb2f8e53c963bb2": {
+    "file": "corpus/devto/dev_to_jonattan_s_who-wrote-this-code-ai-code-provenance-bef_95366b6a32.md",
+    "source": "devto",
+    "title": "Who Wrote This Code? AI Code Provenance Before the Audits Arrive",
+    "url": "https://dev.to/jonattan_s/who-wrote-this-code-ai-code-provenance-before-the-audits-arrive-1hj4",
+    "keywords": [
+      "next twelve months",
+      "15z originally published",
+      "ai code provenance",
+      "ai code provenance",
+      "someone outside",
+      "audits arrive",
+      "audits arrive",
+      "code",
+      "code",
+      "wrote"
+    ],
+    "summary": "# Who Wrote This Code? AI Code Provenance Before the Audits Arrive Sometime in the next twelve months, someone outside your..."
+  },
+  "6f56ad4bd42fdace": {
+    "file": "corpus/devto/dev_to_wenyu_zhang_i-denied-7-dangerous-commands-my-agent-de_e47ef8c09b.md",
+    "source": "devto",
+    "title": "I denied 7 dangerous commands. My agent deleted the files anyway",
+    "url": "https://dev.to/wenyu_zhang/i-denied-7-dangerous-commands-my-agent-deleted-the-files-anyway-44f7",
+    "keywords": [
+      "denied 7 dangerous commands",
+      "denied 7 dangerous commands",
+      "framework — partly ...",
+      "scratch —",
+      "tools loop",
+      "plain model",
+      "files anyway",
+      "files anyway",
+      "coding agent",
+      "agent deleted"
+    ],
+    "summary": "My agent deleted the files anyway > Source: devto | Category: news | 2026-07-24T08:41:13Z I've been building a coding agent from scratch — a plain model-plus-tools loop, no framework — partly..."
+  },
+  "f0189f2946a6df4c": {
+    "file": "corpus/devto/dev_to_dambasement_-i-tried-to-trick-my-own-agent-into-delet_b5b5eac0dc.md",
+    "source": "devto",
+    "title": "# I tried to trick my own agent into deleting the wrong file 👾",
+    "url": "https://dev.to/dambasement/-i-tried-to-trick-my-own-agent-into-deleting-the-wrong-file-55m8",
+    "keywords": [
+      "wrong file 👾",
+      "wrong file 👾",
+      "14z month 2",
+      "testing whether",
+      "tried",
+      "tried",
+      "trick",
+      "trick",
+      "source",
+      "reactions"
+    ],
+    "summary": "# # I tried to trick my own agent into deleting the wrong file 👾 > Source: devto | Category: news | 2026-07-24T08:41:14Z Month 2 of the AI Red Teaming Journey Month 1 was about building an agent and testing whether it..."
+  },
+  "b53843f7489e73fe": {
+    "file": "corpus/devto/dev_to_danilo1_i-turned-a-photo-of-my-handwriting-into-a-rea_7db8ae82a6.md",
+    "source": "devto",
+    "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+    "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
+    "keywords": [
+      "took one photo",
+      "whole pipeline",
+      "whole pipeline",
+      "spiral notebook",
+      "real font",
+      "real font",
+      "installable ttf",
+      "dim light",
+      "photo",
+      "photo"
+    ],
+    "summary": "# I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline > Source: devto | Category: news | 2026-07-24T08:41:17Z I wrote my alphabet in a spiral notebook, took one photo in dim light, and got an installable TTF out..."
+  },
+  "84694d9ebe01efdf": {
+    "file": "corpus/devto/dev_to_xulingfeng_the-person-who-fixed-the-bugs-just-vanishe_f522d947c4.md",
+    "source": "devto",
+    "title": "The Person Who Fixed the Bugs Just Vanished",
+    "url": "https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm",
+    "keywords": [
+      "upper management ...",
+      "origin story",
+      "new project",
+      "project",
+      "week",
+      "vanished",
+      "vanished",
+      "testing",
+      "source",
+      "reactions"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-24T08:41:15Z We've been testing a new project this week. The project's origin story is a mess."
+  },
+  "32710b5a139b9aad": {
+    "file": "corpus/devto/dev_to_aplomb2_why-burning-opus-on-every-claude-code-turn-is_84e8434cc2.md",
+    "source": "devto",
+    "title": "Why Burning Opus on Every Claude Code Turn Is the #1 Cost Mistake in AI Coding",
+    "url": "https://dev.to/aplomb2/why-burning-opus-on-every-claude-code-turn-is-the-1-cost-mistake-in-ai-coding-30cb",
+    "keywords": [
+      "every claude code turn",
+      "every claude code turn",
+      "claude code spending",
+      "1 cost mistake",
+      "1 cost mistake",
+      "three months",
+      "changed everything",
+      "burning opus",
+      "burning opus",
+      "ai coding"
+    ],
+    "summary": "# Why Burning Opus on Every Claude Code Turn Is the #1 Cost Mistake in AI Coding I tracked my Claude Code spending for three months. The finding that changed everything: 60-70% of..."
+  },
+  "8773d9d0772a00e3": {
+    "file": "corpus/devto/dev_to_rodrgds_the-data-model-i-ended-up-with-after-trying-t_34593f5382.md",
+    "source": "devto",
+    "title": "The data model I ended up with after trying to publish one post everywhere",
+    "url": "https://dev.to/rodrgds/the-data-model-i-ended-up-with-after-trying-to-publish-one-post-everywhere-4fp2",
+    "keywords": [
+      "social post looks like",
+      "publish one post everywhere",
+      "publish one post everywhere",
+      "one platform",
+      "data model",
+      "data model",
+      "trying",
+      "trying",
+      "try",
+      "string"
+    ],
+    "summary": "# The data model I ended up with after trying to publish one post everywhere > Source: devto | Category: news | 2026-07-24T08:41:17Z A social post looks like a string until you try to send it to more than one platform."
+  },
+  "29cd1111b2d909bc": {
+    "file": "corpus/devto/dev_to_pavelespitia_what-67-devto-posts-in-three-months-taug_afbb765e8d.md",
+    "source": "devto",
+    "title": "What 67 Dev.to Posts in Three Months Taught Me About Writing for Developers",
+    "url": "https://dev.to/pavelespitia/what-67-devto-posts-in-three-months-taught-me-about-writing-for-developers-2j62",
+    "keywords": [
+      "three months taught",
+      "three months taught",
+      "published 67 posts",
+      "best one",
+      "67 dev",
+      "67 dev",
+      "576 views",
+      "15z since",
+      "april 2026",
+      "posts"
+    ],
+    "summary": "# What 67 Dev.to Posts in Three Months Taught Me About Writing for Developers Since the middle of April 2026 I have published 67 posts on dev.to. My best one has 576 views."
+  },
+  "54881c1462f648cc": {
+    "file": "corpus/devto/dev_to_earlgreyhot1701d_amd-advancing-ai-2026-software-hardw_f4aaac5995.md",
+    "source": "devto",
+    "title": "AMD Advancing AI 2026: Software, Hardware & Framework, Unified",
+    "url": "https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j",
+    "keywords": [
+      "chris lattner calls ai",
+      "amd advancing ai 2026",
+      "amd advancing ai 2026",
+      "george hotz wants",
+      "trillion dollars",
+      "2026",
+      "value",
+      "unified",
+      "unified",
+      "source"
+    ],
+    "summary": "# AMD Advancing AI 2026: Software, Hardware & Framework, Unified > Source: devto | Category: news | 2026-07-24T08:41:13Z Where Chris Lattner calls AI \"mid\" and George Hotz wants to knock a trillion dollars of value off of..."
+  },
+  "feff981c0b796310": {
+    "file": "corpus/devto/dev_to_dor_amir_dbb52baafff7ca5b_take-your-benchmark-to-the-_834480f349.md",
+    "source": "devto",
+    "title": "Take your benchmark to the people who can kill it",
+    "url": "https://dev.to/dor_amir_dbb52baafff7ca5b/take-your-benchmark-to-the-people-who-can-kill-it-4h5j",
+    "keywords": [
+      "17z ten days ago",
+      "moe model file",
+      "expert weights inside",
+      "measured ...",
+      "take",
+      "take",
+      "source",
+      "reorder",
+      "reactions",
+      "people"
+    ],
+    "summary": "# Take your benchmark to the people who can kill it > Source: devto | Category: news | 2026-07-24T08:41:17Z Ten days ago I had a benchmark: reorder the expert weights inside a MoE model file by measured..."
+  },
+  "723c189ca1a1f4fe": {
+    "file": "corpus/devto/dev_to_caelora_stop-using-consolelog-everywhere-better-ways-_c8beb6e9e7.md",
+    "source": "devto",
+    "title": "Stop Using console.log Everywhere: Better Ways to Debug JavaScript",
+    "url": "https://dev.to/caelora/stop-using-consolelog-everywhere-better-ways-to-debug-javascript-4kf4",
+    "keywords": [
+      "16z stop using console",
+      "stop using console",
+      "stop using console",
+      "log () everywhere",
+      "log everywhere",
+      "log everywhere",
+      "learning ...",
+      "debug javascript",
+      "debug javascript",
+      "debug javascript"
+    ],
+    "summary": "# Stop Using console.log Everywhere: Better Ways to Debug JavaScript > Source: devto | Category: news | 2026-07-24T08:41:16Z Stop Using console.log() Everywhere: Better Ways to Debug JavaScript   If you're learning..."
+  },
+  "d92b199372ec1913": {
+    "file": "corpus/devto/dev_to_faisal_nadeem_752520c3e03_bull-queue-vs-bullmq-which-_d01e8b9081.md",
+    "source": "devto",
+    "title": "Bull Queue vs BullMQ: Which to Use for Node.js Background Jobs",
+    "url": "https://dev.to/faisal_nadeem_752520c3e03/bull-queue-vs-bullmq-which-to-use-for-nodejs-background-jobs-k5e",
+    "keywords": [
+      "bull queue vs bullmq",
+      "bull queue vs bullmq",
+      "js background jobs",
+      "js background jobs",
+      "14z every node",
+      "js application",
+      "syncs data",
+      "sends emails",
+      "processes images",
+      "generates pdfs"
+    ],
+    "summary": "# Bull Queue vs BullMQ: Which to Use for Node.js Background Jobs > Source: devto | Category: news | 2026-07-24T08:41:14Z Every Node.js application that sends emails, processes images, generates PDFs, syncs data with..."
+  },
+  "cfe3a212ebca003f": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_europes-multili_f9a5e41433.md",
+    "source": "security",
+    "title": "[dark-reading] Europe's Multilingual Reality Exposes AI Security Gaps",
+    "url": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
+    "keywords": [
+      "many ai products",
+      "every single language",
+      "ai security layer",
+      "unsafe actions",
+      "evenly protect",
+      "07z europe",
+      "security",
+      "security",
+      "europe",
+      "europe"
+    ],
+    "summary": "# [dark-reading] Europe's Multilingual Reality Exposes AI Security Gaps Europe's Multilingual Reality Exposes AI Security Gaps The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language."
+  },
+  "c6d716437cf127dd": {
+    "file": "corpus/security/thehackernews_com_2026_07_fake-notepad-plugin-delivers_html_852d7225f4.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+    "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+    "keywords": [
+      "computer emergency response team",
+      "notepad ++ plugin",
+      "compromise windows systems",
+      "winrar software",
+      "threat cluster",
+      "new campaign",
+      "malicious program",
+      "aligned group",
+      "0099 attacks",
+      "0099 attacks"
+    ],
+    "summary": "# [hacker-news-sec] Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to"
+  },
+  "9ad854282177d48b": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_clop-ransomware-targe_afe4a14794.md",
+    "source": "security",
+    "title": "[bleeping-comp] Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+    "keywords": [
+      "clop ransomware targets windchill",
+      "clop ransomware targets windchill",
+      "clop ransomware gang",
+      "exposed ptc windchill",
+      "data theft attacks",
+      "data theft attacks",
+      "data theft attacks",
+      "targeting internet",
+      "also tracked",
+      "flexplm instances"
+    ],
+    "summary": "# [bleeping-comp] Clop ransomware targets Windchill, FlexPLM in data theft attacks Clop ransomware targets Windchill, FlexPLM in data theft attacks The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign."
+  },
+  "5f5ace8bb82afd5b": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_jotai-rework-performance_utm_camp_096d58c6ce.md",
+    "source": "engineering",
+    "title": "[infoq] Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3",
+    "url": "https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "key changes involve adjustments",
+      "everyday use remains unchanged",
+      "rework store building blocks",
+      "rework store building blocks",
+      "rework store building blocks",
+      "addressing previous performance regressions",
+      "internal building blocks",
+      "06z jotai v2",
+      "jotai v3 begins",
+      "v3 jotai v2"
+    ],
+    "summary": "Jotai v2.20.0 has been released, focusing on improved performance for high-throughput scenarios. Key changes involve adjustments to internal building blocks and addressing previous performance regressions. While the API for everyday use remains unchanged, library authors should note some deprecations as the groundwork for Jotai v3 begins."
+  },
+  "255c4e9bf323cca3": {
+    "file": "corpus/hackernews/platform_claude_com_cookbook_72743e9764.md",
+    "source": "hackernews",
+    "title": "Claude Cookbook",
+    "url": "https://platform.claude.com/cookbook/",
+    "keywords": [
+      "claude cookbook",
+      "claude cookbook",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "24t08"
+    ],
+    "summary": "# Claude Cookbook > Source: hackernews | Category: news | 2026-07-24T08:41:06Z Score: 19 | Comments: 0"
+  },
+  "0593da4ae64664fc": {
+    "file": "corpus/hackernews/bfl_ai_blog_flux-3_1c251cf2a1.md",
+    "source": "hackernews",
+    "title": "Flux 3",
+    "url": "https://bfl.ai/blog/flux-3",
+    "keywords": [
+      "flux 3",
+      "flux 3",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Flux 3 > Source: hackernews | Category: news | 2026-07-24T08:41:05Z Score: 182 | Comments: 46"
+  },
+  "aeb7fc597caa90b7": {
+    "file": "corpus/hackernews/mariusbancila_ro_blog_2026_07_23_the-pimpl-idiom-and-the-cpp_62214f5a15.md",
+    "source": "hackernews",
+    "title": "The PImpl idiom and the C++26 std:indirect type",
+    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "keywords": [
+      "c ++ 26 std",
+      "c ++ 26 std",
+      "pimpl idiom",
+      "pimpl idiom",
+      "indirect type",
+      "indirect type",
+      "05z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The PImpl idiom and the C++26 std:indirect type > Source: hackernews | Category: news | 2026-07-24T08:41:05Z Score: 34 | Comments: 27"
+  },
+  "6ed7770929e4dbb0": {
+    "file": "corpus/hackernews/rc-replay_dev_lr_vmrc_r_6912053_6facf21fd7.md",
+    "source": "hackernews",
+    "title": "Projects every RC live races and results",
+    "url": "https://rc-replay.dev/lr/vmrc/r/6912053",
+    "keywords": [
+      "08z score",
+      "source",
+      "results",
+      "results",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Projects every RC live races and results > Source: hackernews | Category: news | 2026-07-24T08:41:08Z Score: 5 | Comments: 0"
+  },
+  "ed0294da14852dac": {
+    "file": "corpus/hackernews/danielc_dev_blog_slipperyslope_ff07bd8ea9.md",
+    "source": "hackernews",
+    "title": "Technology is a slippery slope to the bottom",
+    "url": "https://danielc.dev/blog/slipperyslope/",
+    "keywords": [
+      "slippery slope",
+      "slippery slope",
+      "11z score",
+      "technology",
+      "technology",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Technology is a slippery slope to the bottom > Source: hackernews | Category: news | 2026-07-24T08:41:11Z Score: 14 | Comments: 1"
+  },
+  "780a6cd345aa046d": {
+    "file": "corpus/design/blog_jim-nielsen_com_2026_make-it-work-make-it-good_eb444adef6.md",
+    "source": "design",
+    "title": "[sidebar-io] Make it work vs. make it good",
+    "url": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/",
+    "keywords": [
+      "work vs",
+      "work vs",
+      "work vs",
+      "make something",
+      "07z make",
+      "work",
+      "make",
+      "make",
+      "make",
+      "make"
+    ],
+    "summary": "# [sidebar-io] Make it work vs. make it good Make it work vs. make it good That’s the work of design: to make something so good, it’s obvious."
+  },
+  "15d99cd5ec560a79": {
+    "file": "corpus/design/uisfx_com_e46a3bcde3.md",
+    "source": "design",
+    "title": "[sidebar-io] UI SFX",
+    "url": "https://uisfx.com/",
+    "keywords": [
+      "12 switchable feels",
+      "semantic ui cues",
+      "ui sfx",
+      "ui sfx",
+      "seamless loops",
+      "web",
+      "source",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] UI SFX 78 open-source, semantic UI cues in 12 switchable feels. Seamless loops for web, mobile, SaaS, and games."
+  },
+  "de7d5b96ec25e2aa": {
+    "file": "corpus/design/guess-the-designer_replit_app_bd60c78eed.md",
+    "source": "design",
+    "title": "[sidebar-io] Which AI? — Guess the designer",
+    "url": "https://guess-the-designer.replit.app/",
+    "keywords": [
+      "daily guessing game",
+      "— guess",
+      "— guess",
+      "— guess",
+      "spot whether",
+      "landing page",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "— Guess the designer A daily guessing game. Spot whether each landing page was designed by Gemini, Claude, or GPT."
+  },
+  "fcd542e44f3168db": {
+    "file": "corpus/design/www_doc_cc_articles_the-algorithmic-atelier_f05fef5a34.md",
+    "source": "design",
+    "title": "[sidebar-io] The algorithmic atelier",
+    "url": "https://www.doc.cc/articles/the-algorithmic-atelier",
+    "keywords": [
+      "algorithmic atelier generative ai",
+      "algorithmic atelier",
+      "algorithmic atelier",
+      "long history",
+      "artistic automation",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] The algorithmic atelier The algorithmic atelier Generative AI and the long history of artistic automation."
+  },
+  "d74f74a51a5e0f18": {
+    "file": "corpus/design/karlkoch_me_writing_on-layout-choreography_50272f2fa0.md",
+    "source": "design",
+    "title": "[sidebar-io] On layout choreography",
+    "url": "https://karlkoch.me/writing/on-layout-choreography",
+    "keywords": [
+      "panels expand",
+      "lists reorder",
+      "layout choreography",
+      "layout choreography",
+      "items enter",
+      "source",
+      "sidebar",
+      "sidebar",
+      "leave"
+    ],
+    "summary": "# [sidebar-io] On layout choreography On layout choreography Layout animation keeps spatial memory intact when lists reorder, panels expand, and items enter or leave."
   }
 }
