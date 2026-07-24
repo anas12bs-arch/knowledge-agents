@@ -289753,5 +289753,489 @@
       "leave"
     ],
     "summary": "# [sidebar-io] On layout choreography On layout choreography Layout animation keeps spatial memory intact when lists reorder, panels expand, and items enter or leave."
+  },
+  "006f4ded014006e2": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48142_leading-digital-assets-fi_661c4d8f47.md",
+    "source": "finance",
+    "title": "[finextra] Leading digital assets firms pledge $15 million to establish Bitcoin Security Consortium",
+    "url": "https://www.finextra.com/newsarticle/48142/leading-digital-assets-firms-pledge-15-million-to-establish-bitcoin-security-consortium?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "establish bitcoin security consortium",
+      "establish bitcoin security consortium",
+      "bitcoin security consortium",
+      "next three years",
+      "bitcoin companies",
+      "15 million",
+      "15 million",
+      "15 million",
+      "15 million",
+      "source"
+    ],
+    "summary": "# [finextra] Leading digital assets firms pledge $15 million to establish Bitcoin Security Consortium Leading digital assets firms pledge $15 million to establish Bitcoin Security Consortium Financial institutions and Bitcoin companies have pledged $15 million over the next three years to form the Bitcoin Security Consortium."
+  },
+  "7fe343204f799398": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48141_alipay-partners-with-hong_ff3d8143f7.md",
+    "source": "finance",
+    "title": "[finextra] Alipay+ partners with Hong Kong's Hang Seng Bank for cross-border QR code payments",
+    "url": "https://www.finextra.com/newsarticle/48141/alipay-partners-with-hong-kongs-hang-seng-bank-for-cross-border-qr-code-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "enable qr code payments",
+      "border qr code payments",
+      "border qr code payments",
+      "hang seng bank",
+      "hang seng bank",
+      "hang seng bank",
+      "hang seng bank",
+      "hong kong",
+      "hong kong",
+      "hong kong"
+    ],
+    "summary": "# [finextra] Alipay+ partners with Hong Kong's Hang Seng Bank for cross-border QR code payments Alipay+ partners with Hong Kong's Hang Seng Bank for cross-border QR code payments Ant International’s Alipay+ has partnered with Hang Seng Bank to enable QR code payments in Hong Kong."
+  },
+  "aad37a355b6d187b": {
+    "file": "corpus/devto/dev_to_ifeoluwa_banmeke_how-i-built-and-deployed-a-campus-ma_451c4e28a3.md",
+    "source": "devto",
+    "title": "How I Built and Deployed a Campus Marketplace (FlexStore) as a Solo Dev: Architecture & Lessons Learned",
+    "url": "https://dev.to/ifeoluwa_banmeke/how-i-built-and-deployed-a-campus-marketplace-flexstore-as-a-solo-dev-architecture-lessons-4eh",
+    "keywords": [
+      "solo developer using next",
+      "lightweight campus marketplace —",
+      "shipped flexstore —",
+      "campus marketplace",
+      "campus marketplace",
+      "solo dev",
+      "solo dev",
+      "pwa approach",
+      "lessons learned",
+      "lessons learned"
+    ],
+    "summary": "# How I Built and Deployed a Campus Marketplace (FlexStore) as a Solo Dev: Architecture & Lessons Learned > Source: devto | Category: news | 2026-07-24T10:37:48Z A breakdown of how I designed, built, and shipped FlexStore—a lightweight campus marketplace—as a solo developer using Next.js, Supabase, and a PWA approach."
+  },
+  "2e8b46c4d8ae5390": {
+    "file": "corpus/devto/dev_to_jeongseop_byeon_9d8f61627_s3fifo-10-zero-allocation-s_07c5760542.md",
+    "source": "devto",
+    "title": "s3fifo 1.0: Zero-Allocation S3-FIFO Cache for Node.js is Ready for Production",
+    "url": "https://dev.to/jeongseop_byeon_9d8f61627/s3fifo-10-zero-allocation-s3-fifo-cache-for-nodejs-is-ready-for-production-27oc",
+    "keywords": [
+      "native english speaker",
+      "used ai",
+      "s3fifo 1",
+      "s3fifo 1",
+      "help structure",
+      "fifo cache",
+      "fifo cache",
+      "allocation s3",
+      "allocation s3",
+      "48z disclaimer"
+    ],
+    "summary": "# s3fifo 1.0: Zero-Allocation S3-FIFO Cache for Node.js is Ready for Production > Source: devto | Category: news | 2026-07-24T10:37:48Z Disclaimer: As a non-native English speaker, I used AI to help structure and polish this article."
+  },
+  "f7e3c1e334a1d877": {
+    "file": "corpus/devto/dev_to_parsajiravand_you-still-write-finally-resourceclose-t_76501b0542.md",
+    "source": "devto",
+    "title": "You still write `finally { resource.close() }`. The `using` keyword does it automatically.",
+    "url": "https://dev.to/parsajiravand/you-still-write-finally-resourceclose-the-using-keyword-does-it-automatically-4fb5",
+    "keywords": [
+      "const timer =...",
+      "close () }`.",
+      "close () }`.",
+      "— many times",
+      "something close",
+      "pattern —",
+      "still write",
+      "still write",
+      "written",
+      "using"
+    ],
+    "summary": "# You still write `finally { resource.close() }`. The `using` keyword does it automatically. You've written this pattern — or something close to it — many times:    const timer =..."
+  },
+  "007eff10e46c1ad0": {
+    "file": "corpus/devto/dev_to_thexpert507_dependency-injection-in-typescript-withou_861fbf2f7b.md",
+    "source": "devto",
+    "title": "Dependency Injection in TypeScript Without Classes or Decorators",
+    "url": "https://dev.to/thexpert507/dependency-injection-in-typescript-without-classes-or-decorators-jhb",
+    "keywords": [
+      "typescript using plain functions",
+      "typescript without classes",
+      "typescript without classes",
+      "reader pattern gives",
+      "time dependency injection",
+      "dependency injection",
+      "dependency injection",
+      "types —",
+      "runtime overhead",
+      "source"
+    ],
+    "summary": "# Dependency Injection in TypeScript Without Classes or Decorators Stop fighting IoC containers. The Reader pattern gives you compile-time dependency injection in TypeScript using plain functions and types — no decorators, no reflect-metadata, no runtime overhead."
+  },
+  "34da981fd0dcc6ec": {
+    "file": "corpus/devto/dev_to_learnfde_what-is-a-forward-deployed-engineer-375h_3bbaa9e0f0.md",
+    "source": "devto",
+    "title": "What is a Forward-Deployed Engineer?",
+    "url": "https://dev.to/learnfde/what-is-a-forward-deployed-engineer-375h",
+    "keywords": [
+      "deployed engineer",
+      "deployed engineer",
+      "deployed ...",
+      "title",
+      "source",
+      "seen",
+      "reactions",
+      "news",
+      "forward",
+      "forward"
+    ],
+    "summary": "# What is a Forward-Deployed Engineer? > Source: devto | Category: news | 2026-07-24T10:37:49Z If you've been anywhere near AI job postings lately, you've seen the title: Forward-Deployed..."
+  },
+  "c01deaf2ba563fdb": {
+    "file": "corpus/devto/dev_to_amit_kumar_jha_quant_portfolio-optimization-in-python_364cc933ad.md",
+    "source": "devto",
+    "title": "Portfolio Optimization in Python: From Markowitz to Machine Learning",
+    "url": "https://dev.to/amit_kumar_jha_quant/portfolio-optimization-in-python-from-markowitz-to-machine-learning-54di",
+    "keywords": [
+      "49z portfolio optimization",
+      "portfolio optimization",
+      "portfolio optimization",
+      "machine learning",
+      "machine learning",
+      "source",
+      "reactions",
+      "python",
+      "python",
+      "python"
+    ],
+    "summary": "# Portfolio Optimization in Python: From Markowitz to Machine Learning > Source: devto | Category: news | 2026-07-24T10:37:49Z Portfolio Optimization in Python: From Markowitz to Machine Learning   Every quant faces the..."
+  },
+  "37f4b081230afb86": {
+    "file": "corpus/devto/dev_to_remojansen_just-for-fun-fear-and-loathing-in-the-age-_c8c25e4443.md",
+    "source": "devto",
+    "title": "Just for Fun: Fear and Loathing in the Age of Coding Agents",
+    "url": "https://dev.to/remojansen/just-for-fun-fear-and-loathing-in-the-age-of-coding-agents-3c7i",
+    "keywords": [
+      "software engineering landscape today",
+      "quiet disquiet settling",
+      "coding agents",
+      "coding agents",
+      "source",
+      "reactions",
+      "news",
+      "loathing",
+      "loathing",
+      "fun"
+    ],
+    "summary": "# Just for Fun: Fear and Loathing in the Age of Coding Agents > Source: devto | Category: news | 2026-07-24T10:37:47Z There is a distinct, quiet disquiet settling over the software engineering landscape today."
+  },
+  "b3af44f5e263bcaf": {
+    "file": "corpus/devto/dev_to_orbitpickle307_how-to-evaluate-a-testing-tool-without_8f8a3cbabb.md",
+    "source": "devto",
+    "title": "How to Evaluate a Testing Tool Without Falling for Feature Lists",
+    "url": "https://dev.to/orbitpickle307/how-to-evaluate-a-testing-tool-without-falling-for-feature-lists-584j",
+    "keywords": [
+      "testing tool without falling",
+      "testing tool without falling",
+      "49z testing tools",
+      "evaluation pages turn",
+      "supports ...",
+      "feature lists",
+      "feature lists",
+      "feature grids",
+      "compare badly",
+      "source"
+    ],
+    "summary": "# How to Evaluate a Testing Tool Without Falling for Feature Lists Testing tools are easy to compare badly. Most evaluation pages turn into feature grids:   Supports..."
+  },
+  "c1c220c33bddcc06": {
+    "file": "corpus/security/thehackernews_com_2026_07_nodebb-patches-eight-ai-found-flaw_dd3c71c164.md",
+    "source": "security",
+    "title": "[hacker-news-sec] NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+    "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+    "keywords": [
+      "ai pentest agents found",
+      "nodebb patches eight ai",
+      "nodebb patches eight ai",
+      "simplest one takes",
+      "nodebb went public",
+      "aikido security rates",
+      "settings change",
+      "private chats",
+      "private chats",
+      "hour review"
+    ],
+    "summary": "# [hacker-news-sec] NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code."
+  },
+  "4da0e5e25971cdfa": {
+    "file": "corpus/security/thehackernews_com_2026_07_kimi-k3-agents-found-redis-zero-da_6d85941f13.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+    "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+    "keywords": [
+      "four chains require restore",
+      "0 chain needs eval",
+      "remote code execution",
+      "bundled redisbloom module",
+      "built rce exploit",
+      "built rce exploit",
+      "built rce exploit",
+      "stock redis 6",
+      "redis says",
+      "redis 6"
+    ],
+    "summary": "# [hacker-news-sec] Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say Redis says the underlying memory flaws may lead to remote code execution."
+  },
+  "54b608bbc007906f": {
+    "file": "corpus/engineering/www_infoq_com_articles_self-building-agent-langchain4j_utm_c_3e5020dbed.md",
+    "source": "engineering",
+    "title": "[infoq] Article: The Self-Building Agent: A LangChain4j Experiment",
+    "url": "https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "coding framework capable",
+      "debugging code autonomously",
+      "debugging tasks",
+      "code assistant",
+      "results showed",
+      "mario fusco",
+      "kevin dubois",
+      "execution speed",
+      "building agent",
+      "building agent"
+    ],
+    "summary": "# [infoq] Article: The Self-Building Agent: A LangChain4j Experiment The assistant created a coding framework capable of writing, testing, and debugging code autonomously. Results showed that two architectural patterns—supervisor and workflow—offered different trade-offs between flexibility and execution speed during debugging tasks."
+  },
+  "f0da4057265fe050": {
+    "file": "corpus/hackernews/bfl_ai_blog_flux-3-mimic_d147b097a9.md",
+    "source": "hackernews",
+    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "url": "https://bfl.ai/blog/flux-3-mimic",
+    "keywords": [
+      "flux 3 x mimic",
+      "flux 3 x mimic",
+      "next generation",
+      "next generation",
+      "action models",
+      "action models",
+      "37z score",
+      "video",
+      "video",
+      "source"
+    ],
+    "summary": "# Flux 3 X Mimic: The Next Generation of Video-Action Models > Source: hackernews | Category: news | 2026-07-24T10:37:37Z Score: 49 | Comments: 4"
+  },
+  "2365cf42c367c562": {
+    "file": "corpus/hackernews/www_ecb_europa_eu_euro_banknotes_future_banknotes_html_desig_33c104838b.md",
+    "source": "hackernews",
+    "title": "Future euro banknote design proposals",
+    "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+    "keywords": [
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "24t10"
+    ],
+    "summary": "# Future euro banknote design proposals > Source: hackernews | Category: news | 2026-07-24T10:37:39Z Score: 35 | Comments: 23"
+  },
+  "5aa4d481f9213d20": {
+    "file": "corpus/hackernews/nvlabs_github_io_Sana_Video2_24f3f8d2b3.md",
+    "source": "hackernews",
+    "title": "SANA-Video 2.0",
+    "url": "https://nvlabs.github.io/Sana/Video2/",
+    "keywords": [
+      "video 2",
+      "video 2",
+      "45z score",
+      "source",
+      "sana",
+      "sana",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# SANA-Video 2.0 > Source: hackernews | Category: news | 2026-07-24T10:37:45Z Score: 4 | Comments: 0"
+  },
+  "375b9ddff61c248d": {
+    "file": "corpus/hackernews/book-prize-index_vercel_app_59454e31ef.md",
+    "source": "hackernews",
+    "title": "The Book Prize Index",
+    "url": "https://book-prize-index.vercel.app",
+    "keywords": [
+      "book prize index",
+      "book prize index",
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Book Prize Index > Source: hackernews | Category: news | 2026-07-24T10:37:42Z Score: 6 | Comments: 0"
+  },
+  "6f7938ea5ed50567": {
+    "file": "corpus/hackernews/danluu_com_sounds-easy_bee84d9430.md",
+    "source": "hackernews",
+    "title": "I could do that in a weekend (2016)",
+    "url": "https://danluu.com/sounds-easy/",
+    "keywords": [
+      "43z score",
+      "weekend",
+      "weekend",
+      "source",
+      "news",
+      "hackernews",
+      "could",
+      "could",
+      "comments",
+      "category"
+    ],
+    "summary": "# I could do that in a weekend (2016) > Source: hackernews | Category: news | 2026-07-24T10:37:43Z Score: 6 | Comments: 0"
+  },
+  "6e0238dc41878a6f": {
+    "file": "corpus/hackernews/electrek_co_2026_07_23_byd-launches-denza-z9-gt-ev-europe-th_8150202246.md",
+    "source": "hackernews",
+    "title": "BYD Launches the Denza Z9 GT EV in Europe and the UK at over 3X the Price",
+    "url": "https://electrek.co/2026/07/23/byd-launches-denza-z9-gt-ev-europe-the-uk-3x-price/",
+    "keywords": [
+      "denza z9 gt ev",
+      "denza z9 gt ev",
+      "byd launches",
+      "byd launches",
+      "43z score",
+      "source",
+      "price",
+      "price"
+    ],
+    "summary": "# BYD Launches the Denza Z9 GT EV in Europe and the UK at over 3X the Price > Source: hackernews | Category: news | 2026-07-24T10:37:43Z Score: 8 | Comments: 1"
+  },
+  "f39bb84bf49bb632": {
+    "file": "corpus/hackernews/sliplane_io_blog_hetzner-inference_d2b911e707.md",
+    "source": "hackernews",
+    "title": "Hetzner is working on LLM Inference",
+    "url": "https://sliplane.io/blog/hetzner-inference",
+    "keywords": [
+      "llm inference",
+      "llm inference",
+      "45z score",
+      "working",
+      "working",
+      "source",
+      "news",
+      "hetzner",
+      "hetzner",
+      "hackernews"
+    ],
+    "summary": "# Hetzner is working on LLM Inference > Source: hackernews | Category: news | 2026-07-24T10:37:45Z Score: 11 | Comments: 3"
+  },
+  "f82d2b8d9da18d43": {
+    "file": "corpus/hackernews/glyphack_com_attention_c8c8e4f22f.md",
+    "source": "hackernews",
+    "title": "It's getting harder to focus every day",
+    "url": "https://glyphack.com/attention/",
+    "keywords": [
+      "focus every day",
+      "focus every day",
+      "getting harder",
+      "getting harder",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# It's getting harder to focus every day > Source: hackernews | Category: news | 2026-07-24T10:37:37Z Score: 45 | Comments: 18"
+  },
+  "a5418c67d0accfc3": {
+    "file": "corpus/hackernews/zhenyi_gibber_blog_the-ever-receding-pocket_c2fe5a93e6.md",
+    "source": "hackernews",
+    "title": "The Ever-Receding Pocket",
+    "url": "https://zhenyi.gibber.blog/the-ever-receding-pocket",
+    "keywords": [
+      "receding pocket",
+      "receding pocket",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "ever",
+      "ever",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Ever-Receding Pocket > Source: hackernews | Category: news | 2026-07-24T10:37:43Z Score: 11 | Comments: 0"
+  },
+  "a502342e6be92ee2": {
+    "file": "corpus/hackernews/slicker_me_c_sharp_span-first_html_c63a7cc00a.md",
+    "source": "hackernews",
+    "title": "Span-First C#: Designing Around Span<T>",
+    "url": "https://slicker.me/c_sharp/span-first.html",
+    "keywords": [
+      "44z score",
+      "span",
+      "span",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Span-First C#: Designing Around Span<T> > Source: hackernews | Category: news | 2026-07-24T10:37:44Z Score: 4 | Comments: 0"
+  },
+  "cc24a72821d126ab": {
+    "file": "corpus/hackernews/sive_rs_itunes_2c52ab2488.md",
+    "source": "hackernews",
+    "title": "The day Steve Jobs dissed me in a keynote (2010)",
+    "url": "https://sive.rs/itunes",
+    "keywords": [
+      "day steve jobs dissed",
+      "day steve jobs dissed",
+      "39z score",
+      "source",
+      "news",
+      "keynote",
+      "keynote",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The day Steve Jobs dissed me in a keynote (2010) > Source: hackernews | Category: news | 2026-07-24T10:37:39Z Score: 46 | Comments: 7"
+  },
+  "eaa05aaa9cc12ba9": {
+    "file": "corpus/hackernews/ptrchm_com_posts_nothing-works-and-everyone-is-euphoric_549873c8d3.md",
+    "source": "hackernews",
+    "title": "Nothing works and everyone is euphoric",
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "keywords": [
+      "nothing works",
+      "nothing works",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "everyone",
+      "everyone",
+      "euphoric",
+      "euphoric"
+    ],
+    "summary": "# Nothing works and everyone is euphoric > Source: hackernews | Category: news | 2026-07-24T10:37:37Z Score: 69 | Comments: 43"
+  },
+  "ec53e3b1728e5ff4": {
+    "file": "corpus/hackernews/www_trend-mill_com_p_im-so-tired-of-is-this-ai_ad61745900.md",
+    "source": "hackernews",
+    "title": "I'm So Tired of 'Is This AI?",
+    "url": "https://www.trend-mill.com/p/im-so-tired-of-is-this-ai",
+    "keywords": [
+      "46z score",
+      "ai ?\"",
+      "tired",
+      "tired",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I'm So Tired of \"Is This AI?\" > Source: hackernews | Category: news | 2026-07-24T10:37:46Z Score: 6 | Comments: 2"
   }
 }
