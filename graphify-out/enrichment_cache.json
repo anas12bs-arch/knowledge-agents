@@ -293905,5 +293905,249 @@
       "crewai 1"
     ],
     "summary": "### Bug Fixes - Fix detection of Anthropic preview tool-use blocks. - Dispatch execution_end hook on failed crew and flow executions. @alex-clawd, @iris-clawd, @lorenzejay, @lucasgomide, @theCyberTech, @vinibrsl"
+  },
+  "0b60688a1af56253": {
+    "file": "corpus/devto/dev_to_stephanie_dover_b49c2e8d1_a-pr-review-agent-with-2-co_30c3b5cdd6.md",
+    "source": "devto",
+    "title": "A PR review agent with 2 comments beats one with 20",
+    "url": "https://dev.to/stephanie_dover_b49c2e8d1/a-pr-review-agent-with-2-comments-beats-one-with-20-m2p",
+    "keywords": [
+      "2 comments beats one",
+      "2 comments beats one",
+      "good review agent needs",
+      "pr review agent",
+      "pr review agent",
+      "bias toward silence",
+      "validation pass",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# A PR review agent with 2 comments beats one with 20 > Source: devto | Category: news | 2026-07-24T22:17:34Z A good review agent needs a bias toward silence, a validation pass against its own findings, a..."
+  },
+  "fcef2715f57d76a1": {
+    "file": "corpus/devto/dev_to_eldor_zufarov_1966_how-your-ai-coding-assistant-can-q_62c93da58a.md",
+    "source": "devto",
+    "title": "How your AI coding assistant can quietly install a virus",
+    "url": "https://dev.to/eldor_zufarov_1966/how-your-ai-coding-assistant-can-quietly-install-a-virus-19nn",
+    "keywords": [
+      "ai coding assistant",
+      "ai coding assistant",
+      "ai coding assistant",
+      "32z ask",
+      "quietly install",
+      "quietly install",
+      "install",
+      "virus",
+      "virus",
+      "task"
+    ],
+    "summary": "# How your AI coding assistant can quietly install a virus > Source: devto | Category: news | 2026-07-24T22:17:32Z Ask an AI coding assistant which library to install for a task it hasn't seen before, and there's a..."
+  },
+  "c2d065c6c0b74c9a": {
+    "file": "corpus/devto/dev_to_sai_ram_0000_trelix-v27-to-v29-the-release-where-the-_4d6f37d315.md",
+    "source": "devto",
+    "title": "trelix v2.7 to v2.9: The Release Where the Pipeline Itself Became the Product",
+    "url": "https://dev.to/sai_ram_0000/trelix-v27-to-v29-the-release-where-the-pipeline-itself-became-the-product-21kb",
+    "keywords": [
+      "shipped trelix v2",
+      "trelix v2",
+      "trelix v2",
+      "knowledge ...",
+      "source",
+      "release",
+      "release",
+      "reactions"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-24T22:17:34Z On 2026-07-09 I shipped trelix v2.7.0. The architecture felt done — seven retrieval legs, a knowledge..."
+  },
+  "8bcbebe0ed9b6ec7": {
+    "file": "corpus/devto/dev_to_otezvikentiy_my-idle-clickhouse-was-merging-11-millio_272ac64942.md",
+    "source": "devto",
+    "title": "My idle ClickHouse was merging 11 million rows every 30 seconds",
+    "url": "https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i",
+    "keywords": [
+      "hosted observability tool",
+      "small self",
+      "idle clickhouse",
+      "idle clickhouse",
+      "could find",
+      "cheapest vps",
+      "2 cores",
+      "2 ...",
+      "source",
+      "run"
+    ],
+    "summary": "# My idle ClickHouse was merging 11 million rows every 30 seconds > Source: devto | Category: news | 2026-07-24T22:17:34Z I run a small self-hosted observability tool on the cheapest VPS I could find on purpose: 2 cores, 2..."
+  },
+  "4319ee004c72ef44": {
+    "file": "corpus/devto/dev_to_sjh9714_your-ai-contribution-policy-is-prose-heres-th_d9e65d78d0.md",
+    "source": "devto",
+    "title": "Your AI-contribution policy is prose. Here's the enforceable half.",
+    "url": "https://dev.to/sjh9714/your-ai-contribution-policy-is-prose-heres-the-enforceable-half-570n",
+    "keywords": [
+      "source project probably added",
+      "enforceable half",
+      "enforceable half",
+      "contribution policy",
+      "contribution policy",
+      "contribution policy",
+      "source",
+      "reactions",
+      "prose",
+      "prose"
+    ],
+    "summary": "# Your AI-contribution policy is prose. Here's the enforceable half. Your open-source project probably added an AI-contribution policy in the last few months."
+  },
+  "aa5b60de6a0e398d": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_24_doj-withdraws-ny-times-subpoenas_93501983be.md",
+    "source": "legal",
+    "title": "[techdirt] DOJ Withdraws NY Times Subpoenas After Judge Notices It Never Bothered To Follow The Rules For Subpoenaing Reporters",
+    "url": "https://www.techdirt.com/2026/07/24/doj-withdraws-ny-times-subpoenas-after-judge-notices-it-never-bothered-to-follow-the-rules-for-subpoenaing-reporters/",
+    "keywords": [
+      "potentially catastrophic security flaws",
+      "trump doj issuing",
+      "ny times journalists",
+      "[&# 8230 ;]",
+      "gift &# 8221",
+      "&# 8220",
+      "subpoenaing reporters",
+      "subpoenaing reporters",
+      "subpoenaing reporters",
+      "reporters regarding"
+    ],
+    "summary": "# [techdirt] DOJ Withdraws NY Times Subpoenas After Judge Notices It Never Bothered To Follow The Rules For Subpoenaing Reporters DOJ Withdraws NY Times Subpoenas After Judge Notices It Never Bothered To Follow The Rules For Subpoenaing Reporters As we noted in that original post, this appeared to [&#8230;]"
+  },
+  "b69a0dc9267e397a": {
+    "file": "corpus/product/techcrunch_com_2026_07_24_techcrunch-disrupt-2026s-new-smart_05dc607834.md",
+    "source": "product",
+    "title": "[techcrunch-startups] TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+    "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+    "keywords": [
+      "techcrunch disrupt 2026 ’",
+      "techcrunch disrupt 2026 ’",
+      "techcrunch disrupt 2026",
+      "entire stage",
+      "bank account",
+      "2026",
+      "techcrunch",
+      "techcrunch",
+      "wallet"
+    ],
+    "summary": "# [techcrunch-startups] TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression."
+  },
+  "f8dd48e538218d81": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_cisos-vs-boards_6dd271ec1b.md",
+    "source": "security",
+    "title": "[dark-reading] CISOs vs. Boards: Myth or Misunderstanding?",
+    "url": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+    "keywords": [
+      "communication gaps persist",
+      "25z cisos vs",
+      "cisos vs",
+      "cisos vs",
+      "escalating threats",
+      "security teams",
+      "prioritize security",
+      "forcing boards",
+      "security",
+      "security"
+    ],
+    "summary": "Boards: Myth or Misunderstanding? Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide."
+  },
+  "de3949ea4d2286db": {
+    "file": "corpus/hackernews/globaloilnetwork_staffinganalytics_io_aa71858904.md",
+    "source": "hackernews",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "keywords": [
+      "flask plus js frontend",
+      "france receives 0 oil",
+      "real oil trade data",
+      "real oil trade data",
+      "safety oil stock",
+      "supply chain class",
+      "shocks propagate throughout",
+      "reduced &# x2f",
+      "proofs &# x2f",
+      "pedagogical exercise grew"
+    ],
+    "summary": "# Show HN: I simulated closing the Strait of Hormuz on real oil trade data For producer nodes, depletion means their export slack is reduced&#x2F;exhausted. No sanctioned trade (UN Comtrade data)<p>Technical Details: The visualization is 600 lines of flask plus js frontend (LLM assisted visualization with ground-truth matching the original numerical exercise of the paper)<p>Paper with proofs&#x2F;theory: <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.17491\" rel=\"nofollow\">https:&#x2F;&#"
+  },
+  "ba8d80d6fc6a76c9": {
+    "file": "corpus/hackernews/nicole_express_2026_bricked-up-and-no-amontillado_html_767e99b77d.md",
+    "source": "hackernews",
+    "title": "The Brick Game, Through the Ages",
+    "url": "https://nicole.express/2026/bricked-up-and-no-amontillado.html",
+    "keywords": [
+      "brick game",
+      "brick game",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "ages",
+      "ages"
+    ],
+    "summary": "# The Brick Game, Through the Ages > Source: hackernews | Category: news | 2026-07-24T22:17:30Z Score: 5 | Comments: 0"
+  },
+  "d8191cbee2538702": {
+    "file": "corpus/hackernews/news_mit_edu_2026_three-sided-y-zipper-design-0504_14dd591c48.md",
+    "source": "hackernews",
+    "title": "An old patent inspired the new 'Y-zipper', a three-sided fastener",
+    "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+    "keywords": [
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      ">< p ><",
+      ">< p ><",
+      "31 &# x2f",
+      "31 &# x2f"
+    ],
+    "summary": "# An old patent inspired the new \"Y-zipper\", a three-sided fastener > Source: hackernews | Category: news | 2026-07-24T22:17:24Z <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno</a><p><a href=\"https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d"
+  },
+  "373a24ada26d92ce": {
+    "file": "corpus/hackernews/github_com_apresta_max-studio-tools_9f3d899927.md",
+    "source": "hackernews",
+    "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+    "url": "https://github.com/apresta/max-studio-tools",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "ableton live",
+      "ableton live",
+      "29z score",
+      "source",
+      "news",
+      "max",
+      "max",
+      "hackernews"
+    ],
+    "summary": "# Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live > Source: hackernews | Category: news | 2026-07-24T22:17:29Z Score: 6 | Comments: 0"
+  },
+  "dc74d71225e5d1b9": {
+    "file": "corpus/github-releases/github_com_sveltejs_svelte_releases_tag_svelte_405_56_8_0229cfe064.md",
+    "source": "github-releases",
+    "title": "sveltejs/svelte svelte@5.56.8 released",
+    "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%405.56.8",
+    "keywords": [
+      "8 ### patch changes",
+      "preserve select selection",
+      "14z ## sveltejs",
+      "svelte — svelte",
+      "8 released",
+      "8 released",
+      "svelte svelte",
+      "svelte svelte",
+      "18561 ))",
+      "18556 ))"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-24T22:18:14Z -   fix: call `onerror` and provide a working `reset` when hydrating a failed boundary ([#18556](https://github.com/sveltejs/svelte/pull/18556)) -   fix: preserve select selection when spread attributes omit value ([#18561](https://github.com/sveltejs/svelte/pull/18561))"
   }
 }
