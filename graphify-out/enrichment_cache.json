@@ -288345,5 +288345,213 @@
       "agent"
     ],
     "summary": "# I swapped my agent to a 3x smaller model and diffed what actually changed > Source: devto | Category: news | 2026-07-23T23:12:56Z Everyone I know has had this conversation."
+  },
+  "558c2a52f6693fdf": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-commit-hook-calls-an-llm-on-every-co_92bded5fca.md",
+    "source": "devto",
+    "title": "My Commit Hook Calls an LLM on Every Commit. It Had No Timeout, So Neither Did `git commit`.",
+    "url": "https://dev.to/enjoy_kumawat/my-commit-hook-calls-an-llm-on-every-commit-it-had-no-timeout-so-neither-did-git-commit-bpj",
+    "keywords": [
+      "git commit `.",
+      "git commit `.",
+      "commit hook calls",
+      "commit hook calls",
+      "msg hook",
+      "every commit",
+      "every commit",
+      "commit ...",
+      "claude code",
+      "commit"
+    ],
+    "summary": "It Had No Timeout, So Neither Did `git commit`. > Source: devto | Category: news | 2026-07-24T00:10:03Z I have a prepare-commit-msg hook in this repo that shells out to Claude Code to draft the commit..."
+  },
+  "855bb4a5769a9e0f": {
+    "file": "corpus/devto/dev_to_geetamg538_automation-testing-for-beginners-what-it-i_d8cdc157dc.md",
+    "source": "devto",
+    "title": "Automation Testing for Beginners: What It Is, Why It Matters, and When to Start",
+    "url": "https://dev.to/geetamg538/automation-testing-for-beginners-what-it-is-why-it-matters-and-when-to-start-453j",
+    "keywords": [
+      "automation testing ,\"",
+      "automation testing",
+      "automation testing",
+      "usually comes",
+      "someone says",
+      "first thing",
+      "start",
+      "start",
+      "source",
+      "selenium"
+    ],
+    "summary": "# Automation Testing for Beginners: What It Is, Why It Matters, and When to Start > Source: devto | Category: news | 2026-07-24T00:10:04Z When someone says \"automation testing,\" the first thing that usually comes to mind is Selenium."
+  },
+  "e7c65f701f9366a3": {
+    "file": "corpus/devto/dev_to_island_dev_i-bombed-an-interview-after-4-years-at-one_2ba4b34d90.md",
+    "source": "devto",
+    "title": "I bombed an interview after 4 years at one job. So I built an AI interviewer to practice with.",
+    "url": "https://dev.to/island_dev/i-bombed-an-interview-after-4-years-at-one-job-so-i-built-an-ai-interviewer-to-practice-with-3pi4",
+    "keywords": [
+      "us startups ....",
+      "mostly building products",
+      "software engineer",
+      "one job",
+      "one job",
+      "ai interviewer",
+      "ai interviewer",
+      "4 years",
+      "4 years",
+      "10 years"
+    ],
+    "summary": "# I bombed an interview after 4 years at one job. So I built an AI interviewer to practice with. I've been a software engineer for over 10 years, mostly building products for US startups...."
+  },
+  "ae057a5698c19aa1": {
+    "file": "corpus/devto/dev_to_ravipurohit1991_what-is-the-most-technically-impressi_510105b1cb.md",
+    "source": "devto",
+    "title": "What Is the Most Technically Impressive Useless Thing You Have Built?",
+    "url": "https://dev.to/ravipurohit1991/what-is-the-most-technically-impressive-useless-thing-you-have-built-7eg",
+    "keywords": [
+      "technically impressive useless thing",
+      "technically impressive useless thing",
+      "dev announcing new tools",
+      "want",
+      "source",
+      "reactions",
+      "posts",
+      "plenty",
+      "news",
+      "libraries"
+    ],
+    "summary": "# What Is the Most Technically Impressive Useless Thing You Have Built? > Source: devto | Category: news | 2026-07-24T00:10:03Z We have plenty of posts on DEV announcing new tools, libraries, agents, and frameworks."
+  },
+  "4fdafb5ed889d92a": {
+    "file": "corpus/devto/dev_to_michaeltruong_active-players-looked-real-until-we-ask_eb28e4e2ee.md",
+    "source": "devto",
+    "title": "Active players looked real until we asked which sessions counted",
+    "url": "https://dev.to/michaeltruong/active-players-looked-real-until-we-asked-which-sessions-counted-11em",
+    "keywords": [
+      "active players looked real",
+      "active players looked real",
+      "small web game",
+      "llm plays codenames",
+      "building codenames ai",
+      "sessions counted",
+      "sessions counted",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Active players looked real until we asked which sessions counted > Source: devto | Category: news | 2026-07-24T00:10:01Z I've been building Codenames AI, a small web game where an LLM plays Codenames with you."
+  },
+  "081afc9d68b1fe58": {
+    "file": "corpus/devto/dev_to_evanlin_book-sharing-taiwans-ai-future-analyzing-tren_b2b0b42b40.md",
+    "source": "devto",
+    "title": "[Book Sharing] Taiwan's AI Future: Analyzing Trends, Local Landscape, Corporate Strategy, and Personal Development",
+    "url": "https://dev.to/evanlin/book-sharing-taiwans-ai-future-analyzing-trends-local-landscape-corporate-strategy-and-40io",
+    "keywords": [
+      "personal development",
+      "personal development",
+      "local landscape",
+      "local landscape",
+      "corporate strategy",
+      "corporate strategy",
+      "book sharing",
+      "book sharing",
+      "analyzing trends",
+      "analyzing trends"
+    ],
+    "summary": "# [Book Sharing] Taiwan's AI Future: Analyzing Trends, Local Landscape, Corporate Strategy, and Personal Development > Source: devto | Category: news | 2026-07-24T00:10:03Z 台灣AI大未來 解析最新的AI趨勢、台灣情勢、企業布局與個人發展 作者： 簡立峰（Chien Lee-feng） 蕭玉品   出版社：商業周刊          Enter fullscreen..."
+  },
+  "ec4da677072c410c": {
+    "file": "corpus/devto/dev_to_gideonreality_how-i-built-a-neuroscience-learning-pla_cb0c79edde.md",
+    "source": "devto",
+    "title": "How I Built a Neuroscience Learning Platform Entirely on My Android Phone",
+    "url": "https://dev.to/gideonreality/how-i-built-a-neuroscience-learning-platform-entirely-on-my-android-phone-3b88",
+    "keywords": [
+      "recent secondary school graduate",
+      "neuroscience learning platform entirely",
+      "neuroscience learning platform entirely",
+      "taught ...",
+      "gideon —",
+      "dev team",
+      "android phone",
+      "android phone",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How I Built a Neuroscience Learning Platform Entirely on My Android Phone > Source: devto | Category: news | 2026-07-24T00:10:04Z I'm Gideon — a recent secondary school graduate in Lagos, Nigeria."
+  },
+  "6a191ca3116c3568": {
+    "file": "corpus/product/techcrunch_com_2026_07_23_meet-the-judges-who-will-crown-aus_54a20a009c.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Meet the judges who will crown Australia’s next breakout startup",
+    "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+    "keywords": [
+      "next breakout startup",
+      "next breakout startup",
+      "crown australia ’",
+      "crown australia ’",
+      "crown australia ’",
+      "australia —",
+      "exciting early",
+      "stage startups",
+      "53z meet",
+      "startups"
+    ],
+    "summary": "# [techcrunch-startups] Meet the judges who will crown Australia’s next breakout startup Meet the judges who will crown Australia’s next breakout startup TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups."
+  },
+  "b86c108393234602": {
+    "file": "corpus/hackernews/lwn_net_Articles_1084545_1d4a3e01e6.md",
+    "source": "hackernews",
+    "title": "Mourning Dan Williams",
+    "url": "https://lwn.net/Articles/1084545/",
+    "keywords": [
+      "mourning dan williams",
+      "mourning dan williams",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "24t00"
+    ],
+    "summary": "# Mourning Dan Williams > Source: hackernews | Category: news | 2026-07-24T00:09:59Z Score: 8 | Comments: 0"
+  },
+  "deb34aa8a828e6df": {
+    "file": "corpus/hackernews/rybakov_com_blog_what_else_do_people_draw_on_gradient-copy_h_8ad778db7b.md",
+    "source": "hackernews",
+    "title": "What else do people draw on gradient.horse?",
+    "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+    "keywords": [
+      "people draw",
+      "people draw",
+      "52z score",
+      "source",
+      "news",
+      "horse",
+      "horse",
+      "hackernews",
+      "gradient",
+      "gradient"
+    ],
+    "summary": "# What else do people draw on gradient.horse? > Source: hackernews | Category: news | 2026-07-24T00:09:52Z Score: 21 | Comments: 4"
+  },
+  "81c25e9906b562e2": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_95_7f6f87d1fc.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.95 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.95",
+    "keywords": [
+      "generatestaticparams returns invalid values",
+      "refactor watcher event handling",
+      "95 ### misc changes",
+      "restore canary version 16",
+      "incomplete generatestaticparams results",
+      "trace attribution pass",
+      "remove inert experimental",
+      "remove deprecated url",
+      "make invalidatormap slightly",
+      "drop js fallback"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-24T00:10:44Z - Turbopack: Very minor improvements for watcher loop: #96103 - Turbopack: Refactor watcher event handling and batching logic: #96087 - fix: remove deprecated url.parse() from custom-server example: #96105 - Upgrade React from `711c445b-20260722` to `28cd4bb0-20260723`: #96100 - Throw for empty or incomplete generateStaticParams results with output: export: #95969 - Throw when generateStaticParams returns invalid values: #959"
   }
 }
