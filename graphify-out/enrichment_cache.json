@@ -295226,5 +295226,233 @@
       "category"
     ],
     "summary": "# Researchers replace downloaded macOS apps with evil twins, Apple shrugs > Source: hackernews | Category: news | 2026-07-25T08:20:37Z Score: 10 | Comments: 0"
+  },
+  "ce6beb3b3b7a9e01": {
+    "file": "corpus/devto/dev_to_chenyuan20509_i-added-a-failure-library-to-my-mcp-ser_85a12d134d.md",
+    "source": "devto",
+    "title": "I Added a 'Failure Library' to My MCP Server. Now My AI Agents Warn Each Other About Crashes Before They Happen.",
+    "url": "https://dev.to/chenyuan20509/i-added-a-failure-library-to-my-mcp-server-now-my-ai-agents-warn-each-other-about-crashes-before-4ell",
+    "keywords": [
+      "ai agents warn",
+      "ai agents warn",
+      "ai agents",
+      "mcp server",
+      "mcp server",
+      "mcp server",
+      "failure library",
+      "failure library",
+      "failure library",
+      "cache solutions"
+    ],
+    "summary": "# I Added a \"Failure Library\" to My MCP Server. Now My AI Agents Warn Each Other About Crashes Before They Happen. How I built a failure library into my MCP server so AI agents can cache solutions and warn each other about crashes before they happen."
+  },
+  "8208a7163501a797": {
+    "file": "corpus/devto/dev_to_sami21234_statistics-2o26_49799d93b1.md",
+    "source": "devto",
+    "title": "Part 4 - STATISTICS",
+    "url": "https://dev.to/sami21234/statistics-2o26",
+    "keywords": [
+      "07z normal distribution explained",
+      "part 4",
+      "part 4",
+      "first principles",
+      "first ...",
+      "beginner friendly",
+      "statistics",
+      "statistics",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Part 4 - STATISTICS > Source: devto | Category: news | 2026-07-25T10:03:07Z Normal Distribution Explained from First Principles (Beginner Friendly)   When I first..."
+  },
+  "7845b45fffb14273": {
+    "file": "corpus/devto/dev_to_copyleftdev_389-tests-passed-nist-still-caught-the-bu_bcf655de23.md",
+    "source": "devto",
+    "title": "389 Tests Passed. NIST Still Caught the Bug.",
+    "url": "https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh",
+    "keywords": [
+      "truth whose authority",
+      "nist still caught",
+      "nist still caught",
+      "independent reference data",
+      "ai agents taught",
+      "389 tests passed",
+      "389 tests passed",
+      "mutation gates",
+      "testing",
+      "stress"
+    ],
+    "summary": "NIST Still Caught the Bug. > Source: devto | Category: news | 2026-07-25T10:03:04Z What stress-testing a calculator for AI agents taught me about independent reference data, mutation gates, and sources of truth whose authority can be revoked by evidence."
+  },
+  "963744d7ef2c43b0": {
+    "file": "corpus/devto/dev_to_towernter_automate-spotify-and-youtube-playlists-chap_cd3afb67ae.md",
+    "source": "devto",
+    "title": "Automate Spotify and YouTube Playlists - Chapter 6: Deployment",
+    "url": "https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-6-deployment-1c4h",
+    "keywords": [
+      "youtube playlists",
+      "youtube playlists",
+      "script works",
+      "chapter 6",
+      "chapter 6",
+      "automate spotify",
+      "automate spotify",
+      "source",
+      "run",
+      "remember"
+    ],
+    "summary": "# Automate Spotify and YouTube Playlists - Chapter 6: Deployment The script works on your computer. But your computer isn't always on, and \"remember to run this..."
+  },
+  "d3ccc05b44fd6d98": {
+    "file": "corpus/devto/dev_to_pkumar18_-i-shipped-the-first-real-stage-of-my-fanfic_f8404970eb.md",
+    "source": "devto",
+    "title": "# I Shipped the First Real Stage of My Fanfiction Taste Engine, and It Isn't What I Originally Planned",
+    "url": "https://dev.to/pkumar18/-i-shipped-the-first-real-stage-of-my-fanfiction-taste-engine-and-it-isnt-what-i-originally-3gfd",
+    "keywords": [
+      "personal taste engine",
+      "first real stage",
+      "first real stage",
+      "fanfiction taste engine",
+      "fanfiction taste engine",
+      "weeks ago",
+      "originally planned",
+      "originally planned",
+      "fanfiction",
+      "wrote"
+    ],
+    "summary": "# # I Shipped the First Real Stage of My Fanfiction Taste Engine, and It Isn't What I Originally Planned > Source: devto | Category: news | 2026-07-25T10:03:07Z A few weeks ago I wrote about Siagnos, a personal taste engine for fanfiction that learns from..."
+  },
+  "65f074289b19e884": {
+    "file": "corpus/security/thehackernews_com_2026_07_researcher-publishes-gitlab-rce-po_272cc44a5c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+    "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+    "keywords": [
+      "ordinary authenticated user triggers",
+      "managed gitlab 18",
+      "working proof",
+      "victim interaction",
+      "unpatched self",
+      "runner access",
+      "executes commands",
+      "continuous integration",
+      "chain needs",
+      "administrator rights"
+    ],
+    "summary": "# [hacker-news-sec] Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff."
+  },
+  "4e2c9a135c90551d": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_artificial-intelligence_openai_25ca120783.md",
+    "source": "security",
+    "title": "[bleeping-comp] OpenAI confirms ChatGPT is down worldwide",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+    "keywords": [
+      "famous artificial intelligence chatbot",
+      "56z openai confirms chatgpt",
+      "openai confirms chatgpt",
+      "openai confirms chatgpt",
+      "connectivity issues worldwide",
+      "worldwide chatgpt",
+      "various personalities",
+      "allows users",
+      "worldwide",
+      "worldwide"
+    ],
+    "summary": "# [bleeping-comp] OpenAI confirms ChatGPT is down worldwide OpenAI confirms ChatGPT is down worldwide ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide."
+  },
+  "5ed69093082815a7": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_ai-rca-context-engineering_utm_ca_2edc92678f.md",
+    "source": "engineering",
+    "title": "[infoq] AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering",
+    "url": "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "given correctly prepared context",
+      "root cause analysis",
+      "context engineering engineers",
+      "context engineering",
+      "context engineering",
+      "modern llms",
+      "model reasoning",
+      "model reasoning",
+      "model reasoning",
+      "mark silvester"
+    ],
+    "summary": "# [infoq] AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering Engineers are increasingly arguing that modern LLMs can already reason through root cause analysis once given correctly prepared context, shifting the hard problem to the pipelines that correlate telemetry. A Coroot experiment across eleven models offers early evidence for the claim."
+  },
+  "ff17d4674ad4db5b": {
+    "file": "corpus/hackernews/www_augmental_tech_8e7023a575.md",
+    "source": "hackernews",
+    "title": "MouthPad: A Tongue-Controlled Touchpad",
+    "url": "https://www.augmental.tech/",
+    "keywords": [
+      "controlled touchpad",
+      "controlled touchpad",
+      "00z score",
+      "tongue",
+      "tongue",
+      "source",
+      "news",
+      "mouthpad",
+      "mouthpad",
+      "hackernews"
+    ],
+    "summary": "# MouthPad: A Tongue-Controlled Touchpad > Source: hackernews | Category: news | 2026-07-25T10:03:00Z Score: 4 | Comments: 0"
+  },
+  "9217c4ec829cd155": {
+    "file": "corpus/hackernews/saffroncr_itch_io_katavatis_devlog_1534514_building-a-tiny-3_0216d4ac6f.md",
+    "source": "hackernews",
+    "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+    "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+    "keywords": [
+      "tiny 3d renderer",
+      "tiny 3d renderer",
+      "tiny handheld",
+      "tiny handheld",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Building a Tiny 3D Renderer for a Tiny Handheld > Source: hackernews | Category: news | 2026-07-25T10:02:56Z Score: 31 | Comments: 0"
+  },
+  "ac4696afa8efe95a": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_07_22_arts_design_charles-ross-star-axi_6fcb3a3d6b.md",
+    "source": "hackernews",
+    "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+    "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+    "keywords": [
+      "new mexico",
+      "new mexico",
+      "eye observatory",
+      "eye observatory",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico > Source: hackernews | Category: news | 2026-07-25T10:02:58Z Score: 8 | Comments: 2"
+  },
+  "b58b9869d6f1cc1a": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-when-should-we-start-pushing-for-_c592186edf.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr: When Should We Start Pushing For Multi-Year Contracts?",
+    "url": "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/",
+    "keywords": [
+      "rational buyer behavior",
+      "norm across b2b",
+      "... continue reading",
+      "56z dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "year contracts",
+      "year contracts",
+      "year contracts"
+    ],
+    "summary": "Dear SaaStr: When Should We Start Pushing For Multi-Year Contracts? Dear SaaStr: When Should We Start Pushing For Multi-Year Contracts? Here&#8217;s the reality: shorter contracts are now the norm across B2B + AI, and it&#8217;s rational buyer behavior, not...   Continue Reading"
   }
 }
