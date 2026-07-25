@@ -297625,5 +297625,119 @@
       "https :// github"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-25T17:13:30Z ## What's Changed * x/create: quantize lm_head at 8-bit in the requested family by @jessegross in https://github.com/ollama/ollama/pull/17357 * test: harden flaky updater and transfer unit tests by @dhiltgen in https://github.com/ollama/ollama/pull/17378 * server: fix ps data race on scheduler loaded map by @dhiltgen in https://github.com/ollama/ollama/pull/17376 * qwen3_5: fix expert quantization handling and gather packed g"
+  },
+  "b3532954e75f0d44": {
+    "file": "corpus/devto/dev_to_yosvani_noriega_ed748d272_how-i-built-a-full-rpg-game_bc9a4d2f1a.md",
+    "source": "devto",
+    "title": "How I Built a Full RPG Game in TypeScript — Zero Images, Pure Canvas 2D",
+    "url": "https://dev.to/yosvani_noriega_ed748d272/how-i-built-a-full-rpg-game-in-typescript-zero-images-pure-canvas-2d-38em",
+    "keywords": [
+      "typescript — zero images",
+      "typescript — zero images",
+      "zero external assets",
+      "web audio —",
+      "pure canvas 2d",
+      "pure canvas 2d",
+      "procedural vector graphics",
+      "full rpg game",
+      "full rpg game",
+      "playable rpg"
+    ],
+    "summary": "# How I Built a Full RPG Game in TypeScript — Zero Images, Pure Canvas 2D > Source: devto | Category: news | 2026-07-25T18:06:47Z A deep dive into building a playable RPG with procedural vector graphics, touch controls, and Web Audio — all with zero external assets."
+  },
+  "5924d53ece81ba07": {
+    "file": "corpus/devto/dev_to_ssukhpinder_when-searchvalues-actually-pays-off-310l_84070edb79.md",
+    "source": "devto",
+    "title": "When SearchValues<T> Actually Pays Off",
+    "url": "https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l",
+    "keywords": [
+      "wins 1",
+      "manual loops",
+      "call trap",
+      "actually pays",
+      "actually pays",
+      "3x slower",
+      "47z searchvalues",
+      "searchvalues",
+      "searchvalues",
+      "ties"
+    ],
+    "summary": "# When SearchValues<T> Actually Pays Off > Source: devto | Category: news | 2026-07-25T18:06:47Z SearchValues<T> benchmarked against IndexOfAny and manual loops: where it ties, where it wins 1.7x, and the per-call trap that makes it 3x slower."
+  },
+  "6c4ee29d8061c8b4": {
+    "file": "corpus/devto/dev_to_jadekharats_building-a-real-time-crystal-app-with-kem_641ef6d35c.md",
+    "source": "devto",
+    "title": "Building a real-time Crystal app with Kemal — where privacy is a server invariant",
+    "url": "https://dev.to/jadekharats/building-a-real-time-crystal-app-with-kemal-where-privacy-is-a-server-invariant-5hch",
+    "keywords": [
+      "time moving motivators app",
+      "time crystal app",
+      "time crystal app",
+      "kemal —",
+      "kemal —",
+      "domain design",
+      "confidentiality enforced",
+      "server invariant",
+      "server invariant",
+      "crystal"
+    ],
+    "summary": "# Building a real-time Crystal app with Kemal — where privacy is a server invariant A small, ephemeral, real-time Moving Motivators app in Crystal. Pure-domain design, confidentiality enforced on the server, and a 14 MB hardened scratch image."
+  },
+  "f3ba12e2d632b099": {
+    "file": "corpus/hackernews/swiftrocks_com_a-system-prompt-to-get-ai-to-stop-pretending-_42804ccb27.md",
+    "source": "hackernews",
+    "title": "A system prompt to get AI to stop pretending to be human",
+    "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
+    "keywords": [
+      "system prompt",
+      "system prompt",
+      "stop pretending",
+      "stop pretending",
+      "get ai",
+      "get ai",
+      "46z score",
+      "source",
+      "news",
+      "human"
+    ],
+    "summary": "# A system prompt to get AI to stop pretending to be human > Source: hackernews | Category: news | 2026-07-25T18:06:46Z Score: 12 | Comments: 6"
+  },
+  "c46507537cb19f2c": {
+    "file": "corpus/hackernews/docs_espressif_com_projects_rust_book_6112bce7f4.md",
+    "source": "hackernews",
+    "title": "The Rust on ESP Book",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "keywords": [
+      "esp book",
+      "esp book",
+      "45z score",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Rust on ESP Book > Source: hackernews | Category: news | 2026-07-25T18:06:45Z Score: 5 | Comments: 1"
+  },
+  "6e46281e31ad4718": {
+    "file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_15_0_91b33225b7.md",
+    "source": "github-releases",
+    "title": "shadcn-ui/ui shadcn@4.15.0 released",
+    "url": "https://github.com/shadcn-ui/ui/releases/tag/shadcn%404.15.0",
+    "keywords": [
+      "0 ### minor changes",
+      "31z ## shadcn",
+      "ui — shadcn",
+      "0 released",
+      "0 released",
+      "cmpadden )!",
+      "ui shadcn",
+      "ui shadcn",
+      "shadcn",
+      "shadcn"
+    ],
+    "summary": "# shadcn-ui/ui shadcn@4.15.0 released > Source: github-releases | Category: changelog | 2026-07-25T18:07:31Z - Add a public `addRegistryItems` API for installing registry items programmatically without invoking the CLI."
   }
 }
