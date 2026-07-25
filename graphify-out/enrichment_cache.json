@@ -298263,5 +298263,118 @@
       "hackernews"
     ],
     "summary": "# The growing vigilante movement to knock out Flock surveillance cameras > Source: hackernews | Category: news | 2026-07-25T20:17:18Z Score: 39 | Comments: 5"
+  },
+  "12336599d8eb327e": {
+    "file": "corpus/devto/dev_to_mjmirza_41-percent-of-engineers-admit-ignoring-alerts_96d820fa87.md",
+    "source": "devto",
+    "title": "41 percent of engineers admit ignoring alerts and I found out I was one of them",
+    "url": "https://dev.to/mjmirza/41-percent-of-engineers-admit-ignoring-alerts-and-i-found-out-i-was-one-of-them-fco",
+    "keywords": [
+      "engineers admit ignoring alerts",
+      "engineers admit ignoring alerts",
+      "instruments nobody reads",
+      "walk past",
+      "numbers say",
+      "install monitors",
+      "41 percent",
+      "41 percent",
+      "one question",
+      "one"
+    ],
+    "summary": "# 41 percent of engineers admit ignoring alerts and I found out I was one of them We install monitors, linters, and checks, then train ourselves to walk past them. What the numbers say about instruments nobody reads, and the one question that fixes it."
+  },
+  "f43f0c7f660987ce": {
+    "file": "corpus/devto/dev_to_tonytonycoder11_kmemo-a-semantic-cache-for-llm-calls-_20ed3a7aef.md",
+    "source": "devto",
+    "title": "Kmemo: a semantic cache for LLM calls that refuses to serve you the wrong answer",
+    "url": "https://dev.to/tonytonycoder11/kmemo-a-semantic-cache-for-llm-calls-that-refuses-to-serve-you-the-wrong-answer-54h7",
+    "keywords": [
+      "question nobody asked",
+      "main problem rather",
+      "happily hand back",
+      "semantic cache",
+      "semantic cache",
+      "llm calls",
+      "llm calls",
+      "wrong answer",
+      "wrong answer",
+      "kmemo treats"
+    ],
+    "summary": "# Kmemo: a semantic cache for LLM calls that refuses to serve you the wrong answer Semantic caching cuts LLM cost and latency, and it will happily hand back the answer to a question nobody asked. Kmemo treats that failure as the main problem rather than a footnote."
+  },
+  "d5ead018920e0060": {
+    "file": "corpus/devto/dev_to_deeplab_parsing-documents-for-air-gapped-rag-no-cloud_21a7eda4cc.md",
+    "source": "devto",
+    "title": "Parsing documents for air-gapped RAG: no cloud, no JVM, no Python",
+    "url": "https://dev.to/deeplab/parsing-documents-for-air-gapped-rag-no-cloud-no-jvm-no-python-3a13",
+    "keywords": [
+      "wanted clean markdown",
+      "single rust binary",
+      "python ml stack",
+      "uploading anything",
+      "parsing documents",
+      "parsing documents",
+      "gapped rag",
+      "gapped rag",
+      "cloud parser",
+      "python"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-25T21:10:51Z I wanted clean Markdown out of a folder of docx/pdf/pptx for a local RAG pipeline — without a JVM, a Python ML stack, or uploading anything to a cloud parser. So I built a single Rust binary that does it."
+  },
+  "6b37ec14ae602ea5": {
+    "file": "corpus/hackernews/www_lrb_co_uk_the-paper_v48_n13_terry-eagleton_starveling-ra_a4836c7732.md",
+    "source": "hackernews",
+    "title": "Starveling Rabblement",
+    "url": "https://www.lrb.co.uk/the-paper/v48/n13/terry-eagleton/starveling-rabblement",
+    "keywords": [
+      "starveling rabblement",
+      "starveling rabblement",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "25t21"
+    ],
+    "summary": "# Starveling Rabblement > Source: hackernews | Category: news | 2026-07-25T21:10:41Z Score: 3 | Comments: 0"
+  },
+  "2adb34bf8709b3ea": {
+    "file": "corpus/hackernews/github_com_sktkkoo_Yorishiro_73b023f96a.md",
+    "source": "hackernews",
+    "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+    "url": "https://github.com/sktkkoo/Yorishiro",
+    "keywords": [
+      "extention supporting hot reload",
+      "white light moving instantly",
+      "first idea started comunicating",
+      "yorishiro character express sad",
+      "ai agent long time",
+      "ai agent encounter errors",
+      "name “ yorishiro ”",
+      "like anime character",
+      "devise many idea",
+      "“ yori ”"
+    ],
+    "summary": "Yorishiro is an open source project that gives Claude Code &#x2F; Codex a body-like anime character. When AI agent wait for your approve, the room lights flash to notify. AI agents in Yorishiro control light, body, scene, UI, effects, and so on."
+  },
+  "a7ca65f0c37929bc": {
+    "file": "corpus/hackernews/twitter_com_dnapway_status_2081069949200855220_91bb28d652.md",
+    "source": "hackernews",
+    "title": "Google Search Distilled Yahoo and Microsoft",
+    "url": "https://twitter.com/dnapway/status/2081069949200855220",
+    "keywords": [
+      "google search distilled yahoo",
+      "google search distilled yahoo",
+      "46z score",
+      "source",
+      "news",
+      "microsoft",
+      "microsoft",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Google Search Distilled Yahoo and Microsoft > Source: hackernews | Category: news | 2026-07-25T21:10:46Z Score: 6 | Comments: 2"
   }
 }
