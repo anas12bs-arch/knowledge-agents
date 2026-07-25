@@ -294317,5 +294317,119 @@
       "amd"
     ],
     "summary": "# AMD and Cerebras Launch AI Inference Solution > Source: hackernews | Category: news | 2026-07-24T23:18:08Z Score: 8 | Comments: 3"
+  },
+  "8e6eba924f2698ab": {
+    "file": "corpus/product/techcrunch_com_2026_07_24_prentis-new-ai-lab-co-founded-by-r_9174730f3f.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "keywords": [
+      "automating routine computer tasks",
+      "new ai lab co",
+      "new ai lab co",
+      "new ai lab co",
+      "soon outpace coding",
+      "biggest use case",
+      "reid hoffman",
+      "reid hoffman",
+      "reid hoffman",
+      "mark pincus"
+    ],
+    "summary": "# [techcrunch-startups] Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+  },
+  "82c377a4455cf48f": {
+    "file": "corpus/hackernews/rewardhacking_org_889a2730c1.md",
+    "source": "hackernews",
+    "title": "AIs don't do what you want. This is bad",
+    "url": "https://rewardhacking.org",
+    "keywords": [
+      "12z score",
+      "want",
+      "want",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "bad",
+      "bad"
+    ],
+    "summary": "# AIs don't do what you want. This is bad > Source: hackernews | Category: news | 2026-07-25T00:17:12Z"
+  },
+  "c3cb10ed38e196f9": {
+    "file": "corpus/hackernews/news_st-andrews_ac_uk_archive_sperm-whales-blow-bubbles-to-a_8742d3cbe0.md",
+    "source": "hackernews",
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+    "keywords": [
+      "sperm whales blow bubbles",
+      "sperm whales blow bubbles",
+      "vertical sleep",
+      "vertical sleep",
+      "achieve restful",
+      "achieve restful",
+      "15z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Sperm Whales blow bubbles to achieve restful, vertical sleep > Source: hackernews | Category: news | 2026-07-25T00:17:15Z Score: 8 | Comments: 1"
+  },
+  "3a0d39894e4dcd6b": {
+    "file": "corpus/hackernews/blog_plover_com_math_ordinals_02-wellfoundedness_html_8acf3eacfc.md",
+    "source": "hackernews",
+    "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+    "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
+    "keywords": [
+      "nim always ends",
+      "nim always ends",
+      "infinite ordinals",
+      "infinite ordinals",
+      "12z score",
+      "zero",
+      "zero",
+      "source",
+      "road",
+      "road"
+    ],
+    "summary": "# The road to epsilon-zero: Nim always ends, even with infinite ordinals > Source: hackernews | Category: news | 2026-07-25T00:17:12Z Score: 6 | Comments: 0"
+  },
+  "5da41935e1bed249": {
+    "file": "corpus/business/sequoiacap_com_article_americas-open-model-paradox_4cf5b89638.md",
+    "source": "business",
+    "title": "[sequoia] America’s Open-Model Paradox",
+    "url": "https://sequoiacap.com/article/americas-open-model-paradox/",
+    "keywords": [
+      "model paradox appeared first",
+      "post america ’",
+      "14z america ’",
+      "model paradox",
+      "model paradox",
+      "model paradox",
+      "america ’",
+      "america ’",
+      "sequoia capital",
+      "sequoia"
+    ],
+    "summary": "# [sequoia] America’s Open-Model Paradox America’s Open-Model Paradox The post  America’s Open-Model Paradox  appeared first on  Sequoia Capital ."
+  },
+  "a50f931ab2b5b205": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_96_949bf6f9d1.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.96 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.96",
+    "keywords": [
+      "return plain text 404",
+      "include additional prerender metadata",
+      "route param handling monomorphic",
+      "canonical routetree key order",
+      "keep slot access monomorphic",
+      "96 ### misc changes",
+      "single hidden class across",
+      "keep varypath monomorphic",
+      "store routetree slots",
+      "skill install command"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-25T00:18:16Z - [sourcemaps] Use file: sourcemaps for Turbopack to improve dev performance: #95946 - Give RouteCacheEntry a single hidden class across its lifecycle: #96164 - Keep optimistic-route param handling monomorphic: #96169 - Store RouteTree slots in a Map to keep slot access monomorphic: #96168 - Make reifyRouteTree object literals match the canonical RouteTree key order: #96162 - Keep VaryPath monomorphic by making isRootParam re"
   }
 }
