@@ -294431,5 +294431,157 @@
       "skill install command"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-25T00:18:16Z - [sourcemaps] Use file: sourcemaps for Turbopack to improve dev performance: #95946 - Give RouteCacheEntry a single hidden class across its lifecycle: #96164 - Keep optimistic-route param handling monomorphic: #96169 - Store RouteTree slots in a Map to keep slot access monomorphic: #96168 - Make reifyRouteTree object literals match the canonical RouteTree key order: #96162 - Keep VaryPath monomorphic by making isRootParam re"
+  },
+  "9be829803dcdbc51": {
+    "file": "corpus/devto/dev_to_mellowthunder735_your-test-suite-isnt-slow-its-accumu_bd8f742bea.md",
+    "source": "devto",
+    "title": "Your Test Suite Isn't Slow. It's Accumulating Decisions",
+    "url": "https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080",
+    "keywords": [
+      "one dramatic moment",
+      "browser test suites",
+      "test suite",
+      "test suite",
+      "little slower",
+      "accumulating decisions",
+      "accumulating decisions",
+      "source",
+      "slow",
+      "slow"
+    ],
+    "summary": "# Your Test Suite Isn't Slow. Most browser test suites do not collapse in one dramatic moment. They get a little slower on..."
+  },
+  "4b32c7c714f07e92": {
+    "file": "corpus/devto/dev_to_hideyukimori_261-docs-6-languages-one-maintainer-fron_38ad8716bf.md",
+    "source": "devto",
+    "title": "261 docs, 6 languages, one maintainer: frontmatter is the source of truth",
+    "url": "https://dev.to/hideyukimori/261-docs-6-languages-one-maintainer-frontmatter-is-the-source-of-truth-2c8f",
+    "keywords": [
+      "ci failure —",
+      "one maintainer",
+      "one maintainer",
+      "6 languages",
+      "6 languages",
+      "261 docs",
+      "261 docs",
+      "04z frontmatter",
+      "frontmatter",
+      "frontmatter"
+    ],
+    "summary": "# 261 docs, 6 languages, one maintainer: frontmatter is the source of truth > Source: devto | Category: news | 2026-07-25T03:41:04Z Frontmatter is the source of truth, the index is regenerated, drift is a CI failure — how a solo OSS project keeps 261 guides across 6 languages in sync."
+  },
+  "94e5cf4ddb2590be": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_24_trump-fires-court-appointed-us-a_4959b107bc.md",
+    "source": "legal",
+    "title": "[techdirt] Trump Fires Court-Appointed US Attorney One Hour After Appointment, Immediately Gets Sued",
+    "url": "https://www.techdirt.com/2026/07/24/trump-fires-court-appointed-us-attorney-one-hour-after-appointment-immediately-gets-sued/",
+    "keywords": [
+      "unanimously appointed roger rogoff",
+      "immediately gets sued stop",
+      "57z trump fires court",
+      "immediately gets sued",
+      "immediately gets sued",
+      "trump fires court",
+      "trump fires court",
+      "largely defied attempts",
+      "[&# 8230 ;]",
+      "justice department ’"
+    ],
+    "summary": "# [techdirt] Trump Fires Court-Appointed US Attorney One Hour After Appointment, Immediately Gets Sued Trump Fires Court-Appointed US Attorney One Hour After Appointment, Immediately Gets Sued Stop me if you&#8217;ve heard this one: Federal judges in the Western District of Washington had unanimously appointed Roger Rogoff to be the Justice Department’s top official there, filling a vacancy that the president has never addressed."
+  },
+  "58e92a266afc2ac1": {
+    "file": "corpus/hackernews/github_com_fcmv_lucen_ea22c8dd19.md",
+    "source": "hackernews",
+    "title": "Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
+    "url": "https://github.com/fcmv/lucen",
+    "keywords": [
+      "loops via comment pragmas",
+      "loops via comment pragmas",
+      "show hn",
+      "show hn",
+      "python compiler",
+      "python compiler",
+      "00z score",
+      "source",
+      "parallelizes",
+      "parallelizes"
+    ],
+    "summary": "# Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas > Source: hackernews | Category: news | 2026-07-25T03:41:00Z Score: 8 | Comments: 0"
+  },
+  "25ede348aa61766a": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_U8Omt6K8OnM_d6a5e67650.md",
+    "source": "hackernews",
+    "title": "The universe isn't random – it's something stranger – Stephen Wolfram [video]",
+    "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
+    "keywords": [
+      "random –",
+      "random –",
+      "01z score",
+      "video",
+      "video",
+      "universe",
+      "universe",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The universe isn't random – it's something stranger – Stephen Wolfram [video] > Source: hackernews | Category: news | 2026-07-25T03:41:01Z Score: 6 | Comments: 0"
+  },
+  "96e53578e8cb0a86": {
+    "file": "corpus/hackernews/www_wsj_com_health_taylor-farms-cyclospora-recall-delay-call_eae1170063.md",
+    "source": "hackernews",
+    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "keywords": [
+      "delay cyclospora recall",
+      "delay cyclospora recall",
+      "57z score",
+      "try",
+      "try",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Taylor Farms Called White House to Try to Delay Cyclospora Recall > Source: hackernews | Category: news | 2026-07-25T03:40:57Z Score: 20 | Comments: 0"
+  },
+  "2deb4d3db88990c6": {
+    "file": "corpus/hackernews/parksb_github_io_en_article_29_html_f9b4ca6628.md",
+    "source": "hackernews",
+    "title": "A concrete explanation of how a cache works",
+    "url": "https://parksb.github.io/en/article/29.html",
+    "keywords": [
+      "concrete explanation",
+      "concrete explanation",
+      "cache works",
+      "cache works",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A concrete explanation of how a cache works > Source: hackernews | Category: news | 2026-07-25T03:40:59Z Score: 6 | Comments: 0"
+  },
+  "03f8adc2d47d3666": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_4-rc0_97b77d154e.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.4-rc0 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
+    "keywords": [
+      "fix ps data race",
+      "fix expert quantization handling",
+      "agent system prompt command",
+      "add laguna mlx support",
+      "transfer unit tests",
+      "scheduler loaded map",
+      "permission skill loading",
+      "harden flaky updater",
+      "gather packed gate_up",
+      "https :// github"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-25T03:41:36Z ## What's Changed * x/create: quantize lm_head at 8-bit in the requested family by @jessegross in https://github.com/ollama/ollama/pull/17357 * test: harden flaky updater and transfer unit tests by @dhiltgen in https://github.com/ollama/ollama/pull/17378 * server: fix ps data race on scheduler loaded map by @dhiltgen in https://github.com/ollama/ollama/pull/17376 * qwen3_5: fix expert quantization handling and gather packed g"
   }
 }
