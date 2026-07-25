@@ -294583,5 +294583,363 @@
       "https :// github"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-25T03:41:36Z ## What's Changed * x/create: quantize lm_head at 8-bit in the requested family by @jessegross in https://github.com/ollama/ollama/pull/17357 * test: harden flaky updater and transfer unit tests by @dhiltgen in https://github.com/ollama/ollama/pull/17378 * server: fix ps data race on scheduler loaded map by @dhiltgen in https://github.com/ollama/ollama/pull/17376 * qwen3_5: fix expert quantization handling and gather packed g"
+  },
+  "03b45474a521c177": {
+    "file": "corpus/devto/dev_to_alex_poiny_i-got-tired-of-uploading-my-heic-photos-to_fab158c4ee.md",
+    "source": "devto",
+    "title": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter",
+    "url": "https://dev.to/alex_poiny/i-got-tired-of-uploading-my-heic-photos-to-random-servers-so-i-built-a-wasm-powered-client-side-kib",
+    "keywords": [
+      "32z hi dev",
+      "👋 picture",
+      "side converter",
+      "side converter",
+      "random servers",
+      "random servers",
+      "powered client",
+      "powered client",
+      "heic photos",
+      "heic photos"
+    ],
+    "summary": "# I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter > Source: devto | Category: news | 2026-07-25T06:05:32Z 👋  Picture this: You are in the middle of a development sprint, a client sends you a batch..."
+  },
+  "9dd60c38f3d80e80": {
+    "file": "corpus/devto/dev_to_umitomo-lab_weekly-dev-log-2026-w15-4fhi_ee6fc8eb39.md",
+    "source": "devto",
+    "title": "Weekly Dev Log 2026-W15",
+    "url": "https://dev.to/umitomo-lab/weekly-dev-log-2026-w15-4fhi",
+    "keywords": [
+      "35z weekly learning log",
+      "weekly dev log 2026",
+      "weekly dev log 2026",
+      "cybersecurity — 2026",
+      "web development",
+      "w15 reactions",
+      "2026",
+      "w15",
+      "w15",
+      "source"
+    ],
+    "summary": "# Weekly Dev Log 2026-W15 > Source: devto | Category: news | 2026-07-25T06:05:35Z Weekly learning log of iOS, web development, and cybersecurity — 2026-W15"
+  },
+  "eb3e923228e66fc6": {
+    "file": "corpus/devto/dev_to_schiff_heimlich_systemd-restartsec-does-not-wait-for-_617cf73650.md",
+    "source": "devto",
+    "title": "systemd RestartSec does not wait for your process to actually exit",
+    "url": "https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8",
+    "keywords": [
+      "ever set restartsec",
+      "systemd restartsec",
+      "systemd restartsec",
+      "systemd service",
+      "actually exit",
+      "actually exit",
+      "wondered",
+      "wait",
+      "wait",
+      "source"
+    ],
+    "summary": "# systemd RestartSec does not wait for your process to actually exit > Source: devto | Category: news | 2026-07-25T06:05:34Z If you have ever set RestartSec on a systemd service and wondered why you still get Address already..."
+  },
+  "77b22130040bbaea": {
+    "file": "corpus/devto/dev_to_tosane932_24-days-of-coding-an-86-hour-roadmap-from-t_16d07f8b12.md",
+    "source": "devto",
+    "title": "24 Days of Coding: An 86-Hour Roadmap from Truck Driver to Web Engineer",
+    "url": "https://dev.to/tosane932/24-days-of-coding-an-86-hour-roadmap-from-truck-driver-to-web-engineer-3lpg",
+    "keywords": [
+      "active truck driver",
+      "truck driver",
+      "truck driver",
+      "web engineer",
+      "web engineer",
+      "studying ...",
+      "introduction hello",
+      "hour roadmap",
+      "hour roadmap",
+      "35z 1"
+    ],
+    "summary": "# 24 Days of Coding: An 86-Hour Roadmap from Truck Driver to Web Engineer Introduction   Hello from Japan! 🇯🇵 I am an active truck driver in Japan self-studying..."
+  },
+  "bde0b6c99cf306c6": {
+    "file": "corpus/devto/dev_to_surajrkhonde_how-do-you-know-your-rag-actually-works-_c564b7f36b.md",
+    "source": "devto",
+    "title": "How Do You Know Your RAG Actually Works?",
+    "url": "https://dev.to/surajrkhonde/how-do-you-know-your-rag-actually-works-115o",
+    "keywords": [
+      "working really well",
+      "rag actually works",
+      "rag actually works",
+      "👦 nephew",
+      "phase 5a",
+      "added reranking",
+      "good news",
+      "news",
+      "uncle",
+      "source"
+    ],
+    "summary": "# How Do You Know Your RAG Actually Works? > Source: devto | Category: news | 2026-07-25T06:05:35Z It's Working Really Well(phase 5A)   👦 Nephew: Uncle, good news."
+  },
+  "c73f9f58be411152": {
+    "file": "corpus/devto/dev_to_anas_sheikh_2_nextjs-15-caching-explained-finally-mak_94effbfd7a.md",
+    "source": "devto",
+    "title": "Next.js 15 Caching Explained — Finally Makes Sense",
+    "url": "https://dev.to/anas_sheikh_2/nextjs-15-caching-explained-finally-makes-sense-feb",
+    "keywords": [
+      "js caching confused",
+      "nobody explains",
+      "34z next",
+      "next",
+      "next",
+      "thorough",
+      "source",
+      "reactions",
+      "overwhelming",
+      "news"
+    ],
+    "summary": "# Next.js 15 Caching Explained — Finally Makes Sense Next.js caching confused me for months. The docs are thorough but overwhelming."
+  },
+  "4e1f5900e3df109d": {
+    "file": "corpus/devto/dev_to_annavi11arrea1_check-out-catbots-new-leg-3cfg_c2536276df.md",
+    "source": "devto",
+    "title": "🐈‍⬛Check Out Catbot's New Leg!",
+    "url": "https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg",
+    "keywords": [
+      "absolutely must share",
+      "🐈‍⬛ check",
+      "🐈‍⬛ check",
+      "recently created",
+      "new leg",
+      "new leg",
+      "desktop pet",
+      "called catbot",
+      "catbot",
+      "catbot"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-25T06:05:32Z I absolutely must share. So I recently created a desktop pet, called Catbot."
+  },
+  "4eb614e02810e3ea": {
+    "file": "corpus/devto/dev_to_rajeshbhola1_part-1-data-hiding-protecting-your-objec_339f0c9c4a.md",
+    "source": "devto",
+    "title": "Part 1 - Data Hiding: Protecting Your Object's Internal Data",
+    "url": "https://dev.to/rajeshbhola1/part-1-data-hiding-protecting-your-objects-internal-data-28i2",
+    "keywords": [
+      "35z data hiding",
+      "data hiding",
+      "data hiding",
+      "internal data",
+      "internal data",
+      "part 1",
+      "part 1",
+      "oriented programming",
+      "oop ).",
+      "fundamental principles"
+    ],
+    "summary": "# Part 1 - Data Hiding: Protecting Your Object's Internal Data > Source: devto | Category: news | 2026-07-25T06:05:35Z Data Hiding is one of the most fundamental principles of Object-Oriented Programming (OOP)."
+  },
+  "628f1f6b4ea38375": {
+    "file": "corpus/devto/dev_to_jenueldev_i-uninstalled-vue-devtools-my-tests-became-_773a8db025.md",
+    "source": "devto",
+    "title": "I Uninstalled Vue DevTools. My Tests Became the Better Debugger.",
+    "url": "https://dev.to/jenueldev/i-uninstalled-vue-devtools-my-tests-became-the-better-debugger-2hi0",
+    "keywords": [
+      "something state inspectors cannot",
+      "react browser extensions",
+      "uninstalled vue devtools",
+      "uninstalled vue devtools",
+      "tests became",
+      "tests became",
+      "stopped relying",
+      "repeatable proof",
+      "everyday debugging",
+      "debugging session"
+    ],
+    "summary": "My Tests Became the Better Debugger. I stopped relying on Vue and React browser extensions for everyday debugging. AI-assisted tests now give me something state inspectors cannot: repeatable proof that survives the debugging session."
+  },
+  "c913dc8c227e3778": {
+    "file": "corpus/devto/dev_to_daniel_developer_8ea65b73_building-novaos-a-16-bit-op_2916dce5d1.md",
+    "source": "devto",
+    "title": "Building NovaOS: A 16-bit Operating System from Scratch (in Assembly and C)",
+    "url": "https://dev.to/daniel_developer_8ea65b73/building-novaos-a-16-bit-operating-system-from-scratch-in-assembly-and-c-db3",
+    "keywords": [
+      "bit operating system",
+      "bit operating system",
+      "bit operating system",
+      "32z building novaos",
+      "building novaos",
+      "building novaos",
+      "source",
+      "scratch",
+      "scratch",
+      "scratch"
+    ],
+    "summary": "# Building NovaOS: A 16-bit Operating System from Scratch (in Assembly and C) > Source: devto | Category: news | 2026-07-25T06:05:32Z Building NovaOS: A 16-bit Operating System from Scratch (in Assembly and C)           ..."
+  },
+  "089b46a0e73bf3cb": {
+    "file": "corpus/devto/dev_to_asepsayyad007_why-i-chose-oracle-cloud-always-free-fo_ec98159a72.md",
+    "source": "devto",
+    "title": "Why I Chose Oracle Cloud Always Free for My Production Server",
+    "url": "https://dev.to/asepsayyad007/why-i-chose-oracle-cloud-always-free-for-my-production-server-g4e",
+    "keywords": [
+      "pay every month ...",
+      "one big problem ---",
+      "production server",
+      "production server",
+      "wanted",
+      "want",
+      "source",
+      "reactions",
+      "news",
+      "host"
+    ],
+    "summary": "# Why I Chose Oracle Cloud Always Free for My Production Server > Source: devto | Category: news | 2026-07-25T06:05:35Z When I wanted to host my own applications, I had one big problem---I didn't want to pay every month..."
+  },
+  "82299f739dee0882": {
+    "file": "corpus/devto/dev_to_sudhanshu_code_b8ef988ceb_from-javascript-to-nodejs-u_56e6e87545.md",
+    "source": "devto",
+    "title": "From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes (Part 4.1)",
+    "url": "https://dev.to/sudhanshu_code_b8ef988ceb/from-javascript-to-nodejs-understanding-what-really-happens-behind-the-scenes-part-41-3ohl",
+    "keywords": [
+      "really happens behind",
+      "really happens behind",
+      "modules even exist",
+      "js modules explained",
+      "scratch —",
+      "part 4",
+      "part 4",
+      "js ...",
+      "writing node",
+      "35z node"
+    ],
+    "summary": "# From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes (Part 4.1) > Source: devto | Category: news | 2026-07-25T06:05:35Z If you've been writing Node.js..."
+  },
+  "b31e7af1e661beb6": {
+    "file": "corpus/devto/dev_to_nolanvale_the-trade-offs-of-building-an-internal-plat_c1e293869c.md",
+    "source": "devto",
+    "title": "The Trade-Offs of Building an Internal Platform Team",
+    "url": "https://dev.to/nolanvale/the-trade-offs-of-building-an-internal-platform-team-1l40",
+    "keywords": [
+      "34z internal platform teams",
+      "internal platform team",
+      "internal platform team",
+      "building shared infrastructure",
+      "services ...",
+      "groups dedicated",
+      "building",
+      "building",
+      "trade",
+      "trade"
+    ],
+    "summary": "# The Trade-Offs of Building an Internal Platform Team > Source: devto | Category: news | 2026-07-25T06:05:34Z Internal platform teams, groups dedicated to building shared infrastructure, tooling, and services..."
+  },
+  "3c8fd766462df30a": {
+    "file": "corpus/hackernews/bytecodealliance_org_articles_wasmtime-gc_54c0986ae7.md",
+    "source": "hackernews",
+    "title": "GC and Exceptions in Wasmtime",
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "keywords": [
+      "22z score",
+      "wasmtime",
+      "wasmtime",
+      "source",
+      "news",
+      "hackernews",
+      "exceptions",
+      "exceptions"
+    ],
+    "summary": "# GC and Exceptions in Wasmtime > Source: hackernews | Category: news | 2026-07-25T06:05:22Z Score: 34 | Comments: 0"
+  },
+  "7b46bfd057dbb6b6": {
+    "file": "corpus/hackernews/www_maths_cam_ac_uk_features_professor-hannah-fry-wins-leela_9ee2ff0119.md",
+    "source": "hackernews",
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "keywords": [
+      "hannah fry wins",
+      "hannah fry wins",
+      "mathematics outreach",
+      "mathematics outreach",
+      "leelavati prize",
+      "leelavati prize",
+      "23z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach > Source: hackernews | Category: news | 2026-07-25T06:05:23Z Score: 33 | Comments: 9"
+  },
+  "83ac0de604a7a143": {
+    "file": "corpus/hackernews/unattributed_cc_re-bye-bye-gravatar_0b4bedc90a.md",
+    "source": "hackernews",
+    "title": "Re: Bye Bye Gravatar",
+    "url": "https://unattributed.cc/re-bye-bye-gravatar",
+    "keywords": [
+      "bye bye gravatar",
+      "bye bye gravatar",
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "25t06"
+    ],
+    "summary": "# Re: Bye Bye Gravatar > Source: hackernews | Category: news | 2026-07-25T06:05:25Z Score: 31 | Comments: 12"
+  },
+  "ed8d288b56e209af": {
+    "file": "corpus/hackernews/www_nist_gov_news-events_news_2026_07_uk-aisi-caisi-prelimin_13d01b24f0.md",
+    "source": "hackernews",
+    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "keywords": [
+      "caisi preliminary assessment",
+      "caisi preliminary assessment",
+      "uk aisi",
+      "uk aisi",
+      "kimi k3",
+      "kimi k3",
+      "cyber capabilities",
+      "cyber capabilities",
+      "23z score",
+      "source"
+    ],
+    "summary": "# UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities > Source: hackernews | Category: news | 2026-07-25T06:05:23Z Score: 10 | Comments: 0"
+  },
+  "5ce024dbd768e554": {
+    "file": "corpus/hackernews/www_bookcorners_org_1db4c9a7aa.md",
+    "source": "hackernews",
+    "title": "Book Corners: Community map of neighborhood book exchange spots",
+    "url": "https://www.bookcorners.org",
+    "keywords": [
+      "neighborhood book exchange spots",
+      "neighborhood book exchange spots",
+      "book corners",
+      "book corners",
+      "community map",
+      "community map",
+      "26z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Book Corners: Community map of neighborhood book exchange spots > Source: hackernews | Category: news | 2026-07-25T06:05:26Z Score: 5 | Comments: 0"
+  },
+  "8c6321291614d857": {
+    "file": "corpus/github-trending/github_com_koala73_worldmonitor_5fce3c914f.md",
+    "source": "github-trending",
+    "title": "koala73/worldmonitor ⭐73528",
+    "url": "https://github.com/koala73/worldmonitor",
+    "keywords": [
+      "unified situational awareness interface",
+      "unified situational awareness interface",
+      "time global intelligence dashboard",
+      "简体中文 ]( readme",
+      "powered news aggregation",
+      "powered news aggregation",
+      "worldmonitor ⭐ 73528",
+      "worldmonitor ⭐ 73528",
+      "29z ** koala73",
+      "org /) [!"
+    ],
+    "summary": "Language: TypeScript | Topics: agent, ai, dashboard, geopolitics, mcp, mcp-server AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface."
   }
 }
