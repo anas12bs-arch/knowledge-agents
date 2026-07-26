@@ -299223,5 +299223,506 @@
       "release compression stream"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-26T00:10:28Z - fix(sandbox): release one-shot timeout ids after they run: #96161 - Fix dev overlay symbolication for project paths needing percent-encoding: #96221 - [internal] Add a skill for benching changes in a sandbox: #95943 - Run dev validation in process when using Webpack: #96219 - Read chunk source maps from disk in the dev validation worker: #96218 - Retry the source map lookup with a plain path: #96215 - Pass fallback params t"
+  },
+  "da2dfe6b2df82ee3": {
+    "file": "corpus/devto/dev_to_amitkumar13_react-native-list-performance-scrollview-_4021fd3c41.md",
+    "source": "devto",
+    "title": "React Native List Performance — ScrollView, FlatList, SectionList, FlashList",
+    "url": "https://dev.to/amitkumar13/react-native-list-performance-scrollview-flatlist-sectionlist-flashlist-41jn",
+    "keywords": [
+      "react native —",
+      "practical deep dive",
+      "optimizing list components",
+      "sectionlist really recycle",
+      "flashlist usually wins",
+      "scrollview hurts",
+      "sectionlist",
+      "sectionlist",
+      "flashlist",
+      "flashlist"
+    ],
+    "summary": "# React Native List Performance — ScrollView, FlatList, SectionList, FlashList > Source: devto | Category: news | 2026-07-26T03:51:09Z A practical deep dive into choosing and optimizing list components in React Native — when ScrollView hurts, how FlatList/SectionList really recycle, and why FlashList usually wins at scale."
+  },
+  "040b2f5ff09b9fc7": {
+    "file": "corpus/devto/dev_to_le_beltagy_i-run-bare-metal-kubernetes-on-200-of-scra_c32cdfd927.md",
+    "source": "devto",
+    "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+    "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
+    "keywords": [
+      "scrap hardware",
+      "scrap hardware",
+      "scrap hardware",
+      "run bare",
+      "run bare",
+      "run bare",
+      "metal kubernetes",
+      "metal kubernetes",
+      "metal kubernetes",
+      "source"
+    ],
+    "summary": "# I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning) > Source: devto | Category: news | 2026-07-26T03:51:10Z I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards..."
+  },
+  "441c4b317ec87913": {
+    "file": "corpus/devto/dev_to_ryotanishiyama_how-ai-text-detectors-actually-work-an_4fe8f8ac44.md",
+    "source": "devto",
+    "title": "How AI Text Detectors Actually Work (And Why They Flag You)",
+    "url": "https://dev.to/ryotanishiyama/how-ai-text-detectors-actually-work-and-why-they-flag-you-18b4",
+    "keywords": [
+      "months someone forwards",
+      "generated ,\"...",
+      "detector says",
+      "08z every",
+      "source",
+      "screenshot",
+      "reactions",
+      "news",
+      "flag",
+      "flag"
+    ],
+    "summary": "# How AI Text Detectors Actually Work (And Why They Flag You) > Source: devto | Category: news | 2026-07-26T03:51:08Z Every few months someone forwards me a screenshot: a detector says their essay is \"98% AI-generated,\"..."
+  },
+  "5a4aa0283e3ccd06": {
+    "file": "corpus/devto/dev_to_kenielzep97_i-let-an-agent-take-over-an-account-with-_a5cb80d9cd.md",
+    "source": "devto",
+    "title": "I Let an Agent Take Over an Account With Every Permission Check Green",
+    "url": "https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4",
+    "keywords": [
+      "every permission check green",
+      "every permission check green",
+      "git clone ...",
+      "10z clone",
+      "agent take",
+      "agent take",
+      "wrong",
+      "tell",
+      "source",
+      "run"
+    ],
+    "summary": "# I Let an Agent Take Over an Account With Every Permission Check Green > Source: devto | Category: news | 2026-07-26T03:51:10Z Tell me where I'm wrong."
+  },
+  "2b6f01a4b6aaddef": {
+    "file": "corpus/devto/dev_to_anusha_mukka_from-policy-to-pipeline-making-complianc_acee7e13c1.md",
+    "source": "devto",
+    "title": "From Policy to Pipeline: Making Compliance an Engineering Property",
+    "url": "https://dev.to/anusha_mukka/from-policy-to-pipeline-making-compliance-an-engineering-property-35ap",
+    "keywords": [
+      "building ai infrastructure",
+      "10z part 4",
+      "—& gt",
+      "making compliance",
+      "making compliance",
+      "engineering property",
+      "engineering property",
+      "compliant ,...",
+      "trust",
+      "source"
+    ],
+    "summary": "# From Policy to Pipeline: Making Compliance an Engineering Property > Source: devto | Category: news | 2026-07-26T03:51:10Z Part 4 of \"Trust the Machine\" —&gt; a series on building AI infrastructure that is secure, compliant,..."
+  },
+  "77ce21617086dda6": {
+    "file": "corpus/devto/dev_to_akif_mansoor_50c5ccaa2a7f_i-built-a-tray-app-that-cap_8ccd64d6ff.md",
+    "source": "devto",
+    "title": "I built a tray app that captures highlights from any Windows app into a local SQLite database",
+    "url": "https://dev.to/akif_mansoor_50c5ccaa2a7f/i-built-a-tray-app-that-captures-highlights-from-any-windows-app-into-a-local-sqlite-database-631",
+    "keywords": [
+      "research — pdfs",
+      "local sqlite database",
+      "local sqlite database",
+      "word docs",
+      "windows app",
+      "windows app",
+      "tray app",
+      "tray app",
+      "one window",
+      "dozen ..."
+    ],
+    "summary": "# I built a tray app that captures highlights from any Windows app into a local SQLite database > Source: devto | Category: news | 2026-07-26T03:51:11Z The problem  I do a lot of reading for research — PDFs in one window, Word docs in another, a dozen..."
+  },
+  "c01dbfacdebd95ed": {
+    "file": "corpus/devto/dev_to_shipnano_dev_a10911a28c21_i-built-3-chrome-extensions_73a112ac8a.md",
+    "source": "devto",
+    "title": "I built 3 Chrome extensions for my developer workflow - here's what I learned shipping on weekends",
+    "url": "https://dev.to/shipnano_dev_a10911a28c21/i-built-3-chrome-extensions-for-my-developer-workflow-heres-what-i-learned-shipping-on-weekends-45l8",
+    "keywords": [
+      "built 3 chrome extensions",
+      "built 3 chrome extensions",
+      "software engineer",
+      "learned shipping",
+      "learned shipping",
+      "kept noticing",
+      "friction points",
+      "developer workflow",
+      "developer workflow",
+      "daily ..."
+    ],
+    "summary": "# I built 3 Chrome extensions for my developer workflow - here's what I learned shipping on weekends > Source: devto | Category: news | 2026-07-26T03:51:11Z I've been a software engineer for a while and I kept noticing  the same friction points in my daily..."
+  },
+  "195a91d784bb2947": {
+    "file": "corpus/devto/dev_to_ivyjsu_getting-clean-text-out-of-pdf-docx-and-html-cm_0f4e33e5db.md",
+    "source": "devto",
+    "title": "Getting Clean Text Out of PDF, DOCX, and HTML",
+    "url": "https://dev.to/ivyjsu/getting-clean-text-out-of-pdf-docx-and-html-cmn",
+    "keywords": [
+      "getting clean text",
+      "getting clean text",
+      "unglamorous ...",
+      "08z anything",
+      "turns",
+      "summary",
+      "source",
+      "reactions",
+      "pdf",
+      "pdf"
+    ],
+    "summary": "# Getting Clean Text Out of PDF, DOCX, and HTML > Source: devto | Category: news | 2026-07-26T03:51:08Z Anything that turns a document into audio, a summary, or embeddings has the same unglamorous..."
+  },
+  "58caeea42ed3bf57": {
+    "file": "corpus/devto/dev_to_aws-builders_sesiones-remotas-siempre-disponibles-par_f28a252f5e.md",
+    "source": "devto",
+    "title": "Sesiones remotas siempre disponibles para tus agentes de codigo",
+    "url": "https://dev.to/aws-builders/sesiones-remotas-siempre-disponibles-para-tus-agentes-de-codigo-549f",
+    "keywords": [
+      "cerrar la laptop",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "26t03",
+      "2026"
+    ],
+    "summary": "# Sesiones remotas siempre disponibles para tus agentes de codigo > Source: devto | Category: news | 2026-07-26T03:51:10Z Una sesión de agente que sobrevive a cerrar la laptop, corriendo en una sola instancia EC2 chica que..."
+  },
+  "f790f933b8a5a934": {
+    "file": "corpus/devto/dev_to_mxhlix_specs-rot-running-code-doesnt-how-i-restructur_68666e7320.md",
+    "source": "devto",
+    "title": "My coding agent always stopped at 80%. The spec I gave it was why.",
+    "url": "https://dev.to/mxhlix/specs-rot-running-code-doesnt-how-i-restructured-my-ai-agent-skills-around-live-references-2eae",
+    "keywords": [
+      "coding agent always stopped",
+      "coding agent always stopped",
+      "based web tools",
+      "five locales",
+      "claude code",
+      "80 %.",
+      "80 %.",
+      "600 browser",
+      "spec",
+      "spec"
+    ],
+    "summary": "# My coding agent always stopped at 80%. The spec I gave it was why. I run about 600 browser-based web tools, each shipped in five locales, all built by Claude Code."
+  },
+  "b010091a607e67c8": {
+    "file": "corpus/hackernews/cachebag_sh_journal_interactive-rebasing_29116c0f76.md",
+    "source": "hackernews",
+    "title": "Git rebase -I is not that scary",
+    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "keywords": [
+      "git rebase",
+      "git rebase",
+      "04z score",
+      "source",
+      "scary",
+      "scary",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Git rebase -I is not that scary > Source: hackernews | Category: news | 2026-07-26T03:51:04Z Score: 35 | Comments: 27"
+  },
+  "2ec6a7284531684a": {
+    "file": "corpus/hackernews/www_actenon_com_4a3df3ac54.md",
+    "source": "hackernews",
+    "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
+    "url": "https://www.actenon.com/",
+    "keywords": [
+      "ai agent framework",
+      "ai agent framework",
+      "consequential actions",
+      "consequential actions",
+      "08z score",
+      "wow",
+      "wow",
+      "source",
+      "scanned",
+      "scanned"
+    ],
+    "summary": "# I scanned my AI agent framework for destructive/consequential actions, and wow > Source: hackernews | Category: news | 2026-07-26T03:51:08Z Score: 5 | Comments: 0"
+  },
+  "157a559f32eb1042": {
+    "file": "corpus/hackernews/blog_ktz_me_esp32-plane-radar_9b4079ab31.md",
+    "source": "hackernews",
+    "title": "An ESP32 based plane radar for my desk",
+    "url": "https://blog.ktz.me/esp32-plane-radar/",
+    "keywords": [
+      "esp32 based plane radar",
+      "esp32 based plane radar",
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "desk",
+      "desk",
+      "comments",
+      "category"
+    ],
+    "summary": "# An ESP32 based plane radar for my desk > Source: hackernews | Category: news | 2026-07-26T03:51:03Z Score: 20 | Comments: 6"
+  },
+  "8a6a5c4d1fc3886c": {
+    "file": "corpus/hackernews/www_harvardmagazine_com_research_harvard-human-evolution-gen_ebde361a80.md",
+    "source": "hackernews",
+    "title": "Humans Haven't Stopped Evolving",
+    "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+    "keywords": [
+      "stopped evolving",
+      "stopped evolving",
+      "03z score",
+      "source",
+      "news",
+      "humans",
+      "humans",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Humans Haven't Stopped Evolving > Source: hackernews | Category: news | 2026-07-26T03:51:03Z Score: 6 | Comments: 0"
+  },
+  "2d425a82ba1f5400": {
+    "file": "corpus/hackernews/www_jetzero_aero_2d017f4295.md",
+    "source": "hackernews",
+    "title": "JetZero",
+    "url": "https://www.jetzero.aero",
+    "keywords": [
+      "02z score",
+      "source",
+      "news",
+      "jetzero",
+      "jetzero",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# JetZero > Source: hackernews | Category: news | 2026-07-26T03:51:02Z Score: 58 | Comments: 41"
+  },
+  "ea691481015fff76": {
+    "file": "corpus/hackernews/martin_janiczek_cz_2026_07_24_systems-and-delays_html_22eb8c33e4.md",
+    "source": "hackernews",
+    "title": "Systems and Delays",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "keywords": [
+      "03z score",
+      "systems",
+      "systems",
+      "source",
+      "news",
+      "hackernews",
+      "delays",
+      "delays",
+      "comments",
+      "category"
+    ],
+    "summary": "# Systems and Delays > Source: hackernews | Category: news | 2026-07-26T03:51:03Z Score: 34 | Comments: 8"
+  },
+  "2f31f21af9217238": {
+    "file": "corpus/hackernews/huggingface_co_owensong_Inflect-Micro-v2_9376267761.md",
+    "source": "hackernews",
+    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "keywords": [
+      "complete voice",
+      "complete voice",
+      "36m parameters",
+      "36m parameters",
+      "03z score",
+      "source",
+      "news",
+      "micro"
+    ],
+    "summary": "# Inflect-Micro-v2: complete voice in 9.36M parameters > Source: hackernews | Category: news | 2026-07-26T03:51:03Z Score: 37 | Comments: 3"
+  },
+  "981213a94de5de9b": {
+    "file": "corpus/hackernews/getqrcodepro_com_blog_google-ranking-evidence_8e0629d9f2.md",
+    "source": "hackernews",
+    "title": "Google ignored my site for 13 weeks, so I audited everyone who outranks me",
+    "url": "https://getqrcodepro.com/blog/google-ranking-evidence",
+    "keywords": [
+      "google ignored",
+      "google ignored",
+      "audited everyone",
+      "audited everyone",
+      "13 weeks",
+      "13 weeks",
+      "06z score",
+      "source",
+      "site",
+      "site"
+    ],
+    "summary": "# Google ignored my site for 13 weeks, so I audited everyone who outranks me > Source: hackernews | Category: news | 2026-07-26T03:51:06Z Score: 4 | Comments: 0"
+  },
+  "8209de6c6af53035": {
+    "file": "corpus/hackernews/www_law_uchicago_edu_news_ai-strategy-statement_f825fe0f56.md",
+    "source": "hackernews",
+    "title": "Rethinking Legal Education in the AI Era",
+    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "keywords": [
+      "rethinking legal education",
+      "rethinking legal education",
+      "ai era",
+      "ai era",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Rethinking Legal Education in the AI Era > Source: hackernews | Category: news | 2026-07-26T03:51:04Z Score: 21 | Comments: 1"
+  },
+  "805cb15692de393a": {
+    "file": "corpus/hackernews/github_com_ailinone_collective-intelligence_6e1fbb0be6.md",
+    "source": "hackernews",
+    "title": "Collective Intelligence: The Next Frontier of AI",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "keywords": [
+      "next frontier",
+      "next frontier",
+      "collective intelligence",
+      "collective intelligence",
+      "08z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Collective Intelligence: The Next Frontier of AI > Source: hackernews | Category: news | 2026-07-26T03:51:08Z Score: 5 | Comments: 1"
+  },
+  "d37336d064e318e4": {
+    "file": "corpus/hackernews/golfcoursebrowser_com_bffa601735.md",
+    "source": "hackernews",
+    "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+    "url": "https://golfcoursebrowser.com/",
+    "keywords": [
+      "usga rating &# x2f",
+      "com &# x2f ;</",
+      "browse courses using osm",
+      "googling basic course info",
+      "current golf course directory",
+      "world asap .< p",
+      "public &# x2f",
+      "golf course results",
+      "wrong scorecard ),",
+      "spot anything wrong"
+    ],
+    "summary": "# Show HN: I mapped every US golf course – 16k+ courses, free, no signup I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;</a><p>It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of N"
+  },
+  "873e696f0d05e489": {
+    "file": "corpus/hackernews/igorpak_wordpress_com_2020_12_10_what-if-they-are-all-wrong_cb52dd08f0.md",
+    "source": "hackernews",
+    "title": "What if they are all wrong? (2020)",
+    "url": "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/",
+    "keywords": [
+      "04z score",
+      "wrong",
+      "wrong",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What if they are all wrong? > Source: hackernews | Category: news | 2026-07-26T03:51:04Z Score: 7 | Comments: 2"
+  },
+  "15170a8cbe023fba": {
+    "file": "corpus/hackernews/axtary_com_5e75d3d74f.md",
+    "source": "hackernews",
+    "title": "Show HN: Axtary – Content Authorization for AI Agents",
+    "url": "https://axtary.com",
+    "keywords": [
+      "axtary – content authorization",
+      "axtary – content authorization",
+      "show hn",
+      "show hn",
+      "ai agents",
+      "ai agents",
+      "08z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: Axtary – Content Authorization for AI Agents > Source: hackernews | Category: news | 2026-07-26T03:51:08Z Score: 3 | Comments: 0"
+  },
+  "bb8d2d50518ef660": {
+    "file": "corpus/hackernews/www_zwplayer_com_6f6815f2ed.md",
+    "source": "hackernews",
+    "title": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
+    "url": "https://www.zwplayer.com/",
+    "keywords": [
+      "zwplayer – free player",
+      "zwplayer – free player",
+      "subtitle search",
+      "subtitle search",
+      "show hn",
+      "show hn",
+      "interactive annotations",
+      "interactive annotations",
+      "07z score",
+      "source"
+    ],
+    "summary": "# Show HN: ZWPlayer – Free player with interactive annotations and subtitle search > Source: hackernews | Category: news | 2026-07-26T03:51:07Z Score: 4 | Comments: 0"
+  },
+  "e03e6c493e6eb18d": {
+    "file": "corpus/hackernews/abcnews_com_International_scientists-warn-invasive-species-s_f06ad4a50f.md",
+    "source": "hackernews",
+    "title": "Possible invasive species superspreader event near Strait of Hormuz",
+    "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+    "keywords": [
+      "07z score",
+      "source",
+      "news",
+      "hormuz",
+      "hormuz",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Possible invasive species superspreader event near Strait of Hormuz > Source: hackernews | Category: news | 2026-07-26T03:51:07Z Score: 28 | Comments: 9"
+  },
+  "6ad5f66d10b0912f": {
+    "file": "corpus/hackernews/synaptale_com_graph_ch_100_6db6b7657e.md",
+    "source": "hackernews",
+    "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+    "url": "https://synaptale.com/graph?ch=100",
+    "keywords": [
+      "cowardly lion ranks third",
+      "agent pipelines combining llms",
+      "180k words look like",
+      "180k words look like",
+      "dorothy never deceives anyone",
+      "keep inventing unimportant fields",
+      "verifiable facts .< p",
+      "fields inconsistently .< p",
+      "linguistic edges .< p",
+      "dorothy comes second"
+    ],
+    "summary": "This allows the system to scale well, since only a minority of state and identity edges remain continuously active.<p>3. You cannot simply ask an LLM to extract entities and relationships into a graph. Subtle hints can still be missed, the system is not yet perfect in this area."
+  },
+  "a035fc5da1a8acc7": {
+    "file": "corpus/hackernews/www_seti_org_news_alien-world-chemistry-found-inside-meteori_f99fbb6b4a.md",
+    "source": "hackernews",
+    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+    "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+    "keywords": [
+      "struck new jersey home",
+      "struck new jersey home",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home > Source: hackernews | Category: news | 2026-07-26T03:51:06Z Score: 5 | Comments: 1"
   }
 }
