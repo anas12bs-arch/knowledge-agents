@@ -301059,5 +301059,322 @@
       "category"
     ],
     "summary": "# Elevated Errors for Opus 5 > Source: hackernews | Category: news | 2026-07-26T11:40:35Z Score: 37 | Comments: 35"
+  },
+  "bf2d8e526b9cc1fc": {
+    "file": "corpus/devto/dev_to_eshan276_observability-should-be-a-git-diff-not-a-wee_e6d5041a4f.md",
+    "source": "devto",
+    "title": "Observability should be a `git diff`, not a weekend: instrumenting an AI app with one command using SigNoz",
+    "url": "https://dev.to/eshan276/observability-should-be-a-git-diff-not-a-weekend-instrumenting-an-ai-app-with-one-command-using-235h",
+    "keywords": [
+      "one command using signoz",
+      "one command using signoz",
+      "git diff `,",
+      "git diff `,",
+      "repo :...",
+      "59z built",
+      "ai app",
+      "ai app",
+      "agent observability"
+    ],
+    "summary": "# Observability should be a `git diff`, not a weekend: instrumenting an AI app with one command using SigNoz > Source: devto | Category: news | 2026-07-26T12:43:59Z Built for the Agents of SigNoz hackathon — Track 1, AI &amp; Agent Observability."
+  },
+  "d588aaa9ff311b59": {
+    "file": "corpus/devto/dev_to_joshikrati03_backend-internals-5-stop-installing-ever_d4e86ad8db.md",
+    "source": "devto",
+    "title": "🚀Backend Internals #5: Stop Installing Everything Globally—Understand Local vs Global npm Packages",
+    "url": "https://dev.to/joshikrati03/backend-internals-5-stop-installing-everything-globally-understand-local-vs-global-npm-packages-3b7",
+    "keywords": [
+      "🚀 backend internals",
+      "🚀 backend internals",
+      "confusing topics",
+      "asynchronous ...",
+      "58z one",
+      "source",
+      "reactions",
+      "node",
+      "news"
+    ],
+    "summary": "# 🚀Backend Internals #5: Stop Installing Everything Globally—Understand Local vs Global npm Packages > Source: devto | Category: news | 2026-07-26T12:43:58Z One of the most confusing topics for beginners in Node.js isn't Express, APIs, or asynchronous..."
+  },
+  "c4a8c011bfd75c22": {
+    "file": "corpus/devto/dev_to_qingze_hu_c4c251c1b353ede_i-replicated-the-vision-onl_e5aceba151.md",
+    "source": "devto",
+    "title": "I replicated the vision-only Pokémon run Anthropic showcased on the Fable 5 launch page — then I read its thinking chains",
+    "url": "https://dev.to/qingze_hu_c4c251c1b353ede/i-replicated-the-vision-only-pokemon-run-anthropic-showcased-on-the-fable-5-launch-page-then-i-35ah",
+    "keywords": [
+      "pokémon run anthropic showcased",
+      "pokémon run anthropic showcased",
+      "play pokémon",
+      "thinking chains",
+      "thinking chains",
+      "claim independently",
+      "785 ...",
+      "vision alone",
+      "vision",
+      "vision"
+    ],
+    "summary": "# I replicated the vision-only Pokémon run Anthropic showcased on the Fable 5 launch page — then I read its thinking chains Anthropic says Fable 5 can play Pokémon from vision alone. I verified that claim independently: 1,785..."
+  },
+  "a7b3cf9d65f09b24": {
+    "file": "corpus/devto/dev_to_weenaithdev_before-you-train-the-model-what-my-first-_fbb8182b06.md",
+    "source": "devto",
+    "title": "Before You Train the Model: What My First ML Project Taught Me About Data Cleaning",
+    "url": "https://dev.to/weenaithdev/before-you-train-the-model-what-my-first-ml-project-taught-me-about-data-cleaning-16i3",
+    "keywords": [
+      "first ml project taught",
+      "first ml project taught",
+      "machine learning project",
+      "first data analytics",
+      "data cleaning",
+      "data cleaning",
+      "get straight",
+      "wanted",
+      "train",
+      "train"
+    ],
+    "summary": "# Before You Train the Model: What My First ML Project Taught Me About Data Cleaning > Source: devto | Category: news | 2026-07-26T12:43:58Z When I started my first data analytics and machine learning project, I wanted to get straight to the..."
+  },
+  "e61f48f74f656ef1": {
+    "file": "corpus/devto/dev_to_aayush-bharadva_our-incident-response-agent-got-the-r_f7ccef360c.md",
+    "source": "devto",
+    "title": "Our incident-response agent got the root cause wrong 7 times out of 12. It still never made a bad rollback.",
+    "url": "https://dev.to/aayush-bharadva/our-incident-response-agent-got-the-root-cause-wrong-7-times-out-of-12-it-still-never-made-a-bad-42ao",
+    "keywords": [
+      "12 seeded production incidents",
+      "still never made",
+      "still never made",
+      "response agent got",
+      "response agent got",
+      "ran agent k",
+      "bad rollback",
+      "bad rollback"
+    ],
+    "summary": "# Our incident-response agent got the root cause wrong 7 times out of 12. We ran Agent K against 12 seeded production incidents. It named the correct root cause 5 times out of..."
+  },
+  "6d8c40b1cea42d6d": {
+    "file": "corpus/devto/dev_to_yureki_lab_how-i-stopped-my-ai-agent-from-doing-the-s_522c7fb305.md",
+    "source": "devto",
+    "title": "How I Stopped My AI Agent From Doing the Same Thing Twice After a Crash",
+    "url": "https://dev.to/yureki_lab/how-i-stopped-my-ai-agent-from-doing-the-same-thing-twice-after-a-crash-3bi3",
+    "keywords": [
+      "pull request three times",
+      "autonomous coding agent",
+      "ai agent",
+      "ai agent",
+      "thing twice",
+      "thing twice",
+      "54z tl",
+      "stopped",
+      "stopped",
+      "source"
+    ],
+    "summary": "# How I Stopped My AI Agent From Doing the Same Thing Twice After a Crash > Source: devto | Category: news | 2026-07-26T12:43:54Z TL;DR   My autonomous coding agent once opened the same pull request three times because it..."
+  },
+  "4e4f8ade9344c8f2": {
+    "file": "corpus/devto/dev_to_ajhydra_why-i-built-a-trust-control-plane-for-ai-inst_7db8bf7057.md",
+    "source": "devto",
+    "title": "Why I built a Trust Control Plane for AI instead of another cost router",
+    "url": "https://dev.to/ajhydra/why-i-built-a-trust-control-plane-for-ai-instead-of-another-cost-router-1bc5",
+    "keywords": [
+      "59z every ai router",
+      "trust control plane",
+      "trust control plane",
+      "none could answer",
+      "another cost router",
+      "another cost router",
+      "ai instead",
+      "ai instead",
+      "tried optimized",
+      "one thing"
+    ],
+    "summary": "# Why I built a Trust Control Plane for AI instead of another cost router Every AI router I tried optimized for one thing: cost. None could answer the question I actually..."
+  },
+  "cc542ee01ad797d4": {
+    "file": "corpus/devto/dev_to_timexingxin_building-a-desktop-client-for-an-ai-codin_08fd195ab7.md",
+    "source": "devto",
+    "title": "Building a desktop client for an AI coding agent",
+    "url": "https://dev.to/timexingxin/building-a-desktop-client-for-an-ai-coding-agent-147n",
+    "keywords": [
+      "ai coding agent",
+      "ai coding agent",
+      "wrapping grok",
+      "picked tauri",
+      "desktop client",
+      "desktop client",
+      "build —",
+      "59z lessons",
+      "traps",
+      "source"
+    ],
+    "summary": "# Building a desktop client for an AI coding agent > Source: devto | Category: news | 2026-07-26T12:43:59Z Lessons from wrapping grok-build — the architecture, the traps, and why we picked Tauri over..."
+  },
+  "2c0b0c0b99de0b33": {
+    "file": "corpus/devto/dev_to_a7mad1112_the-javascript-event-loop-from-what-to-oh-n_23209638c1.md",
+    "source": "devto",
+    "title": "🔄 The JavaScript Event Loop: From 'What?' to 'Oh, NOW I Get It!' (A Deep Dive)",
+    "url": "https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2",
+    "keywords": [
+      "javascript — finally explained",
+      "javascript event loop",
+      "javascript event loop",
+      "zero ...",
+      "misunderstood part",
+      "deep dive",
+      "deep dive",
+      "source"
+    ],
+    "summary": "# 🔄 The JavaScript Event Loop: From \"What?\" to \"Oh, NOW I Get It!\" The most misunderstood part of JavaScript — finally explained with analogies, diagrams, and zero..."
+  },
+  "e41c13dbc43705bd": {
+    "file": "corpus/devto/dev_to_happybug_system-design-the-agentic-way-phase-3-data-s_efbf030648.md",
+    "source": "devto",
+    "title": "System Design the Agentic Way — Phase 3: Data Storage Trade-offs",
+    "url": "https://dev.to/happybug/system-design-the-agentic-way-phase-3-data-storage-trade-offs-2ob7",
+    "keywords": [
+      "offs phase 2 leaned",
+      "58z phase 3",
+      "data storage trade",
+      "data storage trade",
+      "data storage trade",
+      "system design",
+      "system design",
+      "shared store",
+      "durability ...",
+      "offs"
+    ],
+    "summary": "# System Design the Agentic Way — Phase 3: Data Storage Trade-offs > Source: devto | Category: news | 2026-07-26T12:43:58Z Phase 3: Data Storage Trade-offs   Phase 2 leaned on a shared store and waved at durability..."
+  },
+  "d6c4972bab8b1a3a": {
+    "file": "corpus/devto/dev_to_r9v_your-asyncio-task-can-be-garbage-collected-mid-fl_6aa6d0458c.md",
+    "source": "devto",
+    "title": "Your asyncio task can be garbage-collected mid-flight",
+    "url": "https://dev.to/r9v/your-asyncio-task-can-be-garbage-collected-mid-flight-3kg1",
+    "keywords": [
+      "python services",
+      "collected mid",
+      "collected mid",
+      "asyncio task",
+      "asyncio task",
+      "source",
+      "ships",
+      "reactions",
+      "news",
+      "lot"
+    ],
+    "summary": "# Your asyncio task can be garbage-collected mid-flight > Source: devto | Category: news | 2026-07-26T12:43:56Z Here's a line of code that ships in a lot of Python services:    @app.post(\"/orders\") async def..."
+  },
+  "c9de9f0a29e39c06": {
+    "file": "corpus/devto/dev_to_emmanuel_joshua_b3935fe49_we-asked-signoz-how-to-flag_9ccaf618e9.md",
+    "source": "devto",
+    "title": "We Asked SigNoz How to Flag a Hallucinating Agent. They Said 'We Haven't Figured That Out.' So We Did.",
+    "url": "https://dev.to/emmanuel_joshua_b3935fe49/we-asked-signoz-how-to-flag-a-hallucinating-agent-they-said-we-havent-figured-that-out-so-we-105c",
+    "keywords": [
+      "team thunderboltz · agents",
+      "hallucinating agent",
+      "hallucinating agent",
+      "asked signoz",
+      "asked signoz",
+      "agent observability",
+      "source",
+      "said",
+      "said",
+      "reactions"
+    ],
+    "summary": "# We Asked SigNoz How to Flag a Hallucinating Agent. They Said \"We Haven't Figured That Out.\" By Team ThunderBoltz · Agents of SigNoz Hackathon · Track 1: AI &amp; Agent Observability  In the..."
+  },
+  "a98140efd3728175": {
+    "file": "corpus/hackernews/code_claude_com_docs_en_data-usage_06b2864aaa.md",
+    "source": "hackernews",
+    "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+    "url": "https://code.claude.com/docs/en/data-usage",
+    "keywords": [
+      "claude code deletes",
+      "claude code deletes",
+      "context history",
+      "context history",
+      "48z score",
+      "30 days",
+      "30 days",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Claude Code Deletes Your Context History from Your Device After 30 Days > Source: hackernews | Category: news | 2026-07-26T12:43:48Z Score: 4 | Comments: 0"
+  },
+  "b9745306ea2e038f": {
+    "file": "corpus/hackernews/english_mapn_ro_39fb7bcc3b.md",
+    "source": "hackernews",
+    "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "url": "https://english.mapn.ro/",
+    "keywords": [
+      "third drone shot",
+      "third drone shot",
+      "three days",
+      "three days",
+      "romanian territory",
+      "romanian territory",
+      "47z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Third Drone Shot Down in Three Days in Romanian Territory > Source: hackernews | Category: news | 2026-07-26T12:43:47Z Score: 21 | Comments: 0"
+  },
+  "0ec4555b12ee774d": {
+    "file": "corpus/hackernews/freddiedeboer_substack_com_p_i-wouldnt-say-pangram-is-broken_695499aaf8.md",
+    "source": "hackernews",
+    "title": "I wouldn't say Pangram is broken, but I would say that it's brittle",
+    "url": "https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but",
+    "keywords": [
+      "note &# x2f",
+      "note &# x2f",
+      "would say",
+      "would say",
+      "say pangram",
+      "say pangram",
+      "50z score",
+      "3 response",
+      "297953357 </",
+      "297953357"
+    ],
+    "summary": "# I wouldn't say Pangram is broken, but I would say that it's brittle > Source: hackernews | Category: news | 2026-07-26T12:43:50Z Response: <a href=\"https:&#x2F;&#x2F;substack.com&#x2F;@maxspero&#x2F;note&#x2F;c-297953357\" rel=\"nofollow\">https:&#x2F;&#x2F;substack.com&#x2F;@maxspero&#x2F;note&#x2F;c-297953357</a>"
+  },
+  "1972cfc41ed3866b": {
+    "file": "corpus/hackernews/www_cnn_com_2026_07_26_world_live-news_france-spain-wildfire_206ce9b6d8.md",
+    "source": "hackernews",
+    "title": "France and Spain wildfires: more than 300k people displaced",
+    "url": "https://www.cnn.com/2026/07/26/world/live-news/france-spain-wildfires-evacuations",
+    "keywords": [
+      "300k people displaced",
+      "300k people displaced",
+      "spain wildfires",
+      "spain wildfires",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "france",
+      "france"
+    ],
+    "summary": "# France and Spain wildfires: more than 300k people displaced > Source: hackernews | Category: news | 2026-07-26T12:43:53Z Score: 17 | Comments: 0"
+  },
+  "ecf867c4605c76c8": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_anthropics-first-technical-pm-on_e3572eb9c5.md",
+    "source": "sales",
+    "title": "[lennys] Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+    "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+    "keywords": [
+      "made claude dominant",
+      "driven development loop",
+      "first technical pm",
+      "first technical pm",
+      "first technical pm",
+      "anthropic &# 8217",
+      "49z anthropic ’",
+      "dianne penn listen",
+      "first pm",
+      "anthropic ’"
+    ],
+    "summary": "# [lennys] Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved"
   }
 }
