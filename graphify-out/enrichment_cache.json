@@ -300795,5 +300795,269 @@
       "dear saastr"
     ],
     "summary": "Dear SaaStr:  How Do I Learn to Close Big Enterprise Deals … Better? Closing high-ticket enterprise deals is a different beast compared to SMB or mid-market sales. It requires patience, strategy, and a deep understanding of the enterprise buying process."
+  },
+  "e2bf6e9ab139b9dd": {
+    "file": "corpus/devto/dev_to_agentdev9_i-built-a-tool-to-prove-my-multi-agent-harn_bae6aebf48.md",
+    "source": "devto",
+    "title": "I built a tool to prove my multi-agent harness was worth it. It told me it wasn't.",
+    "url": "https://dev.to/agentdev9/i-built-a-tool-to-prove-my-multi-agent-harness-was-worth-it-it-told-me-it-wasnt-do",
+    "keywords": [
+      "idea everyone else",
+      "agentic systems",
+      "agent harness",
+      "agent harness",
+      "worth",
+      "worth",
+      "tool",
+      "tool",
+      "told",
+      "told"
+    ],
+    "summary": "# I built a tool to prove my multi-agent harness was worth it. > Source: devto | Category: news | 2026-07-26T11:40:41Z I spend most of my time on agentic systems, and I had absorbed the same idea everyone else has: a..."
+  },
+  "2ce7ef3e718bbc12": {
+    "file": "corpus/devto/dev_to_gyugyu86_no-backend-no-database-no-network-calls-i-st_954eea75c9.md",
+    "source": "devto",
+    "title": "No backend, no database, no network calls. I still found 3 security holes.",
+    "url": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
+    "keywords": [
+      "one index",
+      "network calls",
+      "network calls",
+      "network calls",
+      "html file",
+      "build step",
+      "source",
+      "server",
+      "reactions",
+      "news"
+    ],
+    "summary": "I still found 3 security holes. No network calls at all. One index.html file, no build step."
+  },
+  "d9e93efdb07a67c0": {
+    "file": "corpus/devto/dev_to_yuripeixinho_cluster-1-do-clean-code-1-consistencia-2_54c14a71fb.md",
+    "source": "devto",
+    "title": "Cluster 1 do Clean Code: #1 consistência, #2 nomes, #3 estilo, #4 métodos/classes/arquivos pequenos, #6 complexidade ciclomática",
+    "url": "https://dev.to/yuripeixinho/cluster-1-do-clean-code-1-consistencia-2-nomes-3-estilo-4-metodosclassesarquivos-2328",
+    "keywords": [
+      "6 complexidade ciclomática",
+      "6 complexidade ciclomática",
+      "recomendo ler",
+      "clean code",
+      "clean code",
+      "artigo ...",
+      "arquivos pequenos",
+      "arquivos pequenos",
+      "4 métodos",
+      "4 métodos"
+    ],
+    "summary": "# Cluster 1 do Clean Code: #1 consistência, #2 nomes, #3 estilo, #4 métodos/classes/arquivos pequenos, #6 complexidade ciclomática > Source: devto | Category: news | 2026-07-26T11:40:41Z Introdução   Esse é um material que depende de leitura anterior."
+  },
+  "e276a00921beaea6": {
+    "file": "corpus/devto/dev_to_ssukhpinder_one-taskrun-quietly-killed-the-background_8a3f6f0677.md",
+    "source": "devto",
+    "title": "One Task.Run Quietly Killed the BackgroundService Startup Footgun",
+    "url": "https://dev.to/ssukhpinder/one-taskrun-quietly-killed-the-backgroundservice-startup-footgun-4b70",
+    "keywords": [
+      "run quietly killed",
+      "run quietly killed",
+      "line runtime change",
+      "backgroundservice startup footgun",
+      "backgroundservice startup footgun",
+      "8 vs 10",
+      "net 10",
+      "kestrel bug",
+      "classic synchronous",
+      "one task"
+    ],
+    "summary": "# One Task.Run Quietly Killed the BackgroundService Startup Footgun The classic synchronous-warmup-blocks-Kestrel bug does not reproduce on .NET 10. Measured on 8 vs 10, plus the one-line runtime change and what still blocks."
+  },
+  "2af7c1e9b4bfadb1": {
+    "file": "corpus/devto/dev_to_saurav_bhattacharya_right-tool-wrong-arguments-the-ag_b00a6c3753.md",
+    "source": "devto",
+    "title": "Right Tool, Wrong Arguments: The Agent Failure Your Evals Wave Through",
+    "url": "https://dev.to/saurav_bhattacharya/right-tool-wrong-arguments-the-agent-failure-your-evals-wave-through-2lf0",
+    "keywords": [
+      "wrong arguments",
+      "wrong arguments",
+      "user asked",
+      "right tool",
+      "right tool",
+      "evals wave",
+      "evals wave",
+      "correct tool",
+      "agent picked",
+      "agent failure"
+    ],
+    "summary": "# Right Tool, Wrong Arguments: The Agent Failure Your Evals Wave Through Your agent picked the correct tool. It routed to refund_order when the user asked for a refund."
+  },
+  "aecc79d399dadaeb": {
+    "file": "corpus/devto/dev_to_zuidaima_what-14-years-of-a-code-download-site-taught_3968422268.md",
+    "source": "devto",
+    "title": "What 14 Years of a Code-Download Site Taught Us About Demand in the AI Era",
+    "url": "https://dev.to/zuidaima/what-14-years-of-a-code-download-site-taught-us-about-demand-in-the-ai-era-1al0",
+    "keywords": [
+      "download site taught us",
+      "download site taught us",
+      "run zuidaima (“",
+      "code sharing site",
+      "peak ...",
+      "ai era",
+      "ai era",
+      "14 years",
+      "14 years",
+      "code ”),"
+    ],
+    "summary": "# What 14 Years of a Code-Download Site Taught Us About Demand in the AI Era > Source: devto | Category: news | 2026-07-26T11:40:44Z I run Zuidaima (“Most Code”), a Chinese source-code sharing site that launched in 2012."
+  },
+  "ea04390bfa17866c": {
+    "file": "corpus/devto/dev_to_digital_web_16-states-16-tax-rates-modeling-german-pr_61854c30ef.md",
+    "source": "devto",
+    "title": "16 states, 16 tax rates: modeling German property transfer tax without hardcoding a mess",
+    "url": "https://dev.to/digital_web/16-states-16-tax-rates-modeling-german-property-transfer-tax-without-hardcoding-a-mess-1jjc",
+    "keywords": [
+      "16 tax rates",
+      "16 tax rates",
+      "16 states",
+      "16 states",
+      "meet grunderwerbsteuer",
+      "source",
+      "reactions",
+      "news",
+      "mess",
+      "mess"
+    ],
+    "summary": "# 16 states, 16 tax rates: modeling German property transfer tax without hardcoding a mess > Source: devto | Category: news | 2026-07-26T11:40:42Z If you ever build anything touching German real estate, you will meet Grunderwerbsteuer."
+  },
+  "217ea3c03149c279": {
+    "file": "corpus/devto/dev_to_yogesh-salunke_software-development-challenges-eating_1ef805d8d7.md",
+    "source": "devto",
+    "title": "Software Development: Challenges Eating More Energy Than Actual Real Work Productivity",
+    "url": "https://dev.to/yogesh-salunke/software-development-challenges-eating-more-energy-than-actual-real-work-productivity-27fg",
+    "keywords": [
+      "actual real work productivity",
+      "actual real work productivity",
+      "software development",
+      "software development",
+      "software ...",
+      "people imagine",
+      "daily battle",
+      "challenges eating",
+      "challenges eating",
+      "source"
+    ],
+    "summary": "# Software Development: Challenges Eating More Energy Than Actual Real Work Productivity > Source: devto | Category: news | 2026-07-26T11:40:43Z A Developer's Daily Battle Is Not Always with Code   When people imagine a software..."
+  },
+  "241d1662ee5f3f6d": {
+    "file": "corpus/devto/dev_to_towernter_what-you-can-do-with-c-2i68_64ea30c9f5.md",
+    "source": "devto",
+    "title": "What You Can Do With C#",
+    "url": "https://dev.to/towernter/what-you-can-do-with-c-2i68",
+    "keywords": [
+      "within four minutes",
+      "telling ...",
+      "41z let",
+      "way",
+      "source",
+      "reactions",
+      "news",
+      "joke",
+      "hear",
+      "going"
+    ],
+    "summary": "# What You Can Do With C# > Source: devto | Category: news | 2026-07-26T11:40:41Z Let's get the joke out of the way, because you're going to hear it within four minutes of telling..."
+  },
+  "0ba2341dca2f64a9": {
+    "file": "corpus/hackernews/www_lesswrong_com_posts_jMEAG5c5HiDfdAGpa_an-openai-model-le_c259b2f9d4.md",
+    "source": "hackernews",
+    "title": "An OpenAI model left notes about how to evade containment; we need more details",
+    "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+    "keywords": [
+      "openai model left notes",
+      "openai model left notes",
+      "evade containment",
+      "evade containment",
+      "39z score",
+      "source",
+      "news",
+      "need",
+      "need",
+      "hackernews"
+    ],
+    "summary": "# An OpenAI model left notes about how to evade containment; we need more details > Source: hackernews | Category: news | 2026-07-26T11:40:39Z Score: 5 | Comments: 0"
+  },
+  "3b7deb4e504dd40b": {
+    "file": "corpus/hackernews/old_reddit_com_r_ClaudeCode_comments_1v6y5q2_claude_code_has_6c8aa2d246.md",
+    "source": "hackernews",
+    "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+    "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+    "keywords": [
+      "use subagents",
+      "use subagents",
+      "claude code",
+      "claude code",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Claude Code has a hardcoded instruction telling Opus 5 not to use subagents > Source: hackernews | Category: news | 2026-07-26T11:40:40Z Score: 14 | Comments: 6"
+  },
+  "3abd40bea9077755": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_German_Peasants_27_War_7a5670bce5.md",
+    "source": "hackernews",
+    "title": "German Peasants' War",
+    "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+    "keywords": [
+      "german peasants",
+      "german peasants",
+      "36z score",
+      "war",
+      "war",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# German Peasants' War > Source: hackernews | Category: news | 2026-07-26T11:40:36Z Score: 9 | Comments: 7"
+  },
+  "73c730cb3a1752fe": {
+    "file": "corpus/hackernews/etbe_coker_com_au_2026_07_24_systemd-linger_32cf75d2f8.md",
+    "source": "hackernews",
+    "title": "Systemd Linger",
+    "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+    "keywords": [
+      "systemd linger",
+      "systemd linger",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Systemd Linger > Source: hackernews | Category: news | 2026-07-26T11:40:37Z Score: 4 | Comments: 0"
+  },
+  "df8ca32f0184b4bf": {
+    "file": "corpus/hackernews/status_claude_com_incidents_zftg3gqkmv18_cff80b044b.md",
+    "source": "hackernews",
+    "title": "Elevated Errors for Opus 5",
+    "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+    "keywords": [
+      "opus 5",
+      "opus 5",
+      "elevated errors",
+      "elevated errors",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Elevated Errors for Opus 5 > Source: hackernews | Category: news | 2026-07-26T11:40:35Z Score: 37 | Comments: 35"
   }
 }
