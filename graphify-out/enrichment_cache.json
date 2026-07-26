@@ -300022,5 +300022,480 @@
       "26t06"
     ],
     "summary": "# Retry Storm Lab > Source: hackernews | Category: news | 2026-07-26T06:26:12Z Score: 5 | Comments: 0"
+  },
+  "25c500219a90de29": {
+    "file": "corpus/devto/dev_to_andersonasprilla_i-built-a-production-ai-agent-as-a-h_736c33f203.md",
+    "source": "devto",
+    "title": "I built a production AI agent as a Honda service advisor. Then I read the textbook.",
+    "url": "https://dev.to/andersonasprilla/i-built-a-production-ai-agent-as-a-honda-service-advisor-then-i-read-the-textbook-a72",
+    "keywords": [
+      "real customers taught",
+      "honda service advisor",
+      "honda service advisor",
+      "hard way —",
+      "production ai agent",
+      "production ai agent",
+      "one big thing",
+      "read ai engineering",
+      "llm agent",
+      "one rule"
+    ],
+    "summary": "Then I read the textbook. Shipping an LLM agent to real customers taught me one rule the hard way — the model classifies, code guarantees. Then I read AI Engineering and found out half of what I'd built already had names, and one big thing was missing."
+  },
+  "c840607f8b4d5b83": {
+    "file": "corpus/devto/dev_to_instanceofgod_tls-and-mtls-for-infra-services-a-produ_9c7d009bd1.md",
+    "source": "devto",
+    "title": "TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups",
+    "url": "https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g",
+    "keywords": [
+      "production deep dive",
+      "production deep dive",
+      "solo devs",
+      "solo devs",
+      "small startups",
+      "small startups",
+      "security paper",
+      "infra services",
+      "infra services",
+      "cost problem"
+    ],
+    "summary": "# TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups > Source: devto | Category: news | 2026-07-26T08:43:37Z Why this exists   This started as a cost problem, not a security paper."
+  },
+  "ce09c4794a05cb9f": {
+    "file": "corpus/devto/dev_to_hardil_singh_08a1f0abf23d_the-auth-pattern-i-copy-int_b62cba1f74.md",
+    "source": "devto",
+    "title": "The Auth Pattern I Copy Into Every New Project Now",
+    "url": "https://dev.to/hardil_singh_08a1f0abf23d/the-auth-pattern-i-copy-into-every-new-project-now-2p9d",
+    "keywords": [
+      "stopped deciding auth architecture",
+      "every new project",
+      "every new project",
+      "every new project",
+      "auth pattern",
+      "auth pattern",
+      "enough rounds",
+      "source",
+      "scratch",
+      "reactions"
+    ],
+    "summary": "# The Auth Pattern I Copy Into Every New Project Now I stopped deciding auth architecture from scratch on every new project. After enough rounds of the..."
+  },
+  "e2821ecbefa6746d": {
+    "file": "corpus/devto/dev_to_chillipeeper1_i-built-an-ml-tool-to-catch-technical-d_691dd20e9a.md",
+    "source": "devto",
+    "title": "I built an ML tool to catch technical debt. It immediately learned the wrong lesson.",
+    "url": "https://dev.to/chillipeeper1/i-built-an-ml-tool-to-catch-technical-debt-it-immediately-learned-the-wrong-lesson-3jc8",
+    "keywords": [
+      "source random forest model",
+      "python repo ...",
+      "catch technical debt",
+      "catch technical debt",
+      "built techdebt ml",
+      "ml tool",
+      "ml tool",
+      "wrong lesson",
+      "wrong lesson",
+      "immediately learned"
+    ],
+    "summary": "# I built an ML tool to catch technical debt. It immediately learned the wrong lesson. I built TechDebt ML, an open-source Random Forest model that predicts which files in a Python repo..."
+  },
+  "fb36b496a68f6f7a": {
+    "file": "corpus/devto/dev_to_ssukhpinder_your-json-array-was-streaming-all-along-1_0cb7347766.md",
+    "source": "devto",
+    "title": "Your JSON Array Was Streaming All Along",
+    "url": "https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j",
+    "keywords": [
+      "sent events actually fit",
+      "net 10 native server",
+      "stopwatch showed instead",
+      "catch iasyncenumerable buffering",
+      "json response",
+      "json array",
+      "json array",
+      "tried",
+      "streaming",
+      "streaming"
+    ],
+    "summary": "# Your JSON Array Was Streaming All Along I tried to catch IAsyncEnumerable buffering a JSON response and lost. What the stopwatch showed instead, and where .NET 10 native server-sent events actually fit."
+  },
+  "c9bb9e5911355579": {
+    "file": "corpus/devto/dev_to_silentcarry_teaching-my-backend-to-lock-the-door-fast_acb1b228a2.md",
+    "source": "devto",
+    "title": "Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3",
+    "url": "https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o",
+    "keywords": [
+      "door — fastapi auth",
+      "door — fastapi auth",
+      "read someone else",
+      "make absolutely sure",
+      "phase 3",
+      "phase 3",
+      "36z hash",
+      "token",
+      "teaching",
+      "teaching"
+    ],
+    "summary": "# Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3 > Source: devto | Category: news | 2026-07-26T08:43:36Z Hash the password, hand out a token, and make absolutely sure no one can read someone else's..."
+  },
+  "2409b091d3dc0e34": {
+    "file": "corpus/devto/dev_to_ryuya_your-build-target-is-not-an-api-contract-enforc_c710295f98.md",
+    "source": "devto",
+    "title": "Your Build Target Is Not an API Contract: Enforcing Baseline with TypeScript",
+    "url": "https://dev.to/ryuya/your-build-target-is-not-an-api-contract-enforcing-baseline-with-typescript-epn",
+    "keywords": [
+      "default production build target",
+      "36z vite 7",
+      "build target",
+      "build target",
+      "enforcing baseline",
+      "enforcing baseline",
+      "api contract",
+      "api contract",
+      "typescript",
+      "typescript"
+    ],
+    "summary": "# Your Build Target Is Not an API Contract: Enforcing Baseline with TypeScript > Source: devto | Category: news | 2026-07-26T08:43:36Z Vite 7 and later use Baseline Widely Available as the default production build target."
+  },
+  "3082bdd92655ab4f": {
+    "file": "corpus/devto/dev_to_omegatech_simulating-50000-e-commerce-sessions-with-m_2d4de51598.md",
+    "source": "devto",
+    "title": "Simulating 50,000 e-commerce sessions with multi-agent RL: what worked, what didn't, and why I shipped the failure",
+    "url": "https://dev.to/omegatech/simulating-50000-e-commerce-sessions-with-multi-agent-rl-what-worked-what-didnt-and-why-i-2438",
+    "keywords": [
+      "learned policy —",
+      "simulating 50",
+      "simulating 50",
+      "commerce sessions",
+      "commerce sessions",
+      "commerce ...",
+      "agent rl",
+      "agent rl",
+      "000 e",
+      "000 e"
+    ],
+    "summary": "# Simulating 50,000 e-commerce sessions with multi-agent RL: what worked, what didn't, and why I shipped the failure > Source: devto | Category: news | 2026-07-26T08:43:36Z I wanted to see if a learned policy — not scripted behavior — could produce realistic e-commerce..."
+  },
+  "1cecb4be387152c0": {
+    "file": "corpus/devto/dev_to_shuki_vaknin_litespeed-vs-nginx-for-wordpress-3-month_cffafbb753.md",
+    "source": "devto",
+    "title": "LiteSpeed vs Nginx for WordPress: 3 months of production benchmarks",
+    "url": "https://dev.to/shuki_vaknin/litespeed-vs-nginx-for-wordpress-3-months-of-production-benchmarks-46ab",
+    "keywords": [
+      "identical vps instances ...",
+      "dr ran litespeed enterprise",
+      "litespeed vs nginx",
+      "litespeed vs nginx",
+      "nginx side",
+      "production benchmarks",
+      "production benchmarks",
+      "37z tl",
+      "3 months",
+      "3 months"
+    ],
+    "summary": "# LiteSpeed vs Nginx for WordPress: 3 months of production benchmarks > Source: devto | Category: news | 2026-07-26T08:43:37Z TL;DR   Ran LiteSpeed Enterprise (LSWS) and Nginx side-by-side on identical VPS instances..."
+  },
+  "f730df7640d34679": {
+    "file": "corpus/devto/dev_to_yuhaolin2005_i-discovered-ai-agents-cant-self-verify-_2df2d67148.md",
+    "source": "devto",
+    "title": "I Discovered AI Agents Can't Self-Verify. The Real Problem Is Much Bigger.",
+    "url": "https://dev.to/yuhaolin2005/i-discovered-ai-agents-cant-self-verify-the-real-problem-is-much-bigger-2jb6",
+    "keywords": [
+      "discovered ai agents",
+      "discovered ai agents",
+      "discovered ai agents",
+      "real problem",
+      "real problem",
+      "real problem",
+      "much bigger",
+      "much bigger",
+      "much bigger",
+      "verify"
+    ],
+    "summary": "# I Discovered AI Agents Can't Self-Verify. The Real Problem Is Much Bigger. I Discovered AI Agents Can't Self-Verify."
+  },
+  "60551f23b71f72d5": {
+    "file": "corpus/devto/dev_to_alex_nguyen_how-i-built-a-free-image-downloader-colle_18e13fa733.md",
+    "source": "devto",
+    "title": "How I Built a Free Image Downloader & Collector Extension for Designers & Graphic Apparel Creators",
+    "url": "https://dev.to/alex_nguyen/how-i-built-a-free-image-downloader-collector-extension-for-designers-graphic-apparel-creators-39li",
+    "keywords": [
+      "graphic apparel design",
+      "graphic apparel creators",
+      "graphic apparel creators",
+      "free image downloader",
+      "free image downloader",
+      "constantly find ...",
+      "creator involved",
+      "collector extension",
+      "collector extension",
+      "want"
+    ],
+    "summary": "# How I Built a Free Image Downloader & Collector Extension for Designers & Graphic Apparel Creators > Source: devto | Category: news | 2026-07-26T08:43:36Z As a developer and creator involved in graphic apparel design at Tshirts I Want, I constantly find..."
+  },
+  "b59e019eece9ef92": {
+    "file": "corpus/devto/dev_to_cherimedz_i-trained-a-64m-parameter-transformer-from-_f2ce3b5ee1.md",
+    "source": "devto",
+    "title": "I Trained a 6.4M-Parameter Transformer From Scratch to Talk About Recipes",
+    "url": "https://dev.to/cherimedz/i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes-2b6",
+    "keywords": [
+      "pun intended ): call",
+      "36z every llm",
+      "powered app",
+      "point followed",
+      "parameter transformer",
+      "parameter transformer",
+      "trained",
+      "trained",
+      "talk",
+      "talk"
+    ],
+    "summary": "# I Trained a 6.4M-Parameter Transformer From Scratch to Talk About Recipes > Source: devto | Category: news | 2026-07-26T08:43:36Z Every LLM-powered app I'd built up to this point followed the same recipe (pun intended): call an..."
+  },
+  "7c77e4c1b6dc7e1e": {
+    "file": "corpus/devto/dev_to_abhijat_chaturvedi_the-two-map-party-game-server-buil_a03e1229bc.md",
+    "source": "devto",
+    "title": "The Two-Map Party Game Server: Building GameNight Without a Database",
+    "url": "https://dev.to/abhijat_chaturvedi/the-two-map-party-game-server-building-gamenight-without-a-database-4phb",
+    "keywords": [
+      "map party game server",
+      "map party game server",
+      "building gamenight without",
+      "building gamenight without",
+      "one wanted",
+      "lobby website",
+      "building",
+      "used",
+      "two",
+      "two"
+    ],
+    "summary": "# The Two-Map Party Game Server: Building GameNight Without a Database > Source: devto | Category: news | 2026-07-26T08:43:36Z Every party game app I'd used before building this one wanted an account, a lobby website, or a..."
+  },
+  "c058d9c90e9654d1": {
+    "file": "corpus/devto/dev_to_sowaiba01_i-opened-a-github-issue-and-four-ai-agents-_916a2c85cf.md",
+    "source": "devto",
+    "title": "I Opened a GitHub Issue and Four AI Agents Fixed It Without Me Touching a Single Line of Code",
+    "url": "https://dev.to/sowaiba01/i-opened-a-github-issue-and-four-ai-agents-fixed-it-without-me-touching-a-single-line-of-code-1pg5",
+    "keywords": [
+      "four ai agents fixed",
+      "four ai agents fixed",
+      "would ...",
+      "single line",
+      "single line",
+      "github issue",
+      "github issue",
+      "actually believe",
+      "without",
+      "without"
+    ],
+    "summary": "# I Opened a GitHub Issue and Four AI Agents Fixed It Without Me Touching a Single Line of Code I want to be honest with you. When I started this project I did not actually believe it would..."
+  },
+  "9607360f02273000": {
+    "file": "corpus/devto/dev_to_lewisywliu_best-ai-model-for-unreal-engine-in-2026-ki_1836fc0215.md",
+    "source": "devto",
+    "title": "Best AI Model for Unreal Engine in 2026? Kimi K3 vs Claude Opus 5 vs Qwen3.8",
+    "url": "https://dev.to/lewisywliu/best-ai-model-for-unreal-engine-in-2026-kimi-k3-vs-claude-opus-5-vs-qwen38-5025",
+    "keywords": [
+      "comparison separates vendor claims",
+      "general coding evidence ,...",
+      "35z evidence checked",
+      "best ai model",
+      "best ai model",
+      "unreal engine",
+      "unreal engine",
+      "july 25",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Best AI Model for Unreal Engine in 2026? Evidence checked on July 25, 2026. This comparison separates vendor claims, general coding evidence,..."
+  },
+  "24d522aac2d2d6ec": {
+    "file": "corpus/devto/dev_to_nishikantaray_running-hermes-agent-with-kokoro-tts-a-_47aed322c2.md",
+    "source": "devto",
+    "title": "Running Hermes Agent with Kokoro TTS: A Local-First AI Assistant Setup",
+    "url": "https://dev.to/nishikantaray/running-hermes-agent-with-kokoro-tts-a-local-first-ai-assistant-setup-523h",
+    "keywords": [
+      "first ai assistant setup",
+      "first ai assistant setup",
+      "running hermes agent",
+      "running hermes agent",
+      "kokoro tts",
+      "kokoro tts",
+      "cloud apis",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Running Hermes Agent with Kokoro TTS: A Local-First AI Assistant Setup Most AI agents today depend heavily on cloud APIs. They're fast, but every request costs money,..."
+  },
+  "c91a6c4fd9ece7e6": {
+    "file": "corpus/devto/dev_to_chenyuan20509_i-replaced-pytest-xdist-with-60-lines-o_6728347c06.md",
+    "source": "devto",
+    "title": "I Replaced pytest-xdist With 60 Lines of subprocess.Popen. Here's Why.",
+    "url": "https://dev.to/chenyuan20509/i-replaced-pytest-xdist-with-60-lines-of-subprocesspopen-heres-why-pfo",
+    "keywords": [
+      "test suite kept flaking",
+      "file state leakage",
+      "file subprocess runner",
+      "replaced pytest",
+      "replaced pytest",
+      "persistent workers",
+      "60 lines",
+      "60 lines",
+      "subprocess",
+      "subprocess"
+    ],
+    "summary": "# I Replaced pytest-xdist With 60 Lines of subprocess.Popen. Our test suite kept flaking from cross-file state leakage. Here's the per-file subprocess runner that fixed it."
+  },
+  "34b3747639c5da94": {
+    "file": "corpus/devto/dev_to_josaphatstar_i-built-a-local-rag-assistant-with-ollam_a8ae39e02f.md",
+    "source": "devto",
+    "title": "I Built a Local RAG Assistant with Ollama, ChromaDB and LangChain. Here's What I Learned",
+    "url": "https://dev.to/josaphatstar/i-built-a-local-rag-assistant-with-ollama-chromadb-and-langchain-heres-what-i-learned-5a2e",
+    "keywords": [
+      "fully local rag pipeline",
+      "local rag assistant",
+      "local rag assistant",
+      "technical support",
+      "honest walkthrough",
+      "worked",
+      "source",
+      "reactions",
+      "ollama",
+      "ollama"
+    ],
+    "summary": "# I Built a Local RAG Assistant with Ollama, ChromaDB and LangChain. Here's What I Learned A honest walkthrough of building a fully local RAG pipeline for technical support what worked, what broke, and how I fixed it."
+  },
+  "c1619802f3a49b4c": {
+    "file": "corpus/devto/dev_to_budiwidhiyanto_why-i-put-mirth-connect-in-front-of-fa_fab3b49ad3.md",
+    "source": "devto",
+    "title": "Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python",
+    "url": "https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3",
+    "keywords": [
+      "put mirth connect",
+      "put mirth connect",
+      "started building",
+      "parsing hl7",
+      "parsing hl7",
+      "maternity hl7",
+      "first instinct",
+      "fhir pipeline",
+      "fastapi instead",
+      "fastapi instead"
+    ],
+    "summary": "# Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python > Source: devto | Category: news | 2026-07-26T08:43:36Z When I started building my Maternity HL7-to-FHIR Pipeline, my first instinct was to do everything in..."
+  },
+  "cd33a6008a2fb3ac": {
+    "file": "corpus/hackernews/notes_hella_cheap_maybe-we-should-revisit-microkernels_html_b8e078db16.md",
+    "source": "hackernews",
+    "title": "Maybe we should revisit microkernels",
+    "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+    "keywords": [
+      "revisit microkernels",
+      "revisit microkernels",
+      "34z score",
+      "source",
+      "news",
+      "maybe",
+      "maybe",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Maybe we should revisit microkernels > Source: hackernews | Category: news | 2026-07-26T08:43:34Z Score: 6 | Comments: 3"
+  },
+  "6388e1df8b3a9d11": {
+    "file": "corpus/hackernews/chenchen_guru_blog_kimi-k3-first-impressions_e112b362a2.md",
+    "source": "hackernews",
+    "title": "Kimi K3 after a week of real project use: what works, what doesn't",
+    "url": "https://chenchen.guru/blog/kimi-k3-first-impressions/",
+    "keywords": [
+      "real project use",
+      "real project use",
+      "kimi k3",
+      "kimi k3",
+      "32z score",
+      "works",
+      "works",
+      "week",
+      "week",
+      "source"
+    ],
+    "summary": "# Kimi K3 after a week of real project use: what works, what doesn't > Source: hackernews | Category: news | 2026-07-26T08:43:32Z Score: 10 | Comments: 1"
+  },
+  "aaa8bcb0289f1202": {
+    "file": "corpus/hackernews/github_com_jdefrancesco_dskDitto_41b5b5e258.md",
+    "source": "hackernews",
+    "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+    "url": "https://github.com/jdefrancesco/dskDitto",
+    "keywords": [
+      "parallel duplicate",
+      "parallel duplicate",
+      "file detector",
+      "file detector",
+      "28z score",
+      "ultra",
+      "ultra",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# DskDitto: Ultra-fast, parallel duplicate-file detector > Source: hackernews | Category: news | 2026-07-26T08:43:28Z Score: 9 | Comments: 2"
+  },
+  "66e2f56ae89de777": {
+    "file": "corpus/hackernews/jvns_ca_blog_2026_07_21_more-nice-django-things_6f15f8e194.md",
+    "source": "hackernews",
+    "title": "Some more things about Django I've been enjoying",
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "keywords": [
+      "27z score",
+      "things",
+      "things",
+      "source",
+      "news",
+      "hackernews",
+      "enjoying",
+      "enjoying",
+      "django",
+      "django"
+    ],
+    "summary": "# Some more things about Django I've been enjoying > Source: hackernews | Category: news | 2026-07-26T08:43:27Z Score: 28 | Comments: 9"
+  },
+  "f1a8f07f11ea52b9": {
+    "file": "corpus/hackernews/github_com_YoshiMannaert_95CSS_8c19899e0b.md",
+    "source": "hackernews",
+    "title": "95CSS: A Windows 95-style CSS framework",
+    "url": "https://github.com/YoshiMannaert/95CSS",
+    "keywords": [
+      "style css framework",
+      "style css framework",
+      "windows 95",
+      "windows 95",
+      "33z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# 95CSS: A Windows 95-style CSS framework > Source: hackernews | Category: news | 2026-07-26T08:43:33Z Score: 6 | Comments: 1"
+  },
+  "dcbbe98a65763ff7": {
+    "file": "corpus/hackernews/discuss_grapheneos_org_d_40700-grapheneos-protections-agains_30f0000c07.md",
+    "source": "hackernews",
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "keywords": [
+      "locked devices",
+      "locked devices",
+      "grapheneos protections",
+      "grapheneos protections",
+      "data extraction",
+      "data extraction",
+      "27z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# GrapheneOS protections against data extraction from locked devices > Source: hackernews | Category: news | 2026-07-26T08:43:27Z Score: 21 | Comments: 3"
   }
 }
