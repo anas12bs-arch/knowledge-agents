@@ -302622,5 +302622,286 @@
       "55z ## crewaiinc"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-26T18:35:55Z ### Bug Fixes - Resolve registry skills through the runtime's CrewAI+ client - Recover from the GPT-5.6 tools + reasoning_effort 400 - Make tool calling work on the Responses API path - Route responses-only models instead of failing with 404 - Bump bedrock-agentcore to patch CVE-2026-16796 ### Documentation - Add snapshot and changelog for v1.15.7a1"
+  },
+  "fc622af1a9a93975": {
+    "file": "corpus/devto/dev_to_gde_building-ai-agents-with-the-python-agent-developm_c81bd9517b.md",
+    "source": "devto",
+    "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+    "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+    "keywords": [
+      "python agent development kit",
+      "python agent development kit",
+      "updated edition incorporates ...",
+      "building ai agents",
+      "building ai agents",
+      "— 2026 edition",
+      "— 2026 edition",
+      "2026 updates",
+      "50z summary",
+      "0 migration"
+    ],
+    "summary": "# Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2) > Source: devto | Category: news | 2026-07-26T19:46:50Z Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates..."
+  },
+  "5a1d70374966186c": {
+    "file": "corpus/devto/dev_to_fuzzykidoo_server-down-hai-try-later-whats-actually-h_dee942e2ec.md",
+    "source": "devto",
+    "title": "Server Down Hai, Try Later': What's Actually Happening When a Site Dies",
+    "url": "https://dev.to/fuzzykidoo/server-down-hai-try-later-whats-actually-happening-when-a-site-dies-5hjb",
+    "keywords": [
+      "try later .\"",
+      "try later ':",
+      "try later \":",
+      "site dies",
+      "site dies",
+      "iconic thing",
+      "doin '?",
+      "actually happening",
+      "actually happening",
+      "talk"
+    ],
+    "summary": "# \"Server Down Hai, Try Later\": What's Actually Happening When a Site Dies > Source: devto | Category: news | 2026-07-26T19:46:52Z Let's talk about the Iconic thing we heard a lot: \"server down, try later.\""
+  },
+  "dc3fcbb51435a068": {
+    "file": "corpus/devto/dev_to_shift2it_the-first-90-days-of-learning-it-7mf_448aa85ef7.md",
+    "source": "devto",
+    "title": "The First 90 Days of Learning IT",
+    "url": "https://dev.to/shift2it/the-first-90-days-of-learning-it-7mf",
+    "keywords": [
+      "first 90 days",
+      "first 90 days",
+      "week structure",
+      "visible proof",
+      "turns enthusiasm",
+      "realistic 12",
+      "source",
+      "reactions",
+      "news",
+      "learning"
+    ],
+    "summary": "# The First 90 Days of Learning IT > Source: devto | Category: news | 2026-07-26T19:46:52Z A realistic 12-week structure that turns enthusiasm into visible proof."
+  },
+  "f2e0b6c393ffb113": {
+    "file": "corpus/devto/dev_to_onizuka_auto-locate-nearby-golf-courses-on-your-map-u_49d63cba40.md",
+    "source": "devto",
+    "title": "Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation",
+    "url": "https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5",
+    "keywords": [
+      "map using ip geolocation",
+      "map using ip geolocation",
+      "locate nearby golf courses",
+      "locate nearby golf courses",
+      "recent show ...",
+      "51z webdev",
+      "golf",
+      "geolocation",
+      "source",
+      "showhn"
+    ],
+    "summary": "# Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation > Source: devto | Category: news | 2026-07-26T19:46:51Z webdev #python #javascript #maps #api #geolocation #golf #rapidapi #showhn   A recent Show..."
+  },
+  "74cf3c73be8e4421": {
+    "file": "corpus/devto/dev_to_tonytonycoder11_we-built-the-benchmark-wed-want-any-a_618b9da223.md",
+    "source": "devto",
+    "title": "We built the benchmark we'd want any AI estimation vendor to pass. Then we failed it.",
+    "url": "https://dev.to/tonytonycoder11/we-built-the-benchmark-wed-want-any-ai-estimation-vendor-to-pass-then-we-failed-it-43a5",
+    "keywords": [
+      "54z nine public datasets",
+      "stop rule fixed",
+      "model class clears",
+      "ai estimation vendor",
+      "ai estimation vendor",
+      "thresholds pre",
+      "negative result",
+      "every run",
+      "want",
+      "want"
+    ],
+    "summary": "# We built the benchmark we'd want any AI estimation vendor to pass. Nine public datasets, thresholds pre-registered in git before every run, and a stop rule fixed in advance. No model class clears the bar."
+  },
+  "ecd840cd86eed993": {
+    "file": "corpus/devto/dev_to_pavelespitia_streaming-long-ai-jobs-to-the-browser-ss_a97d4f1e71.md",
+    "source": "devto",
+    "title": "Streaming Long AI Jobs to the Browser: SSE Patterns From Building an Audit Tool",
+    "url": "https://dev.to/pavelespitia/streaming-long-ai-jobs-to-the-browser-sse-patterns-from-building-an-audit-tool-2lc8",
+    "keywords": [
+      "streaming long ai jobs",
+      "streaming long ai jobs",
+      "ai web frontend",
+      "sse patterns",
+      "sse patterns",
+      "first version",
+      "audit tool",
+      "audit tool",
+      "spinner ...",
+      "spinner"
+    ],
+    "summary": "# Streaming Long AI Jobs to the Browser: SSE Patterns From Building an Audit Tool The first version of the spectr-ai web frontend had a spinner. You uploaded a contract, the spinner..."
+  },
+  "4d7b53dc101c34ff": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_26_funniest-most-insightful-comment_1a6c9f9800.md",
+    "source": "legal",
+    "title": "[techdirt] Funniest/Most Insightful Comments Of The Week At Techdirt",
+    "url": "https://www.techdirt.com/2026/07/26/funniest-most-insightful-comments-of-the-week-at-techdirt-218/",
+    "keywords": [
+      "bystander recordings exposed",
+      "attempted murder charges",
+      "[&# 8230 ;]",
+      "law enforcement officers",
+      "insightful side come",
+      "ice officers",
+      "insightful comments",
+      "insightful comments",
+      "insightful comments",
+      "top comments"
+    ],
+    "summary": "Funniest/Most Insightful Comments Of The Week At Techdirt This week, both top comments on the insightful side come in response to our post about the attempted murder charges that were dropped after bystander recordings exposed the lies of ICE officers. First, it&#8217;s Citizen with a reminder that the word of law enforcement officers shouldn&#8217;t be trusted: In second place, it&#8217;s Pixelation with a [&#8230;]"
+  },
+  "994c12e5186bd980": {
+    "file": "corpus/hackernews/blog_playcanvas_com_building-the-grace-cathedral-experience_4a055edaf2.md",
+    "source": "hackernews",
+    "title": "Building the Grace Cathedral Experience",
+    "url": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
+    "keywords": [
+      "grace cathedral experience",
+      "grace cathedral experience",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "building",
+      "building"
+    ],
+    "summary": "# Building the Grace Cathedral Experience > Source: hackernews | Category: news | 2026-07-26T19:46:44Z Score: 7 | Comments: 0"
+  },
+  "afe72a4db8f75102": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_zDtvrme-L-0_b30c71b58f.md",
+    "source": "hackernews",
+    "title": "OpenAI: A Bubble Bigger Than Dotcom",
+    "url": "https://www.youtube.com/watch?v=zDtvrme-L-0",
+    "keywords": [
+      "bubble bigger",
+      "bubble bigger",
+      "48z score",
+      "source",
+      "openai",
+      "openai",
+      "news",
+      "hackernews",
+      "dotcom",
+      "dotcom"
+    ],
+    "summary": "# OpenAI: A Bubble Bigger Than Dotcom > Source: hackernews | Category: news | 2026-07-26T19:46:48Z Score: 6 | Comments: 1"
+  },
+  "6dd9d29148af2df1": {
+    "file": "corpus/hackernews/www_gamedevs_org_uploads_introduction-to-data-oriented-desig_998127663a.md",
+    "source": "hackernews",
+    "title": "Introduction to Data-Oriented Design [pdf]",
+    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "keywords": [
+      "oriented design",
+      "oriented design",
+      "43z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "introduction",
+      "introduction",
+      "hackernews"
+    ],
+    "summary": "# Introduction to Data-Oriented Design [pdf] > Source: hackernews | Category: news | 2026-07-26T19:46:43Z Score: 18 | Comments: 4"
+  },
+  "ab8a797feef1416c": {
+    "file": "corpus/hackernews/github_com_hertz-ai_HARTOS_6b8f71f504.md",
+    "source": "hackernews",
+    "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+    "url": "https://github.com/hertz-ai/HARTOS",
+    "keywords": [
+      "source ai os built",
+      "source ai os built",
+      "hart os –",
+      "hart os –",
+      "frontier ai needs",
+      "frontier ai needs",
+      "show hn",
+      "show hn",
+      "44z score",
+      "source"
+    ],
+    "summary": "# Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter > Source: hackernews | Category: news | 2026-07-26T19:46:44Z Score: 7 | Comments: 1"
+  },
+  "4b784b2ff2ae2f40": {
+    "file": "corpus/hackernews/www_theclimatebrink_com_p_the-strongest-el-nino-ever_c305774920.md",
+    "source": "hackernews",
+    "title": "The Strongest El Niño Ever",
+    "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+    "keywords": [
+      "strongest el niño ever",
+      "strongest el niño ever",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Strongest El Niño Ever > Source: hackernews | Category: news | 2026-07-26T19:46:44Z Score: 101 | Comments: 42"
+  },
+  "20e02a2d094b8e65": {
+    "file": "corpus/hackernews/nochan_net_b_Internet-Crap_20260606-How-To-Block-Some-Of-The_4c1b6ef7fa.md",
+    "source": "hackernews",
+    "title": "How to Block Some of the Bots",
+    "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+    "keywords": [
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "bots",
+      "bots",
+      "block",
+      "block"
+    ],
+    "summary": "# How to Block Some of the Bots > Source: hackernews | Category: news | 2026-07-26T19:46:44Z Score: 13 | Comments: 10"
+  },
+  "2f53aadede3ce64e": {
+    "file": "corpus/hackernews/grego_site_blog_thinkphone_baaca6b054.md",
+    "source": "hackernews",
+    "title": "Using ThinkPad T480 as a mobile phone",
+    "url": "https://grego.site/blog/thinkphone",
+    "keywords": [
+      "using thinkpad t480",
+      "using thinkpad t480",
+      "mobile phone",
+      "mobile phone",
+      "46z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Using ThinkPad T480 as a mobile phone > Source: hackernews | Category: news | 2026-07-26T19:46:46Z Score: 26 | Comments: 9"
+  },
+  "7d0e7215e10fac8e": {
+    "file": "corpus/hackernews/beyondloom_com_decker_122c0228a4.md",
+    "source": "hackernews",
+    "title": "Decker",
+    "url": "https://beyondloom.com/decker/",
+    "keywords": [
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "decker",
+      "decker",
+      "comments",
+      "category"
+    ],
+    "summary": "# Decker > Source: hackernews | Category: news | 2026-07-26T19:46:42Z Score: 34 | Comments: 5"
   }
 }
