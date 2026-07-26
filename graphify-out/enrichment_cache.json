@@ -300497,5 +300497,303 @@
       "hackernews"
     ],
     "summary": "# GrapheneOS protections against data extraction from locked devices > Source: hackernews | Category: news | 2026-07-26T08:43:27Z Score: 21 | Comments: 3"
+  },
+  "6559be5d0c8e3eef": {
+    "file": "corpus/devto/dev_to_shweta_mishra_b3c97874de9_building-a-github-app-that-_90bb1de18b.md",
+    "source": "devto",
+    "title": "Building a GitHub App That Reviews Its Own Code: Lessons in Security Hardening",
+    "url": "https://dev.to/shweta_mishra_b3c97874de9/building-a-github-app-that-reviews-its-own-code-lessons-in-security-hardening-4ha7",
+    "keywords": [
+      "turned 27 silent failures",
+      "pushed test ...",
+      "security hardening",
+      "security hardening",
+      "logged ones",
+      "github app",
+      "github app",
+      "source",
+      "reviews",
+      "reviews"
+    ],
+    "summary": "# Building a GitHub App That Reviews Its Own Code: Lessons in Security Hardening > Source: devto | Category: news | 2026-07-26T10:22:43Z How I turned 27 silent failures into logged ones, closed three real attack surfaces, and pushed test..."
+  },
+  "d1a971b6329abc0a": {
+    "file": "corpus/devto/dev_to_parsajiravand_youre-watching-window-to-detect-element_2de49e9bb7.md",
+    "source": "devto",
+    "title": "You're watching `window` to detect element size changes. `ResizeObserver` watches the element itself.",
+    "url": "https://dev.to/parsajiravand/youre-watching-window-to-detect-element-size-changes-resizeobserver-watches-the-element-46dp",
+    "keywords": [
+      "something every frontend developer",
+      "detect element size changes",
+      "detect element size changes",
+      "element",
+      "element",
+      "written",
+      "window",
+      "window",
+      "window",
+      "watching"
+    ],
+    "summary": "# You're watching `window` to detect element size changes. `ResizeObserver` watches the element itself. Here is something every frontend developer has written:    window.addEventListener('resize', () =&gt;..."
+  },
+  "1c10c07f4e2199ca": {
+    "file": "corpus/devto/dev_to_sebastianvelezg_why-andres-and-i-started-developwave-_54c489966e.md",
+    "source": "devto",
+    "title": "Why Andrés and I Started Developwave",
+    "url": "https://dev.to/sebastianvelezg/why-andres-and-i-started-developwave-62h",
+    "keywords": [
+      "smart — plenty ...",
+      "started developwave",
+      "started developwave",
+      "group project",
+      "met andrés",
+      "andrés",
+      "andrés",
+      "stuck",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why Andrés and I Started Developwave > Source: devto | Category: news | 2026-07-26T10:22:44Z I met Andrés at EAFIT, in a group project, and what stuck with me wasn't that he was smart — plenty..."
+  },
+  "0b2329f80e239eb1": {
+    "file": "corpus/devto/dev_to_xulingfeng_18-stories-6-characters-18-to-go-a-half-ti_04e7ad98e6.md",
+    "source": "devto",
+    "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
+    "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
+    "keywords": [
+      "planned one —",
+      "go —",
+      "go —",
+      "time check",
+      "time check",
+      "last sunday",
+      "6 characters",
+      "6 characters",
+      "36 stratagems",
+      "36 stratagems"
+    ],
+    "summary": "# 18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems I took a week off from Dev.to. Not a planned one — I just sat down last Sunday and realized I had..."
+  },
+  "417132a27f1f8cb6": {
+    "file": "corpus/devto/dev_to_tosane932_refactoring-my-learning-logs-why-i-rewrote-_0b663a9008.md",
+    "source": "devto",
+    "title": "Refactoring My Learning Logs: Why I Rewrote Emotional Notes into Fact-Based Technical Reports",
+    "url": "https://dev.to/tosane932/refactoring-my-learning-logs-why-i-rewrote-emotional-notes-into-fact-based-technical-reports-523j",
+    "keywords": [
+      "rewrote emotional notes",
+      "rewrote emotional notes",
+      "based technical reports",
+      "based technical reports",
+      "active truck driver",
+      "studying ...",
+      "learning logs",
+      "learning logs",
+      "introduction hello",
+      "japan self"
+    ],
+    "summary": "# Refactoring My Learning Logs: Why I Rewrote Emotional Notes into Fact-Based Technical Reports > Source: devto | Category: news | 2026-07-26T10:22:45Z 🇯🇵 I am an active truck driver in Japan self-studying..."
+  },
+  "328605a6484482a6": {
+    "file": "corpus/devto/dev_to_ruby_c_ef0aab1a8022cb5a8d_nobody-told-me-job-searchin_3e10f026ec.md",
+    "source": "devto",
+    "title": "Nobody Told Me Job Searching Would Make Me a Better Developer",
+    "url": "https://dev.to/ruby_c_ef0aab1a8022cb5a8d/nobody-told-me-job-searching-would-make-me-a-better-developer-5acf",
+    "keywords": [
+      "job searching would make",
+      "job searching would make",
+      "thought job searching",
+      "sending applications",
+      "nobody told",
+      "nobody told",
+      "better developer",
+      "better developer",
+      "waiting",
+      "source"
+    ],
+    "summary": "# Nobody Told Me Job Searching Would Make Me a Better Developer > Source: devto | Category: news | 2026-07-26T10:22:44Z You know what I thought job searching was?"
+  },
+  "8e74b5739e6948ef": {
+    "file": "corpus/devto/dev_to_akashpixel_feeling-lost-as-a-software-engineer-in-the_83b62188ee.md",
+    "source": "devto",
+    "title": "Feeling lost as a Software Engineer in the age of AI. What’s next?",
+    "url": "https://dev.to/akashpixel/feeling-lost-as-a-software-engineer-in-the-age-of-ai-whats-next-4lpa",
+    "keywords": [
+      "web developer",
+      "software engineer",
+      "software engineer",
+      "bit stuck",
+      "feeling lost",
+      "feeling lost",
+      "feeling"
+    ],
+    "summary": "# Feeling lost as a Software Engineer in the age of AI. > Source: devto | Category: news | 2026-07-26T10:22:44Z Hey dev community 👋  I’m a web developer, and lately, I’ve been feeling a bit stuck on where my..."
+  },
+  "2117b9fbcd35bd23": {
+    "file": "corpus/devto/dev_to_dilip_v_p_stack-vs-heap-your-variable-isnt-where-you-_1f9d1bcf7f.md",
+    "source": "devto",
+    "title": "Stack vs Heap: Your Variable Isn't Where You Think",
+    "url": "https://dev.to/dilip_v_p/stack-vs-heap-your-variable-isnt-where-you-think-5hnd",
+    "keywords": [
+      "stack vs heap",
+      "stack vs heap",
+      "45z two variables",
+      "int [] x",
+      "x changes",
+      "one assignment",
+      "2 ,...",
+      "variable",
+      "variable",
+      "think"
+    ],
+    "summary": "# Stack vs Heap: Your Variable Isn't Where You Think > Source: devto | Category: news | 2026-07-26T10:22:45Z You change y, and x changes with it:    int[] x = {1, 2,..."
+  },
+  "b47ba77db18ae741": {
+    "file": "corpus/devto/dev_to_arcker_probatum-your-tests-pass-does-it-actually-boot_b5cb3101dc.md",
+    "source": "devto",
+    "title": "probatum — your tests pass. does it actually boot?",
+    "url": "https://dev.to/arcker/probatum-your-tests-pass-does-it-actually-boot-kcp",
+    "keywords": [
+      "oriented check runner",
+      "one config file",
+      "actually boots ',",
+      "actually boot",
+      "actually boot",
+      "tests pass",
+      "tests pass",
+      "tests pass",
+      "separate tool",
+      "probatum —"
+    ],
+    "summary": "does it actually boot? probatum is a test-oriented check runner I build in Rust: one config file, embedded checks, only the failures that matter. This post is about why it exists next to cidx — the gap between 'the tests pass' and 'it actually boots', why it's a separate tool and not a CI stage, and the boundary I hold on purpose between the two."
+  },
+  "7dc531445f1d3f1a": {
+    "file": "corpus/devto/dev_to_quinticus_what-i-learned-on-my-first-week-of-cybersec_adf74f1ade.md",
+    "source": "devto",
+    "title": "What I learned on my first week of TryHackMe",
+    "url": "https://dev.to/quinticus/what-i-learned-on-my-first-week-of-cybersecurity-ded",
+    "keywords": [
+      "currently learning cybersecurity",
+      "soc ...",
+      "first week",
+      "first week",
+      "44z hello",
+      "tryhackme",
+      "tryhackme",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# What I learned on my first week of TryHackMe > Source: devto | Category: news | 2026-07-26T10:22:44Z I am currently learning cybersecurity from the beginning, as I aim to become a SOC..."
+  },
+  "3fa9e7545ad5740a": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_pixelsmash-vulnerability_utm_camp_05aa7cf7dc.md",
+    "source": "engineering",
+    "title": "[infoq] AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
+    "url": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "enabled security researchers discover",
+      "enabled security researchers discover",
+      "enabled security researchers discover",
+      "affects numerous applications using",
+      "remote code execution",
+      "provide attackers access",
+      "provide attackers access",
+      "provide attackers access",
+      "ffmpeg media framework",
+      "crafted media file"
+    ],
+    "summary": "# [infoq] AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC JFrog Security Research revealed \"PixelSmash,\" a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denial of Service attacks."
+  },
+  "e63084b59f0b5c96": {
+    "file": "corpus/hackernews/comuniq_xyz_post_t_1439_5dc162f158.md",
+    "source": "hackernews",
+    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "url": "https://comuniq.xyz/post?t=1439",
+    "keywords": [
+      "coding felt like",
+      "coding felt like",
+      "stack overflow",
+      "stack overflow",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s > Source: hackernews | Category: news | 2026-07-26T10:22:38Z Score: 6 | Comments: 2"
+  },
+  "93c0461e0ea578a3": {
+    "file": "corpus/hackernews/powerfulpython_com_blog_overloaded-overloading_d95c1f298b.md",
+    "source": "hackernews",
+    "title": "Overloaded Overloading",
+    "url": "https://powerfulpython.com/blog/overloaded-overloading/",
+    "keywords": [
+      "overloaded overloading",
+      "overloaded overloading",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "26t10"
+    ],
+    "summary": "# Overloaded Overloading > Source: hackernews | Category: news | 2026-07-26T10:22:35Z Score: 16 | Comments: 3"
+  },
+  "1e046b4164fc5b2e": {
+    "file": "corpus/hackernews/github_com_leontrolski_postgresql-testing_78aa8b5ff6.md",
+    "source": "hackernews",
+    "title": "Pip install Postgres – no Docker/Brew/apt",
+    "url": "https://github.com/leontrolski/postgresql-testing",
+    "keywords": [
+      "pip install postgres –",
+      "pip install postgres –",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "docker",
+      "docker",
+      "comments",
+      "category"
+    ],
+    "summary": "# Pip install Postgres – no Docker/Brew/apt > Source: hackernews | Category: news | 2026-07-26T10:22:37Z Score: 3 | Comments: 2"
+  },
+  "5c543e01ba1161f8": {
+    "file": "corpus/hackernews/astral_sh_blog_ruff-v0_16_0_edc31ee88d.md",
+    "source": "hackernews",
+    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+    "url": "https://astral.sh/blog/ruff-v0.16.0",
+    "keywords": [
+      "ruff v0",
+      "ruff v0",
+      "34z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Ruff v0.16.0 – Significant new updates – 413 default rules up from 59 > Source: hackernews | Category: news | 2026-07-26T10:22:34Z Score: 39 | Comments: 5"
+  },
+  "acfb4b7e3ba2c856": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-how-do-i-learn-to-close-big-enter_36b42f94b6.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr:  How Do I Learn to Close Big Enterprise Deals … Better?",
+    "url": "https://www.saastr.com/dear-saastr-how-do-i-learn-to-close-big-enterprise-deals-better/",
+    "keywords": [
+      "different beast compared",
+      "arguably &# 8230",
+      "... continue reading",
+      "ticket enterprise deals",
+      "enterprise buying process",
+      "37z dear saastr",
+      "enterprise sales",
+      "dear saastr",
+      "dear saastr",
+      "dear saastr"
+    ],
+    "summary": "Dear SaaStr:  How Do I Learn to Close Big Enterprise Deals … Better? Closing high-ticket enterprise deals is a different beast compared to SMB or mid-market sales. It requires patience, strategy, and a deep understanding of the enterprise buying process."
   }
 }
