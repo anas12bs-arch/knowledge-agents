@@ -308740,5 +308740,323 @@
       "word &# 8220"
     ],
     "summary": "The tech landscape constantly evolves, making it tempting to chase every new trend. Ironically, in today&#8217;s business world, the word &#8220;innovation&#8221; has become almost synonymous with technology adoption. Yet after years of leading digital transformations, I&#8217;ve learned that sustainable innovation isn&#8217;t about having the latest technology—it&#8217;s about solving business problems and delivering measurable impact."
+  },
+  "7b82fb5f43160a1c": {
+    "file": "corpus/devto/dev_to_etkaozer_i-kept-losing-context-between-llms-so-i-buil_d845ca1bb6.md",
+    "source": "devto",
+    "title": "I kept losing context between LLMs, so I built a Markdown-based memory layer (and here is what I learned)",
+    "url": "https://dev.to/etkaozer/i-kept-losing-context-between-llms-so-i-built-a-markdown-based-memory-layer-and-here-is-what-i-4jfj",
+    "keywords": [
+      "based memory layer",
+      "based memory layer",
+      "kept losing context",
+      "kept losing context",
+      "kept running",
+      "weeks away",
+      "made ...",
+      "source",
+      "reactions",
+      "project"
+    ],
+    "summary": "# I kept losing context between LLMs, so I built a Markdown-based memory layer (and here is what I learned) > Source: devto | Category: news | 2026-07-27T21:45:59Z I kept running into the same problem: after a few weeks away from a project, I'd forgotten why I made..."
+  },
+  "e3d8ddf01ce9b6f4": {
+    "file": "corpus/devto/dev_to_thomasbnt_passkeys-explained-simply-52jk_cf2ab24d34.md",
+    "source": "devto",
+    "title": "Passkeys Explained Simply",
+    "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
+    "keywords": [
+      "passkey ” instead ...",
+      "face id ”",
+      "passkeys explained simply",
+      "passkeys explained simply",
+      "says “ sign",
+      "“ use",
+      "probably seen",
+      "little prompt",
+      "source"
+    ],
+    "summary": "# Passkeys Explained Simply > Source: devto | Category: news | 2026-07-27T21:45:55Z You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead..."
+  },
+  "f624e58b973ff78e": {
+    "file": "corpus/devto/dev_to_pinceladasdaweb_nodejs-has-plenty-of-circuit-breakers_7a8850c04c.md",
+    "source": "devto",
+    "title": "Node.js has plenty of circuit breakers. So why did I build another one?",
+    "url": "https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-i-build-another-one-3k66",
+    "keywords": [
+      "build another one",
+      "build another one",
+      "actually compose —",
+      "rate limiting",
+      "observability built",
+      "existing options",
+      "circuit breakers",
+      "circuit breakers",
+      "circuit breaker",
+      "59z retry"
+    ],
+    "summary": "So why did I build another one? Retry, circuit breaker, timeout, bulkhead and rate limiting that actually compose — with observability built in. Why the existing options weren't enough, and what breakwater does differently."
+  },
+  "2279b8bd63f3179a": {
+    "file": "corpus/devto/dev_to_solo_operator_the-five-primitives-i-run-a-whole-compa_5f4bee86e1.md",
+    "source": "devto",
+    "title": "The five primitives I run a whole company on",
+    "url": "https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl",
+    "keywords": [
+      "consumer product company",
+      "whole company",
+      "whole company",
+      "two storefronts",
+      "physical inventory",
+      "multiple ...",
+      "five primitives",
+      "five primitives",
+      "source",
+      "run"
+    ],
+    "summary": "# The five primitives I run a whole company on I run a consumer product company by myself. Physical inventory, two storefronts, multiple..."
+  },
+  "cda705c34718a5f1": {
+    "file": "corpus/devto/dev_to_anchildress1_nine-months-of-nagging-zero-reading-2fgc_7dcbdabc78.md",
+    "source": "devto",
+    "title": "Nine Months of Nagging, Zero Reading",
+    "url": "https://dev.to/anchildress1/nine-months-of-nagging-zero-reading-2fgc",
+    "keywords": [
+      "55z rai footers record",
+      "scores nine months",
+      "nine months",
+      "nine months",
+      "zero reading",
+      "zero reading",
+      "nothing reads",
+      "github action",
+      "git history",
+      "source"
+    ],
+    "summary": "# Nine Months of Nagging, Zero Reading RAI footers record how much AI wrote every commit, but nothing reads them back. Here's the GitHub Action that scores nine months of git history."
+  },
+  "f5053697ae361e88": {
+    "file": "corpus/devto/dev_to_aplomb2_the-real-cost-of-ai-coding-in-july-2026-what-_692d0061d6.md",
+    "source": "devto",
+    "title": "The Real Cost of AI Coding in July 2026: What Nobody Tells You About Claude Code, Codex, and Cursor Bills",
+    "url": "https://dev.to/aplomb2/the-real-cost-of-ai-coding-in-july-2026-what-nobody-tells-you-about-claude-code-codex-and-cursor-4i7k",
+    "keywords": [
+      "claude code max",
+      "claude code",
+      "claude code",
+      "real cost",
+      "real cost",
+      "nobody tells",
+      "nobody tells",
+      "cursor ultra",
+      "cursor bills",
+      "cursor bills"
+    ],
+    "summary": "# The Real Cost of AI Coding in July 2026: What Nobody Tells You About Claude Code, Codex, and Cursor Bills > Source: devto | Category: news | 2026-07-27T21:45:58Z Everyone's comparing AI coding tool prices on paper."
+  },
+  "0a62e8d05270f127": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-certighost-poc-ex_4911b57668.md",
+    "source": "security",
+    "title": "[bleeping-comp] New Certighost PoC exploit lets attackers hijack Windows domains",
+    "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+    "keywords": [
+      "allow authenticated attackers",
+      "windows domain",
+      "potentially compromise",
+      "concept exploit",
+      "certighost ,\"",
+      "source",
+      "security",
+      "security",
+      "released",
+      "proof"
+    ],
+    "summary": "# [bleeping-comp] New Certighost PoC exploit lets attackers hijack Windows domains New Certighost PoC exploit lets attackers hijack Windows domains A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain."
+  },
+  "df0ca4899fb6c326": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_fbi-breaking-af_9739b8d0ff.md",
+    "source": "security",
+    "title": "[dark-reading] FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+    "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+    "keywords": [
+      "largest ransomware group",
+      "enforcement operation cronos",
+      "fbi agent explains",
+      "mulitnational law",
+      "48z fbi",
+      "fbi",
+      "fbi",
+      "time",
+      "takedown",
+      "takedown"
+    ],
+    "summary": "# [dark-reading] FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time."
+  },
+  "c93117d47085b77b": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-dysphoria-ddos-bo_307824cb79.md",
+    "source": "security",
+    "title": "[bleeping-comp] New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+    "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+    "keywords": [
+      "traffic relay operations",
+      "compromised around 200",
+      "botnet called dysphoria",
+      "200k devices worldwide",
+      "200k devices worldwide",
+      "200k devices worldwide",
+      "000 devices across",
+      "distributed denial",
+      "world",
+      "using"
+    ],
+    "summary": "# [bleeping-comp] New Dysphoria DDoS botnet spreads to 200k devices worldwide New Dysphoria DDoS botnet spreads to 200k devices worldwide A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations."
+  },
+  "5d0fc0ba17cf99e8": {
+    "file": "corpus/security/www_darkreading_com_cloud-security_confused-deputy-flaws-goo_c991330f72.md",
+    "source": "security",
+    "title": "[dark-reading] 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+    "url": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+    "keywords": [
+      "bypass cloud providers",
+      "google cloud",
+      "google cloud",
+      "google cloud",
+      "vulnerabilities allows",
+      "microsoft azure",
+      "microsoft azure",
+      "microsoft azure",
+      "flaws persist",
+      "flaws persist"
+    ],
+    "summary": "# [dark-reading] 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls."
+  },
+  "f2547d258cdb3b5e": {
+    "file": "corpus/hackernews/kristerw_blogspot_com_2019_01_building-gcc-127_html_f163bcb038.md",
+    "source": "hackernews",
+    "title": "Building GCC 1.27",
+    "url": "http://kristerw.blogspot.com/2019/01/building-gcc-127.html",
+    "keywords": [
+      "building gcc 1",
+      "building gcc 1",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Building GCC 1.27 > Source: hackernews | Category: news | 2026-07-27T21:45:49Z Score: 4 | Comments: 0"
+  },
+  "610cecc0a5964d33": {
+    "file": "corpus/hackernews/xkcd_com_3277_94ec6bca63.md",
+    "source": "hackernews",
+    "title": "Forth",
+    "url": "https://xkcd.com/3277/",
+    "keywords": [
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "forth",
+      "forth",
+      "comments",
+      "category"
+    ],
+    "summary": "# Forth > Source: hackernews | Category: news | 2026-07-27T21:45:50Z Score: 15 | Comments: 3"
+  },
+  "72c481783584d7d8": {
+    "file": "corpus/hackernews/techcrunch_com_2026_07_27_psa-your-claude-shared-chats-and-a_bb239ee05f.md",
+    "source": "hackernews",
+    "title": "Claude shared chats and Artifacts may have ended up on Google",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "keywords": [
+      "claude shared chats",
+      "claude shared chats",
+      "artifacts may",
+      "artifacts may",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "google",
+      "google"
+    ],
+    "summary": "# Claude shared chats and Artifacts may have ended up on Google > Source: hackernews | Category: news | 2026-07-27T21:45:53Z Score: 7 | Comments: 0"
+  },
+  "4a5f4e7c36f776b4": {
+    "file": "corpus/hackernews/blog_coderspirit_xyz_blog_2026_07_06_securing-services-with-_32487c262e.md",
+    "source": "hackernews",
+    "title": "Securing Services with Rootless Containers",
+    "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+    "keywords": [
+      "securing services",
+      "securing services",
+      "rootless containers",
+      "rootless containers",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Securing Services with Rootless Containers > Source: hackernews | Category: news | 2026-07-27T21:45:48Z Score: 12 | Comments: 5"
+  },
+  "9c3cae5d08892f29": {
+    "file": "corpus/hackernews/www_theverge_com_games_967174_steam-game-malware-cryptosteal_c9b468a0bf.md",
+    "source": "hackernews",
+    "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
+    "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+    "keywords": [
+      "steam malware",
+      "steam malware",
+      "google cookies",
+      "google cookies",
+      "bitcoin trail",
+      "bitcoin trail",
+      "52z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware > Source: hackernews | Category: news | 2026-07-27T21:45:52Z Score: 4 | Comments: 0"
+  },
+  "2b3fdaf8e3e106a1": {
+    "file": "corpus/hackernews/platformengineering_org_blog_how-platform-engineering-2-0-mi_81621d03a2.md",
+    "source": "hackernews",
+    "title": "Platform engineering 2.0 mitigates AI security and compliance risks",
+    "url": "https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks",
+    "keywords": [
+      "0 mitigates ai security",
+      "0 mitigates ai security",
+      "platform engineering 2",
+      "platform engineering 2",
+      "compliance risks",
+      "compliance risks",
+      "49z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Platform engineering 2.0 mitigates AI security and compliance risks > Source: hackernews | Category: news | 2026-07-27T21:45:49Z Score: 3 | Comments: 1"
+  },
+  "9f28d4218a5e021b": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v2_49_0_7d4c792aa9.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v2.49.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.49.0",
+    "keywords": [
+      "0 ## 2",
+      "require python 3",
+      "0 ... v2",
+      "0 ... v2",
+      "44z ## openai",
+      "python — v2",
+      "0 released",
+      "0 released",
+      "python v2",
+      "python v2"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-27T21:46:44Z Full Changelog: [v2.48.0...v2.49.0](https://github.com/openai/openai-python/compare/v2.48.0...v2.49.0) * require Python 3.10 and automate version reviews ([#3537](https://github.com/openai/openai-python/issues/3537)) ([d4c151d](https://github.com/openai/openai-python/commit/d4c151d92ba713e56518a4483d3b7918dd1be838))"
   }
 }
