@@ -307458,5 +307458,364 @@
       "prisma cli"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-27T16:12:40Z Today, we're issuing a patch release to resolve a security advisory in a transitive dependency of Prisma CLI (via `@prisma/dev`). It does not actually affect `@prisma/dev` or Prisma CLI so no urgent action is required, but it is recommended to upgrade nevertheless to avoid false positives from security scanners."
+  },
+  "874a16e1a346530c": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48151_outage-leaves-uk-bank-cus_907d5950ed.md",
+    "source": "finance",
+    "title": "[finextra] Outage leaves UK bank customers unable to make payments",
+    "url": "https://www.finextra.com/newsarticle/48151/outage-leaves-uk-bank-customers-unable-to-make-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "several uk banks",
+      "making online payments",
+      "make payments customers",
+      "make payments",
+      "make payments",
+      "reported problems",
+      "including lloyds",
+      "source",
+      "monday",
+      "finextra"
+    ],
+    "summary": "# [finextra] Outage leaves UK bank customers unable to make payments Outage leaves UK bank customers unable to make payments Customers of several UK banks, including Lloyds and Barclays, reported problems with making online payments on Monday."
+  },
+  "09745f2eab582586": {
+    "file": "corpus/devto/dev_to_gde_building-ai-agents-with-the-typescript-agent-deve_1d6ed4d1e9.md",
+    "source": "devto",
+    "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+    "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+    "keywords": [
+      "typescript agent development kit",
+      "typescript agent development kit",
+      "adk ), gemini 2",
+      "building ai agents",
+      "building ai agents",
+      "cloud run",
+      "5 flash",
+      "39z build",
+      "adk",
+      "adk"
+    ],
+    "summary": "# Building AI Agents with the TypeScript Agent Development Kit (ADK) > Source: devto | Category: news | 2026-07-27T17:54:39Z Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run."
+  },
+  "79a8c124e2e2b304": {
+    "file": "corpus/devto/dev_to_dionarodrigues_kiro-and-the-future-of-ai-assisted-dev_06e854a780.md",
+    "source": "devto",
+    "title": "Kiro and the Future of AI-Assisted Development",
+    "url": "https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam",
+    "keywords": [
+      "ai coding workflow ....",
+      "started using kiro",
+      "incredibly impressed",
+      "assisted development",
+      "assisted development",
+      "kiro",
+      "kiro",
+      "work"
+    ],
+    "summary": "# Kiro and the Future of AI-Assisted Development > Source: devto | Category: news | 2026-07-27T17:54:39Z I started using Kiro at work and am incredibly impressed by how it transforms our AI coding workflow...."
+  },
+  "56962bd0ad1bf500": {
+    "file": "corpus/devto/dev_to_francistrdev_monthly-dev-report-july-2026-1jdm_bfeaea0d92.md",
+    "source": "devto",
+    "title": "🗓️ Monthly Dev Report: July 2026",
+    "url": "https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm",
+    "keywords": [
+      "🗓️ monthly dev report",
+      "🗓️ monthly dev report",
+      "38z hey everyone",
+      "development journey",
+      "july 2026",
+      "july 2026",
+      "2026",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# 🗓️ Monthly Dev Report: July 2026 > Source: devto | Category: news | 2026-07-27T17:54:38Z I bring you my development journey on what I have discovered, accomplishments for this..."
+  },
+  "73bcbdd9c3ac914e": {
+    "file": "corpus/devto/dev_to_abdullahbaig_i-built-logicframe-as-a-solo-dev-heres-w_1e4a6cedde.md",
+    "source": "devto",
+    "title": "I Built LogicFrame as a Solo Dev - Here's What I Learned",
+    "url": "https://dev.to/abdullahbaig/i-built-logicframe-as-a-solo-dev-heres-what-i-learned-20nm",
+    "keywords": [
+      "solo founder",
+      "solo dev",
+      "solo dev",
+      "built logicframe",
+      "built logicframe",
+      "already ...",
+      "writing",
+      "source",
+      "saas",
+      "regular"
+    ],
+    "summary": "# I Built LogicFrame as a Solo Dev - Here's What I Learned > Source: devto | Category: news | 2026-07-27T17:54:41Z I have no intentions of writing the regular \"solo founder of SaaS\" article as there are already..."
+  },
+  "894854af61ef7d2d": {
+    "file": "corpus/devto/dev_to_raleighschickel_opus-5-more-capability-definitely-a-b_363d277f16.md",
+    "source": "devto",
+    "title": "Opus 5: More Capability? Definitely a Better Liar.",
+    "url": "https://dev.to/raleighschickel/opus-5-more-capability-definitely-a-better-liar-125g",
+    "keywords": [
+      "change one line",
+      "two commits",
+      "opus 5",
+      "opus 5",
+      "better liar",
+      "better liar",
+      "41z twenty",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-27T17:54:41Z Twenty-two commits to change one line. On Friday, Anthropic released version 5 across all their..."
+  },
+  "19bac227292cdd40": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_27_protester-charged-with-destroyin_089a0723f2.md",
+    "source": "legal",
+    "title": "[techdirt] Protester Charged With Destroying Property After Giving CBP Agents His GrapheneOS ‘Duress’ Mode Passcode",
+    "url": "https://www.techdirt.com/2026/07/27/protester-charged-with-destroying-property-after-giving-cbp-agents-his-grapheneos-duress-mode-passcode/",
+    "keywords": [
+      "public comment sessions",
+      "giving cbp agents",
+      "giving cbp agents",
+      "giving cbp agents",
+      "georgia &# 8217",
+      "[&# 8230 ;]",
+      "32z protester charged",
+      "protester charged",
+      "protester charged",
+      "peaceful protests"
+    ],
+    "summary": "# [techdirt] Protester Charged With Destroying Property After Giving CBP Agents His GrapheneOS ‘Duress’ Mode Passcode Protester Charged With Destroying Property After Giving CBP Agents His GrapheneOS ‘Duress’ Mode Passcode As the months stretched into years (the center was announced in 2021 but did not complete construction until 2025), opposition efforts ranged from peaceful protests to heated exchanges during public comment sessions to attacks on [&#8230;]"
+  },
+  "a834a14c162dd866": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_apple_apple-sued-over-fake-app_8c3cf13619.md",
+    "source": "security",
+    "title": "[bleeping-comp] Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+    "keywords": [
+      "fraudulent sparrow wallet application",
+      "33z apple sued",
+      "apple sued",
+      "apple sued",
+      "three people",
+      "claim approximately",
+      "app store",
+      "8 million",
+      "bitcoin apple",
+      "sued"
+    ],
+    "summary": "# [bleeping-comp] Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store."
+  },
+  "f3d5b09736f005d3": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49019271_f112270aa8.md",
+    "source": "hackernews",
+    "title": "Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules",
+    "url": "https://news.ycombinator.com/item?id=49019271",
+    "keywords": [
+      "significant hardware upgrade supercycle",
+      "physical hardware substrate needed",
+      "ensures absolute user privacy",
+      "breaking ddr4 timing rules",
+      "breaking ddr4 timing rules",
+      "edge devices .< p",
+      "capable silicon .< p",
+      "significant memory bandwidth limitation",
+      "users seek true ai",
+      "phone requires extreme quantization"
+    ],
+    "summary": "The excitement surrounding PrismML’s 1-bit&#x2F;ternary Bonsai models has the industry closely watching how smartphone giants, particularly Apple, will implement LLMs on edge devices.<p>Moving AI on-device is a brilliant and necessary strategy. It ensures absolute user privacy in alignment with EU regulations, fundamentally shifts the economics away from costly cloud inference, and paves the way for a significant hardware upgrade supercycle as users seek true AI-capable silicon.<p>To create a sm"
+  },
+  "c46967f9ccd7acdd": {
+    "file": "corpus/hackernews/pagedout_institute_download_PagedOut_009_pdf_17a918079a.md",
+    "source": "hackernews",
+    "title": "Paged Out #9 [pdf]",
+    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "keywords": [
+      "33z score",
+      "source",
+      "pdf",
+      "pdf",
+      "paged",
+      "paged",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Paged Out #9 [pdf] > Source: hackernews | Category: news | 2026-07-27T17:54:33Z Score: 46 | Comments: 7"
+  },
+  "fda1ae69fb5e7822": {
+    "file": "corpus/hackernews/theamericanscholar_org_beckett-the-prophet_6c739d9bb3.md",
+    "source": "hackernews",
+    "title": "Beckett the Prophet",
+    "url": "https://theamericanscholar.org/beckett-the-prophet/",
+    "keywords": [
+      "33z score",
+      "source",
+      "prophet",
+      "prophet",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "beckett",
+      "beckett"
+    ],
+    "summary": "# Beckett the Prophet > Source: hackernews | Category: news | 2026-07-27T17:54:33Z Score: 11 | Comments: 0"
+  },
+  "c4a4485b6132e5b2": {
+    "file": "corpus/hackernews/microsoft_ai_news_introducing-mai-cyber-1-flash-inside-mdash_341a720033.md",
+    "source": "hackernews",
+    "title": "MAI-Cyber 1",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "keywords": [
+      "cyber 1",
+      "cyber 1",
+      "31z score",
+      "source",
+      "news",
+      "mai",
+      "mai",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# MAI-Cyber 1 > Source: hackernews | Category: news | 2026-07-27T17:54:31Z Score: 40 | Comments: 6"
+  },
+  "69b3816b2ee57da5": {
+    "file": "corpus/hackernews/www_sgieurope_com_e-commerce_decathlon-germany-launches-wero_b168d5d594.md",
+    "source": "hackernews",
+    "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+    "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+    "keywords": [
+      "de website",
+      "de website",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "decathlon",
+      "decathlon",
+      "comments",
+      "category"
+    ],
+    "summary": "# Decathlon Germany adds Wero payment option to decathlon.de website > Source: hackernews | Category: news | 2026-07-27T17:54:32Z Score: 63 | Comments: 48"
+  },
+  "89ae8528a1ebf298": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-07-27_nvidia-s-750-bill_bf386ad721.md",
+    "source": "hackernews",
+    "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+    "keywords": [
+      "37z score",
+      "source",
+      "nvidia",
+      "nvidia",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "750b",
+      "750b"
+    ],
+    "summary": "# Nvidia's $750B in Deals Reignite Circular AI Fears > Source: hackernews | Category: news | 2026-07-27T17:54:37Z Score: 57 | Comments: 41"
+  },
+  "bfc4863817588457": {
+    "file": "corpus/hackernews/infrawrench_com_3d070c6213.md",
+    "source": "hackernews",
+    "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+    "url": "https://infrawrench.com",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "manage cloud",
+      "manage cloud",
+      "infrawrench –",
+      "infrawrench –",
+      "34z score",
+      "workflows",
+      "workflows",
+      "tool"
+    ],
+    "summary": "# Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat > Source: hackernews | Category: news | 2026-07-27T17:54:34Z Score: 7 | Comments: 0"
+  },
+  "3c436a0db4871d57": {
+    "file": "corpus/hackernews/www_escapistmagazine_com_news-the-lost-online-world-that-cam_440907af68.md",
+    "source": "hackernews",
+    "title": "Prestel and Micronet: Britain's Lost Internet",
+    "url": "https://www.escapistmagazine.com/news-the-lost-online-world-that-came-before-the-internet-and-the-world-wide-web/",
+    "keywords": [
+      "lost internet",
+      "lost internet",
+      "37z score",
+      "source",
+      "prestel",
+      "prestel",
+      "news",
+      "micronet",
+      "micronet",
+      "hackernews"
+    ],
+    "summary": "# Prestel and Micronet: Britain's Lost Internet > Source: hackernews | Category: news | 2026-07-27T17:54:37Z Score: 6 | Comments: 0"
+  },
+  "88ed2f7f0a644913": {
+    "file": "corpus/hackernews/eaton-works_com_2026_07_27_my-eicher-hack_a6d3f27ee7.md",
+    "source": "hackernews",
+    "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+    "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+    "keywords": [
+      "gain control",
+      "gain control",
+      "fleet platform",
+      "fleet platform",
+      "exploiting volvo",
+      "exploiting volvo",
+      "32z score",
+      "vehicles",
+      "vehicles",
+      "users"
+    ],
+    "summary": "# Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles > Source: hackernews | Category: news | 2026-07-27T17:54:32Z Score: 22 | Comments: 1"
+  },
+  "32daf800f96965b8": {
+    "file": "corpus/hackernews/usefeyn_com_blog_feynobg_246a1ad1b2.md",
+    "source": "hackernews",
+    "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "keywords": [
+      "task requires two skills",
+      ">< p >( 4",
+      ">< p >( 3",
+      ">< p >( 2",
+      "automatic background removal model",
+      "background removal separates",
+      "maskfactory dataset improved",
+      "make chat stickers",
+      "live demo video",
+      "feature extractor holds"
+    ],
+    "summary": "Models can be easily confused by camouflage, motion blur, or fine structures like hair.<p>The task requires two skills. Second, it has to trace the foreground’s boundary and estimate an opacity value for each pixel. Image matting models are usually released as isolated repositories with incompatible preprocessing, training, and evaluation code."
+  },
+  "3fd997004e30bd31": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-fir_8a9b7b0466.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-fireworks==1.5.2 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.5.2",
+    "keywords": [
+      "2 changes since langchain",
+      "fireworks == 1",
+      "fireworks == 1",
+      "fireworks == 1",
+      "fireworks == 1",
+      "fireworks ): 1",
+      "2 (# 39093",
+      "15z ## langchain",
+      "langchain — langchain",
+      "1 release"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-27T17:55:15Z Changes since langchain-fireworks==1.5.1 release(fireworks): 1.5.2 (#39093) chore(model-profiles): refresh model profile data (#39092) chore(model-profiles): refresh model profile data (#39084) chore(model-profiles): refresh model profile data (#39050)"
   }
 }
