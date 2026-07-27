@@ -304472,5 +304472,378 @@
       "rc0 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-27T04:51:38Z ## What's Changed * mlx update by @dhiltgen in https://github.com/ollama/ollama/pull/17397 **Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.4...v0.32.5-rc0"
+  },
+  "7c938f31b8a5b8e1": {
+    "file": "corpus/devto/dev_to_joshua9919_how-i-built-an-auditable-palworld-10-breed_a21599ed9d.md",
+    "source": "devto",
+    "title": "How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files",
+    "url": "https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde",
+    "keywords": [
+      "choose two parents",
+      "auditable palworld 1",
+      "auditable palworld 1",
+      "harder ...",
+      "source",
+      "reactions",
+      "outside",
+      "news",
+      "display"
+    ],
+    "summary": "# How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files > Source: devto | Category: news | 2026-07-27T08:17:33Z Breeding calculators look simple from the outside: choose two parents and display a child."
+  },
+  "9521d31af140d895": {
+    "file": "corpus/devto/dev_to_henry_dan_81513dd35a2f540_it-passed-because-it-never-_82529ef931.md",
+    "source": "devto",
+    "title": "It Passed Because It Never Looked",
+    "url": "https://dev.to/henry_dan_81513dd35a2f540/it-passed-because-it-never-looked-552l",
+    "keywords": [
+      "never looked",
+      "never looked",
+      "typechecker",
+      "source",
+      "reactions",
+      "ran",
+      "ran",
+      "pushed",
+      "passed",
+      "passed"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-27T08:17:32Z I ran the typechecker. I ran the build."
+  },
+  "971a037951eb3b87": {
+    "file": "corpus/devto/dev_to_sai_kiran_n_how-i-built-a-300-chapter-coding-platform_7fefc09b8e.md",
+    "source": "devto",
+    "title": "How I Built a 300+ Chapter Coding Platform with Angular SSR + Supabase (Solo, Free-Tier)",
+    "url": "https://dev.to/sai_kiran_n/how-i-built-a-300-chapter-coding-platform-with-angular-ssr-supabase-solo-free-tier-2lcc",
+    "keywords": [
+      "chapters across 7 courses",
+      "chapter coding platform",
+      "chapter coding platform",
+      "recently opened",
+      "free coding",
+      "course site",
+      "angular ssr",
+      "angular ssr",
+      "free",
+      "free"
+    ],
+    "summary": "# How I Built a 300+ Chapter Coding Platform with Angular SSR + Supabase (Solo, Free-Tier) > Source: devto | Category: news | 2026-07-27T08:17:33Z I recently opened up DevInHyderabad, a free coding-course site with 300+ chapters across 7 courses."
+  },
+  "3006071b9266dc6f": {
+    "file": "corpus/devto/dev_to_hannune_i-built-a-pdf-table-checker-that-verifies-ari_a2d82ae768.md",
+    "source": "devto",
+    "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+    "url": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
+    "keywords": [
+      "pdf table checker",
+      "pdf table checker",
+      "pdf without",
+      "pdf without",
+      "verifies arithmetic",
+      "verifies arithmetic",
+      "page 8",
+      "nobody ...",
+      "kept running",
+      "financial report"
+    ],
+    "summary": "# I built a PDF table checker that verifies arithmetic in any PDF without a template > Source: devto | Category: news | 2026-07-27T08:17:33Z The problem I kept running into: a financial report where a subtotal on page 8 is wrong, but nobody..."
+  },
+  "1932d560f36779df": {
+    "file": "corpus/devto/dev_to_ssukhpinder_one-unbounded-channel-188-mb-of-regret-59_07bad9e434.md",
+    "source": "devto",
+    "title": "One Unbounded Channel, 188 MB of Regret",
+    "url": "https://dev.to/ssukhpinder/one-unbounded-channel-188-mb-of-regret-598f",
+    "keywords": [
+      "unbounded channel never rejects",
+      "heap vs 19 mb",
+      "one unbounded channel",
+      "one unbounded channel",
+      "one line",
+      "188 mb",
+      "188 mb",
+      "188 mb",
+      "eats memory",
+      "100k burst"
+    ],
+    "summary": "# One Unbounded Channel, 188 MB of Regret An unbounded channel never rejects a write, it just eats memory. I measured a 100k burst: 188 MB of heap vs 19 MB with one line of backpressure."
+  },
+  "ab6bdc34fe58fa15": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_tanstack-table-v9-beta_utm_campai_db33fd9e6c.md",
+    "source": "engineering",
+    "title": "[infoq] TanStack Table V9 Beta: Tree-Shakable Features, TanStack Store State, and Lower Memory Usage",
+    "url": "https://www.infoq.com/news/2026/07/tanstack-table-v9-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "tanstack table v9 beta",
+      "tanstack table v9 beta",
+      "features improved state management",
+      "tanstack store state",
+      "tanstack store state",
+      "tanstack store state",
+      "various javascript frameworks",
+      "library remains free",
+      "headless ui library",
+      "lower memory usage"
+    ],
+    "summary": "It features improved state management, memory usage, and extensibility. The notable change is an opt-in feature model, allowing developers to load only necessary components. Migration is gradual, with tools provided for legacy support."
+  },
+  "56e6bcf864f7fd9f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_netflix-llm-platform_utm_campaign_82b9eebf7f.md",
+    "source": "engineering",
+    "title": "[infoq] Netflix Details Its In-House LLM Serving Platform with Triton and vLLM",
+    "url": "https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "supporting different model sizes",
+      "rapidly evolving inference engines",
+      "house llm serving platform",
+      "house llm serving platform",
+      "house llm serving platform",
+      "internal serving platform",
+      "25z netflix details",
+      "netflix details",
+      "netflix details",
+      "matt foster"
+    ],
+    "summary": "# [infoq] Netflix Details Its In-House LLM Serving Platform with Triton and vLLM Netflix Details Its In-House LLM Serving Platform with Triton and vLLM Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model sizes, hardware requirements, and rapidly evolving inference engines."
+  },
+  "d009c6e38673b4fb": {
+    "file": "corpus/hackernews/huggingface_co_moonshotai_Kimi-K3_e7129e9021.md",
+    "source": "hackernews",
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "keywords": [
+      "k3 releases",
+      "k3 releases",
+      "huggingface 7",
+      "huggingface 7",
+      "25z score",
+      "source",
+      "news",
+      "kimi",
+      "kimi",
+      "hackernews"
+    ],
+    "summary": "# Kimi-K3 Releases on HuggingFace 7/27 > Source: hackernews | Category: news | 2026-07-27T08:17:25Z Score: 139 | Comments: 42"
+  },
+  "4add9d78766f9549": {
+    "file": "corpus/hackernews/ebellani_github_io_blog_2026_why-care-about-programming-lang_1d6b110efd.md",
+    "source": "hackernews",
+    "title": "Why care about programming languages",
+    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "keywords": [
+      "programming languages",
+      "programming languages",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "care",
+      "care"
+    ],
+    "summary": "# Why care about programming languages > Source: hackernews | Category: news | 2026-07-27T08:17:26Z Score: 30 | Comments: 33"
+  },
+  "012c102a8b72a5b2": {
+    "file": "corpus/hackernews/smolnero_com_posts_the-zen-of-parallel-programming-the-postu_d588d739cc.md",
+    "source": "hackernews",
+    "title": "The Zen of Parallel Programming: The Posture of a Kernel",
+    "url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+    "keywords": [
+      "parallel programming",
+      "parallel programming",
+      "26z score",
+      "zen",
+      "zen",
+      "source",
+      "posture",
+      "posture",
+      "news",
+      "kernel"
+    ],
+    "summary": "# The Zen of Parallel Programming: The Posture of a Kernel > Source: hackernews | Category: news | 2026-07-27T08:17:26Z Score: 12 | Comments: 1"
+  },
+  "8d7ffce3826e5e90": {
+    "file": "corpus/hackernews/getdx_com_research_measuring-developer-productivity-with-the_86381f1408.md",
+    "source": "hackernews",
+    "title": "Measuring developer productivity with the DX Core 4",
+    "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+    "keywords": [
+      "measuring developer productivity",
+      "measuring developer productivity",
+      "dx core 4",
+      "dx core 4",
+      "27z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Measuring developer productivity with the DX Core 4 > Source: hackernews | Category: news | 2026-07-27T08:17:27Z Score: 9 | Comments: 3"
+  },
+  "fad426682f4a8795": {
+    "file": "corpus/hackernews/monocle_com_design_architecture_keeping-your-home-cool-witho_824a4b0ae2.md",
+    "source": "hackernews",
+    "title": "The old-school way of keeping the summer heat out of your home",
+    "url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+    "keywords": [
+      "summer heat",
+      "summer heat",
+      "school way",
+      "school way",
+      "29z score",
+      "source",
+      "old",
+      "old",
+      "news",
+      "keeping"
+    ],
+    "summary": "# The old-school way of keeping the summer heat out of your home > Source: hackernews | Category: news | 2026-07-27T08:17:29Z Score: 8 | Comments: 7"
+  },
+  "eb892f08eeb08140": {
+    "file": "corpus/hackernews/gizmodo_com_a-feature-that-makes-your-phone-data-self-destru_4fc321a877.md",
+    "source": "hackernews",
+    "title": "The US is charging an American citizen for wiping his phone at the border",
+    "url": "https://gizmodo.com/a-feature-that-makes-your-phone-data-self-destruct-in-authorities-hands-may-soon-have-its-day-in-court-2000790831",
+    "keywords": [
+      "american citizen",
+      "american citizen",
+      "31z score",
+      "wiping",
+      "wiping",
+      "source",
+      "phone",
+      "phone"
+    ],
+    "summary": "# The US is charging an American citizen for wiping his phone at the border > Source: hackernews | Category: news | 2026-07-27T08:17:31Z Score: 38 | Comments: 21"
+  },
+  "2c17812f1e83a66c": {
+    "file": "corpus/hackernews/www_cnbc_com_2026_07_25_finland-sand-battery-renewable-energ_b66dd0d4d5.md",
+    "source": "hackernews",
+    "title": "Sand battery: Finland's answer to a renewable energy headache",
+    "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+    "keywords": [
+      "renewable energy headache",
+      "renewable energy headache",
+      "sand battery",
+      "sand battery",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "finland",
+      "finland"
+    ],
+    "summary": "# Sand battery: Finland's answer to a renewable energy headache > Source: hackernews | Category: news | 2026-07-27T08:17:30Z Score: 18 | Comments: 3"
+  },
+  "1635384ff93fd848": {
+    "file": "corpus/hackernews/www_wsj_com_tech_google-fined-1-02-billion-under-eus-tech-an_6599402986.md",
+    "source": "hackernews",
+    "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+    "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+    "keywords": [
+      "eu fines google",
+      "eu fines google",
+      "28z score",
+      "source",
+      "services",
+      "services",
+      "news",
+      "hackernews",
+      "favoring",
+      "favoring"
+    ],
+    "summary": "# EU Fines Google $1.02B for Favoring Its Own Services > Source: hackernews | Category: news | 2026-07-27T08:17:28Z Score: 62 | Comments: 54"
+  },
+  "5bcb7a9efd2ca18d": {
+    "file": "corpus/design/www_nngroup_com_articles_product-sense-definition_4046a26969.md",
+    "source": "design",
+    "title": "[sidebar-io] A concrete definition of “Product Sense”",
+    "url": "https://www.nngroup.com/articles/product-sense-definition/",
+    "keywords": [
+      "“ product sense ”",
+      "“ product sense ”",
+      "product decisions",
+      "succeed based",
+      "patterns learned",
+      "patterns apply",
+      "experimentation —",
+      "concrete definition",
+      "concrete definition",
+      "concrete definition"
+    ],
+    "summary": "# [sidebar-io] A concrete definition of “Product Sense” A concrete definition of “Product Sense” Predicting which product decisions will succeed based on patterns learned through experimentation — and knowing when those patterns apply."
+  },
+  "dc1d5b1d9d61acf3": {
+    "file": "corpus/design/www_pigeonsandplanes_com_read_music-piracy-what-cd-oink-nine_7cabad485d.md",
+    "source": "design",
+    "title": "[sidebar-io] The lost joy of music piracy",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "keywords": [
+      "music piracy",
+      "music piracy",
+      "music piracy",
+      "lost joy",
+      "lost joy",
+      "lost joy",
+      "streaming",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] The lost joy of music piracy The lost joy of music piracy What.CD, Oink, and the banalities of streaming."
+  },
+  "11525585e55e9821": {
+    "file": "corpus/design/platform_claude_com_cookbook_72743e9764.md",
+    "source": "design",
+    "title": "[sidebar-io] Claude Cookbook",
+    "url": "https://platform.claude.com/cookbook/",
+    "keywords": [
+      "learn prompting techniques",
+      "tool use",
+      "multimodal capabilities",
+      "code examples",
+      "claude cookbook",
+      "claude cookbook",
+      "claude",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Claude Cookbook Practical guides and code examples for building with Claude. Learn prompting techniques, tool use, multimodal capabilities, and more."
+  },
+  "b561083b4c67552a": {
+    "file": "corpus/design/bit_ly_uxc-dre1_45978120a5.md",
+    "source": "design",
+    "title": "[sidebar-io] Visualize striking 3D embellishment mockups",
+    "url": "https://bit.ly/uxc-dre1",
+    "keywords": [
+      "share results instantly",
+      "kurz transfer decorations",
+      "impressive 3d mockups",
+      "try 100",
+      "source",
+      "sidebar",
+      "sidebar",
+      "design"
+    ],
+    "summary": "# [sidebar-io] Visualize striking 3D embellishment mockups DREAMCOMPOSER® transforms designs into impressive 3D mockups. Try 100+ KURZ transfer decorations and share results instantly."
+  },
+  "de1ea7fbf3cfd06a": {
+    "file": "corpus/design/allen_hutchison_org_2025_11_28_the-era-of-personal-software_abcf663e3f.md",
+    "source": "design",
+    "title": "[sidebar-io] The era of personal software",
+    "url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
+    "keywords": [
+      "solve problems",
+      "personal software",
+      "personal software",
+      "individual needs",
+      "transforming",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] The era of personal software The era of personal software Bespoke tools designed for individual needs, transforming how we solve problems."
   }
 }
