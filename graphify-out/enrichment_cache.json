@@ -314989,5 +314989,438 @@
       "comments"
     ],
     "summary": "# uv 0.12.0 > Source: hackernews | Category: news | 2026-07-28T19:55:42Z Score: 10 | Comments: 0"
+  },
+  "bb58fb3f23e8eeab": {
+    "file": "corpus/devto/dev_to_stanleya_ai-is-finding-bugs-faster-than-youre-patchin_cee60c8558.md",
+    "source": "devto",
+    "title": "AI Is Finding Bugs Faster Than You're Patching Them — What Website Owners Should Do Differently",
+    "url": "https://dev.to/stanleya/ai-is-finding-bugs-faster-than-youre-patching-them-what-website-owners-should-do-differently-1679",
+    "keywords": [
+      "ai helps defenders discover",
+      "security updates ...",
+      "finding bugs faster",
+      "finding bugs faster",
+      "website owners",
+      "website owners",
+      "higher volume"
+    ],
+    "summary": "# AI Is Finding Bugs Faster Than You're Patching Them — What Website Owners Should Do Differently > Source: devto | Category: news | 2026-07-28T20:57:33Z \"As AI helps defenders discover more issues, customers will see a higher volume of security updates..."
+  },
+  "3893eec8211b1dd1": {
+    "file": "corpus/devto/dev_to_logical_bytes_pilum-from-launch-to-production-ready-i_ba412ff467.md",
+    "source": "devto",
+    "title": "Pilum: From Launch to Production-Ready in 3 Months",
+    "url": "https://dev.to/logical_bytes/pilum-from-launch-to-production-ready-in-3-months-3769",
+    "keywords": [
+      "https :// github",
+      "33z github url",
+      "december 2025",
+      "3 months",
+      "3 months",
+      "sourced pilum",
+      "pilum",
+      "pilum",
+      "pilum",
+      "technologies"
+    ],
+    "summary": "# Pilum: From Launch to Production-Ready in 3 Months > Source: devto | Category: news | 2026-07-28T20:57:33Z Github URL: https://github.com/SID-Technologies/Pilum  In December 2025, I open-sourced Pilum, a..."
+  },
+  "c8d48ae5b1a18c8a": {
+    "file": "corpus/devto/dev_to_lainagent_ai_a-hidden-pr-comment-hijacked-my-ai-agent_3e5b555b9a.md",
+    "source": "devto",
+    "title": "A hidden PR comment can hijack your AI agent and read your team's data",
+    "url": "https://dev.to/lainagent_ai/a-hidden-pr-comment-hijacked-my-ai-agent-and-read-my-teams-data-3ofb",
+    "keywords": [
+      "azure devops mcp server",
+      "pr description tool",
+      "hidden pr comment",
+      "hidden pr comment",
+      "spotlighting everywhere",
+      "entire organization",
+      "ai agent",
+      "ai agent",
+      "team",
+      "team"
+    ],
+    "summary": "# A hidden PR comment can hijack your AI agent and read your team's data The Azure DevOps MCP server has spotlighting everywhere but the PR description tool. One invisible HTML comment exfiltrates data across an entire organization."
+  },
+  "65609e36c6668078": {
+    "file": "corpus/devto/dev_to_gitguardian_sre-playbook-a-guide-to-discover-and-cata_56360c71ab.md",
+    "source": "devto",
+    "title": "SRE Playbook: A Guide to Discover and Catalog Non-Human Identities (NHI)",
+    "url": "https://dev.to/gitguardian/sre-playbook-a-guide-to-discover-and-catalog-non-human-identities-nhi-195o",
+    "keywords": [
+      "site reliability engineer",
+      "sre playbook",
+      "sre playbook",
+      "human identities",
+      "human identities",
+      "global company",
+      "catalog non",
+      "catalog non",
+      "relatively modern",
+      "modern"
+    ],
+    "summary": "# SRE Playbook: A Guide to Discover and Catalog Non-Human Identities (NHI) > Source: devto | Category: news | 2026-07-28T20:57:33Z As a site reliability engineer in a global company, I'm running a modern (well, relatively modern, to..."
+  },
+  "79c92dd090f36eee": {
+    "file": "corpus/devto/dev_to_numbpill3d_the-people-who-know-shell-scripting-are-qu_64716adb8b.md",
+    "source": "devto",
+    "title": "The People Who Know Shell Scripting Are Quietly Running Everything",
+    "url": "https://dev.to/numbpill3d/the-people-who-know-shell-scripting-are-quietly-running-everything-2ood",
+    "keywords": [
+      "quietly running everything",
+      "quietly running everything",
+      "know shell scripting",
+      "know shell scripting",
+      "party ,...",
+      "never introduced",
+      "never heard",
+      "source",
+      "reactions",
+      "people"
+    ],
+    "summary": "# The People Who Know Shell Scripting Are Quietly Running Everything > Source: devto | Category: news | 2026-07-28T20:57:34Z There is a class of people you have never heard of, who have never introduced themselves at a party,..."
+  },
+  "c73bf3fe9243bb8b": {
+    "file": "corpus/devto/dev_to_amitfeldman_i-built-a-cli-to-stop-myself-from-committ_73ecf8d85a.md",
+    "source": "devto",
+    "title": "I built a CLI to stop myself from committing API keys (and broken .env files)",
+    "url": "https://dev.to/amitfeldman/i-built-a-cli-to-stop-myself-from-committing-api-keys-and-broken-env-filesi-built-a-cli-to-stop-5eg8",
+    "keywords": [
+      "committing api keys",
+      "committing api keys",
+      "env files",
+      "env files",
+      "suspect",
+      "stop",
+      "stop",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I built a CLI to stop myself from committing API keys (and broken .env files) > Source: devto | Category: news | 2026-07-28T20:57:32Z The 11pm key rotation   Two things have burned me more than once, and I suspect they've..."
+  },
+  "85af2c9a7f8b8783": {
+    "file": "corpus/ai-research/huggingface_co_blog_agent-intrusion-technical-timeline_8088c1dfd6.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "keywords": [
+      "frontier lab agent intrusion",
+      "frontier lab agent intrusion",
+      "frontier lab agent intrusion",
+      "july 2026 incident",
+      "july 2026 incident",
+      "july 2026 incident",
+      "technical timeline",
+      "technical timeline",
+      "technical timeline",
+      "23z anatomy"
+    ],
+    "summary": "# [hf-blog] Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident > Source: ai-research | Category: research | 2026-07-28T20:57:23Z Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident"
+  },
+  "98094cc8ddb59ae6": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_28_paramount-merger-gets-further-de_8babdc2536.md",
+    "source": "legal",
+    "title": "[techdirt] Paramount Merger Gets Further Delayed, And Things Could Get Expensive",
+    "url": "https://www.techdirt.com/2026/07/28/paramount-merger-gets-further-delayed-and-things-could-get-expensive/",
+    "keywords": [
+      "two weeks ago california",
+      "things could get expensive",
+      "things could get expensive",
+      "things could get expensive",
+      "22z paramount merger gets",
+      "could prove terminal",
+      "paramount merger gets",
+      "paramount merger gets",
+      "[&# 8230 ;]",
+      "111 billion merger"
+    ],
+    "summary": "# [techdirt] Paramount Merger Gets Further Delayed, And Things Could Get Expensive Just as Larry Ellison and Paramount executives had worried, the state antitrust challenge to their $111 billion merger with Warner Brothers has resulted in significant delays that could prove terminal. Two weeks ago California and eleven other states filed an antitrust lawsuit to block the merger, pointing out that the consolidation would undermine market competition, [&#8230;]"
+  },
+  "80432b12cc3d9d0f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_judge-blocks-first-state_4d1e577180.md",
+    "source": "legal",
+    "title": "[ars-policy] Judge blocks first state law that would have banned prediction markets",
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+    "keywords": [
+      "banned prediction markets",
+      "banned prediction markets",
+      "would",
+      "would",
+      "would",
+      "types",
+      "source",
+      "policy",
+      "policy",
+      "legal"
+    ],
+    "summary": "# [ars-policy] Judge blocks first state law that would have banned prediction markets Judge blocks first state law that would have banned prediction markets Judge may allow Minnesota to ban some types of bets, but not all of them."
+  },
+  "a536364a4de92bb7": {
+    "file": "corpus/product/techcrunch_com_2026_07_28_mcp-startup-runlayer-accuses-rippl_50ed5a8b7d.md",
+    "source": "product",
+    "title": "[techcrunch-startups] MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "keywords": [
+      "mcp gateway product",
+      "product idea runlayer",
+      "product idea",
+      "product idea",
+      "suing rippling",
+      "rippling evaluated",
+      "build one",
+      "product",
+      "techcrunch",
+      "techcrunch"
+    ],
+    "summary": "# [techcrunch-startups] MCP startup Runlayer accuses Rippling of stealing its product idea MCP startup Runlayer accuses Rippling of stealing its product idea Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
+  },
+  "67ffe2af45eca451": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-analytics_stronger-ai-safe_f4b9704380.md",
+    "source": "security",
+    "title": "[dark-reading] Stronger AI Safety Requires Peeking Inside the 'Black Box",
+    "url": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+    "keywords": [
+      "ai systems may take",
+      "researchers propose focusing",
+      "certain cognitive elements",
+      "unwanted action",
+      "black box",
+      "black box",
+      "black box",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [dark-reading] Stronger AI Safety Requires Peeking Inside the 'Black Box' Stronger AI Safety Requires Peeking Inside the 'Black Box' Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action."
+  },
+  "b0188a3c4a9d4a99": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_openai-models-used-ar_c864b86b42.md",
+    "source": "security",
+    "title": "[bleeping-comp] OpenAI models used Artifactory zero-days to escape to the internet",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+    "keywords": [
+      "openai models exploited zero",
+      "isolated testing environment",
+      "hosted artifactory servers",
+      "attacking hugging face",
+      "gain access",
+      "day vulnerabilities",
+      "internet jfrog",
+      "help escape",
+      "internet",
+      "internet"
+    ],
+    "summary": "# [bleeping-comp] OpenAI models used Artifactory zero-days to escape to the internet OpenAI models used Artifactory zero-days to escape to the internet JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face."
+  },
+  "0bbf4549caf7ab08": {
+    "file": "corpus/security/www_darkreading_com_application-security_ai-agents-escape-sa_7df0eff935.md",
+    "source": "security",
+    "title": "[dark-reading] When AI Agents Escape Sandboxes, Old Security Rules Apply",
+    "url": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+    "keywords": [
+      "ai agents escape sandboxes",
+      "ai agents escape sandboxes",
+      "ai agents escape sandboxes",
+      "old security rules apply",
+      "old security rules apply",
+      "log everything",
+      "limit access",
+      "isolate execution",
+      "security",
+      "security"
+    ],
+    "summary": "# [dark-reading] When AI Agents Escape Sandboxes, Old Security Rules Apply When AI Agents Escape Sandboxes, Old Security Rules Apply OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything."
+  },
+  "3e09f67d406de81c": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-07-28_amazon-data-cente_075bde93d8.md",
+    "source": "hackernews",
+    "title": "Amazon Data Centers Hit in Iran Strikes, Satellite Images Show",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show",
+    "keywords": [
+      "amazon data centers hit",
+      "amazon data centers hit",
+      "satellite images show",
+      "satellite images show",
+      "iran strikes",
+      "iran strikes",
+      "31z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Amazon Data Centers Hit in Iran Strikes, Satellite Images Show > Source: hackernews | Category: news | 2026-07-28T20:57:31Z Score: 10 | Comments: 3"
+  },
+  "4bf4165a55ca103f": {
+    "file": "corpus/hackernews/blog_gaborkoos_com_posts_2026-05-09-Your-Recursion-Is-Lying-_0ff3244a08.md",
+    "source": "hackernews",
+    "title": "Recursion Is Lying to You",
+    "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "keywords": [
+      "27z score",
+      "source",
+      "recursion",
+      "recursion",
+      "news",
+      "lying",
+      "lying",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Recursion Is Lying to You > Source: hackernews | Category: news | 2026-07-28T20:57:27Z Score: 4 | Comments: 3"
+  },
+  "e6cccd9cbe8e8e7b": {
+    "file": "corpus/hackernews/github_com_curtis-arch_Why-Opus-feels-intolerable_blob_main__21b3d69dcb.md",
+    "source": "hackernews",
+    "title": "Analysis of Opus 5's 'Contrition",
+    "url": "https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md",
+    "keywords": [
+      "30z score",
+      "opus 5",
+      "opus 5",
+      "source",
+      "news",
+      "hackernews",
+      "contrition",
+      "contrition",
+      "comments"
+    ],
+    "summary": "# Analysis of Opus 5's 'Contrition' > Source: hackernews | Category: news | 2026-07-28T20:57:30Z Score: 5 | Comments: 0"
+  },
+  "201b9e7e471eb288": {
+    "file": "corpus/hackernews/imjasonh_github_io_playground_population-rays_59bf41aa12.md",
+    "source": "hackernews",
+    "title": "Show HN: How far do I have to go to run into 100k people?",
+    "url": "https://imjasonh.github.io/playground/population-rays/",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "24z score",
+      "100k people",
+      "100k people",
+      "source",
+      "run",
+      "run",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: How far do I have to go to run into 100k people? > Source: hackernews | Category: news | 2026-07-28T20:57:24Z Score: 6 | Comments: 1"
+  },
+  "83f001d3fc5ae466": {
+    "file": "corpus/hackernews/github_com_ghaziwali_Hulios_e67257aac1.md",
+    "source": "hackernews",
+    "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+    "url": "https://github.com/ghaziwali/Hulios",
+    "keywords": [
+      "transparent tor gateway",
+      "transparent tor gateway",
+      "25z score",
+      "source",
+      "powered",
+      "powered",
+      "news",
+      "linux",
+      "linux",
+      "hulios"
+    ],
+    "summary": "# Hulios: An eBPF-powered, transparent Tor gateway for Linux > Source: hackernews | Category: news | 2026-07-28T20:57:25Z Score: 8 | Comments: 0"
+  },
+  "80b1cff072b9f0e5": {
+    "file": "corpus/hackernews/www_pacingthefrontier_com_4c3137fccb.md",
+    "source": "hackernews",
+    "title": "Pacing the frontier",
+    "url": "https://www.pacingthefrontier.com/",
+    "keywords": [
+      "26z score",
+      "source",
+      "pacing",
+      "pacing",
+      "news",
+      "hackernews",
+      "frontier",
+      "frontier",
+      "comments",
+      "category"
+    ],
+    "summary": "# Pacing the frontier > Source: hackernews | Category: news | 2026-07-28T20:57:26Z Score: 10 | Comments: 1"
+  },
+  "d0fcd9307bea897e": {
+    "file": "corpus/hackernews/www_granola_ai_blog_granola-for-apple-watch_c9f1581d3c.md",
+    "source": "hackernews",
+    "title": "Granola for Apple Watch",
+    "url": "https://www.granola.ai/blog/granola-for-apple-watch",
+    "keywords": [
+      "apple watch",
+      "apple watch",
+      "29z score",
+      "source",
+      "news",
+      "hackernews",
+      "granola",
+      "granola",
+      "comments",
+      "category"
+    ],
+    "summary": "# Granola for Apple Watch > Source: hackernews | Category: news | 2026-07-28T20:57:29Z Score: 10 | Comments: 2"
+  },
+  "25a2d8b42033609a": {
+    "file": "corpus/hackernews/www_theregister_com_security_2026_07_28_def-con-bans-meta-st_fe0f3ae51a.md",
+    "source": "hackernews",
+    "title": "DEF CON bans Meta-style 'pervert glasses",
+    "url": "https://www.theregister.com/security/2026/07/28/def-con-bans-meta-style-pervert-glasses/5279763",
+    "keywords": [
+      "def con bans meta",
+      "def con bans meta",
+      "pervert glasses",
+      "pervert glasses",
+      "29z score",
+      "style",
+      "style",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# DEF CON bans Meta-style 'pervert glasses' > Source: hackernews | Category: news | 2026-07-28T20:57:29Z Score: 15 | Comments: 1"
+  },
+  "4e095bf29c2d6ccc": {
+    "file": "corpus/devops/devops_com_the-anatomy-of-a-900000-validation-bill_f16bdd9199.md",
+    "source": "devops",
+    "title": "[devops-com] The Anatomy of a $900,000 Validation Bill",
+    "url": "https://devops.com/the-anatomy-of-a-900000-validation-bill/",
+    "keywords": [
+      "developer tooling costs",
+      "developer team shipping",
+      "compute costs coming",
+      "000 validation bill",
+      "000 validation bill",
+      "000 validation bill",
+      "timing problem",
+      "spend roughly",
+      "engineering leaders",
+      "agentic pace"
+    ],
+    "summary": "# [devops-com] The Anatomy of a $900,000 Validation Bill The Anatomy of a $900,000 Validation Bill A 50-developer team shipping at an agentic pace will spend roughly $900,000 this year on AI and developer tooling costs."
+  },
+  "2ac53fce75461cf7": {
+    "file": "corpus/podcast/lexfridman_com_gary-gallagher_utm_source_rss_utm_medium_rss__640882d0fc.md",
+    "source": "podcast",
+    "title": "[lex-fridman] #499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+    "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
+    "keywords": [
+      "sugar electrolyte drink mix",
+      "499 – gary gallagher",
+      "499 – gary gallagher",
+      "499 – gary gallagher",
+      "survey ama &# 8211",
+      "great courses &# 8211",
+      "gallagher gary &# 8217",
+      "ama hiring &# 8211",
+      "gary &# 8217",
+      "https :// lexfridman"
+    ],
+    "summary": "# [lex-fridman] #499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee Gary Gallagher is a historian of the American Civil War. To support this podcast, check out our sponsors &#38; get discounts: Upwork:  Platform for hiring freelancers."
   }
 }
