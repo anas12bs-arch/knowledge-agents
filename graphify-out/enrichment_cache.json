@@ -317604,5 +317604,496 @@
       "category"
     ],
     "summary": "# Fixing a bug with byte order marks > Source: hackernews | Category: news | 2026-07-29T09:50:43Z Score: 6 | Comments: 6"
+  },
+  "0c5065f8a9fd7881": {
+    "file": "corpus/finance/news_crunchbase_com_ai_era-middle-market-contenders-bernstei_b3f52ada1d.md",
+    "source": "finance",
+    "title": "[crunchbase] The Sweet Science: Why The AI Era Belongs To Middleweights",
+    "url": "https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/",
+    "keywords": [
+      "market technology companies",
+      "argues brad bernstein",
+      "ai era belongs",
+      "ai era belongs",
+      "ai era belongs",
+      "many ai",
+      "term gains",
+      "sweet science",
+      "sweet science",
+      "sweet science"
+    ],
+    "summary": "# [crunchbase] The Sweet Science: Why The AI Era Belongs To Middleweights The biggest long-term gains from AI will not flow to heavyweight incumbents or many AI-native startups but to scrappy middle-market technology companies, the middleweights, argues Brad Bernstein, managing partner at FTV Capital. In this guest column he shares the five traits the best middleweight technology companies share."
+  },
+  "96717b3b07f8b0a1": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48164_private-market-fund-accou_624596adfe.md",
+    "source": "finance",
+    "title": "[finextra] Private market fund accounting platform LemonEdge raises $21 million",
+    "url": "https://www.finextra.com/newsarticle/48164/private-market-fund-accounting-platform-lemonedge-raises-21-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "fund accounting platform built",
+      "investment round led",
+      "blackstone innovations investments",
+      "21 million series",
+      "21 million lemonedge",
+      "21 million",
+      "21 million",
+      "sidekick partners",
+      "private markets",
+      "source"
+    ],
+    "summary": "# [finextra] Private market fund accounting platform LemonEdge raises $21 million Private market fund accounting platform LemonEdge raises $21 million LemonEdge, a fund accounting platform built for private markets, has completed a $21 million Series A investment round led by Blackstone Innovations Investments, and joined by BNY and Sidekick Partners."
+  },
+  "bc9f6a00239e20fb": {
+    "file": "corpus/devto/dev_to_jeongseop_byeon_9d8f61627_stop-defaulting-to-lru-how-_8fc37ef712.md",
+    "source": "devto",
+    "title": "Stop Defaulting to LRU: How I Built a 15.5M ops/sec S3-FIFO Cache for Node.js by Hacking V8",
+    "url": "https://dev.to/jeongseop_byeon_9d8f61627/stop-defaulting-to-lru-how-i-built-a-155m-opssec-s3-fifo-cache-for-nodejs-by-hacking-v8-36pb",
+    "keywords": [
+      "npm install ...",
+      "stop defaulting",
+      "stop defaulting",
+      "sec s3",
+      "sec s3",
+      "memory cache",
+      "hacking v8",
+      "hacking v8",
+      "fifo cache",
+      "fifo cache"
+    ],
+    "summary": "# Stop Defaulting to LRU: How I Built a 15.5M ops/sec S3-FIFO Cache for Node.js by Hacking V8 > Source: devto | Category: news | 2026-07-29T11:51:04Z Whenever we need an in-memory cache in Node.js, 99% of us do the exact same thing: npm install..."
+  },
+  "e51a128e2d08e56f": {
+    "file": "corpus/devto/dev_to_parsajiravand_you-reach-for-sass-to-mix-colors-color-_b05d5ae40f.md",
+    "source": "devto",
+    "title": "You reach for Sass to mix colors. `color-mix()` does it natively.",
+    "url": "https://dev.to/parsajiravand/you-reach-for-sass-to-mix-colors-color-mix-does-it-natively-17p1",
+    "keywords": [
+      "04z every design system",
+      "slightly darkened ...",
+      "eight shade variants",
+      "one brand color",
+      "mix colors",
+      "mix colors",
+      "mix ()`",
+      "mix ()`",
+      "color",
+      "color"
+    ],
+    "summary": "# You reach for Sass to mix colors. `color-mix()` does it natively. Every design system has this pattern: one brand color, eight shade variants, a slightly darkened..."
+  },
+  "54ead3a7629a68ff": {
+    "file": "corpus/devto/dev_to_speccoding_your-openapi-spec-is-decoration-until-ci-e_5988b7a244.md",
+    "source": "devto",
+    "title": "Your OpenAPI Spec Is Decoration Until CI Enforces It",
+    "url": "https://dev.to/speccoding/your-openapi-spec-is-decoration-until-ci-enforces-it-1and",
+    "keywords": [
+      "spec ...",
+      "openapi spec",
+      "openapi spec",
+      "openapi spec",
+      "executable contract",
+      "ci enforces",
+      "ci enforces",
+      "wired",
+      "source"
+    ],
+    "summary": "# Your OpenAPI Spec Is Decoration Until CI Enforces It > Source: devto | Category: news | 2026-07-29T11:51:04Z My rule: if an OpenAPI spec is not wired into CI as an executable contract, it is decoration."
+  },
+  "02a65a83e53ea2f1": {
+    "file": "corpus/devto/dev_to_nyaomaru_how-i-made-javascript-execution-visual-and-r_1945e35653.md",
+    "source": "devto",
+    "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
+    "url": "https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4",
+    "keywords": [
+      "made javascript execution visual",
+      "made javascript execution visual",
+      "dsa view view 👀👀)",
+      "dsa view view 👀👀)",
+      "03z hoi hoi",
+      "recently knocked",
+      "frontend engineer",
+      "source",
+      "rewindable",
+      "rewindable"
+    ],
+    "summary": "# How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀) > Source: devto | Category: news | 2026-07-29T11:51:03Z I'm @nyaomaru, a frontend engineer who was recently knocked off my feet by how good the..."
+  },
+  "6ab39064f22f7cbd": {
+    "file": "corpus/devto/dev_to_opango_timmy14_building-rugby-apps-from-fan-tools-to-_163414b8ff.md",
+    "source": "devto",
+    "title": "Building Rugby Apps - From Fan Tools To Training Platforms",
+    "url": "https://dev.to/opango_timmy14/building-rugby-apps-from-fan-tools-to-training-platforms-1o2p",
+    "keywords": [
+      "powers professional rugby",
+      "building rugby apps",
+      "building rugby apps",
+      "video ...",
+      "training platforms",
+      "training platforms",
+      "tackle metrics",
+      "post 3",
+      "gps load",
+      "fan tools"
+    ],
+    "summary": "# Building Rugby Apps - From Fan Tools To Training Platforms > Source: devto | Category: news | 2026-07-29T11:51:02Z In Post 3 we looked at the data that now powers professional rugby - GPS load, tackle metrics, video..."
+  },
+  "348d774f638fe63c": {
+    "file": "corpus/devto/dev_to_mukul_sharma_61fc4dd6f9d8_nginx-actually-explained-ar_e1767182b4.md",
+    "source": "devto",
+    "title": "NGINX, Actually Explained: Architecture, Config, and the Mental Model That Makes It Click",
+    "url": "https://dev.to/mukul_sharma_61fc4dd6f9d8/nginx-actually-explained-architecture-config-and-the-mental-model-that-makes-it-click-10bf",
+    "keywords": [
+      "502 goes away",
+      "people meet nginx",
+      "mental model",
+      "mental model",
+      "magic file",
+      "actually explained",
+      "actually explained",
+      "nginx",
+      "nginx",
+      "source"
+    ],
+    "summary": "# NGINX, Actually Explained: Architecture, Config, and the Mental Model That Makes It Click > Source: devto | Category: news | 2026-07-29T11:51:04Z Most people meet NGINX as a magic file they copy-paste until the 502 goes away."
+  },
+  "aa58214e74fcc7b2": {
+    "file": "corpus/devto/dev_to_dannwaneri_why-kimi-k3-still-cant-do-what-einstein-di_6693021c8e.md",
+    "source": "devto",
+    "title": "Why Kimi K3 Still Can't Do What Einstein Did",
+    "url": "https://dev.to/dannwaneri/why-kimi-k3-still-cant-do-what-einstein-did-2l6d",
+    "keywords": [
+      "kimi k3 still",
+      "kimi k3 still",
+      "almost never get",
+      "seismic trace",
+      "get",
+      "thing",
+      "studying",
+      "source",
+      "see",
+      "reactions"
+    ],
+    "summary": "# Why Kimi K3 Still Can't Do What Einstein Did > Source: devto | Category: news | 2026-07-29T11:51:03Z In geophysics you almost never get to see the thing you're studying."
+  },
+  "143ee63ca6cafe16": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_elon-musk-finally-launch_b0e49fbf7c.md",
+    "source": "legal",
+    "title": "[ars-policy] Elon Musk finally launches X Money. What could possibly go wrong?",
+    "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+    "keywords": [
+      "major us financial markets",
+      "could possibly go wrong",
+      "could possibly go wrong",
+      "could possibly go wrong",
+      "x money rollout",
+      "expect bumps",
+      "source",
+      "policy",
+      "policy",
+      "legal"
+    ],
+    "summary": "# [ars-policy] Elon Musk finally launches X Money. Elon Musk finally launches X Money. Expect bumps with X Money rollout as major US financial markets are excluded."
+  },
+  "91babc670dc22645": {
+    "file": "corpus/product/techcrunch_com_2026_07_29_as-ai-content-floods-the-internet-_94a3fe9f00.md",
+    "source": "product",
+    "title": "[techcrunch-startups] As AI content floods the internet, Pangram raises $9M to detect it",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "keywords": [
+      "ai image detection model",
+      "ai detection software",
+      "ai content floods",
+      "ai content floods",
+      "ai content floods",
+      "research preview",
+      "also released",
+      "9 million",
+      "pangram raises",
+      "pangram raises"
+    ],
+    "summary": "# [techcrunch-startups] As AI content floods the internet, Pangram raises $9M to detect it As AI content floods the internet, Pangram raises $9M to detect it Pangram has raised $9 million to scale its AI detection software."
+  },
+  "9e0ddde96f47a799": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_these-near-mint-asus-_b35b9b942e.md",
+    "source": "security",
+    "title": "[bleeping-comp] These near-mint ASUS Chromebook refurbs are only $145",
+    "url": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+    "keywords": [
+      "asus chromebook cm30 refurb",
+      "mint asus chromebook refurbs",
+      "mint asus chromebook refurbs",
+      "mint asus chromebook refurbs",
+      "incredibly high tech prices",
+      "quality refurbished tech",
+      "mint condition",
+      "unique experience",
+      "new computer",
+      "145 buying"
+    ],
+    "summary": "# [bleeping-comp] These near-mint ASUS Chromebook refurbs are only $145 These near-mint ASUS Chromebook refurbs are only $145 This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg."
+  },
+  "6e18606bb2168606": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_long-lived-vulnerabil_1a9e46cd18.md",
+    "source": "security",
+    "title": "[schneier] Long-Lived Vulnerability in Microsoft Secure Boot",
+    "url": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
+    "keywords": [
+      "unified extensible firmware interface",
+      "identifying 11 firmware images",
+      "wide standard microsoft invented",
+      "technique simple enough",
+      "device &# 8217",
+      "publicly available images",
+      "software company anyway",
+      "extend secure boot",
+      "microsoft secure boot",
+      "microsoft secure boot"
+    ],
+    "summary": "Microsoft&#8217;s Secure Boot has had a  serious vulnerability  for most of its existence. An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware images, at least one from 2013, that were known to be defective but remained signed by the software company anyway."
+  },
+  "fe601ce89753fdbf": {
+    "file": "corpus/security/thehackernews_com_2026_07_russia-charges-telegram-founder-pa_6ddf8b231a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+    "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+    "keywords": [
+      "allegedly facilitating terrorist activities",
+      "principal security agency said",
+      "aiding terrorist activity",
+      "aiding terrorist activity",
+      "aiding terrorist activity",
+      "remove prohibited information",
+      "remove numerous channels",
+      "federal security service",
+      "instant messaging platform",
+      "wednesday said"
+    ],
+    "summary": "# [hacker-news-sec] Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law."
+  },
+  "d31107e99cb3fa16": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_cloudflare-internal-dns_utm_campa_6ab5b28ad8.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Makes Internal DNS Generally Available",
+    "url": "https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "service simplifies dns management",
+      "internal dns service",
+      "public dns operations",
+      "recursive dns",
+      "single platform",
+      "providing authoritative",
+      "private networks",
+      "gianmarco nalin",
+      "consolidating private",
+      "source"
+    ],
+    "summary": "# [infoq] Cloudflare Makes Internal DNS Generally Available Cloudflare has launched its Internal DNS service, providing authoritative and recursive DNS for private networks. This service simplifies DNS management by consolidating private and public DNS operations on a single platform."
+  },
+  "c2cb7ddda7313110": {
+    "file": "corpus/engineering/www_infoq_com_presentations_ai-lead-interview_utm_campaign_i_3268ebe5d3.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Getting Rid of LeetCode Interviews in the World of AI",
+    "url": "https://www.infoq.com/presentations/ai-lead-interview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "evaluate senior engineering talent",
+      "ai daniel doubrovkine explains",
+      "shares actionable frameworks",
+      "evaluating human judgment",
+      "daniel doubrovkine",
+      "system design",
+      "leetcode interviews",
+      "leetcode interviews",
+      "leetcode interviews",
+      "interview loop"
+    ],
+    "summary": "Daniel Doubrovkine explains why traditional LeetCode whiteboard interviews fail to evaluate senior engineering talent. He discusses his own experience bombing basic algorithm tests despite decades of leadership, and shares actionable frameworks for redefining the interview loop. Discover how evaluating human judgment, system design, and hands-on AI collaboration yields far better hiring signals."
+  },
+  "4a9084b0dc20c0db": {
+    "file": "corpus/hackernews/amiga_lychesis_net_index_html_39addf2c1c.md",
+    "source": "hackernews",
+    "title": "Amiga Graphics Archive",
+    "url": "https://amiga.lychesis.net/index.html",
+    "keywords": [
+      "amiga graphics archive",
+      "amiga graphics archive",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Amiga Graphics Archive > Source: hackernews | Category: news | 2026-07-29T11:50:55Z Score: 27 | Comments: 4"
+  },
+  "2206a08df779473c": {
+    "file": "corpus/hackernews/www_fcc_gov_sites_default_files_robots-nsd_pdf_140b670d36.md",
+    "source": "hackernews",
+    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+    "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "keywords": [
+      "produced robotic devices",
+      "produced robotic devices",
+      "54z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews",
+      "foreign",
+      "foreign"
+    ],
+    "summary": "# National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf] > Source: hackernews | Category: news | 2026-07-29T11:50:54Z Score: 30 | Comments: 20"
+  },
+  "98ed9a5494cc31c6": {
+    "file": "corpus/hackernews/www_scattered-thoughts_net_writing_the-shape-of-data_8da5765fb6.md",
+    "source": "hackernews",
+    "title": "The Shape of Data (2022)",
+    "url": "https://www.scattered-thoughts.net/writing/the-shape-of-data/",
+    "keywords": [
+      "59z score",
+      "source",
+      "shape",
+      "shape",
+      "news",
+      "hackernews",
+      "data",
+      "data",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Shape of Data (2022) > Source: hackernews | Category: news | 2026-07-29T11:50:59Z Score: 5 | Comments: 0"
+  },
+  "a0a19e65ece138a5": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-07-29_korean-stocks-tum_4f5533ed86.md",
+    "source": "hackernews",
+    "title": "Korean Stocks Plunge 16% in Two-Day Burst of Retail Selling",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
+    "keywords": [
+      "korean stocks plunge 16",
+      "korean stocks plunge 16",
+      "retail selling",
+      "retail selling",
+      "day burst",
+      "day burst",
+      "01z score",
+      "two",
+      "two",
+      "source"
+    ],
+    "summary": "# Korean Stocks Plunge 16% in Two-Day Burst of Retail Selling > Source: hackernews | Category: news | 2026-07-29T11:51:01Z Score: 8 | Comments: 3"
+  },
+  "75488e9f36ca7d68": {
+    "file": "corpus/hackernews/vimgolf_ai_fa6ec642b4.md",
+    "source": "hackernews",
+    "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+    "url": "https://vimgolf.ai",
+    "keywords": [
+      "ai – learn vim",
+      "ai – learn vim",
+      "never used vim",
+      "complicated concepts —",
+      "users complete",
+      "show hn",
+      "show hn",
+      "much appreciated",
+      "introduce progressively",
+      "feedback would"
+    ],
+    "summary": "# Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be much appreciated!"
+  },
+  "12f0562d9c287362": {
+    "file": "corpus/hackernews/docs_imiron_io_v_0_5_10_en_tour_html_0e5ed00042.md",
+    "source": "hackernews",
+    "title": "SpecForge – A Platform for Authoring Formal Specifications",
+    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "keywords": [
+      "authoring formal specifications",
+      "authoring formal specifications",
+      "specforge –",
+      "specforge –",
+      "55z score",
+      "source",
+      "platform",
+      "platform",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# SpecForge – A Platform for Authoring Formal Specifications > Source: hackernews | Category: news | 2026-07-29T11:50:55Z Score: 22 | Comments: 1"
+  },
+  "d1c38277f1755a99": {
+    "file": "corpus/hackernews/www_primeintellect_ai_blog_scaling-agentic-rl_9d6ab1e86e.md",
+    "source": "hackernews",
+    "title": "Scaling Agentic RL: 365,000 Environments for SWE, Terminal, and Search",
+    "url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+    "keywords": [
+      "scaling agentic rl",
+      "scaling agentic rl",
+      "00z score",
+      "000 environments",
+      "000 environments",
+      "terminal",
+      "terminal",
+      "swe",
+      "swe",
+      "source"
+    ],
+    "summary": "# Scaling Agentic RL: 365,000 Environments for SWE, Terminal, and Search > Source: hackernews | Category: news | 2026-07-29T11:51:00Z Score: 3 | Comments: 0"
+  },
+  "b55b470be433a913": {
+    "file": "corpus/hackernews/www_euronews_com_culture_2026_07_02_ancient-romes-version-of_a899f3018b.md",
+    "source": "hackernews",
+    "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
+    "url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
+    "keywords": [
+      "google maps",
+      "google maps",
+      "ancient rome",
+      "ancient rome",
+      "56z score",
+      "version",
+      "version",
+      "source",
+      "reach",
+      "reach"
+    ],
+    "summary": "# Ancient Rome's version of Google Maps: how long to reach the beach > Source: hackernews | Category: news | 2026-07-29T11:50:56Z Score: 25 | Comments: 21"
+  },
+  "4d1716e749b28786": {
+    "file": "corpus/hackernews/www_mylondon_news_news_transport_only-road-london-you-drive-_ea76f91898.md",
+    "source": "hackernews",
+    "title": "The only road in London where you have to drive on the right",
+    "url": "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294",
+    "keywords": [
+      "58z score",
+      "source",
+      "road",
+      "road",
+      "right",
+      "right",
+      "news",
+      "london",
+      "london",
+      "hackernews"
+    ],
+    "summary": "# The only road in London where you have to drive on the right > Source: hackernews | Category: news | 2026-07-29T11:50:58Z Score: 4 | Comments: 1"
+  },
+  "e84c0ce5453c2e4a": {
+    "file": "corpus/podcast/syntax_fm_1025_da6a372589.md",
+    "source": "podcast",
+    "title": "[syntax-fm] 1025: The Open Web's second chance (w/ Dan Abramov)",
+    "url": "https://syntax.fm/1025",
+    "keywords": [
+      "x instagram youtube threads",
+      "instant navigations hit us",
+      "data integration challenges stream",
+      "open standard quietly rebuilding",
+      "protocol patterns ufos 28",
+      "dan abramov joins scott",
+      "12 public data",
+      "show notes 00",
+      "crypto connections 44",
+      "59 addressing abuse"
+    ],
+    "summary": "# [syntax-fm] 1025: The Open Web's second chance (w/ Dan Abramov) They get into how it actually works, why it’s way bigger than just Bluesky, and why Dan calls it one of the most interesting ideas on the internet right now. 19:12 Public Data and Future Extensions of AT Protocol"
   }
 }
