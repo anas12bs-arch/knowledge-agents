@@ -321671,5 +321671,117 @@
       "29t21"
     ],
     "summary": "# A Trampoline > Source: hackernews | Category: news | 2026-07-29T21:13:53Z Score: 19 | Comments: 5"
+  },
+  "230fc1c4727b08f3": {
+    "file": "corpus/devto/dev_to_maverickyadav_-llms-cant-reliably-do-date-math-and-no_47ace33606.md",
+    "source": "devto",
+    "title": "LLMs Can't Reliably Do Date Math — And Now There's Data",
+    "url": "https://dev.to/maverickyadav/-llms-cant-reliably-do-date-math-and-now-theres-data-4hm2",
+    "keywords": [
+      "safest possible thing",
+      "judgment call ,...",
+      "date math —",
+      "date math —",
+      "source",
+      "reliably",
+      "reliably",
+      "reactions",
+      "news",
+      "llms"
+    ],
+    "summary": "# LLMs Can't Reliably Do Date Math — And Now There's Data > Source: devto | Category: news | 2026-07-29T22:12:49Z Date arithmetic looks like the safest possible thing to hand an LLM."
+  },
+  "c7c7999817c07393": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisco-warns-of-fmc-st_8f821d2f9c.md",
+    "source": "security",
+    "title": "[bleeping-comp] Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+    "keywords": [
+      "static credential vulnerability",
+      "gain unauthorized access",
+      "40z cisco warns",
+      "day attacks cisco",
+      "cisco warns",
+      "cisco warns",
+      "day attacks",
+      "day attacks",
+      "day attacks",
+      "vulnerable devices"
+    ],
+    "summary": "# [bleeping-comp] Cisco warns of FMC static credential flaw exploited in zero-day attacks Cisco warns of FMC static credential flaw exploited in zero-day attacks Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices."
+  },
+  "940c7a2ba005afc2": {
+    "file": "corpus/hackernews/www_science_org_content_article_ai-s-top-startups-are-barely_4095f61d03.md",
+    "source": "hackernews",
+    "title": "AI's top startups are barely publishing their research",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "keywords": [
+      "top startups",
+      "top startups",
+      "barely publishing",
+      "barely publishing",
+      "38z score",
+      "source",
+      "research",
+      "research",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# AI's top startups are barely publishing their research > Source: hackernews | Category: news | 2026-07-29T22:12:38Z Score: 39 | Comments: 29"
+  },
+  "e902b62be3fd973d": {
+    "file": "corpus/hackernews/www_simonholywell_com_post_git-add-p_bab35a65dd.md",
+    "source": "hackernews",
+    "title": "Staging patches with Git add -p",
+    "url": "https://www.simonholywell.com/post/git-add-p/",
+    "keywords": [
+      "staging patches",
+      "staging patches",
+      "git add",
+      "git add",
+      "40z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Staging patches with Git add -p > Source: hackernews | Category: news | 2026-07-29T22:12:40Z Score: 13 | Comments: 8"
+  },
+  "4b53907190d46771": {
+    "file": "corpus/hackernews/thenewstack_io_nanoclaw-echo-agent-runtime_2e0689d158.md",
+    "source": "hackernews",
+    "title": "NanoClaw and Echo launch agent runtime that secures browsers, tools and libs",
+    "url": "https://thenewstack.io/nanoclaw-echo-agent-runtime/",
+    "keywords": [
+      "echo launch agent runtime",
+      "echo launch agent runtime",
+      "secures browsers",
+      "secures browsers",
+      "45z score",
+      "tools",
+      "tools",
+      "source",
+      "news",
+      "nanoclaw"
+    ],
+    "summary": "# NanoClaw and Echo launch agent runtime that secures browsers, tools and libs > Source: hackernews | Category: news | 2026-07-29T22:12:45Z Score: 7 | Comments: 0"
+  },
+  "e5d959fccf51e7db": {
+    "file": "corpus/devops/devops_com_openai-open-sources-codex-security-cli-for-the-me_71fb394730.md",
+    "source": "devops",
+    "title": "[devops-com] OpenAI Open Sources Codex Security CLI for the Merge Path",
+    "url": "https://devops.com/openai-open-sources-codex-security-cli-for-the-merge-path/",
+    "keywords": [
+      "compare findings across scans",
+      "codex security command",
+      "ai security scanner",
+      "[&# 8230 ;]",
+      "software development kit",
+      "open source software",
+      "merge path openai",
+      "merge path",
+      "merge path",
+      "development workflows"
+    ],
+    "summary": "# [devops-com] OpenAI Open Sources Codex Security CLI for the Merge Path OpenAI Open Sources Codex Security CLI for the Merge Path OpenAI has released its Codex Security command-line interface and software development kit as open source software under the Apache 2.0 license, providing a new way to bring its AI security scanner into development workflows."
   }
 }
