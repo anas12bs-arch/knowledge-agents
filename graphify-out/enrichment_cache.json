@@ -316571,5 +316571,269 @@
       "pdf"
     ],
     "summary": "# Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf] > Source: hackernews | Category: news | 2026-07-29T01:10:39Z Score: 3 | Comments: 0"
+  },
+  "510c90c339120dce": {
+    "file": "corpus/devto/dev_to_crichter_building-an-mcp-server-on-31-million-rows-of_0cc30dd867.md",
+    "source": "devto",
+    "title": "Building an MCP Server on 31 Million Rows of Financial Data",
+    "url": "https://dev.to/crichter/building-an-mcp-server-on-31-million-rows-of-financial-data-1p8f",
+    "keywords": [
+      "gives claude sql access",
+      "31 million rows",
+      "31 million rows",
+      "us stock data",
+      "python mcp server",
+      "mcp server",
+      "mcp server",
+      "financial data",
+      "financial data",
+      "64 years"
+    ],
+    "summary": "# Building an MCP Server on 31 Million Rows of Financial Data Architecture of a Python MCP server that gives Claude SQL access to 64 years of US stock data. PostgreSQL, dbt, DuckDB, FastMCP."
+  },
+  "8cbf7ef62c433fce": {
+    "file": "corpus/devto/dev_to_reporails_loop-engineering-stop-failed-successfully-1_8ad194724c.md",
+    "source": "devto",
+    "title": "Loop Engineering: Stop Failed Successfully",
+    "url": "https://dev.to/reporails/loop-engineering-stop-failed-successfully-1kno",
+    "keywords": [
+      "stop failed successfully",
+      "stop failed successfully",
+      "still ringing ears",
+      "productive conversation",
+      "loop engineering",
+      "loop engineering",
+      "source",
+      "reactions",
+      "news",
+      "lovely"
+    ],
+    "summary": "# Loop Engineering: Stop Failed Successfully > Source: devto | Category: news | 2026-07-29T04:27:49Z After a lovely and productive conversation with your client, with still ringing ears, you check the..."
+  },
+  "fb3518c64e7ac58a": {
+    "file": "corpus/devto/dev_to_alex_spinov_x402-signs-the-money-not-the-url-i-checke_60b82aef3b.md",
+    "source": "devto",
+    "title": "x402 Signs the Money, Not the URL. I Checked 18 Fields.",
+    "url": "https://dev.to/alex_spinov/x402-signs-the-money-not-the-url-i-checked-18-fields-429a",
+    "keywords": [
+      "mutated 18 leaf fields",
+      "checked 18 fields",
+      "checked 18 fields",
+      "8 changes leave",
+      "x402 payer signature",
+      "signature valid",
+      "x402 signs",
+      "x402 signs",
+      "example payload",
+      "url"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-29T04:27:50Z An x402 payer signature does not cover the URL. I mutated 18 leaf fields of the spec's example payload: 8 changes leave the signature valid."
+  },
+  "5ea204b5ea9bc600": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_28_a-blackout-protest-over-sony-dit_772330b7ad.md",
+    "source": "legal",
+    "title": "[techdirt] A Blackout Protest Over Sony Ditching Disks Is Brewing",
+    "url": "https://www.techdirt.com/2026/07/28/a-blackout-protest-over-sony-ditching-disks-is-brewing/",
+    "keywords": [
+      "brewing sony &# 8217",
+      "sony ditching disks",
+      "sony ditching disks",
+      "sony ditching disks",
+      "[&# 8230 ;]",
+      "&# 8217",
+      "&# 8217",
+      "sony reminding",
+      "ripped away",
+      "initial backlash"
+    ],
+    "summary": "# [techdirt] A Blackout Protest Over Sony Ditching Disks Is Brewing A Blackout Protest Over Sony Ditching Disks Is Brewing Sony&#8217;s decision to stop producing PlayStation discs starting in 2028 was met with a ton of initial backlash, especially in the wake of Sony reminding its customers yet again that a digital purchase of content isn&#8217;t actually a purchase of content at all and what you&#8217;ve bought can be ripped away from you with the [&#8230;]"
+  },
+  "caaa4dda658ac65f": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_measuring-llms-abilit_2d96909279.md",
+    "source": "security",
+    "title": "[schneier] Measuring LLMs’ Ability to Perform Cryptanalysis",
+    "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+    "keywords": [
+      "four nist standardization competitions",
+      "24 ­ 61 across",
+      "break 65 %­ 86",
+      "6 ­ 12 tier",
+      "beyond deriving known results",
+      "models produce novel cryptanalysis",
+      "measuring llms ’ ability",
+      "measuring llms ’ ability",
+      "cryptographic schemes &# 8212",
+      "tier 1 schemes"
+    ],
+    "summary": "In this paper we ask whether LLMs can do cryptanalysis, and find that the answer is increasingly yes. We introduce CryptanalysisBench, 191 tasks across six families of cryptographic primitives (block ciphers, hash functions, etc.) Beyond deriving known results, models produce novel cryptanalysis, such as a key-recovery attack that exploits a design flaw in the SpoC AEAD and an error in KINDI’s published CCA-security proof, both to the best of our knowledge not previously known..."
+  },
+  "a045dfa0a75ccf16": {
+    "file": "corpus/security/thehackernews_com_2026_07_two-compromised-joyfill-npm-packag_42d1eedeb2.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+    "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "keywords": [
+      "js beta release versions",
+      "time javascript implant",
+      "resolves encrypted code",
+      "remote access trojan",
+      "popper malware family",
+      "two npm packages",
+      "two packages",
+      "affected packages",
+      "joyfill namespace"
+    ],
+    "summary": "# [hacker-news-sec] Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The two packages \"contain an import-time JavaScript implant that resolves encrypted code"
+  },
+  "635d736fc75d2d97": {
+    "file": "corpus/hackernews/transformer-transformer_github_io_dccd1f126a.md",
+    "source": "hackernews",
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "url": "https://transformer-transformer.github.io/",
+    "keywords": [
+      "conditioned robot co",
+      "conditioned robot co",
+      "unified model",
+      "unified model",
+      "transformer transformer",
+      "transformer transformer",
+      "42z score",
+      "source",
+      "news",
+      "motion"
+    ],
+    "summary": "# Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design > Source: hackernews | Category: news | 2026-07-29T04:27:42Z Score: 4 | Comments: 0"
+  },
+  "e42296f6baf382b2": {
+    "file": "corpus/hackernews/blinry_org_multi-seat-wayland_2e7252f150.md",
+    "source": "hackernews",
+    "title": "Multiple Mouse Cursors in Wayland",
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "keywords": [
+      "multiple mouse cursors",
+      "multiple mouse cursors",
+      "41z score",
+      "wayland",
+      "wayland",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Multiple Mouse Cursors in Wayland > Source: hackernews | Category: news | 2026-07-29T04:27:41Z Score: 51 | Comments: 23"
+  },
+  "72bcc8fbbf185457": {
+    "file": "corpus/hackernews/github_com_lensapp_openshell-k8s-operator_397faea650.md",
+    "source": "hackernews",
+    "title": "OpenShell Kubernetes Operator",
+    "url": "https://github.com/lensapp/openshell-k8s-operator",
+    "keywords": [
+      "openshell kubernetes operator",
+      "openshell kubernetes operator",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "29t04"
+    ],
+    "summary": "# OpenShell Kubernetes Operator > Source: hackernews | Category: news | 2026-07-29T04:27:44Z Score: 7 | Comments: 0"
+  },
+  "7e65df85f2646be3": {
+    "file": "corpus/hackernews/blog_apnic_net_2026_07_28_hooray-for-the-sockets-interface_108478140e.md",
+    "source": "hackernews",
+    "title": "Hooray for the Sockets Interface",
+    "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "keywords": [
+      "sockets interface",
+      "sockets interface",
+      "42z score",
+      "source",
+      "news",
+      "hooray",
+      "hooray",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Hooray for the Sockets Interface > Source: hackernews | Category: news | 2026-07-29T04:27:42Z Score: 12 | Comments: 6"
+  },
+  "78b2e194fc73dd74": {
+    "file": "corpus/hackernews/github_com_jagg-ix_zil-lean_7c4468a0a2.md",
+    "source": "hackernews",
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "keywords": [
+      "improve without big engines",
+      "external infrastructure .< p",
+      "lean4 datalog dsl based",
+      "lean4 datalog dsl based",
+      "pubtools &# x2f",
+      "media &# x2f",
+      "media &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "google &# x27"
+    ],
+    "summary": "# Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.<p>Google&#x27;s Zanzibar paper: <a href=\"https:&#x2F;&#x2F;storage.googleapis.com&#x2F;gweb-research2023"
+  },
+  "fb9c158ff6c62b37": {
+    "file": "corpus/hackernews/learnvector_ai_ea153b4bd6.md",
+    "source": "hackernews",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "url": "https://learnvector.ai/",
+    "keywords": [
+      "‑ one learning experiences",
+      "‑ one learning experiences",
+      "learnvector – andrew ng",
+      "learnvector – andrew ng",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences > Source: hackernews | Category: news | 2026-07-29T04:27:41Z Score: 85 | Comments: 47"
+  },
+  "398bacaed3588836": {
+    "file": "corpus/hackernews/aeon_co_essays_uncovering-a-global-ancient-history-beyond-gr_70e3a7f72f.md",
+    "source": "hackernews",
+    "title": "Beyond Greece and Rome",
+    "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+    "keywords": [
+      "beyond greece",
+      "beyond greece",
+      "42z score",
+      "source",
+      "rome",
+      "rome",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Beyond Greece and Rome > Source: hackernews | Category: news | 2026-07-29T04:27:42Z Score: 13 | Comments: 0"
+  },
+  "801aa64014eb8813": {
+    "file": "corpus/hackernews/abeljansma_nl_2026_07_10_truth-is-not-a-direction_html_81b56ea8b9.md",
+    "source": "hackernews",
+    "title": "Truth is not a direction: a Tarski attack on LLM probes",
+    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "keywords": [
+      "tarski attack",
+      "tarski attack",
+      "llm probes",
+      "llm probes",
+      "42z score",
+      "truth",
+      "truth",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Truth is not a direction: a Tarski attack on LLM probes > Source: hackernews | Category: news | 2026-07-29T04:27:42Z Score: 46 | Comments: 12"
   }
 }
