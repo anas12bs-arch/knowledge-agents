@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates"
+url: "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-07-29T09:50:40Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates
+
+> Source: security | Category: security | 2026-07-29T09:50:40Z
+
+Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates
+
+Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.
+
+They linked the framework to a fake "公安一网通办" Public Security service application targeting Android users in China. The kit supports payment-password
