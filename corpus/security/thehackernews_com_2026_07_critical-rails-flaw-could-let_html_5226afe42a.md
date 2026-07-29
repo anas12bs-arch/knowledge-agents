@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads"
+url: "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-07-29T19:08:11Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
+
+> Source: security | Category: security | 2026-07-29T19:08:11Z
+
+Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
+
+Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.
+
+Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,

@@ -320525,5 +320525,511 @@
       "scale"
     ],
     "summary": "# [devops-com] Why Agentic Coding Needs Governance at Scale Why Agentic Coding Needs Governance at Scale CloudBees CEO Moritz Plassnig joins Alan Shimel to explain why agentic coding is exposing every unfinished piece of the DevOps transformation — and why AI-scale delivery needs AI-scale governance."
+  },
+  "7d32169405375e32": {
+    "file": "corpus/devto/dev_to_techwithhari_vault-cant-found-what-a-live-audit-found_4a2a47a81c.md",
+    "source": "devto",
+    "title": "Vault cant found What a Live Audit Found That Code Review Never Would",
+    "url": "https://dev.to/techwithhari/vault-cant-found-what-a-live-audit-found-that-code-review-never-would-548e",
+    "keywords": [
+      "code review never would",
+      "code review never would",
+      "vault cant found",
+      "vault cant found",
+      "live audit found",
+      "live audit found",
+      "code looks correct",
+      "one hid",
+      "bugs hide",
+      "code"
+    ],
+    "summary": "# Vault cant found What a Live Audit Found That Code Review Never Would > Source: devto | Category: news | 2026-07-29T19:08:23Z Some bugs hide in logic."
+  },
+  "164d4dbcde4afac8": {
+    "file": "corpus/devto/dev_to_mariatanbobo_the-era-of-probabilistic-defense-is-over_7c1c124d73.md",
+    "source": "devto",
+    "title": "The Era of Probabilistic Defense Is Over",
+    "url": "https://dev.to/mariatanbobo/the-era-of-probabilistic-defense-is-over-4d0n",
+    "keywords": [
+      "hugging face intrusion",
+      "600 attempts —",
+      "probabilistic defense",
+      "probabilistic defense",
+      "novel exploit",
+      "changes ...",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The Era of Probabilistic Defense Is Over &gt; The Hugging Face intrusion wasn't a novel exploit. It was 17,600 attempts — and that changes..."
+  },
+  "101890c03a031a6e": {
+    "file": "corpus/devto/dev_to_dongjiang_why-i-built-e2bgateway-solving-ai-agent-san_24ca593b22.md",
+    "source": "devto",
+    "title": "Why I Built E2BGateway: Solving AI Agent Sandbox Vendor Lock-in",
+    "url": "https://dev.to/dongjiang/why-i-built-e2bgateway-solving-ai-agent-sandbox-vendor-lock-in-51k6",
+    "keywords": [
+      "built e2bgateway",
+      "built e2bgateway",
+      "built e2bgateway",
+      "source",
+      "reactions",
+      "news",
+      "introduction",
+      "devto",
+      "category",
+      "29t19"
+    ],
+    "summary": "# Why I Built E2BGateway: Solving AI Agent Sandbox Vendor Lock-in > Source: devto | Category: news | 2026-07-29T19:08:25Z Why I Built E2BGateway: Solving AI Agent Sandbox Vendor Lock-in            Introduction   If..."
+  },
+  "0051867f13a15019": {
+    "file": "corpus/devto/dev_to_manucodes_i-built-a-macos-app-on-a-912-hour-flight-wh_078f4dc0d8.md",
+    "source": "devto",
+    "title": "I built a macOS app on a 9 hour flight which renames your Downloads folder full of junk",
+    "url": "https://dev.to/__manucodes/i-built-a-macos-app-on-a-912-hour-flight-which-renames-your-downloads-folder-full-of-junk-3afm",
+    "keywords": [
+      "downloads folder full",
+      "downloads folder full",
+      "9½ hour flight",
+      "9 hour flight",
+      "9 hour flight",
+      "screenshot ...",
+      "macos app",
+      "macos app",
+      "macos app",
+      "files named"
+    ],
+    "summary": "# I built a macOS app on a 9 hour flight which renames your Downloads folder full of junk > Source: devto | Category: news | 2026-07-29T19:08:21Z I built a macOS app on a 9½ hour flight after work because I was tired of files named \"Screenshot..."
+  },
+  "5b21c4b1f2ba4d0e": {
+    "file": "corpus/devto/dev_to_donk8r_workflows-come-to-the-cloud-running-multi-agen_b9e789c0d0.md",
+    "source": "devto",
+    "title": "Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser",
+    "url": "https://dev.to/donk8r/workflows-come-to-the-cloud-running-multi-agent-pipelines-from-the-browser-4lg",
+    "keywords": [
+      "23z workflows come",
+      "workflows come",
+      "workflows come",
+      "running multi",
+      "running multi",
+      "running multi",
+      "agent pipelines",
+      "agent pipelines",
+      "agent pipelines",
+      "source"
+    ],
+    "summary": "# Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser > Source: devto | Category: news | 2026-07-29T19:08:23Z Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser   I've been..."
+  },
+  "2c36d42f0845e085": {
+    "file": "corpus/devto/dev_to_eeyzs1_i-built-an-ai-ide-that-shows-you-exactly-what-_c1a0f7335c.md",
+    "source": "devto",
+    "title": "I built an AI IDE that shows you exactly what it sends to the model",
+    "url": "https://dev.to/eeyzs1/i-built-an-ai-ide-that-shows-you-exactly-what-it-sends-to-the-model-3jh8",
+    "keywords": [
+      "reasonable ,...",
+      "ai ide",
+      "ai ide",
+      "trust",
+      "source",
+      "shows",
+      "shows",
+      "sends",
+      "sends",
+      "sends"
+    ],
+    "summary": "# I built an AI IDE that shows you exactly what it sends to the model > Source: devto | Category: news | 2026-07-29T19:08:25Z Every AI coding tool asks for the same leap of faith: trust that the context it sends is reasonable,..."
+  },
+  "aa9140bc1259ab48": {
+    "file": "corpus/devto/dev_to_xenocoregiger31_i-built-a-security-tool-that-proves-i_2880777710.md",
+    "source": "devto",
+    "title": "I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments",
+    "url": "https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1",
+    "keywords": [
+      "one embarrassing failure mode",
+      "better threat model",
+      "better threat model",
+      "23z automated offense",
+      "exploits —",
+      "exploits —",
+      "security tool",
+      "security tool",
+      "tool",
+      "winning"
+    ],
+    "summary": "# I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments > Source: devto | Category: news | 2026-07-29T19:08:23Z Automated offense has one embarrassing failure mode: it lies to you about winning."
+  },
+  "0f40f4596c9f5f41": {
+    "file": "corpus/devto/dev_to_defilan_foreman-101-agentic-coding-as-kubernetes-reso_81d3d647fa.md",
+    "source": "devto",
+    "title": "Foreman 101: agentic coding as Kubernetes resources",
+    "url": "https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33",
+    "keywords": [
+      "kubernetes resources",
+      "kubernetes resources",
+      "kubernetes resources",
+      "foreman 101",
+      "foreman 101",
+      "describe work",
+      "agentic coding",
+      "agentic coding",
+      "agentic coder",
+      "23z foreman"
+    ],
+    "summary": "# Foreman 101: agentic coding as Kubernetes resources Foreman is an agentic coder that runs as Kubernetes resources. You describe work as a Workload, it..."
+  },
+  "33e02636eda45f28": {
+    "file": "corpus/devto/dev_to_gitguardian_blast-radius-what-a-leaked-secret-breaks-_31da357d68.md",
+    "source": "devto",
+    "title": "Blast Radius: What a Leaked Secret Breaks",
+    "url": "https://dev.to/gitguardian/blast-radius-what-a-leaked-secret-breaks-52mk",
+    "keywords": [
+      "leaked secret breaks",
+      "leaked secret breaks",
+      "two layers",
+      "topology signals",
+      "local signals",
+      "blast radius",
+      "blast radius",
+      "blast ...",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Blast Radius: What a Leaked Secret Breaks > Source: devto | Category: news | 2026-07-29T19:08:23Z Why identity-local signals and topology signals are two layers of the same blast..."
+  },
+  "35c1bca4df8f6363": {
+    "file": "corpus/devto/dev_to_alexcrazy74_why-even-advanced-ai-breaks-stock-registe_a85f1262ed.md",
+    "source": "devto",
+    "title": "Why Even Advanced AI Breaks Stock Registers: 12 Years of Snapshot Log Evolution and RDBMS Physics",
+    "url": "https://dev.to/alexcrazy74/why-even-advanced-ai-breaks-stock-registers-12-years-of-snapshot-log-evolution-and-rdbms-physics-17j7",
+    "keywords": [
+      "ever designed inventory accounting",
+      "snapshot log evolution",
+      "snapshot log evolution",
+      "rdbms physics",
+      "rdbms physics",
+      "erp system",
+      "calculating ...",
+      "12 years",
+      "12 years",
+      "source"
+    ],
+    "summary": "# Why Even Advanced AI Breaks Stock Registers: 12 Years of Snapshot Log Evolution and RDBMS Physics > Source: devto | Category: news | 2026-07-29T19:08:21Z If you have ever designed inventory accounting, an ERP system, or billing, you know: calculating..."
+  },
+  "cb8da3c62ff8be7f": {
+    "file": "corpus/devto/dev_to_saint_vandora_how-to-give-a-linux-user-scoped-access-_f5db33f7bf.md",
+    "source": "devto",
+    "title": "How to Give a Linux User Scoped Access to a Specific Docker Container (Without Exposing the Entire Server)",
+    "url": "https://dev.to/saint_vandora/how-to-give-a-linux-user-scoped-access-to-a-specific-docker-container-without-exposing-the-entire-10ck",
+    "keywords": [
+      "linux user scoped access",
+      "linux user scoped access",
+      "specific docker container",
+      "specific docker container",
+      "shared linux server",
+      "run multiple services",
+      "common devops challenges",
+      "entire server",
+      "entire server",
+      "without exposing"
+    ],
+    "summary": "# How to Give a Linux User Scoped Access to a Specific Docker Container (Without Exposing the Entire Server) > Source: devto | Category: news | 2026-07-29T19:08:23Z When you run multiple services on a shared Linux server, one of the most common DevOps challenges is..."
+  },
+  "997696804440355d": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_elon-musks-xai-is-trying_f574fec13b.md",
+    "source": "legal",
+    "title": "[ars-policy] Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+    "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+    "keywords": [
+      "12z elon musk ’",
+      "elon musk ’",
+      "elon musk ’",
+      "nudifying app ban",
+      "says minnesota",
+      "grok reckoning",
+      "grok reckoning",
+      "xai",
+      "xai",
+      "xai"
+    ],
+    "summary": "# [ars-policy] Elon Musk’s xAI is trying to sue its way out of a Grok reckoning Elon Musk’s xAI is trying to sue its way out of a Grok reckoning Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
+  },
+  "796ea96ecd0870dd": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_29_anthropic-says-its-against-a-ban_7f7d2254df.md",
+    "source": "legal",
+    "title": "[techdirt] Anthropic Says It’s Against A Ban On Open Weight Models. It Just Wants To Ban Everything That Makes Them Good.",
+    "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
+    "keywords": [
+      "using nearly identical arguments",
+      "used [&# 8230 ;]",
+      "us might &# 8220",
+      "somehow &# 8220",
+      "recently karl warned",
+      "open weight models",
+      "open weight models",
+      "open weight models",
+      "chinese ai models",
+      "ban &# 8221"
+    ],
+    "summary": "# [techdirt] Anthropic Says It’s Against A Ban On Open Weight Models. Just recently Karl warned that we were going to see some absolute nonsense as the US sought to somehow &#8220;ban&#8221; Chinese AI models from being used in the US. It kicked off with talk that the US might &#8220;fight Chinese AI&#8221; using nearly identical arguments to what was used [&#8230;]"
+  },
+  "3bf2b4065e977932": {
+    "file": "corpus/product/techcrunch_com_2026_07_29_claude-opus-5-became-downright-rut_8afcd5a2fb.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "keywords": [
+      "best ai capitalist ever",
+      "vending machine andon labs",
+      "vending machine",
+      "vending machine",
+      "way",
+      "techcrunch",
+      "techcrunch",
+      "tasked",
+      "tasked",
+      "tasked"
+    ],
+    "summary": "# [techcrunch-startups] Claude Opus 5 became downright ruthless when tasked with running a vending machine Claude Opus 5 became downright ruthless when tasked with running a vending machine Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+  },
+  "ba7aa70ba5d3fe1c": {
+    "file": "corpus/security/thehackernews_com_2026_07_critical-rails-flaw-could-let_html_5226afe42a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+    "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+    "keywords": [
+      "critical active storage vulnerability",
+      "cloud storage credentials",
+      "crafted image uploads",
+      "rails process environment",
+      "rails master key",
+      "released fixes",
+      "database passwords",
+      "cvss score",
+      "application servers",
+      "5 ),"
+    ],
+    "summary": "# [hacker-news-sec] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads."
+  },
+  "d1f718e3f8ef768e": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_ai-gateway-adds-unified-fast-mode-suppo_a049d55f42.md",
+    "source": "vercel-blog",
+    "title": "AI Gateway adds unified fast mode support",
+    "url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+    "keywords": [
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "29t19",
+      "2026"
+    ],
+    "summary": "# AI Gateway adds unified fast mode support > Source: vercel-blog | Category: news | 2026-07-29T19:08:26Z AI Gateway adds unified fast mode support"
+  },
+  "4171e5f3c5274b22": {
+    "file": "corpus/hackernews/theloop_ecpr_eu_who-the-welfare-state-protects-shapes-a-coun_7936d9c1f2.md",
+    "source": "hackernews",
+    "title": "Austerity Breeds Financial Protectionism",
+    "url": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
+    "keywords": [
+      "austerity breeds financial protectionism",
+      "austerity breeds financial protectionism",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "29t19"
+    ],
+    "summary": "# Austerity Breeds Financial Protectionism > Source: hackernews | Category: news | 2026-07-29T19:08:14Z Score: 4 | Comments: 1"
+  },
+  "6b0fa89ec80f450f": {
+    "file": "corpus/hackernews/www_darktrace_com_blog_the-growing-threat-of-docusign-phishi_ba16761636.md",
+    "source": "hackernews",
+    "title": "The Growing Threat of Docusign Phishing Attacks",
+    "url": "https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks",
+    "keywords": [
+      "docusign phishing attacks",
+      "docusign phishing attacks",
+      "growing threat",
+      "growing threat",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Growing Threat of Docusign Phishing Attacks > Source: hackernews | Category: news | 2026-07-29T19:08:16Z Score: 3 | Comments: 1"
+  },
+  "55c0f0be77d84972": {
+    "file": "corpus/hackernews/www_bbc_com_future_article_20260728-dancing-dots-the-motion-_5e130ede77.md",
+    "source": "hackernews",
+    "title": "The motion-sickness cure hidden in iPhone settings",
+    "url": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
+    "keywords": [
+      "sickness cure hidden",
+      "sickness cure hidden",
+      "iphone settings",
+      "iphone settings",
+      "16z score",
+      "source",
+      "news",
+      "motion",
+      "motion",
+      "hackernews"
+    ],
+    "summary": "# The motion-sickness cure hidden in iPhone settings > Source: hackernews | Category: news | 2026-07-29T19:08:16Z Score: 3 | Comments: 0"
+  },
+  "0ec9b5bd0a66e382": {
+    "file": "corpus/hackernews/prilik_com_blog_post_automating-ac-nyc_ed1f6781c2.md",
+    "source": "hackernews",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "keywords": [
+      "dumb ac unit smart",
+      "dumb ac unit smart",
+      "without losing",
+      "without losing",
+      "security deposit",
+      "security deposit",
+      "15z score",
+      "turning",
+      "turning",
+      "source"
+    ],
+    "summary": "# Turning a Dumb AC Unit Smart (Without Losing My Security Deposit) > Source: hackernews | Category: news | 2026-07-29T19:08:15Z Score: 4 | Comments: 0"
+  },
+  "3bb91d70af26fd01": {
+    "file": "corpus/hackernews/www_jefftk_com_p_learning-musical-multitasking_6ba370053a.md",
+    "source": "hackernews",
+    "title": "Learning Musical Multitasking",
+    "url": "https://www.jefftk.com/p/learning-musical-multitasking",
+    "keywords": [
+      "learning musical multitasking",
+      "learning musical multitasking",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "29t19"
+    ],
+    "summary": "# Learning Musical Multitasking > Source: hackernews | Category: news | 2026-07-29T19:08:15Z Score: 20 | Comments: 9"
+  },
+  "0557055050065864": {
+    "file": "corpus/hackernews/www_emergingtrajectories_com_lh_commodification-and-circular_6562438525.md",
+    "source": "hackernews",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "keywords": [
+      "ugly circular ai deals",
+      "ugly circular ai deals",
+      "15z score",
+      "source",
+      "news",
+      "intelligence",
+      "intelligence",
+      "hackernews",
+      "good",
+      "good"
+    ],
+    "summary": "# Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals > Source: hackernews | Category: news | 2026-07-29T19:08:15Z Score: 4 | Comments: 0"
+  },
+  "2200dd2cf1b75251": {
+    "file": "corpus/hackernews/huggingface_co_blog_agent-intrusion-technical-timeline_8088c1dfd6.md",
+    "source": "hackernews",
+    "title": "Anatomy of a frontier-lab agent intrusion",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "keywords": [
+      "lab agent intrusion",
+      "lab agent intrusion",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "frontier",
+      "frontier",
+      "comments",
+      "category"
+    ],
+    "summary": "# Anatomy of a frontier-lab agent intrusion > Source: hackernews | Category: news | 2026-07-29T19:08:12Z Score: 122 | Comments: 47"
+  },
+  "091c07dfc4c67d5d": {
+    "file": "corpus/hackernews/www_evalapply_org_posts_how-to-not-die-by-a-thousand-cuts_in_2ae5f0bb25.md",
+    "source": "hackernews",
+    "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+    "url": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+    "keywords": [
+      "thousand cuts",
+      "thousand cuts",
+      "software quality",
+      "software quality",
+      "14z score",
+      "think",
+      "think",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality > Source: hackernews | Category: news | 2026-07-29T19:08:14Z"
+  },
+  "cfd3810e3e11ce35": {
+    "file": "corpus/hackernews/axiom_org_f850aea7f0.md",
+    "source": "hackernews",
+    "title": "Axiom Foundation launches to publish law as open, verifiable code",
+    "url": "https://axiom.org",
+    "keywords": [
+      "axiom foundation launches",
+      "axiom foundation launches",
+      "verifiable code",
+      "verifiable code",
+      "publish law",
+      "publish law",
+      "17z score",
+      "source",
+      "open",
+      "open"
+    ],
+    "summary": "# Axiom Foundation launches to publish law as open, verifiable code > Source: hackernews | Category: news | 2026-07-29T19:08:17Z Score: 4 | Comments: 1"
+  },
+  "3539fd645d6f2c97": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Simplified_Technical_English_112bd2b829.md",
+    "source": "hackernews",
+    "title": "Ads-STE100: Simplified Technical English",
+    "url": "https://en.wikipedia.org/wiki/Simplified_Technical_English",
+    "keywords": [
+      "simplified technical english",
+      "simplified technical english",
+      "19z score",
+      "ste100",
+      "ste100",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Ads-STE100: Simplified Technical English > Source: hackernews | Category: news | 2026-07-29T19:08:19Z Score: 9 | Comments: 1"
+  },
+  "e07b50eb9899e7fd": {
+    "file": "corpus/hackernews/gleam_run_news_a-field-day-for-gleams-language-server_9f51a97cae.md",
+    "source": "hackernews",
+    "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
+    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "keywords": [
+      "field day",
+      "field day",
+      "17z score",
+      "0 release",
+      "0 release",
+      "source",
+      "news",
+      "hackernews",
+      "gleam"
+    ],
+    "summary": "# A field day for Gleam's language server – Gleam v1.18.0 release > Source: hackernews | Category: news | 2026-07-29T19:08:17Z Score: 3 | Comments: 0"
   }
 }
