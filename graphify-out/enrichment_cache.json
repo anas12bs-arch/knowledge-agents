@@ -322421,5 +322421,403 @@
       "fix ppr rendering"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-30T00:10:57Z - Update PWA guide with enhanced offline support details and example links for serwist: #96360 - [fragment-scroll] Stop blurring on navigations: #96113 - Fix PPR rendering for configured HTML bots: #96364 - Bump postcss to 8.5.23: #96107 - Ensure unique resolved `headers()` value between render passes: #96085 - Share Ecmascript HMR chunk versioning, diffing, and merging between browser and node: #96325 - Make retry stop when "
+  },
+  "7812a57e31af8b95": {
+    "file": "corpus/devto/dev_to_vivek5071_codeowners-notifies-the-wrong-people-13oh_96c42e8481.md",
+    "source": "devto",
+    "title": "CODEOWNERS notifies the wrong people",
+    "url": "https://dev.to/vivek5071/codeowners-notifies-the-wrong-people-13oh",
+    "keywords": [
+      "31z someone changes",
+      "wrong people",
+      "wrong people",
+      "tests ...",
+      "shared helper",
+      "return type",
+      "nothing dramatic",
+      "codeowners notifies",
+      "codeowners notifies",
+      "tightens"
+    ],
+    "summary": "# CODEOWNERS notifies the wrong people Tightens a return type, nothing dramatic. The diff is clean, tests..."
+  },
+  "e8780cfec311a77c": {
+    "file": "corpus/devto/dev_to_denisgusto1_seu-code-review-nao-precisa-discutir-espa_f62105e4ed.md",
+    "source": "devto",
+    "title": "Seu code review não precisa discutir espaçamento",
+    "url": "https://dev.to/denisgusto1/seu-code-review-nao-precisa-discutir-espacamento-1ild",
+    "keywords": [
+      "larastan e rector",
+      "que importa",
+      "31z pint",
+      "source",
+      "reactions",
+      "news",
+      "discutir",
+      "devto",
+      "category",
+      "30t03"
+    ],
+    "summary": "# Seu code review não precisa discutir espaçamento > Source: devto | Category: news | 2026-07-30T03:23:31Z Pint, Larastan e Rector: 30 minutos de setup pra sua revisão de código parar de brigar por vírgula e voltar a discutir o que importa."
+  },
+  "b0868937cb61d0cc": {
+    "file": "corpus/devto/dev_to_childrentime_react-useupdateeffect-hook-skip-the-firs_841e1ffe4f.md",
+    "source": "devto",
+    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
+    "url": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+    "keywords": [
+      "30z react useupdateeffect hook",
+      "react useupdateeffect hook",
+      "react useupdateeffect hook",
+      "first render",
+      "first render",
+      "first render",
+      "useeffect",
+      "source",
+      "skip",
+      "skip"
+    ],
+    "summary": "# React useUpdateEffect Hook: Skip the First Render (2026) > Source: devto | Category: news | 2026-07-30T03:23:30Z React useUpdateEffect Hook: Skip the First Render (2026)   useEffect has no opinion about..."
+  },
+  "388572bc440c65e9": {
+    "file": "corpus/devto/dev_to_pavelespitia_my-local-ai-stack-mid-2026-what-survived_81720f0104.md",
+    "source": "devto",
+    "title": "My Local AI Stack, Mid-2026: What Survived and What I Dropped",
+    "url": "https://dev.to/pavelespitia/my-local-ai-stack-mid-2026-what-survived-and-what-i-dropped-9d6",
+    "keywords": [
+      "29z six months ago",
+      "local ai stack",
+      "local ai stack",
+      "local ai setup",
+      "reader bookmarked",
+      "last ...",
+      "wrote",
+      "tried",
+      "survived",
+      "survived"
+    ],
+    "summary": "# My Local AI Stack, Mid-2026: What Survived and What I Dropped > Source: devto | Category: news | 2026-07-30T03:23:29Z Six months ago I wrote up my local AI setup and a reader bookmarked it, tried to reproduce it last..."
+  },
+  "9ac5ea3837f30340": {
+    "file": "corpus/devto/dev_to_ryantsuji_github-actions-getting-expensive-we-cut-ci-_91d79375c8.md",
+    "source": "devto",
+    "title": "GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change",
+    "url": "https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4",
+    "keywords": [
+      "skipped estimating peak concurrency",
+      "github actions runners twice",
+      "github actions getting expensive",
+      "github actions getting expensive",
+      "run ci cost dropped",
+      "measured everything along",
+      "failure story included",
+      "cut ci costs",
+      "cut ci costs",
+      "finishing runs went"
+    ],
+    "summary": "AI-driven development inflates CI cost on two axes at once: more runs, and more tasks you now want CI to do. We migrated our GitHub Actions runners twice, from GitHub-hosted to Blacksmith to Namespace, and measured everything along the way. Failure story included: we skipped estimating peak concurrency and had to roll back in two days."
+  },
+  "8ef2b51162ca6d2a": {
+    "file": "corpus/devto/dev_to_lusrodri_i-generated-207-mcp-tools-from-an-openapi-sp_c7e1450e74.md",
+    "source": "devto",
+    "title": "I generated 207 MCP tools from an OpenAPI spec. Generating them was the easy part.",
+    "url": "https://dev.to/lusrodri/i-generated-207-mcp-tools-from-an-openapi-spec-generating-them-was-the-easy-part-1n8c",
+    "keywords": [
+      "generated 207 mcp tools",
+      "generated 207 mcp tools",
+      "29z every mcp server",
+      "someone picked ...",
+      "party rest api",
+      "openapi spec",
+      "openapi spec",
+      "easy part",
+      "easy part",
+      "wraps"
+    ],
+    "summary": "# I generated 207 MCP tools from an OpenAPI spec. Generating them was the easy part. Every MCP server I've read that wraps a third-party REST API has the same shape: someone picked..."
+  },
+  "ea7e0aea49d6df25": {
+    "file": "corpus/devto/dev_to_nikolas_mi_5f4aa63cc4080_fixture-first-prompting-how-_9cf08fcc7e.md",
+    "source": "devto",
+    "title": "Fixture-first prompting: how seed data changes what the model builds",
+    "url": "https://dev.to/nikolas_mi_5f4aa63cc4080/fixture-first-prompting-how-seed-data-changes-what-the-model-builds-1ek9",
+    "keywords": [
+      "real design brief",
+      "seed data changes",
+      "seed data changes",
+      "mock data",
+      "model reads",
+      "model builds",
+      "model builds",
+      "get back",
+      "first prompting",
+      "first prompting"
+    ],
+    "summary": "# Fixture-first prompting: how seed data changes what the model builds > Source: devto | Category: news | 2026-07-30T03:23:32Z Your mock data is the real design brief the model reads."
+  },
+  "b2bb91da06e44498": {
+    "file": "corpus/devto/dev_to_olund_running-parallel-agent-sessions-without-them-st_55d9a026dc.md",
+    "source": "devto",
+    "title": "Running parallel agent sessions without them stepping on each other",
+    "url": "https://dev.to/olund/running-parallel-agent-sessions-without-them-stepping-on-each-other-441o",
+    "keywords": [
+      "two failure modes make",
+      "run several coding",
+      "duplicated work reactions",
+      "corrupted shared state",
+      "agent sessions",
+      "stepping",
+      "stepping",
+      "source",
+      "repo",
+      "often"
+    ],
+    "summary": "# Running parallel agent sessions without them stepping on each other I run several coding-agent sessions at once, often on the same repo. Two failure modes make that miserable: corrupted shared state and duplicated work"
+  },
+  "3a13cc6a0f7ccc8d": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_29_u-s-measles-cases-eclipse-2025s-_abd04ade2e.md",
+    "source": "legal",
+    "title": "[techdirt] U.S. Measles Cases Eclipse 2025’s Record Case Count",
+    "url": "https://www.techdirt.com/2026/07/29/u-s-measles-cases-eclipse-2025s-record-case-count/",
+    "keywords": [
+      "measles since 1991",
+      "american healthcare system",
+      "record case count",
+      "record case count",
+      "record case count",
+      "second consecutive year",
+      "289 confirmed cases",
+      "confirmed cases",
+      "record proportions",
+      "america set"
+    ],
+    "summary": "Measles Cases Eclipse 2025’s Record Case Count In 2025, America set a record for collecting the most confirmed cases of measles since 1991, with 2,289 confirmed cases. This year, America already blew past last years [&#8230;]"
+  },
+  "38fb67eac862fa8f": {
+    "file": "corpus/security/www_darkreading_com_endpoint-security_flying-eagle-mobile-ra_dc1e509896.md",
+    "source": "security",
+    "title": "[dark-reading] 'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+    "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+    "keywords": [
+      "service offering takes flight",
+      "multiple threat groups",
+      "grade malware",
+      "flying eagle",
+      "flying eagle",
+      "flying eagle",
+      "drain victims",
+      "building infostealers",
+      "bank accounts",
+      "source"
+    ],
+    "summary": "# [dark-reading] 'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China 'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts."
+  },
+  "effb614fcfe59b93": {
+    "file": "corpus/security/www_darkreading_com_threat-intelligence_se-asian-cybercrimin_474e0d32a0.md",
+    "source": "security",
+    "title": "[dark-reading] SE Asian Cybercriminal Syndicates Become a Global Power",
+    "url": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+    "keywords": [
+      "least 80 countries",
+      "traffic people",
+      "groups move",
+      "global power",
+      "global power",
+      "global power",
+      "costing nations",
+      "88 billion",
+      "2025 alone",
+      "least"
+    ],
+    "summary": "# [dark-reading] SE Asian Cybercriminal Syndicates Become a Global Power SE Asian Cybercriminal Syndicates Become a Global Power The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone."
+  },
+  "c6fbde50b79589cf": {
+    "file": "corpus/hackernews/www_staszewski_xyz_blog_recursive-filters_f32d4bfa9c.md",
+    "source": "hackernews",
+    "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
+    "url": "https://www.staszewski.xyz/blog/recursive-filters/",
+    "keywords": [
+      "low ‑ pass",
+      "low ‑ pass",
+      "tiny kalman",
+      "tiny kalman",
+      "recursive filters",
+      "recursive filters",
+      "24z score",
+      "source",
+      "sma",
+      "sma"
+    ],
+    "summary": "# Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman > Source: hackernews | Category: news | 2026-07-30T03:23:24Z Score: 15 | Comments: 3"
+  },
+  "9f42f81933282f9e": {
+    "file": "corpus/hackernews/waveformsecurity_com_blog_flume_940d97f473.md",
+    "source": "hackernews",
+    "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+    "url": "https://waveformsecurity.com/blog/flume/",
+    "keywords": [
+      "pretty good",
+      "pretty good",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "30t03"
+    ],
+    "summary": "# Flume Water Monitor 915 MHz Security Is Pretty Good > Source: hackernews | Category: news | 2026-07-30T03:23:24Z Score: 18 | Comments: 12"
+  },
+  "8c64c62ca8a3edb0": {
+    "file": "corpus/hackernews/github_com_funador_claude-code-merge-queue_1437405ffd.md",
+    "source": "hackernews",
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "keywords": [
+      "macbook air via 4",
+      "parallel claude code agents",
+      "parallel claude code agents",
+      "5 parallel agents",
+      "run dev servers",
+      "local merge queue",
+      "local merge queue",
+      "local merge queue",
+      "commits land one",
+      "day .< p"
+    ],
+    "summary": "# Show HN: A local merge queue for parallel Claude Code agents As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. Hopefully this helps other folks with more modest machines."
+  },
+  "7425c7ec1fb83079": {
+    "file": "corpus/hackernews/notes_designarena_ai_kimi-k3s-design-secret-may-be-in-its-th_f7301dc85f.md",
+    "source": "hackernews",
+    "title": "Kimi K3's Design Secret May Be in Its Thinking Traces",
+    "url": "https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/",
+    "keywords": [
+      "design secret may",
+      "design secret may",
+      "thinking traces",
+      "thinking traces",
+      "kimi k3",
+      "kimi k3",
+      "28z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Kimi K3's Design Secret May Be in Its Thinking Traces > Source: hackernews | Category: news | 2026-07-30T03:23:28Z Score: 8 | Comments: 1"
+  },
+  "d2761f230cf940c5": {
+    "file": "corpus/hackernews/tomekw_com_overengineered-calculator-zig-qbe_fd95e3bf72.md",
+    "source": "hackernews",
+    "title": "Overengineered Calculator: Zig and QBE",
+    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+    "keywords": [
+      "overengineered calculator",
+      "overengineered calculator",
+      "27z score",
+      "zig",
+      "zig",
+      "source",
+      "qbe",
+      "qbe",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Overengineered Calculator: Zig and QBE > Source: hackernews | Category: news | 2026-07-30T03:23:27Z Score: 6 | Comments: 0"
+  },
+  "50b4ffb8024e901f": {
+    "file": "corpus/hackernews/vtdigger_org_2026_07_29_a-pharmacy-chain-in-vermont-implemen_e72b667307.md",
+    "source": "hackernews",
+    "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+    "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+    "keywords": [
+      "vermont implemented ai",
+      "vermont implemented ai",
+      "pharmacy chain",
+      "pharmacy chain",
+      "27z score",
+      "source",
+      "news",
+      "hackernews",
+      "efficiency",
+      "efficiency"
+    ],
+    "summary": "# A pharmacy chain in Vermont implemented AI for efficiency > Source: hackernews | Category: news | 2026-07-30T03:23:27Z Score: 30 | Comments: 41"
+  },
+  "ff340bac707afbf9": {
+    "file": "corpus/hackernews/logicforprogrammers_com_9f7060c504.md",
+    "source": "hackernews",
+    "title": "Logic for Programmers by Hillel Wayne",
+    "url": "https://logicforprogrammers.com/",
+    "keywords": [
+      "hillel wayne",
+      "hillel wayne",
+      "23z score",
+      "source",
+      "programmers",
+      "programmers",
+      "news",
+      "logic",
+      "logic",
+      "hackernews"
+    ],
+    "summary": "# Logic for Programmers by Hillel Wayne > Source: hackernews | Category: news | 2026-07-30T03:23:23Z Score: 12 | Comments: 0"
+  },
+  "471248699a0816ee": {
+    "file": "corpus/hackernews/www_economist_com_business_2026_07_29_theres-never-been-a-be_9a58f15e21.md",
+    "source": "hackernews",
+    "title": "There's never been a better time to commit financial fraud",
+    "url": "https://www.economist.com/business/2026/07/29/theres-never-been-a-better-time-to-commit-financial-fraud",
+    "keywords": [
+      "commit financial fraud",
+      "commit financial fraud",
+      "better time",
+      "better time",
+      "28z score",
+      "source",
+      "news",
+      "never",
+      "never",
+      "hackernews"
+    ],
+    "summary": "# There's never been a better time to commit financial fraud > Source: hackernews | Category: news | 2026-07-30T03:23:28Z Score: 29 | Comments: 6"
+  },
+  "1fbe66f1b98b2cd6": {
+    "file": "corpus/hackernews/www_nsf_gov_news_nsf-partners-universities-industry-pilot-in_671af069c6.md",
+    "source": "hackernews",
+    "title": "NSF pilots 4-year PhDs with industry research placements",
+    "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+    "keywords": [
+      "nsf pilots 4",
+      "nsf pilots 4",
+      "industry research placements",
+      "industry research placements",
+      "year phds",
+      "year phds",
+      "21z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# NSF pilots 4-year PhDs with industry research placements > Source: hackernews | Category: news | 2026-07-30T03:23:21Z Score: 16 | Comments: 0"
+  },
+  "5a6520cd1107829a": {
+    "file": "corpus/hackernews/www_coptic-magic_phil_uni-wuerzburg_de_index_php_2026_01_16__789bc05302.md",
+    "source": "hackernews",
+    "title": "Angels in Coptic Magic I: Introduction",
+    "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
+    "keywords": [
+      "coptic magic",
+      "coptic magic",
+      "23z score",
+      "source",
+      "news",
+      "introduction",
+      "introduction",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Angels in Coptic Magic I: Introduction > Source: hackernews | Category: news | 2026-07-30T03:23:23Z Score: 13 | Comments: 0"
   }
 }
