@@ -325937,5 +325937,687 @@
       "30z ## langchain"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-30T16:11:30Z Changes since langchain-core==1.5.2 release(core): 1.5.3 (#39145) fix(core): fall back to `LANGSMITH_API_KEY` for gateway (#39115)"
+  },
+  "5c9e26d7b6247f76": {
+    "file": "corpus/finance/news_crunchbase_com_clean-tech-and-energy_battery-storage-st_da5b9cc0ff.md",
+    "source": "finance",
+    "title": "[crunchbase] Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
+    "keywords": [
+      "scale ” projects across",
+      "largest cleantech rounds",
+      "largest cleantech rounds",
+      "ai data centers",
+      "550m series c",
+      "550m series c",
+      "550m series c",
+      "“ large",
+      "year ’",
+      "year ’"
+    ],
+    "summary": "# [crunchbase] Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds Amid soaring energy demand from AI data centers, Antora says it will use its new capital to speed up deployment of “large-scale” projects across the country."
+  },
+  "b4671961180ff25e": {
+    "file": "corpus/devto/dev_to_raghavsharma_the-bug-that-comes-back-wearing-a-differ_ea0b5cde3f.md",
+    "source": "devto",
+    "title": "The Bug That Comes Back Wearing a Different Hat",
+    "url": "https://dev.to/raghavsharma_/the-bug-that-comes-back-wearing-a-different-hat-4p32",
+    "keywords": [
+      "three weeks later",
+      "comes back wearing",
+      "comes back wearing",
+      "working fix",
+      "problem returns",
+      "different hat",
+      "different hat",
+      "ticket",
+      "source",
+      "ship"
+    ],
+    "summary": "# The Bug That Comes Back Wearing a Different Hat You get a working fix, ship it, and close the ticket. Three weeks later the same problem returns in a form you do not recognise."
+  },
+  "e048854447137e00": {
+    "file": "corpus/devto/dev_to_dhruv_mevada_dev_day-1-of-learning-go-variables-data-_426e0d6d8c.md",
+    "source": "devto",
+    "title": "Day 1 of Learning Go: Variables, Data Types, and My First Impressions",
+    "url": "https://dev.to/dhruv_mevada_dev/day-1-of-learning-go-variables-data-types-and-my-first-impressions-35p0",
+    "keywords": [
+      "start learning go",
+      "learning go",
+      "learning go",
+      "first impressions",
+      "first impressions",
+      "day 1",
+      "day 1",
+      "data types",
+      "data types",
+      "variables"
+    ],
+    "summary": "# Day 1 of Learning Go: Variables, Data Types, and My First Impressions I've decided to start learning Go. My goal isn't just to learn another programming language—it's to..."
+  },
+  "95ec4d5863625c72": {
+    "file": "corpus/devto/dev_to_anantha_subramaniam_497f1_the-fde-gold-rush-and-the-t_982a606dd4.md",
+    "source": "devto",
+    "title": "The FDE gold rush and the trap hidden inside it",
+    "url": "https://dev.to/anantha_subramaniam_497f1/the-fde-gold-rush-and-the-trap-hidden-inside-it-1pfd",
+    "keywords": [
+      "trap hidden inside",
+      "trap hidden inside",
+      "forward deployed engineers",
+      "fde gold rush",
+      "fde gold rush",
+      "bringing ...",
+      "56z demand",
+      "fde",
+      "year",
+      "source"
+    ],
+    "summary": "# The FDE gold rush and the trap hidden inside it > Source: devto | Category: news | 2026-07-30T17:45:56Z Demand for Forward Deployed Engineers (FDE) has exploded by over 1165% in less than a year, bringing..."
+  },
+  "4328ee46a52295fd": {
+    "file": "corpus/devto/dev_to_yureki_lab_how-i-built-a-rollback-system-so-my-ai-cod_082af927f6.md",
+    "source": "devto",
+    "title": "How I Built a Rollback System So My AI Coding Agent Can Undo Its Own Mistakes",
+    "url": "https://dev.to/yureki_lab/how-i-built-a-rollback-system-so-my-ai-coding-agent-can-undo-its-own-mistakes-58ml",
+    "keywords": [
+      "spent two ...",
+      "ai coding agent",
+      "ai coding agent",
+      "rollback system",
+      "rollback system",
+      "adjacent code",
+      "56z tl",
+      "undo",
+      "undo",
+      "source"
+    ],
+    "summary": "# How I Built a Rollback System So My AI Coding Agent Can Undo Its Own Mistakes > Source: devto | Category: news | 2026-07-30T17:45:56Z TL;DR   My autonomous coding agent broke something in prod-adjacent code, and I spent two..."
+  },
+  "5c8e1f83594e2a36": {
+    "file": "corpus/devto/dev_to_aialleyway_what-a-year-of-metered-ai-coding-actually-_3d735c6748.md",
+    "source": "devto",
+    "title": "What a year of metered AI coding actually cost me: a $20 plan that billed $510.70",
+    "url": "https://dev.to/aialleyway/what-a-year-of-metered-ai-coding-actually-cost-me-a-20-plan-that-billed-51070-37cm",
+    "keywords": [
+      "ai coding tools",
+      "industry borrowed",
+      "flat ...",
+      "cloud infrastructure",
+      "20 plan",
+      "20 plan",
+      "year",
+      "year",
+      "source",
+      "reactions"
+    ],
+    "summary": "# What a year of metered AI coding actually cost me: a $20 plan that billed $510.70 > Source: devto | Category: news | 2026-07-30T17:45:56Z Most AI coding tools now bill on a model the industry borrowed from cloud infrastructure: a flat..."
+  },
+  "9dafb318357ae48f": {
+    "file": "corpus/devto/dev_to_sparshsharmadev_building-a-transformer-from-scratch-i_6232b7153f.md",
+    "source": "devto",
+    "title": "Building a Transformer from Scratch in PyTorch",
+    "url": "https://dev.to/sparshsharmadev/building-a-transformer-from-scratch-in-pytorch-j43",
+    "keywords": [
+      "full ...",
+      "transformer model",
+      "transformer",
+      "transformer",
+      "trained",
+      "source",
+      "shortcuts",
+      "scratch",
+      "scratch"
+    ],
+    "summary": "# Building a Transformer from Scratch in PyTorch > Source: devto | Category: news | 2026-07-30T17:45:53Z I trained my own transformer model from the ground up — no HuggingFace, no shortcuts."
+  },
+  "f7cf2f410d0dab9b": {
+    "file": "corpus/devto/dev_to_ploofnexa_i-measured-where-claude-code-actually-spend_203ecfde91.md",
+    "source": "devto",
+    "title": "I measured where Claude Code actually spends tokens: 96.8% is re-reading history, my typing was 0.01%",
+    "url": "https://dev.to/ploofnexa/i-measured-where-claude-code-actually-spends-tokens-968-is-re-reading-history-my-typing-was-16gm",
+    "keywords": [
+      "56z claude code writes",
+      "~/. claude",
+      "reading history",
+      "reading history",
+      "projects /.",
+      "every session",
+      "typing",
+      "typing",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I measured where Claude Code actually spends tokens: 96.8% is re-reading history, my typing was 0.01% Claude Code writes a log of every session to ~/.claude/projects/. Each line is JSON, and..."
+  },
+  "56dc6b7f4797d91d": {
+    "file": "corpus/devto/dev_to_techno_neighbour_a-month-of-building-focal-harvest-wh_56e0186006.md",
+    "source": "devto",
+    "title": "A month of building Focal Harvest: what changed and where it's going published",
+    "url": "https://dev.to/techno_neighbour/a-month-of-building-focal-harvest-what-changed-and-where-its-going-published-4o5f",
+    "keywords": [
+      "first pushed focal harvest",
+      "project looks almost ...",
+      "building focal harvest",
+      "building focal harvest",
+      "going published",
+      "going published",
+      "month since",
+      "almost",
+      "month",
+      "month"
+    ],
+    "summary": "# A month of building Focal Harvest: what changed and where it's going published > Source: devto | Category: news | 2026-07-30T17:45:57Z It's been almost a month since I first pushed Focal Harvest to GitHub, and the project looks almost..."
+  },
+  "ca537b4617ed6582": {
+    "file": "corpus/devto/dev_to_julia_denysova_spring-ai-token-usage-measure-cost-bef_1e5837ae89.md",
+    "source": "devto",
+    "title": "Spring AI Token Usage: Measure Cost Before You Pick a Model — LLM Cost Control 1/4",
+    "url": "https://dev.to/julia_denysova/spring-ai-token-usage-measure-cost-before-you-pick-a-model-llm-cost-control-14-41fo",
+    "keywords": [
+      "54z cutting llm costs",
+      "spring ai token usage",
+      "spring ai token usage",
+      "spring ai starts",
+      "two choices",
+      "model answers",
+      "measure cost",
+      "measure cost",
+      "source",
+      "request"
+    ],
+    "summary": "# Spring AI Token Usage: Measure Cost Before You Pick a Model — LLM Cost Control 1/4 > Source: devto | Category: news | 2026-07-30T17:45:54Z Cutting LLM costs in Spring AI starts with two choices: which model answers a request, and what..."
+  },
+  "7ffc2c4a98c94f92": {
+    "file": "corpus/devto/dev_to_630fdf100267a43420f70_isp-tuning-as-a-job-4kai_2105caaf76.md",
+    "source": "devto",
+    "title": "ISP Tuning as a Job",
+    "url": "https://dev.to/_630fdf100267a43420f70/isp-tuning-as-a-job-4kai",
+    "keywords": [
+      "camera module work",
+      "different work",
+      "constantly ....",
+      "isp tuning",
+      "isp tuning",
+      "tuning",
+      "word",
+      "word",
+      "source",
+      "reactions"
+    ],
+    "summary": "# ISP Tuning as a Job > Source: devto | Category: news | 2026-07-30T17:45:56Z Same Word, Different Work   In camera module work, the word \"tuning\" comes up constantly...."
+  },
+  "c420b152652c6f01": {
+    "file": "corpus/devto/dev_to_andresclua_we-got-used-to-it-before-we-understood-it-_40ea76a203.md",
+    "source": "devto",
+    "title": "We got used to it before we understood it",
+    "url": "https://dev.to/andresclua/we-got-used-to-it-before-we-understood-it-149f",
+    "keywords": [
+      "got used",
+      "got used",
+      "56z swipe",
+      "swipe",
+      "swipe",
+      "understood",
+      "understood",
+      "thursday",
+      "source",
+      "reactions"
+    ],
+    "summary": "Swipe and there is food at the door. Swipe and there is a date on Thursday. Swipe and there is a..."
+  },
+  "ff3371612da8a756": {
+    "file": "corpus/devto/dev_to_datadriven_entry-level-data-engineering-is-gone-heres_38df668485.md",
+    "source": "devto",
+    "title": "Entry-Level Data Engineering Is Gone. Here's the Proof.",
+    "url": "https://dev.to/datadriven/entry-level-data-engineering-is-gone-heres-the-proof-4d3n",
+    "keywords": [
+      "every gain went",
+      "level data engineering",
+      "level data engineering",
+      "senior roles",
+      "ramp closed",
+      "level",
+      "source",
+      "reactions",
+      "proof",
+      "proof"
+    ],
+    "summary": "# Entry-Level Data Engineering Is Gone. Only 3% of jobs are entry-level. Hiring is up ,  but every gain went to senior roles."
+  },
+  "6e38f59d326a568b": {
+    "file": "corpus/devto/dev_to_alifar_openai-says-gpt-56-stack-optimizations-cut-end_ffe798251d.md",
+    "source": "devto",
+    "title": "OpenAI Says GPT-5.6 Stack Optimizations Cut End-to-End Serving Costs by About 20%",
+    "url": "https://dev.to/alifar/openai-says-gpt-56-stack-optimizations-cut-end-to-end-serving-costs-by-about-20-3k4k",
+    "keywords": [
+      "end serving costs",
+      "end serving costs",
+      "efficiency work across",
+      "54z openai says",
+      "openai says gpt",
+      "openai says gpt",
+      "6 model family",
+      "inference ...",
+      "gpt",
+      "model"
+    ],
+    "summary": "# OpenAI Says GPT-5.6 Stack Optimizations Cut End-to-End Serving Costs by About 20% > Source: devto | Category: news | 2026-07-30T17:45:54Z OpenAI says its GPT-5.6 model family is the product of efficiency work across the model, inference..."
+  },
+  "a5291b0b3a8d4b50": {
+    "file": "corpus/devto/dev_to_monikasonnadmath_junior-me-vs-senior-me-same-bug-comp_60524718aa.md",
+    "source": "devto",
+    "title": "Junior Me vs Senior Me: Same Bug, Completely Different Reaction",
+    "url": "https://dev.to/monikasonnadmath/junior-me-vs-senior-me-same-bug-completely-different-reaction-5f79",
+    "keywords": [
+      "completely different reaction",
+      "completely different reaction",
+      "wildly different",
+      "years apart",
+      "vs senior",
+      "vs senior",
+      "production ...",
+      "source",
+      "showing",
+      "reactions"
+    ],
+    "summary": "# Junior Me vs Senior Me: Same Bug, Completely Different Reaction > Source: devto | Category: news | 2026-07-30T17:45:56Z Wildly different me showing up to deal with it."
+  },
+  "ea84fea6f83f1f2a": {
+    "file": "corpus/devto/dev_to_mukesh_13_testing-non-deterministic-llm-pipelines-in-_a4708566aa.md",
+    "source": "devto",
+    "title": "Testing Non-Deterministic LLM Pipelines in CI: A Contract-Based Approach",
+    "url": "https://dev.to/mukesh_13/testing-non-deterministic-llm-pipelines-in-ci-a-contract-based-approach-3bjn",
+    "keywords": [
+      "input twice returns",
+      "deterministic llm pipelines",
+      "deterministic llm pipelines",
+      "ci pipelines assume",
+      "testing non",
+      "testing non",
+      "function called",
+      "based approach",
+      "based approach"
+    ],
+    "summary": "# Testing Non-Deterministic LLM Pipelines in CI: A Contract-Based Approach > Source: devto | Category: news | 2026-07-30T17:45:54Z Most CI pipelines assume a function called with the same input twice returns the same output."
+  },
+  "64a0bfa8af12e359": {
+    "file": "corpus/ai-research/openai_com_index_advancing-the-price-performance-frontier-wi_dca7adc62d.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "keywords": [
+      "terra —",
+      "performance frontier",
+      "performance frontier",
+      "performance frontier",
+      "openai ’",
+      "6 pricing",
+      "43z advancing",
+      "openai",
+      "openai",
+      "advancing"
+    ],
+    "summary": "# [openai-blog] Advancing the price-performance frontier with GPT-5.6 Advancing the price-performance frontier with GPT-5.6 Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+  },
+  "59b2f1e4b6286737": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_30_in-the-middle-of-a-war-the-trump_45ba045110.md",
+    "source": "legal",
+    "title": "[techdirt] In The Middle Of A War, The Trump Administration Has Cut National Security Staffing In Half",
+    "url": "https://www.techdirt.com/2026/07/30/in-the-middle-of-a-war-the-trump-administration-has-cut-national-security-staffing-in-half/",
+    "keywords": [
+      "willing [&# 8230 ;]",
+      "cut national security staffing",
+      "cut national security staffing",
+      "cut national security staffing",
+      "donald trump felt people",
+      "new forever war",
+      "trump assumes",
+      "trump administration",
+      "trump administration",
+      "trump administration"
+    ],
+    "summary": "The on-again, off-again, new forever war we&#8217;ve been cursed with because Donald Trump felt people just weren&#8217;t paying attention to him enough is going to be headache for years to come. Trump assumes that if he acts like a bully, everyone will just back down. But now he&#8217;s dealing with a regime just as willing [&#8230;]"
+  },
+  "d71af62a08181bdf": {
+    "file": "corpus/security/krebsonsecurity_com_2026_07_read-this-before-you-buy-that-tv_f62495d075.md",
+    "source": "security",
+    "title": "[krebs] Read This Before You Buy That TV Streaming Stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "keywords": [
+      "mobile phones clicking ads",
+      "groundbreaking new analysis finds",
+      "devices also routinely spoof",
+      "using generic tv boxes",
+      "promise unlimited content streaming",
+      "tv streaming stick",
+      "tv streaming stick",
+      "defraud online merchants",
+      "time fee",
+      "sprawling operation"
+    ],
+    "summary": "# [krebs] Read This Before You Buy That TV Streaming Stick Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online "
+  },
+  "ed9e502c77ff0510": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_american-being-prosec_439ba611ac.md",
+    "source": "security",
+    "title": "[schneier] American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
+    "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
+    "keywords": [
+      "modern google pixel devices",
+      "custom android operating system",
+      "user &# 8217",
+      "tunick &# 8217",
+      "tunick &# 8217",
+      "attorneys confirmed grapheneos",
+      "software feature allows",
+      "giving border officials",
+      "&# 8217",
+      "feature included"
+    ],
+    "summary": "# [schneier] American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials Tunick&#8217;s case also raises ongoing questions about what constitutional rights can be invoked at the border, which the U.S. government has long asserted is not U.S. soil until a person is authorized to enter..."
+  },
+  "463259079cfae51f": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_deployments-are-now-up-to-7-seconds-fas_68eb0df5fb.md",
+    "source": "vercel-blog",
+    "title": "Deployments are now up to 7 seconds faster",
+    "url": "https://vercel.com/changelog/deployments-are-now-up-to-7-seconds-faster",
+    "keywords": [
+      "7 seconds faster",
+      "7 seconds faster",
+      "7 seconds faster",
+      "59z deployments",
+      "deployments",
+      "deployments",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Deployments are now up to 7 seconds faster > Source: vercel-blog | Category: news | 2026-07-30T17:45:59Z Deployments are now up to 7 seconds faster"
+  },
+  "5b01d2d5e22cf6d5": {
+    "file": "corpus/hackernews/huggingface_co_thinkingmachines_Inkling-Small_5ea09ca600.md",
+    "source": "hackernews",
+    "title": "thinkingmachines/Inkling-Small",
+    "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+    "keywords": [
+      "52z score",
+      "thinkingmachines",
+      "thinkingmachines",
+      "source",
+      "small",
+      "small",
+      "news",
+      "inkling",
+      "inkling",
+      "hackernews"
+    ],
+    "summary": "# thinkingmachines/Inkling-Small > Source: hackernews | Category: news | 2026-07-30T17:45:52Z Score: 4 | Comments: 1"
+  },
+  "5eb67529213988d3": {
+    "file": "corpus/hackernews/social_jorijn_com_jorijn_statuses_01KYN00AP3NCZXCFB96KQB8GN2_96cfe8e9f9.md",
+    "source": "hackernews",
+    "title": "Toot.community Is Shutting Down",
+    "url": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
+    "keywords": [
+      "47z score",
+      "toot",
+      "toot",
+      "source",
+      "shutting",
+      "shutting",
+      "news",
+      "hackernews",
+      "community",
+      "community"
+    ],
+    "summary": "# Toot.community Is Shutting Down > Source: hackernews | Category: news | 2026-07-30T17:45:47Z Score: 19 | Comments: 20"
+  },
+  "30c1620859bacb0b": {
+    "file": "corpus/hackernews/quuxplusone_github_io_blog_2026_07_29_how-old-is-ann_f91221c0e7.md",
+    "source": "hackernews",
+    "title": "How old is Ann?",
+    "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+    "keywords": [
+      "49z score",
+      "source",
+      "old",
+      "old",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "ann",
+      "ann"
+    ],
+    "summary": "# How old is Ann? > Source: hackernews | Category: news | 2026-07-30T17:45:49Z Score: 48 | Comments: 50"
+  },
+  "83bf9f2d08cf07fc": {
+    "file": "corpus/hackernews/spectrum_ieee_org_mexico-olinia-car-electric-vehicle_2f4084e76e.md",
+    "source": "hackernews",
+    "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+    "url": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
+    "keywords": [
+      "olinia turns mexico",
+      "olinia turns mexico",
+      "ev ambition",
+      "ev ambition",
+      "47z score",
+      "source",
+      "reality",
+      "reality",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How Olinia Turns Mexico's EV Ambition into Reality > Source: hackernews | Category: news | 2026-07-30T17:45:47Z Score: 9 | Comments: 1"
+  },
+  "b932a623cfbed6c3": {
+    "file": "corpus/hackernews/www_nydailynews_com_2026_07_29_delivery-workers-made-104-mil_ac0728cea9.md",
+    "source": "hackernews",
+    "title": "Delivery workers made $104M more in tips after NYC began enforcing new law",
+    "url": "https://www.nydailynews.com/2026/07/29/delivery-workers-made-104-million-more-in-tips-after-city-began-enforcing-new-law-mamdani/",
+    "keywords": [
+      "delivery workers made",
+      "delivery workers made",
+      "50z score",
+      "tips",
+      "tips",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Delivery workers made $104M more in tips after NYC began enforcing new law > Source: hackernews | Category: news | 2026-07-30T17:45:50Z Score: 16 | Comments: 3"
+  },
+  "e0eb2a92d25dcd1b": {
+    "file": "corpus/hackernews/www_humprog_org_stephen_blog_research_recovering-abstraction_2130ac104c.md",
+    "source": "hackernews",
+    "title": "Reversing Abstractions: An Existential Crisis",
+    "url": "https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html",
+    "keywords": [
+      "reversing abstractions",
+      "reversing abstractions",
+      "existential crisis",
+      "existential crisis",
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Reversing Abstractions: An Existential Crisis > Source: hackernews | Category: news | 2026-07-30T17:45:51Z Score: 6 | Comments: 0"
+  },
+  "29ca566998f622c3": {
+    "file": "corpus/hackernews/krebsonsecurity_com_2026_07_read-this-before-you-buy-that-tv_f62495d075.md",
+    "source": "hackernews",
+    "title": "Read This Before You Buy That TV Streaming Stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "keywords": [
+      "tv streaming stick",
+      "tv streaming stick",
+      "43z score",
+      "source",
+      "read",
+      "read",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Read This Before You Buy That TV Streaming Stick > Source: hackernews | Category: news | 2026-07-30T17:45:43Z Score: 61 | Comments: 17"
+  },
+  "a3355e6981fc886c": {
+    "file": "corpus/hackernews/www_wsj_com_finance_citadel-buys-situational-awarenesss-stoc_3edb47691e.md",
+    "source": "hackernews",
+    "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+    "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
+    "keywords": [
+      "citadel buys situational awareness",
+      "citadel buys situational awareness",
+      "stock portfolio",
+      "stock portfolio",
+      "big losses",
+      "big losses",
+      "51z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI > Source: hackernews | Category: news | 2026-07-30T17:45:51Z Score: 29 | Comments: 6"
+  },
+  "7ac6c0e1d9faac5d": {
+    "file": "corpus/hackernews/github_blog_changelog_2026-07-30-stacked-pull-requests-are-n_b1d7747418.md",
+    "source": "hackernews",
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "keywords": [
+      "stacked prs",
+      "stacked prs",
+      "48z score",
+      "source",
+      "news",
+      "live",
+      "live",
+      "hackernews",
+      "github",
+      "github"
+    ],
+    "summary": "# Stacked PRs are now live on GitHub > Source: hackernews | Category: news | 2026-07-30T17:45:48Z Score: 20 | Comments: 4"
+  },
+  "171350fad88099f9": {
+    "file": "corpus/hackernews/brandur_org_fragments_pgtestdb_78ccada4d5.md",
+    "source": "hackernews",
+    "title": "Pgtestdb's template cloning approach to testing is fast",
+    "url": "https://brandur.org/fragments/pgtestdb",
+    "keywords": [
+      "template cloning approach",
+      "template cloning approach",
+      "51z score",
+      "testing",
+      "testing",
+      "source",
+      "pgtestdb",
+      "pgtestdb",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Pgtestdb's template cloning approach to testing is fast > Source: hackernews | Category: news | 2026-07-30T17:45:51Z Score: 11 | Comments: 2"
+  },
+  "a161a211bf2d6a11": {
+    "file": "corpus/hackernews/select_supply_game_chipbuilder_4e35d65cf7.md",
+    "source": "hackernews",
+    "title": "Show HN: I made a game where you build a CPU from logic gates",
+    "url": "https://select.supply/game/chipbuilder",
+    "keywords": [
+      "interactive puzzles .< p",
+      "basic logic gates like",
+      "created .< p",
+      "courses like nand2tetris",
+      "write assembly programs",
+      "visual circuit editor",
+      "progressively harder challenges",
+      "make computer architecture",
+      "everything runs directly",
+      "logic gates"
+    ],
+    "summary": "# Show HN: I made a game where you build a CPU from logic gates I built ChipBuilder to make computer architecture more approachable through interactive puzzles.<p>You start with basic logic gates like AND, OR, and NOT, then gradually combine them into adders, multiplexers, memory, an ALU, and eventually a complete CPU. Once you&#x27;ve built the hardware, you can write assembly programs that run on the processor you created.<p>The game is inspired by courses like Nand2Tetris, but everything runs"
+  },
+  "0aa159391f564004": {
+    "file": "corpus/hackernews/solar_lowtechmagazine_com_2025_07_how-to-mount-a-balcony-awn_99236e8ce9.md",
+    "source": "hackernews",
+    "title": "How to Mount a Balcony Awning",
+    "url": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
+    "keywords": [
+      "balcony awning",
+      "balcony awning",
+      "47z score",
+      "source",
+      "news",
+      "mount",
+      "mount",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to Mount a Balcony Awning > Source: hackernews | Category: news | 2026-07-30T17:45:47Z Score: 19 | Comments: 0"
+  },
+  "9dbf8428422061bd": {
+    "file": "corpus/hackernews/openai_com_index_advancing-the-price-performance-frontier-wi_857d7c4ab2.md",
+    "source": "hackernews",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "keywords": [
+      "gpt ‑ 5",
+      "gpt ‑ 5",
+      "performance frontier",
+      "performance frontier",
+      "43z score",
+      "source",
+      "price",
+      "price",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Advancing the price-performance frontier with GPT‑5.6 > Source: hackernews | Category: news | 2026-07-30T17:45:43Z Score: 81 | Comments: 25"
+  },
+  "4ad57dd887e333d6": {
+    "file": "corpus/hackernews/techstrong_ai_articles_llm-routers-have-become-a-service-cat_e06afbd205.md",
+    "source": "hackernews",
+    "title": "LLM Routers Have Become a Service Category of Their Own",
+    "url": "https://techstrong.ai/articles/llm-routers-have-become-a-service-category-of-their-own/",
+    "keywords": [
+      "llm routers",
+      "llm routers",
+      "52z score",
+      "service category",
+      "service category",
+      "category",
+      "source",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# LLM Routers Have Become a Service Category of Their Own > Source: hackernews | Category: news | 2026-07-30T17:45:52Z Score: 5 | Comments: 0"
+  },
+  "0f6facba8913e864": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v2_51_0_9bed1fd1a5.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v2.51.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.51.0",
+    "keywords": [
+      "0 ## 2",
+      "0 ... v2",
+      "0 ... v2",
+      "58z ## openai",
+      "python — v2",
+      "0 released",
+      "0 released",
+      "60641266ff4b296044a81fe1717c17a70ceadbf1 ))",
+      "### features",
+      "python v2"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-07-30T17:46:58Z * **api:** fast tier ([8808ed2](https://github.com/openai/openai-python/commit/8808ed27952dae13fb8761f045376af5b3e5bec2)) * **api:** add fast tier to helper methods ([6064126](https://github.com/openai/openai-python/commit/60641266ff4b296044a81fe1717c17a70ceadbf1))"
   }
 }
