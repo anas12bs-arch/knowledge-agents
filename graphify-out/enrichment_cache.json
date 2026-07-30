@@ -323418,5 +323418,643 @@
       "hackernews"
     ],
     "summary": "# Concurrency, interactivity, mutability, choose two > Source: hackernews | Category: news | 2026-07-30T08:43:07Z Score: 11 | Comments: 5"
+  },
+  "47930021f30229a8": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48169_lloyds-aims-for-a-further_bbe8baa8bc.md",
+    "source": "finance",
+    "title": "[finextra] Lloyds aims for a further £2 billion in cost savings with AI to the fore",
+    "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "fore lloyds banking group",
+      "£ 2 billion",
+      "£ 2 billion",
+      "£ 2 billion",
+      "next three years",
+      "52z lloyds aims",
+      "lloyds aims",
+      "lloyds aims",
+      "year profits",
+      "cost savings"
+    ],
+    "summary": "# [finextra] Lloyds aims for a further £2 billion in cost savings with AI to the fore Lloyds aims for a further £2 billion in cost savings with AI to the fore Lloyds Banking Group is targeting another £2 billion in savings over the next three years after turning in a 23% jump in half-year profits."
+  },
+  "9a1acd638101c506": {
+    "file": "corpus/devto/dev_to_autoshiftops_aws-retired-its-free-database-migration-_5c8e9fd41d.md",
+    "source": "devto",
+    "title": "AWS retired its free database migration assessment tool. The reason should change how you build developer tools.",
+    "url": "https://dev.to/autoshiftops/aws-retired-its-free-database-migration-assessment-tool-the-reason-should-change-how-you-build-dn3",
+    "keywords": [
+      "question every ...",
+      "fleet advisor answered",
+      "dms fleet advisor",
+      "build developer tools",
+      "build developer tools",
+      "aws ended support",
+      "aws retired",
+      "aws retired",
+      "may 20",
+      "source"
+    ],
+    "summary": "# AWS retired its free database migration assessment tool. The reason should change how you build developer tools. On May 20, 2026, AWS ended support for DMS Fleet Advisor."
+  },
+  "fde847327e49540f": {
+    "file": "corpus/devto/dev_to_skhell_building-an-aruba-central-producer-in-go-four-_d1a2edf362.md",
+    "source": "devto",
+    "title": "Building an Aruba Central Producer in Go: Four API edge cases we had to solve",
+    "url": "https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60",
+    "keywords": [
+      "four api edge cases",
+      "four api edge cases",
+      "aruba central producer",
+      "aruba central producer",
+      "api ,...",
+      "source",
+      "solve",
+      "solve",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Building an Aruba Central Producer in Go: Four API edge cases we had to solve > Source: devto | Category: news | 2026-07-30T10:51:05Z A deterministic infrastructure collector sounds straightforward: authenticate, call the API,..."
+  },
+  "b880b29e80c361bc": {
+    "file": "corpus/devto/dev_to_parsajiravand_array-methods-are-eager-iterator-helper_4d882c2948.md",
+    "source": "devto",
+    "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
+    "url": "https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li",
+    "keywords": [
+      "02z every time",
+      "small ...",
+      "map ()",
+      "iterator helpers",
+      "iterator helpers",
+      "filter ()",
+      "array methods",
+      "array methods",
+      "array",
+      "source"
+    ],
+    "summary": "# Array methods are eager. Here's why that matters. Every time you chain .filter() and .map() on an array, JavaScript creates two new arrays."
+  },
+  "a87fc98579e74d60": {
+    "file": "corpus/devto/dev_to_parkerrrrr_published-is-not-deliverable-what-five-sto_f8f104006c.md",
+    "source": "devto",
+    "title": "Published' is not 'deliverable': what five storefront APIs don't tell you",
+    "url": "https://dev.to/parkerrrrr/published-is-not-deliverable-what-five-storefront-apis-dont-tell-you-412h",
+    "keywords": [
+      "week publishing digital products",
+      "five platforms — etsy",
+      "five storefront apis",
+      "five storefront apis",
+      "deliverable ':",
+      "deliverable \":",
+      "whop",
+      "tell",
+      "tell",
+      "spent"
+    ],
+    "summary": "# \"Published\" is not \"deliverable\": what five storefront APIs don't tell you > Source: devto | Category: news | 2026-07-30T10:51:02Z I spent a week publishing digital products to five platforms — Etsy, Gumroad, Whop, Polar, and a..."
+  },
+  "9f15f120782b0f01": {
+    "file": "corpus/devto/dev_to_zbrooklyn_windows-11-snap-layouts-in-a-frameless-taur_d82252440f.md",
+    "source": "devto",
+    "title": "Windows 11 Snap Layouts in a frameless Tauri app (the part every guide gets wrong)",
+    "url": "https://dev.to/zbrooklyn/windows-11-snap-layouts-in-a-frameless-tauri-app-the-part-every-guide-gets-wrong-2fjh",
+    "keywords": [
+      "windows 11 snap layouts",
+      "windows 11 snap layouts",
+      "frameless tauri app",
+      "frameless tauri app",
+      "developers try",
+      "twice",
+      "times",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Windows 11 Snap Layouts in a frameless Tauri app (the part every guide gets wrong) I had developers try this and fail. The conclusion both times was the same: \"if you need a..."
+  },
+  "7286efca22a9025d": {
+    "file": "corpus/devto/dev_to_qapilot_shift-left-is-dead-long-live-shift-everywhere_d768a20741.md",
+    "source": "devto",
+    "title": "Shift-Left is Dead. Long Live Shift-Everywhere",
+    "url": "https://dev.to/qapilot/shift-left-is-dead-long-live-shift-everywhere-4lj6",
+    "keywords": [
+      "03z last week",
+      "long live shift",
+      "long live shift",
+      "test automation",
+      "clear ...",
+      "hidden cost",
+      "shift",
+      "shift",
+      "cost",
+      "testing"
+    ],
+    "summary": "# Shift-Left is Dead. > Source: devto | Category: news | 2026-07-30T10:51:03Z Last week, I presented the cost of no testing - Hidden cost of no test automation It is now clear..."
+  },
+  "5d6b5289e4169799": {
+    "file": "corpus/devto/dev_to_fromzerotoship_my-ai-reviewer-found-nothing-for-month_0ff55b2cf7.md",
+    "source": "devto",
+    "title": "My AI reviewer found nothing for months. I read that as good news.",
+    "url": "https://dev.to/fromzerotoship/my-ai-reviewer-found-nothing-for-months-i-read-that-as-good-news-3f4o",
+    "keywords": [
+      "ai reviewer found nothing",
+      "ai reviewer found nothing",
+      "means ai writes",
+      "internal tools",
+      "good news",
+      "good news",
+      "news",
+      "source",
+      "read",
+      "read"
+    ],
+    "summary": "# My AI reviewer found nothing for months. I read that as good news. I build a hospital's internal tools as a non-developer, which means AI writes most of the code."
+  },
+  "1f0160e4757c6525": {
+    "file": "corpus/devto/dev_to_rohithtp_the-alpine-mirage-how-upgrading-python-broke_0bf97f205d.md",
+    "source": "devto",
+    "title": "The Alpine Mirage: How Upgrading Python Broke My Build and Led to a Truer Security Posture",
+    "url": "https://dev.to/rohithtp/the-alpine-mirage-how-upgrading-python-broke-my-build-and-led-to-a-truer-security-posture-38ne",
+    "keywords": [
+      "upgrading python broke",
+      "upgrading python broke",
+      "truer security posture",
+      "truer security posture",
+      "summer bug smash",
+      "smash stories powered",
+      "alpine mirage",
+      "alpine mirage",
+      "submission",
+      "source"
+    ],
+    "summary": "# The Alpine Mirage: How Upgrading Python Broke My Build and Led to a Truer Security Posture > Source: devto | Category: news | 2026-07-30T10:51:02Z This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry."
+  },
+  "40f1d001aae9e3b8": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-mcp-servers-github-helper-function-c_05d4c8131d.md",
+    "source": "devto",
+    "title": "My MCP Server's GitHub Helper Function Could POST and DELETE. Every Tool That Called It Only Ever Used GET.",
+    "url": "https://dev.to/enjoy_kumawat/my-mcp-servers-github-helper-function-could-post-and-delete-every-tool-that-called-it-only-ever-kjb",
+    "keywords": [
+      "ever used get",
+      "ever used get",
+      "small fastmcp server",
+      "mcp server",
+      "mcp server",
+      "manager repo",
+      "github profile",
+      "every tool",
+      "every tool",
+      "server"
+    ],
+    "summary": "# My MCP Server's GitHub Helper Function Could POST and DELETE. Every Tool That Called It Only Ever Used GET. I run a small FastMCP server (server.py in my my-git-manager repo) that exposes my GitHub profile and..."
+  },
+  "c8b7c4132e56872e": {
+    "file": "corpus/devto/dev_to_thebraindonor_thats-a-great-idea-1i83_5ff6df79cd.md",
+    "source": "devto",
+    "title": "That's a Great Idea!",
+    "url": "https://dev.to/thebraindonor/thats-a-great-idea-1i83",
+    "keywords": [
+      "ai — part one",
+      "three responses deep",
+      "great idea",
+      "great idea",
+      "architecture review",
+      "01z writing",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# That's a Great Idea! > Source: devto | Category: news | 2026-07-30T10:51:01Z Writing With AI — Part One  I was three responses deep into an architecture review, and the AI had..."
+  },
+  "4ad601c58db53398": {
+    "file": "corpus/devto/dev_to_ssukhpinder_the-test-that-slept-and-the-test-that-nev_ed1d8f80f6.md",
+    "source": "devto",
+    "title": "The Test That Slept and the Test That Never Woke Up",
+    "url": "https://dev.to/ssukhpinder/the-test-that-slept-and-the-test-that-never-woke-up-1i6j",
+    "keywords": [
+      "36 ms — right",
+      "clock version deadlocked",
+      "01z swapping task",
+      "never woke",
+      "never woke",
+      "faketimeprovider took",
+      "delay sleeps",
+      "console app",
+      "retry test",
+      "test"
+    ],
+    "summary": "# The Test That Slept and the Test That Never Woke Up > Source: devto | Category: news | 2026-07-30T10:51:01Z Swapping Task.Delay sleeps for FakeTimeProvider took a retry test from 7 s to 36 ms — right after I figured out why the fake-clock version deadlocked under xunit but passed in a console app."
+  },
+  "20d3eb0f8e1b4d67": {
+    "file": "corpus/devto/dev_to_duckduckduck_the-python-import-that-silently-disabled_2c3bdb4d70.md",
+    "source": "devto",
+    "title": "The Python import that silently disabled a feature for months",
+    "url": "https://dev.to/duckduckduck/the-python-import-that-silently-disabled-a-feature-for-months-34m4",
+    "keywords": [
+      "never logged anything",
+      "silently disabled",
+      "silently disabled",
+      "name function",
+      "local everywhere",
+      "block makes",
+      "bare except",
+      "python import",
+      "python import",
+      "caching feature"
+    ],
+    "summary": "# The Python import that silently disabled a feature for months An `import` inside an `if` block makes the name function-local everywhere. Combined with a bare except, it turned a caching feature into a no-op that never logged anything."
+  },
+  "19512e2f3391b08c": {
+    "file": "corpus/devto/dev_to_cteague2018_why-we-built-bitweave-sub-millisecond-hyb_2508c79ffb.md",
+    "source": "devto",
+    "title": "Why We Built Bitweave: Sub-Millisecond Hybrid Retrieval in <1.1 MB RSS Memory",
+    "url": "https://dev.to/cteague2018/why-we-built-bitweave-sub-millisecond-hybrid-retrieval-in-11-mb-rss-memory-5bkk",
+    "keywords": [
+      "1 mb rss memory",
+      "1 mb rss memory",
+      "serverless ai ...",
+      "building local rag",
+      "millisecond hybrid retrieval",
+      "millisecond hybrid retrieval",
+      "edge agents",
+      "built bitweave",
+      "built bitweave",
+      "augmented generation"
+    ],
+    "summary": "# Why We Built Bitweave: Sub-Millisecond Hybrid Retrieval in <1.1 MB RSS Memory > Source: devto | Category: news | 2026-07-30T10:51:02Z When building local RAG (Retrieval-Augmented Generation) applications, edge agents, or serverless AI..."
+  },
+  "de4ebdc0ae17b9b0": {
+    "file": "corpus/devto/dev_to_morten_tandrup_fa70d3e92c_i-built-a-wine-recommendati_2d95bf47dd.md",
+    "source": "devto",
+    "title": "I built a wine recommendation engine. The hardest part wasn’t AI—it was trusting the data.",
+    "url": "https://dev.to/morten_tandrup_fa70d3e92c/i-built-a-wine-recommendation-engine-the-hardest-part-wasnt-ai-it-was-trusting-the-data-2j46",
+    "keywords": [
+      "wine recommendation engine",
+      "wine recommendation engine",
+      "difficult part would",
+      "hardest part",
+      "hardest part",
+      "started building",
+      "side project",
+      "machine learning",
+      "ai —",
+      "ai —"
+    ],
+    "summary": "# I built a wine recommendation engine. The hardest part wasn’t AI—it was trusting the data. When I started building my side project, I thought the difficult part would be machine learning."
+  },
+  "9ac57ad04dd014b1": {
+    "file": "corpus/devto/dev_to_duckduckduck_i-gave-an-ai-agent-a-business-and-0-it-f_f580f4f6ba.md",
+    "source": "devto",
+    "title": "I gave an AI agent a business and $0. It found the one thing AI can't sell.",
+    "url": "https://dev.to/duckduckduck/i-gave-an-ai-agent-a-business-and-0-it-found-the-one-thing-ai-cant-sell-38ne",
+    "keywords": [
+      "failed five different ways",
+      "autonomous agent trying",
+      "one thing ai",
+      "one thing ai",
+      "five failures",
+      "ai agent",
+      "ai agent",
+      "one sessions",
+      "first dollar",
+      "04z thirty"
+    ],
+    "summary": "# I gave an AI agent a business and $0. It found the one thing AI can't sell. Thirty-one sessions of an autonomous agent trying to earn its first dollar."
+  },
+  "fda2c60e41a7dc83": {
+    "file": "corpus/devto/dev_to_olekskarp_how-i-built-a-json-to-csv-converter-that-ac_0ad94b6518.md",
+    "source": "devto",
+    "title": "How I Built a JSON to CSV Converter That Actually Handles Nested Objects",
+    "url": "https://dev.to/__olekskarp/how-i-built-a-json-to-csv-converter-that-actually-handles-nested-objects-3oam",
+    "keywords": [
+      "actually handles nested objects",
+      "actually handles nested objects",
+      "05z hey everyone",
+      "probably ...",
+      "data analytics",
+      "csv converter",
+      "csv converter",
+      "constantly deal",
+      "work"
+    ],
+    "summary": "# How I Built a JSON to CSV Converter That Actually Handles Nested Objects > Source: devto | Category: news | 2026-07-30T10:51:05Z 👋  If you work in IT and constantly deal with APIs or data analytics, you've probably..."
+  },
+  "277b19e62c8fb24c": {
+    "file": "corpus/devto/dev_to_anton41_four-ways-prediction-market-arbitrage-numbers_b4edb6e6ff.md",
+    "source": "devto",
+    "title": "Four ways prediction-market 'arbitrage' numbers lie",
+    "url": "https://dev.to/anton41/four-ways-prediction-market-arbitrage-numbers-lie-kao",
+    "keywords": [
+      "prediction markets ...",
+      "four ways prediction",
+      "four ways prediction",
+      "oracle data",
+      "numbers lie",
+      "numbers lie",
+      "months capturing",
+      "auditing order",
+      "spent",
+      "source"
+    ],
+    "summary": "# Four ways prediction-market \"arbitrage\" numbers lie > Source: devto | Category: news | 2026-07-30T10:51:02Z I spent a few months capturing and auditing order-book and oracle data from prediction markets..."
+  },
+  "02b43ba22ab83ac3": {
+    "file": "corpus/devto/dev_to_ssukhpinder_19-requests-through-a-10-request-limit-59_4e7ed8ef64.md",
+    "source": "devto",
+    "title": "19 Requests Through a 10-Request Limit",
+    "url": "https://dev.to/ssukhpinder/19-requests-through-a-10-request-limit-59g9",
+    "keywords": [
+      "net core repro",
+      "sliding windows",
+      "runnable asp",
+      "request limit",
+      "request limit",
+      "boundary seam",
+      "3 seconds",
+      "19 requests",
+      "19 requests",
+      "window limit"
+    ],
+    "summary": "# 19 Requests Through a 10-Request Limit A fixed-window limit of 10 requests per 10 seconds happily admits 19 in 1.3 seconds. A runnable ASP.NET Core repro of the window-boundary seam, and when sliding windows are worth it."
+  },
+  "aca4bff4956245ff": {
+    "file": "corpus/devto/dev_to_nyra-amsi_bare-metal-automation-in-2026-a-blueprint-f_727e7438d6.md",
+    "source": "devto",
+    "title": "Bare Metal Automation in 2026: A Blueprint for Provisioning and Lifecycle Management",
+    "url": "https://dev.to/nyra-amsi/bare-metal-automation-in-2026-a-blueprint-for-provisioning-and-lifecycle-management-5gij",
+    "keywords": [
+      "demand predictable performance ,...",
+      "bare metal automation",
+      "bare metal automation",
+      "lifecycle management",
+      "lifecycle management",
+      "critical foundation",
+      "workloads",
+      "source",
+      "reactions",
+      "provisioning"
+    ],
+    "summary": "# Bare Metal Automation in 2026: A Blueprint for Provisioning and Lifecycle Management > Source: devto | Category: news | 2026-07-30T10:51:03Z Bare metal servers remain the critical foundation for workloads that demand predictable performance,..."
+  },
+  "efe9195828c73519": {
+    "file": "corpus/devto/dev_to_sahil_chordia_claude-doesnt-work-5451_30f07202ed.md",
+    "source": "devto",
+    "title": "Claude doesn't work.",
+    "url": "https://dev.to/sahil_chordia/claude-doesnt-work-5451",
+    "keywords": [
+      "five minutes ago",
+      "five ...",
+      "work",
+      "work",
+      "source",
+      "reactions",
+      "news",
+      "idea",
+      "devto",
+      "claude"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-30T10:51:05Z Not because it's bad. Because it has no idea what you were doing five minutes ago."
+  },
+  "6ed249eab1d4c2d5": {
+    "file": "corpus/devto/dev_to_fagundesv_you-deleted-bm25-the-day-you-bought-a-vecto_2d07e8dbe1.md",
+    "source": "devto",
+    "title": "You Deleted BM25 the Day You Bought a Vector Database. Your Fraud Queue Noticed",
+    "url": "https://dev.to/fagundesv/you-deleted-bm25-the-day-you-bought-a-vector-database-your-fraud-queue-noticed-3d2j",
+    "keywords": [
+      "fraud queue noticed",
+      "fraud queue noticed",
+      "fraud ...",
+      "vector database",
+      "vector database",
+      "token bill",
+      "ranking function",
+      "embedding api",
+      "deleted bm25",
+      "deleted bm25"
+    ],
+    "summary": "Your Fraud Queue Noticed > Source: devto | Category: news | 2026-07-30T10:51:02Z BM25 is a ranking function from the 90s."
+  },
+  "0ae23338fb1d3393": {
+    "file": "corpus/psychology/fs_blog_knowledge-project-podcast_brad-jacobs-2_96f16e42a8.md",
+    "source": "psychology",
+    "title": "[farnam-street] The Psychology Behind Building Billion-Dollar Companies | Brad Jacobs",
+    "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
+    "keywords": [
+      "psychology behind building billion",
+      "psychology behind building billion",
+      "psychology behind building billion",
+      "psychology behind building billion",
+      "brad jacobs appeared first",
+      "built eight billion",
+      "created extraordinary returns",
+      "brad jacobs",
+      "brad jacobs",
+      "brad jacobs"
+    ],
+    "summary": "This summer, I&#8217;m revisiting one of my favorite episodes. If you have, it’s a classic and worth listening to again. Brad Jacobs has built eight billion-dollar companies, completed more than 500 acquisitions, and created extraordinary returns for &#8230; The post  The Psychology Behind Building Billion-Dollar Companies | Brad Jacobs  appeared first on  Farnam Street ."
+  },
+  "cfed965aa4011f6f": {
+    "file": "corpus/security/thehackernews_com_2026_07_silverfox-targets-japanese-manufac_81a89a30e3.md",
+    "source": "security",
+    "title": "[hacker-news-sec] SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+    "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+    "keywords": [
+      "chinese cybercrime group known",
+      "observed using new drivers",
+      "silverfox targets japanese manufacturer",
+      "silverfox targets japanese manufacturer",
+      "group combines new vulnerable",
+      "persistent remote access",
+      "newly observed abuse",
+      "industrial manufacturing sector",
+      "aka winos 4",
+      "driver byovd chain"
+    ],
+    "summary": "# [hacker-news-sec] SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access."
+  },
+  "e035079f9388ba83": {
+    "file": "corpus/security/thehackernews_com_2026_07_hackers-exploit-anysign4pc-via-hac_4e0ec4d769.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+    "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+    "keywords": [
+      "vulnerable anysign4pc version without",
+      "exploit locally installed financial",
+      "compromised trusted domestic websites",
+      "compromised page could infect",
+      "install backdoors without prompts",
+      "install backdoors without prompts",
+      "infect targeted visitors",
+      "four security firms",
+      "copperhedge backdoors",
+      "system running"
+    ],
+    "summary": "# [hacker-news-sec] Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors."
+  },
+  "9b984c4855e39ab5": {
+    "file": "corpus/hackernews/www_nextplatform_com_hpc_2026_07_27_nvidia-accelerates-chip-_561b1ddee7.md",
+    "source": "hackernews",
+    "title": "Nvidia Accelerates Chip Engineering with AI Agents",
+    "url": "https://www.nextplatform.com/hpc/2026/07/27/nvidia-accelerates-chip-engineering-with-ai-agents/5279125",
+    "keywords": [
+      "nvidia accelerates chip engineering",
+      "nvidia accelerates chip engineering",
+      "ai agents",
+      "ai agents",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Nvidia Accelerates Chip Engineering with AI Agents > Source: hackernews | Category: news | 2026-07-30T10:50:58Z Score: 4 | Comments: 0"
+  },
+  "4b202415cd4dae78": {
+    "file": "corpus/hackernews/by_seiko-design_com_140th_en_topic_58_html_2b172341d8.md",
+    "source": "hackernews",
+    "title": "The first watch featuring computer functions",
+    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+    "keywords": [
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "30t10",
+      "2026"
+    ],
+    "summary": "# The first watch featuring computer functions > Source: hackernews | Category: news | 2026-07-30T10:50:52Z Score: 22 | Comments: 0"
+  },
+  "3f147db0503bb921": {
+    "file": "corpus/hackernews/bennuttall_com_blog_2026_07_gpiozero-flow_0bebd4a2fd.md",
+    "source": "hackernews",
+    "title": "Gpiozero Flow",
+    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+    "keywords": [
+      "gpiozero flow",
+      "gpiozero flow",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Gpiozero Flow > Source: hackernews | Category: news | 2026-07-30T10:50:52Z Score: 7 | Comments: 0"
+  },
+  "0a684a8842075599": {
+    "file": "corpus/hackernews/android-developers_googleblog_com_2026_07_google-play-age-si_8613209c1a.md",
+    "source": "hackernews",
+    "title": "Google will expand age checks on Android worldwide till the end of the year",
+    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "keywords": [
+      "expand age checks",
+      "expand age checks",
+      "android worldwide till",
+      "android worldwide till",
+      "51z score",
+      "year",
+      "year",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Google will expand age checks on Android worldwide till the end of the year > Source: hackernews | Category: news | 2026-07-30T10:50:51Z Score: 38 | Comments: 20"
+  },
+  "be433904907cf3ae": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_6ywODcJ8yu8_6440c8d07d.md",
+    "source": "hackernews",
+    "title": "2001: Cameras..On Phones?",
+    "url": "https://www.youtube.com/watch?v=6ywODcJ8yu8",
+    "keywords": [
+      "cameras ..",
+      "cameras ..",
+      "59z score",
+      "source",
+      "phones",
+      "phones",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# 2001: Cameras..On Phones? > Source: hackernews | Category: news | 2026-07-30T10:50:59Z Score: 6 | Comments: 1"
+  },
+  "ffedff7db46e11c4": {
+    "file": "corpus/hackernews/www_qoitech_com_blog_esp32-c6-power-consumption-comparison_563389a8e4.md",
+    "source": "hackernews",
+    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+    "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+    "keywords": [
+      "c6 power consumption",
+      "c6 power consumption",
+      "zephyr vs",
+      "zephyr vs",
+      "idf comparison",
+      "idf comparison",
+      "arduino vs",
+      "arduino vs",
+      "54z score",
+      "source"
+    ],
+    "summary": "# ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison > Source: hackernews | Category: news | 2026-07-30T10:50:54Z Score: 35 | Comments: 7"
+  },
+  "c60640b4c098a13f": {
+    "file": "corpus/hackernews/atomarine_co_f86bf98b9e.md",
+    "source": "hackernews",
+    "title": "Atomarine: Nuclear Data Centers at Sea",
+    "url": "https://atomarine.co/",
+    "keywords": [
+      "nuclear data centers",
+      "nuclear data centers",
+      "51z score",
+      "source",
+      "sea",
+      "sea",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Atomarine: Nuclear Data Centers at Sea > Source: hackernews | Category: news | 2026-07-30T10:50:51Z Score: 13 | Comments: 3"
+  },
+  "cd3136264cba9609": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Azulejo_23f1a150fa.md",
+    "source": "hackernews",
+    "title": "Azulejo",
+    "url": "https://en.wikipedia.org/wiki/Azulejo",
+    "keywords": [
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "azulejo",
+      "azulejo"
+    ],
+    "summary": "# Azulejo > Source: hackernews | Category: news | 2026-07-30T10:50:54Z Score: 4 | Comments: 0"
+  },
+  "d9bba6f17e413dee": {
+    "file": "corpus/podcast/softwareengineeringdaily_com_podcasts_docker-and-sandboxing-_2f9b632dcb.md",
+    "source": "podcast",
+    "title": "[software-engineering-daily] Docker and Sandboxing AI Agents",
+    "url": "https://softwareengineeringdaily.com/podcasts/docker-and-sandboxing-ai-agents/",
+    "keywords": [
+      "freedom also presents dangers",
+      "mark joins gregor vand",
+      "micro vm emulates hardware",
+      "isolated micro vm",
+      "host &# 8217",
+      "companies including stripe",
+      "useful coding agents",
+      "sandboxing ai agents",
+      "sandboxing ai agents",
+      "sandboxing ai agents"
+    ],
+    "summary": "However, that freedom also presents dangers, and promises to usher in a new wave of security threats. In this episode, Mark joins Gregor Vand for a wide-ranging conversation that includes why agents break the immutability assumptions containers were built on, how micro VMs differ from both containers and traditional VMs, and the still-unsolved challenge of giving agents scoped, trustworthy access to sensitive services and data. The post  Docker and Sandboxing AI Agents  appeared first on  Softwa"
   }
 }
