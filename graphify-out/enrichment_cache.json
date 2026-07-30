@@ -323134,5 +323134,289 @@
       "crewai 1"
     ],
     "summary": "### Features - Surface tool failures instead of reporting them as success - Emit FlowFailedEvent when a flow execution fails - Implement progressive disclosure for skills ### Documentation - Update snapshot and changelog for v1.15.8 @github-actions[bot], @joaomdmoura, @lorenzejay, @lucasgomide"
+  },
+  "566e0d6c5f5b7cb2": {
+    "file": "corpus/devto/dev_to_sylwia-lask_it-was-just-a-patch-update-what-could-pos_8d3c5a7b7a.md",
+    "source": "devto",
+    "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+    "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
+    "keywords": [
+      "could possibly go wrong",
+      "could possibly go wrong",
+      "summer bug smash",
+      "smash stories powered",
+      "patch update",
+      "patch update",
+      "submission",
+      "source",
+      "sentry",
+      "reactions"
+    ],
+    "summary": "# It Was Just a Patch Update. What Could Possibly Go Wrong? This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry."
+  },
+  "1c62679995f272f3": {
+    "file": "corpus/devto/dev_to_gramli_from-open-source-to-paid-product-is-ai-acceler_63cf39b305.md",
+    "source": "devto",
+    "title": "From Open Source to Paid Product: Is AI Accelerating the Shift?",
+    "url": "https://dev.to/gramli/from-open-source-to-paid-product-is-ai-accelerating-the-shift-3d11",
+    "keywords": [
+      "think many",
+      "paid product",
+      "paid product",
+      "libraries ...",
+      "growing number",
+      "already noticed",
+      "ai accelerating",
+      "ai accelerating",
+      "source projects",
+      "open source"
+    ],
+    "summary": "# From Open Source to Paid Product: Is AI Accelerating the Shift? > Source: devto | Category: news | 2026-07-30T08:43:15Z I think many of us have already noticed that a growing number of open-source projects and libraries..."
+  },
+  "dfcaa34334c3b66a": {
+    "file": "corpus/devto/dev_to_ayush_singh_9b0d83152be5b_not-all-repair-helps-what-i_1d6026a3ba.md",
+    "source": "devto",
+    "title": "Not All Repair Helps: What I Learned Trying to Fix a Failing AI Agent",
+    "url": "https://dev.to/ayush_singh_9b0d83152be5b/not-all-repair-helps-what-i-learned-trying-to-fix-a-failing-ai-agent-55cc",
+    "keywords": [
+      "moment every person",
+      "failing ai agent",
+      "failing ai agent",
+      "ai agent knows",
+      "repair helps",
+      "repair helps",
+      "learned trying",
+      "learned trying",
+      "halfway done",
+      "go ..."
+    ],
+    "summary": "# Not All Repair Helps: What I Learned Trying to Fix a Failing AI Agent Picture a moment every person who runs an AI agent knows. A task is halfway done and starting to go..."
+  },
+  "a47f3710f46e7db0": {
+    "file": "corpus/devto/dev_to_just-a-guy360_the-regex-bug-that-passes-code-review-p_6515ced59c.md",
+    "source": "devto",
+    "title": "The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod",
+    "url": "https://dev.to/just-a-guy360/the-regex-bug-that-passes-code-review-passes-tests-and-takes-down-prod-4gf1",
+    "keywords": [
+      "twelve characters ....",
+      "passes code review",
+      "passes code review",
+      "passes tests",
+      "passes tests",
+      "separated words",
+      "regex bug",
+      "regex bug",
+      "regex",
+      "validates"
+    ],
+    "summary": "# The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod > Source: devto | Category: news | 2026-07-30T08:43:16Z It validates that a string is a list of comma-separated words."
+  },
+  "a6b495f95fe55e72": {
+    "file": "corpus/devto/dev_to_kenwalger_ai-governance-for-enterprise-ai-why-governa_c5f4defb02.md",
+    "source": "devto",
+    "title": "AI Governance for Enterprise AI: The AI Gateway as an Enforcement Layer",
+    "url": "https://dev.to/kenwalger/ai-governance-for-enterprise-ai-why-governance-comes-before-the-gateway-2hm1",
+    "keywords": [
+      "every technology shift ...",
+      "15z governance decides",
+      "ai governance",
+      "ai governance",
+      "enforcement layer",
+      "enforcement layer",
+      "enterprise ai",
+      "enterprise ai",
+      "ai gateway",
+      "ai gateway"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-30T08:43:15Z Governance decides what AI is allowed to do. The gateway only enforces it."
+  },
+  "9458600c9af10b71": {
+    "file": "corpus/devto/dev_to_eayurt_why-im-still-writing-how-tos-4fpf_b76d5a5bef.md",
+    "source": "devto",
+    "title": "Why I'm Still Writing How-Tos",
+    "url": "https://dev.to/eayurt/why-im-still-writing-how-tos-4fpf",
+    "keywords": [
+      "stopped writing generic guides",
+      "15z google answers",
+      "still writing",
+      "still writing",
+      "started writing",
+      "actually happened",
+      "tos",
+      "tos",
+      "source",
+      "searches"
+    ],
+    "summary": "# Why I'm Still Writing How-Tos Google answers most how-to searches now. Here is why I stopped writing generic guides and started writing what actually happened."
+  },
+  "91e9e04eb5a8f67e": {
+    "file": "corpus/devto/dev_to_rulestack_what-actually-belongs-in-claudemd-and-what-_2817b26148.md",
+    "source": "devto",
+    "title": "What actually belongs in CLAUDE.md — and what to move to skills, hooks, or docs",
+    "url": "https://dev.to/rulestack/what-actually-belongs-in-claudemd-and-what-to-move-to-skills-hooks-or-docs-34id",
+    "keywords": [
+      "every preference becomes",
+      "every incident adds",
+      "six ...",
+      "actually belongs",
+      "actually belongs",
+      "md —",
+      "md —",
+      "source",
+      "skills"
+    ],
+    "summary": "# What actually belongs in CLAUDE.md — and what to move to skills, hooks, or docs > Source: devto | Category: news | 2026-07-30T08:43:17Z Every incident adds a rule, every preference becomes a paragraph, and six..."
+  },
+  "44e7d54309c8d929": {
+    "file": "corpus/devto/dev_to_elsie-rainee_yoru-ramen-ye-ramen-a-late-night-tokyo-r_59fa75d8b4.md",
+    "source": "devto",
+    "title": "Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing",
+    "url": "https://dev.to/elsie-rainee/yoru-ramen-ye-ramen-a-late-night-tokyo-ramen-shop-perfect-landing-3n43",
+    "keywords": [
+      "yoru ramen 夜ラーメン —",
+      "yoru ramen 夜ラーメン —",
+      "night tokyo ramen shop",
+      "night tokyo ramen shop",
+      "comfort food edition",
+      "perfect landing",
+      "perfect landing",
+      "perfect landing",
+      "frontend challenge",
+      "submission"
+    ],
+    "summary": "# Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing > Source: devto | Category: news | 2026-07-30T08:43:16Z This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I..."
+  },
+  "9048d6370fbc3fad": {
+    "file": "corpus/security/thehackernews_com_2026_07_russian-hackers-exploit-microsoft-_08772ea58b.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+    "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+    "keywords": [
+      "microsoft outlook web access",
+      "observed exploiting another vulnerability",
+      "keep mailbox access",
+      "keep mailbox access",
+      "keep mailbox access",
+      "european government entities",
+      "patched vulnerability",
+      "target u",
+      "owa ),",
+      "july 22"
+    ],
+    "summary": "# [hacker-news-sec] Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financi"
+  },
+  "8a9230a716fb5db9": {
+    "file": "corpus/security/thehackernews_com_2026_07_amazon-links-debug-and-chalk-npm-h_c446184a12.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+    "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+    "keywords": [
+      "2 billion weekly downloads",
+      "least 18 packages carrying",
+      "05z amazon links debug",
+      "amazon links debug",
+      "amazon links debug",
+      "npm packages debug",
+      "september 2025 hijack",
+      "lookalike npm domain",
+      "draining script pushed",
+      "north korea ’"
+    ],
+    "summary": "# [hacker-news-sec] Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them."
+  },
+  "9f2ada9cbe1bd64c": {
+    "file": "corpus/security/thehackernews_com_2026_07_fcc-blocks-new-foreign-produced-ro_527dcbd9b5.md",
+    "source": "security",
+    "title": "[hacker-news-sec] FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+    "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+    "keywords": [
+      "fcc blocks new foreign",
+      "fcc blocks new foreign",
+      "previously authorized models",
+      "equipment authorization required",
+      "devices people already",
+      "federal communications commission",
+      "produced mobile robots",
+      "networked power inverters",
+      "added foreign",
+      "produced robots"
+    ],
+    "summary": "# [hacker-news-sec] FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. Previously authorized models can still be sold, and devices people already own are unaffected."
+  },
+  "90cdf581617a4aa5": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_07_lambda-self-managed-storage_utm_c_711230a307.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
+    "url": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "terraform provider support remains",
+      "reference deployment packages directly",
+      "managed code storage lifts",
+      "managed code storage lifts",
+      "managed code storage lifts",
+      "region code storage quota",
+      "owned s3 buckets",
+      "open enhancement request",
+      "function size limit",
+      "function size limit"
+    ],
+    "summary": "AWS Lambda can now reference deployment packages directly in customer-owned S3 buckets, removing the per-Region code storage quota and raising the managed default from 75 GB to 300 GB. Per-function package limits are unchanged, and UpdateFunctionCode is still required after replacing an object. Terraform provider support remains an open enhancement request."
+  },
+  "1eee7490a44ab565": {
+    "file": "corpus/hackernews/christianselig_com_2026_07_iphone-air-review_2add2b5d1d.md",
+    "source": "hackernews",
+    "title": "I Have Thoughts on the iPhone Air",
+    "url": "https://christianselig.com/2026/07/iphone-air-review/",
+    "keywords": [
+      "iphone air",
+      "iphone air",
+      "05z score",
+      "thoughts",
+      "thoughts",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I Have Thoughts on the iPhone Air > Source: hackernews | Category: news | 2026-07-30T08:43:05Z Score: 22 | Comments: 12"
+  },
+  "ccc72921fe81c97a": {
+    "file": "corpus/hackernews/equidistance_io_londons-most-equidistant-pub_7d293e3e0b.md",
+    "source": "hackernews",
+    "title": "London’s most equidistant pub",
+    "url": "https://equidistance.io/londons-most-equidistant-pub/",
+    "keywords": [
+      "london ’",
+      "london ’",
+      "equidistant pub",
+      "equidistant pub",
+      "09z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# London’s most equidistant pub > Source: hackernews | Category: news | 2026-07-30T08:43:09Z Score: 35 | Comments: 15"
+  },
+  "24f59f7d3fb31ecf": {
+    "file": "corpus/hackernews/www_n16f_net_blog_concurrency-interactivity-mutability-choos_710ac5a24e.md",
+    "source": "hackernews",
+    "title": "Concurrency, interactivity, mutability, choose two",
+    "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
+    "keywords": [
+      "choose two",
+      "choose two",
+      "07z score",
+      "source",
+      "news",
+      "mutability",
+      "mutability",
+      "interactivity",
+      "interactivity",
+      "hackernews"
+    ],
+    "summary": "# Concurrency, interactivity, mutability, choose two > Source: hackernews | Category: news | 2026-07-30T08:43:07Z Score: 11 | Comments: 5"
   }
 }
