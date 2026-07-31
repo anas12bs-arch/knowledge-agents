@@ -332007,5 +332007,510 @@
       "0 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-31T16:19:10Z * **api:** content provenance checks ([1d6c118](https://github.com/openai/openai-python/commit/1d6c1180f8eaa71bfd45cae67360987b2bea3656)) * **client:** honor Retry-After delays up to two minutes ([#3555](https://github.com/openai/openai-python/issues/3555)) ([7fa7946](https://github.com/openai/openai-python/commit/7fa7946485b5ecbadd0ebf8624c574e2c9e3370c))"
+  },
+  "6f59083ee0da89a4": {
+    "file": "corpus/devto/dev_to_cyclopt_dimitrisk_the-all-purpose-agent-isnt-an-archi_720eb51014.md",
+    "source": "devto",
+    "title": "The all-purpose agent isn't an architecture. It's a single point of failure with a system prompt.",
+    "url": "https://dev.to/cyclopt_dimitrisk/the-all-purpose-agent-isnt-an-architecture-its-a-single-point-of-failure-with-a-system-prompt-3je0",
+    "keywords": [
+      "looks like impressive economy",
+      "system prompt",
+      "system prompt",
+      "single point",
+      "single point",
+      "purpose agent",
+      "purpose agent",
+      "one agent",
+      "one ...",
+      "33z intro"
+    ],
+    "summary": "# The all-purpose agent isn't an architecture. It's a single point of failure with a system prompt. Intro   In a demo, one agent that \"does everything\" looks like impressive economy: one..."
+  },
+  "f0c290ff49e4dc35": {
+    "file": "corpus/devto/dev_to_aws-builders_my-robot-accountant-got-an-eviction-noti_be6f6a2e25.md",
+    "source": "devto",
+    "title": "My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore",
+    "url": "https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo",
+    "keywords": [
+      "bedrock agents classic",
+      "bedrock agents classic",
+      "robot accountant got",
+      "robot accountant got",
+      "robot accountant",
+      "eviction notice",
+      "eviction notice",
+      "time",
+      "source",
+      "reactions"
+    ],
+    "summary": "# My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore Ciao Amici 👋  Grab your chai, because the robot accountant is back, and this time we have a..."
+  },
+  "fefca1ca835da8b5": {
+    "file": "corpus/devto/dev_to_kevinkwee27_fckver-a-practical-versioning-strategy-fo_ca2e13f2f0.md",
+    "source": "devto",
+    "title": "FckVer: A Practical Versioning Strategy for Odoo",
+    "url": "https://dev.to/kevinkwee27/fckver-a-practical-versioning-strategy-for-odoo-4kfg",
+    "keywords": [
+      "practical versioning strategy",
+      "practical versioning strategy",
+      "invented fuckantic versioning",
+      "force semantic versioning",
+      "stopped trying",
+      "fckver ).",
+      "fckver",
+      "fckver",
+      "source",
+      "reactions"
+    ],
+    "summary": "# FckVer: A Practical Versioning Strategy for Odoo > Source: devto | Category: news | 2026-07-31T17:54:33Z Why I stopped trying to force Semantic Versioning into Odoo and invented Fuckantic Versioning (FckVer)."
+  },
+  "03b26618008a9787": {
+    "file": "corpus/devto/dev_to_vultr_deploying-imgproxy-process-resize-convert-image_e8c3524765.md",
+    "source": "devto",
+    "title": "Deploying ImgProxy – Process, Resize, Convert Images on the Fly",
+    "url": "https://dev.to/vultr/deploying-imgproxy-process-resize-convert-images-on-the-fly-5ab0",
+    "keywords": [
+      "deploying imgproxy – process",
+      "deploying imgproxy – process",
+      "processing server — resize",
+      "33z imgproxy",
+      "transform images",
+      "convert images",
+      "convert images",
+      "source image",
+      "fly ...",
+      "resize"
+    ],
+    "summary": "# Deploying ImgProxy – Process, Resize, Convert Images on the Fly > Source: devto | Category: news | 2026-07-31T17:54:33Z ImgProxy is an open-source image-processing server — resize, convert, and transform images on the fly..."
+  },
+  "6431f72a6fe3aa0a": {
+    "file": "corpus/devto/dev_to_shreshthgoyal_claude-code-openrouter-the-setup-guide-_f25afec1c1.md",
+    "source": "devto",
+    "title": "Claude Code + OpenRouter: The Setup Guide That Actually Explains Things",
+    "url": "https://dev.to/shreshthgoyal/claude-code-openrouter-the-setup-guide-that-actually-explains-things-1d6o",
+    "keywords": [
+      "heard people rave",
+      "actually explains things",
+      "actually explains things",
+      "setup guide",
+      "setup guide",
+      "claude code",
+      "claude code",
+      "claude code",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Claude Code + OpenRouter: The Setup Guide That Actually Explains Things So you have heard people rave about Claude Code. Maybe you have also heard people mention OpenRouter..."
+  },
+  "997503ae9698db35": {
+    "file": "corpus/devto/dev_to_vultr_deploying-code-server-for-vs-code-on-ubuntu-240_1d24ff329d.md",
+    "source": "devto",
+    "title": "Deploying code-server for VS Code on Ubuntu 24.04",
+    "url": "https://dev.to/vultr/deploying-code-server-for-vs-code-on-ubuntu-2404-4o9e",
+    "keywords": [
+      "vs code",
+      "vs code",
+      "ubuntu 24",
+      "ubuntu 24",
+      "integrated ...",
+      "deploying code",
+      "deploying code",
+      "33z code",
+      "source project",
+      "source"
+    ],
+    "summary": "# Deploying code-server for VS Code on Ubuntu 24.04 > Source: devto | Category: news | 2026-07-31T17:54:33Z code-server is the open-source project that runs full VS Code including extensions, integrated..."
+  },
+  "79f2d57c34eee4bd": {
+    "file": "corpus/ai-research/openai_com_index_disrupting-malicious-uses-of-ai-criminal-sc_ff7c1653ce.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Disrupting a Criminal Scam Operation",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "keywords": [
+      "criminal scam operation",
+      "criminal scam operation",
+      "support investment",
+      "impersonation schemes",
+      "26z disrupting",
+      "disrupting",
+      "disrupting",
+      "source",
+      "romance",
+      "research"
+    ],
+    "summary": "# [openai-blog] Disrupting a Criminal Scam Operation Disrupting a Criminal Scam Operation OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+  },
+  "c5cee423ceeb591e": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_31_grand-jury-witness-reflecting-po_73236b7a84.md",
+    "source": "legal",
+    "title": "[techdirt] Grand Jury Witness: Reflecting Pool Was Already Damaged Before Arrested Man Touched It",
+    "url": "https://www.techdirt.com/2026/07/31/grand-jury-witness-reflecting-pool-was-already-damaged-before-arrested-man-touched-it/",
+    "keywords": [
+      "26z grand jury witness",
+      "lincoln memorial reflecting pool",
+      "grand jury witness",
+      "grand jury witness",
+      "arrested man touched",
+      "arrested man touched",
+      "arrested man touched",
+      "[&# 8230 ;]",
+      "donald trump swore",
+      "reflecting pool"
+    ],
+    "summary": "# [techdirt] Grand Jury Witness: Reflecting Pool Was Already Damaged Before Arrested Man Touched It Grand Jury Witness: Reflecting Pool Was Already Damaged Before Arrested Man Touched It Instead, it turned out to be everything we expect from Trump: braggadocio followed by abject failure."
+  },
+  "b84fbb573b199b65": {
+    "file": "corpus/product/techcrunch_com_podcast_ai-labs-want-to-pump-the-brakes-but-a_bbf0fe0dd6.md",
+    "source": "product",
+    "title": "[techcrunch-startups] AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "keywords": [
+      "pushing full speed ahead",
+      "comments came &# 160",
+      "30z ai labs want",
+      "openai ceo &# 160",
+      "ai labs want",
+      "ai labs want",
+      "openai &# 8217",
+      "“ pace ”",
+      "sloppy security seems",
+      "ai ,&# 160"
+    ],
+    "summary": "# [techcrunch-startups] AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]"
+  },
+  "8fcd917827eb4b0c": {
+    "file": "corpus/product/techcrunch_com_video_sam-altman-isnt-the-only-one-who-wants-_1da21b93cc.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "keywords": [
+      "pushing full speed ahead",
+      "comments came &# 160",
+      "openai ceo &# 160",
+      "openai &# 8217",
+      "“ pace ”",
+      "sloppy security seems",
+      "[&# 8230 ;]",
+      "30z sam altman",
+      "ai ,&# 160",
+      "&# 160"
+    ],
+    "summary": "# [techcrunch-startups] Sam Altman isn’t the only one who wants to pump the brakes on AI After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]"
+  },
+  "d62470d6a5619be2": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hacker-uses-deepseek-_b06dad6c30.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+    "keywords": [
+      "autonomously attack vulnerable servers",
+      "autonomously attack vulnerable servers",
+      "autonomously attack vulnerable servers",
+      "hacker uses deepseek ai",
+      "hacker uses deepseek ai",
+      "deepseek ai model",
+      "speaking threat actor",
+      "limited human involvement",
+      "conduct autonomous cyberattacks",
+      "source hermes agent"
+    ],
+    "summary": "# [bleeping-comp] Hacker uses DeepSeek AI to autonomously attack vulnerable servers Hacker uses DeepSeek AI to autonomously attack vulnerable servers A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement."
+  },
+  "dca7a8c508bbaa8c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-warns-of-cyberat_0bef394e8b.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA warns of cyberattacks disrupting U.S. water utilities",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+    "keywords": [
+      "exposed programmable logic controllers",
+      "wastewater systems sector",
+      "attacks targeting internet",
+      "cyberattacks disrupting u",
+      "cyberattacks disrupting u",
+      "cyberattacks disrupting u",
+      "infrastructure security agency",
+      "28z cisa warns",
+      "cisa warns",
+      "cisa warns"
+    ],
+    "summary": "# [bleeping-comp] CISA warns of cyberattacks disrupting U.S. water utilities CISA warns of cyberattacks disrupting U.S. water utilities The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector."
+  },
+  "5cf9b25d6c6ab103": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_07_anthropics-opus-5-is-_51780d4e71.md",
+    "source": "security",
+    "title": "[schneier] Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
+    "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
+    "keywords": [
+      "within 15 attempts ),",
+      "6 sol succeeded 3",
+      "opus 5 also outperformed",
+      "fifteen attempts ...",
+      "resisting prompt injection",
+      "resisting prompt injection",
+      "resisting prompt injection",
+      "6 %), making",
+      "robust model evaluated",
+      "27z anthropic ’"
+    ],
+    "summary": "The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts&#8212;more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 15 attempts), and was 10 times as likely to be successfully attacked as Claude Opus 5 at 2.0%. The other GPT 5.6 variants are less robust, at 30.4% (Terra) and 43.9% (Luna)."
+  },
+  "d8f81938091c2be7": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_deepseek-v4-flash-now-runs-updated-weig_fc8ae8125f.md",
+    "source": "vercel-blog",
+    "title": "DeepSeek V4 Flash now runs updated weights on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway",
+    "keywords": [
+      "35z deepseek v4 flash",
+      "deepseek v4 flash",
+      "deepseek v4 flash",
+      "runs updated weights",
+      "runs updated weights",
+      "runs updated weights",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel"
+    ],
+    "summary": "# DeepSeek V4 Flash now runs updated weights on AI Gateway > Source: vercel-blog | Category: news | 2026-07-31T17:54:35Z DeepSeek V4 Flash now runs updated weights on AI Gateway"
+  },
+  "f78a5297e0866977": {
+    "file": "corpus/hackernews/www_blacksmith_sh_blog_the-physics-of-docker-build-caching_af98e9d5f3.md",
+    "source": "hackernews",
+    "title": "The physics of Docker build caching",
+    "url": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching",
+    "keywords": [
+      "docker build caching",
+      "docker build caching",
+      "30z score",
+      "source",
+      "physics",
+      "physics",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The physics of Docker build caching > Source: hackernews | Category: news | 2026-07-31T17:54:30Z Score: 10 | Comments: 0"
+  },
+  "fc6b0e88b41e249a": {
+    "file": "corpus/hackernews/artificialanalysis_ai_models_deepseek-v4-flash_5f55e1160c.md",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "keywords": [
+      "price analysis",
+      "price analysis",
+      "26z score",
+      "source",
+      "performance",
+      "performance",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis > Source: hackernews | Category: news | 2026-07-31T17:54:26Z Score: 424 | Comments: 229"
+  },
+  "b493e19e4020aaf5": {
+    "file": "corpus/hackernews/github_com_sqliteai_waste_d6cfb2eda4.md",
+    "source": "hackernews",
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "url": "https://github.com/sqliteai/waste",
+    "keywords": [
+      "50 tok",
+      "50 tok",
+      "28z score",
+      "source",
+      "ram",
+      "ram",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Run Kimi K3 using 29 GB of RAM at 0.50 tok/s > Source: hackernews | Category: news | 2026-07-31T17:54:28Z Score: 24 | Comments: 4"
+  },
+  "141468d424d753f0": {
+    "file": "corpus/hackernews/cgjennings_ca_articles_jpeg-compression_33aa3621f6.md",
+    "source": "hackernews",
+    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+    "url": "https://cgjennings.ca/articles/jpeg-compression/",
+    "keywords": [
+      "lossy compression methods",
+      "lossy compression methods",
+      "interactively explore jpeg",
+      "interactively explore jpeg",
+      "jpeg works",
+      "jpeg works",
+      "27z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How JPEG works: Interactively explore JPEG's lossy compression methods > Source: hackernews | Category: news | 2026-07-31T17:54:27Z Score: 15 | Comments: 0"
+  },
+  "265f307e46a497f5": {
+    "file": "corpus/hackernews/lowentropy_net_posts_whole-new-protocol_34fc9df14d.md",
+    "source": "hackernews",
+    "title": "Why in Building Protocols, Like Code, Starting over Is Dumb",
+    "url": "https://lowentropy.net/posts/whole-new-protocol/",
+    "keywords": [
+      "like code",
+      "like code",
+      "building protocols",
+      "building protocols",
+      "29z score",
+      "starting",
+      "starting",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why in Building Protocols, Like Code, Starting over Is Dumb > Source: hackernews | Category: news | 2026-07-31T17:54:29Z Score: 5 | Comments: 0"
+  },
+  "16ed0f518ff4e215": {
+    "file": "corpus/hackernews/usa_visa_com_partner-with-us_visa-consulting-analytics_econo_77e9d44433.md",
+    "source": "hackernews",
+    "title": "The great wealth transfer reality check",
+    "url": "https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html",
+    "keywords": [
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "31t17",
+      "2026"
+    ],
+    "summary": "# The great wealth transfer reality check > Source: hackernews | Category: news | 2026-07-31T17:54:28Z Score: 5 | Comments: 0"
+  },
+  "f26843001b7d69c2": {
+    "file": "corpus/hackernews/www_jeffgeerling_com_blog_2026_getting-25g-ethernet-mac-thun_2dfce6624a.md",
+    "source": "hackernews",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "keywords": [
+      "mac studio",
+      "mac studio",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio > Source: hackernews | Category: news | 2026-07-31T17:54:26Z Score: 35 | Comments: 16"
+  },
+  "d14b99f51503f1aa": {
+    "file": "corpus/hackernews/www_eff_org_deeplinks_2026_07_eff-guide-recording-law-enforc_39ea18c646.md",
+    "source": "hackernews",
+    "title": "EFF Guide to Recording Law Enforcement",
+    "url": "https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement",
+    "keywords": [
+      "recording law enforcement",
+      "recording law enforcement",
+      "eff guide",
+      "eff guide",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# EFF Guide to Recording Law Enforcement > Source: hackernews | Category: news | 2026-07-31T17:54:30Z Score: 6 | Comments: 0"
+  },
+  "9ece5556c8782485": {
+    "file": "corpus/hackernews/www_fire-dome_com_f3a7c74fa0.md",
+    "source": "hackernews",
+    "title": "Firedome",
+    "url": "https://www.fire-dome.com/",
+    "keywords": [
+      "31z score",
+      "source",
+      "news",
+      "hackernews",
+      "firedome",
+      "firedome",
+      "comments",
+      "category"
+    ],
+    "summary": "# Firedome > Source: hackernews | Category: news | 2026-07-31T17:54:31Z Score: 7 | Comments: 2"
+  },
+  "a5ac1696cdcac93b": {
+    "file": "corpus/hackernews/blog_zernote_com_2gb-user-interviews-into-claude_d33ceb5032.md",
+    "source": "hackernews",
+    "title": "Bypassing Claude's upload limits, 4x (500 MB → 2 GB)",
+    "url": "https://blog.zernote.com/2gb-user-interviews-into-claude/",
+    "keywords": [
+      "upload limits",
+      "upload limits",
+      "bypassing claude",
+      "bypassing claude",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bypassing Claude's upload limits, 4x (500 MB → 2 GB) > Source: hackernews | Category: news | 2026-07-31T17:54:30Z Score: 10 | Comments: 2"
+  },
+  "8d7d7435919edc75": {
+    "file": "corpus/hackernews/www_404media_co_google-earths-new-ai-lets-anyone-fabricate-c_d3fbf64f60.md",
+    "source": "hackernews",
+    "title": "Google Earth's New AI Lets Anyone Fabricate Satellite Images",
+    "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
+    "keywords": [
+      "google earth",
+      "google earth",
+      "29z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Google Earth's New AI Lets Anyone Fabricate Satellite Images > Source: hackernews | Category: news | 2026-07-31T17:54:29Z Score: 19 | Comments: 7"
+  },
+  "30092c414ab4fdac": {
+    "file": "corpus/devops/devops_com_why-log-monitoring-is-the-missing-link-in-most-in_54bbfc0882.md",
+    "source": "devops",
+    "title": "[devops-com] Why Log Monitoring Is the Missing Link in Most Incident Response Workflows",
+    "url": "https://devops.com/why-log-monitoring-is-the-missing-link-in-most-incident-response-workflows/",
+    "keywords": [
+      "way [&# 8230 ;]",
+      "production incidents occur",
+      "one overlooked gap",
+      "incident response workflows",
+      "incident response workflows",
+      "missing link",
+      "missing link",
+      "missing link",
+      "many cases",
+      "log monitoring"
+    ],
+    "summary": "# [devops-com] Why Log Monitoring Is the Missing Link in Most Incident Response Workflows Why Log Monitoring Is the Missing Link in Most Incident Response Workflows Yet when production incidents occur, the average time to resolution hasn&#8217;t dropped nearly as fast as the tooling has improved."
+  },
+  "1896f9e40dd1e386": {
+    "file": "corpus/devops/kubernetes_io_blog_2026_07_31_kubernetes-v1-37-sneak-peek_582a41de0b.md",
+    "source": "devops",
+    "title": "[kubernetes] Kubernetes v1.37 Sneak Peek",
+    "url": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
+    "keywords": [
+      "cli arguments like name",
+      "resolve iptables performance bottlenecks",
+      "read api resources directly",
+      "deprecation timeline looks l",
+      "use iptables underneath",
+      "api server —",
+      "preventstaticpodapireferences feature gate",
+      "always built purely",
+      "release team feels",
+      "clusters running kube"
+    ],
+    "summary": "Deprecations and removals for Kubernetes v1.37    Kubectl:  kubectl run --filename/-f  to be deprecated    The  --filename  (or  -f ) flag for  kubectl run  is being deprecated as the generated pod is always built purely from CLI arguments like  NAME  and  --image . Kubelet: Static Pods can no longer reference Secrets or ConfigMaps    Static Pods were never meant to read API resources directly, since they aren't created through the API server — but a bug let them reference Secrets or ConfigMaps "
   }
 }
