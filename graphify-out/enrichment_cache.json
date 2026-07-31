@@ -328662,5 +328662,473 @@
       "hackernews"
     ],
     "summary": "# Does Speaking to Agents Like Cavemen Save 65% of Tokens? > Source: hackernews | Category: news | 2026-07-31T04:36:01Z Score: 34 | Comments: 24"
+  },
+  "583cb58b4d8a74d1": {
+    "file": "corpus/devto/dev_to_softronic_corrective-rag-for-billing-the-bug-is-not-r_11e4da30ec.md",
+    "source": "devto",
+    "title": "Corrective RAG for billing: the bug is not retrieval, it's the model narrating correct numbers wrong",
+    "url": "https://dev.to/softronic/corrective-rag-for-billing-the-bug-is-not-retrieval-its-the-model-narrating-correct-numbers-wrong-4938",
+    "keywords": [
+      "refinement step done without",
+      "evidence cannot support",
+      "production billing assistant",
+      "second model",
+      "grounding verifier",
+      "crag knowledge",
+      "corrective rag",
+      "corrective rag",
+      "billing",
+      "billing"
+    ],
+    "summary": "# Corrective RAG for billing: the bug is not retrieval, it's the model narrating correct numbers wrong > Source: devto | Category: news | 2026-07-31T07:27:00Z A production billing assistant, the CRAG knowledge-refinement step done without a second model, and a grounding verifier that rejects any number the evidence cannot support."
+  },
+  "efb78f8005dfff34": {
+    "file": "corpus/devto/dev_to_theopslog_where-you-host-your-mcp-server-decides-whet_f8f760674a.md",
+    "source": "devto",
+    "title": "Where you host your MCP server decides whether it still works in three months",
+    "url": "https://dev.to/theopslog/where-you-host-your-mcp-server-decides-whether-it-still-works-in-three-months-1hg1",
+    "keywords": [
+      "mcp server decides whether",
+      "mcp server decides whether",
+      "official registry — 10",
+      "716 endpoints —",
+      "three months",
+      "three months",
+      "still works",
+      "still works",
+      "asked ...",
+      "source"
+    ],
+    "summary": "# Where you host your MCP server decides whether it still works in three months > Source: devto | Category: news | 2026-07-31T07:27:01Z I probed every remote MCP server listed in the official registry — 10,716 endpoints — and then asked..."
+  },
+  "9233a5ada2cc2d18": {
+    "file": "corpus/devto/dev_to_androve2k_bringing-an-external-crms-chats-into-firest_9ab2421b18.md",
+    "source": "devto",
+    "title": "Bringing an External CRM's Chats into Firestore for AI Search: Vector Search, Webhooks, and a Stubborn Bundling Error",
+    "url": "https://dev.to/androve2k/bringing-an-external-crms-chats-into-firestore-for-ai-search-vector-search-webhooks-and-a-1geh",
+    "keywords": [
+      "stubborn bundling error",
+      "stubborn bundling error",
+      "answer questions like",
+      "vector search",
+      "vector search",
+      "management panel",
+      "external crm",
+      "external crm",
+      "contact ...",
+      "client wanted"
+    ],
+    "summary": "# Bringing an External CRM's Chats into Firestore for AI Search: Vector Search, Webhooks, and a Stubborn Bundling Error > Source: devto | Category: news | 2026-07-31T07:27:00Z A client wanted their management panel's AI assistant to answer questions like \"what did this contact..."
+  },
+  "cb91143b28981086": {
+    "file": "corpus/devto/dev_to_jenatechio_my-auto-publish-pipeline-shipped-a-two-yea_1a372348cc.md",
+    "source": "devto",
+    "title": "My Auto-Publish Pipeline Shipped a Two-Year-Old News Story. Here's the Fix — All Three Layers of It.",
+    "url": "https://dev.to/jenatechio/my-auto-publish-pipeline-shipped-a-two-year-old-news-story-heres-the-fix-all-three-layers-of-it-4750",
+    "keywords": [
+      "llm judge score",
+      "publish pipeline shipped",
+      "publish pipeline shipped",
+      "old news story",
+      "old news story",
+      "finds industry news",
+      "content pipeline",
+      "three layers",
+      "three layers",
+      "fix —"
+    ],
+    "summary": "# My Auto-Publish Pipeline Shipped a Two-Year-Old News Story. Here's the Fix — All Three Layers of It. I run a content pipeline that finds industry news, has an LLM judge score it, and publishes what..."
+  },
+  "c2ef7354c370513c": {
+    "file": "corpus/devto/dev_to_jenatechio_a-dead-mans-switch-for-scheduled-jobs-beca_88f4e74943.md",
+    "source": "devto",
+    "title": "A Dead-Man's Switch for Scheduled Jobs (Because Silent Failures Rot Data)",
+    "url": "https://dev.to/jenatechio/a-dead-mans-switch-for-scheduled-jobs-because-silent-failures-rot-data-3nmh",
+    "keywords": [
+      "silent failures rot data",
+      "silent failures rot data",
+      "two failure modes",
+      "loud one throws",
+      "scheduled jobs",
+      "scheduled jobs",
+      "scheduled job",
+      "alerting catches",
+      "switch",
+      "switch"
+    ],
+    "summary": "# A Dead-Man's Switch for Scheduled Jobs (Because Silent Failures Rot Data) A scheduled job has two failure modes. The loud one throws an error and your alerting catches it."
+  },
+  "03568ba498a87603": {
+    "file": "corpus/devto/dev_to_earnestamateur_the-security-checks-in-every-lionshead_d381bfc419.md",
+    "source": "devto",
+    "title": "The security checks in every Lionshead PR",
+    "url": "https://dev.to/earnestamateur/the-security-checks-in-every-lionshead-pr-1k49",
+    "keywords": [
+      "every lionshead pr",
+      "every lionshead pr",
+      "security checks",
+      "security checks",
+      "legal team",
+      "enterprise scale",
+      "coordinate disclosure",
+      "bad quarter",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The security checks in every Lionshead PR > Source: devto | Category: news | 2026-07-31T07:27:01Z You have a legal team to coordinate disclosure."
+  },
+  "77bfc2029b08ab13": {
+    "file": "corpus/devto/dev_to_sreekanth_kuruba_91721e5d_file-compression-in-linux-e_9e469a70e7.md",
+    "source": "devto",
+    "title": "File Compression in Linux Explained Simply (tar, gzip, zip & unzip)",
+    "url": "https://dev.to/sreekanth_kuruba_91721e5d/file-compression-in-linux-explained-simply-tar-gzip-zip-unzip-2a1m",
+    "keywords": [
+      "linux explained simply",
+      "linux explained simply",
+      "need ...",
+      "file compression",
+      "file compression",
+      "01z working",
+      "linux",
+      "zip",
+      "zip",
+      "unzip"
+    ],
+    "summary": "# File Compression in Linux Explained Simply (tar, gzip, zip & unzip) > Source: devto | Category: news | 2026-07-31T07:27:01Z Working with files in Linux isn't just about creating and editing them."
+  },
+  "f3a6d1935fb265a8": {
+    "file": "corpus/devto/dev_to_henry_dan_81513dd35a2f540_a-second-check-is-a-second-_fffff8108b.md",
+    "source": "devto",
+    "title": "A Second Check Is a Second Source of Truth",
+    "url": "https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf",
+    "keywords": [
+      "email address twice —",
+      "state nobody designed",
+      "redundant verificati reactions",
+      "real user passed",
+      "permanently flagged unverified",
+      "58z signup verified",
+      "fully usable",
+      "account created",
+      "second check",
+      "second check"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-31T07:26:58Z Signup verified the same email address twice — once by code, once by link. A real user passed the first and ignored the second, and landed in a state nobody designed: account created, fully usable, permanently flagged unverified."
+  },
+  "a4f21c969bdea163": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_ai-assisted-engineering-faster-to-bu_4bce195ee4.md",
+    "source": "devto",
+    "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
+    "url": "https://dev.to/debashish_ghosal/ai-assisted-engineering-faster-to-build-isnt-cheaper-to-own-1lh",
+    "keywords": [
+      "like ai coding tools",
+      "assisted engineering",
+      "assisted engineering",
+      "teams use",
+      "use",
+      "source",
+      "reactions",
+      "probably"
+    ],
+    "summary": "I like AI coding tools. I use them myself, and my teams use them too. That is probably the most..."
+  },
+  "07a6157b21fc7c21": {
+    "file": "corpus/devto/dev_to_flarecanary_twilio-removes-conferenceparticipant-from_38d88eda4c.md",
+    "source": "devto",
+    "title": "Twilio removes conference_participant from Voice Insights on Aug 1, 2026 — the field goes null, not gone, so nothing errors",
+    "url": "https://dev.to/flarecanary/twilio-removes-conferenceparticipant-from-voice-insights-on-aug-1-2026-the-field-goes-null-not-4l52",
+    "keywords": [
+      "twilio removes conference_participant",
+      "twilio removes conference_participant",
+      "field goes null",
+      "field goes null",
+      "voice insights",
+      "voice insights",
+      "nothing errors",
+      "nothing errors",
+      "center ...",
+      "aug 1"
+    ],
+    "summary": "# Twilio removes conference_participant from Voice Insights on Aug 1, 2026 — the field goes null, not gone, so nothing errors > Source: devto | Category: news | 2026-07-31T07:27:01Z If you pull Twilio Voice Insights Call Summaries to analyze conference calls — contact-center..."
+  },
+  "1209b3d406bf0a93": {
+    "file": "corpus/devto/dev_to_earnestamateur_every-pull-request-gets-its-own-app-an_bb7cb6b481.md",
+    "source": "devto",
+    "title": "Every pull request gets its own app and its own Postgres branch, for $0",
+    "url": "https://dev.to/earnestamateur/every-pull-request-gets-its-own-app-and-its-own-postgres-branch-for-0-l92",
+    "keywords": [
+      "every pull request gets",
+      "every pull request gets",
+      "one shared dev environment",
+      "01z every place",
+      "worked plumbed everything",
+      "one deploy ,...",
+      "one database",
+      "postgres branch",
+      "postgres branch",
+      "source"
+    ],
+    "summary": "# Every pull request gets its own app and its own Postgres branch, for $0 > Source: devto | Category: news | 2026-07-31T07:27:01Z Every place I've worked plumbed everything to one shared dev environment."
+  },
+  "b233a9fd4bcff4c1": {
+    "file": "corpus/devto/dev_to_99tools_json-to-string-in-javascript-the-complete-gui_918adc6797.md",
+    "source": "devto",
+    "title": "JSON to String in JavaScript: The Complete Guide (And the Gotchas That Bite Even Experienced Devs)",
+    "url": "https://dev.to/99tools/json-to-string-in-javascript-the-complete-guide-and-the-gotchas-that-bite-even-experienced-devs-5h63",
+    "keywords": [
+      "shopping cart kept resetting",
+      "bite even experienced devs",
+      "bite even experienced devs",
+      "twenty minutes debugging",
+      "years back",
+      "complete guide",
+      "complete guide",
+      "user",
+      "string",
+      "string"
+    ],
+    "summary": "# JSON to String in JavaScript: The Complete Guide (And the Gotchas That Bite Even Experienced Devs) > Source: devto | Category: news | 2026-07-31T07:27:02Z A few years back, I spent about twenty minutes debugging why a user's shopping cart kept resetting on..."
+  },
+  "da196c6db6edc4a2": {
+    "file": "corpus/devto/dev_to_octoooo_auto-compact-ate-my-constraints-a-post-mortem_b6a9d697f6.md",
+    "source": "devto",
+    "title": "Auto-Compact Ate My Constraints: A Post-Mortem",
+    "url": "https://dev.to/octoooo/auto-compact-ate-my-constraints-a-post-mortem-ci6",
+    "keywords": [
+      "yixiao wang provided",
+      "assisted writing disclosure",
+      "technical judgment",
+      "final ...",
+      "compact ate",
+      "compact ate",
+      "02z ai",
+      "source",
+      "reactions",
+      "post"
+    ],
+    "summary": "# Auto-Compact Ate My Constraints: A Post-Mortem > Source: devto | Category: news | 2026-07-31T07:27:02Z AI-assisted writing disclosure: Yixiao Wang provided the incident, technical judgment, and final..."
+  },
+  "c02300674630e0f0": {
+    "file": "corpus/devto/dev_to_kenielzep97_my-77-gate-fell-to-one-admin-capability-a_789c20fb65.md",
+    "source": "devto",
+    "title": "My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.",
+    "url": "https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o",
+    "keywords": [
+      "two predictions frozen",
+      "one admin capability",
+      "one admin capability",
+      "7 gate fell",
+      "7 gate fell",
+      "27 july 2026",
+      "second witness",
+      "second witness",
+      "composition attacks"
+    ],
+    "summary": "# My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall. On 27 July 2026 I published a suite for sequence-composition attacks with two predictions frozen in a..."
+  },
+  "bfb8682f79850d4a": {
+    "file": "corpus/devto/dev_to_martinschenk_every-gate-in-my-system-is-a-scar-33la_2da840fd4a.md",
+    "source": "devto",
+    "title": "Every gate in my system is a scar",
+    "url": "https://dev.to/martinschenk/every-gate-in-my-system-is-a-scar-33la",
+    "keywords": [
+      "claude code session told",
+      "180 open items",
+      "01z last week",
+      "order queue",
+      "every gate",
+      "every gate",
+      "system",
+      "system",
+      "source",
+      "scar"
+    ],
+    "summary": "# Every gate in my system is a scar > Source: devto | Category: news | 2026-07-31T07:27:01Z Last week a Claude Code session told me that my order queue had 180 open items, that none of them was..."
+  },
+  "bcc96f6f0d5be238": {
+    "file": "corpus/devto/dev_to_gaurav_gupte_f260c5ec68e5_the-token-compressor-that-m_248b69276a.md",
+    "source": "devto",
+    "title": "The token compressor that made my bill go up — and the proof it had to",
+    "url": "https://dev.to/gaurav_gupte_f260c5ec68e5/the-token-compressor-that-made-my-bill-go-up-and-the-proof-it-had-to-ei",
+    "keywords": [
+      "went looking",
+      "token compressor",
+      "token compressor",
+      "small improvement",
+      "bill go",
+      "bill go",
+      "source tool",
+      "source"
+    ],
+    "summary": "# The token compressor that made my bill go up — and the proof it had to I went looking for a small improvement to an open-source tool. I found a number that pointed the..."
+  },
+  "35e14aeb2fdb028e": {
+    "file": "corpus/devto/dev_to_neithergalax_os-july-2026-recap-from-being-intimidate_28ad740bb9.md",
+    "source": "devto",
+    "title": "🚤OS July 2026 Recap: From Being Intimidated by GitHub Actions to Building My Own CI Workflows",
+    "url": "https://dev.to/neithergalax/os-july-2026-recap-from-being-intimidated-by-github-actions-to-building-my-own-ci-workflows-1bdp",
+    "keywords": [
+      "github actions felt like",
+      "first started contributing",
+      "github actions",
+      "github actions",
+      "ci workflows",
+      "ci workflows",
+      "black box",
+      "open source",
+      "source",
+      "seeing"
+    ],
+    "summary": "# 🚤OS July 2026 Recap: From Being Intimidated by GitHub Actions to Building My Own CI Workflows > Source: devto | Category: news | 2026-07-31T07:27:02Z When I first started contributing to open source, GitHub Actions felt like a black box."
+  },
+  "644fab690c1b7c1b": {
+    "file": "corpus/hackernews/api-docs_deepseek_com_updates_e547d0d8cb.md",
+    "source": "hackernews",
+    "title": "DeepSeek-V4-Flash Update",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "keywords": [
+      "flash update",
+      "flash update",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "deepseek",
+      "deepseek"
+    ],
+    "summary": "# DeepSeek-V4-Flash Update > Source: hackernews | Category: news | 2026-07-31T07:26:49Z Score: 66 | Comments: 22"
+  },
+  "3fe77ad757587c39": {
+    "file": "corpus/hackernews/twitter_com_lemire_status_2082851447499088173_2a470998ad.md",
+    "source": "hackernews",
+    "title": "the very foundation of modern academia has been blown to bits",
+    "url": "https://twitter.com/lemire/status/2082851447499088173",
+    "keywords": [
+      "modern academia",
+      "modern academia",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "foundation",
+      "foundation",
+      "comments",
+      "category"
+    ],
+    "summary": "# \"the very foundation of modern academia has been blown to bits\" > Source: hackernews | Category: news | 2026-07-31T07:26:57Z Score: 9 | Comments: 1"
+  },
+  "71eeb3887df589bc": {
+    "file": "corpus/hackernews/github_com_mokshablr_gander_dc3ddb8e4d.md",
+    "source": "hackernews",
+    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+    "url": "https://github.com/mokshablr/gander",
+    "keywords": [
+      "opening files people send",
+      "400 mb office suite",
+      "really annoying .< p",
+      "github releases .< p",
+      "complex powerpoint decks come",
+      "wants storage access",
+      "need new support",
+      "media uses media3",
+      "download different apps",
+      "bundled js libraries"
+    ],
+    "summary": "# Show HN: Gander, an Android file viewer that asks for no permissions at all Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. I would love some feedback especially on files that render badly or need new support."
+  },
+  "77ef26a3b300195b": {
+    "file": "corpus/hackernews/github_com_openjdk_jdk_pull_31120_8a535a273f.md",
+    "source": "hackernews",
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "url": "https://github.com/openjdk/jdk/pull/31120",
+    "keywords": [
+      "value objects",
+      "value objects",
+      "openjdk master",
+      "openjdk master",
+      "jep 401",
+      "jep 401",
+      "48z score",
+      "source",
+      "preview",
+      "preview"
+    ],
+    "summary": "# JEP 401: Value Objects (Preview) merged to OpenJDK master > Source: hackernews | Category: news | 2026-07-31T07:26:48Z Score: 52 | Comments: 17"
+  },
+  "36a4eae9b1c73d14": {
+    "file": "corpus/hackernews/marbleos_com_demo_399bdff0d1.md",
+    "source": "hackernews",
+    "title": "Show HN: What should the GUI for AI agents look like?",
+    "url": "https://marbleos.com/demo",
+    "keywords": [
+      "chat threads feels limiting",
+      "ai agents look like",
+      "ai agents look like",
+      "people start delegating work",
+      "normal chat .< p",
+      "line stage .< p",
+      "exploring interaction models beyond",
+      "another chat app",
+      "transcript .< p",
+      "marbleos .< p"
+    ],
+    "summary": "Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus. With Marble, we&#x27;re exploring an interface that treats AI more like a workspace than another chat app. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet."
+  },
+  "8e0a25829a4f01c0": {
+    "file": "corpus/hackernews/www_bunniestudios_com_blog_2013_where-usb-memory-sticks-are-_029577ea09.md",
+    "source": "hackernews",
+    "title": "Where USB Memory Sticks are Born (2013)",
+    "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+    "keywords": [
+      "usb memory sticks",
+      "usb memory sticks",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "born",
+      "born"
+    ],
+    "summary": "# Where USB Memory Sticks are Born (2013) > Source: hackernews | Category: news | 2026-07-31T07:26:49Z Score: 38 | Comments: 2"
+  },
+  "64400e8c9069208e": {
+    "file": "corpus/hackernews/ccsim_fly_dev_0c0b1cb864.md",
+    "source": "hackernews",
+    "title": "Simulating TCP loss and congestion in browser using Go/WASM",
+    "url": "https://ccsim.fly.dev",
+    "keywords": [
+      "simulating tcp loss",
+      "simulating tcp loss",
+      "browser using go",
+      "browser using go",
+      "54z score",
+      "wasm",
+      "wasm",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Simulating TCP loss and congestion in browser using Go/WASM > Source: hackernews | Category: news | 2026-07-31T07:26:54Z Score: 4 | Comments: 0"
+  },
+  "2ae129ce946a1bf0": {
+    "file": "corpus/hackernews/fzakaria_com_2026_07_27_the-mean-means-nothing_f7e64cc407.md",
+    "source": "hackernews",
+    "title": "The mean means nothing: data visualization to debug a latency problem",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "keywords": [
+      "mean means nothing",
+      "mean means nothing",
+      "latency problem",
+      "latency problem",
+      "data visualization",
+      "data visualization",
+      "50z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The mean means nothing: data visualization to debug a latency problem > Source: hackernews | Category: news | 2026-07-31T07:26:50Z Score: 16 | Comments: 0"
   }
 }
