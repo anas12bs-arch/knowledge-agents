@@ -328189,5 +328189,478 @@
       "bench edge builds"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-07-31T01:11:09Z - [turbopack] Respect `sideEffects` in a `package.json` file with `optimizePackageImports`: #96383 - [turbopack] Keep track of components of the remainder chunk: #96409 - Update Rust toolchain to nightly-2026-07-29: #96365 - Remove obsolete shouldWaitOnAllReady render option: #96401 - Upgrade React from `6cb4322d-20260729` to `0f42eac2-20260730`: #96402 - fix: respect `htmlLimitedBots` in cache components without buffering th"
+  },
+  "bfd7027f4d8107e0": {
+    "file": "corpus/devto/dev_to_rachido_sama_the-astro-image-gotcha-that-broke-our-pr_ae1c54cd99.md",
+    "source": "devto",
+    "title": "The Astro Image Gotcha That Broke Our Production Build and How We Fixed It",
+    "url": "https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d",
+    "keywords": [
+      "astro — static output",
+      "astro image gotcha",
+      "astro image gotcha",
+      "marketplace site built",
+      "production build",
+      "production build",
+      "source",
+      "ship",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The Astro Image Gotcha That Broke Our Production Build and How We Fixed It > Source: devto | Category: news | 2026-07-31T04:36:09Z We ship a bilingual (French/Arabic) marketplace site built on Astro — static output, hundreds of..."
+  },
+  "2770f7d384681e8b": {
+    "file": "corpus/devto/dev_to_ayinedjimi-consultants_implementing-ip-reputation-sco_f4cdc331b8.md",
+    "source": "devto",
+    "title": "Implementing IP Reputation Scoring in a Go API",
+    "url": "https://dev.to/ayinedjimi-consultants/implementing-ip-reputation-scoring-in-a-go-api-5ege",
+    "keywords": [
+      "implementing ip reputation scoring",
+      "implementing ip reputation scoring",
+      "api logs show",
+      "go api",
+      "go api",
+      "time ...",
+      "30 seconds",
+      "source",
+      "requests",
+      "reactions"
+    ],
+    "summary": "# Implementing IP Reputation Scoring in a Go API > Source: devto | Category: news | 2026-07-31T04:36:07Z Your API logs show a flood of requests from a single IP — 400 attempts in 30 seconds."
+  },
+  "ea854e4e439e28ef": {
+    "file": "corpus/devto/dev_to_philipvdb_the-sec-gives-away-every-companys-financial_c7f2da7027.md",
+    "source": "devto",
+    "title": "The SEC gives away every company's financials. Parsing them was the hard part",
+    "url": "https://dev.to/philipvdb/the-sec-gives-away-every-companys-financials-parsing-them-was-the-hard-part-41np",
+    "keywords": [
+      "computes quality scores",
+      "ten years",
+      "hard part",
+      "hard part",
+      "build intrinsiqq",
+      "around ...",
+      "valuations",
+      "source",
+      "reactions",
+      "parsing"
+    ],
+    "summary": "# The SEC gives away every company's financials. Parsing them was the hard part I build Intrinsiqq, which computes quality scores, valuations and ten years of financials for around..."
+  },
+  "216dbe2312655307": {
+    "file": "corpus/devto/dev_to_muhammadwaqasai_-i-built-a-rollback-guardrail-engine-_9886be0903.md",
+    "source": "devto",
+    "title": "# I built a rollback + guardrail engine for AI agents after finding an attack most safety layers miss",
+    "url": "https://dev.to/muhammadwaqasai/-i-built-a-rollback-guardrail-engine-for-ai-agents-after-finding-an-attack-most-safety-layers-2ek",
+    "keywords": [
+      "safety layers miss",
+      "safety layers miss",
+      "guardrail engine",
+      "guardrail engine",
+      "ai agents",
+      "ai agents",
+      "time",
+      "source",
+      "session",
+      "rollback"
+    ],
+    "summary": "# # I built a rollback + guardrail engine for AI agents after finding an attack most safety layers miss > Source: devto | Category: news | 2026-07-31T04:36:09Z Most AI agent guardrail systems check one tool call at a time, with no memory of the session."
+  },
+  "f185d84bd8642b76": {
+    "file": "corpus/devto/dev_to_brian_liu_85cead238ea16be_the-300px-canvas-bug-that-s_72a2f5384f.md",
+    "source": "devto",
+    "title": "The 300px Canvas Bug That Shrunk My React Image Editor",
+    "url": "https://dev.to/brian_liu_85cead238ea16be/the-300px-canvas-bug-that-shrunk-my-react-image-editor-508k",
+    "keywords": [
+      "summer bug smash",
+      "react image editor",
+      "react image editor",
+      "300px canvas bug",
+      "300px canvas bug",
+      "lineup powered",
+      "submission",
+      "source",
+      "shrunk",
+      "shrunk"
+    ],
+    "summary": "# The 300px Canvas Bug That Shrunk My React Image Editor > Source: devto | Category: news | 2026-07-31T04:36:09Z This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry."
+  },
+  "4175632317b539c2": {
+    "file": "corpus/devto/dev_to_raghu_bharadwaj_404e60eb0c_how-to-build-an-embedded-l_a01aa1a9d6.md",
+    "source": "devto",
+    "title": "How to Build an Embedded Linux Lab From Scratch",
+    "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/how-to-build-an-embedded-linux-lab-from-scratch-o57",
+    "keywords": [
+      "embedded linux lab",
+      "embedded linux lab",
+      "embedded linux lab",
+      "stage teaches",
+      "serial console",
+      "logic analyzer",
+      "first board",
+      "source",
+      "skill",
+      "scratch"
+    ],
+    "summary": "# How to Build an Embedded Linux Lab From Scratch > Source: devto | Category: news | 2026-07-31T04:36:11Z How to build an embedded Linux lab: from QEMU to a first board, serial console, and logic analyzer, and the skill each stage teaches you."
+  },
+  "3c5dca6ca349805b": {
+    "file": "corpus/devto/dev_to_valenciamoss6824_large-ai-generated-image-uploads-mul_ecebb2152b.md",
+    "source": "devto",
+    "title": "Large AI-Generated Image Uploads: Multipart, Presign, and Abort on S3-Compatible Storage",
+    "url": "https://dev.to/valenciamoss6824/large-ai-generated-image-uploads-multipart-presign-and-abort-on-s3-compatible-storage-11a7",
+    "keywords": [
+      "generated image uploads",
+      "generated image uploads",
+      "generated image file",
+      "09z short answer",
+      "single ai",
+      "large ai",
+      "large ai",
+      "genuinely ...",
+      "compatible storage",
+      "compatible storage"
+    ],
+    "summary": "# Large AI-Generated Image Uploads: Multipart, Presign, and Abort on S3-Compatible Storage > Source: devto | Category: news | 2026-07-31T04:36:09Z Short answer: reach for a multipart upload only when a single AI-generated image file is genuinely..."
+  },
+  "25d960e132151290": {
+    "file": "corpus/devto/dev_to_raju_dandigam_how-to-test-ai-agents-without-calling-m_d27645c532.md",
+    "source": "devto",
+    "title": "How to Test AI Agents Without Calling More LLMs",
+    "url": "https://dev.to/raju_dandigam/how-to-test-ai-agents-without-calling-more-llms-2ga6",
+    "keywords": [
+      "agent testing often starts",
+      "expensive loop",
+      "another ...",
+      "11z ai",
+      "agent",
+      "source",
+      "send",
+      "reactions",
+      "news",
+      "llms"
+    ],
+    "summary": "# How to Test AI Agents Without Calling More LLMs > Source: devto | Category: news | 2026-07-31T04:36:11Z AI-agent testing often starts with an expensive loop: call the agent, send its answer to another..."
+  },
+  "40c06d9757cafc8d": {
+    "file": "corpus/devto/dev_to_slugbye_your-link-checker-thinks-deleted-telegram-bot_58f25917c8.md",
+    "source": "devto",
+    "title": "Your link checker thinks deleted Telegram bots are alive",
+    "url": "https://dev.to/slugbye/your-link-checker-thinks-deleted-telegram-bots-are-alive-3073",
+    "keywords": [
+      "telegram bot",
+      "https ://",
+      "09z delete",
+      "source",
+      "reactions",
+      "page",
+      "news",
+      "devto",
+      "category",
+      "alive"
+    ],
+    "summary": "# Your link checker thinks deleted Telegram bots are alive > Source: devto | Category: news | 2026-07-31T04:36:09Z Delete a Telegram bot and https://t.me/your_deleted_bot keeps returning HTTP 200 with a page that..."
+  },
+  "eb6ec6911654d60f": {
+    "file": "corpus/devto/dev_to_muhammadtahamirza_how-to-become-a-full-stack-develope_1e7d6b408d.md",
+    "source": "devto",
+    "title": "How to Become a Full-Stack Developer by Contributing to a Real Open Source Project (No Experience Needed)",
+    "url": "https://dev.to/muhammadtahamirza/how-to-become-a-full-stack-developer-by-contributing-to-a-real-open-source-project-no-experience-4n0c",
+    "keywords": [
+      "real open source project",
+      "real open source project",
+      "stack development get stuck",
+      "stack developer",
+      "stack developer",
+      "tutorial ,...",
+      "people trying",
+      "experience needed",
+      "experience needed",
+      "learn full"
+    ],
+    "summary": "# How to Become a Full-Stack Developer by Contributing to a Real Open Source Project (No Experience Needed) > Source: devto | Category: news | 2026-07-31T04:36:11Z Most people trying to learn full-stack development get stuck in the same loop: watch a tutorial,..."
+  },
+  "f5a49cb630b2b8e7": {
+    "file": "corpus/devto/dev_to_wartzarbee_autogens-hidden-token-tax-why-a-3-agent-ch_2689f0db46.md",
+    "source": "devto",
+    "title": "AutoGen's hidden token tax: why a 3-agent chat costs 15 what you expect",
+    "url": "https://dev.to/wartzarbee/autogens-hidden-token-tax-why-a-3-agent-chat-costs-15x-what-you-expect-mbd",
+    "keywords": [
+      "agent chat costs 15",
+      "agent chat costs 15",
+      "hidden token tax",
+      "hidden token tax",
+      "hidden token tax",
+      "audit ...",
+      "expect cost",
+      "09z autogen",
+      "expect",
+      "expect"
+    ],
+    "summary": "# AutoGen's hidden token tax: why a 3-agent chat costs 15 what you expect > Source: devto | Category: news | 2026-07-31T04:36:09Z AutoGen's hidden token tax: why a 3-agent chat costs 15× what you expect   Cost-audit..."
+  },
+  "1d54d914b5eaf703": {
+    "file": "corpus/devto/dev_to_logical_bytes_building-scalable-apis-with-go-a-startu_c618de5861.md",
+    "source": "devto",
+    "title": "Building Scalable APIs with Go: A Startup's Guide to Not Overengineering",
+    "url": "https://dev.to/logical_bytes/building-scalable-apis-with-go-a-startups-guide-to-not-overengineering-445d",
+    "keywords": [
+      "building scalable apis",
+      "building scalable apis",
+      "scale ?\"",
+      "startup",
+      "startup",
+      "source",
+      "reactions",
+      "overengineering",
+      "overengineering",
+      "news"
+    ],
+    "summary": "# Building Scalable APIs with Go: A Startup's Guide to Not Overengineering > Source: devto | Category: news | 2026-07-31T04:36:11Z Every startup engineering conversation eventually arrives at: \"But what if we need to scale?\""
+  },
+  "92c8a9b286c212da": {
+    "file": "corpus/devto/dev_to_vexithon_llm-pipelines-fail-silently-by-default-1klo_417431b5c7.md",
+    "source": "devto",
+    "title": "LLM pipelines fail silently by default",
+    "url": "https://dev.to/vexithon/llm-pipelines-fail-silently-by-default-1klo",
+    "keywords": [
+      "llm pipelines fail silently",
+      "llm pipelines fail silently",
+      "llm pipeline",
+      "paragraph ...",
+      "normal program",
+      "breaks writes",
+      "breaks throws",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# LLM pipelines fail silently by default A normal program that breaks throws an exception. An LLM pipeline that breaks writes you a paragraph..."
+  },
+  "91a18a2fca3030d0": {
+    "file": "corpus/ai-research/openai_com_index_avatarin_da425c76a8.md",
+    "source": "ai-research",
+    "title": "[openai-blog] How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "url": "https://openai.com/index/avatarin",
+    "keywords": [
+      "7 multilingual support",
+      "000 people used",
+      "7 retail agent",
+      "7 retail agent",
+      "7 retail agent",
+      "two weeks",
+      "survey responses",
+      "avatarin built",
+      "avatarin built",
+      "avatarin built"
+    ],
+    "summary": "# [openai-blog] How avatarin built a 24/7 retail agent with GPT-Realtime avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+  },
+  "b791c465af4346da": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_30_john-oliver-dares-buc-ees-to-sue_39a42516fc.md",
+    "source": "legal",
+    "title": "[techdirt] John Oliver Dares Buc-ee’s To Sue Him Over Trademark Infringement",
+    "url": "https://www.techdirt.com/2026/07/30/john-oliver-dares-buc-ees-to-sue-him-over-trademark-infringement/",
+    "keywords": [
+      "john oliver dares buc",
+      "john oliver dares buc",
+      "john oliver treatment",
+      "[&# 8230 ;]",
+      "definitely techdirt readers",
+      "hi john",
+      "trademark infringement",
+      "trademark infringement",
+      "trademark infringement",
+      "special kind"
+    ],
+    "summary": "# [techdirt] John Oliver Dares Buc-ee’s To Sue Him Over Trademark Infringement John Oliver Dares Buc-ee’s To Sue Him Over Trademark Infringement He and his writing team generally gets things right, which helps."
+  },
+  "e421b00f5ad5870a": {
+    "file": "corpus/hackernews/moritzhamann_com_blog_2026-07-26-box-drawing-glyphs-on-andro_9a9e02b2e3.md",
+    "source": "hackernews",
+    "title": "Fixing miss-aligned monospace text in Android browsers",
+    "url": "https://moritzhamann.com/blog/2026-07-26-box-drawing-glyphs-on-android.html",
+    "keywords": [
+      "aligned monospace text",
+      "aligned monospace text",
+      "fixing miss",
+      "fixing miss",
+      "android browsers",
+      "android browsers",
+      "06z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Fixing miss-aligned monospace text in Android browsers > Source: hackernews | Category: news | 2026-07-31T04:36:06Z Score: 4 | Comments: 1"
+  },
+  "0570f4504b8484fc": {
+    "file": "corpus/hackernews/greyswansignals_com_theme_dark_9b0eb3a6b7.md",
+    "source": "hackernews",
+    "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+    "url": "https://greyswansignals.com/?theme=dark",
+    "keywords": [
+      "borrowed money",
+      "borrowed money",
+      "ai trade",
+      "ai trade",
+      "00z score",
+      "source",
+      "runs",
+      "runs",
+      "repricing",
+      "repricing"
+    ],
+    "summary": "# The AI trade now runs on borrowed money, and the lenders are repricing it > Source: hackernews | Category: news | 2026-07-31T04:36:00Z Score: 10 | Comments: 0"
+  },
+  "6bbfac9add0d10ab": {
+    "file": "corpus/hackernews/www_footyheadlines_com_2646571793_betting-ban-takes-effect-n_f2b3bdbe27.md",
+    "source": "hackernews",
+    "title": "Premier league bans gambling sponsors",
+    "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+    "keywords": [
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "31t04",
+      "2026"
+    ],
+    "summary": "# Premier league bans gambling sponsors > Source: hackernews | Category: news | 2026-07-31T04:36:07Z Score: 8 | Comments: 1"
+  },
+  "9466113485d27707": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_PHYCRubnmSM_545cd60b07.md",
+    "source": "hackernews",
+    "title": "How your software will fail at scale [video]",
+    "url": "https://www.youtube.com/watch?v=PHYCRubnmSM",
+    "keywords": [
+      "07z score",
+      "video",
+      "video",
+      "source",
+      "software",
+      "software",
+      "scale",
+      "scale",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How your software will fail at scale [video] > Source: hackernews | Category: news | 2026-07-31T04:36:07Z Score: 5 | Comments: 0"
+  },
+  "468719f2dd205a5c": {
+    "file": "corpus/hackernews/www_science_org_content_article_california-aquifer-may-have-_e78cb60a7a.md",
+    "source": "hackernews",
+    "title": "A California aquifer may have crossed the point of no return",
+    "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+    "keywords": [
+      "california aquifer may",
+      "california aquifer may",
+      "00z score",
+      "source",
+      "return",
+      "return",
+      "point",
+      "point",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A California aquifer may have crossed the point of no return > Source: hackernews | Category: news | 2026-07-31T04:36:00Z Score: 77 | Comments: 53"
+  },
+  "990049e03675ddeb": {
+    "file": "corpus/hackernews/alec_is_posts_exploring-the-dario-and-amanda-prompt_ddee5d2923.md",
+    "source": "hackernews",
+    "title": "Exploring the 'Dario and Amanda' Prompt",
+    "url": "https://alec.is/posts/exploring-the-dario-and-amanda-prompt/",
+    "keywords": [
+      "05z score",
+      "source",
+      "prompt",
+      "prompt",
+      "news",
+      "hackernews",
+      "exploring",
+      "exploring",
+      "dario",
+      "dario"
+    ],
+    "summary": "# Exploring the \"Dario and Amanda\" Prompt > Source: hackernews | Category: news | 2026-07-31T04:36:05Z Score: 28 | Comments: 3"
+  },
+  "cd3c2010b26f7057": {
+    "file": "corpus/hackernews/graybeard_ing_the-religion-of-speed_51fe767203.md",
+    "source": "hackernews",
+    "title": "The Religion of Speed",
+    "url": "https://graybeard.ing/the-religion-of-speed/",
+    "keywords": [
+      "01z score",
+      "speed",
+      "speed",
+      "source",
+      "religion",
+      "religion",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Religion of Speed > Source: hackernews | Category: news | 2026-07-31T04:36:01Z Score: 49 | Comments: 13"
+  },
+  "efeb6e9d0806e48a": {
+    "file": "corpus/hackernews/earendil_com_posts_session-portability_fd79058646.md",
+    "source": "hackernews",
+    "title": "The Session You Cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "keywords": [
+      "cannot take",
+      "cannot take",
+      "01z score",
+      "source",
+      "session",
+      "session",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Session You Cannot take with you > Source: hackernews | Category: news | 2026-07-31T04:36:01Z Score: 7 | Comments: 0"
+  },
+  "ddcee57b750cabf8": {
+    "file": "corpus/hackernews/www_reuters_com_commentary_reuters-open-interest_bond-market_6226c41b0e.md",
+    "source": "hackernews",
+    "title": "The bond market isn't buying what Fed Chair Warsh is selling",
+    "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+    "keywords": [
+      "fed chair warsh",
+      "fed chair warsh",
+      "bond market",
+      "bond market",
+      "01z score",
+      "source",
+      "selling",
+      "selling",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The bond market isn't buying what Fed Chair Warsh is selling > Source: hackernews | Category: news | 2026-07-31T04:36:01Z Score: 45 | Comments: 0"
+  },
+  "86e8e32610f83332": {
+    "file": "corpus/hackernews/blog_jetbrains_com_ai_2026_07_speak-to-ai-agents-like-caveme_5979738898.md",
+    "source": "hackernews",
+    "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
+    "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+    "keywords": [
+      "01z score",
+      "tokens",
+      "tokens",
+      "test",
+      "test",
+      "speaking",
+      "speaking",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Does Speaking to Agents Like Cavemen Save 65% of Tokens? > Source: hackernews | Category: news | 2026-07-31T04:36:01Z Score: 34 | Comments: 24"
   }
 }
