@@ -333133,5 +333133,459 @@
       "default name"
     ],
     "summary": "# [nn-group] No New Name Has Replaced “UX” No New Name Has Replaced “UX” A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented."
+  },
+  "5896204f820aa34b": {
+    "file": "corpus/finance/news_crunchbase_com_venture_biggest-funding-rounds-safe-supe_1625502a1c.md",
+    "source": "finance",
+    "title": "[crunchbase] The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+    "keywords": [
+      "10 biggest funding rounds",
+      "10 biggest funding rounds",
+      "10 biggest funding rounds",
+      "dollar deals another week",
+      "commonwealth fusion systems",
+      "commonwealth fusion lead",
+      "commonwealth fusion lead",
+      "commonwealth fusion lead",
+      "5 billion nvidia",
+      "1 billion investment"
+    ],
+    "summary": "# [crunchbase] The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals The largest round was a reported $5 billion Nvidia-backed financing for foundational AI unicorn Safe Superintelligence, followed by a $1 billion investment in Commonwealth Fusion Systems."
+  },
+  "3958f0206e4d5762": {
+    "file": "corpus/finance/techcrunch_com_2026_07_31_fresh-off-its-wiz-payout-index-ven_c41ceb6aa6.md",
+    "source": "finance",
+    "title": "[tc-venture] Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+    "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+    "keywords": [
+      "total available investing capital",
+      "2b across three funds",
+      "2b across three funds",
+      "2b across three funds",
+      "new funding brings index",
+      "index ventures raises",
+      "index ventures raises",
+      "index ventures raises",
+      "wiz payout",
+      "wiz payout"
+    ],
+    "summary": "# [tc-venture] Fresh off its Wiz payout, Index Ventures raises $2B across three funds Fresh off its Wiz payout, Index Ventures raises $2B across three funds The new funding brings Index's total available investing capital to $3.5 billion."
+  },
+  "43c41dee32277396": {
+    "file": "corpus/devto/dev_to_michaeltruong_the-first-cloud-agent-felt-less-like-pa_fa7468c44b.md",
+    "source": "devto",
+    "title": "The first cloud agent felt less like pair programming and more like hiring an engineer",
+    "url": "https://dev.to/michaeltruong/the-first-cloud-agent-felt-less-like-pair-programming-and-more-like-hiring-an-engineer-18j4",
+    "keywords": [
+      "still pair programming",
+      "cloud coding agent",
+      "running ...",
+      "local conversation",
+      "like hiring",
+      "like hiring",
+      "thought",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The first cloud agent felt less like pair programming and more like hiring an engineer > Source: devto | Category: news | 2026-07-31T20:21:23Z I thought a cloud coding agent was still pair programming: the same local conversation, just running..."
+  },
+  "790e457560d88713": {
+    "file": "corpus/devto/dev_to_tanya_monoware_how-to-compress-images-in-the-browser-_5baa72b13d.md",
+    "source": "devto",
+    "title": "How to Compress Images in the Browser Without Uploading Them",
+    "url": "https://dev.to/tanya_monoware/how-to-compress-images-in-the-browser-without-uploading-them-4hc7",
+    "keywords": [
+      "4000 pixels wide even",
+      "browser without uploading",
+      "browser without uploading",
+      "900 pixels",
+      "quality ...",
+      "page renders",
+      "compress images",
+      "compress images",
+      "source",
+      "screenshot"
+    ],
+    "summary": "# How to Compress Images in the Browser Without Uploading Them > Source: devto | Category: news | 2026-07-31T20:21:23Z A screenshot can be 4000 pixels wide even when a page renders it at 900 pixels."
+  },
+  "9ac9b0e65083609b": {
+    "file": "corpus/devto/dev_to_codexu_how-notegen-handles-sync-queues-and-conflicts-_12f8050cab.md",
+    "source": "devto",
+    "title": "How NoteGen handles sync queues and conflicts in a local-first Markdown app",
+    "url": "https://dev.to/codexu/how-notegen-handles-sync-queues-and-conflicts-in-a-local-first-markdown-app-2mop",
+    "keywords": [
+      "notegen handles sync queues",
+      "notegen handles sync queues",
+      "regular files ...",
+      "first markdown app",
+      "first markdown app",
+      "first markdown note",
+      "taking app",
+      "notes live",
+      "23z codexu",
+      "note"
+    ],
+    "summary": "# How NoteGen handles sync queues and conflicts in a local-first Markdown app codexu/note-gen is an open-source, local-first Markdown note-taking app. Notes live as regular files..."
+  },
+  "f88b4231b9f9ee88": {
+    "file": "corpus/devto/dev_to_irutehe_why-i-built-a-compiler-not-the-fifth-mcp-serv_cb7bc2deac.md",
+    "source": "devto",
+    "title": "Why I built a compiler, not the fifth MCP server",
+    "url": "https://dev.to/irutehe/why-i-built-a-compiler-not-the-fifth-mcp-server-4gba",
+    "keywords": [
+      "one running ...",
+      "first mcp server",
+      "fifth mcp server",
+      "fifth mcp server",
+      "hundred lines",
+      "23z writing",
+      "source",
+      "reactions",
+      "news",
+      "hard"
+    ],
+    "summary": "# Why I built a compiler, not the fifth MCP server Writing your first MCP server is not hard. It is a few hundred lines, and you can have one running..."
+  },
+  "f86a22239d03637c": {
+    "file": "corpus/devto/dev_to_marius0of1_building-fail-closed-autonomous-agent-netw_f50c628488.md",
+    "source": "devto",
+    "title": "Building Fail-Closed Autonomous Agent Networks: Engineering a 10-Tuple WORM Architecture",
+    "url": "https://dev.to/marius0of1/building-fail-closed-autonomous-agent-networks-engineering-a-10-tuple-worm-architecture-c8h",
+    "keywords": [
+      "traditional rpc calls ...",
+      "closed autonomous agent networks",
+      "closed autonomous agent networks",
+      "tuple worm architecture",
+      "tuple worm architecture",
+      "scaling multi",
+      "building fail",
+      "building fail",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Building Fail-Closed Autonomous Agent Networks: Engineering a 10-Tuple WORM Architecture > Source: devto | Category: news | 2026-07-31T20:21:23Z When scaling multi-agent AI ecosystems across asynchronous cloud boundaries,   traditional RPC calls..."
+  },
+  "09c3c80cfe04f266": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_man-invested-45m-in-a-ni_841085a2eb.md",
+    "source": "legal",
+    "title": "[ars-policy] Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
+    "keywords": [
+      "unreleased nicolas cage movie",
+      "nicolas cage movie",
+      "nicolas cage movie",
+      "nicolas cage movie",
+      "filmmaker sues netflix",
+      "17z man invested",
+      "man invested",
+      "man invested",
+      "netflix ’",
+      "netflix ’"
+    ],
+    "summary": "# [ars-policy] Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk. Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie."
+  },
+  "115d460c99e2debe": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_07_amending-ab-1709-doesnt-fix-it_e56d576c0f.md",
+    "source": "legal",
+    "title": "[eff] Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
+    "url": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
+    "keywords": [
+      "newly amended section 22683",
+      "major social media services",
+      "forcing young people onto",
+      "addictive feeds ,\" auto",
+      "includes basic inputs like",
+      "15z amending ab 1709",
+      "features “ addictive ,\"",
+      "stripping away recommendation systems",
+      "social media access",
+      "amending ab 1709"
+    ],
+    "summary": "# [eff] Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy Even if a platform attempts to comply by stripping away recommendation systems for minors, this still violates the First Amendment."
+  },
+  "81fb54b008058ba6": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_07_chatbot-act-forces-one-parenti_8783dace85.md",
+    "source": "legal",
+    "title": "[eff] The CHATBOT Act Forces One Parenting Model On Every Family",
+    "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
+    "keywords": [
+      "must also send alerts",
+      "chatbot act would take",
+      "bill requires ai companies",
+      "every family artificial intelligence",
+      "supervise teenagers ’ use",
+      "children use chatbots",
+      "way people search",
+      "rapidly changing education",
+      "others might set",
+      "highly invasive model"
+    ],
+    "summary": "It makes sense for Congress to hold hearings and examine how AI should be used by minors. But the recently introduced    CHATBOT Act    answers those questions with a one-size-fits-all mandate governing how teenagers access AI through federally prescribed parental monitoring systems. Some closely supervise how their children use chatbots, while others might set more general rules about technology."
+  },
+  "e465a5d1e83865f8": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_07_screen-act-threatens-privacy-f_0b183df6ec.md",
+    "source": "legal",
+    "title": "[eff] The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
+    "url": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
+    "keywords": [
+      "would require online services",
+      "age verification laws —",
+      "verify users ’ ages",
+      "means platforms would",
+      "merely require users",
+      "unlike many state",
+      "senate commerce committee",
+      "reliably identify teenagers",
+      "sexually explicit content",
+      "sexually explicit content"
+    ],
+    "summary": "If this bill passes, it will force millions of adult internet users to give up their anonymity, privacy, and security before they access lawful speech. Unlike many state-age verification laws—which have been harmful in their own right—the SCREEN Act has no requirement that a significant portion of the website consist of sexually explicit content that is harmful to minors. Providing proof of age online is    dramatically different   , and far more invasive, than showing your ID at the door to a b"
+  },
+  "e85ecd451a969679": {
+    "file": "corpus/legal/www_techdirt_com_2026_07_31_ctrl-alt-speech-zuck-starts-thro_09e81b07c7.md",
+    "source": "legal",
+    "title": "[techdirt] Ctrl-Alt-Speech: Zuck Starts Throwing His Weights Around",
+    "url": "https://www.techdirt.com/2026/07/31/ctrl-alt-speech-zuck-starts-throwing-his-weights-around/",
+    "keywords": [
+      "zuck starts throwing",
+      "zuck starts throwing",
+      "zuck starts throwing",
+      "moderation &# 8216",
+      "get extended episodes",
+      "[&# 8230 ;]",
+      "weights around ctrl",
+      "weights around",
+      "weights around",
+      "weekly podcast"
+    ],
+    "summary": "Ctrl-Alt-Speech is a weekly podcast about the latest news in online speech, from Mike Masnick and Everything in Moderation&#8216;s Ben Whitelaw. Subscribe now on Apple Podcasts, Overcast, Spotify, Pocket Casts, YouTube, or your podcast app of choice — or go straight to the RSS feed. To get extended episodes with additional coverage, support us on [&#8230;]"
+  },
+  "1ddc696a8ccbba7f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_07_high-school-defends-stay_79e37fa677.md",
+    "source": "legal",
+    "title": "[ars-policy] High school defends staying silent while boys made AI nudes of 59 classmates",
+    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "keywords": [
+      "boys made ai nudes",
+      "boys made ai nudes",
+      "boys made ai nudes",
+      "59 classmates gaps",
+      "59 classmates",
+      "59 classmates",
+      "source",
+      "policy",
+      "policy",
+      "legal"
+    ],
+    "summary": "# [ars-policy] High school defends staying silent while boys made AI nudes of 59 classmates High school defends staying silent while boys made AI nudes of 59 classmates Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
+  },
+  "5eae98c93cfb00ad": {
+    "file": "corpus/security/thehackernews_com_2026_08_suspected-chinese-speaking-hackers_63ae4bfd89.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+    "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+    "keywords": [
+      "syrian arab republic",
+      "speaking threat actor",
+      "since january 2025",
+      "16z suspected chinese",
+      "suspected chinese",
+      "suspected chinese",
+      "including afghanistan",
+      "government offices",
+      "fresh wave",
+      "central asia"
+    ],
+    "summary": "# [hacker-news-sec] Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices,"
+  },
+  "85773510e9412928": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_cisa-issues-fre_bd509bf845.md",
+    "source": "security",
+    "title": "[dark-reading] CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+    "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+    "keywords": [
+      "framework lacks real risk",
+      "sbom fields",
+      "management improvements",
+      "dozen changes",
+      "source",
+      "security",
+      "security",
+      "right",
+      "right",
+      "right"
+    ],
+    "summary": "# [dark-reading] CISA Issues Fresh SBOM Guidance. Did They Get It Right? A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements."
+  },
+  "6cb4ea89076ea0f7": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-mcp-now-supports-the-2026-07-28-_28a0859f65.md",
+    "source": "vercel-blog",
+    "title": "Vercel MCP now supports the 2026-07-28 MCP specification",
+    "url": "https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification",
+    "keywords": [
+      "28 mcp specification",
+      "28 mcp specification",
+      "28 mcp specification",
+      "25z vercel mcp",
+      "vercel mcp",
+      "vercel mcp",
+      "vercel",
+      "supports",
+      "supports",
+      "supports"
+    ],
+    "summary": "# Vercel MCP now supports the 2026-07-28 MCP specification > Source: vercel-blog | Category: news | 2026-07-31T20:21:25Z Vercel MCP now supports the 2026-07-28 MCP specification"
+  },
+  "d6320ef95560c2b8": {
+    "file": "corpus/hackernews/servo_org_blog_2026_07_31_june-in-servo_a885262f51.md",
+    "source": "hackernews",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "keywords": [
+      "real world compat",
+      "real world compat",
+      "media queries",
+      "media queries",
+      "16z score",
+      "source",
+      "sharedworker",
+      "sharedworker",
+      "servo",
+      "servo"
+    ],
+    "summary": "# June in Servo: real world compat, media queries, SharedWorker, and more > Source: hackernews | Category: news | 2026-07-31T20:21:16Z Score: 23 | Comments: 0"
+  },
+  "0265d1fa1db18e82": {
+    "file": "corpus/hackernews/github_com_golang_go_issues_80590_04234651d2.md",
+    "source": "hackernews",
+    "title": "Golang proposal: container/: generic collection types",
+    "url": "https://github.com/golang/go/issues/80590",
+    "keywords": [
+      "golang proposal",
+      "golang proposal",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Golang proposal: container/: generic collection types > Source: hackernews | Category: news | 2026-07-31T20:21:15Z Score: 41 | Comments: 6"
+  },
+  "059c771c77890515": {
+    "file": "corpus/hackernews/jovidecroock_com_blog_referential-stability-types_ade595bf74.md",
+    "source": "hackernews",
+    "title": "Making Referential Stability a Type",
+    "url": "https://jovidecroock.com/blog/referential-stability-types/",
+    "keywords": [
+      "making referential stability",
+      "making referential stability",
+      "17z score",
+      "type",
+      "type",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Making Referential Stability a Type > Source: hackernews | Category: news | 2026-07-31T20:21:17Z Score: 11 | Comments: 0"
+  },
+  "5321a129183bb618": {
+    "file": "corpus/hackernews/tailscale_com_blog_hugging-face-intrusion_f5a126490d.md",
+    "source": "hackernews",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "keywords": [
+      "hugging face intrusion",
+      "hugging face intrusion",
+      "15z score",
+      "tailscale",
+      "tailscale",
+      "stop",
+      "stop",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tailscale didn't stop the Hugging Face intrusion > Source: hackernews | Category: news | 2026-07-31T20:21:15Z Score: 105 | Comments: 43"
+  },
+  "daf2d87e2b68e9e7": {
+    "file": "corpus/hackernews/ec_social-network_europa_eu_EUCommission_117013565926587088_49d8e40dde.md",
+    "source": "hackernews",
+    "title": "The EU is making the Right to Repair the new standard in Europe",
+    "url": "https://ec.social-network.europa.eu/@EUCommission/117013565926587088",
+    "keywords": [
+      "new standard",
+      "new standard",
+      "19z score",
+      "source",
+      "right",
+      "right",
+      "repair",
+      "repair",
+      "news",
+      "making"
+    ],
+    "summary": "# The EU is making the Right to Repair the new standard in Europe > Source: hackernews | Category: news | 2026-07-31T20:21:19Z Score: 31 | Comments: 4"
+  },
+  "3f62fd5e1c3af332": {
+    "file": "corpus/hackernews/media_ccc_de_v_emf2026-74-1-using-the-railway-network-as-a-f_f880e162e7.md",
+    "source": "hackernews",
+    "title": "Using the railway network as a flatbed scanner [video]",
+    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "keywords": [
+      "railway network",
+      "railway network",
+      "flatbed scanner",
+      "flatbed scanner",
+      "17z score",
+      "video",
+      "video",
+      "using",
+      "using",
+      "source"
+    ],
+    "summary": "# Using the railway network as a flatbed scanner [video] > Source: hackernews | Category: news | 2026-07-31T20:21:17Z Score: 15 | Comments: 5"
+  },
+  "28b50fe9ad494f31": {
+    "file": "corpus/hackernews/github_com_lerd-env_lerd_cfb3a3ed60.md",
+    "source": "hackernews",
+    "title": "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
+    "url": "https://github.com/lerd-env/lerd",
+    "keywords": [
+      "like php development environment",
+      "like php development environment",
+      "open source herd",
+      "open source herd",
+      "19z score",
+      "source",
+      "news",
+      "macos",
+      "macos",
+      "linux"
+    ],
+    "summary": "# Lerd, an open source Herd-like PHP development environment for Linux and macOS > Source: hackernews | Category: news | 2026-07-31T20:21:19Z Score: 5 | Comments: 1"
+  },
+  "8ec2248c4a5b9a5d": {
+    "file": "corpus/hackernews/cassidoo_co_post_clustering-tiles_d9b9ba3dad.md",
+    "source": "hackernews",
+    "title": "A simple clustering algorithm for lists",
+    "url": "https://cassidoo.co/post/clustering-tiles/",
+    "keywords": [
+      "simple clustering algorithm",
+      "simple clustering algorithm",
+      "17z score",
+      "source",
+      "news",
+      "lists",
+      "lists",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A simple clustering algorithm for lists > Source: hackernews | Category: news | 2026-07-31T20:21:17Z Score: 4 | Comments: 0"
   }
 }
