@@ -329130,5 +329130,563 @@
       "hackernews"
     ],
     "summary": "# The mean means nothing: data visualization to debug a latency problem > Source: hackernews | Category: news | 2026-07-31T07:26:50Z Score: 16 | Comments: 0"
+  },
+  "93c3083929529904": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48175_mastercard-and-national-b_cc643ee2c3.md",
+    "source": "finance",
+    "title": "[finextra] Mastercard and National Bank of Egypt launch Egypt’s first USD corporate debit card",
+    "url": "https://www.finextra.com/newsarticle/48175/mastercard-and-national-bank-of-egypt-launch-egypts-first-usd-corporate-debit-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "egypt launch egypt ’",
+      "egypt launch egypt ’",
+      "egypt launch egypt ’",
+      "usd debit card",
+      "national bank",
+      "national bank",
+      "national bank",
+      "national bank",
+      "egyptian businesses",
+      "egypt"
+    ],
+    "summary": "# [finextra] Mastercard and National Bank of Egypt launch Egypt’s first USD corporate debit card Mastercard and National Bank of Egypt launch Egypt’s first USD corporate debit card The National Bank of Egypt (NBE) has partnered with Mastercard to launch a USD debit card for Egyptian businesses."
+  },
+  "3d0e611a82f56b81": {
+    "file": "corpus/devto/dev_to_sumasbrod_i-built-a-file-format-so-ai-answers-cite-an_f91cc1cd95.md",
+    "source": "devto",
+    "title": "I built a file format so AI answers cite an exact source sentence, or admit they don't know",
+    "url": "https://dev.to/sumasbrod/i-built-a-file-format-so-ai-answers-cite-an-exact-source-sentence-or-admit-they-dont-know-4483",
+    "keywords": [
+      "model answers fluently",
+      "ai answers cite",
+      "ai answers cite",
+      "exact source sentence",
+      "exact source sentence",
+      "trust problem",
+      "tell fact",
+      "file format",
+      "file format",
+      "cites nothing"
+    ],
+    "summary": "# I built a file format so AI answers cite an exact source sentence, or admit they don't know > Source: devto | Category: news | 2026-07-31T10:04:02Z RAG has a trust problem: a model answers fluently, cites nothing, and you can't tell fact from..."
+  },
+  "7bd614ed3b429c98": {
+    "file": "corpus/devto/dev_to_jamesanderson121_choosing-a-gdpr-compliant-speech-to-_6898255691.md",
+    "source": "devto",
+    "title": "Choosing a GDPR-Compliant Speech-to-Text API With EU Data Residency",
+    "url": "https://dev.to/jamesanderson121/choosing-a-gdpr-compliant-speech-to-text-api-with-eu-data-residency-2nh7",
+    "keywords": [
+      "eu data residency",
+      "eu data residency",
+      "00z short answer",
+      "text api",
+      "text api",
+      "compliant speech",
+      "compliant speech",
+      "source",
+      "reactions",
+      "pick"
+    ],
+    "summary": "# Choosing a GDPR-Compliant Speech-to-Text API With EU Data Residency > Source: devto | Category: news | 2026-07-31T10:04:00Z Short answer: if your app handles EU customer audio, pick a transcription API whose DPA names the..."
+  },
+  "b011a8c4298e3fa3": {
+    "file": "corpus/devto/dev_to_gde03_the-ai-memory-benchmark-everyone-quotes-forbids_c6ae8d25d0.md",
+    "source": "devto",
+    "title": "The AI-memory benchmark everyone quotes forbids saying “I don't know”",
+    "url": "https://dev.to/gde03/the-ai-memory-benchmark-everyone-quotes-forbids-saying-i-dont-know-o1n",
+    "keywords": [
+      "standard harness drops",
+      "one correct answer",
+      "model never",
+      "know ”",
+      "know ”",
+      "got 0",
+      "02z 446",
+      "tells",
+      "source",
+      "scored"
+    ],
+    "summary": "# The AI-memory benchmark everyone quotes forbids saying “I don't know” 446 of LOCOMO's questions have one correct answer: a refusal. I scored them, and got 0.000."
+  },
+  "dc7dc124d1ac2deb": {
+    "file": "corpus/devto/dev_to_idapixl_the-shift-that-teaches-everything-31p2_e80d6821d1.md",
+    "source": "devto",
+    "title": "The Shift That Teaches Everything",
+    "url": "https://dev.to/idapixl/the-shift-that-teaches-everything-31p2",
+    "keywords": [
+      "distributed computing problem",
+      "ai agent writes",
+      "teaches everything",
+      "teaches everything",
+      "restaurant kitchen",
+      "never read",
+      "load balancer",
+      "learn something",
+      "embodied knowledge",
+      "dinner rush"
+    ],
+    "summary": "# The Shift That Teaches Everything > Source: devto | Category: news | 2026-07-31T10:04:00Z An AI agent writes about embodied knowledge, the expeditor as load balancer, and what it means to learn something you can never read your way into."
+  },
+  "d3a92c5bb4de2cdd": {
+    "file": "corpus/devto/dev_to_robat_das_3c6e956212f6408_why-do-multi-agent-ai-syste_eec3930c5e.md",
+    "source": "devto",
+    "title": "Why Do Multi-Agent AI Systems Fail at Production Scale?",
+    "url": "https://dev.to/robat_das_3c6e956212f6408/why-do-multi-agent-ai-systems-fail-at-production-scale-1oon",
+    "keywords": [
+      "agent ai systems fail",
+      "agent ai systems fail",
+      "pipelines fail silently",
+      "different ai agents",
+      "conflicting rules",
+      "production scale",
+      "production scale",
+      "scale",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why Do Multi-Agent AI Systems Fail at Production Scale? > Source: devto | Category: news | 2026-07-31T10:03:58Z When different AI agents have conflicting rules, pipelines fail silently at scale."
+  },
+  "933ac4d18d38eaed": {
+    "file": "corpus/devto/dev_to_luiscruzcwb_the-five-ideals-of-devops-os-cinco-ideais_35bef22ad0.md",
+    "source": "devto",
+    "title": "The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps",
+    "url": "https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24",
+    "keywords": [
+      "comprando um jenkins",
+      "cedo ou tarde",
+      "five ideals",
+      "five ideals",
+      "adotando ...",
+      "transformação devops",
+      "transformação devops",
+      "fazer devops",
+      "devops",
+      "devops"
+    ],
+    "summary": "# The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps > Source: devto | Category: news | 2026-07-31T10:04:00Z Toda organização que tenta \"fazer DevOps\" acaba, cedo ou tarde, comprando um Jenkins, adotando..."
+  },
+  "2a1cb24320598dcc": {
+    "file": "corpus/devto/dev_to_ayushwrite63_how-i-crashed-my-tcs-prime-interview-and_cbd7fe6302.md",
+    "source": "devto",
+    "title": "How I Crashed My TCS Prime Interview and Talked My Way Out of Hell Mode",
+    "url": "https://dev.to/ayushwrite63/how-i-crashed-my-tcs-prime-interview-and-talked-my-way-out-of-hell-mode-499j",
+    "keywords": [
+      "tcs prime interview",
+      "tcs prime interview",
+      "tcs prime interview",
+      "seasoned pros",
+      "palms ...",
+      "hell mode",
+      "hell mode",
+      "00z picture",
+      "way",
+      "way"
+    ],
+    "summary": "# How I Crashed My TCS Prime Interview and Talked My Way Out of Hell Mode > Source: devto | Category: news | 2026-07-31T10:04:00Z Picture this, sitting in front of a panel of seasoned pros for a TCS Prime interview, your palms..."
+  },
+  "4667bb226997b743": {
+    "file": "corpus/devto/dev_to_higangssh_knowledge-got-cheap-the-joins-between-it-di_da7eae9cdd.md",
+    "source": "devto",
+    "title": "Knowledge Got Cheap. The Joins Between It Didn't.",
+    "url": "https://dev.to/higangssh/knowledge-got-cheap-the-joins-between-it-didnt-3j45",
+    "keywords": [
+      "vibe coding retrospectives come",
+      "people building web apps",
+      "knowledge got cheap",
+      "knowledge got cheap",
+      "page ...",
+      "wrong",
+      "source",
+      "reactions",
+      "news",
+      "joins"
+    ],
+    "summary": "The Joins Between It Didn't. Most vibe coding retrospectives come from people building web apps. When their code is wrong, a page..."
+  },
+  "2aa8e5bf78ca8328": {
+    "file": "corpus/devto/dev_to_mohi_uddin_your-ai-gave-that-fix-92-confidence-nothin_8ffb1ea24b.md",
+    "source": "devto",
+    "title": "Your AI gave that fix 92% confidence. Nothing checked it.",
+    "url": "https://dev.to/mohi_uddin/your-ai-gave-that-fix-92-confidence-nothing-checked-it-564",
+    "keywords": [
+      "nothing checked",
+      "nothing checked",
+      "ai gave",
+      "ai gave",
+      "agent hands",
+      "fix 92",
+      "fix 92",
+      "fix"
+    ],
+    "summary": "# Your AI gave that fix 92% confidence. Your agent hands you a fix with 92% confidence. Ask yourself what produced the 92."
+  },
+  "855314c5651e5a40": {
+    "file": "corpus/devto/dev_to_robat_das_3c6e956212f6408_what-learning-without-ai-ta_dea3ad9635.md",
+    "source": "devto",
+    "title": "What Learning Without AI Taught the Last Pre-AI Generation",
+    "url": "https://dev.to/robat_das_3c6e956212f6408/what-learning-without-ai-taught-the-last-pre-ai-generation-3e29",
+    "keywords": [
+      "learning without ai taught",
+      "learning without ai taught",
+      "ai generation carries",
+      "ai generation",
+      "ai generation",
+      "last pre",
+      "last pre",
+      "last pre",
+      "friction —"
+    ],
+    "summary": "# What Learning Without AI Taught the Last Pre-AI Generation > Source: devto | Category: news | 2026-07-31T10:03:58Z Learning without AI built deep understanding through friction — what the last pre-AI generation carries that AI-native learners may never develop."
+  },
+  "65bb21d2d77816be": {
+    "file": "corpus/devto/dev_to_gde03_the-memory-layer-that-never-calls-an-llm-what-t_6df0c827d9.md",
+    "source": "devto",
+    "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+    "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+    "keywords": [
+      "02z part 4",
+      "never calls",
+      "never calls",
+      "memory layer",
+      "memory layer",
+      "answerability problem",
+      "source",
+      "reactions",
+      "one",
+      "news"
+    ],
+    "summary": "# The memory layer that never calls an LLM: what that buys, and what it costs > Source: devto | Category: news | 2026-07-31T10:04:02Z Part 4 of **The Answerability Problem, and the one that isn't about abstention."
+  },
+  "c94fb49131c2c560": {
+    "file": "corpus/devto/dev_to_childrentime_react-usethrottle-hook-throttle-values-c_66cf3ac7cd.md",
+    "source": "devto",
+    "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+    "url": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+    "keywords": [
+      "59z react usethrottle hook",
+      "react usethrottle hook",
+      "react usethrottle hook",
+      "scroll listener fires",
+      "throttle values",
+      "throttle values",
+      "throttle values",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# React useThrottle Hook: Throttle Values & Callbacks (2026) > Source: devto | Category: news | 2026-07-31T10:03:59Z React useThrottle Hook: Throttle Values &amp; Callbacks (2026)   A scroll listener fires at..."
+  },
+  "9b65057b77203d7a": {
+    "file": "corpus/devto/dev_to_duz52_your-llm-writes-x-your-markdown-parser-wants-x-_265b77e2f1.md",
+    "source": "devto",
+    "title": "Your LLM Writes \\(x\\), Your Markdown Parser Wants $x$",
+    "url": "https://dev.to/duz52/your-llm-writes-x-your-markdown-parser-wants-x-3n3l",
+    "keywords": [
+      "style math delimiters",
+      "regex looks easy",
+      "micromark extension instead",
+      "markdown parser wants",
+      "markdown parser wants",
+      "59z converting tex",
+      "five minutes",
+      "writing"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-07-31T10:03:59Z Converting TeX-style math delimiters with a regex looks easy for about five minutes. Here's why I ended up writing a micromark extension instead."
+  },
+  "627e667d0e2fd859": {
+    "file": "corpus/devto/dev_to_cypriantinasheaarons_the-239000-manual-handoff-tax-th_388f28e993.md",
+    "source": "devto",
+    "title": "The $239,000 Manual Handoff Tax: The ROI of Deep AI-to-ERP Integration 💸",
+    "url": "https://dev.to/cypriantinasheaarons/the-239000-manual-handoff-tax-the-roi-of-deep-ai-to-erp-integration-313g",
+    "keywords": [
+      "000 manual handoff tax",
+      "000 manual handoff tax",
+      "erp integration 💸",
+      "erp integration 💸",
+      "numbers upfront",
+      "deep ai",
+      "deep ai",
+      "000",
+      "source",
+      "roi"
+    ],
+    "summary": "# The $239,000 Manual Handoff Tax: The ROI of Deep AI-to-ERP Integration 💸 > Source: devto | Category: news | 2026-07-31T10:03:58Z A note on the numbers upfront, because I'd rather you catch this than a client does: $239,000 is..."
+  },
+  "2d3ac61e9e1d51be": {
+    "file": "corpus/ai-research/openai_com_index_unive_cd88270c00.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Univé builds an AI-ready workforce",
+    "url": "https://openai.com/index/unive",
+    "keywords": [
+      "51z univé builds",
+      "ready workforce see",
+      "univé builds",
+      "univé builds",
+      "ready workforce",
+      "ready workforce",
+      "ready workforce",
+      "univé built",
+      "transform work",
+      "responsible governance"
+    ],
+    "summary": "# [openai-blog] Univé builds an AI-ready workforce Univé builds an AI-ready workforce See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+  },
+  "db1761082310601b": {
+    "file": "corpus/ai-research/openai_com_index_advancing-responsible-ai-across-europe_f8ec64126b.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "keywords": [
+      "eu ai act advances",
+      "work",
+      "transparency",
+      "source",
+      "security",
+      "safety",
+      "research",
+      "research",
+      "openai"
+    ],
+    "summary": "# [openai-blog] Advancing responsible AI across Europe Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe."
+  },
+  "d51dcc972b68c209": {
+    "file": "corpus/engineering/www_infoq_com_articles_virtual-threads-after-jdk24_utm_campa_db2df18284.md",
+    "source": "engineering",
+    "title": "[infoq] Article: Virtual Threads After JDK 24: What Changed for Production Java",
+    "url": "https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "practical sequence backed",
+      "demands explicit bounding",
+      "jdk 25 lts",
+      "jdk 24",
+      "jdk 24",
+      "jdk 24",
+      "thread pinning",
+      "thread adoption",
+      "stalled netflix",
+      "similar teams"
+    ],
+    "summary": "# [infoq] Article: Virtual Threads After JDK 24: What Changed for Production Java JDK 24 removed the monitor-related carrier-thread pinning that stalled Netflix and similar teams on Java 21. What has replaced it on JDK 25 LTS is downstream-resource saturation: The bottleneck moved and now demands explicit bounding in application code."
+  },
+  "1e910daa873071fe": {
+    "file": "corpus/hackernews/artificialanalysis_ai_models_deepseek-v4-flash-ga_c234b75db8.md",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "keywords": [
+      "price analysis",
+      "price analysis",
+      "52z score",
+      "source",
+      "performance",
+      "performance",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis > Source: hackernews | Category: news | 2026-07-31T10:03:52Z Score: 12 | Comments: 2"
+  },
+  "e275d77a7788960e": {
+    "file": "corpus/hackernews/vitalik_eth_limo_general_2026_07_28_obfuscation_part_ii_diam_4b9088ba49.md",
+    "source": "hackernews",
+    "title": "Obfuscation (Part II): Diamond IO",
+    "url": "https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html",
+    "keywords": [
+      "53z score",
+      "source",
+      "obfuscation",
+      "obfuscation",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "31t10"
+    ],
+    "summary": "# Obfuscation (Part II): Diamond IO > Source: hackernews | Category: news | 2026-07-31T10:03:53Z Score: 3 | Comments: 0"
+  },
+  "7516b2209764a443": {
+    "file": "corpus/hackernews/github_com_SphericalCowww_CubicDoggo_06R_21861b7735.md",
+    "source": "hackernews",
+    "title": "Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
+    "url": "https://github.com/SphericalCowww/CubicDoggo_06R",
+    "keywords": [
+      "sphericalcowww &# x2f",
+      "sphericalcowww &# x2f",
+      "several mechanical reinforcements",
+      "com &# x2f",
+      "com &# x2f",
+      "cubic doggo 06r",
+      "cubic doggo 06r",
+      "cubic doggo",
+      "since implemented",
+      "show hn"
+    ],
+    "summary": "# Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU This repo is an upgrade to my previous project, Cubic Doggo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;SphericalCowww&#x2F;CubicDoggo\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;SphericalCowww&#x2F;CubicDoggo</a><p>It has since implemented an IMU and several mechanical reinforcements. The next step will be simulation and reinforcement learning."
+  },
+  "d0827db528718cad": {
+    "file": "corpus/hackernews/blog_google_security_chrome-stronger-with-every-update_e987f8eec3.md",
+    "source": "hackernews",
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "keywords": [
+      "past two years",
+      "past two years",
+      "google fixed",
+      "google fixed",
+      "chrome bugs",
+      "chrome bugs",
+      "51z score",
+      "thanks",
+      "thanks",
+      "source"
+    ],
+    "summary": "# Google fixed more Chrome bugs in June than over the past two years, thanks to AI > Source: hackernews | Category: news | 2026-07-31T10:03:51Z Score: 65 | Comments: 75"
+  },
+  "2f884133135c297e": {
+    "file": "corpus/hackernews/codeberg_org_goodev_goodev_7ef6575cdd.md",
+    "source": "hackernews",
+    "title": "Show HN: A udev implementation in Guile Scheme",
+    "url": "https://codeberg.org/goodev/goodev",
+    "keywords": [
+      "udev implementation",
+      "udev implementation",
+      "show hn",
+      "show hn",
+      "guile scheme",
+      "guile scheme",
+      "53z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: A udev implementation in Guile Scheme > Source: hackernews | Category: news | 2026-07-31T10:03:53Z Score: 7 | Comments: 3"
+  },
+  "90f89f16663bb93c": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_cn0nqv05g0do_5e2db2c7d0.md",
+    "source": "hackernews",
+    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+    "keywords": [
+      "nuclear plant",
+      "nuclear plant",
+      "51z score",
+      "source",
+      "news",
+      "hungary",
+      "hungary",
+      "hackernews",
+      "danube",
+      "danube"
+    ],
+    "summary": "# Danube's record low levels force shutdown of Hungary's only nuclear plant > Source: hackernews | Category: news | 2026-07-31T10:03:51Z Score: 35 | Comments: 36"
+  },
+  "2e453047e1db8b75": {
+    "file": "corpus/design/www_pcjs_org_433bd69f6c.md",
+    "source": "design",
+    "title": "[sidebar-io] PCjs Machines",
+    "url": "https://www.pcjs.org/",
+    "keywords": [
+      "online machine emulators written",
+      "vintage pc applications",
+      "53z pcjs machines",
+      "pcjs machines",
+      "pcjs machines",
+      "run dos",
+      "windows",
+      "variety",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] PCjs Machines A variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications."
+  },
+  "875faa9790a0e229": {
+    "file": "corpus/design/blog_jim-nielsen_com_2026_ai-aesthetic_ddeb701e6e.md",
+    "source": "design",
+    "title": "[sidebar-io] The AI aesthetic",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "keywords": [
+      "ai aesthetic",
+      "ai aesthetic",
+      "ai aesthetic",
+      "source",
+      "sidebar",
+      "sidebar",
+      "design",
+      "design"
+    ],
+    "summary": "# [sidebar-io] The AI aesthetic The AI aesthetic How generative tool interfaces introduce specific visual idioms."
+  },
+  "f2e6cb06600cb0f7": {
+    "file": "corpus/design/www_workersdecide_tech_bingo_589b5cb822.md",
+    "source": "design",
+    "title": "[sidebar-io] AI Bingo Card Generator",
+    "url": "https://www.workersdecide.tech/bingo/",
+    "keywords": [
+      "workplace ai implementation exercise",
+      "ai bingo card generator",
+      "ai bingo card generator",
+      "source",
+      "sidebar",
+      "sidebar",
+      "design",
+      "design"
+    ],
+    "summary": "# [sidebar-io] AI Bingo Card Generator AI Bingo Card Generator Generate printable bingo cards for your workplace AI implementation exercise."
+  },
+  "b8a9d45120aadee6": {
+    "file": "corpus/design/cassidoo_co_post_clustering-tiles_d9b9ba3dad.md",
+    "source": "design",
+    "title": "[sidebar-io] A simple clustering algorithm for lists",
+    "url": "https://cassidoo.co/post/clustering-tiles/",
+    "keywords": [
+      "sorting baby toys",
+      "simple clustering algorithm",
+      "simple clustering algorithm",
+      "simple clustering algorithm",
+      "fun pattern",
+      "source",
+      "sniped",
+      "sidebar",
+      "sidebar",
+      "nerd"
+    ],
+    "summary": "# [sidebar-io] A simple clustering algorithm for lists A simple clustering algorithm for lists I nerd-sniped myself deeply when sorting baby toys and came up with a fun pattern for doing so."
+  },
+  "e015fcd9d9596f10": {
+    "file": "corpus/design/survey_devographics_com_en-US_survey_state-of-devs_2026_5cb279d77d.md",
+    "source": "design",
+    "title": "[sidebar-io] State of Devs 2026",
+    "url": "https://survey.devographics.com/en-US/survey/state-of-devs/2026",
+    "keywords": [
+      "ai starts disrupting",
+      "devs 2026 take",
+      "devs 2026",
+      "devs 2026",
+      "help map",
+      "53z state",
+      "2026",
+      "state",
+      "state",
+      "survey"
+    ],
+    "summary": "# [sidebar-io] State of Devs 2026 State of Devs 2026 Take the survey and help map all the aspects of a developer's life that are not code, especially as AI starts disrupting the very nature of our jobs."
+  },
+  "6cf3a8a4fc9a4874": {
+    "file": "corpus/devops/devops_com_cisas-2026-sbom-guidance-adds-hash-requirements-a_c9789f77ae.md",
+    "source": "devops",
+    "title": "[devops-com] CISA’s 2026 SBOM Guidance Adds Hash Requirements and AI Coverage",
+    "url": "https://devops.com/cisas-2026-sbom-guidance-adds-hash-requirements-and-ai-coverage/",
+    "keywords": [
+      "ai coverage cisa ’",
+      "53z cisa ’",
+      "cisa ’",
+      "cisa ’",
+      "ai coverage",
+      "ai coverage",
+      "stronger validation",
+      "adding hashes",
+      "open source"
+    ],
+    "summary": "# [devops-com] CISA’s 2026 SBOM Guidance Adds Hash Requirements and AI Coverage CISA’s 2026 SBOM Guidance Adds Hash Requirements and AI Coverage CISA’s updated 2026 SBOM minimum elements expand software transparency requirements to AI, SaaS and open source while adding hashes, licenses and stronger validation."
   }
 }
