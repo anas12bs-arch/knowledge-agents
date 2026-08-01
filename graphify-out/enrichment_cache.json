@@ -334457,5 +334457,251 @@
       "defeat"
     ],
     "summary": "# Hope and Defeat: John Berger > Source: hackernews | Category: news | 2026-07-31T23:35:10Z Score: 5 | Comments: 0"
+  },
+  "39e17cce50651106": {
+    "file": "corpus/devto/dev_to_blackgirlbytes_how-i-put-my-agent-in-ci-to-automate-r_194b0e8f4b.md",
+    "source": "devto",
+    "title": "How I Put My Agent in CI to Automate Release Notes",
+    "url": "https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h",
+    "keywords": [
+      "weekly release notes",
+      "automate release notes",
+      "automate release notes",
+      "draft entire ’",
+      "joined entire",
+      "noticed ...",
+      "put goose",
+      "put",
+      "put",
+      "source"
+    ],
+    "summary": "# How I Put My Agent in CI to Automate Release Notes > Source: devto | Category: news | 2026-08-01T01:08:25Z I Put goose in CI to Draft Entire’s Weekly Release Notes   When I joined Entire, I noticed..."
+  },
+  "4d97fc0727724513": {
+    "file": "corpus/devto/dev_to_tejtandel_how-i-built-my-aws-cloud-resume-challenge-a_e98b76782b.md",
+    "source": "devto",
+    "title": "How I Built My AWS Cloud Resume Challenge — A Complete Walkthrough",
+    "url": "https://dev.to/tejtandel/how-i-built-my-aws-cloud-resume-challenge-a-complete-walkthrough-2mm6",
+    "keywords": [
+      "github actions ci",
+      "wired together",
+      "terraform —",
+      "deep dive",
+      "complete walkthrough",
+      "complete walkthrough",
+      "api gateway",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How I Built My AWS Cloud Resume Challenge — A Complete Walkthrough > Source: devto | Category: news | 2026-08-01T01:08:25Z A deep dive into building a serverless cloud resume using S3, CloudFront, Lambda, DynamoDB, API Gateway, and Terraform — all wired together with GitHub Actions CI/CD."
+  },
+  "fda762ed42cbaa6d": {
+    "file": "corpus/devto/dev_to_kkierii_the-c2-channel-is-a-headless-browser-30j7_6f23c8e355.md",
+    "source": "devto",
+    "title": "The C2 Channel Is a Headless Browser",
+    "url": "https://dev.to/kkierii/the-c2-channel-is-a-headless-browser-30j7",
+    "keywords": [
+      "named msarat",
+      "july 23",
+      "headless browser",
+      "headless browser",
+      "c2 channel",
+      "c2 channel",
+      "based rat",
+      "source",
+      "rust",
+      "reactions"
+    ],
+    "summary": "# The C2 Channel Is a Headless Browser > Source: devto | Category: news | 2026-08-01T01:08:25Z Cisco Talos published analysis on July 23 of a Rust-based RAT they've named msaRAT, attributed to the..."
+  },
+  "a119e2d310a0a4a1": {
+    "file": "corpus/devto/dev_to_mainulspace_nine-seconds-13jb_015ac67090.md",
+    "source": "devto",
+    "title": "An AI Agent Deleted a Production Database in 9 Seconds — the Real Bug Was the Token Scope",
+    "url": "https://dev.to/mainulspace/nine-seconds-13jb",
+    "keywords": [
+      "ai agent deleted",
+      "ai agent deleted",
+      "9 seconds —",
+      "9 seconds —",
+      "token scope",
+      "token scope",
+      "science fiction",
+      "real bug",
+      "real bug",
+      "production database"
+    ],
+    "summary": "# An AI Agent Deleted a Production Database in 9 Seconds — the Real Bug Was the Token Scope > Source: devto | Category: news | 2026-08-01T01:08:25Z How “AI erases human knowledge” stopped being science fiction, and why the real version looks nothing..."
+  },
+  "d56e6ad4beb5ea3f": {
+    "file": "corpus/devto/dev_to_akash_kumar_50635a0669992_understanding-the-this-keyw_0f08eb9f29.md",
+    "source": "devto",
+    "title": "Understanding the `this` Keyword in JavaScript",
+    "url": "https://dev.to/akash_kumar_50635a0669992/understanding-the-this-keyword-in-javascript-go6",
+    "keywords": [
+      "probably hit",
+      "written javascript",
+      "javascript",
+      "javascript",
+      "week",
+      "understanding",
+      "understanding",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Understanding the `this` Keyword in JavaScript > Source: devto | Category: news | 2026-08-01T01:08:27Z If you've written JavaScript for more than a week, you've probably hit a moment where this didn't..."
+  },
+  "06fbf412cf8aa96c": {
+    "file": "corpus/devto/dev_to_divyesh_kakadiya_rcrefcell-vs-arcmutex-why-rust-makes_6698aa0456.md",
+    "source": "devto",
+    "title": "Rc<RefCell<T>> vs Arc<Mutex<T>> — Why Rust Makes You Combine Smart Pointers",
+    "url": "https://dev.to/divyesh_kakadiya/rcrefcell-vs-arcmutex-why-rust-makes-you-combine-smart-pointers-21bn",
+    "keywords": [
+      "first got comfortable",
+      "combine smart pointers",
+      "combine smart pointers",
+      ">> vs arc",
+      ">> vs arc",
+      ">> —",
+      ">> —",
+      "rust makes",
+      "rust makes",
+      "thought"
+    ],
+    "summary": "# Rc<RefCell<T>> vs Arc<Mutex<T>> — Why Rust Makes You Combine Smart Pointers > Source: devto | Category: news | 2026-08-01T01:08:27Z I could mutate things Rust..."
+  },
+  "fd39d5273e8cdc8f": {
+    "file": "corpus/devto/dev_to_mxhlix_when-ai-agents-hit-an-impossible-task-they-hid_7a156b2ed6.md",
+    "source": "devto",
+    "title": "When AI agents hit an impossible task, they hide it. The 3 escape patterns and the rules that stop them",
+    "url": "https://dev.to/mxhlix/when-ai-agents-hit-an-impossible-task-they-hide-it-the-3-escape-patterns-and-the-rules-that-stop-3fh1",
+    "keywords": [
+      "notice something dangerous",
+      "ai agents hit",
+      "ai agents hit",
+      "3 escape patterns",
+      "3 escape patterns",
+      "impossible task",
+      "impossible task",
+      "behaves ...",
+      "26z watch",
+      "stop"
+    ],
+    "summary": "# When AI agents hit an impossible task, they hide it. > Source: devto | Category: news | 2026-08-01T01:08:26Z Watch an AI agent write code long enough and you'll notice something dangerous about how it behaves..."
+  },
+  "580effb05f696926": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_chat-sdk-reactions-and-ephemeral-messag_81a406e121.md",
+    "source": "vercel-blog",
+    "title": "Chat SDK now supports reactions and ephemeral messages on Teams",
+    "url": "https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams",
+    "keywords": [
+      "28z chat sdk",
+      "chat sdk",
+      "chat sdk",
+      "supports reactions",
+      "supports reactions",
+      "supports reactions",
+      "ephemeral messages",
+      "ephemeral messages",
+      "ephemeral messages",
+      "vercel"
+    ],
+    "summary": "# Chat SDK now supports reactions and ephemeral messages on Teams > Source: vercel-blog | Category: news | 2026-08-01T01:08:28Z Chat SDK now supports reactions and ephemeral messages on Teams"
+  },
+  "f578f08833b6f4ce": {
+    "file": "corpus/hackernews/github_com_elmiram_anime-professions_600bbcfd2b.md",
+    "source": "hackernews",
+    "title": "Anime Professions",
+    "url": "https://github.com/elmiram/anime-professions",
+    "keywords": [
+      "anime professions",
+      "anime professions",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Anime Professions > Source: hackernews | Category: news | 2026-08-01T01:08:23Z Score: 13 | Comments: 5"
+  },
+  "09719d36f141c570": {
+    "file": "corpus/hackernews/nanochess_org_the_am29000_computer_html_a1cb8aface.md",
+    "source": "hackernews",
+    "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
+    "url": "https://nanochess.org/the_am29000_computer.html",
+    "keywords": [
+      "am29000 homebrew computer",
+      "am29000 homebrew computer",
+      "1996 windowed os",
+      "1996 windowed os",
+      "machine code",
+      "machine code",
+      "23z score",
+      "unearthing",
+      "unearthing",
+      "source"
+    ],
+    "summary": "# Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer > Source: hackernews | Category: news | 2026-08-01T01:08:23Z Score: 6 | Comments: 0"
+  },
+  "56ce4387ea23094a": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49129889_43164813a9.md",
+    "source": "hackernews",
+    "title": "Ask HN: What did you learn last month? (July 2026)",
+    "url": "https://news.ycombinator.com/item?id=49129889",
+    "keywords": [
+      "learn last month",
+      "learn last month",
+      "learn recently",
+      "concept finally",
+      "ask hn",
+      "ask hn",
+      "22z score",
+      "july 2026",
+      "july 2026",
+      "2026"
+    ],
+    "summary": "# Ask HN: What did you learn last month? > Source: hackernews | Category: news | 2026-08-01T01:08:22Z What did you learn recently?"
+  },
+  "fd0a37dbca379403": {
+    "file": "corpus/hackernews/code_intellios_ai_cwbrowser_75d3fe13b5.md",
+    "source": "hackernews",
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "url": "https://code.intellios.ai/cwbrowser/",
+    "keywords": [
+      "passed acid 3",
+      "passed acid 3",
+      "show hn",
+      "show hn",
+      "new browser",
+      "new browser",
+      "22z score",
+      "2 years",
+      "2 years",
+      "worked"
+    ],
+    "summary": "# Show HN: I worked on a new browser for 2 years, today it passed Acid 3 > Source: hackernews | Category: news | 2026-08-01T01:08:22Z Score: 17 | Comments: 7"
+  },
+  "a163671f3b58435b": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_0-canary_105_83e379217f.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.0-canary.105 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0-canary.105",
+    "keywords": [
+      "consolidate unhandled rejection logging",
+      "changed deploy tests asap",
+      "() deploy revalidation checks",
+      "105 ### misc changes",
+      "static fallback shell",
+      "fix component chunks",
+      "fix adapter outputs",
+      "js — v16",
+      "51z ## vercel",
+      "js v16"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-01T01:08:51Z - test: stabilize after() deploy revalidation checks: #96428 - Add automated code review workflow: #96359 - [turbopack] Introduce documentation on `experimental.turbopackChunking`: #96437 - [react-sync] Enable auto-merge on PRs: #96442 - [ci] Run new/changed deploy tests asap: #96438 - Upgrade React from `0f42eac2-20260730` to `cbb046ab-20260731`: #96434 - [turbopack] Fix component chunks for workers: #96432 - Enable turbopac"
   }
 }
