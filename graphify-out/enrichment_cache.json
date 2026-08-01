@@ -337500,5 +337500,360 @@
       "fuzzy matching"
     ],
     "summary": "# Tell HN: I hate your fuzzy search Not just HN the site, everyone’s fuzzy search sucks. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching."
+  },
+  "112d3153a44a1052": {
+    "file": "corpus/devto/dev_to_ojo_ilesanmi_building-a-secure-mcp-server-for-ai-assi_d3ff4d5f0d.md",
+    "source": "devto",
+    "title": "Building a Secure MCP Server for AI-Assisted VPS Operations Without Giving the AI a Shell",
+    "url": "https://dev.to/ojo_ilesanmi/building-a-secure-mcp-server-for-ai-assisted-vps-operations-without-giving-the-ai-a-shell-54l3",
+    "keywords": [
+      "vps operations using python",
+      "strict operational boundaries",
+      "secure mcp server",
+      "secure mcp server",
+      "practical walkthrough",
+      "allowlisted tools",
+      "ssh",
+      "source",
+      "shell",
+      "shell"
+    ],
+    "summary": "# Building a Secure MCP Server for AI-Assisted VPS Operations Without Giving the AI a Shell > Source: devto | Category: news | 2026-08-01T20:27:33Z A practical walkthrough of building a secure Model Context Protocol server for VPS operations using Python, SSH, allowlisted tools, and strict operational boundaries."
+  },
+  "02002d8c0e7a9e25": {
+    "file": "corpus/devto/dev_to_wwqking_how-i-find-mcp-servers-that-are-actually-main_1dc3e425c1.md",
+    "source": "devto",
+    "title": "How I Find MCP Servers That Are Actually Maintained",
+    "url": "https://dev.to/wwqking/how-i-find-mcp-servers-that-are-actually-maintained-3omn",
+    "keywords": [
+      "find mcp servers",
+      "find mcp servers",
+      "mcp server",
+      "longest directory",
+      "fastest way",
+      "actually maintained",
+      "actually maintained",
+      "start",
+      "start",
+      "source"
+    ],
+    "summary": "# How I Find MCP Servers That Are Actually Maintained > Source: devto | Category: news | 2026-08-01T20:27:34Z The fastest way to choose an MCP server is not to start with the longest directory."
+  },
+  "f2a3f241eefb9aa4": {
+    "file": "corpus/devto/dev_to_parthctrl_var-let-const-and-why-javascript-changed-it_a1d39ae4f6.md",
+    "source": "devto",
+    "title": "var, let, const — and why JavaScript changed its mind",
+    "url": "https://dev.to/parthctrl/var-let-const-and-why-javascript-changed-its-mind-5f2o",
+    "keywords": [
+      "started learning javascript",
+      "javascript changed",
+      "javascript changed",
+      "use ...",
+      "kept seeing",
+      "const —",
+      "const —",
+      "use let",
+      "const",
+      "let"
+    ],
+    "summary": "# var, let, const — and why JavaScript changed its mind > Source: devto | Category: news | 2026-08-01T20:27:34Z When I started learning JavaScript, I kept seeing the same advice: use let and const, don't use..."
+  },
+  "ac31d416043f02b4": {
+    "file": "corpus/devto/dev_to_henry_dan_81513dd35a2f540_your-analytics-can-only-see_330ee46818.md",
+    "source": "devto",
+    "title": "Your Analytics Can Only See As Far As Your Login Does",
+    "url": "https://dev.to/henry_dan_81513dd35a2f540/your-analytics-can-only-see-as-far-as-your-login-does-332i",
+    "keywords": [
+      "broken tracking integration —",
+      "31z six outbound clicks",
+      "looks exactly like",
+      "tracking code",
+      "user id",
+      "scattered reactions",
+      "edge function",
+      "auth header",
+      "44 %,",
+      "372 carried"
+    ],
+    "summary": "Six outbound clicks out of 1,372 carried a user id. That is 0.44%, and it looks exactly like a broken tracking integration — so I went and read the tracking code, the edge function, the auth header, the proxy. The six were not scattered"
+  },
+  "c97f5c64ee768e4a": {
+    "file": "corpus/devto/dev_to_maru0122_part-1-how-far-can-you-get-by-leaving-it-com_09324a8c66.md",
+    "source": "devto",
+    "title": "Part 1: How Far Can You Get by 'Leaving It Completely to AI'? Building a Chrome Extension to Auto-Save Gemini Chat Logs",
+    "url": "https://dev.to/maru0122/part-1-how-far-can-you-get-by-leaving-it-completely-to-ai-building-a-chrome-extension-to-3h28",
+    "keywords": [
+      "save gemini chat logs",
+      "save gemini chat logs",
+      "part 1",
+      "part 1",
+      "originally published",
+      "chrome extension",
+      "chrome extension",
+      "ai '?",
+      "ai '?",
+      "source"
+    ],
+    "summary": "# Part 1: How Far Can You Get by 'Leaving It Completely to AI'? Building a Chrome Extension to Auto-Save Gemini Chat Logs This article was originally published on e-shikumi-labo."
+  },
+  "8a905b8ff858e48f": {
+    "file": "corpus/devto/dev_to_agentbriefstudio_the-4-part-brief-that-keeps-coding-a_fea9918170.md",
+    "source": "devto",
+    "title": "The 4-part brief that keeps coding agents from drifting",
+    "url": "https://dev.to/agentbriefstudio/the-4-part-brief-that-keeps-coding-agents-from-drifting-1lpn",
+    "keywords": [
+      "34z coding agents usually",
+      "keeps coding agents",
+      "keeps coding agents",
+      "task leaves",
+      "part brief",
+      "part brief",
+      "source",
+      "reactions",
+      "news",
+      "incapable"
+    ],
+    "summary": "# The 4-part brief that keeps coding agents from drifting Coding agents usually do not drift because they are incapable. They drift because the task leaves too..."
+  },
+  "51d6b711fbd74188": {
+    "file": "corpus/devto/dev_to_aws-heroes_eventbridge-scheduler-dlqd-my-successful-i_4c63771b56.md",
+    "source": "devto",
+    "title": "EventBridge Scheduler DLQ'd My Successful Invokes",
+    "url": "https://dev.to/aws-heroes/eventbridge-scheduler-dlqd-my-successful-invokes-4fhh",
+    "keywords": [
+      "eventbridge scheduler dlq",
+      "eventbridge scheduler dlq",
+      "successful invokes",
+      "successful invokes",
+      "post ended",
+      "job searching",
+      "ai agent",
+      "wrote",
+      "source",
+      "reactions"
+    ],
+    "summary": "# EventBridge Scheduler DLQ'd My Successful Invokes A while back I wrote about letting an AI agent do your job searching. That post ended with a quirk I..."
+  },
+  "dfe9843e22ef1d21": {
+    "file": "corpus/devto/dev_to_ndcodes_jollof-a-love-letter-one-pot-zero-photographs_c721850c2e.md",
+    "source": "devto",
+    "title": "JOLLOF, A Love Letter. One Pot, Zero Photographs, All CSS",
+    "url": "https://dev.to/ndcodes/jollof-a-love-letter-one-pot-zero-photographs-all-css-4b8i",
+    "keywords": [
+      "comfort food edition",
+      "zero photographs",
+      "zero photographs",
+      "perfect landing",
+      "one pot",
+      "one pot",
+      "love letter",
+      "love letter",
+      "frontend challenge",
+      "submission"
+    ],
+    "summary": "# JOLLOF, A Love Letter. One Pot, Zero Photographs, All CSS This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I..."
+  },
+  "dd3f8f7f36f8aca4": {
+    "file": "corpus/devto/dev_to_edmundsparrow_every-generation-thinks-the-next-one-ha_ad56dc9ab4.md",
+    "source": "devto",
+    "title": "Every Generation Thinks the Next One Has It Easy 💃💃 💃",
+    "url": "https://dev.to/edmundsparrow/every-generation-thinks-the-next-one-has-it-easy-42ke",
+    "keywords": [
+      "enjoy movies even ...",
+      "every generation thinks",
+      "every generation thinks",
+      "easy 💃💃 💃",
+      "easy 💃💃 💃",
+      "watch movies",
+      "next one",
+      "next one",
+      "wrong"
+    ],
+    "summary": "# Every Generation Thinks the Next One Has It Easy 💃💃 💃 Is It Wrong to Watch Movies, Cartoons, or Sci-Fi? We enjoy movies even..."
+  },
+  "3a3247a6baed3146": {
+    "file": "corpus/hackernews/www_dailymail_com_news_article-16021741_flee-Americans-nine-_3d219fb2c0.md",
+    "source": "hackernews",
+    "title": "Get ready to flee, Americans in ten countries warned",
+    "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
+    "keywords": [
+      "ten countries warned",
+      "ten countries warned",
+      "get ready",
+      "get ready",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "flee",
+      "flee"
+    ],
+    "summary": "# Get ready to flee, Americans in ten countries warned > Source: hackernews | Category: news | 2026-08-01T20:27:28Z Score: 5 | Comments: 4"
+  },
+  "557b727bde2397ea": {
+    "file": "corpus/hackernews/openrss_org_blog_how-google-helped-destroy-adoption-of-rss-f_38813d9176.md",
+    "source": "hackernews",
+    "title": "How Google helped destroy adoption of RSS feeds (2023)",
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "keywords": [
+      "google helped destroy adoption",
+      "google helped destroy adoption",
+      "rss feeds",
+      "rss feeds",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How Google helped destroy adoption of RSS feeds (2023) > Source: hackernews | Category: news | 2026-08-01T20:27:24Z Score: 35 | Comments: 7"
+  },
+  "1ff3a06360e2af30": {
+    "file": "corpus/hackernews/radionavlab_ae_utexas_edu_wp-content_uploads_starlink_struct_5c4fc5ea4c.md",
+    "source": "hackernews",
+    "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
+    "url": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+    "keywords": [
+      "starlink ku",
+      "starlink ku",
+      "signal structure",
+      "signal structure",
+      "band downlink",
+      "band downlink",
+      "25z score",
+      "source",
+      "pdf",
+      "pdf"
+    ],
+    "summary": "# Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf] > Source: hackernews | Category: news | 2026-08-01T20:27:25Z Score: 5 | Comments: 0"
+  },
+  "3de21b29a00accda": {
+    "file": "corpus/hackernews/raymii_org_s_articles_But_can_your_calculator_run_Linux_html_b679a885b9.md",
+    "source": "hackernews",
+    "title": "But can your calculator run Linux?",
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "keywords": [
+      "calculator run linux",
+      "calculator run linux",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# But can your calculator run Linux? > Source: hackernews | Category: news | 2026-08-01T20:27:24Z Score: 9 | Comments: 0"
+  },
+  "d4d5d08870e85529": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Fermi_paradox_7a5cf59404.md",
+    "source": "hackernews",
+    "title": "Fermi Paradox",
+    "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
+    "keywords": [
+      "fermi paradox",
+      "fermi paradox",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Fermi Paradox > Source: hackernews | Category: news | 2026-08-01T20:27:28Z Score: 10 | Comments: 2"
+  },
+  "c9119a2a60dc1ce2": {
+    "file": "corpus/hackernews/censys_com_blog_cisa-alert-water-tower-plc-targeting_8d9d7f877d.md",
+    "source": "hackernews",
+    "title": "CISA Alert: Water Sector PLC Targeting",
+    "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+    "keywords": [
+      "water sector plc targeting",
+      "water sector plc targeting",
+      "cisa alert",
+      "cisa alert",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# CISA Alert: Water Sector PLC Targeting > Source: hackernews | Category: news | 2026-08-01T20:27:26Z Score: 5 | Comments: 0"
+  },
+  "2767d7aa7c5a2983": {
+    "file": "corpus/hackernews/elgan_com_google-news-is-just-forrest-gumps-shrimp-boat-now_41b14a1b6f.md",
+    "source": "hackernews",
+    "title": "Google News is just Forrest Gump's shrimp boat now",
+    "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+    "keywords": [
+      "shrimp boat",
+      "shrimp boat",
+      "forrest gump",
+      "forrest gump",
+      "24z score",
+      "google news",
+      "google news",
+      "news",
+      "source",
+      "hackernews"
+    ],
+    "summary": "# Google News is just Forrest Gump's shrimp boat now > Source: hackernews | Category: news | 2026-08-01T20:27:24Z Score: 79 | Comments: 46"
+  },
+  "4843af409629ad21": {
+    "file": "corpus/hackernews/thezvi_substack_com_p_ai-179-part-2-hearing-the-fire-alarm_6568ce012c.md",
+    "source": "hackernews",
+    "title": "AI #179 Part 2: Hearing the Fire Alarm",
+    "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+    "keywords": [
+      "179 part 2",
+      "179 part 2",
+      "fire alarm",
+      "fire alarm",
+      "30z score",
+      "source",
+      "news",
+      "hearing",
+      "hearing",
+      "hackernews"
+    ],
+    "summary": "# AI #179 Part 2: Hearing the Fire Alarm > Source: hackernews | Category: news | 2026-08-01T20:27:30Z Score: 3 | Comments: 0"
+  },
+  "0f8bac3a6a177d71": {
+    "file": "corpus/hackernews/www_bleepingcomputer_com_news_security_rails-patches-critica_e64f30381c.md",
+    "source": "hackernews",
+    "title": "Rails patches critical Active Storage flaw with RCE potential",
+    "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "keywords": [
+      "rce potential",
+      "rce potential",
+      "30z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Rails patches critical Active Storage flaw with RCE potential > Source: hackernews | Category: news | 2026-08-01T20:27:30Z Score: 4 | Comments: 0"
+  },
+  "6aa1f54f627653a1": {
+    "file": "corpus/hackernews/www_theguardian_com_uk-news_2026_aug_01_neil-hopper-surgeon-_9cd0a4c217.md",
+    "source": "hackernews",
+    "title": "Top amputation surgeon had own legs removed due to fetish. Were patients safe?",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions",
+    "keywords": [
+      "top amputation surgeon",
+      "top amputation surgeon",
+      "legs removed due",
+      "legs removed due",
+      "patients safe",
+      "patients safe",
+      "28z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Top amputation surgeon had own legs removed due to fetish. Were patients safe? > Source: hackernews | Category: news | 2026-08-01T20:27:28Z"
   }
 }
