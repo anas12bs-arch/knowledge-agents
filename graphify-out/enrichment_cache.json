@@ -340870,5 +340870,416 @@
       "senior pms"
     ],
     "summary": "# [lennys] This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot) This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot) Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure"
+  },
+  "05f2dd738177bcc2": {
+    "file": "corpus/devto/dev_to_nissanboss_i-built-a-programming-language-with-no-sym_395a8a97b3.md",
+    "source": "devto",
+    "title": "I built a programming language with no symbols, and the hardest part was the word 'and",
+    "url": "https://dev.to/nissanboss/i-built-a-programming-language-with-no-symbols-and-the-hardest-part-was-the-word-and-3ioh",
+    "keywords": [
+      "kept watching people around",
+      "programming language",
+      "programming language",
+      "learn programming",
+      "hardest part",
+      "hardest part",
+      "word",
+      "word",
+      "try",
+      "symbols"
+    ],
+    "summary": "# I built a programming language with no symbols, and the hardest part was the word \"and\" > Source: devto | Category: news | 2026-08-02T14:13:29Z I'm Spanish, and I kept watching people around me try to learn programming and give up."
+  },
+  "0f81e1af1090c787": {
+    "file": "corpus/devto/dev_to_anirudh_shivam_under-the-hood-of-jobradar-8-job-sourc_c695307747.md",
+    "source": "devto",
+    "title": "Under the Hood of JobRadar: 8 Job Sources, a 1.7B Model, Zero Cloud",
+    "url": "https://dev.to/anirudh_shivam/under-the-hood-of-jobradar-8-job-sources-a-17b-model-zero-cloud-3gne",
+    "keywords": [
+      "open six boards",
+      "8 job sources",
+      "8 job sources",
+      "30z job searching",
+      "zero cloud",
+      "zero cloud",
+      "tab hell",
+      "7b model",
+      "7b model",
+      "source"
+    ],
+    "summary": "# Under the Hood of JobRadar: 8 Job Sources, a 1.7B Model, Zero Cloud Job searching is tab hell. You open six boards, re-read the same listings, and pay $30/month for..."
+  },
+  "85e634ab2cb57927": {
+    "file": "corpus/devto/dev_to_majin-dev_java-references-vs-values-the-mistake-that-_f18d015718.md",
+    "source": "devto",
+    "title": "Java References vs Values: The Mistake That Confused Me",
+    "url": "https://dev.to/majin-dev/java-references-vs-values-the-mistake-that-confused-me-a46",
+    "keywords": [
+      "java references vs values",
+      "java references vs values",
+      "started learning object",
+      "oriented programming",
+      "java",
+      "wall",
+      "think",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Java References vs Values: The Mistake That Confused Me > Source: devto | Category: news | 2026-08-02T14:13:29Z When I started learning object-oriented programming in Java, I hit a wall that I think a lot of..."
+  },
+  "50a1b9e47c806f54": {
+    "file": "corpus/devto/dev_to_atieno_thedvev_what-really-happens-when-you-hit-run-l_e06052bf49.md",
+    "source": "devto",
+    "title": "What Really Happens When You Hit 'Run'? Lessons from the Compilers & Interpreters Mini Conference",
+    "url": "https://dev.to/atieno_thedvev/what-really-happens-when-you-hit-run-lessons-from-the-compilers-interpreters-mini-conference-m8h",
+    "keywords": [
+      "interpreters mini conference",
+      "interpreters mini conference",
+      "run '?",
+      "run \"?",
+      "really happens",
+      "really happens",
+      "programs ...",
+      "hit run",
+      "hit",
+      "hit"
+    ],
+    "summary": "# What Really Happens When You Hit \"Run\"? As developers, we spend countless hours writing code. We type, save, hit Run, and expect our programs..."
+  },
+  "245a152016f6ad1d": {
+    "file": "corpus/devto/dev_to_zulwatha_i-got-tired-of-running-redis-for-one-backgro_fa6920f7bf.md",
+    "source": "devto",
+    "title": "I got tired of running Redis for one background job, so I built a SQLite job queue",
+    "url": "https://dev.to/zulwatha/i-got-tired-of-running-redis-for-one-background-job-so-i-built-a-sqlite-job-queue-4flk",
+    "keywords": [
+      "30z every side project",
+      "sqlite job queue",
+      "sqlite job queue",
+      "one background job",
+      "one background job",
+      "running redis",
+      "running redis",
+      "got tired",
+      "got tired",
+      "years"
+    ],
+    "summary": "# I got tired of running Redis for one background job, so I built a SQLite job queue > Source: devto | Category: news | 2026-08-02T14:13:30Z Every side project I've shipped in the last few years has hit the same wall at roughly the same..."
+  },
+  "4859c1d7041bbacc": {
+    "file": "corpus/devto/dev_to_vitaly_pavlenko_71b14d120_spaced-repetition-under-the_e3bf98e8db.md",
+    "source": "devto",
+    "title": "Spaced Repetition Under the Hood: How We Decide When to Show a Word Again",
+    "url": "https://dev.to/vitaly_pavlenko_71b14d120/spaced-repetition-under-the-hood-how-we-decide-when-to-show-a-word-again-2g5b",
+    "keywords": [
+      "vocabulary app",
+      "spaced repetition",
+      "spaced repetition",
+      "scheduler inside",
+      "build vibeling",
+      "20z disclosure",
+      "word",
+      "word",
+      "source"
+    ],
+    "summary": "# Spaced Repetition Under the Hood: How We Decide When to Show a Word Again Disclosure: I build VibeLing, a vocabulary app. This post is about the scheduler inside it — what it..."
+  },
+  "5037c9b8d45b5c1f": {
+    "file": "corpus/devto/dev_to_olund_an-agent-that-remembers-everything-is-a-secret-_f049718925.md",
+    "source": "devto",
+    "title": "An agent that remembers everything is a secret leak with a good memory",
+    "url": "https://dev.to/olund/an-agent-that-remembers-everything-is-a-secret-leak-with-a-good-memory-2ncj",
+    "keywords": [
+      "dangerous ones get pasted",
+      "memory writes everything",
+      "remembers everything",
+      "remembers everything",
+      "good memory",
+      "good memory",
+      "vault protects",
+      "secret leak",
+      "secret leak",
+      "source"
+    ],
+    "summary": "# An agent that remembers everything is a secret leak with a good memory > Source: devto | Category: news | 2026-08-02T14:13:21Z The dangerous ones get pasted into conversations, and my agent's memory writes everything to disk."
+  },
+  "13de659f72e2b108": {
+    "file": "corpus/devto/dev_to_basquiat_how-to-make-sprite-sheets-4bi1_969039bbce.md",
+    "source": "devto",
+    "title": "Sprite Sheets 101: A Practical Guide for Indie 2D Game Devs",
+    "url": "https://dev.to/basquiat/how-to-make-sprite-sheets-4bi1",
+    "keywords": [
+      "indie 2d game devs",
+      "indie 2d game devs",
+      "2d game started clean",
+      "sprite sheets 101",
+      "sprite sheets 101",
+      "practical guide",
+      "practical guide",
+      "fast forward",
+      "28z picture",
+      "sprites"
+    ],
+    "summary": "# Sprite Sheets 101: A Practical Guide for Indie 2D Game Devs Picture this: your 2D game started clean, a few sprites here and there. Fast forward a few months and..."
+  },
+  "ee659662bebebf61": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-21-the-ai-thought-p-was-still-a_9fd07caf81.md",
+    "source": "devto",
+    "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
+    "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
+    "keywords": [
+      "ai thought p",
+      "ai thought p",
+      "still alive",
+      "still alive",
+      "already gone",
+      "already gone",
+      "36 ...",
+      "20z keep"
+    ],
+    "summary": "# Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone. The ally doesn't suspect; the enemy doesn't move."
+  },
+  "14f1e5d82d5e56e0": {
+    "file": "corpus/devto/dev_to_antako_one-contract-any-format-zero-mapping-293c_d02f22abea.md",
+    "source": "devto",
+    "title": "One contract. Any format. Zero mapping",
+    "url": "https://dev.to/antako/one-contract-any-format-zero-mapping-293c",
+    "keywords": [
+      "c ++ project",
+      "one schema instead",
+      "one contract",
+      "one contract",
+      "zero mapping",
+      "zero mapping",
+      "stay ...",
+      "n ×",
+      "30z contract",
+      "source"
+    ],
+    "summary": "Zero mapping > Source: devto | Category: news | 2026-08-02T14:13:30Z CONTRACT: One Schema Instead of N×M Serializers   Any C++ project where data doesn't stay..."
+  },
+  "40219294c2111131": {
+    "file": "corpus/devto/dev_to_edulazaro_localized-routes-un-laravel-with-laralang-4_9663ca15ff.md",
+    "source": "devto",
+    "title": "Localized routes in Laravel with Laralang",
+    "url": "https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o",
+    "keywords": [
+      "different one ....",
+      "allowing localized urls",
+      "one problem",
+      "localized routes",
+      "localized routes",
+      "30z translating",
+      "laravel app",
+      "laravel",
+      "laravel",
+      "text"
+    ],
+    "summary": "# Localized routes in Laravel with Laralang > Source: devto | Category: news | 2026-08-02T14:13:30Z Translating the text in a Laravel app is one problem, and allowing localized URLs is a different one...."
+  },
+  "723ce6ef83a345e4": {
+    "file": "corpus/devto/dev_to_bkniffler_offline-reads-are-easy-durable-offline-writ_2cc4d0eea6.md",
+    "source": "devto",
+    "title": "Offline reads are easy. Durable offline writes are the hard part.",
+    "url": "https://dev.to/bkniffler/offline-reads-are-easy-durable-offline-writes-are-the-hard-part-202k",
+    "keywords": [
+      "durable offline writes",
+      "durable offline writes",
+      "offline reads",
+      "offline reads",
+      "sync taught",
+      "hard part",
+      "hard part",
+      "first architecture",
+      "offline",
+      "years"
+    ],
+    "summary": "# Offline reads are easy. Durable offline writes are the hard part. What years of experimenting with sync taught me about outboxes, authority, conflicts, recovery, and offline-first architecture."
+  },
+  "c86c402d3b76f317": {
+    "file": "corpus/hackernews/playboy_substack_com_p_has-the-new-cocaine-finally-arrived_34d5288775.md",
+    "source": "hackernews",
+    "title": "Has the New Cocaine Arrived?",
+    "url": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+    "keywords": [
+      "new cocaine arrived",
+      "new cocaine arrived",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Has the New Cocaine Arrived? > Source: hackernews | Category: news | 2026-08-02T14:13:16Z Score: 49 | Comments: 41"
+  },
+  "dd8ecfee54de3538": {
+    "file": "corpus/hackernews/foldingglobes_com_globes_b24ce2c974.md",
+    "source": "hackernews",
+    "title": "Folding Paper Globes",
+    "url": "https://foldingglobes.com/globes",
+    "keywords": [
+      "folding paper globes",
+      "folding paper globes",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Folding Paper Globes > Source: hackernews | Category: news | 2026-08-02T14:13:14Z Score: 8 | Comments: 0"
+  },
+  "a3eff830f92c2512": {
+    "file": "corpus/hackernews/blog_rust-lang_org_inside-rust_2026_07_31_all-hands-2026-ret_eb1bf04e3a.md",
+    "source": "hackernews",
+    "title": "(Rust) All-Hands 2026 Retrospective",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+    "keywords": [
+      "hands 2026 retrospective",
+      "hands 2026 retrospective",
+      "18z score",
+      "2026",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# (Rust) All-Hands 2026 Retrospective > Source: hackernews | Category: news | 2026-08-02T14:13:18Z Score: 5 | Comments: 0"
+  },
+  "6e686641ea15b205": {
+    "file": "corpus/hackernews/www_riscosopen_org_news_articles_2026_06_20_twenty-years-of-_5d3b40996d.md",
+    "source": "hackernews",
+    "title": "Twenty Years of RISC OS Open",
+    "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "keywords": [
+      "risc os open",
+      "risc os open",
+      "twenty years",
+      "twenty years",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Twenty Years of RISC OS Open > Source: hackernews | Category: news | 2026-08-02T14:13:10Z Score: 42 | Comments: 5"
+  },
+  "f0c0bd0e805593cd": {
+    "file": "corpus/hackernews/sebsite_pw_w_20260802-sizeof_html_be86c29d4f.md",
+    "source": "hackernews",
+    "title": "Sizeof is surprisingly difficult to parse in C",
+    "url": "https://sebsite.pw/w/20260802-sizeof.html",
+    "keywords": [
+      "surprisingly difficult",
+      "surprisingly difficult",
+      "17z score",
+      "source",
+      "sizeof",
+      "sizeof",
+      "parse",
+      "parse",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Sizeof is surprisingly difficult to parse in C > Source: hackernews | Category: news | 2026-08-02T14:13:17Z Score: 16 | Comments: 0"
+  },
+  "11da0332282f5e46": {
+    "file": "corpus/hackernews/bankstatementconverter_com_blog_posts_2026-08-02-why-are-all_4eb3c82884.md",
+    "source": "hackernews",
+    "title": "Why are all the amounts values negative?",
+    "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
+    "keywords": [
+      "amounts values negative",
+      "amounts values negative",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Why are all the amounts values negative? > Source: hackernews | Category: news | 2026-08-02T14:13:19Z Score: 9 | Comments: 0"
+  },
+  "1cc639d2ed232696": {
+    "file": "corpus/hackernews/fstar-lang_org_50a41de829.md",
+    "source": "hackernews",
+    "title": "F*: A general-purpose proof-oriented programming language",
+    "url": "https://fstar-lang.org/",
+    "keywords": [
+      "oriented programming language",
+      "oriented programming language",
+      "purpose proof",
+      "purpose proof",
+      "f *:",
+      "f *:",
+      "12z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# F*: A general-purpose proof-oriented programming language > Source: hackernews | Category: news | 2026-08-02T14:13:12Z Score: 6 | Comments: 1"
+  },
+  "90b81547d9065d92": {
+    "file": "corpus/hackernews/github_com_nyvexis1_temporize_a376c094be.md",
+    "source": "hackernews",
+    "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+    "url": "https://github.com/nyvexis1/temporize",
+    "keywords": [
+      "throttle library",
+      "throttle library",
+      "aware debounce",
+      "aware debounce",
+      "16z score",
+      "typescript",
+      "typescript",
+      "source",
+      "promise",
+      "promise"
+    ],
+    "summary": "# I made a Promise-aware debounce and throttle library for TypeScript > Source: hackernews | Category: news | 2026-08-02T14:13:16Z Score: 5 | Comments: 0"
+  },
+  "6c08b37f7c0d77e2": {
+    "file": "corpus/hackernews/www_theregister_com_storage_2026_07_30_gpus-could-explode-to_98996aa9bb.md",
+    "source": "hackernews",
+    "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
+    "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
+    "keywords": [
+      "inspired memory tech",
+      "inspired memory tech",
+      "gpus could explode",
+      "gpus could explode",
+      "new storage",
+      "new storage",
+      "multiple tb",
+      "multiple tb",
+      "19z score",
+      "source"
+    ],
+    "summary": "# GPUs could explode to multiple TB with new storage-inspired memory tech > Source: hackernews | Category: news | 2026-08-02T14:13:19Z Score: 9 | Comments: 3"
+  },
+  "9ae6e1ec723ca34b": {
+    "file": "corpus/sales/www_saastr_com_the-ai-board-member-why-yours-should-chair-th_86285e1ae7.md",
+    "source": "sales",
+    "title": "[saastr] The AI Board Member: Should Yours Should “Chair” the Next Meeting? At Least Conceptually",
+    "url": "https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/",
+    "keywords": [
+      "vcs made generic comments",
+      "3 hour board meeting",
+      "ai board member",
+      "ai board member",
+      "ai board member",
+      "“ chair ”",
+      "“ chair ”",
+      "“ chair ”",
+      "sounded directionally correct",
+      "first 2 hours"
+    ],
+    "summary": "I just got out of a 3 hour board meeting where the first 2 hours were an almost total waste of time. 5 busy executives reviewed 30 slides that no one really had read ahead of time. And then a bunch of VCs made generic comments that sounded directionally correct but in the end were...   Continue Reading"
   }
 }
