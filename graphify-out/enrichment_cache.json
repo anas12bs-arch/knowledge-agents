@@ -339559,5 +339559,269 @@
       "2026"
     ],
     "summary": "# A Uiua Type System (2025) > Source: hackernews | Category: news | 2026-08-02T06:22:52Z Score: 10 | Comments: 1"
+  },
+  "e35991deb8beb078": {
+    "file": "corpus/devto/dev_to_ssukhpinder_the-factory-class-i-finally-deleted-3oap_b567ad4852.md",
+    "source": "devto",
+    "title": "The Factory Class I Finally Deleted",
+    "url": "https://dev.to/ssukhpinder/the-factory-class-i-finally-deleted-3oap",
+    "keywords": [
+      "key exception never names",
+      "rolled notification factory",
+      "factory class",
+      "factory class",
+      "finally deleted",
+      "finally deleted",
+      "key",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The Factory Class I Finally Deleted > Source: devto | Category: news | 2026-08-02T08:41:11Z Keyed DI services let me delete the hand-rolled notification factory: the before/after, plus two gotchas — keyed registrations vanish from IEnumerable<T>, and the missing-key exception never names the key."
+  },
+  "a48e30ea2fa24bc3": {
+    "file": "corpus/devto/dev_to_zugodev_our-ai-builder-said-done-when-the-output-matc_481e602e74.md",
+    "source": "devto",
+    "title": "Our AI builder said 'done' when the output matched a regex",
+    "url": "https://dev.to/zugodev/our-ai-builder-said-done-when-the-output-matched-a-regex-agi",
+    "keywords": [
+      "turns one written sentence",
+      "ai builder said",
+      "ai builder said",
+      "running game",
+      "output matched",
+      "output matched",
+      "build zugo",
+      "source",
+      "site",
+      "regex"
+    ],
+    "summary": "# Our AI builder said \"done\" when the output matched a regex We build Zugo, which turns one written sentence into a running game, site or app. For a while, the..."
+  },
+  "6c0388af5dd30187": {
+    "file": "corpus/devto/dev_to_karthik_n_ammas-kitchen-a-love-letter-to-south-indian_9cb92fac7a.md",
+    "source": "devto",
+    "title": "Amma's Kitchen — A Love Letter to South Indian Comfort Food 🍛",
+    "url": "https://dev.to/karthik_n/ammas-kitchen-a-love-letter-to-south-indian-comfort-food-2g7g",
+    "keywords": [
+      "comfort food edition",
+      "perfect landing",
+      "love letter",
+      "love letter",
+      "kitchen —",
+      "kitchen —",
+      "frontend challenge",
+      "submission",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Amma's Kitchen — A Love Letter to South Indian Comfort Food 🍛 > Source: devto | Category: news | 2026-08-02T08:41:11Z This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I..."
+  },
+  "be35f575be9c1832": {
+    "file": "corpus/devto/dev_to_ofri-peretz_nobody-writes-bad-crypto-they-write-corre_6e1c08e8a8.md",
+    "source": "devto",
+    "title": "Nobody Writes Bad Crypto. They Write Correct Crypto at Four Layers.",
+    "url": "https://dev.to/ofri-peretz/nobody-writes-bad-crypto-they-write-correct-crypto-at-four-layers-2noa",
+    "keywords": [
+      "nobody writes bad crypto",
+      "nobody writes bad crypto",
+      "write correct crypto",
+      "write correct crypto",
+      "10z crypto failures",
+      "one mistake repeated",
+      "one looks fine",
+      "four distinct layers",
+      "four layers",
+      "four layers"
+    ],
+    "summary": "They Write Correct Crypto at Four Layers. Crypto failures are not one mistake repeated. They are four distinct layers of correctness, and each one looks fine from the layer above it."
+  },
+  "f04ac32649b4c960": {
+    "file": "corpus/devto/dev_to_royalpinto007_i-built-agentrace-to-catch-the-subagent_031e769b1b.md",
+    "source": "devto",
+    "title": "I built agentrace to catch the subagent runs I should not trust",
+    "url": "https://dev.to/royalpinto007/i-built-agentrace-to-catch-the-subagent-runs-i-should-not-trust-1kmn",
+    "keywords": [
+      "subagent runs",
+      "subagent runs",
+      "instrumentation cli",
+      "built agentrace",
+      "built agentrace",
+      "agent results",
+      "zero",
+      "trust",
+      "trust",
+      "source"
+    ],
+    "summary": "# I built agentrace to catch the subagent runs I should not trust > Source: devto | Category: news | 2026-08-02T08:41:10Z A zero-instrumentation CLI that reads Claude Code session transcripts and flags the agent results that need a human before you act on them."
+  },
+  "48f99c917065f3c4": {
+    "file": "corpus/devto/dev_to_iyanuoluwa007_i-built-a-bsl-translation-extension-tha_b62697b69f.md",
+    "source": "devto",
+    "title": "I Built a BSL Translation Extension That Nobody Asked For. Here Is Why I Did It Anyway.",
+    "url": "https://dev.to/iyanuoluwa007/i-built-a-bsl-translation-extension-that-nobody-asked-for-here-is-why-i-did-it-anyway-4fk9",
+    "keywords": [
+      "10z late last year",
+      "started building something",
+      "job description attached",
+      "bsl translation extension",
+      "bsl translation extension",
+      "nobody asked",
+      "nobody asked",
+      "business ...",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I Built a BSL Translation Extension That Nobody Asked For. Here Is Why I Did It Anyway. Late last year I started building something that had no job description attached to it, no business..."
+  },
+  "303e12f697600cb6": {
+    "file": "corpus/devto/dev_to_takeaseatventure_your-cron-expression-can-be-valid-an_c5dbe733d5.md",
+    "source": "devto",
+    "title": "Your cron expression can be valid and still never run",
+    "url": "https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg",
+    "keywords": [
+      "still never run",
+      "still never run",
+      "practical semantic checklist",
+      "catching impossible dates",
+      "synchronized cron workloads",
+      "cron expression",
+      "cron expression",
+      "uneven steps",
+      "field ambiguity",
+      "valid"
+    ],
+    "summary": "# Your cron expression can be valid and still never run > Source: devto | Category: news | 2026-08-02T08:41:11Z A practical semantic checklist for catching impossible dates, day-field ambiguity, uneven steps, and synchronized cron workloads before deployment."
+  },
+  "08baf12e127a0807": {
+    "file": "corpus/hackernews/soundtonegenerator_com_2001641c37.md",
+    "source": "hackernews",
+    "title": "Show HN: Tone Generator",
+    "url": "https://soundtonegenerator.com/",
+    "keywords": [
+      "tone generator",
+      "tone generator",
+      "show hn",
+      "show hn",
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Tone Generator > Source: hackernews | Category: news | 2026-08-02T08:41:03Z Score: 6 | Comments: 1"
+  },
+  "e5cbb6eac9496ea4": {
+    "file": "corpus/hackernews/sinusoft_com_loganbasic_723958dab5.md",
+    "source": "hackernews",
+    "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
+    "url": "https://sinusoft.com/loganbasic/",
+    "keywords": [
+      "online basic interpreter",
+      "online basic interpreter",
+      "logan basic v2",
+      "logan basic v2",
+      "show hn",
+      "show hn",
+      "04z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: Logan Basic v2.1 - An online BASIC interpreter. > Source: hackernews | Category: news | 2026-08-02T08:41:04Z Score: 3 | Comments: 3"
+  },
+  "696225658225c139": {
+    "file": "corpus/hackernews/en_andros_dev_blog_af3ee191_why-i-dont-recommend-tailwind-cs_f7389b34d8.md",
+    "source": "hackernews",
+    "title": "I don't recommend Tailwind CSS",
+    "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+    "keywords": [
+      "recommend tailwind css",
+      "recommend tailwind css",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I don't recommend Tailwind CSS > Source: hackernews | Category: news | 2026-08-02T08:41:02Z Score: 23 | Comments: 14"
+  },
+  "1850df2097e9f575": {
+    "file": "corpus/hackernews/www_openhomefoundation_org_blog_a-big-win-for-android-intero_b77406508b.md",
+    "source": "hackernews",
+    "title": "A big win for Android interoperability",
+    "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+    "keywords": [
+      "big win",
+      "big win",
+      "android interoperability",
+      "android interoperability",
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A big win for Android interoperability > Source: hackernews | Category: news | 2026-08-02T08:41:03Z Score: 44 | Comments: 5"
+  },
+  "8fe29ef762e0a987": {
+    "file": "corpus/hackernews/www_theintrinsicperspective_com_p_nerd-culture-is-murdering-_68a81d86ef.md",
+    "source": "hackernews",
+    "title": "Nerd culture is murdering intellectuals",
+    "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+    "keywords": [
+      "nerd culture",
+      "nerd culture",
+      "murdering intellectuals",
+      "murdering intellectuals",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Nerd culture is murdering intellectuals > Source: hackernews | Category: news | 2026-08-02T08:41:05Z Score: 11 | Comments: 8"
+  },
+  "ee73a90e28e2576d": {
+    "file": "corpus/hackernews/elenajs_com_451d791bd7.md",
+    "source": "hackernews",
+    "title": "Elena, a library for building Progressive Web Components",
+    "url": "https://elenajs.com/",
+    "keywords": [
+      "building progressive web components",
+      "building progressive web components",
+      "05z score",
+      "source",
+      "news",
+      "library",
+      "library",
+      "hackernews",
+      "elena",
+      "elena"
+    ],
+    "summary": "# Elena, a library for building Progressive Web Components > Source: hackernews | Category: news | 2026-08-02T08:41:05Z Score: 27 | Comments: 1"
+  },
+  "6943d122a58268c9": {
+    "file": "corpus/hackernews/github_com_trycompai_crm_b110e14124.md",
+    "source": "hackernews",
+    "title": "CRM: An open-source, agentic-first CRM",
+    "url": "https://github.com/trycompai/crm",
+    "keywords": [
+      "03z score",
+      "first crm",
+      "first crm",
+      "crm",
+      "crm",
+      "source",
+      "source",
+      "source",
+      "open",
+      "open"
+    ],
+    "summary": "# CRM: An open-source, agentic-first CRM > Source: hackernews | Category: news | 2026-08-02T08:41:03Z Score: 8 | Comments: 2"
   }
 }
