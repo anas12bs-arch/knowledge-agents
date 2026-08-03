@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable"
+url: "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-08-03T11:21:11Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable
+
+> Source: security | Category: security | 2026-08-03T11:21:11Z
+
+Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable
+
+Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.
+
+The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented.
+
+Thermo Fisher tracks the issue as CVE-2026-17583 and rates it
