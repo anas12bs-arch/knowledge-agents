@@ -343365,5 +343365,251 @@
       "multimorbidity"
     ],
     "summary": "# Negative social ties as risks for faster aging, inflammation, and multimorbidity > Source: hackernews | Category: news | 2026-08-02T23:24:58Z Score: 5 | Comments: 1"
+  },
+  "fd32fb39d761c3a4": {
+    "file": "corpus/devto/dev_to_arcker_943-bytes-that-answer-http-2f3f_38bd15ed45.md",
+    "source": "devto",
+    "title": "943 bytes that answer HTTP",
+    "url": "https://dev.to/arcker/943-bytes-that-answer-http-2f3f",
+    "keywords": [
+      "carrying language whose compiler",
+      "log line must never",
+      "whole syscall chain",
+      "single atomic writev",
+      "emits http servers",
+      "access log",
+      "answer http",
+      "answer http",
+      "small proof",
+      "byte elf"
+    ],
+    "summary": "Verbose is a small proof-carrying language whose compiler is written in itself. It now emits HTTP servers: a 943-byte ELF that opens a socket, parses the request, routes on method and path, and writes its access log in a single atomic writev. Here is the whole syscall chain, end to end — and why a log line must never be splittable in two."
+  },
+  "143a196d66b41e80": {
+    "file": "corpus/hackernews/www_ohiostatefair_com_p_get-involved_arts_poster-contest_82db3c9b40.md",
+    "source": "hackernews",
+    "title": "AI poster wins Ohio State Fair contest",
+    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+    "keywords": [
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "116",
+      "101"
+    ],
+    "summary": "# AI poster wins Ohio State Fair contest > Source: hackernews | Category: news | 2026-08-03T01:01:17Z Score: 101 | Comments: 116"
+  },
+  "5ab287743f0d0a4c": {
+    "file": "corpus/hackernews/www_andreagrandi_it_posts_why-book-corners-wont-sync-contrib_8b89f65f05.md",
+    "source": "hackernews",
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "keywords": [
+      "sync contributions back",
+      "sync contributions back",
+      "book corners",
+      "book corners",
+      "13z score",
+      "source",
+      "openstreetmap",
+      "openstreetmap",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why Book Corners won't sync contributions back to OpenStreetMap > Source: hackernews | Category: news | 2026-08-03T01:01:13Z Score: 9 | Comments: 2"
+  },
+  "b1f52e3eed7ebdeb": {
+    "file": "corpus/hackernews/plato_stanford_edu_entries_computational-mind_d3ff0a6788.md",
+    "source": "hackernews",
+    "title": "The Computational Theory of Mind (2015)",
+    "url": "https://plato.stanford.edu/entries/computational-mind/",
+    "keywords": [
+      "computational theory",
+      "computational theory",
+      "13z score",
+      "source",
+      "news",
+      "mind",
+      "mind",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Computational Theory of Mind (2015) > Source: hackernews | Category: news | 2026-08-03T01:01:13Z Score: 23 | Comments: 9"
+  },
+  "bf77bf9bf36833dd": {
+    "file": "corpus/hackernews/github_com_pg83_shitty_b2425a5889.md",
+    "source": "hackernews",
+    "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+    "url": "https://github.com/pg83/shitty",
+    "keywords": [
+      "shitty – fast terminal",
+      "shitty – fast terminal",
+      "show hn",
+      "show hn",
+      "13z score",
+      "unsafe",
+      "unsafe",
+      "source",
+      "news",
+      "memory"
+    ],
+    "summary": "# Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours > Source: hackernews | Category: news | 2026-08-03T01:01:13Z"
+  },
+  "a767d178c20ab078": {
+    "file": "corpus/hackernews/daringfireball_net_linked_2026_08_02_cherny-claude-swift_663cd1d07b.md",
+    "source": "hackernews",
+    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+    "keywords": [
+      "get claude code",
+      "get claude code",
+      "claude app",
+      "claude app",
+      "boris cherny",
+      "boris cherny",
+      "18z score",
+      "trying",
+      "trying",
+      "source"
+    ],
+    "summary": "# Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App > Source: hackernews | Category: news | 2026-08-03T01:01:18Z Score: 4 | Comments: 0"
+  },
+  "551423537618f467": {
+    "file": "corpus/hackernews/www_11971_com_9114290494.md",
+    "source": "hackernews",
+    "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+    "url": "https://www.11971.com/",
+    "keywords": [
+      "flock – chilling effects",
+      "flock – chilling effects",
+      "long island",
+      "long island",
+      "emerging open",
+      "emerging open",
+      "air prison",
+      "air prison",
+      "15z score",
+      "source"
+    ],
+    "summary": "# Flock – Chilling Effects: Long Island's Emerging Open-Air Prison > Source: hackernews | Category: news | 2026-08-03T01:01:15Z Score: 25 | Comments: 3"
+  },
+  "b2c555a3bb6ce730": {
+    "file": "corpus/hackernews/github_com_micro_mu_301d0233c3.md",
+    "source": "hackernews",
+    "title": "Show HN: Mu – Tools for Agents",
+    "url": "https://github.com/micro/mu",
+    "keywords": [
+      "mu – tools",
+      "mu – tools",
+      "show hn",
+      "show hn",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Mu – Tools for Agents > Source: hackernews | Category: news | 2026-08-03T01:01:14Z Score: 23 | Comments: 6"
+  },
+  "17d195d273ecb299": {
+    "file": "corpus/hackernews/www_dw_com_en_how-crypto-miners-are-stealing-power-in-southe_a588e174fb.md",
+    "source": "hackernews",
+    "title": "Crypto miners are stealing power in Southeast Asia",
+    "url": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364",
+    "keywords": [
+      "stealing power",
+      "stealing power",
+      "southeast asia",
+      "southeast asia",
+      "crypto miners",
+      "crypto miners",
+      "18z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Crypto miners are stealing power in Southeast Asia > Source: hackernews | Category: news | 2026-08-03T01:01:18Z Score: 8 | Comments: 0"
+  },
+  "fd7352b522d8264c": {
+    "file": "corpus/hackernews/github_com_mgaitan_pytest-leak-finder_1cc58d3157.md",
+    "source": "hackernews",
+    "title": "A tool for finding the causes of unstable Python tests",
+    "url": "https://github.com/mgaitan/pytest-leak-finder",
+    "keywords": [
+      "unstable python tests",
+      "unstable python tests",
+      "16z score",
+      "tool",
+      "tool",
+      "source",
+      "news",
+      "hackernews",
+      "finding",
+      "finding"
+    ],
+    "summary": "# A tool for finding the causes of unstable Python tests > Source: hackernews | Category: news | 2026-08-03T01:01:16Z Score: 8 | Comments: 0"
+  },
+  "4992a2fb2f8a05f6": {
+    "file": "corpus/hackernews/news_northwestern_edu_stories_2026_07_new-spinning-drone-hid_63bba9041d.md",
+    "source": "hackernews",
+    "title": "New spinning drone hides in plain sight",
+    "url": "https://news.northwestern.edu/stories/2026/07/new-spinning-drone-hides-in-plain-sight",
+    "keywords": [
+      "new spinning drone hides",
+      "new spinning drone hides",
+      "plain sight",
+      "plain sight",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# New spinning drone hides in plain sight > Source: hackernews | Category: news | 2026-08-03T01:01:18Z Score: 10 | Comments: 2"
+  },
+  "37e8aa3e3fe805cf": {
+    "file": "corpus/hackernews/mighil_com_playing-with-georgia_71a8d2a50e.md",
+    "source": "hackernews",
+    "title": "Playing with Georgia",
+    "url": "https://mighil.com/playing-with-georgia",
+    "keywords": [
+      "14z score",
+      "source",
+      "playing",
+      "playing",
+      "news",
+      "hackernews",
+      "georgia",
+      "georgia",
+      "comments",
+      "category"
+    ],
+    "summary": "# Playing with Georgia > Source: hackernews | Category: news | 2026-08-03T01:01:14Z Score: 5 | Comments: 1"
+  },
+  "815bffac5158988f": {
+    "file": "corpus/hackernews/www_vox_com_culture_492604_ai-deepfake-gay-influencers-tikto_463a271330.md",
+    "source": "hackernews",
+    "title": "The diabolical world of convincing AI thirst traps",
+    "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
+    "keywords": [
+      "convincing ai thirst traps",
+      "convincing ai thirst traps",
+      "diabolical world",
+      "diabolical world",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The diabolical world of convincing AI thirst traps > Source: hackernews | Category: news | 2026-08-03T01:01:17Z Score: 11 | Comments: 2"
   }
 }
