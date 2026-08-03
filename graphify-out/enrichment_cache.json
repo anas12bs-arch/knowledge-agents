@@ -348429,5 +348429,718 @@
       "python v2"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-03T18:05:59Z Full Changelog: [v2.52.0...v2.52.1](https://github.com/openai/openai-python/compare/v2.52.0...v2.52.1) * **ci:** pin setup-uv v5 to its underlying commit ([#3560](https://github.com/openai/openai-python/issues/3560)) ([cbdc98b](https://github.com/openai/openai-python/commit/cbdc98b6c1e21df7ee43d13b5de7243c6ed1ee7f))"
+  },
+  "1512a8d0a8664442": {
+    "file": "corpus/youtube/www_youtube_com_shorts_eRDXKAHgqbk_aab7a70f3e.md",
+    "source": "youtube",
+    "title": "[theo] We Need To Get Over Ourselves",
+    "url": "https://www.youtube.com/shorts/eRDXKAHgqbk",
+    "keywords": [
+      "https :// soydev",
+      "awesome edit 🙏",
+      "made us",
+      "keep holding",
+      "back want",
+      "youtube",
+      "video",
+      "video",
+      "theo",
+      "theo"
+    ],
+    "summary": "# [theo] We Need To Get Over Ourselves We Need To Get Over Ourselves AI has made us more productive than ever but we keep holding ourselves back"
+  },
+  "1f94c4864a2cc670": {
+    "file": "corpus/devto/dev_to_liza_18827c15bdd387c4cd9c_why-players-leave-before-yo_5a1777c0a7.md",
+    "source": "devto",
+    "title": "Why players leave before your game starts",
+    "url": "https://dev.to/liza_18827c15bdd387c4cd9c/why-players-leave-before-your-game-starts-457o",
+    "keywords": [
+      "page gets visits",
+      "tempting ...",
+      "players leave",
+      "players leave",
+      "play count",
+      "game starts",
+      "game starts",
+      "game",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why players leave before your game starts Your game is listed on a portal. The play count does not move."
+  },
+  "fdf40b50f20eb6da": {
+    "file": "corpus/devto/dev_to_pycanis_title-suggestion-i-got-offered-a-web3-job-on-_6422de5c09.md",
+    "source": "devto",
+    "title": "I got offered a Web3 job on LinkedIn. The 'codebase' was built to rob me.",
+    "url": "https://dev.to/pycanis/title-suggestion-i-got-offered-a-web3-job-on-linkedin-the-codebase-was-built-to-rob-me-e59",
+    "keywords": [
+      "web3 space",
+      "stranger messaged",
+      "low pressure",
+      "got offered",
+      "got offered",
+      "web3 job",
+      "web3 job",
+      "job",
+      "source",
+      "said"
+    ],
+    "summary": "# I got offered a Web3 job on LinkedIn. The \"codebase\" was built to rob me. Friendly, low pressure, said it..."
+  },
+  "7ba69db1749afa0f": {
+    "file": "corpus/devto/dev_to_mukesh_13_building-airbyte-connectors-that-survive-fl_9e5b4d5956.md",
+    "source": "devto",
+    "title": "Building Airbyte Connectors That Survive Flaky APIs: Cursor Checkpointing for Resilient Incremental Sync",
+    "url": "https://dev.to/mukesh_13/building-airbyte-connectors-that-survive-flaky-apis-cursor-checkpointing-for-resilient-incremental-h52",
+    "keywords": [
+      "survive flaky apis",
+      "survive flaky apis",
+      "resilient incremental sync",
+      "resilient incremental sync",
+      "connector tutorials assume",
+      "building airbyte connectors",
+      "building airbyte connectors",
+      "airbyte custom",
+      "happy path",
+      "cursor checkpointing"
+    ],
+    "summary": "# Building Airbyte Connectors That Survive Flaky APIs: Cursor Checkpointing for Resilient Incremental Sync > Source: devto | Category: news | 2026-08-03T19:50:04Z Most Airbyte custom-connector tutorials assume the happy path: the upstream API always responds,..."
+  },
+  "3f90041cb4e614d5": {
+    "file": "corpus/devto/dev_to_mauvilsa_from-api-client-to-cli-without-writing-a-par_8626f17729.md",
+    "source": "devto",
+    "title": "From API client to CLI, without writing a parser",
+    "url": "https://dev.to/mauvilsa/from-api-client-to-cli-without-writing-a-parser-3h01",
+    "keywords": [
+      "without writing",
+      "without writing",
+      "us write",
+      "http api",
+      "constructor takes",
+      "api client",
+      "api client",
+      "wraps",
+      "things",
+      "source"
+    ],
+    "summary": "# From API client to CLI, without writing a parser > Source: devto | Category: news | 2026-08-03T19:50:04Z At some point most of us write a class that wraps an HTTP API."
+  },
+  "d0cfcf41241b39c8": {
+    "file": "corpus/devto/dev_to_mediblacksand_f0ea36c53fb_deepseek-v4-flash-turned-45_b8f1f24406.md",
+    "source": "devto",
+    "title": "DeepSeek V4 Flash Turned 45 Files Into 0 Bytes, Then Apologized",
+    "url": "https://dev.to/mediblacksand_f0ea36c53fb/deepseek-v4-flash-turned-45-files-into-0-bytes-then-apologized-1kc9",
+    "keywords": [
+      "shift error nine orders",
+      "actual task correctly",
+      "agent finished",
+      "45 files",
+      "0 bytes",
+      "0 bytes",
+      "zeroed",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# DeepSeek V4 Flash Turned 45 Files Into 0 Bytes, Then Apologized > Source: devto | Category: news | 2026-08-03T19:50:04Z An agent finished the actual task correctly, then \"fixed\" a bug that didn't exist and zeroed out 45 files with a bit-shift error nine orders of magnitude off."
+  },
+  "981e329d7b7483ee": {
+    "file": "corpus/devto/dev_to_thewittyswan_i-built-a-cli-that-interviews-me-on-my-o_6912db1108.md",
+    "source": "devto",
+    "title": "I Built a CLI That Interviews Me on My Own Code",
+    "url": "https://dev.to/thewittyswan/i-built-a-cli-that-interviews-me-on-my-own-code-1e3k",
+    "keywords": [
+      "remembered dsa ...",
+      "noticed something strange",
+      "started preparing",
+      "technical interviews",
+      "interviews",
+      "interviews",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# I Built a CLI That Interviews Me on My Own Code > Source: devto | Category: news | 2026-08-03T19:50:04Z When I started preparing for technical interviews, I noticed something strange."
+  },
+  "60733b516596bbf9": {
+    "file": "corpus/devto/dev_to_mickyarun_gartner-says-40-of-apps-will-have-ai-agents_1bad6f2ffe.md",
+    "source": "devto",
+    "title": "Gartner Says 40% of Apps Will Have AI Agents by December. Here's the Plumbing Nobody Puts on the Slide.",
+    "url": "https://dev.to/mickyarun/gartner-says-40-of-apps-will-have-ai-agents-by-december-heres-the-plumbing-nobody-puts-on-the-5196",
+    "keywords": [
+      "number going around dev",
+      "plumbing nobody puts",
+      "plumbing nobody puts",
+      "gartner says 40",
+      "gartner says 40",
+      "gartner says 40",
+      "ai agents",
+      "ai agents",
+      "enterprise apps",
+      "apps"
+    ],
+    "summary": "# Gartner Says 40% of Apps Will Have AI Agents by December. There's a number going around dev.to this week. Gartner says 40% of enterprise apps will ship a..."
+  },
+  "9546c8656d4fb0eb": {
+    "file": "corpus/devto/dev_to_ivanindiv_validar-numeros-de-telefono-en-javascript-p_3d7aabc6c1.md",
+    "source": "devto",
+    "title": "Validar números de teléfono en JavaScript: por qué tu expresión regular está mal",
+    "url": "https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2",
+    "keywords": [
+      "está mal",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026",
+      "03t19"
+    ],
+    "summary": "# Validar números de teléfono en JavaScript: por qué tu expresión regular está mal > Source: devto | Category: news | 2026-08-03T19:50:02Z En corto   Si en tu proyecto hay una expresión regular validando teléfonos, está mal."
+  },
+  "99d68177bb1504ef": {
+    "file": "corpus/devto/dev_to_nicolamastromarino_i-build-llms-for-a-living-heres-wh_7567c0fac3.md",
+    "source": "devto",
+    "title": "I build LLMs for a living. Here's why I wrote a book about slowing down.",
+    "url": "https://dev.to/nicolamastromarino/i-build-llms-for-a-living-heres-why-i-wrote-a-book-about-slowing-down-3196",
+    "keywords": [
+      "make machines think faster",
+      "large language models",
+      "generative ai ...",
+      "work daily",
+      "build llms",
+      "build llms",
+      "wrote",
+      "wrote",
+      "source",
+      "slowing"
+    ],
+    "summary": "Here's why I wrote a book about slowing down. My job is to make machines think faster. I work daily with large language models and generative AI..."
+  },
+  "b9e675a8db243900": {
+    "file": "corpus/devto/dev_to_ferztyle_building-ferctl-top-kubernetes-resource-usag_7b818c34aa.md",
+    "source": "devto",
+    "title": "Building ferctl top: Kubernetes resource usage vs requests and limits",
+    "url": "https://dev.to/ferztyle/building-ferctl-top-kubernetes-resource-usage-vs-requests-and-limits-50a3",
+    "keywords": [
+      "building ferctl top",
+      "building ferctl top",
+      "server ,...",
+      "platform engineering",
+      "05z series",
+      "topics",
+      "source",
+      "reactions",
+      "news",
+      "metrics"
+    ],
+    "summary": "# Building ferctl top: Kubernetes resource usage vs requests and limits > Source: devto | Category: news | 2026-08-03T19:50:05Z Series: Platform engineering with Go | Topics: Go, Kubernetes, Cobra, client-go, metrics-server,..."
+  },
+  "e85142266e3356ee": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49159942_4be043f3f6.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49159942",
+    "keywords": [
+      "deep systems fundamentals matter",
+      "internal systems — immediately",
+      "frontend chops .< p",
+      "ai platform companies use",
+      "others .< p",
+      "every agent gets",
+      "staff +.< p",
+      "15 %) —",
+      "see careers page",
+      "august 2026 ))"
+    ],
+    "summary": "Looking for an experienced ex-founder builder with exceptional taste and real design &amp; frontend chops.<p>Software Engineer — multiple roles ($220–400K base, 0.15–0.60%) — agent harness, context management, sandboxed execution, model serving, storage, Kubernetes, mobile &amp; web apps. Help our customers use Tasklet more effectively and feed what you learn back into your core offering. No engineering background required.<p>All roles are in person at our office in SF -- no exceptions -- and we"
+  },
+  "8bf10e90e094967d": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49160086_0cdb57d45a.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49160086",
+    "keywords": [
+      "precision healthcare .< p",
+      "reactive sick care",
+      "product engineer roles",
+      "org &# x2f",
+      "org &# x2f",
+      "august 2026 ))",
+      "august 2026 ))",
+      "every resume sent",
+      "engineering roles",
+      "staff swe"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-03T19:50:54Z Atria | Global Remote (almost anywhere) &amp; Hybrid NYC | Engineering roles<p>Atria Health is hiring for Product Engineer roles (across levels) and a Staff SWE, Agentic AI role.<p>Our team is operating with the special combination of rigor, empathy, and innovation required to fuel a global shift from reactive sick care to preventative, precision healthcare.<p>Technologies: Express, React, GCP, Terraform, DBT, MySQL, Snowflake<p>L"
+  },
+  "d98295c457522115": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49159996_c6a4fea2d5.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49159996",
+    "keywords": [
+      "generative genomics models behind",
+      "advisors include eric horvitz",
+      "microsoft ), chris ré",
+      "generation genome language model",
+      "several also open",
+      "email — heather",
+      "16 open roles",
+      "com &# x2f",
+      "com &# x2f",
+      "august 2026 ))"
+    ],
+    "summary": "Radical Numerics | San Francisco, CA; Tokyo, JP | ONSITE | <a href=\"https:&#x2F;&#x2F;www.radicalnumerics.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;www.radicalnumerics.ai</a><p>50 million seed round -- Obvious Ventures and Emergence capital<p>Radical Numerics is an AI research lab building general biological intelligence — applying distributed systems, model architecture, and numerics research to biology. We&#x27;re now building Omnii, our next-generation genome language model, and the infrastructure"
+  },
+  "82e3ee8de68b57a9": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49160170_62152904fe.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49160170",
+    "keywords": [
+      "prototype computer vision algorithms",
+      "build python web services",
+      "com &# x2f ;</",
+      "ai &# x2f",
+      "wrangle large sets",
+      "learn .< p",
+      "august 2026 ))",
+      "august 2026 ))",
+      "&# x27",
+      "software development"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-03T19:50:54Z CoVar | Durham, NC | <a href=\"https:&#x2F;&#x2F;covar.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;covar.com&#x2F;</a> | Full-time | ONSITE (3 days in office per week)<p>CoVar is a small R&amp;D company specializing in AI&#x2F;ML and software development for defense and healthcare. We&#x27;re looking for a jack-of-all-trades who can: prototype computer vision algorithms, build Python web services, wrangle large sets of data from di"
+  },
+  "ae4d08b0497c4649": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49159519_2d9a210d61.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49159519",
+    "keywords": [
+      "competitors measure customer migrations",
+      "p >-- engineering manager",
+      "react native &# x2f",
+      "expo )[ first hire",
+      "exceptional work .< p",
+      "native erp software",
+      "p >-- sre",
+      "cv &# x2f",
+      "august 2026 ))",
+      "august 2026 ))"
+    ],
+    "summary": "DualEntry | Full-time | REMOTE<p>We build the first AI-native ERP software. The ones who move fast and consistently do exceptional work.<p>It&#x27;s high ownership, greenfield work and many of our roles are first hires. You&#x27;ll grow along with the product and the team.<p>ROLES<p>-- Engineering Manager (NY, ONSITE) $200K – $350K + Equity<p>-- Lead Mobile Engineer (React Native &#x2F; Expo)[First hire] REMOTE (WORLDWIDE) $120k - $180k + Equity<p>-- SRE [First Hire] REMOTE (WORLDWIDE) $140k - $"
+  },
+  "317c2e60430413d7": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49160095_b9d0e6ac2e.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49160095",
+    "keywords": [
+      ">.< p >- head",
+      ">.< p >- head",
+      "athletes .< p",
+      "provides automated stats",
+      "pro sports experience",
+      "line calling using",
+      "details &# x2f",
+      "details &# x2f",
+      "details &# x2f",
+      "details &# x2f"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-03T19:50:54Z SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, highlights, and line calling using just your phone. Our mission is to democratize the pro sports experience for all athletes.<p>All positions are in Berkeley, California:<p>- Data Labeling Intern: <a href=\"https:&#x2F;&#x2F;app.deel.com&#x2F;job-boards&#x2F;swingvision&#x2F;job-details&#x2F;a9a74832-e3a2-4167-b289-b67594fd93d1\" rel=\"nofollow\">ht"
+  },
+  "26a3d3fe86ee20e9": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49159784_4d657e0a13.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49159784",
+    "keywords": [
+      "technology reaches every part",
+      "work includes everything",
+      "solving complex problems",
+      "known brands —",
+      "harnessing emerging technologies",
+      "fortune 500 reach",
+      "enable supply chain",
+      "customers — including",
+      "se &# x2f",
+      "se &# x2f"
+    ],
+    "summary": "Baton | San Francisco, CA (Hybrid) | Full-Time<p>Baton (baton.io) is Ryder&#x27;s in-house product development group focused on harnessing emerging technologies to redefine transportation and logistics. With $10B in freight under management, our technology reaches every part of the U.S. economy. Our work includes everything from customer-facing software to the data platform that will power the next era of innovation at Ryder.<p>Baton&#x27;s mission: enable supply chain on autopilot.<p>Ryder acqu"
+  },
+  "efd629bb69b43d61": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49159686_bbd52455e0.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49159686",
+    "keywords": [
+      "serve large supermarket chains",
+      "growing quickly .< p",
+      "building innovative retail products",
+      "com &# x2f ;</",
+      "rapidly growing company",
+      "developing innovative solutions",
+      "young startup specializing",
+      "help us set",
+      "autonomous model development",
+      "relevant robotics systems"
+    ],
+    "summary": "AREO | Remote (EU) &#x2F; on-site in Bremen, Germany | Full-Time | Equity | Roles: [Engineering Manager (Ruby on Rails), Lead Product Engineer (Ruby on Rails), Robotics Lead]<p>My name is Marius and I am the CTO at AREO (<a href=\"https:&#x2F;&#x2F;goareo.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;goareo.com&#x2F;</a>).<p>AREO, founded in January 2023 by a team with 20+ years of combined experience in retail and startups, is a young startup specializing in developing innovative solutions for sup"
+  },
+  "b7a95b973cbd7598": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49160256_c75a50b01f.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49160256",
+    "keywords": [
+      "improve member health outcomes",
+      "consumer health engagement platform",
+      "creating core data tooling",
+      "strong engineering fundamentals",
+      "rows across aws",
+      "integrates concierge services",
+      "good communication matter",
+      "115k –$ 145k",
+      "ta &# x2f",
+      "ta &# x2f"
+    ],
+    "summary": "Well | Data Engineer | Python &#x2F; SQL &#x2F; Node.js &#x2F; Terraform | Remote (USA, most states) or Onsite (NYC, NC, MA)<p>We&#x27;re building a consumer health engagement platform that integrates concierge services, behavioral health, telemedicine, and care management to improve member health outcomes and lower costs. We&#x27;re building at the intersection of healthcare, behavioral economics, big data, cloud infrastructure, and AI.<p>We&#x27;re looking for data engineers who enjoy building"
+  },
+  "525bcd42097dd205": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49160057_2960786aa5.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49160057",
+    "keywords": [
+      "50k robots deployed globally",
+      "23 openings spanning software",
+      "product management .< p",
+      "san diego ca",
+      "san diego ca",
+      "netherlands .< p",
+      "help us make",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "# HN Hiring (Ask HN: Who is hiring? > Source: hn-hiring | Category: job-skills | 2026-08-03T19:50:55Z Brain Corp | Multiple positions engineering&#x2F;operations&#x2F;product |  San Diego CA | Most roles ONSITE, some REMOTE<p>With 50k robots deployed globally and counting, we&#x27;re looking for innovators and technologists to help us make the real world work better.<p>We currently have 23 openings spanning software and QA engineering, technical support, operations and product management.<p>Most"
+  },
+  "79b503a995c1d962": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49160018_71e7d56a39.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49160018",
+    "keywords": [
+      "artificial intelligence .< p",
+      "platform enables ai developers",
+      "ai infrastructure .< p",
+      "54z ai vertical solutions",
+      "generation decentralized ai marketplace",
+      "ai models directly",
+      "talented blockchain engineers",
+      "eliminating centralized intermediaries",
+      "combines blockchain technology",
+      "com &# x2f"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-03T19:50:54Z AI Vertical Solutions is building BSCAgent, a next-generation decentralized AI marketplace that combines blockchain technology with artificial intelligence.<p>Our platform enables AI developers to publish their AI models directly to the marketplace while users pay for AI services through smart contracts. Revenue is distributed automatically and transparently to model creators, eliminating centralized intermediaries and creating an"
+  },
+  "272afb1a201ed3d3": {
+    "file": "corpus/security/thehackernews_com_2026_08_18-malicious-npm-packages-deliver-_5e41b682e2.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+    "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+    "keywords": [
+      "platform remote access trojan",
+      "alibaba developer tools",
+      "alibaba tool users",
+      "alibaba tool users",
+      "private alibaba package",
+      "malicious npm packages",
+      "target users",
+      "unscoped package",
+      "platform rat",
+      "platform rat"
+    ],
+    "summary": "# [hacker-news-sec] 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments."
+  },
+  "853b8bf5139627de": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fake-roblox-xeno-scri_490a320f59.md",
+    "source": "security",
+    "title": "[bleeping-comp] Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+    "keywords": [
+      "infecting unsuspecting roblox players",
+      "steals sensitive information",
+      "provides remote access",
+      "rat malware",
+      "rat malware",
+      "malware",
+      "source",
+      "security",
+      "security",
+      "comp"
+    ],
+    "summary": "# [bleeping-comp] Fake Roblox Xeno script launcher pushes infostealer, RAT malware Fake Roblox Xeno script launcher pushes infostealer, RAT malware Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information."
+  },
+  "572e91dcb04f6ba9": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_choosing-between-subagent-skills__091e7f569d.md",
+    "source": "engineering",
+    "title": "[infoq] Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
+    "url": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "sergio de simone",
+      "building ai systems",
+      "term maintainability",
+      "emphasizing reusability",
+      "community guidelines",
+      "community guidelines",
+      "community guidelines",
+      "55z azure",
+      "azure",
+      "azure"
+    ],
+    "summary": "# [infoq] Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and other approaches when building AI systems, emphasizing reusability, simplicity, and long-term maintainability."
+  },
+  "d927bcdb73867b84": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-waf-for-blob-is-now-generally-av_78da042dca.md",
+    "source": "vercel-blog",
+    "title": "Vercel WAF for Blob is now generally available",
+    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available",
+    "keywords": [
+      "07z vercel waf",
+      "vercel waf",
+      "vercel waf",
+      "generally available",
+      "generally available",
+      "generally available",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Vercel WAF for Blob is now generally available > Source: vercel-blog | Category: news | 2026-08-03T19:50:07Z Vercel WAF for Blob is now generally available"
+  },
+  "c70edb5fd812ac80": {
+    "file": "corpus/hackernews/blog_cloudflare_com_smaller-faster-safer-models_820105ee00.md",
+    "source": "hackernews",
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "keywords": [
+      "running kimi",
+      "running kimi",
+      "55z score",
+      "source",
+      "smaller",
+      "smaller",
+      "scale",
+      "scale",
+      "safer",
+      "safer"
+    ],
+    "summary": "# Smaller, faster, safer: running Kimi and GLM at scale > Source: hackernews | Category: news | 2026-08-03T19:49:55Z Score: 39 | Comments: 7"
+  },
+  "22b274933e6f4db6": {
+    "file": "corpus/hackernews/ascii_today_1852374af9.md",
+    "source": "hackernews",
+    "title": "ASCII Today",
+    "url": "https://ascii.today/",
+    "keywords": [
+      "ascii today",
+      "ascii today",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# ASCII Today > Source: hackernews | Category: news | 2026-08-03T19:50:00Z Score: 12 | Comments: 2"
+  },
+  "a18b83055bd94457": {
+    "file": "corpus/hackernews/admiralcloudberg_medium_com_reaping-the-whirlwind-inside-the_7b43a36fe3.md",
+    "source": "hackernews",
+    "title": "The Potomac River Midair Collision",
+    "url": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
+    "keywords": [
+      "potomac river midair collision",
+      "potomac river midair collision",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# The Potomac River Midair Collision > Source: hackernews | Category: news | 2026-08-03T19:49:56Z Score: 19 | Comments: 1"
+  },
+  "1ee0bc9b27fbe8ba": {
+    "file": "corpus/hackernews/bumbershootsoft_wordpress_com_2026_08_01_zx-spectrum-system-_cbd4b9cf7f.md",
+    "source": "hackernews",
+    "title": "ZX Spectrum System Tour: Sound",
+    "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+    "keywords": [
+      "zx spectrum system tour",
+      "zx spectrum system tour",
+      "59z score",
+      "source",
+      "sound",
+      "sound",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# ZX Spectrum System Tour: Sound > Source: hackernews | Category: news | 2026-08-03T19:49:59Z Score: 4 | Comments: 0"
+  },
+  "8511a0e171e19ff1": {
+    "file": "corpus/hackernews/www_covingtonblogs_com_2026_07_31_fcc-restricts-imports-of-n_4382ccbb7d.md",
+    "source": "hackernews",
+    "title": "FCC Restricts Imports of New Foreign Power Inverters and Robotic Devices",
+    "url": "https://www.covingtonblogs.com/2026/07/31/fcc-restricts-imports-of-new-foreign-produced-power-inverters-and-advanced-robotic-devices-with-additions-to-its-covered-list/",
+    "keywords": [
+      "new foreign power inverters",
+      "new foreign power inverters",
+      "fcc restricts imports",
+      "fcc restricts imports",
+      "robotic devices",
+      "robotic devices",
+      "02z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# FCC Restricts Imports of New Foreign Power Inverters and Robotic Devices > Source: hackernews | Category: news | 2026-08-03T19:50:02Z Score: 17 | Comments: 0"
+  },
+  "ea18e9156a50b868": {
+    "file": "corpus/hackernews/hamvocke_com_blog_task-runners_04464a442e.md",
+    "source": "hackernews",
+    "title": "Use Task Runners for Common Coding Tasks",
+    "url": "https://hamvocke.com/blog/task-runners/",
+    "keywords": [
+      "use task runners",
+      "use task runners",
+      "common coding tasks",
+      "common coding tasks",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Use Task Runners for Common Coding Tasks > Source: hackernews | Category: news | 2026-08-03T19:49:57Z Score: 28 | Comments: 6"
+  },
+  "ea2688309bcc9831": {
+    "file": "corpus/hackernews/blog_cloudflare_com_billable-usage-api_9546411ce5.md",
+    "source": "hackernews",
+    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+    "url": "https://blog.cloudflare.com/billable-usage-api/",
+    "keywords": [
+      "programmatic cost visibility",
+      "programmatic cost visibility",
+      "billable usage api",
+      "billable usage api",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "cloudflare"
+    ],
+    "summary": "# The Billable Usage API: programmatic cost visibility for Cloudflare > Source: hackernews | Category: news | 2026-08-03T19:49:56Z Score: 21 | Comments: 3"
+  },
+  "4b9d69f9ad2aca3d": {
+    "file": "corpus/hackernews/twitter_com_MaseehG_status_2084327646209392907_6fb03f2790.md",
+    "source": "hackernews",
+    "title": "16 Year old used AI to disprove professor",
+    "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
+    "keywords": [
+      "disprove professor",
+      "disprove professor",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# 16 Year old used AI to disprove professor > Source: hackernews | Category: news | 2026-08-03T19:50:00Z Score: 4 | Comments: 2"
+  },
+  "872dcc31bf9c1766": {
+    "file": "corpus/hackernews/thezvi_substack_com_p_openais-unreleased-model-astra-solves_3e4317addd.md",
+    "source": "hackernews",
+    "title": "OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems",
+    "url": "https://thezvi.substack.com/p/openais-unreleased-model-astra-solves",
+    "keywords": [
+      "01z score",
+      "source",
+      "openai",
+      "openai",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems > Source: hackernews | Category: news | 2026-08-03T19:50:01Z Score: 5 | Comments: 0"
+  },
+  "35a0c12de125050d": {
+    "file": "corpus/hackernews/kellysimulator_com_1a8ca9a256.md",
+    "source": "hackernews",
+    "title": "Kelly Criterion Simulator",
+    "url": "https://kellysimulator.com/",
+    "keywords": [
+      "kelly criterion simulator",
+      "kelly criterion simulator",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Kelly Criterion Simulator > Source: hackernews | Category: news | 2026-08-03T19:49:56Z Score: 13 | Comments: 1"
+  },
+  "07a7f1da403796c3": {
+    "file": "corpus/hackernews/reclaimthenet_org_new-york-will-require-digital-id-checks-fo_42777351ad.md",
+    "source": "hackernews",
+    "title": "New York Will Require Digital ID Checks for Social Feeds",
+    "url": "https://reclaimthenet.org/new-york-will-require-digital-id-checks-for-social-feeds",
+    "keywords": [
+      "require digital id checks",
+      "require digital id checks",
+      "social feeds",
+      "social feeds",
+      "new york",
+      "new york",
+      "01z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# New York Will Require Digital ID Checks for Social Feeds > Source: hackernews | Category: news | 2026-08-03T19:50:01Z Score: 4 | Comments: 0"
+  },
+  "ec5c38acc03774f8": {
+    "file": "corpus/devops/devops_com_common-risks-of-outsourcing-software-development-_0868c3b6e9.md",
+    "source": "devops",
+    "title": "[devops-com] Common Risks of Outsourcing Software Development, and How to Tackle Them",
+    "url": "https://devops.com/common-risks-of-outsourcing-software-development-and-how-to-tackle-them/",
+    "keywords": [
+      "reducing [&# 8230 ;]",
+      "external developers enables companies",
+      "eventually accelerating software delivery",
+      "outsourcing software development",
+      "outsourcing software development",
+      "outsourcing software development",
+      "eliminate expenses associated",
+      "56z common risks",
+      "developing software",
+      "common risks"
+    ],
+    "summary": "# [devops-com] Common Risks of Outsourcing Software Development, and How to Tackle Them Common Risks of Outsourcing Software Development, and How to Tackle Them It is no surprise, as partnering with external developers enables companies to bridge IT talent gaps that cannot be filled internally, avoid time-consuming recruiting and training processes, and eliminate expenses associated with salaries and benefits, eventually accelerating software delivery and reducing [&#8230;]"
   }
 }
