@@ -343611,5 +343611,642 @@
       "category"
     ],
     "summary": "# The diabolical world of convincing AI thirst traps > Source: hackernews | Category: news | 2026-08-03T01:01:17Z Score: 11 | Comments: 2"
+  },
+  "851db685699b286d": {
+    "file": "corpus/devto/dev_to_ishansh369_ai-machine-learning-deep-learning-and-gene_328407d161.md",
+    "source": "devto",
+    "title": "AI, Machine Learning, Deep Learning and Generative AI (Explained by a Confused 17-Year-Old Who Figured It Out)",
+    "url": "https://dev.to/ishansh369/ai-machine-learning-deep-learning-and-generative-ai-explained-by-a-confused-17-year-old-who-3d0k",
+    "keywords": [
+      "months ago",
+      "machine learning",
+      "machine learning",
+      "machine ...",
+      "kept hearing",
+      "deep learning",
+      "deep learning",
+      "confused 17",
+      "confused 17",
+      "generative ai"
+    ],
+    "summary": "# AI, Machine Learning, Deep Learning and Generative AI (Explained by a Confused 17-Year-Old Who Figured It Out) > Source: devto | Category: news | 2026-08-03T04:33:23Z A few months ago, I kept hearing these four words everywhere — AI, machine..."
+  },
+  "71bb5564f7d18c10": {
+    "file": "corpus/devto/dev_to_accreditly_practical-uses-for-css-has-now-that-it-wor_0858548881.md",
+    "source": "devto",
+    "title": "Practical Uses for CSS :has() Now That It Works Everywhere",
+    "url": "https://dev.to/accreditly/practical-uses-for-css-has-now-that-it-works-everywhere-4ccf",
+    "keywords": [
+      "parent selector exists",
+      "form field states",
+      "works everywhere",
+      "works everywhere",
+      "sibling styling",
+      "quantity queries",
+      "practical uses",
+      "practical uses",
+      "level toggles",
+      "plain css"
+    ],
+    "summary": "# Practical Uses for CSS :has() Now That It Works Everywhere The parent selector exists now. Form field states, quantity queries, previous-sibling styling and page-level toggles, all in plain CSS with :has()."
+  },
+  "9fac83562f80c75e": {
+    "file": "corpus/devto/dev_to_guilherme_galanti_a-day-in-the-life-of-a-brazilian-de_03cfd88661.md",
+    "source": "devto",
+    "title": "A Day in the Life of a Brazilian Dev: $1K Salaries and 5-Hour Commutes",
+    "url": "https://dev.to/guilherme_galanti/a-day-in-the-life-of-a-brazilian-dev-1k-salaries-and-5-hour-commutes-2jai",
+    "keywords": [
+      "south america ’",
+      "global tech industry",
+      "software engineers",
+      "hour commutes",
+      "hour commutes",
+      "brazilian dev",
+      "brazilian dev",
+      "1k salaries",
+      "1k salaries",
+      "source"
+    ],
+    "summary": "# A Day in the Life of a Brazilian Dev: $1K Salaries and 5-Hour Commutes > Source: devto | Category: news | 2026-08-03T04:33:22Z The global tech industry is booming, but the reality for software engineers in South America’s..."
+  },
+  "8b8b27dd62e8e29e": {
+    "file": "corpus/devto/dev_to_timur_hitou_the-customer-said-the-page-was-blank-the-_6215206379.md",
+    "source": "devto",
+    "title": "The customer said the page was blank. The page was fine. The tab was poisoned.",
+    "url": "https://dev.to/timur_hitou/the-customer-said-the-page-was-blank-the-page-was-fine-the-tab-was-poisoned-8am",
+    "keywords": [
+      "got hit twice",
+      "console stays clean",
+      "layer fallback",
+      "iframe sandbox",
+      "email preview",
+      "customer said",
+      "customer said",
+      "bans javascript",
+      "assets load",
+      "tab opened"
+    ],
+    "summary": "The page was fine. A tab opened from an email preview can inherit an iframe sandbox that bans JavaScript: assets load, the console stays clean, reload doesn't help. How we got hit twice and the three-layer fallback that stops it."
+  },
+  "bd427492eb8e0c11": {
+    "file": "corpus/devto/dev_to_surajrkhonde_episode-2-who-actually-runs-my-pipeline-_1275dc9481.md",
+    "source": "devto",
+    "title": "Episode 2 — Who Actually Runs My Pipeline?",
+    "url": "https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji",
+    "keywords": [
+      "19z junior engineer",
+      "episode 2 —",
+      "episode 2 —",
+      "whose ...",
+      "push code",
+      "last week",
+      "github gets",
+      "actually runs",
+      "actually runs"
+    ],
+    "summary": "# Episode 2 — Who Actually Runs My Pipeline? Junior Engineer: Last week you left me hanging. I push code, GitHub gets it — then what?"
+  },
+  "16e45b2a28515932": {
+    "file": "corpus/devto/dev_to_darshan_dev_what-happens-if-a-bank-transfer-fails-hal_f2ecb16aa2.md",
+    "source": "devto",
+    "title": "What Happens If a Bank Transfer Fails Halfway? Understanding ACID Properties in SQL",
+    "url": "https://dev.to/darshan_dev/what-happens-if-a-bank-transfer-fails-halfway-understanding-acid-properties-in-sql-1oe",
+    "keywords": [
+      "bank transfer fails halfway",
+      "bank transfer fails halfway",
+      "one bank account",
+      "understanding acid properties",
+      "understanding acid properties",
+      "₹ 10",
+      "say jeni",
+      "sql",
+      "sql",
+      "source"
+    ],
+    "summary": "# What Happens If a Bank Transfer Fails Halfway? Imagine transferring ₹1,000 from one bank account to another. Let's say Jeni has ₹10,000 in his..."
+  },
+  "2a8f52bc9d84acbf": {
+    "file": "corpus/devto/dev_to_cloudfrontier_docker-images-without-the-bloat-an_0b4883627a.md",
+    "source": "devto",
+    "title": "Docker Images Without the Bloat",
+    "url": "https://dev.to/cloudfrontier/docker-images-without-the-bloat-an",
+    "keywords": [
+      "run docker images ,...",
+      "docker images without",
+      "docker images without",
+      "fat images",
+      "source",
+      "reactions",
+      "pull",
+      "problem",
+      "news",
+      "image"
+    ],
+    "summary": "# Docker Images Without the Bloat > Source: devto | Category: news | 2026-08-03T04:33:23Z The Problem with Fat Images   We've all been there: you pull an image, run docker images,..."
+  },
+  "01852b3ae425be6c": {
+    "file": "corpus/devto/dev_to_glitchbound_ashbys-isremote-flag-is-true-for-hybrid-r_7cf64618ca.md",
+    "source": "devto",
+    "title": "Ashby's isRemote flag is true for hybrid roles. I checked 1,668 postings.",
+    "url": "https://dev.to/glitchbound/ashbys-isremote-flag-is-true-for-hybrid-roles-i-checked-1668-postings-79",
+    "keywords": [
+      "public job board api",
+      "quietly ruin",
+      "one field",
+      "isremote flag",
+      "isremote flag",
+      "hybrid roles",
+      "hybrid roles",
+      "checked 1",
+      "checked 1",
+      "build anything"
+    ],
+    "summary": "# Ashby's isRemote flag is true for hybrid roles. > Source: devto | Category: news | 2026-08-03T04:33:21Z If you build anything on Ashby's public job board API, there is one field that will quietly ruin your..."
+  },
+  "d203e61940d3538b": {
+    "file": "corpus/devto/dev_to_patrik_muravski_8a09367bf_how-do-you-code-with-ai-202_584323291b.md",
+    "source": "devto",
+    "title": "How do you code with AI 2026?",
+    "url": "https://dev.to/patrik_muravski_8a09367bf/how-do-you-code-with-ai-2026-4bp0",
+    "keywords": [
+      "average beginner developer",
+      "one year",
+      "23z hi",
+      "ai 2026",
+      "ai 2026",
+      "2026",
+      "wondering",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How do you code with AI 2026? > Source: devto | Category: news | 2026-08-03T04:33:23Z Hi,  I'm an average beginner developer with about one year of experience, and I'm wondering how..."
+  },
+  "a4ef779b5ca8f9fb": {
+    "file": "corpus/devto/dev_to_y11t0_your-ai-agents-chat-history-is-user-input-fl6_e54539a7ca.md",
+    "source": "devto",
+    "title": "Your AI Agent's Chat History Is User Input",
+    "url": "https://dev.to/y11t0/your-ai-agents-chat-history-is-user-input-fl6",
+    "keywords": [
+      "production chat assistants",
+      "chat history",
+      "chat history",
+      "user input",
+      "user input",
+      "surprising number",
+      "clever ...",
+      "ai agent",
+      "ai agent",
+      "works"
+    ],
+    "summary": "# Your AI Agent's Chat History Is User Input > Source: devto | Category: news | 2026-08-03T04:33:20Z There's a jailbreak that works on a surprising number of production chat assistants, needs no clever..."
+  },
+  "3a3c718016398a4a": {
+    "file": "corpus/devto/dev_to_marcusykim_github-models-shut-down-what-beginners-sho_913bd94104.md",
+    "source": "devto",
+    "title": "GitHub Models Shut Down: What Beginners Should Learn About AI Vendor Lock-In",
+    "url": "https://dev.to/marcusykim/github-models-shut-down-what-beginners-should-learn-about-ai-vendor-lock-in-3d3p",
+    "keywords": [
+      "look permanent right",
+      "github models shut",
+      "github models shut",
+      "ai vendor lock",
+      "ai vendor lock",
+      "ai feature",
+      "provider removes",
+      "source",
+      "sign",
+      "reactions"
+    ],
+    "summary": "# GitHub Models Shut Down: What Beginners Should Learn About AI Vendor Lock-In > Source: devto | Category: news | 2026-08-03T04:33:23Z An AI feature can look permanent right up until the provider removes the sign from the..."
+  },
+  "bc58aa433424dae7": {
+    "file": "corpus/devto/dev_to_alifar_eu-ai-act-article-50-what-the-2026-transparenc_997c1c90aa.md",
+    "source": "devto",
+    "title": "EU AI Act Article 50: What the 2026 Transparency Rules Mean for AI Teams",
+    "url": "https://dev.to/alifar/eu-ai-act-article-50-what-the-2026-transparency-rules-mean-for-ai-teams-3i7g",
+    "keywords": [
+      "2026 transparency rules mean",
+      "2026 transparency rules mean",
+      "transparency obligations enforceable",
+      "2 august ...",
+      "new set",
+      "european union",
+      "ai teams",
+      "ai teams",
+      "ai act",
+      "2026"
+    ],
+    "summary": "# EU AI Act Article 50: What the 2026 Transparency Rules Mean for AI Teams > Source: devto | Category: news | 2026-08-03T04:33:20Z The European Union's AI Act will make a new set of transparency obligations enforceable from 2 August..."
+  },
+  "0816b23c4fe3e14c": {
+    "file": "corpus/devto/dev_to_i_strelov_i-crawl-217000-company-career-pages-so-job-_2cdb069ce7.md",
+    "source": "devto",
+    "title": "I crawl 217,000 company career pages so job boards can't resell me my own search",
+    "url": "https://dev.to/i_strelov/i-crawl-217000-company-career-pages-so-job-boards-cant-resell-me-my-own-search-m78",
+    "keywords": [
+      "000 company career pages",
+      "000 company career pages",
+      "company posts",
+      "workday page",
+      "job boards",
+      "job boards",
+      "job boards",
+      "crawl 217",
+      "crawl 217",
+      "source"
+    ],
+    "summary": "# I crawl 217,000 company career pages so job boards can't resell me my own search Most job boards are resellers. A company posts a role on its own Greenhouse or Workday page, and..."
+  },
+  "49ee664c0380d911": {
+    "file": "corpus/devto/dev_to_tryclicked_what-i-got-wrong-building-a-browser-extens_6b2c4a7f95.md",
+    "source": "devto",
+    "title": "What I got wrong building a browser extension with an AI assistant",
+    "url": "https://dev.to/tryclicked/what-i-got-wrong-building-a-browser-extension-with-an-ai-assistant-3n8d",
+    "keywords": [
+      "got wrong building",
+      "got wrong building",
+      "20z first hour",
+      "work ...",
+      "llc registration",
+      "browser extension",
+      "browser extension",
+      "browser extension",
+      "ai assistant",
+      "ai assistant"
+    ],
+    "summary": "# What I got wrong building a browser extension with an AI assistant > Source: devto | Category: news | 2026-08-03T04:33:20Z First hour with Claude's browser extension: I pointed it at our LLC registration and watched it work..."
+  },
+  "c2232aa8f7ae775b": {
+    "file": "corpus/devto/dev_to_remojansen_please-stop-calling-it-developer-experienc_82a7f547cd.md",
+    "source": "devto",
+    "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
+    "url": "https://dev.to/remojansen/please-stop-calling-it-developer-experience-27ec",
+    "keywords": [
+      "successful terms ever coined",
+      "technical debt",
+      "software engineering",
+      "developer experience",
+      "developer experience",
+      "source",
+      "reactions",
+      "one",
+      "news",
+      "might"
+    ],
+    "summary": "# Why Developer Experience (DevEx) Dies in the Backlog? > Source: devto | Category: news | 2026-08-03T04:33:23Z \"Technical debt\" might be one of the most successful terms ever coined in software engineering."
+  },
+  "604d360eae3de2e2": {
+    "file": "corpus/devto/dev_to_svennilsson228_one-api-key-across-openai-claude-and-g_d49b0e4beb.md",
+    "source": "devto",
+    "title": "One API key across OpenAI, Claude and Gemini: how to compare token cost per model",
+    "url": "https://dev.to/svennilsson228/one-api-key-across-openai-claude-and-gemini-how-to-compare-token-cost-per-model-5f2h",
+    "keywords": [
+      "21z bottom line",
+      "choosing mainly",
+      "source",
+      "reactions",
+      "news",
+      "gemini",
+      "gemini",
+      "gemini",
+      "devto",
+      "claude"
+    ],
+    "summary": "# One API key across OpenAI, Claude and Gemini: how to compare token cost per model > Source: devto | Category: news | 2026-08-03T04:33:21Z Bottom line: if you want one API key across OpenAI, Claude and Gemini and you're choosing mainly on..."
+  },
+  "c482203ce1d67d0d": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_qwen-3-8-max-now-available-on-vercel-ai_34ee2c0fc6.md",
+    "source": "vercel-blog",
+    "title": "Qwen 3.8 Max now available on Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway",
+    "keywords": [
+      "vercel ai gateway",
+      "vercel ai gateway",
+      "vercel ai gateway",
+      "25z qwen 3",
+      "qwen 3",
+      "qwen 3",
+      "8 max",
+      "8 max",
+      "8 max",
+      "vercel"
+    ],
+    "summary": "# Qwen 3.8 Max now available on Vercel AI Gateway > Source: vercel-blog | Category: news | 2026-08-03T04:33:25Z Qwen 3.8 Max now available on Vercel AI Gateway"
+  },
+  "b61a87ef543ffb4a": {
+    "file": "corpus/hackernews/doku_su_history-of-sudoku_98a76278a5.md",
+    "source": "hackernews",
+    "title": "A Playable History of Sudoku",
+    "url": "https://doku.su/history-of-sudoku",
+    "keywords": [
+      "playable history",
+      "playable history",
+      "16z score",
+      "sudoku",
+      "sudoku",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Playable History of Sudoku > Source: hackernews | Category: news | 2026-08-03T04:33:16Z Score: 7 | Comments: 1"
+  },
+  "58285cc2f93463f4": {
+    "file": "corpus/hackernews/handwritten_blog_371110f20d.md",
+    "source": "hackernews",
+    "title": "Show HN: A Handwritten Blogging Platform",
+    "url": "https://handwritten.blog/",
+    "keywords": [
+      "beautiful notes like",
+      "handwritten blogging platform",
+      "handwritten blogging platform",
+      "show hn",
+      "show hn",
+      "11z score",
+      "blog </",
+      "handwritten",
+      "handwritten",
+      "blog"
+    ],
+    "summary": "# Show HN: A Handwritten Blogging Platform > Source: hackernews | Category: news | 2026-08-03T04:33:11Z The idea is a place for beautiful notes like <a href=\"https:&#x2F;&#x2F;insidevoices.handwritten.blog\" rel=\"nofollow\">https:&#x2F;&#x2F;insidevoices.handwritten.blog</a>."
+  },
+  "637437816b4048e0": {
+    "file": "corpus/hackernews/runtimewire_com_article_exclusive-apple-engineer-says-he-was_7bccf2487a.md",
+    "source": "hackernews",
+    "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+    "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
+    "keywords": [
+      "apple engineer says",
+      "apple engineer says",
+      "send cust",
+      "send cust",
+      "device ids",
+      "device ids",
+      "18z score",
+      "source",
+      "refusing",
+      "refusing"
+    ],
+    "summary": "# Apple engineer says he was fired after refusing to send cust. device IDs to AT&T > Source: hackernews | Category: news | 2026-08-03T04:33:18Z"
+  },
+  "8c3f4973d03c4e92": {
+    "file": "corpus/hackernews/philarchive_org_rec_NIEWTC_28610d758e.md",
+    "source": "hackernews",
+    "title": "Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof",
+    "url": "https://philarchive.org/rec/NIEWTC",
+    "keywords": [
+      "rigidity theorem",
+      "rigidity theorem",
+      "open ai",
+      "open ai",
+      "18z score",
+      "source",
+      "proof",
+      "proof",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof > Source: hackernews | Category: news | 2026-08-03T04:33:18Z Score: 13 | Comments: 4"
+  },
+  "e7fe857f746d3f77": {
+    "file": "corpus/hackernews/sf_isopolis_city_f89c9b669d.md",
+    "source": "hackernews",
+    "title": "Show HN: Isopolis – Isometric pixel map of SF",
+    "url": "https://sf.isopolis.city/",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Isopolis – Isometric pixel map of SF > Source: hackernews | Category: news | 2026-08-03T04:33:10Z Score: 105 | Comments: 26"
+  },
+  "727c01d484ff5a78": {
+    "file": "corpus/hackernews/localai_io_blog_why-we-write-our-own-engines_5450ae1ecb.md",
+    "source": "hackernews",
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "keywords": [
+      "c ++ inference engines",
+      "c ++ inference engines",
+      "15z score",
+      "write",
+      "write",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why we write our own C and C++ inference engines > Source: hackernews | Category: news | 2026-08-03T04:33:15Z Score: 11 | Comments: 5"
+  },
+  "e5662964acda121f": {
+    "file": "corpus/hackernews/qwen_ai_blog_id_qwen3_8_29578a8593.md",
+    "source": "hackernews",
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "keywords": [
+      "new bar",
+      "new bar",
+      "10z score",
+      "source",
+      "qwen3",
+      "qwen3",
+      "news",
+      "max",
+      "max",
+      "hackernews"
+    ],
+    "summary": "# Qwen3.8-Max: A New Bar for Coding and Cowork > Source: hackernews | Category: news | 2026-08-03T04:33:10Z Score: 182 | Comments: 72"
+  },
+  "68aab5dce1f90b65": {
+    "file": "corpus/hackernews/ssh_place_9df14468c9.md",
+    "source": "hackernews",
+    "title": "Show HN: ssh ssh.place",
+    "url": "https://ssh.place",
+    "keywords": [
+      "ssh ssh",
+      "ssh ssh",
+      "show hn",
+      "show hn",
+      "11z score",
+      "source",
+      "place",
+      "place",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: ssh ssh.place > Source: hackernews | Category: news | 2026-08-03T04:33:11Z Score: 66 | Comments: 31"
+  },
+  "6c1527b378973696": {
+    "file": "corpus/hackernews/github_com_johnsonjh_cpm386_110be55803.md",
+    "source": "hackernews",
+    "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+    "url": "https://github.com/johnsonjh/cpm386",
+    "keywords": [
+      "386 protected mode",
+      "386 protected mode",
+      "386 – cp",
+      "386 – cp",
+      "‑ 68k",
+      "‑ 68k",
+      "11z score"
+    ],
+    "summary": "# CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K > Source: hackernews | Category: news | 2026-08-03T04:33:11Z Score: 45 | Comments: 11"
+  },
+  "b9d966b803e7273e": {
+    "file": "corpus/hackernews/quarters_captaintouch_com_blog_posts_2026-08-02-let-kids-be-_eb4a44e858.md",
+    "source": "hackernews",
+    "title": "Let kids be kids: When collectibles lose their playfulness",
+    "url": "https://quarters.captaintouch.com/blog/posts/2026-08-02-let-kids-be-kids:-when-collectibles-lose-their-playfulness.html",
+    "keywords": [
+      "collectibles lose",
+      "collectibles lose",
+      "19z score",
+      "let kids",
+      "let kids",
+      "kids",
+      "kids",
+      "source",
+      "playfulness",
+      "playfulness"
+    ],
+    "summary": "# Let kids be kids: When collectibles lose their playfulness > Source: hackernews | Category: news | 2026-08-03T04:33:19Z Score: 10 | Comments: 2"
+  },
+  "65f189250bdd7c74": {
+    "file": "corpus/hackernews/github_com_kunchenguid_firstmate_7bab204f49.md",
+    "source": "hackernews",
+    "title": "Firstmate: Talk to one agent. Ship with a crew",
+    "url": "https://github.com/kunchenguid/firstmate",
+    "keywords": [
+      "one agent",
+      "one agent",
+      "17z score",
+      "talk",
+      "talk",
+      "source",
+      "ship",
+      "ship",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Firstmate: Talk to one agent. Ship with a crew > Source: hackernews | Category: news | 2026-08-03T04:33:17Z"
+  },
+  "a154d6bba1b88c34": {
+    "file": "corpus/hackernews/www_rfc-editor_org_rfc_rfc9851_html_9d8300301e.md",
+    "source": "hackernews",
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "keywords": [
+      "tls 1",
+      "tls 1",
+      "rfc 9851",
+      "rfc 9851",
+      "feature freeze",
+      "feature freeze",
+      "12z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# RFC 9851: TLS 1.2 is in Feature Freeze > Source: hackernews | Category: news | 2026-08-03T04:33:12Z Score: 19 | Comments: 6"
+  },
+  "2517a989f0556bcc": {
+    "file": "corpus/design/www_nngroup_com_articles_no-new-name-ux_ce47f3c5b2.md",
+    "source": "design",
+    "title": "[sidebar-io] No new name has replaced “UX”",
+    "url": "https://www.nngroup.com/articles/no-new-name-ux/",
+    "keywords": [
+      "“ ux ” remains",
+      "replaced “ ux ”",
+      "replaced “ ux ”",
+      "replaced “ ux ”",
+      "alternative names remain fragmented",
+      "design professionals found",
+      "new name",
+      "new name",
+      "new name",
+      "default name"
+    ],
+    "summary": "# [sidebar-io] No new name has replaced “UX” No new name has replaced “UX” A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented."
+  },
+  "b5dbd372f3088482": {
+    "file": "corpus/design/simone_computer_webdesktops_370d8a80e9.md",
+    "source": "design",
+    "title": "[sidebar-io] Web desktops",
+    "url": "https://simone.computer/#/webdesktops",
+    "keywords": [
+      "simulate desktop operating systems",
+      "biggest hand curated directory",
+      "12z web desktops",
+      "web desktops",
+      "web desktops",
+      "web",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Web desktops Web desktops The web's biggest hand curated directory of apps and experiments that simulate desktop operating systems."
+  },
+  "a67f346545168493": {
+    "file": "corpus/design/go_granola_ai_sidebar_b7560a0d75.md",
+    "source": "design",
+    "title": "[sidebar-io] The AI Notepad for back-to-back meetings",
+    "url": "https://go.granola.ai/sidebar",
+    "keywords": [
+      "back meetings notes",
+      "next meeting",
+      "meeting bot",
+      "back meetings",
+      "back meetings",
+      "ai notepad",
+      "ai notepad",
+      "ai notepad",
+      "back",
+      "back"
+    ],
+    "summary": "# [sidebar-io] The AI Notepad for back-to-back meetings The AI Notepad for back-to-back meetings Give it a try on your next meeting."
+  },
+  "83f22557875115b5": {
+    "file": "corpus/design/killthecookiebanner_eu_24a1a3cbb2.md",
+    "source": "design",
+    "title": "[sidebar-io] Kill the cookie banner",
+    "url": "https://killthecookiebanner.eu/",
+    "keywords": [
+      "misleading cookie banners",
+      "cookie banner tired",
+      "cookie banner",
+      "cookie banner",
+      "finally proposed",
+      "eu commission",
+      "12z kill",
+      "kill",
+      "kill",
+      "source"
+    ],
+    "summary": "# [sidebar-io] Kill the cookie banner Tired of misleading cookie banners? The EU Commission has finally proposed a solution."
+  },
+  "8c72cb63d5432b05": {
+    "file": "corpus/design/www_nytimes_com_2026_07_20_technology_google-ai-open-web_htm_5fb3196cba.md",
+    "source": "design",
+    "title": "[sidebar-io] Google is building an AI fence around the web it once championed",
+    "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.2VA.tHaD.87T7tIi8zNbs&smid=url-share",
+    "keywords": [
+      "ai fence around",
+      "ai fence around",
+      "ai fence around",
+      "website operators",
+      "crying foul",
+      "artificial intelligence",
+      "google incorporates",
+      "12z google",
+      "google",
+      "google"
+    ],
+    "summary": "# [sidebar-io] Google is building an AI fence around the web it once championed Google is building an AI fence around the web it once championed As Google incorporates more artificial intelligence into search, people are spending more time on Google."
   }
 }
