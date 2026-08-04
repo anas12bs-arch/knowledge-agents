@@ -353021,5 +353021,607 @@
       "mythos model means"
     ],
     "summary": "Software supply chain attacks were once rare but are now happening daily, with malicious actors exploiting the trust developers place in public registries, package managers, and CI/CD pipelines. The company started with hardened container images and has expanded to cover domains including VMs, language libraries, GitHub Actions, and agent skills. In this episode, Matt joins Gregor Vand to discuss lessons from recent supply chain attacks, why CI/CD pipelines are now a primary attack surface, the "
+  },
+  "c0ed70eab0e9ad1d": {
+    "file": "corpus/finance/news_crunchbase_com_venture_data-billion-dollar-rounds-set-g_4eaa650336.md",
+    "source": "finance",
+    "title": "[crunchbase] A Record 14 Billion-Dollar Rounds In July Pushed Venture’s Historic Run Higher",
+    "url": "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
+    "keywords": [
+      "july pushed venture ’",
+      "july pushed venture ’",
+      "july pushed venture ’",
+      "startup capital totaled",
+      "historic run higher",
+      "historic run higher",
+      "dollar venture rounds",
+      "record 14 billion",
+      "record 14 billion",
+      "record 14 billion"
+    ],
+    "summary": "# [crunchbase] A Record 14 Billion-Dollar Rounds In July Pushed Venture’s Historic Run Higher A Record 14 Billion-Dollar Rounds In July Pushed Venture’s Historic Run Higher Global venture funding showed no signs of slowing in July."
+  },
+  "732cc14943463bcd": {
+    "file": "corpus/devto/dev_to_adioof_interviewing-off-leetcode-you-already-memorize_f252c7a34b.md",
+    "source": "devto",
+    "title": "Interviewing off leetcode you already memorized isn't cheating, it's the job",
+    "url": "https://dev.to/adioof/interviewing-off-leetcode-you-already-memorized-isnt-cheating-its-the-job-5e76",
+    "keywords": [
+      "difficult problem",
+      "already memorized",
+      "already memorized",
+      "08z someone",
+      "source",
+      "solve",
+      "reactions",
+      "quickly",
+      "news",
+      "leetcode"
+    ],
+    "summary": "# Interviewing off leetcode you already memorized isn't cheating, it's the job > Source: devto | Category: news | 2026-08-04T11:50:08Z Someone was accused of cheating because they were able to solve a difficult problem very quickly."
+  },
+  "ff6a06a1c24c1f77": {
+    "file": "corpus/devto/dev_to_accreditly_your-ai-agent-cant-design-images-it-can-wr_c44219eee4.md",
+    "source": "devto",
+    "title": "Your AI agent can't design images. It can write HTML.",
+    "url": "https://dev.to/accreditly/your-ai-agent-cant-design-images-it-can-write-html-4g7g",
+    "keywords": [
+      "agent already writes html",
+      "06z diffusion models",
+      "write html",
+      "write html",
+      "ai agent",
+      "ai agent",
+      "review loop",
+      "mcp setup",
+      "design images",
+      "design images"
+    ],
+    "summary": "# Your AI agent can't design images. Diffusion models can't do layout, but your agent already writes HTML. MCP setup for Claude Code and Cursor, plus the self-review loop that makes it work."
+  },
+  "f9bdf89dc8ea90a2": {
+    "file": "corpus/devto/dev_to_rulestack_did-claude-code-actually-load-your-rules-co_b575c2086f.md",
+    "source": "devto",
+    "title": "Did Claude Code actually load your rules? /context, lazy loading, and the InstructionsLoaded hook",
+    "url": "https://dev.to/rulestack/did-claude-code-actually-load-your-rules-context-lazy-loading-and-the-instructionsloaded-hook-4dg0",
+    "keywords": [
+      "wording — check whether",
+      "claude code actually load",
+      "claude code actually load",
+      "lazy loading",
+      "lazy loading",
+      "instructionsloaded hook",
+      "instructionsloaded hook",
+      "agent ignored",
+      "wrote",
+      "source"
+    ],
+    "summary": "# Did Claude Code actually load your rules? /context, lazy loading, and the InstructionsLoaded hook Before you rewrite the wording — check whether the rule was..."
+  },
+  "f90e254f99b459ee": {
+    "file": "corpus/devto/dev_to_mcsee_ai-coding-tip-030-script-your-skills-not-your-p_b6774bebe8.md",
+    "source": "devto",
+    "title": "AI Coding Tip 030 - Script Your Skills, Not Your Prompts",
+    "url": "https://dev.to/mcsee/ai-coding-tip-030-script-your-skills-not-your-prompts-2om3",
+    "keywords": [
+      "ai coding tip 030",
+      "ai coding tip 030",
+      "way forever",
+      "05z approve",
+      "source",
+      "skills",
+      "skills",
+      "script",
+      "script"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-04T11:50:05Z Approve the logic once, then let it run the same way forever. TL;DR: Turn repeatable skill steps..."
+  },
+  "9eb54c56fd1540a0": {
+    "file": "corpus/devto/dev_to_parsajiravand_your-browser-renders-everything-even-wh_355e0886ae.md",
+    "source": "devto",
+    "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
+    "url": "https://dev.to/parsajiravand/your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that-3g7c",
+    "keywords": [
+      "browser renders everything",
+      "browser renders everything",
+      "browser lays ...",
+      "long page —",
+      "documentation article —",
+      "see —",
+      "see —",
+      "admin table",
+      "news feed",
+      "news"
+    ],
+    "summary": "# Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that > Source: devto | Category: news | 2026-08-04T11:50:06Z When you open a long page — a news feed, an admin table, a documentation article — the browser lays..."
+  },
+  "43a41db85ab4b499": {
+    "file": "corpus/devto/dev_to_ahmedsevindik_software-engineer-resume-example-and-wr_001d1eb0ba.md",
+    "source": "devto",
+    "title": "Software Engineer Resume Example and Writing Guide",
+    "url": "https://dev.to/ahmedsevindik/software-engineer-resume-example-and-writing-guide-577a",
+    "keywords": [
+      "software engineer resume example",
+      "software engineer resume example",
+      "writing guide",
+      "writing guide",
+      "bit differently",
+      "source",
+      "resumes",
+      "reactions",
+      "news",
+      "important"
+    ],
+    "summary": "# Software Engineer Resume Example and Writing Guide > Source: devto | Category: news | 2026-08-04T11:50:08Z Software engineer resumes get read a bit differently than resumes in other fields: as important as..."
+  },
+  "0b18aec2fe04ba18": {
+    "file": "corpus/devto/dev_to_hadil_most-important-programming-languages-in-2026-2a_a042397cdb.md",
+    "source": "devto",
+    "title": "Most Important Programming Languages in 2026",
+    "url": "https://dev.to/hadil/most-important-programming-languages-in-2026-2a1",
+    "keywords": [
+      "real industry demand",
+      "important programming languages",
+      "important programming languages",
+      "important programming languages",
+      "05z 5",
+      "source",
+      "reactions",
+      "news",
+      "learn",
+      "devto"
+    ],
+    "summary": "# Most Important Programming Languages in 2026 > Source: devto | Category: news | 2026-08-04T11:50:05Z 5 Most Important Programming Languages to Learn in 2026 (Based on Real Industry Demand)        ..."
+  },
+  "b330471d36d99cf8": {
+    "file": "corpus/devto/dev_to_swapnoneel123_trying-bifrost-an-ai-gateway-that-simpl_f60a139331.md",
+    "source": "devto",
+    "title": "Trying Bifrost: An AI Gateway That Simplified My Setup",
+    "url": "https://dev.to/swapnoneel123/trying-bifrost-an-ai-gateway-that-simplified-my-setup-5c62",
+    "keywords": [
+      "separate api key",
+      "every model provider",
+      "trying bifrost",
+      "trying bifrost",
+      "models daily",
+      "kept ending",
+      "ai gateway",
+      "ai gateway",
+      "try",
+      "source"
+    ],
+    "summary": "# Trying Bifrost: An AI Gateway That Simplified My Setup > Source: devto | Category: news | 2026-08-04T11:50:06Z I try a lot of models daily, and I kept ending up with a separate API key for every model provider I..."
+  },
+  "1fc1365e5a1dfe92": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49166970_b1cbc84c57.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49166970",
+    "keywords": [
+      "detect bacterial contamination directly",
+      "key technical contributor",
+      "fastapi ), postgresql",
+      "edge optical instruments",
+      "jobs &# x2f",
+      "jobs &# x2f",
+      "old microbiology methods",
+      "august 2026 ))",
+      "august 2026 ))",
+      "flexible )< p"
+    ],
+    "summary": "Spore.Bio | Senior Software Engineer | Paris, France | Hybrid (Flexible)<p>Spore.Bio is a deeptech startup building a new paradigm in quality control for FMCG (Food &amp; Beverage, Cosmetics, Pharma). We are replacing 200-year-old microbiology methods with advanced optics and deep-learning technologies to detect bacterial contamination directly on the factory floor in minutes, instead of days.<p>We are looking for a hands-on Senior Software Engineer to design, build, and operate our core backend"
+  },
+  "9ff99f756dbced6e": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49167059_bde366fd18.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49167059",
+    "keywords": [
+      "become useful shared infrastructure",
+      "mtscs &# x2f ;</",
+      "technical ownership — forming",
+      "profit research group building",
+      "ideally open source ),",
+      "fault tolerant quantum compilation",
+      "c ++&# x2f",
+      "quantum technology ecosystem",
+      "c )( 3",
+      "jobs &# x2f"
+    ],
+    "summary": "Unitary Foundation | Member of Technical Staff, Fault Tolerant Quantum Compilation + Simulations | REMOTE (US) | Full-time<p>Unitary Foundation is a 501(c)(3) non-profit research group building a quantum technology ecosystem that benefits the most people. You&#x27;ll join a small technical team doing research through sponsored collaborations with national labs, universities, and industry partners. There&#x27;s also room to experiment thoughtfully with AI-assisted research workflows.<p>We&#x27;re"
+  },
+  "31331a0c9c723b26": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49166975_5a523aacbe.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49166975",
+    "keywords": [
+      "5 days &# x2f",
+      "senior full stack engineer",
+      "senior full stack engineer",
+      "performing team .< p",
+      "enjoy owning features end",
+      "“ hn hiring ”",
+      "voice ai .< p",
+      "stack includes typescript",
+      "required .< p",
+      "yc s24 company"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-04T11:50:55Z Phonely | San Francisco, CA | Full Time | Onsite (5 days&#x2F;week) | Senior Full Stack Engineer<p><a href=\"https:&#x2F;&#x2F;phonely.ai\">https:&#x2F;&#x2F;phonely.ai</a><p>Phonely builds AI voice agents that automate phone calls for businesses. We’re a YC S24 company that raised our Series A in January and are looking for a senior full stack engineer to help build the future of voice AI.<p>Our stack includes TypeScript, Next.js, "
+  },
+  "dad02eab5e803933": {
+    "file": "corpus/product/techcrunch_com_2026_08_04_bending-spoons-to-buy-airtable-for_7f80af0f15.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Bending Spoons to buy Airtable for $1.28B",
+    "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+    "keywords": [
+      "08z bending spoons",
+      "bending spoons",
+      "bending spoons",
+      "secondary markets",
+      "4 billion",
+      "11 billion",
+      "buy airtable",
+      "buy airtable",
+      "buy airtable",
+      "airtable"
+    ],
+    "summary": "# [techcrunch-startups] Bending Spoons to buy Airtable for $1.28B Bending Spoons to buy Airtable for $1.28B At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion."
+  },
+  "1527f84cc25c90c8": {
+    "file": "corpus/security/thehackernews_com_2026_08_new-cpanel-critical-flaw-could-let_df5a94b50e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+    "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "keywords": [
+      "routes past account boundaries",
+      "administrative database identity",
+      "targeted security release",
+      "database root cpanel",
+      "cpanel account",
+      "database root",
+      "database root",
+      "root context",
+      "database bug",
+      "privilege boundary"
+    ],
+    "summary": "# [hacker-news-sec] New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root It shipped in a targeted security release that closes two other routes past account boundaries."
+  },
+  "9c2873e53f1af85e": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_some-claude-chats-are_89d2aa1721.md",
+    "source": "security",
+    "title": "[schneier] Some Claude Chats Are Searchable on Google",
+    "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
+    "keywords": [
+      "discoverable unless people choose",
+      "analyze medical billing data",
+      "dashboard someone made apparently",
+      "give people control",
+      "public web content",
+      "powered therapy app",
+      "exposed data includes",
+      "content publicly accessible",
+      "alternate link ):",
+      "claude conversations publicly"
+    ],
+    "summary": "And it&#8217;s  personal information  (alternate  link ): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Anthropic&#8217;s position is that it&#8217;s  not their problem : &#8220;We give people control over sharing their Claude conversations publicly, and in keeping with our privacy principles, we do not share chat directories or sitemaps with search engines l"
+  },
+  "d99bd296c4e319ca": {
+    "file": "corpus/security/thehackernews_com_2026_08_doublecup-uses-clickfix-and-cached_79321c6c50.md",
+    "source": "security",
+    "title": "[hacker-news-sec] DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+    "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+    "keywords": [
+      "59z doublecup uses clickfix",
+      "doublecup uses clickfix",
+      "doublecup uses clickfix",
+      "using clickfix lures",
+      "steganographic png image",
+      "new russian loader",
+      "laced png images",
+      "first stage drops",
+      "ultimately deliver countloader",
+      "codenamed doublecup"
+    ],
+    "summary": "# [hacker-news-sec] DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the seco"
+  },
+  "2eb13c2e596a7372": {
+    "file": "corpus/engineering/www_infoq_com_presentations_microservices-platform-team-topo_0596313643.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns",
+    "url": "https://www.infoq.com/presentations/microservices-platform-team-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "minimizing cognitive load",
+      "accelerate microservices delivery",
+      "microservices platforms",
+      "microservices platforms",
+      "microservices platforms",
+      "shares strategies",
+      "internal platforms",
+      "chris richardson",
+      "aligned teams",
+      "59z presentation"
+    ],
+    "summary": "# [infoq] Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns Chris Richardson discusses leveraging Team Topologies and internal platforms to accelerate microservices delivery. He explains six key platform patterns - from security and observability to build and deployment - and shares strategies for minimizing cognitive load on stream-aligned teams while avoiding common platform engineering pitfalls."
+  },
+  "fca20b8cfc94ed30": {
+    "file": "corpus/hackernews/shellzine_net_cyberpunk-video-games_bd0184cf03.md",
+    "source": "hackernews",
+    "title": "Cyberpunk Video Games",
+    "url": "https://shellzine.net/cyberpunk-video-games/",
+    "keywords": [
+      "cyberpunk video games",
+      "cyberpunk video games",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Cyberpunk Video Games > Source: hackernews | Category: news | 2026-08-04T11:50:00Z Score: 20 | Comments: 6"
+  },
+  "0f8d91bf5996034f": {
+    "file": "corpus/hackernews/github_com_ryanzhou_deepseek-v4-flash-mi300x_d0bf1616e4.md",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+    "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+    "keywords": [
+      "single amd mi300x",
+      "single amd mi300x",
+      "deepseek v4 flash",
+      "deepseek v4 flash",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DeepSeek V4 Flash on a Single AMD MI300X > Source: hackernews | Category: news | 2026-08-04T11:49:59Z Score: 62 | Comments: 8"
+  },
+  "0407772db309c59e": {
+    "file": "corpus/hackernews/www_bfi_org_about-fuller_everything-i-know_0c1e5b30d6.md",
+    "source": "hackernews",
+    "title": "Buckminster Fuller: everything I know",
+    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+    "keywords": [
+      "buckminster fuller",
+      "buckminster fuller",
+      "59z score",
+      "source",
+      "news",
+      "know",
+      "know",
+      "hackernews",
+      "everything",
+      "everything"
+    ],
+    "summary": "# Buckminster Fuller: everything I know > Source: hackernews | Category: news | 2026-08-04T11:49:59Z Score: 5 | Comments: 0"
+  },
+  "753d0c55aae17917": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_07_31_world_americas_amazon-archaeology_cd47b16139.md",
+    "source": "hackernews",
+    "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+    "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+    "keywords": [
+      "archaeologists find ancient glyphs",
+      "archaeologists find ancient glyphs",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "amazon",
+      "amazon"
+    ],
+    "summary": "# Archaeologists Find Ancient Glyphs in the Amazon > Source: hackernews | Category: news | 2026-08-04T11:50:00Z Score: 14 | Comments: 6"
+  },
+  "88ca3f88eae28cee": {
+    "file": "corpus/hackernews/www_cnbc_com_2026_08_04_us-has-used-virtually-all-of-its-lon_ee949f4951.md",
+    "source": "hackernews",
+    "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+    "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+    "keywords": [
+      "range precision missiles",
+      "range precision missiles",
+      "iran war",
+      "iran war",
+      "02z score",
+      "virtually",
+      "virtually",
+      "used",
+      "used"
+    ],
+    "summary": "# U.S. used 'virtually all' of its long-range precision missiles during Iran war > Source: hackernews | Category: news | 2026-08-04T11:50:02Z Score: 87 | Comments: 88"
+  },
+  "9505ec64dd1aa07b": {
+    "file": "corpus/hackernews/picburn_xyz_468842839b.md",
+    "source": "hackernews",
+    "title": "Show HN: I made a private self-destructing image hosting site in Golang",
+    "url": "https://picburn.xyz/",
+    "keywords": [
+      "destructing image hosting site",
+      "destructing image hosting site",
+      "junior go dev",
+      "uploads .< p",
+      "think .< p",
+      "something .< p",
+      ".< p",
+      "small site",
+      "someone privately",
+      "similar services"
+    ],
+    "summary": "# Show HN: I made a private self-destructing image hosting site in Golang > Source: hackernews | Category: news | 2026-08-04T11:50:01Z So I&#x27;m a junior Go dev and I made a small site that allows me to share images with someone privately and securely, and give me control over how many times the private link can be shared and how long the image will be accessible for.<p>There are similar services to this one, but they are either convoluted with ads, or require sign-up, or expect you to fill ou"
+  },
+  "3caf80eeae22197a": {
+    "file": "corpus/hackernews/live_euronext_com_en_financial-news_bending-spoons-makes-fir_a4a497b135.md",
+    "source": "hackernews",
+    "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+    "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+    "keywords": [
+      "3b airtable deal",
+      "3b airtable deal",
+      "ipo acquisition",
+      "ipo acquisition",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal > Source: hackernews | Category: news | 2026-08-04T11:50:04Z Score: 53 | Comments: 58"
+  },
+  "7fd5bc4ade8ec19d": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49166652_5fd9238b96.md",
+    "source": "hackernews",
+    "title": "Ask HN: Has anyone solved P2P routing at 100B+ nodes without DHT degradation?",
+    "url": "https://news.ycombinator.com/item?id=49166652",
+    "keywords": [
+      "spent many years working",
+      "making socially significant decisions",
+      "key requirement becomes performing",
+      "hundred bytes &# x2f",
+      "anyone solved p2p routing",
+      "anyone solved p2p routing",
+      "100 million every year",
+      "device without using passwords",
+      "nodes without dht degradation",
+      "nodes without dht degradation"
+    ],
+    "summary": "Currently that is just over 8 billion people, but this number grows by more than 100 million every year. At the same time, background synchronization traffic must remain below a few hundred bytes&#x2F;sec per device to avoid overwhelming mobile data plans. We have studied Kademlia, Chord, BATMAN, GNUnet, I2P, etc., and all of them seem to fail at scalability or traffic efficiency."
+  },
+  "cc6ece24b9e351c3": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Nobel_disease_0f104fe309.md",
+    "source": "hackernews",
+    "title": "Nobel Disease",
+    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
+    "keywords": [
+      "nobel disease",
+      "nobel disease",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Nobel Disease > Source: hackernews | Category: news | 2026-08-04T11:50:02Z Score: 8 | Comments: 2"
+  },
+  "08176329667802b3": {
+    "file": "corpus/hackernews/short-stories_co_raybradbury_there-will-come-soft-rains-6k8v_be965430a3.md",
+    "source": "hackernews",
+    "title": "Ray Bradbury's 'There Will Come Soft Rains' is set today (2026-08-04)",
+    "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+    "keywords": [
+      "come soft rains",
+      "come soft rains",
+      "set today",
+      "set today",
+      "ray bradbury",
+      "ray bradbury",
+      "00z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04) > Source: hackernews | Category: news | 2026-08-04T11:50:00Z Score: 7 | Comments: 1"
+  },
+  "fecb3ac523584ba6": {
+    "file": "corpus/hackernews/ladybird_org_newsletter_2026-07-31_33061242b3.md",
+    "source": "hackernews",
+    "title": "This Month in Ladybird – July 2026",
+    "url": "https://ladybird.org/newsletter/2026-07-31/",
+    "keywords": [
+      "ladybird – july 2026",
+      "ladybird – july 2026",
+      "03z score",
+      "2026",
+      "source",
+      "news",
+      "month",
+      "month",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# This Month in Ladybird – July 2026 > Source: hackernews | Category: news | 2026-08-04T11:50:03Z Score: 5 | Comments: 0"
+  },
+  "c184d3c7efa2ff9f": {
+    "file": "corpus/hackernews/www_ssp_sh_brain_mini-retirements_f935a6c8a9.md",
+    "source": "hackernews",
+    "title": "Mini retirements: like a sabbatical, but much smaller",
+    "url": "https://www.ssp.sh/brain/mini-retirements/",
+    "keywords": [
+      "much smaller",
+      "much smaller",
+      "mini retirements",
+      "mini retirements",
+      "59z score",
+      "source",
+      "sabbatical",
+      "sabbatical",
+      "news",
+      "like"
+    ],
+    "summary": "# Mini retirements: like a sabbatical, but much smaller > Source: hackernews | Category: news | 2026-08-04T11:49:59Z Score: 8 | Comments: 4"
+  },
+  "306135334a083e59": {
+    "file": "corpus/sales/www_saastr_com_nues-guided-selling-playbook-took-2-minutes-t_284be4a30a.md",
+    "source": "sales",
+    "title": "[saastr] Nue’s Guided Selling Playbook Took 2 Minutes to Build. The Full Implementation Still Takes 90 Days.",
+    "url": "https://www.saastr.com/nues-guided-selling-playbook-took-2-minutes-to-build-the-implementation-still-takes-90-days/",
+    "keywords": [
+      "vendor ... continue reading",
+      "03z nue ’",
+      "saastr ai day",
+      "ai changes",
+      "nue ’",
+      "nue ’",
+      "product advocacy",
+      "james mcarthur",
+      "conference wi",
+      "agent hit"
+    ],
+    "summary": "# [saastr] Nue’s Guided Selling Playbook Took 2 Minutes to Build. James McArthur on what AI changes in quote-to-cash, live at SaaStr AI Day James McArthur, VP of Product Advocacy at Nue.io, ran a live demo at SaaStr AI Day this week and let the agent hit its limits on screen, on conference Wi-Fi, in front of everyone. That made it more useful than most vendor...   Continue Reading"
+  },
+  "a4274b0a42f14235": {
+    "file": "corpus/devops/devops_com_ai-is-coding-us-into-a-corner_a9e3826d4b.md",
+    "source": "devops",
+    "title": "[devops-com] AI is Coding Us Into a Corner",
+    "url": "https://devops.com/ai-is-coding-us-into-a-corner/",
+    "keywords": [
+      "future frontier models",
+      "fix yesterday ’",
+      "use today",
+      "track towards",
+      "tech debt",
+      "putting us",
+      "powered patching",
+      "modern tools",
+      "deepening dependency",
+      "20 years"
+    ],
+    "summary": "# [devops-com] AI is Coding Us Into a Corner AI-powered patching and coding is putting us on a track towards a deepening dependency on future frontier models. Companies are using AI to pay down 20 years of tech debt, but in doing so we’re generating a future problem [&#8230;]"
+  },
+  "4191fb043cc476a9": {
+    "file": "corpus/devops/devops_com_so-agentic-systems-are-messing-up-your-slo-framew_d32ad16a3e.md",
+    "source": "devops",
+    "title": "[devops-com] So Agentic Systems Are Messing Up Your SLO Framework",
+    "url": "https://devops.com/so-agentic-systems-are-messing-up-your-slo-framework/",
+    "keywords": [
+      "slo framework",
+      "slo framework",
+      "behavioral reliability",
+      "behaving correctly",
+      "agentic systems",
+      "agentic systems",
+      "agentic systems",
+      "source",
+      "messing",
+      "messing"
+    ],
+    "summary": "# [devops-com] So Agentic Systems Are Messing Up Your SLO Framework Traditional SLOs cannot show whether AI agents are behaving correctly. Platform teams need layered metrics for infrastructure, inference and behavioral reliability."
   }
 }
