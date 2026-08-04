@@ -1,0 +1,18 @@
+---
+title: "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research"
+url: "https://edotenv.com/"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-08-04T18:59:01Z"
+metadata:
+  score: "7"
+---
+
+# Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
+
+> Source: hackernews | Category: news | 2026-08-04T18:59:01Z
+
+Score: 7 | Comments: 0
+
+We are Rui and Michael and we’re building EdotEnv (<a href="https:&#x2F;&#x2F;edotenv.com" rel="nofollow">https:&#x2F;&#x2F;edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features&#x2F; models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent&#x27;s feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href="https:&#x2F;&#x2F;edotenv.com&#x2F;?tab=blog" rel="nofollow">https:&#x2F;&#x2F;edotenv.com&#x2F;?tab=blog</a><p>Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert.<p>We open sourced a sample task repository: <a href="https:&#x2F;&#x2F;github.com&#x2F;MMcollab-dotcom&#x2F;feature-engineering" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;MMcollab-dotcom&#x2F;feature-engineering</a>. We plan to sell continuously improving envs to AI labs&#x2F;researchers&#x2F;enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general.<p>We&#x27;d love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments!
