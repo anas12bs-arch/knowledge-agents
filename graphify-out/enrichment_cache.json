@@ -353623,5 +353623,680 @@
       "messing"
     ],
     "summary": "# [devops-com] So Agentic Systems Are Messing Up Your SLO Framework Traditional SLOs cannot show whether AI agents are behaving correctly. Platform teams need layered metrics for infrastructure, inference and behavioral reliability."
+  },
+  "8f1e2b521955160c": {
+    "file": "corpus/devto/dev_to_accreditly_generating-10000-certificates-from-one-htm_8a22652e09.md",
+    "source": "devto",
+    "title": "Generating 10,000 certificates from one HTML template",
+    "url": "https://dev.to/accreditly/generating-10000-certificates-from-one-html-template-b99",
+    "keywords": [
+      "one html template",
+      "one html template",
+      "18z three ways",
+      "render course certificates",
+      "000 certificates",
+      "000 certificates",
+      "working python",
+      "verification page",
+      "tutorials skip",
+      "generating 10"
+    ],
+    "summary": "# Generating 10,000 certificates from one HTML template > Source: devto | Category: news | 2026-08-04T13:27:18Z Three ways to render course certificates at scale, with working Python for batching, webhooks and the verification page most tutorials skip."
+  },
+  "e7135516856fe588": {
+    "file": "corpus/devto/dev_to_pop3_zxcv_why-your-ai-agent-costs-6x-more-than-you-ca_907ee6bdce.md",
+    "source": "devto",
+    "title": "Why Your AI Agent Costs 6x More Than You Calculated",
+    "url": "https://dev.to/pop3_zxcv/why-your-ai-agent-costs-6x-more-than-you-calculated-3na9",
+    "keywords": [
+      "ai agent costs 6x",
+      "ai agent costs 6x",
+      "input tokens times",
+      "input rate",
+      "simple arithmetic",
+      "llm call",
+      "18z pricing",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Why Your AI Agent Costs 6x More Than You Calculated Pricing an LLM call is simple arithmetic. Input tokens times the input rate, plus output tokens times..."
+  },
+  "20b40548b6a05f68": {
+    "file": "corpus/devto/dev_to_rogeroliveira86_o-que-9-artigos-em-15-meses-me-ensina_7e7c8c6853.md",
+    "source": "devto",
+    "title": "O que 9 artigos em 15 meses me ensinaram sobre escrever com constância",
+    "url": "https://dev.to/rogeroliveira86/o-que-9-artigos-em-15-meses-me-ensinaram-sobre-escrever-com-constancia-4kml",
+    "keywords": [
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026",
+      "04t13"
+    ],
+    "summary": "# O que 9 artigos em 15 meses me ensinaram sobre escrever com constância Eu tenho um padrão de publicação estranho. Cinco artigos em quatro meses."
+  },
+  "6c77bea7a0c19b17": {
+    "file": "corpus/devto/dev_to_typescript-guy_rewrite-javascript-behavior-at-runtime_4e71888751.md",
+    "source": "devto",
+    "title": "Rewrite JavaScript Behavior at Runtime with AST Mutation, From the Same Thread",
+    "url": "https://dev.to/typescript-guy/rewrite-javascript-behavior-at-runtime-with-ast-mutation-from-the-same-thread-5gh6",
+    "keywords": [
+      "rewrite javascript behavior",
+      "rewrite javascript behavior",
+      "mutate javascript behavior",
+      "function executes",
+      "ast mutation",
+      "ast mutation",
+      "thread",
+      "thread",
+      "thread",
+      "source"
+    ],
+    "summary": "# Rewrite JavaScript Behavior at Runtime with AST Mutation, From the Same Thread > Source: devto | Category: news | 2026-08-04T13:27:19Z Use AST node interception to inspect and mutate JavaScript behavior while a function executes on the same thread."
+  },
+  "2895776898de8e91": {
+    "file": "corpus/devto/dev_to_freema_i-gave-claude-read-access-to-my-google-marketi_530358e40c.md",
+    "source": "devto",
+    "title": "I gave Claude read access to my Google marketing stack. Now I just ask it questions.",
+    "url": "https://dev.to/freema/i-gave-claude-read-access-to-my-google-marketing-stack-now-i-just-ask-it-questions-50b",
+    "keywords": [
+      "gave claude read access",
+      "gave claude read access",
+      "18z opening google analytics",
+      "google marketing stack",
+      "google marketing stack",
+      "answer one question",
+      "special kind",
+      "tax",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I gave Claude read access to my Google marketing stack. Opening Google Analytics to answer one question is a special kind of tax. You know the number is in..."
+  },
+  "623614a6432cb6bb": {
+    "file": "corpus/devto/dev_to_javeed450sudo_three-things-indian-finance-code-gets-w_fc9c26299a.md",
+    "source": "devto",
+    "title": "Three things Indian finance code gets wrong (with the numbers)",
+    "url": "https://dev.to/javeed450sudo/three-things-indian-finance-code-gets-wrong-with-the-numbers-3hm0",
+    "keywords": [
+      "every formula ships",
+      "unit test",
+      "finance calculators",
+      "source",
+      "set",
+      "reactions",
+      "numbers",
+      "numbers",
+      "news",
+      "maintain"
+    ],
+    "summary": "# Three things Indian finance code gets wrong (with the numbers) I maintain a set of finance calculators for India. Every formula ships with a unit test, and..."
+  },
+  "ef4ee96bc9aa04da": {
+    "file": "corpus/devto/dev_to_javeed450sudo_a-formula-can-be-implemented-perfectly-_fe8b8c916c.md",
+    "source": "devto",
+    "title": "A formula can be implemented perfectly and still give the wrong answer",
+    "url": "https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37",
+    "keywords": [
+      "fitness formulas —...",
+      "year writing",
+      "wrong answer",
+      "wrong answer",
+      "still give",
+      "still give",
+      "small zero",
+      "implemented perfectly",
+      "implemented perfectly",
+      "dependency library"
+    ],
+    "summary": "# A formula can be implemented perfectly and still give the wrong answer > Source: devto | Category: news | 2026-08-04T13:27:19Z I spent a while this year writing a small zero-dependency library of health and fitness formulas —..."
+  },
+  "b696a782b27fa1d5": {
+    "file": "corpus/devto/dev_to_hugonaili_building-search-for-a-smart-tv-streaming-pl_f25697ad06.md",
+    "source": "devto",
+    "title": "Building search for a smart TV streaming platform",
+    "url": "https://dev.to/hugonaili/building-search-for-a-smart-tv-streaming-platform-27fg",
+    "keywords": [
+      "smart tv streaming platform",
+      "smart tv streaming platform",
+      "lightningjs — fanning",
+      "19z building search",
+      "streaming app",
+      "smart tvs",
+      "building search",
+      "building search",
+      "source",
+      "results"
+    ],
+    "summary": "# Building search for a smart TV streaming platform > Source: devto | Category: news | 2026-08-04T13:27:19Z Building search for a streaming app on smart TVs with LightningJS — fanning a single query across multiple content APIs and resolving the results on a D-pad."
+  },
+  "f10ede10241ec9da": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_04_gavin-newsom-makes-an-ass-of-him_7418d48353.md",
+    "source": "legal",
+    "title": "[techdirt] Gavin Newsom Makes An Ass Of Himself On Antitrust, Paramount Merger",
+    "url": "https://www.techdirt.com/2026/08/04/gavin-newsom-makes-an-ass-of-himself-on-antitrust-paramount-merger/",
+    "keywords": [
+      "12z gavin newsom makes",
+      "gavin newsom makes",
+      "gavin newsom makes",
+      "consolidated corporate media",
+      "[&# 8230 ;]",
+      "scattered exception",
+      "paramount merger",
+      "paramount merger",
+      "paramount merger",
+      "large part"
+    ],
+    "summary": "# [techdirt] Gavin Newsom Makes An Ass Of Himself On Antitrust, Paramount Merger Gavin Newsom Makes An Ass Of Himself On Antitrust, Paramount Merger It&#8217;s hard to not have noticed that a key enabler of U.S. authoritarianism was our consolidated corporate media, which (with scattered exception) was more than happy to throw the entirety of journalistic integrity in the toilet for a chance to please a mad, idiot king."
+  },
+  "ebf927c352cf7a5d": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49168047_4245b06d5b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49168047",
+    "keywords": [
+      "na &# x2f",
+      "founders across strategy",
+      "founder &# x27",
+      "com &# x2f",
+      "com &# x2f",
+      "150k –$ 200k",
+      "140k –$ 220k",
+      "140k –$ 220k",
+      "140k –$ 180k",
+      "staff backend engineer"
+    ],
+    "summary": "Nango | Staff Backend Engineer, Founding DevRel, Founder&#x27;s Associate | REMOTE (NA&#x2F;LATAM&#x2F;EU) + ONSITE (San Francisco) | Full-time | $140K–$220K + equity<p>Nango (<a href=\"https:&#x2F;&#x2F;nango.dev\">https:&#x2F;&#x2F;nango.dev</a>) is an open-source platform for product and AI-agent integrations. We handle auth, syncing, and tooling for 900+ APIs so developers can ship integrations in hours instead of weeks. Build our presence in the AI developer ecosystem: content, conferences, c"
+  },
+  "3659e9153a6ef261": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49167691_4fba4a197b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49167691",
+    "keywords": [
+      "health care living units",
+      "built affordable social housing",
+      "long run .< p",
+      "required !< p ><",
+      "p >- designing systems",
+      "co &# x2f ;</",
+      "bricklaying .< p",
+      "youth sports centre",
+      "series b !)",
+      "need experienced engineers"
+    ],
+    "summary": "MONUMENTAL | <a href=\"https:&#x2F;&#x2F;www.monumental.co&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.monumental.co&#x2F;</a> | Amsterdam, The Netherlands | Full Time | Onsite<p>We make robots that autonomously construct buildings, starting with bricklaying.<p>There&#x27;s a lot of vapourware in robotics, but we&#x27;re deploying robots across multiple concurrent sites today - and generating revenue. In the last couple of months, our robots have built affordable social housing, health care livin"
+  },
+  "6f9489c426fed43c": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49168019_6dd1e4264f.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49168019",
+    "keywords": [
+      "strong python .< p",
+      "epic team .< p",
+      "12 .< p",
+      "visa sponsorship available",
+      "typescript ), api",
+      "langchain ), evals",
+      "years &# x27",
+      "years &# x27",
+      "build ai agents",
+      "temporal &# x2f"
+    ],
+    "summary": "Tuza | Product Engineer &amp; AI Engineer | Shoreditch, London | Onsite 3 days&#x2F;week | Visa sponsorship available<p>We build AI agents for banks, automating the manual work in sales, onboarding and activation. 4+ years&#x27; experience.<p>- AI Engineer: multi-agent workflows (Temporal&#x2F;LangChain), evals, fail-safes and audit trails for banking tasks. Competitive salary, equity, meaningful benefits and an epic team.<p>Go straight into an intro call with our CTO at <a href=\"https:&#x2F;&#x"
+  },
+  "178674d8e95eaffa": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49167837_b702eed173.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49167837",
+    "keywords": [
+      "replace national welfare systems",
+      ">< p >- opener",
+      "5k usd &# x2f",
+      "global social safety net",
+      "postings &# x2f",
+      "postings &# x2f",
+      "postings &# x2f",
+      "postings &# x2f",
+      "postings &# x2f",
+      "postings &# x2f"
+    ],
+    "summary": "SafetyWing | 100% Remote | Hiring Globally<p>At SafetyWing (YC W18), we’re building a global social safety net for remote workers — simple health, insurance, and retirement products designed to replace national welfare systems. Our mission is to remove geographical borders as a barrier to equal opportunity and freedom for everyone. If we succeed, we believe this will be one of the most important tasks of our time.<p>- General Manager, Nomad Insurance: <a href=\"https:&#x2F;&#x2F;safetywing.pinpoi"
+  },
+  "269ff2e3afb8afd0": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49168356_9e58584bb5.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49168356",
+    "keywords": [
+      "build something customers love",
+      "go higher )< p",
+      "saltstack .< p",
+      "promise interesting work",
+      "collaborative management platform",
+      "cloud native ecosystem",
+      "80k -$ 110k",
+      "51m series c",
+      "technical blog posts",
+      "jobs &# x2f"
+    ],
+    "summary": "Spacelift | Remote (Europe) | Full-time | Senior Software Engineer | $80k-$110k+ (can go higher)<p>We&#x27;re a VC-funded startup (recently raised $51M Series C) building an infrastructure orchestrator and collaborative management platform for Infrastructure-as-Code – from OpenTofu, Terraform, Terragrunt, CloudFormation, Pulumi, Kubernetes, to Ansible.<p>On the backend we&#x27;re using 100% Go with AWS primitives. We&#x27;re looking for backend developers who like doing DevOps&#x27;y stuff somet"
+  },
+  "7017ce432a7f400d": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49167647_dba39541f0.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49167647",
+    "keywords": [
+      "life sciences customers focusing",
+      "hiring across several positions",
+      "life sciences domains",
+      "growing artificial intelligence",
+      "com &# x2f",
+      "com &# x2f",
+      "omics data integration",
+      "august 2026 ))",
+      "august 2026 ))",
+      "machine learning models"
+    ],
+    "summary": "Netrias | Senior Software Engineer, Software Engineer, Senior AI Researcher, AI Researcher | Cambridge, MA, Bethesda, MD | ONSITE (US, hybrid) | Full-time | www.netrias.com&#x2F;careers<p>Netrias is a fast-growing Artificial Intelligence (AI) company that specializes in the application of machine learning models for data harmonization and curation. We apply these technologies within the biopharma and life sciences domains, and are increasingly expanding the domains and applications we can apply "
+  },
+  "09278ab4a49546bb": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49167547_5b24607a33.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49167547",
+    "keywords": [
+      "analyzes cardiac ct scans",
+      "strong secure coding background",
+      "iso 27001 .< p",
+      "work across application security",
+      "regulated sdlc .< p",
+      "secure sdlc practices",
+      "predict heart attack",
+      "owasp top 10",
+      "make treatment decisions",
+      "common vulnerability classes"
+    ],
+    "summary": "Elucid | Senior Security Engineer | Boston, MA | ONSITE (hybrid) | $130k–$170k | <a href=\"https:&#x2F;&#x2F;elucid.applytojob.com&#x2F;apply&#x2F;GaiNUaxbuO&#x2F;Senior-Security-Engineer\" rel=\"nofollow\">https:&#x2F;&#x2F;elucid.applytojob.com&#x2F;apply&#x2F;GaiNUaxbuO&#x2F;Senior-Securi...</a><p>Elucid builds FDA-cleared AI software that analyzes cardiac CT scans to characterize plaque and predict heart attack and stroke risk. The world&#x27;s best cardiologists use our output to make treatment"
+  },
+  "bbf1a6ebe66f96b7": {
+    "file": "corpus/security/thehackernews_com_2026_08_google-deletes-3-adk-ai-workflows-_06b31a39b3.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+    "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "keywords": [
+      "public agent could",
+      "agent development kit",
+      "pillar security showed",
+      "triage agent",
+      "fixing agent",
+      "researchers said",
+      "python repository",
+      "privileged code",
+      "comment satisfied",
+      "security"
+    ],
+    "summary": "# [hacker-news-sec] Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent They identified the bot as a collaborator, so that comment satisfied"
+  },
+  "d23f234f46afa6fa": {
+    "file": "corpus/security/www_darkreading_com_application-security_ai-notetaker-spy-go_5c96f6a77e.md",
+    "source": "security",
+    "title": "[dark-reading] AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
+    "url": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
+    "keywords": [
+      "potentially join calls",
+      "corporate video calls",
+      "corporate video calls",
+      "corporate video calls",
+      "ai meeting tool",
+      "meeting information",
+      "users",
+      "source",
+      "security"
+    ],
+    "summary": "# [dark-reading] AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls."
+  },
+  "7806f63de3d5e8e5": {
+    "file": "corpus/security/thehackernews_com_2026_08_when-vibe-hacking-turns-ai-into-ju_06c0ec5ab8.md",
+    "source": "security",
+    "title": "[hacker-news-sec] When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+    "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "keywords": [
+      "vibe hacking turns ai",
+      "vibe hacking turns ai",
+      "vibe hacking turns ai",
+      "organized criminal groups followed",
+      "script kiddies ,\" sat",
+      "state actors sat",
+      "spent decades assuming",
+      "ranking attacker sophistication",
+      "offensive capability scales",
+      "long estimated risk"
+    ],
+    "summary": "# [hacker-news-sec] When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise."
+  },
+  "356af655b4af4bbd": {
+    "file": "corpus/engineering/martinfowler_com_fragments_2026-08-04_html_dfa4fb4b66.md",
+    "source": "engineering",
+    "title": "[martin-fowler] Fragments: August  4",
+    "url": "https://martinfowler.com/fragments/2026-08-04.html",
+    "keywords": [
+      "us federal reserve talked",
+      "every ai lab needs",
+      "spectacularly risky business",
+      "simon wilison concluded",
+      "sensitive software systems",
+      "rogue ais worming",
+      "putting sufficient controls",
+      "labs playing around",
+      "johann rehberger describes",
+      "gained unauthorized access"
+    ],
+    "summary": "It’s abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. It makes clear that the model builders are not putting sufficient controls in place to prevent these lab escapes. The bigger concern however is that this same kind of thing can happen with any organization running open-weight models."
+  },
+  "dce0ae4ccdde7a88": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_perforce-maturity-ai-success_utm__c3f7dd872e.md",
+    "source": "engineering",
+    "title": "[infoq] Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
+    "url": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "platform engineering maturity emerges",
+      "platform engineering maturity emerges",
+      "2026 platform engineering report",
+      "turn ai adoption",
+      "sustainable operational value",
+      "enterprise ai success",
+      "enterprise ai success",
+      "determining whether organizations",
+      "perforce software",
+      "key differentiator"
+    ],
+    "summary": "# [infoq] Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational value, according to Perforce Software's 2026 Platform Engineering Report."
+  },
+  "d922eca568b5d54a": {
+    "file": "corpus/hackernews/learning-rust_github_io_9b40b7a0fb.md",
+    "source": "hackernews",
+    "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+    "url": "https://learning-rust.github.io",
+    "keywords": [
+      "rust programming language tutorials",
+      "rust programming language tutorials",
+      "15z score",
+      "rust",
+      "rust",
+      "source",
+      "news",
+      "learning",
+      "learning"
+    ],
+    "summary": "# Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone > Source: hackernews | Category: news | 2026-08-04T13:27:15Z Score: 8 | Comments: 1"
+  },
+  "9de1af54f9c4efb1": {
+    "file": "corpus/hackernews/www_aikido_dev_blog_keyv-and-friends-compromised-in-npm-supp_1c015336aa.md",
+    "source": "hackernews",
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "keywords": [
+      "hulud supply chain attack",
+      "hulud supply chain attack",
+      "friends compromised",
+      "friends compromised",
+      "active shai",
+      "active shai",
+      "13z score",
+      "source",
+      "news",
+      "keyv"
+    ],
+    "summary": "# Keyv and friends compromised in active Shai-Hulud supply chain attack > Source: hackernews | Category: news | 2026-08-04T13:27:13Z Score: 35 | Comments: 2"
+  },
+  "35e1b06e7523e30a": {
+    "file": "corpus/hackernews/resobscura_substack_com_p_why-i-love-etymologies_3552158e8f.md",
+    "source": "hackernews",
+    "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
+    "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
+    "keywords": [
+      "tracing words",
+      "tracing words",
+      "illuminate history",
+      "illuminate history",
+      "etymologies matter",
+      "etymologies matter",
+      "13z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why etymologies matter: How tracing words can illuminate history (2024) > Source: hackernews | Category: news | 2026-08-04T13:27:13Z Score: 17 | Comments: 3"
+  },
+  "aafd8b42823db4c6": {
+    "file": "corpus/hackernews/mosh_org_elevator_txt_4b1dfb4cd2.md",
+    "source": "hackernews",
+    "title": "Mosh in a Lift (2012)",
+    "url": "https://mosh.org/elevator.txt",
+    "keywords": [
+      "14z score",
+      "source",
+      "news",
+      "mosh",
+      "mosh",
+      "lift",
+      "lift",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mosh in a Lift (2012) > Source: hackernews | Category: news | 2026-08-04T13:27:14Z Score: 5 | Comments: 0"
+  },
+  "dbc86a2f7f40c8f4": {
+    "file": "corpus/hackernews/ekxide_io_blog_byte-wise-atomic-wrapper-to-prevent-ub_b25e983b1d.md",
+    "source": "hackernews",
+    "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
+    "url": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
+    "keywords": [
+      "safe lock",
+      "safe lock",
+      "free primitives",
+      "free primitives",
+      "14z score",
+      "source",
+      "news",
+      "iceoryx2",
+      "iceoryx2",
+      "hackernews"
+    ],
+    "summary": "# Safe Lock-free Primitives with iceoryx2's ByteAtomic > Source: hackernews | Category: news | 2026-08-04T13:27:14Z Score: 7 | Comments: 3"
+  },
+  "d727094b55c108ad": {
+    "file": "corpus/hackernews/github_com_david-g-3654_homebench_74e128cd82.md",
+    "source": "hackernews",
+    "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+    "url": "https://github.com/david-g-3654/homebench",
+    "keywords": [
+      "14z score",
+      "speed",
+      "speed",
+      "source",
+      "quality",
+      "quality",
+      "news",
+      "memory",
+      "memory",
+      "hackernews"
+    ],
+    "summary": "# Homebench – Benchmark local LLMs for speed, memory, and quality > Source: hackernews | Category: news | 2026-08-04T13:27:14Z Score: 14 | Comments: 1"
+  },
+  "f7331da2d99bfab3": {
+    "file": "corpus/hackernews/nelson_cloud_ai-generated-images-discourage-me-from-reading-_c30406133c.md",
+    "source": "hackernews",
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "keywords": [
+      "generated images discourage",
+      "generated images discourage",
+      "12z score",
+      "source",
+      "reading",
+      "reading",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI-Generated Images Discourage Me from Reading Your Blog > Source: hackernews | Category: news | 2026-08-04T13:27:12Z Score: 325 | Comments: 189"
+  },
+  "853363c0a48c02a7": {
+    "file": "corpus/hackernews/github_com_MakazhanAlpamys_Soup_82f6447f85.md",
+    "source": "hackernews",
+    "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "keywords": [
+      "4 gb laptop gpu",
+      "4 gb laptop gpu",
+      "show hn",
+      "show hn",
+      "8b model",
+      "8b model",
+      "12z score",
+      "tune",
+      "tune"
+    ],
+    "summary": "# Show HN: Fine-tune an 8B model on a 4 GB laptop GPU > Source: hackernews | Category: news | 2026-08-04T13:27:12Z Score: 32 | Comments: 4"
+  },
+  "35af42d29033f08f": {
+    "file": "corpus/hackernews/arxiv_org_abs_2608_02412_8ea8872726.md",
+    "source": "hackernews",
+    "title": "Why Large Language Models Fail at Tabular Prediction",
+    "url": "https://arxiv.org/abs/2608.02412",
+    "keywords": [
+      "large language models fail",
+      "large language models fail",
+      "tabular prediction",
+      "tabular prediction",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why Large Language Models Fail at Tabular Prediction > Source: hackernews | Category: news | 2026-08-04T13:27:14Z Score: 18 | Comments: 2"
+  },
+  "0f68ef36a967d35a": {
+    "file": "corpus/hackernews/birchtree_me_blog_xbox-goes-down-you-cant-play-games-you-own_5e3c3434f8.md",
+    "source": "hackernews",
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "keywords": [
+      "xbox goes",
+      "xbox goes",
+      "play games",
+      "play games",
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "disc",
+      "disc"
+    ],
+    "summary": "# Xbox goes down. You can't play games you own on disc > Source: hackernews | Category: news | 2026-08-04T13:27:13Z"
+  },
+  "ed5f27a5b115b5b9": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49167493_6ac54ff09a.md",
+    "source": "hackernews",
+    "title": "How did Wikipedia layout become so bloated?",
+    "url": "https://news.ycombinator.com/item?id=49167493",
+    "keywords": [
+      "10 every single page",
+      "wikipedia layout become",
+      "wikipedia layout become",
+      "hide &# x27",
+      "clicked &# x27",
+      "article squeezed inside",
+      "every pageload",
+      "article content",
+      "sidebars !!)",
+      "requires either"
+    ],
+    "summary": "# How did Wikipedia layout become so bloated? Every single page is mostly sidebars, each has to be clicked &#x27;hide&#x27; for every pageload(it does not save the state of sidebars!!) For the &quot;full sidebars on&quot; default, it requires either a 8k screen or 30% zoom to even see an article content."
+  },
+  "165a32d46a52776b": {
+    "file": "corpus/hackernews/www_computerenhance_com_p_clean-code-horrible-performance_c072cd0f84.md",
+    "source": "hackernews",
+    "title": "Clean' Code, Horrible Performance",
+    "url": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+    "keywords": [
+      "horrible performance",
+      "horrible performance",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "code",
+      "code",
+      "clean"
+    ],
+    "summary": "# \"Clean\" Code, Horrible Performance > Source: hackernews | Category: news | 2026-08-04T13:27:17Z Score: 7 | Comments: 2"
+  },
+  "d058f6e89d13ff88": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_what-if-youre-not-supposed-to-hav_ac8c51350a.md",
+    "source": "sales",
+    "title": "[lennys] What if you’re not supposed to have a long-term plan?",
+    "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+    "keywords": [
+      "term plan",
+      "term plan",
+      "term plan",
+      "career emergence",
+      "supposed",
+      "supposed",
+      "supposed"
+    ],
+    "summary": "# [lennys] What if you’re not supposed to have a long-term plan? What if you’re not supposed to have a long-term plan? The case for career emergence"
+  },
+  "14d7a85d8df1553b": {
+    "file": "corpus/sales/www_saastr_com_what-are-some-common-mistakes-when-scaling-a-_afe82afa03.md",
+    "source": "sales",
+    "title": "[saastr] 12 of the Most Common Mistakes Scaling Your First Sales Team",
+    "url": "https://www.saastr.com/what-are-some-common-mistakes-when-scaling-a-sales-team-for-saas/",
+    "keywords": [
+      "ups making &# 62",
+      "product ... continue reading",
+      "first real sales teams",
+      "common mistakes scaling",
+      "common mistakes scaling",
+      "common mistakes scaling",
+      "first sales team",
+      "first sales team",
+      "key mistakes",
+      "see start"
+    ],
+    "summary": "# [saastr] 12 of the Most Common Mistakes Scaling Your First Sales Team Dear SaaStr:  What are the most common mistakes founders make hiring their first real sales teams? A few key mistakes I see start-ups making &#62; 50% of the time: Hiring Early Reps (#1 &#8211; #3) That You Personally Wouldn’t Buy From."
+  },
+  "6336804d93b08ffd": {
+    "file": "corpus/design/www_nngroup_com_training_october-eu_utm_source_rss_utm_mediu_3ad62a6d44.md",
+    "source": "design",
+    "title": "[nn-group] UX Conference October Announced (Oct 26 - Oct 29)",
+    "url": "https://www.nngroup.com/training/october-eu/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "keywords": [
+      "ux conference october announced",
+      "ux conference october announced",
+      "depth training courses",
+      "ux professionals",
+      "october 29",
+      "october 26",
+      "training focused",
+      "oct 29",
+      "oct 29",
+      "oct 29"
+    ],
+    "summary": "# [nn-group] UX Conference October Announced (Oct 26 - Oct 29) Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals."
   }
 }
