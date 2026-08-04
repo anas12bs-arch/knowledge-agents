@@ -350864,5 +350864,630 @@
       "notes"
     ],
     "summary": "# Frame selection is the whole game: notes on making LLMs watch video > Source: hackernews | Category: news | 2026-08-04T01:09:38Z Score: 5 | Comments: 0"
+  },
+  "b2d44370d229cc7f": {
+    "file": "corpus/devto/dev_to_ekimkael_how-a-reading-problem-turned-into-a-listenin_612fba2323.md",
+    "source": "devto",
+    "title": "How a Reading Problem Turned Into a Listening App",
+    "url": "https://dev.to/ekimkael/how-a-reading-problem-turned-into-a-listening-app-1g4o",
+    "keywords": [
+      "reading problem turned",
+      "reading problem turned",
+      "listening app",
+      "listening app",
+      "listening app",
+      "working",
+      "take",
+      "source",
+      "reactions",
+      "past"
+    ],
+    "summary": "# How a Reading Problem Turned Into a Listening App > Source: devto | Category: news | 2026-08-04T04:27:21Z For the past few months, I've been working on a listening app, and I'd like to take you along for the..."
+  },
+  "813c4229d6043902": {
+    "file": "corpus/devto/dev_to_phoneoperatorapp_designing-reliable-no-root-android-t_fcdec3bd5c.md",
+    "source": "devto",
+    "title": "Designing Reliable No-Root Android Tap and Swipe Automation",
+    "url": "https://dev.to/phoneoperatorapp/designing-reliable-no-root-android-tap-and-swipe-automation-1bdn",
+    "keywords": [
+      "root android tap",
+      "root android tap",
+      "swipe automation",
+      "swipe automation",
+      "designing reliable",
+      "designing reliable",
+      "try",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Designing Reliable No-Root Android Tap and Swipe Automation > Source: devto | Category: news | 2026-08-04T04:27:21Z Repeated taps look simple until you try to automate them reliably across real Android devices."
+  },
+  "f3e4f09f55dac967": {
+    "file": "corpus/devto/dev_to_rjshree_why-every-developer-should-start-writing-even_93ae69b6d1.md",
+    "source": "devto",
+    "title": "Why Every Developer Should Start Writing (Even If Nobody Reads It)",
+    "url": "https://dev.to/rjshree/why-every-developer-should-start-writing-even-if-nobody-reads-it-48il",
+    "keywords": [
+      "21z code builds products",
+      "writing builds engineers",
+      "writing builds careers",
+      "start writing",
+      "start writing",
+      "nobody reads",
+      "nobody reads",
+      "every developer",
+      "every developer",
+      "every ..."
+    ],
+    "summary": "# Why Every Developer Should Start Writing (Even If Nobody Reads It) > Source: devto | Category: news | 2026-08-04T04:27:21Z And over time, writing builds careers."
+  },
+  "41fdb9818de38675": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-22-the-ai-chose-its-door-lena-c_bcaf24494c.md",
+    "source": "devto",
+    "title": "Stratagems #22: The AI Chose Its Door. Lena Closed It.",
+    "url": "https://dev.to/xulingfeng/stratagems-22-the-ai-chose-its-door-lena-closed-it-1mbe",
+    "keywords": [
+      "strip away",
+      "small enemy",
+      "nowhere left",
+      "lena closed",
+      "lena closed",
+      "ai chose",
+      "ai chose",
+      "36 ...",
+      "21z corner"
+    ],
+    "summary": "# Stratagems #22: The AI Chose Its Door. Corner the small enemy. Strip away its options, and there is nowhere left to run."
+  },
+  "3f30ed80a6470c7c": {
+    "file": "corpus/devto/dev_to_volynetstyle_why-let-looked-7x-slower-than-var-closur_fa70059db0.md",
+    "source": "devto",
+    "title": "Why let Looked 7 Slower Than var: Closure Contexts and GC Thresholds in V8",
+    "url": "https://dev.to/volynetstyle/why-let-looked-7x-slower-than-var-closure-contexts-and-gc-thresholds-in-v8-4b38",
+    "keywords": [
+      "first benchmark looked convincing",
+      "let looked 7 slower",
+      "let looked 7 slower",
+      "loop using let",
+      "large number",
+      "gc thresholds",
+      "gc thresholds",
+      "closure contexts",
+      "closure contexts",
+      "var"
+    ],
+    "summary": "# Why let Looked 7 Slower Than var: Closure Contexts and GC Thresholds in V8 > Source: devto | Category: news | 2026-08-04T04:27:21Z The first benchmark looked convincing: when creating a large number of closures, a loop using let was..."
+  },
+  "4aa68e58631c75c9": {
+    "file": "corpus/devto/dev_to_kahenda_building-devspot-kenya-a-lightweight-tech-eve_f28673d458.md",
+    "source": "devto",
+    "title": "Building DevSpot Kenya: A Lightweight Tech Event Aggregator in Go",
+    "url": "https://dev.to/kahenda/building-devspot-kenya-a-lightweight-tech-event-aggregator-in-go-3b47",
+    "keywords": [
+      "lightweight tech event aggregator",
+      "lightweight tech event aggregator",
+      "hackathons across ...",
+      "ever tried keeping",
+      "building devspot kenya",
+      "building devspot kenya",
+      "tech meetups",
+      "developer workshops",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Building DevSpot Kenya: A Lightweight Tech Event Aggregator in Go > Source: devto | Category: news | 2026-08-04T04:27:21Z If you have ever tried keeping up with tech meetups, developer workshops, and hackathons across..."
+  },
+  "a1398d3ec3897fbb": {
+    "file": "corpus/devto/dev_to_fromzerotoship_my-deploy-check-waits-60-seconds-my-ou_2c79c4da9c.md",
+    "source": "devto",
+    "title": "My deploy check waits 60 seconds. My outage alarm waits 5. I measured neither.",
+    "url": "https://dev.to/fromzerotoship/my-deploy-check-waits-60-seconds-my-outage-alarm-waits-5-i-measured-neither-3cid",
+    "keywords": [
+      "outage alarm waits 5",
+      "outage alarm waits 5",
+      "21z two numbers",
+      "measured neither",
+      "measured neither",
+      "check confirms",
+      "systems",
+      "source",
+      "side",
+      "side"
+    ],
+    "summary": "# My deploy check waits 60 seconds. My outage alarm waits 5. When I deploy, a check confirms the pages are..."
+  },
+  "099cdeb6514aefc8": {
+    "file": "corpus/devto/dev_to_bedvibe_studios_i-spent-months-training-a-730m-model-_80aa4e6add.md",
+    "source": "devto",
+    "title": "I spent months training a 730M model with no tool that could tell me it was already dead",
+    "url": "https://dev.to/bedvibe_studios/i-spent-months-training-a-730m-model-with-no-tool-that-could-tell-me-it-was-already-dead-220l",
+    "keywords": [
+      "ml training runs —",
+      "spent months training",
+      "spent months training",
+      "step fine",
+      "real failure",
+      "false positive",
+      "deterministic linter",
+      "could tell",
+      "could tell",
+      "already dead"
+    ],
+    "summary": "# I spent months training a 730M model with no tool that could tell me it was already dead A deterministic linter for ML training runs — no model judging your model. It caught a real failure in my own 125,000-step fine-tune, and a false positive in itself."
+  },
+  "2805982fe618d9f3": {
+    "file": "corpus/devto/dev_to_nishant_banginwar_80b7dc5_decision-trees-arent-traine_53f11c62d3.md",
+    "source": "devto",
+    "title": "Decision Trees Aren't Trained. They're Grown.",
+    "url": "https://dev.to/nishant_banginwar_80b7dc5/decision-trees-arent-trained-theyre-grown-fhe",
+    "keywords": [
+      "sre — part 2",
+      "21z classic machine learning",
+      "studied broke ...",
+      "second algorithm",
+      "decision trees",
+      "decision trees",
+      "trained",
+      "trained",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Decision Trees Aren't Trained. > Source: devto | Category: news | 2026-08-04T04:27:21Z Classic Machine Learning Through the Eyes of an SRE — Part 2  The second algorithm I studied broke..."
+  },
+  "c6b3286c684adfc7": {
+    "file": "corpus/devto/dev_to_kahenda_building-qrstamp-a-lightning-fast-qr-code-ana_6f512a2d49.md",
+    "source": "devto",
+    "title": "Building QrStamp: A Lightning-Fast QR Code & Analytics Tracker in Go",
+    "url": "https://dev.to/kahenda/building-qrstamp-a-lightning-fast-qr-code-analytics-tracker-in-go-15p6",
+    "keywords": [
+      "fast qr code",
+      "fast qr code",
+      "hosted service",
+      "building qrstamp",
+      "building qrstamp",
+      "analytics tracker",
+      "analytics tracker",
+      "21z need",
+      "source",
+      "self"
+    ],
+    "summary": "# Building QrStamp: A Lightning-Fast QR Code & Analytics Tracker in Go > Source: devto | Category: news | 2026-08-04T04:27:21Z Need a lightweight, self-hosted service to generate trackable QR codes without dealing with..."
+  },
+  "73fe3be643a5efa1": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_03_sony-gives-its-disc-loving-custo_0295a68792.md",
+    "source": "legal",
+    "title": "[techdirt] Sony Gives Its Disc-Loving Customers A Giant Middle Finger",
+    "url": "https://www.techdirt.com/2026/08/03/sony-gives-its-disc-loving-customers-a-giant-middle-finger/",
+    "keywords": [
+      "would stop producing games",
+      "writer &# 8217",
+      "physical media starting",
+      "physical media option",
+      "giant middle finger",
+      "giant middle finger",
+      "giant middle finger",
+      "sony &# 8217",
+      "09z sony gives",
+      "sony gives"
+    ],
+    "summary": "Just a few weeks ago, Sony announced that it would stop producing games on physical media starting in 2028 and a very loud portion of Sony&#8217;s customers lost their freaking minds. And, in this writer&#8217;s opinion, for very good reason. Having no physical media option for your games is going to make game preservation efforts [&#8230;]"
+  },
+  "4922de55f4472ce9": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163658_3843bc1e2b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163658",
+    "keywords": [
+      "actual writing human authored",
+      "understand complex postgres problems",
+      "website .< p",
+      "product helps customers",
+      "large .< p",
+      "august 2026 ))",
+      "august 2026 ))",
+      "solve performance issues",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "pganalyze | Marketing Manager | REMOTE (US) | Full-time | base $130-160k + annual bonus + equity | <a href=\"https:&#x2F;&#x2F;pganalyze.com\" rel=\"nofollow\">https:&#x2F;&#x2F;pganalyze.com</a><p>At pganalyze, we build observability and automation tools for optimizing the performance of Postgres databases. If you are the kind of tech-savvy marketer that has worked on developer tools or infrastructure software before, and reads HN to keep up with the latest, this might be a fit for you. Our marketi"
+  },
+  "d6ab1427e3437778": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49164060_51159eb7b3.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49164060",
+    "keywords": [
+      "patient experience tech lead",
+      "patient mobile &# x2f",
+      "patient growth data",
+      "se &# x2f",
+      "se &# x2f",
+      "se &# x2f",
+      "se &# x2f",
+      "se &# x2f",
+      "se &# x2f",
+      "staff security engineer"
+    ],
+    "summary": "Pomelo Care| Remote (US) First with offices in NYC and SF We’re building a healthier future for women and children. We combine clinical excellence, human connection, and proactive technology to ensure our patients get the care they deserve, from preconception through midlife.<p>- Staff Software Engineer, Patient Experience Tech lead for our patient mobile&#x2F;web apps. Stack: Expo, React Native, TypeScript, Kotlin.<p>Apply here: <a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;ws5ijibc4us\" rel=\"nofollow"
+  },
+  "eb266a5c17e1eef2": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163576_517dd57292.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163576",
+    "keywords": [
+      "ui automated test coverage",
+      "native ios app written",
+      "second product engineering team",
+      "please look elsewhere !)",
+      "remote senior ios engineer",
+      "advanced driver planning tools",
+      "18z eleos technologies (<",
+      "3rd functional &# x2f",
+      "qa team .< p",
+      "four ios engineers"
+    ],
+    "summary": "You&#x27;d be one of four iOS engineers at a company that&#x27;s big enough to survive an economic downturn, but not so big you can&#x27;t make immediate, direct impact that&#x27;ll be seen and appreciated by the whole company. (We&#x27;ve also spent the last decade working really hard to make sure our tools, processes, and culture respect everyone&#x27;s work&#x2F;life balance. We have about 1&#x2F;3rd functional&#x2F;UI automated test coverage and the rest is human-powered by our QA team.<p>If"
+  },
+  "7a9893cf106aeefc": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49164297_e1b4e15051.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49164297",
+    "keywords": [
+      "among others .< p",
+      "dev &# x2f ;</",
+      "open source packages flowing",
+      "ship — used",
+      "maintainer activity across",
+      "findings get surfaced",
+      "daily grind ),",
+      "ai agents pull",
+      "precision &# x2f",
+      "positive &# x2f"
+    ],
+    "summary": "We build hardened, minimal, continuously-updated images, libraries, and packages that eliminate vulnerabilities before they ship — used by teams at Anduril, Canva, OpenAI, Snap, and Snowflake, among others.<p>We&#x27;re hiring a PM to own the malware and greyware scanning engine inside Chainguard Repository — the system that analyzes source code, build behavior, and maintainer activity across the open source packages flowing through our platform to catch compromised or malicious artifacts before"
+  },
+  "ee135e16923244a9": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163678_a2c9faffac.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163678",
+    "keywords": [
+      "sufficient ).< p ><",
+      "physical ai .< p",
+      "dev &# x2f ;</",
+      "required .< p",
+      "dev &# x2f",
+      "dev &# x2f",
+      "uk &# x2f",
+      "resume &# x2f",
+      "remote )< p",
+      "august 2026 ))"
+    ],
+    "summary": "# HN Hiring (Ask HN: Who is hiring? > Source: hn-hiring | Category: job-skills | 2026-08-04T04:28:21Z Foxglove | Onsite (San Francisco) + Remote | Full Time | <a href=\"https:&#x2F;&#x2F;foxglove.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;foxglove.dev&#x2F;</a> Foxglove is the leading data platform for robotics &amp; physical AI.<p>Prior experience in the autonomous vehicle or robotics industry is a bonus, but not required.<p>Open roles:<p>- Forward-Deployed Engineer (UK &#x2F; Zurich, Switzerla"
+  },
+  "199602ab011f9db4": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49164303_aa66422b4e.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49164303",
+    "keywords": [
+      "last minute .< p",
+      "developer &# x2f ;</",
+      "nsw workers &# x27",
+      "workplace rehabilitation provider",
+      "statutory deadlines met",
+      "compensation scheme return",
+      "comp knowledge needed",
+      "bankstown ), hybrid",
+      "120 – 160k",
+      "sqs &# x2f"
+    ],
+    "summary": "AusRehab | Full-Stack Software Developer | Full Time | Sydney, Australia (Bankstown), hybrid | AU$120–160k<p>Apply online: <a href=\"https:&#x2F;&#x2F;www.ausrehab.com&#x2F;careers&#x2F;full-stack-ai-developer&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ausrehab.com&#x2F;careers&#x2F;full-stack-ai-developer&#x2F;</a><p>AusRehab is a workplace rehabilitation provider in Australia — we help injured workers in the NSW workers&#x27; compensation scheme return to work. We&#x27;re replacing a stack of "
+  },
+  "ed4d1c82b72d3933": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49164146_23ad00b809.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49164146",
+    "keywords": [
+      "governance -- eng ...</",
+      "experience .< p ><",
+      "many open positions",
+      "com &# x2f",
+      "com &# x2f",
+      "careers &# x2f",
+      "careers &# x2f",
+      "apps .< p",
+      "august 2026 ))",
+      "august 2026 ))"
+    ],
+    "summary": "We provide the permissions, authentication, security, audit logs, and hosting. You bring your apps.<p>Our governance team is hiring someone with 2-8 years of experience. You’ll work in typescript but we’re not too particular about experience.<p><a href=\"https:&#x2F;&#x2F;retool.com&#x2F;careers&#x2F;software-engineer-governance--engineering--san-francisco-united-states\" rel=\"nofollow\">https:&#x2F;&#x2F;retool.com&#x2F;careers&#x2F;software-engineer-governance--eng...</a><p>We have many open posi"
+  },
+  "ed912f6c847aab8a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49164350_40239ea663.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49164350",
+    "keywords": [
+      "front end experience",
+      "received ai responses",
+      "august 2026 ))",
+      "august 2026 ))",
+      "zero ai",
+      "pls reach",
+      "much work",
+      "last month",
+      "im looking",
+      "chief requirement"
+    ],
+    "summary": "Hiring for a simple math collaborative research website job. Im looking for a dev who has front end experience and can set up a website in their sleep. I posted here last month and mostly only received ai responses."
+  },
+  "33e882e5f0a77fa4": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49164213_1b680d762d.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49164213",
+    "keywords": [
+      "ship gets used immediately",
+      "recently launched spreadsheetbench v2",
+      "kimi k3 model card",
+      "applied ai ), mts",
+      "applied ai — design",
+      "horizon tasks .< p",
+      ">< p >* mts",
+      "make ai reliable",
+      "17z aptura ai",
+      "internal domain experts"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-04T04:28:17Z Aptura AI | Full-Time | MTS (Applied AI), MTS (SWE &#x2F; Product) | London | ONSITE &#x2F; HYBRID<p>We build the evaluation datasets and RL environments that make AI reliable where mistakes are expensive: finance, healthcare, and legal.<p>We design expert-curated training data, calibrated rubrics, and RL environments for nearly every frontier AI lab as well as startups pushing the frontier of what models can do.<p>We&#x27;re a sm"
+  },
+  "764b58b249ee5a61": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163946_dd81e68bdc.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163946",
+    "keywords": [
+      "native ediscovery platform",
+      "vc &# x2f",
+      "vc &# x2f",
+      "info &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "save teams thousands",
+      "strong product sense",
+      "august 2026 ))",
+      "august 2026 ))"
+    ],
+    "summary": "Phaselaw | Product Engineer | Remote (US) or Hybrid (NYC) | Full-time<p>Phaselaw (<a href=\"https:&#x2F;&#x2F;phase.law\" rel=\"nofollow\">https:&#x2F;&#x2F;phase.law</a>) is building the AI-native eDiscovery platform for in-house legal and privacy teams. We save teams thousands of hours with tools for document review and redaction. You’ll report to the CTO and closely with our entire team."
+  },
+  "a109ab75c352f5c8": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163337_77e3358daf.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163337",
+    "keywords": [
+      "production iteration using snowpark",
+      "improve production ai systems",
+      "forward deployed engineering team",
+      "applied ai &# x2f",
+      "facing ai systems end",
+      "strategic customers .< p",
+      "implementation .< p",
+      "engineer ai engagements",
+      "forward deployed engineer",
+      "forward deployed engineer"
+    ],
+    "summary": "Snowflake | Forward Deployed Engineer | Menlo Park, CA | ONSITE I’m part of Snowflake’s Applied AI &#x2F; Forward Deployed Engineering team, and we’re hiring for two roles: Forward Deployed Engineer and Senior Forward Deployed Engineer.<p>We work directly with strategic customers to design, build, deploy, and improve production AI systems on Snowflake. That includes LLM applications, RAG and agentic workflows, evaluation frameworks, guardrails, observability, and production iteration using Snowp"
+  },
+  "c9d0446c02e35e36": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163520_59a42934e4.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163520",
+    "keywords": [
+      "years shipping production software",
+      "vector tiles ).< p",
+      "end across data infrastructure",
+      "ai agents .< p",
+      "founders .< p",
+      "power systems experts",
+      "150k -$ 210k",
+      "svelte &# x2f",
+      "io &# x2f",
+      "io &# x2f"
+    ],
+    "summary": "Full Stack Software Engineer | San Francisco, CA | Full-time | ONSITE | $150K-$210K + equity<p>Early hire on a lean team (engineers, power systems experts, data scientists, designers) building a SaaS platform. Expect to own larger feature sets within 3 months: gathering requirements, proposing architecture, planning rollout, mentoring teammates. Engineering-led culture with hands-on product vision from founders.<p>Stack: Python, TypeScript, PostgreSQL, SQL, Docker, AWS, GCP, GraphQL, REST APIs, "
+  },
+  "56b5efdb12780882": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163358_5cbd8c75bc.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163358",
+    "keywords": [
+      "build solar fast enough",
+      "renewable generation .< p",
+      "senior robotics software engineer",
+      "senior mechanical engineer",
+      "mobile solar factory",
+      "startup building robots",
+      "sf bay area",
+      "positive climate impact",
+      "paced prototype development",
+      "life .< p"
+    ],
+    "summary": "Charge Robotics | Multiple Roles | Full-time | Onsite | SF Bay Area<p>Hi HN! We’re a YC-backed, Series-A startup building robots that build large-scale solar farms.<p>Check out a video of our first system here! <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;ZZ2fP1Y5Z2E\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;ZZ2fP1Y5Z2E</a><p>It turns out that construction companies literally can&#x27;t build solar fast enough, so what we&#x27;re doing is a crucial part of switching the grid over to renewable "
+  },
+  "49d16852e589c5be": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163907_d41d4d6ac0.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163907",
+    "keywords": [
+      "expected annual base salary",
+      "assistant orchestrates domain tools",
+      "security practitioners .< p",
+      "role scope .< p",
+      "practitioner ux .< p",
+      "asynchronous workflows .< p",
+      "remote team working directly",
+      "edr platforms .< p",
+      "improve detections .< p",
+      "integrating siem &# x2f"
+    ],
+    "summary": "Detections.ai | Full-Stack Engineer, Detection Platform | REMOTE (US &amp; Canada) | Full-time<p>Detections.ai is building the platform for teams to create, test, organize, share, and improve detections.<p>We’re hiring a full-stack&#x2F;product engineer with hands-on detection experience—writing or tuning detections, building SOC tooling, or integrating SIEM&#x2F;EDR platforms.<p>You’ll own product features end to end across React interfaces, backend services, APIs, data models, search, integrat"
+  },
+  "1b27246956b88960": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163458_de9f5fdf02.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163458",
+    "keywords": [
+      "asm ), code scanner",
+      "exciting projects .< p",
+      "one cybersecurity startup",
+      "minded professionals passionate",
+      "attack surface monitoring",
+      "operations .< p",
+      "roles open across",
+      "august 2026 ))",
+      "august 2026 ))",
+      "p >- security"
+    ],
+    "summary": "Oneleet (YC S22) | Multiple Roles | US &amp; NATO Countries | Remote | Full-time<p>Oneleet is an all-in-one cybersecurity startup that has built its own Attack Surface Monitoring (ASM), Code Scanner, Dependency Management, Endpoint Protection, and Compliance Platform. We recently raised a Series A and are growing at an rapid pace and working on some very exciting projects.<p>What we&#x27;re looking for:<p>- Strong problem solvers who can work independently in a remote environment<p>- Security-mi"
+  },
+  "8809682c43d47ff5": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49163308_3e4cd496e0.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49163308",
+    "keywords": [
+      "leading proprietary trading firm",
+      "cloud technologies .< p",
+      "delivering models .< p",
+      "‑ end ml pipelines",
+      "solid math &# x2f",
+      "data science &# x2f",
+      "hong kong &# x2f",
+      "careers &# x2f ;</",
+      "systematic trading models",
+      "hong kong office"
+    ],
+    "summary": "Flow Traders | Research Engineer | Hong Kong&#x2F; London (onsite) | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. You’ll work closely with Quantitative Researchers, drive end‑to‑end ML pipelines, and shape global standards for data‑driven model development. Research Engineers have joint responsibility for conducting research and delivering models.<p>You’ll thrive if you have: - 8"
+  },
+  "a0ed90267d5f2aa8": {
+    "file": "corpus/hackernews/www_quantamagazine_org_hong-wang-wins-2026-fields-medal-the-_a2af81b2b4.md",
+    "source": "hackernews",
+    "title": "Living in the Math World Means Threading the Needle",
+    "url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
+    "keywords": [
+      "math world means threading",
+      "math world means threading",
+      "17z score",
+      "source",
+      "news",
+      "needle",
+      "needle",
+      "living",
+      "living",
+      "hackernews"
+    ],
+    "summary": "# Living in the Math World Means Threading the Needle > Source: hackernews | Category: news | 2026-08-04T04:27:17Z Score: 7 | Comments: 0"
+  },
+  "2fb5ba84381e1b68": {
+    "file": "corpus/hackernews/users_wpi_edu_zrbutzke_Docs_BradburyStories_1_pdf_caef918c5f.md",
+    "source": "hackernews",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "keywords": [
+      "come soft rains",
+      "come soft rains",
+      "11z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# There Will Come Soft Rains (1950) [pdf] > Source: hackernews | Category: news | 2026-08-04T04:27:11Z Score: 65 | Comments: 26"
+  },
+  "22640f9376b49d62": {
+    "file": "corpus/hackernews/github_com_ahatem_IoskeleyMono_da3ed81c31.md",
+    "source": "hackernews",
+    "title": "Ioskeley Mono",
+    "url": "https://github.com/ahatem/IoskeleyMono",
+    "keywords": [
+      "ioskeley mono",
+      "ioskeley mono",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Ioskeley Mono > Source: hackernews | Category: news | 2026-08-04T04:27:15Z Score: 13 | Comments: 0"
+  },
+  "96adeb9998d9617a": {
+    "file": "corpus/hackernews/ochagavia_nl_blog_that-time-when-i-failed-the-microsoft-inte_bce1a49c2f.md",
+    "source": "hackernews",
+    "title": "That time when I failed the Microsoft interview",
+    "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+    "keywords": [
+      "microsoft interview",
+      "microsoft interview",
+      "10z score",
+      "time",
+      "time",
+      "source",
+      "news",
+      "hackernews",
+      "failed",
+      "failed"
+    ],
+    "summary": "# That time when I failed the Microsoft interview > Source: hackernews | Category: news | 2026-08-04T04:27:10Z Score: 23 | Comments: 29"
+  },
+  "694428ff7144c651": {
+    "file": "corpus/hackernews/github_com_leonickson1_Swiftlet_2c81603e7a.md",
+    "source": "hackernews",
+    "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "80b qwen",
+      "80b qwen",
+      "3 gb",
+      "3 gb",
+      "09z score",
+      "source",
+      "run",
+      "run"
+    ],
+    "summary": "# Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone > Source: hackernews | Category: news | 2026-08-04T04:27:09Z Score: 38 | Comments: 9"
+  },
+  "3ee3c79cad747da5": {
+    "file": "corpus/hackernews/blog_rootsofprogress_org_why-did-we-wait-so-long-for-the-bic_0e938460bc.md",
+    "source": "hackernews",
+    "title": "Why did we wait so long for the bicycle? (2019)",
+    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+    "keywords": [
+      "13z score",
+      "wait",
+      "wait",
+      "source",
+      "news",
+      "long",
+      "long",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why did we wait so long for the bicycle? > Source: hackernews | Category: news | 2026-08-04T04:27:13Z Score: 14 | Comments: 3"
   }
 }
