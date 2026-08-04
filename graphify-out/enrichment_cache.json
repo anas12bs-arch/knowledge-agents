@@ -356216,5 +356216,702 @@
       "ollama — v0"
     ],
     "summary": "## What's Changed - Qwen3.5 is faster on Apple GPUs: the MLX engine now uses the model's MTP head for speculative decoding automatically - `/v1/chat/completions` streaming now matches OpenAI's wire format: `role` only on the first chunk, `finish_reason` on its own chunk, and usage in a separate chunk with `stream_options.include_usage`. - `ollama run kimi-k3` now offers `kimi-k3:cloud` for cloud-only models that publish no default tag, instead of failing. Continue using 0.32.5 for image generati"
+  },
+  "3a3d8a891fea174f": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_TKlOCjLMNtw_eec1a52af8.md",
+    "source": "youtube",
+    "title": "[theo] Fable Broke My App and Couldn't Fix It",
+    "url": "https://www.youtube.com/watch?v=TKlOCjLMNtw",
+    "keywords": [
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "6 confidently blamed",
+      "https :// t3",
+      "01z fable broke",
+      "t3 code",
+      "fable broke",
+      "fable broke",
+      "wrong code"
+    ],
+    "summary": "# [theo] Fable Broke My App and Couldn't Fix It Fable Broke My App and Couldn't Fix It T3 Code was burning 50% of my GPU process on an idle page, and both Fable & GPT-5.6 confidently blamed the wrong code, so I had to fix it myself"
+  },
+  "3798e2c21ecee4c6": {
+    "file": "corpus/devto/dev_to_jlmartel_how-to-let-gzip-find-the-signal-in-a-pile-of_ef5544e65f.md",
+    "source": "devto",
+    "title": "How to Let gzip Find the Signal in a Pile of Documents",
+    "url": "https://dev.to/jlmartel/how-to-let-gzip-find-the-signal-in-a-pile-of-documents-2o9g",
+    "keywords": [
+      "let gzip find",
+      "let gzip find",
+      "directory full",
+      "boilerplate ,...",
+      "44z suppose",
+      "text documents",
+      "documents",
+      "documents",
+      "source",
+      "signal"
+    ],
+    "summary": "# How to Let gzip Find the Signal in a Pile of Documents Suppose you have a directory full of text documents. Most are repetitive, padded with boilerplate,..."
+  },
+  "a173a399cfceacdd": {
+    "file": "corpus/devto/dev_to_sachin_krrajput_extra-trees-the-chef-who-stopped-tast_343e83b2d8.md",
+    "source": "devto",
+    "title": "Extra Trees: The Chef Who Stopped Tasting the Soup and Somehow Cooked Faster and Better",
+    "url": "https://dev.to/sachin_krrajput/extra-trees-the-chef-who-stopped-tasting-the-soup-and-somehow-cooked-faster-and-better-3f19",
+    "keywords": [
+      "best split point —...",
+      "somehow cooked faster",
+      "somehow cooked faster",
+      "stops searching",
+      "stopped tasting",
+      "stopped tasting",
+      "random forest",
+      "line summary",
+      "extra trees",
+      "extra trees"
+    ],
+    "summary": "# Extra Trees: The Chef Who Stopped Tasting the Soup and Somehow Cooked Faster and Better > Source: devto | Category: news | 2026-08-04T20:22:44Z The One-Line Summary: Extra Trees is a Random Forest that stops searching for the best split point —..."
+  },
+  "640aaedf507b98d9": {
+    "file": "corpus/devto/dev_to_meticulosity_your-mcp-servers-real-constraint-is-the-_446fd29d72.md",
+    "source": "devto",
+    "title": "Your MCP server's real constraint is the context window, not the API",
+    "url": "https://dev.to/meticulosity/your-mcp-servers-real-constraint-is-the-context-window-not-the-api-5gb9",
+    "keywords": [
+      "hosted version took",
+      "four api behaviours",
+      "token arithmetic",
+      "real constraint",
+      "real constraint",
+      "mcp server",
+      "mcp server",
+      "excerpt scanner",
+      "cost us",
+      "context window"
+    ],
+    "summary": "# Your MCP server's real constraint is the context window, not the API A local stdio MCP server cannot serve claude.ai. Building the hosted version took a day; working out what it should refuse to do took the rest."
+  },
+  "4d5e23d1655c35b1": {
+    "file": "corpus/devto/dev_to_melih_birim_8363f43966da2_one-devto-comment-on-a-benc_9191518ac4.md",
+    "source": "devto",
+    "title": "One dev.to Comment on a Benchmark Post Turned Into 18 Filed Bugs",
+    "url": "https://dev.to/melih_birim_8363f43966da2/one-devto-comment-on-a-benchmark-post-turned-into-18-filed-bugs-5f8l",
+    "keywords": [
+      "mads hansen left ...",
+      "benchmark post comparing csvql",
+      "benchmark post turned",
+      "benchmark post turned",
+      "nyc taxi dataset",
+      "18 filed bugs",
+      "18 filed bugs",
+      "one dev",
+      "one dev",
+      "source"
+    ],
+    "summary": "# One dev.to Comment on a Benchmark Post Turned Into 18 Filed Bugs > Source: devto | Category: news | 2026-08-04T20:22:44Z I published a benchmark post comparing csvql against DuckDB on the NYC taxi dataset."
+  },
+  "3c621eeeb18afdab": {
+    "file": "corpus/devto/dev_to_aniket_misra_e47d1564ab7b_the-js-event-loop-core-ment_c7239a8701.md",
+    "source": "devto",
+    "title": "The JS Event Loop — Core Mental Model (Part 1/3)",
+    "url": "https://dev.to/aniket_misra_e47d1564ab7b/the-js-event-loop-core-mental-model-part-13-289i",
+    "keywords": [
+      "one thing happening",
+      "one call stack",
+      "part 1",
+      "part 1",
+      "code ...",
+      "44z javascript",
+      "yet",
+      "time",
+      "threaded",
+      "source"
+    ],
+    "summary": "# The JS Event Loop — Core Mental Model (Part 1/3) > Source: devto | Category: news | 2026-08-04T20:22:44Z And yet your code..."
+  },
+  "15d9efe5905ec751": {
+    "file": "corpus/devto/dev_to_wahidmmadiha_786_building-homescope-with-floot-and-pe_360e374ac7.md",
+    "source": "devto",
+    "title": "Building HomeScope with Floot and Perfai Security",
+    "url": "https://dev.to/wahidmmadiha_786/building-homescope-with-floot-and-perfai-security-2nh3",
+    "keywords": [
+      "build applications faster ...",
+      "past year alone",
+      "perfai security",
+      "perfai security",
+      "enabled developers",
+      "building homescope",
+      "building homescope",
+      "assisted development",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Building HomeScope with Floot and Perfai Security > Source: devto | Category: news | 2026-08-04T20:22:44Z In the past year alone, AI-assisted development has enabled developers to build applications faster..."
+  },
+  "9d225bd8ac05d515": {
+    "file": "corpus/devto/dev_to_copilotkit_channels-sdk-how-to-bring-your-agent-to-an_525d770a65.md",
+    "source": "devto",
+    "title": "Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)",
+    "url": "https://dev.to/copilotkit/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof",
+    "keywords": [
+      "messaging platforms like slack",
+      "slack app",
+      "microsoft teams",
+      "microsoft teams",
+      "channels sdk",
+      "channels sdk",
+      "41z getting",
+      "slack",
+      "slack",
+      "source"
+    ],
+    "summary": "# Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams) Getting any agent into messaging platforms like Slack is complex. You create a Slack app, handle its..."
+  },
+  "c7b40e7a1d1d8527": {
+    "file": "corpus/devto/dev_to_viramchoksi_nobody-teaches-you-to-debug-39om_5071cee856.md",
+    "source": "devto",
+    "title": "Nobody teaches you to debug",
+    "url": "https://dev.to/viramchoksi/nobody-teaches-you-to-debug-39om",
+    "keywords": [
+      "stack trace ....",
+      "code looks right",
+      "nobody teaches",
+      "nobody teaches",
+      "wrong",
+      "source",
+      "runs",
+      "reactions",
+      "output",
+      "news"
+    ],
+    "summary": "# Nobody teaches you to debug > Source: devto | Category: news | 2026-08-04T20:22:44Z The code looks right."
+  },
+  "9c555ba6a9703c97": {
+    "file": "corpus/devto/dev_to_yukihirokimura_claude-does-not-have-one-memory-system_004ebfbc52.md",
+    "source": "devto",
+    "title": "Claude Does Not Have One Memory System: A Map of Chat, Claude Code, and the API",
+    "url": "https://dev.to/yukihirokimura/claude-does-not-have-one-memory-system-a-map-of-chat-claude-code-and-the-api-1g8j",
+    "keywords": [
+      "one memory system",
+      "one memory system",
+      "44z ask claude",
+      "feel ...",
+      "claude code",
+      "claude code",
+      "claude",
+      "claude",
+      "source"
+    ],
+    "summary": "# Claude Does Not Have One Memory System: A Map of Chat, Claude Code, and the API > Source: devto | Category: news | 2026-08-04T20:22:44Z Ask Claude, “Do you remember what we discussed before?” and the answer can feel..."
+  },
+  "6743fd359e1fd17a": {
+    "file": "corpus/devto/dev_to_taina_costa_f_a-ia-quebrou-o-pipeline-de-devs-juniore_1571a04459.md",
+    "source": "devto",
+    "title": "A IA quebrou o pipeline de devs juniores (e ninguém tá falando disso)",
+    "url": "https://dev.to/taina_costa_f/a-ia-quebrou-o-pipeline-de-devs-juniores-e-ninguem-ta-falando-disso-285l",
+    "keywords": [
+      "pipeline de devs juniores",
+      "pipeline de devs juniores",
+      "ia quebrou",
+      "ia quebrou",
+      "com reactions",
+      "source",
+      "news",
+      "motivo",
+      "devto",
+      "category"
+    ],
+    "summary": "# A IA quebrou o pipeline de devs juniores (e ninguém tá falando disso) Nos últimos dois anos, vi três empresas brasileiras congelarem contratações de júnior. Não por crise — os times seniors estavam contratando."
+  },
+  "5a9f482b625b3c5d": {
+    "file": "corpus/devto/dev_to_min38_osi-7-layer-597h_b25070e11a.md",
+    "source": "devto",
+    "title": "OSI 7 Layer",
+    "url": "https://dev.to/min38/osi-7-layer-597h",
+    "keywords": [
+      "osi 7 layer model",
+      "reference model ...",
+      "osi 7 layer",
+      "osi 7 layer",
+      "open systems interconnection",
+      "44z 1",
+      "osi",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-04T20:22:44Z What is the OSI 7 Layer Model? OSI (Open Systems Interconnection) is a reference model..."
+  },
+  "a3b8b7c45034f6d2": {
+    "file": "corpus/devto/dev_to_adamya_singhshengar_998_i-built-a-tool-that-roasts-yo_ba796dc678.md",
+    "source": "devto",
+    "title": "I built a tool that roasts your code with regex — no AI involved",
+    "url": "https://dev.to/adamya_singhshengar_998/i-built-a-tool-that-roasts-your-code-with-regex-no-ai-involved-38ag",
+    "keywords": [
+      "devs spend 11",
+      "week reviewing ai",
+      "generated code —",
+      "regex —",
+      "regex —",
+      "ai involved",
+      "ai involved",
+      "4 hours",
+      "code",
+      "code"
+    ],
+    "summary": "# I built a tool that roasts your code with regex — no AI involved > Source: devto | Category: news | 2026-08-04T20:22:44Z The problem  In 2026, devs spend 11.4 hours a week reviewing AI-generated code — more time than they..."
+  },
+  "e6a689ed5d0abadb": {
+    "file": "corpus/devto/dev_to_thecodestreet_how-to-use-qwen-3-with-vs-code-free-com_f2b7253881.md",
+    "source": "devto",
+    "title": "How to Use Qwen 3 with VS Code (FREE) | Complete Setup with Ollama",
+    "url": "https://dev.to/thecodestreet/how-to-use-qwen-3-with-vs-code-free-complete-setup-with-ollama-29f8",
+    "keywords": [
+      "use qwen 3",
+      "use qwen 3",
+      "vs code",
+      "vs code",
+      "github copilot",
+      "ever wanted",
+      "complete setup",
+      "complete setup",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How to Use Qwen 3 with VS Code (FREE) | Complete Setup with Ollama > Source: devto | Category: news | 2026-08-04T20:22:44Z Have you ever wanted an AI coding assistant inside VS Code without paying for GitHub Copilot or other..."
+  },
+  "253ea1bb675d673d": {
+    "file": "corpus/devto/dev_to_tahajamal_45-people-installed-a-vs-code-extension-i-b_f637bbb29e.md",
+    "source": "devto",
+    "title": "45 People Used Something I Built Out of Spite",
+    "url": "https://dev.to/tahajamal/45-people-installed-a-vs-code-extension-i-built-out-of-spite-153",
+    "keywords": [
+      "45 people used something",
+      "45 people used something",
+      "44z every developer",
+      "tiniest thing",
+      "mine ...",
+      "one coworker",
+      "one",
+      "spite",
+      "spite",
+      "source"
+    ],
+    "summary": "# 45 People Used Something I Built Out of Spite Every developer has that one coworker. The one who notices the tiniest thing about your setup."
+  },
+  "f9691f61a12dd114": {
+    "file": "corpus/devto/dev_to_sreekanth_kuruba_91721e5d_linux-troubleshooting-workf_6284bc85c4.md",
+    "source": "devto",
+    "title": "Linux Troubleshooting Workflow for Beginners: A Step-by-Step Guide",
+    "url": "https://dev.to/sreekanth_kuruba_91721e5d/linux-troubleshooting-workflow-for-beginners-a-step-by-step-guide-427c",
+    "keywords": [
+      "linux troubleshooting workflow",
+      "linux troubleshooting workflow",
+      "linux problems",
+      "often debugged",
+      "step guide",
+      "step guide",
+      "actually difficult",
+      "step",
+      "step",
+      "difficult"
+    ],
+    "summary": "# Linux Troubleshooting Workflow for Beginners: A Step-by-Step Guide > Source: devto | Category: news | 2026-08-04T20:22:44Z Most Linux problems aren't actually difficult."
+  },
+  "9a3a0c81c5022d9c": {
+    "file": "corpus/devto/dev_to_karamkhoury88_aws-introduction-for-beginner-software-_6349ef0707.md",
+    "source": "devto",
+    "title": "AWS Introduction for Beginner Software Engineers",
+    "url": "https://dev.to/karamkhoury88/aws-introduction-for-beginner-software-engineers-4ec5",
+    "keywords": [
+      "software engineer starting",
+      "might feel overwhelmed",
+      "beginner software engineers",
+      "beginner software engineers",
+      "aws introduction",
+      "aws introduction",
+      "aws",
+      "source",
+      "services",
+      "reactions"
+    ],
+    "summary": "# AWS Introduction for Beginner Software Engineers > Source: devto | Category: news | 2026-08-04T20:22:44Z As a software engineer starting with AWS, you might feel overwhelmed by all the services."
+  },
+  "60f5f18fed5d3420": {
+    "file": "corpus/devto/dev_to_sai_swaroopbijinapalli_5_js-functional-programming-co_edaec73c94.md",
+    "source": "devto",
+    "title": "JS Functional Programming Concepts",
+    "url": "https://dev.to/sai_swaroopbijinapalli_5/js-functional-programming-concepts-6pl",
+    "keywords": [
+      "js functional programming concepts",
+      "js functional programming concepts",
+      "functional programming concepts ...",
+      "mentor expects",
+      "04 task",
+      "week",
+      "understand",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# JS Functional Programming Concepts > Source: devto | Category: news | 2026-08-04T20:22:44Z For your Week-04 Task-2, your mentor expects you to understand the Functional Programming concepts..."
+  },
+  "403877f205992eba": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_04_the-antifa-terrorism-threat-trum_4f17836e01.md",
+    "source": "legal",
+    "title": "[techdirt] The Antifa Terrorism Threat Trump Describes Does Not Exist",
+    "url": "https://www.techdirt.com/2026/08/04/the-antifa-terrorism-threat-trump-describes-does-not-exist/",
+    "keywords": [
+      "marco rubio invited representatives",
+      "60 countries &# 160",
+      "wing political terrorism",
+      "creative commons license",
+      "[&# 8230 ;]",
+      "state &# 160",
+      "&# 160",
+      "&# 160",
+      "state department",
+      "officials billed"
+    ],
+    "summary": "# [techdirt] The Antifa Terrorism Threat Trump Describes Does Not Exist The Antifa Terrorism Threat Trump Describes Does Not Exist This article is republished from The Conversation under a Creative Commons license."
+  },
+  "9ec86d7aafb2f221": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_07_developers-beware-ad-libraries_df309d1fa6.md",
+    "source": "legal",
+    "title": "[eff] Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy",
+    "url": "https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy",
+    "keywords": [
+      "tracking us military personnel",
+      "location data brokers use",
+      "encourage location data sharing",
+      "advertising companies provide developers",
+      "identified several advertising sdks",
+      "sharing users ’ location",
+      "users ’ location privacy",
+      "users ’ location privacy",
+      "share location data",
+      "tracking union organizers"
+    ],
+    "summary": "Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. When developers let advertising SDKs collect location data, they’re putting users at risk of more than just creepy ads. If app developers don’t pay close attention to the location-sharing settings of their advertising tools, they could inadvertently expose users’ location information."
+  },
+  "dc7fdd4a1ba62492": {
+    "file": "corpus/legal/www_eff_org_press_releases_mobile-ad-software-encourages-loc_e2f532cd6b.md",
+    "source": "legal",
+    "title": "[eff] Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds",
+    "url": "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
+    "keywords": [
+      "data brokers .” cohen",
+      "location data brokers use",
+      "widely used advertising sdks",
+      "highlighted four advertising sdks",
+      "leaking users ’ location",
+      "location data brokers",
+      "take extra steps",
+      "software development kits",
+      "pay close attention",
+      "meaningful consent –"
+    ],
+    "summary": "Developers Must Beware of Ad Libraries that Betray Users’ Privacy        SAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track people, an Electronic Frontier Foundation (EFF)  report found . If app developers don’t pay close attention to the location-sharing settings of their advertising tools, they could inadvertently expose"
+  },
+  "6b31aff0d8e6af20": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49173892_054941b4e2.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49173892",
+    "keywords": [
+      "records scattered across 20",
+      "refuted claims included",
+      "largest asset class",
+      "io &# x2f",
+      "io &# x2f",
+      "eu &# x2f",
+      "notes &# x2f",
+      "notes &# x2f",
+      "today .< p",
+      "fun !< p"
+    ],
+    "summary": "Shovels | Remote | Senior Data &amp; Platform (Remote, Europe) | Senior Full-Stack Product (Remote, EU&#x2F;US) | Full-time<p>Everyone building with AI is crowded into the digital world: dev tools, copilots, agents for software people. Meanwhile the largest asset class on earth, the built world, runs on records scattered across 20,000+ US jurisdictions, and most of those have no online portal at all. Bring yours: <a href=\"https:&#x2F;&#x2F;www.shovels.ai&#x2F;careers\" rel=\"nofollow\">https:&#x2F;"
+  },
+  "e2fe0077cb2f4ef3": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49174485_d948ef553a.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49174485",
+    "keywords": [
+      "video modeling .< p",
+      "robotics background required ),",
+      "com &# x2f ;</",
+      "would look like",
+      "public benefit corporation",
+      "great generalist swe",
+      "collect 10m hours",
+      "models .< p",
+      "robot feature stack",
+      "embodiment robot data"
+    ],
+    "summary": "It&#x27;s an open, hackable robot: a full NixOS machine that runs any model, starting at about 4K. Some of our thinking on mission and impact is on our website: <a href=\"https:&#x2F;&#x2F;pantograph.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;pantograph.com&#x2F;</a><p>We&#x27;re hiring across the hardware and ML research teams. We&#x27;re looking for a great generalist SWE to work with our hardware team on our robot feature stack and improve our customer experience (Rust and Python, no robotics"
+  },
+  "88624bf82ab099fa": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49174463_067ec86772.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49174463",
+    "keywords": [
+      "cpg brands like olipop",
+      "~$ 200k –$ 350k",
+      "grew 5x last year",
+      "performance bonus .< p",
+      "200k –$ 350k",
+      "platform &# x2f",
+      "ly &# x2f",
+      "ly &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "Confido | ML Ops, AI, Platform&#x2F;Core | NYC (Chelsea) | $200k–$350k+ Base<p>We&#x27;re building the AI operating system for CPG brands like OLIPOP, Tropicana, Dr. Squatch, Chobani, and 200+ others. Our customers manage over $40B in revenue on Confido. We&#x27;re hiring across multiple engineering teams:<p>Applied AI Engineers MLOps Engineers Backend &amp; Full-Stack Software Engineers Infrastructure Engineers Forward Deployed Engineers<p>Tech stack: Python, Rails, TypeScript, Postgres, AWS, K"
+  },
+  "b45f5c164cbfc85a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49174053_70c36c8a31.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49174053",
+    "keywords": [
+      "onsite &# x2f",
+      "connecting every team",
+      "business platform system",
+      "apply via email",
+      "com &# x2f",
+      "com &# x2f",
+      "august 2026 ))",
+      "august 2026 ))",
+      "find job details",
+      "business .< p"
+    ],
+    "summary": "# HN Hiring (Ask HN: Who is hiring? > Source: hn-hiring | Category: job-skills | 2026-08-04T20:23:43Z OneCrew | Multiple Roles | ONSITE &#x2F; HYBRID | San Francisco, CA<p>OneCrew is the leading full-business platform system, purpose-built for top asphalt and concrete businesses to win more jobs, scale faster, and run smoother, connecting every team, workflow, and dollar across the business.<p>We are a Series A company and looking for individuals to own their domain and accelerate our growth!<p>"
+  },
+  "cba6450749b00b9a": {
+    "file": "corpus/product/techcrunch_com_2026_08_04_meet-wrinkles-an-ai-app-that-uncov_015a6007f2.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "keywords": [
+      "powered audio tour guide",
+      "reveals hidden history",
+      "34z meet wrinkles",
+      "meet wrinkles",
+      "meet wrinkles",
+      "hidden stories",
+      "hidden stories",
+      "hidden stories",
+      "places around",
+      "places around"
+    ],
+    "summary": "# [techcrunch-startups] Meet Wrinkles, an app that uncovers the hidden stories of the places around you Meet Wrinkles, an app that uncovers the hidden stories of the places around you Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+  },
+  "6de77511670f4972": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_iran-cyberattacks-aga_f9e8990175.md",
+    "source": "security",
+    "title": "[schneier] Iran Cyberattacks Against Minnesota Water Systems",
+    "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
+    "keywords": [
+      "grossly incompetent ,&# 8221",
+      "minnesota .&# 8221 ;...",
+      "minnesota water systems attribution",
+      "minnesota water systems",
+      "minnesota water systems",
+      "least seven states",
+      "got bigger problems",
+      "guess &# 8230",
+      "iran .&# 8217",
+      "minnesota &# 8230"
+    ],
+    "summary": "Attribution   is   preliminary , and so far it seems no real damage. And it seems like this is a campaign that has targeted at least  seven states . They like to say, &#8216;Oh, it&#8217;s Iran.&#8217; Iran should be so lucky."
+  },
+  "5acd30d9338137bf": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-xcsset-variant-ta_836ef3adc7.md",
+    "source": "security",
+    "title": "[bleeping-comp] New XCSSET variant targets macOS devs via compromised Xcode projects",
+    "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+    "keywords": [
+      "compromised xcode projects",
+      "xcsset malware",
+      "targeting thousands",
+      "new version",
+      "macos users",
+      "github repositories",
+      "source",
+      "security",
+      "security",
+      "comp"
+    ],
+    "summary": "# [bleeping-comp] New XCSSET variant targets macOS devs via compromised Xcode projects New XCSSET variant targets macOS devs via compromised Xcode projects A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories."
+  },
+  "7e8233d601eae990": {
+    "file": "corpus/hackernews/www_thisandthat_chat_blog_most-tech-revolutions-made-work-wo_1d2a682d74.md",
+    "source": "hackernews",
+    "title": "Most tech revolutions made work worse for employees",
+    "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
+    "keywords": [
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "employees",
+      "employees",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Most tech revolutions made work worse for employees > Source: hackernews | Category: news | 2026-08-04T20:22:39Z Score: 17 | Comments: 0"
+  },
+  "6ca8ddb943d21323": {
+    "file": "corpus/hackernews/bikepacking_com_news_rest-in-peace-heinz-stucke_0e60aac3f0.md",
+    "source": "hackernews",
+    "title": "Rest in Peace, Heinz Stucke, Who Saw the World by Bike",
+    "url": "https://bikepacking.com/news/rest-in-peace-heinz-stucke/",
+    "keywords": [
+      "heinz stucke",
+      "heinz stucke",
+      "40z score",
+      "world",
+      "world",
+      "source",
+      "saw",
+      "saw",
+      "rest",
+      "rest"
+    ],
+    "summary": "# Rest in Peace, Heinz Stucke, Who Saw the World by Bike > Source: hackernews | Category: news | 2026-08-04T20:22:40Z Score: 12 | Comments: 1"
+  },
+  "3432bf2f46740a89": {
+    "file": "corpus/hackernews/github_blog_engineering_architecture-optimization_dont-stop-_c486e857c8.md",
+    "source": "hackernews",
+    "title": "Don't stop early: Case-folding source code at memory speed",
+    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+    "keywords": [
+      "folding source code",
+      "folding source code",
+      "stop early",
+      "stop early",
+      "memory speed",
+      "memory speed",
+      "35z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Don't stop early: Case-folding source code at memory speed > Source: hackernews | Category: news | 2026-08-04T20:22:35Z Score: 4 | Comments: 0"
+  },
+  "7218b60b44d4285e": {
+    "file": "corpus/hackernews/waymo_com_blog_shorts_dallas-open-to-all_b714c9981f.md",
+    "source": "hackernews",
+    "title": "Waymo – Dallas Open to All",
+    "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+    "keywords": [
+      "waymo – dallas open",
+      "waymo – dallas open",
+      "31z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Waymo – Dallas Open to All > Source: hackernews | Category: news | 2026-08-04T20:22:31Z Score: 85 | Comments: 75"
+  },
+  "95e70d45e4705218": {
+    "file": "corpus/hackernews/www_sec_gov_Archives_edgar_data_1795071_000179507126000002_x_bffb46e427.md",
+    "source": "hackernews",
+    "title": "Oxide Computer raises $445M (SEC Form D)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+    "keywords": [
+      "oxide computer raises",
+      "oxide computer raises",
+      "sec form",
+      "sec form",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Oxide Computer raises $445M (SEC Form D) > Source: hackernews | Category: news | 2026-08-04T20:22:40Z Score: 4 | Comments: 1"
+  },
+  "4a8135837ac24590": {
+    "file": "corpus/hackernews/www_vegard_net_the-red-strings-club-review_4e1894cd85.md",
+    "source": "hackernews",
+    "title": "The Red Strings Club",
+    "url": "https://www.vegard.net/the-red-strings-club-review/",
+    "keywords": [
+      "red strings club",
+      "red strings club",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Red Strings Club > Source: hackernews | Category: news | 2026-08-04T20:22:35Z Score: 8 | Comments: 2"
+  },
+  "e913cf84cbeb6d3c": {
+    "file": "corpus/hackernews/writings_stephenwolfram_com_2026_08_in-memory-of-my-wife-eli_e0c34ef06d.md",
+    "source": "hackernews",
+    "title": "Stephen Wolfram's Wife Has Died",
+    "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "keywords": [
+      "stephen wolfram",
+      "stephen wolfram",
+      "33z score",
+      "wife",
+      "wife",
+      "source",
+      "news",
+      "hackernews",
+      "died",
+      "died"
+    ],
+    "summary": "# Stephen Wolfram's Wife Has Died > Source: hackernews | Category: news | 2026-08-04T20:22:33Z Score: 181 | Comments: 12"
+  },
+  "d8b7a3120cfff89c": {
+    "file": "corpus/hackernews/expression_fire_org_p_the-applause-that-disrupted-nothing_adec11d229.md",
+    "source": "hackernews",
+    "title": "The applause that disrupted nothing – yet still led to an arrest",
+    "url": "https://expression.fire.org/p/the-applause-that-disrupted-nothing",
+    "keywords": [
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "arrest",
+      "arrest",
+      "applause",
+      "applause"
+    ],
+    "summary": "# The applause that disrupted nothing – yet still led to an arrest > Source: hackernews | Category: news | 2026-08-04T20:22:39Z Score: 8 | Comments: 1"
+  },
+  "a3318ed6b2e3915c": {
+    "file": "corpus/devops/devops_com_rapidfort-extends-open-source-software-security-r_31dfe40f65.md",
+    "source": "devops",
+    "title": "[devops-com] RapidFort Extends Open Source Software Security Reach to Runtime Environments",
+    "url": "https://devops.com/rapidfort-extends-open-source-software-security-reach-to-runtime-environments/",
+    "keywords": [
+      "secure open source software",
+      "rapidfort runtime platform makes",
+      "runtime environments rapidfort today",
+      "chief marketing officer",
+      "devops teams deploy",
+      "runtime environments",
+      "runtime environments",
+      "production environments",
+      "michael wood",
+      "rapidfort"
+    ],
+    "summary": "# [devops-com] RapidFort Extends Open Source Software Security Reach to Runtime Environments RapidFort today at the Black Hat USA conference announced it has extended its ability to secure open source software to the runtimes that DevOps teams deploy in production environments. Michael Wood, chief marketing officer for RapidFort, said the RapidFort Runtime platform makes it possible to now monitor open source software deployed within a container image [&#8230;]"
   }
 }
