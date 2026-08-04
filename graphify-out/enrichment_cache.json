@@ -355112,5 +355112,457 @@
       "postgres `, `@ prisma"
     ],
     "summary": "- **One `@prisma` package per application** — the `@prisma-next/*` scope is retired; nothing publishes under it again. An application depends on exactly one database facade — `@prisma/orm-postgres`, `@prisma/orm-sqlite`, or `@prisma/orm-mongo` — plus any extension packs it uses (now named `@prisma/orm-extension-*`); everything else arrives as the facade's exact-pinned dependencies. Regenerating your contract rewrites generated imports to facade entrypoints with no `contractHash` change."
+  },
+  "57639785afb7e391": {
+    "file": "corpus/devto/dev_to_cyclopt_dimitrisk_your-model-doesnt-need-to-pass-the-_02a7b67b7c.md",
+    "source": "devto",
+    "title": "Your model doesn't need to pass the bar exam. It needs to parse a log file.",
+    "url": "https://dev.to/cyclopt_dimitrisk/your-model-doesnt-need-to-pass-the-bar-exam-it-needs-to-parse-a-log-file-cj4",
+    "keywords": [
+      "another frontier model claims",
+      "better reasoning ,...",
+      "11z intro every",
+      "new benchmark",
+      "log file",
+      "log file",
+      "bar exam",
+      "bar exam",
+      "model",
+      "model"
+    ],
+    "summary": "# Your model doesn't need to pass the bar exam. It needs to parse a log file. Intro   Every few weeks, another frontier model claims a new benchmark, better reasoning,..."
+  },
+  "babe70b27b33dab4": {
+    "file": "corpus/devto/dev_to_binushefieldshifani_designing-mcp-tools-for-a-7b-mode_769caadb4d.md",
+    "source": "devto",
+    "title": "Designing MCP Tools for a 7B Model, Not a 70B One",
+    "url": "https://dev.to/binushefieldshifani/designing-mcp-tools-for-a-7b-model-not-a-70b-one-4ffg",
+    "keywords": [
+      "based digital twin runs",
+      "designing mcp tools",
+      "designing mcp tools",
+      "battery engineering",
+      "agentic assistant",
+      "actual ...",
+      "7b model",
+      "7b model",
+      "70b one",
+      "70b one"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-04T17:21:12Z I built an agentic assistant for battery engineering. A physics-based digital twin runs the actual..."
+  },
+  "0237b37278726c93": {
+    "file": "corpus/devto/dev_to_sara_mo_how-do-you-build-an-evaluation-harness-for-ai_4928bba4c2.md",
+    "source": "devto",
+    "title": "How Do You Build an Evaluation Harness for AI Agents?",
+    "url": "https://dev.to/sara_mo/how-do-you-build-an-evaluation-harness-for-ai-agents-2khd",
+    "keywords": [
+      "tried ...",
+      "someone asks",
+      "honest answer",
+      "evaluation harness",
+      "evaluation harness",
+      "ai agents",
+      "ai agents",
+      "works",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How Do You Build an Evaluation Harness for AI Agents? You have an agent that works. Now someone asks how you know, and the honest answer is that you tried..."
+  },
+  "b1c32d5cb63f7396": {
+    "file": "corpus/devto/dev_to_leo_chang_4c726afdf3a87eb_how-i-built-a-self-employme_10e2b4bd5d.md",
+    "source": "devto",
+    "title": "How I Built a Self-Employment Tax Calculator with Zero Dependencies",
+    "url": "https://dev.to/leo_chang_4c726afdf3a87eb/how-i-built-a-self-employment-tax-calculator-with-zero-dependencies-5d6g",
+    "keywords": [
+      "social security ,...",
+      "employment tax calculator",
+      "employment tax calculator",
+      "zero dependencies",
+      "zero dependencies",
+      "government takes",
+      "ever see",
+      "source",
+      "self"
+    ],
+    "summary": "# How I Built a Self-Employment Tax Calculator with Zero Dependencies > Source: devto | Category: news | 2026-08-04T17:21:13Z When you get a W-2, the government takes its cut before you ever see the money."
+  },
+  "57629ed94d071756": {
+    "file": "corpus/devto/dev_to_anmolbaranwal_channels-sdk-how-to-bring-your-agent-to_539f7a51e9.md",
+    "source": "devto",
+    "title": "Channels SDK: How to bring Your Agent to Any Channel (Slack, Microsoft Teams)",
+    "url": "https://dev.to/anmolbaranwal/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof",
+    "keywords": [
+      "messaging platforms like slack",
+      "slack app",
+      "microsoft teams",
+      "microsoft teams",
+      "channels sdk",
+      "channels sdk",
+      "12z getting",
+      "slack",
+      "slack",
+      "source"
+    ],
+    "summary": "# Channels SDK: How to bring Your Agent to Any Channel (Slack, Microsoft Teams) Getting any agent into messaging platforms like Slack is complex. You create a Slack app, handle its..."
+  },
+  "c9793c469fd8a38e": {
+    "file": "corpus/devto/dev_to_nabeelbaghoor_cheap-filters-first-llm-last-running-an_acfc5cc2e3.md",
+    "source": "devto",
+    "title": "Cheap Filters First, LLM Last: Running an AI Matcher Inside a Cron Job",
+    "url": "https://dev.to/nabeelbaghoor/cheap-filters-first-llm-last-running-an-ai-matcher-inside-a-cron-job-702",
+    "keywords": [
+      "watches upwork around",
+      "cheap filters first",
+      "cheap filters first",
+      "ai matcher inside",
+      "ai matcher inside",
+      "llm last",
+      "llm last",
+      "cron job",
+      "cron job",
+      "source"
+    ],
+    "summary": "# Cheap Filters First, LLM Last: Running an AI Matcher Inside a Cron Job I run a small SaaS called Upwork Scout. It watches Upwork around the clock and emails you only the..."
+  },
+  "f608e9ae5d637662": {
+    "file": "corpus/devto/dev_to_shubhradev_react-19s-useoptimistic-fixed-my-instant-u_61bc5359ea.md",
+    "source": "devto",
+    "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
+    "url": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
+    "keywords": [
+      "11z part 1",
+      "useoptimistic fixed",
+      "useoptimistic fixed",
+      "useactionstate broke",
+      "useactionstate broke",
+      "reset button",
+      "reset button",
+      "react 19",
+      "react 19",
+      "instant ui"
+    ],
+    "summary": "# React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button This one is about not waiting at all, and about a couple of mistakes I..."
+  },
+  "1de0d922772be84b": {
+    "file": "corpus/ai-research/openai_com_index_learn-teach-chatgpt-work-codex_129511f541.md",
+    "source": "ai-research",
+    "title": "[openai-blog] New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "keywords": [
+      "04z new ways",
+      "new ways",
+      "new ways",
+      "college educators",
+      "chatgpt work",
+      "chatgpt work",
+      "chatgpt work",
+      "chatgpt work",
+      "students learn",
+      "learn"
+    ],
+    "summary": "# [openai-blog] New ways to learn and teach with ChatGPT Work and Codex New ways to learn and teach with ChatGPT Work and Codex Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+  },
+  "be1d6a20774884d4": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_04_capital-one-says-money-launderin_9cbaf41809.md",
+    "source": "legal",
+    "title": "[techdirt] Capital One Says Money Laundering, Not January 6 Riot, Led To Shutdown Of Trump Accounts",
+    "url": "https://www.techdirt.com/2026/08/04/capital-one-says-money-laundering-not-january-6-riot-led-to-shutdown-of-trump-accounts/",
+    "keywords": [
+      "pressuring capital one",
+      "january 6 riot",
+      "january 6 riot",
+      "january 6 riot",
+      "[&# 8230 ;]",
+      "trump organization argued",
+      "anything trump likes",
+      "trump accounts",
+      "trump accounts",
+      "trump accounts"
+    ],
+    "summary": "# [techdirt] Capital One Says Money Laundering, Not January 6 Riot, Led To Shutdown Of Trump Accounts I don&#8217;t know but when your best argument is &#8220;we got locked out of our accounts for supporting violent insurrectionists,&#8221; maybe it&#8217;s time to stop arguing. So, that&#8217;s exactly what the Trump Organization argued, in hopes of pressuring Capital One into a [&#8230;]"
+  },
+  "0b49a52a3060aa0f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_08_can-trump-fcc-repeal-39-_8a67af3dfa.md",
+    "source": "legal",
+    "title": "[ars-policy] Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+    "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+    "keywords": [
+      "congress set ownership limit",
+      "says trump fcc",
+      "says trump fcc",
+      "says trump fcc",
+      "fcc claims authority",
+      "39 %,",
+      "authority",
+      "authority",
+      "authority",
+      "source"
+    ],
+    "summary": "# [ars-policy] Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it Congress set ownership limit at 39%, but FCC claims authority to kill the rule."
+  },
+  "97ab8c58fd4632b4": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49171913_a308411c78.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49171913",
+    "keywords": [
+      "first agentic operating system",
+      "move quickly .< p",
+      "ownership .< p >*",
+      "plus .< p",
+      "market .< p",
+      "interest .< p",
+      "visa sponsorship possible",
+      "seen massive growth",
+      "review applications immediately",
+      "particularly like rust"
+    ],
+    "summary": "Pango | Founding Software Engineer | On-site (hybrid) in Stockholm, Sweden (Visa Sponsorship possible) | Full time<p>Pango is building the world&#x27;s first Agentic Operating System for e-commerce logistics. In less than a year, we have seen massive growth where we can&#x27;t keep up with the demand and need engineers to bring the product faster to the market.<p>You are a good fit if:<p>* You are comfortable maintaining, expanding and operating an B2B SaaS platform with a high sense of ownershi"
+  },
+  "54d4d49ab89b0c09": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49171072_e5c00c9e3f.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49171072",
+    "keywords": [
+      "scaling quickly .< p",
+      "core infrastructure behind real",
+      "production systems .< p",
+      "source contributions .< p",
+      "gta *< p",
+      "python .< p",
+      "webrtc &# x2f",
+      "toronto &# x2f",
+      "including audio streaming",
+      "founding software engineer"
+    ],
+    "summary": "*Strello Health | Founding Software Engineer | Full-time | Hybrid Remote | Toronto&#x2F;GTA*<p>Strello Health builds AI voice agents for healthcare. We’re post-seed, generating revenue, and scaling quickly.<p>You’ll work directly with the founders to build the core infrastructure behind real-time voice conversations, including audio streaming, LLM orchestration, APIs, integrations, observability, and production systems.<p>We’re looking for engineers with experience in backend or platform develop"
+  },
+  "86c1d5a6f4fe4610": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49170963_27ecf32893.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49170963",
+    "keywords": [
+      "technology teams build high",
+      "developer &# x2f ;</",
+      "com &# x2f ;</",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "G-Research | London, UK | On-site | <a href=\"https:&#x2F;&#x2F;www.gresearch.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.gresearch.com&#x2F;</a><p>At G-Research, researchers and engineers work side by side to solve some of the most complex problems in quantitative finance. Together, they develop the research, technology and infrastructure that drive our work in global financial markets.<p>Our Technology teams build high-performance platforms, optimise large-scale compute and enable research "
+  },
+  "6b4e3801df3ef0c2": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49171202_d677b64a4c.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49171202",
+    "keywords": [
+      "join us .< p",
+      "lets every engineering team",
+      "help engineering teams understand",
+      "ai accelerates code creation",
+      "greater confidence .< p",
+      "goldcrest .< p",
+      "se &# x2f",
+      "se &# x2f",
+      "powered software development",
+      "including code search"
+    ],
+    "summary": "Sourcegraph | Remote | Full-Time | SWE, Tech Lead, Agent Engineer, Product Manager, Product Marketing Manager | <a href=\"https:&#x2F;&#x2F;sourcegraph.com\" rel=\"nofollow\">https:&#x2F;&#x2F;sourcegraph.com</a><p>Sourcegraph is building the context layer for AI-powered software development. As AI accelerates code creation, we help engineering teams understand, navigate, and safely change large codebases.<p>Our products, including Code Search, Deep Search, MCP, and Agentic Batch Changes, give devel"
+  },
+  "a5beaaf2b3b825bd": {
+    "file": "corpus/product/techcrunch_com_2026_08_04_take-an-extra-100-off-your-techcru_cdc97ad40a.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+    "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+    "keywords": [
+      "techcrunch disrupt 2026 pass",
+      "techcrunch disrupt 2026 pass",
+      "techcrunch disrupt 2026 pass",
+      "current discounted pricing",
+      "starting today",
+      "nice bonus",
+      "2026",
+      "07z take",
+      "techcrunch",
+      "techcrunch"
+    ],
+    "summary": "# [techcrunch-startups] Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only! Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only! Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
+  },
+  "0544e388b4c7e922": {
+    "file": "corpus/engineering/www_infoq_com_presentations_ai-sdlc-maturity-framework-bottl_12e551ab49.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
+    "url": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "deliver measurable business outcomes",
+      "address critical bottlenecks across",
+      "software development life cycle",
+      "align organizational ai adoption",
+      "improve software delivery",
+      "teams get stuck",
+      "teams get stuck",
+      "ai maturity",
+      "ai maturity",
+      "ai maturity"
+    ],
+    "summary": "# [infoq] Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck She presents a research-backed AI maturity framework designed to help engineering leaders move beyond vanity metrics like token usage, align organizational AI adoption, and address critical bottlenecks across the software development life cycle to deliver measurable business ou"
+  },
+  "ee8d6764a360fe6f": {
+    "file": "corpus/hackernews/blog_rust-lang_org_2026_08_04_enabling-polonius-alpha-on-nig_6aafaec7c4.md",
+    "source": "hackernews",
+    "title": "Enabling the next iteration of the borrow checker on nightly",
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+    "keywords": [
+      "next iteration",
+      "next iteration",
+      "borrow checker",
+      "borrow checker",
+      "11z score",
+      "source",
+      "nightly",
+      "nightly",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Enabling the next iteration of the borrow checker on nightly > Source: hackernews | Category: news | 2026-08-04T17:21:11Z Score: 15 | Comments: 1"
+  },
+  "af1bdfe865236245": {
+    "file": "corpus/hackernews/arxiv_org_abs_2602_16763_735f8b9452.md",
+    "source": "hackernews",
+    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "url": "https://arxiv.org/abs/2602.16763",
+    "keywords": [
+      "ai benchmarks plateau",
+      "ai benchmarks plateau",
+      "systematic study",
+      "systematic study",
+      "benchmark saturation",
+      "benchmark saturation",
+      "04z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation > Source: hackernews | Category: news | 2026-08-04T17:21:04Z Score: 26 | Comments: 20"
+  },
+  "3bfa78d254290293": {
+    "file": "corpus/hackernews/www_ft_com_content_e171131f-e68d-481c-afc4-48f70d51e08a_4acaa39870.md",
+    "source": "hackernews",
+    "title": "Diamond industry misjudged threat of lab-grown gems, says Anglo American CEO",
+    "url": "https://www.ft.com/content/e171131f-e68d-481c-afc4-48f70d51e08a",
+    "keywords": [
+      "says anglo american ceo",
+      "says anglo american ceo",
+      "diamond industry misjudged threat",
+      "diamond industry misjudged threat",
+      "grown gems",
+      "grown gems",
+      "11z score",
+      "source",
+      "news",
+      "lab"
+    ],
+    "summary": "# Diamond industry misjudged threat of lab-grown gems, says Anglo American CEO > Source: hackernews | Category: news | 2026-08-04T17:21:11Z Score: 10 | Comments: 2"
+  },
+  "a187caa53c3b2ab8": {
+    "file": "corpus/hackernews/www_reuters_com_science_webb-telescope-finds-signs-ancient-d_0d4f550e31.md",
+    "source": "hackernews",
+    "title": "Webb telescope finds signs of ancient disaster for Neptune's moons",
+    "url": "https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/",
+    "keywords": [
+      "webb telescope finds signs",
+      "webb telescope finds signs",
+      "ancient disaster",
+      "ancient disaster",
+      "08z score",
+      "source",
+      "news",
+      "neptune",
+      "neptune",
+      "moons"
+    ],
+    "summary": "# Webb telescope finds signs of ancient disaster for Neptune's moons > Source: hackernews | Category: news | 2026-08-04T17:21:08Z Score: 15 | Comments: 2"
+  },
+  "63c531b4f1f7946a": {
+    "file": "corpus/hackernews/www_wheresyoured_at_the-ai-demand-bubble_d730223c3c.md",
+    "source": "hackernews",
+    "title": "The AI Demand Bubble",
+    "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+    "keywords": [
+      "ai demand bubble",
+      "ai demand bubble",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The AI Demand Bubble > Source: hackernews | Category: news | 2026-08-04T17:21:07Z Score: 45 | Comments: 7"
+  },
+  "b7d5df3b7325a586": {
+    "file": "corpus/hackernews/techcrunch_com_2026_08_04_apple-says-more-ex-employees-may-h_239a1d5abd.md",
+    "source": "hackernews",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "keywords": [
+      "taken confidential data",
+      "taken confidential data",
+      "employees may",
+      "employees may",
+      "apple says",
+      "apple says",
+      "05z score",
+      "source",
+      "openai",
+      "openai"
+    ],
+    "summary": "# Apple says more ex-employees may have taken confidential data to OpenAI > Source: hackernews | Category: news | 2026-08-04T17:21:05Z Score: 92 | Comments: 63"
+  },
+  "2f7a9fc8622cab3e": {
+    "file": "corpus/hackernews/observationalepidemiology_blogspot_com_2026_07_its-not-fear-_ddb7baea3b.md",
+    "source": "hackernews",
+    "title": "It's not a fear of 'AI communism'; it's a fear of competitive market capitalism",
+    "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+    "keywords": [
+      "competitive market capitalism",
+      "competitive market capitalism",
+      "ai communism ';",
+      "ai communism \";",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "fear",
+      "fear"
+    ],
+    "summary": "# It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism > Source: hackernews | Category: news | 2026-08-04T17:21:10Z Score: 6 | Comments: 3"
+  },
+  "5d48d7a1b846ac1e": {
+    "file": "corpus/devops/devops_com_airlock-digital-unveils-agentic-ai-control-govern_a323c76fe6.md",
+    "source": "devops",
+    "title": "[devops-com] Airlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security",
+    "url": "https://devops.com/airlock-digital-unveils-agentic-ai-control-governance-to-extend-preventative-endpoint-security/",
+    "keywords": [
+      "extend preventative endpoint security",
+      "extend preventative endpoint security",
+      "4th august 2026",
+      "2026",
+      "source",
+      "infrastructure",
+      "governance",
+      "governance",
+      "governance"
+    ],
+    "summary": "# [devops-com] Airlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security Airlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security Atlanta, GA, 4th August 2026, CyberNewswire"
   }
 }
