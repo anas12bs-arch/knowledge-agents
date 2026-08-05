@@ -1,0 +1,17 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (August 2026))"
+url: "https://news.ycombinator.com/item?id=49189557"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-08-05T22:20:19Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (August 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-08-05T22:20:19Z
+
+NYC | ONSITE (hybrid) Norm Ai, the agentic law company, has a client base with a combined $30 trillion in assets under management. Norm Ai pioneered Legal Engineering, the process that empowers lawyers to build and supervise domain-specific AI agents with Norm’s proprietary suite of no-code software tools. Norm Ai technology is deployed inside many of the largest and most consequential institutions in the world.
+Norm Ai is also the technology behind Norm Law, LLP, a separate but affiliated AI-native law firm built for the era of agentic AI. Norm Law’s attorneys advise leading institutions across private funds, private equity, venture capital, real estate, registered funds, and financial regulation, using the same legal intelligence platform that powers Norm Ai’s products.<p>The company is growing quickly and hiring in NYC across all teams, see list here: <a href="https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;norm-ai?utm_source=7ow8wN5o3g" rel="nofollow">https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;norm-ai?utm_source=7ow8wN5o3g</a>
