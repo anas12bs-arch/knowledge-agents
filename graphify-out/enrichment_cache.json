@@ -364959,5 +364959,399 @@
       "replace workstore isstaticgeneration"
     ],
     "summary": "- [Bench] Fixes for pure Fizz bench: #96771 - Derive foreground cache revalidation from the consumer: #96731 - [turbopack] Raise registration calls in hoisted modules to the top: #96697 - Fix race when navigating Back before hydration: #96252 - docs: present each Skill as steps in the AI agents guide: #96751 - Reuse completed cache entries for the rest of a request: #96727 - Discard only cache entries that predate a tag revalidation: #96726 - Upgrade React from `7dfc7ccd-20260803` to `11eddecd-2"
+  },
+  "545d0e8a39ed6056": {
+    "file": "corpus/devto/dev_to_childrentime_barrel-files-why-indexts-re-exports-hurt_f133bca7d1.md",
+    "source": "devto",
+    "title": "Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)",
+    "url": "https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm",
+    "keywords": [
+      "exports hurt tree shaking",
+      "exports hurt tree shaking",
+      "write one ...",
+      "js dev memory",
+      "js dev memory",
+      "barrel files",
+      "barrel files",
+      "barrel file",
+      "ts whose"
+    ],
+    "summary": "# Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026) > Source: devto | Category: news | 2026-08-06T03:38:59Z A barrel file is an index.ts whose only job is to re-export other modules, so consumers can write one..."
+  },
+  "72fe9e96941aa535": {
+    "file": "corpus/devto/dev_to_alex_nguyen_thumbnail-vs-original-why-most-image-down_a5cb0f1e70.md",
+    "source": "devto",
+    "title": "Thumbnail vs Original — why most image downloaders fail on Etsy and Amazon",
+    "url": "https://dev.to/alex_nguyen/thumbnail-vs-original-why-most-image-downloaders-fail-on-etsy-and-amazon-ok1",
+    "keywords": [
+      "time studying product ...",
+      "thumbnail vs original —",
+      "thumbnail vs original —",
+      "build graphic apparel designs",
+      "image downloaders fail",
+      "image downloaders fail",
+      "want",
+      "tshirts",
+      "spend",
+      "source"
+    ],
+    "summary": "# Thumbnail vs Original — why most image downloaders fail on Etsy and Amazon > Source: devto | Category: news | 2026-08-06T03:38:59Z I build graphic apparel designs at Tshirts I Want, which means I spend a lot of time studying product..."
+  },
+  "8fc6c31165e0291a": {
+    "file": "corpus/devto/dev_to_ohkpond_sidewalk-to-summit-reviving-my-founder-year-i_37a0d55aae.md",
+    "source": "devto",
+    "title": "Sidewalk to Summit: reviving my founder-year idea by building it in public",
+    "url": "https://dev.to/ohkpond/sidewalk-to-summit-reviving-my-founder-year-idea-by-building-it-in-public-1i0d",
+    "keywords": [
+      "year idea",
+      "year idea",
+      "hut hike",
+      "alps hut",
+      "wish",
+      "wandering",
+      "trained",
+      "summit",
+      "summit",
+      "source"
+    ],
+    "summary": "# Sidewalk to Summit: reviving my founder-year idea by building it in public > Source: devto | Category: news | 2026-08-06T03:38:59Z I trained for an Alps hut-to-hut hike by wandering my neighborhood and guessing."
+  },
+  "3fe07eb8bbb2c4d3": {
+    "file": "corpus/devto/dev_to_mikobuilds_i-let-an-ai-agent-into-my-repo-heres-what-_7bce0c00d0.md",
+    "source": "devto",
+    "title": "I let an AI agent into my repo. Here's what I lock down first.",
+    "url": "https://dev.to/mikobuilds/i-let-an-ai-agent-into-my-repo-heres-what-i-lock-down-first-5145",
+    "keywords": [
+      "runs shell commands",
+      "installs packages ,...",
+      "ai coding agent",
+      "ai agent",
+      "ai agent",
+      "source",
+      "repo",
+      "repo",
+      "reads",
+      "reactions"
+    ],
+    "summary": "# I let an AI agent into my repo. An AI coding agent isn't autocomplete. It runs shell commands, reads your files, installs packages,..."
+  },
+  "186fd4b973579def": {
+    "file": "corpus/devto/dev_to_hrutav_modha_c0c028285f7e_introducing-driftjs-an-ultr_9e7610e15d.md",
+    "source": "devto",
+    "title": "Introducing DriftJS: An Ultra-Fast, Register-Based Bytecode VM Framework",
+    "url": "https://dev.to/hrutav_modha_c0c028285f7e/introducing-driftjs-an-ultra-fast-register-based-bytecode-vm-framework-4j9g",
+    "keywords": [
+      "based bytecode vm framework",
+      "based bytecode vm framework",
+      "virtual dom diffing",
+      "grained reactivity ...",
+      "introducing driftjs",
+      "introducing driftjs",
+      "frontend ecosystem",
+      "always evolving",
+      "ultra",
+      "ultra"
+    ],
+    "summary": "# Introducing DriftJS: An Ultra-Fast, Register-Based Bytecode VM Framework > Source: devto | Category: news | 2026-08-06T03:39:02Z The frontend ecosystem is always evolving, moving from Virtual DOM diffing to fine-grained reactivity..."
+  },
+  "59f1487ae030978d": {
+    "file": "corpus/devto/dev_to_gracesoftdev_snap-a-dish-get-a-recipe-building-graces_2d1f21090a.md",
+    "source": "devto",
+    "title": "Snap a Dish, Get a Recipe: Building GraceSoft DishLens Solo",
+    "url": "https://dev.to/gracesoftdev/snap-a-dish-get-a-recipe-building-gracesoft-dishlens-solo-5d36",
+    "keywords": [
+      "building gracesoft dishlens solo",
+      "building gracesoft dishlens solo",
+      "gracesoft cms",
+      "vibe coding",
+      "exciting ...",
+      "week",
+      "source",
+      "something",
+      "snap",
+      "snap"
+    ],
+    "summary": "# Snap a Dish, Get a Recipe: Building GraceSoft DishLens Solo > Source: devto | Category: news | 2026-08-06T03:38:59Z This week the recording of GraceSoft CMS's \"vibe coding\" series is on pause."
+  },
+  "e4598e2fa4399100": {
+    "file": "corpus/devto/dev_to_matatbread_the-llm-is-an-alu-lessons-from-a-zx-spectr_741f212e8e.md",
+    "source": "devto",
+    "title": "The LLM is an ALU - Lessons from a ZX Spectrum",
+    "url": "https://dev.to/matatbread/the-llm-is-an-alu-lessons-from-a-zx-spectrum-2o5h",
+    "keywords": [
+      "02z every time",
+      "llm agent calls",
+      "zx spectrum",
+      "zx spectrum",
+      "dollars —",
+      "llm",
+      "llm",
+      "tool",
+      "tax",
+      "source"
+    ],
+    "summary": "# The LLM is an ALU - Lessons from a ZX Spectrum > Source: devto | Category: news | 2026-08-06T03:39:02Z Every time your LLM agent calls a tool and reads the result, you're paying a tax."
+  },
+  "d22391c9eb8b4389": {
+    "file": "corpus/devto/dev_to_axmalgorithmops_why-i-built-axioma-a-zero-allocation-_e9a2d366d7.md",
+    "source": "devto",
+    "title": "Why I built axioma: A zero-allocation, division-free universal compression algorithm",
+    "url": "https://dev.to/axmalgorithmops/why-i-built-axioma-a-zero-allocation-division-free-universal-compression-algorithm-301o",
+    "keywords": [
+      "free universal compression algorithm",
+      "free universal compression algorithm",
+      "people build projects",
+      "ram ,...",
+      "fun fact",
+      "core monsters",
+      "built axioma",
+      "built axioma",
+      "128 gb",
+      "02z btw"
+    ],
+    "summary": "# Why I built axioma: A zero-allocation, division-free universal compression algorithm > Source: devto | Category: news | 2026-08-06T03:39:02Z Btw , here’s a fun fact: while some people build projects on 64-core monsters with 128 GB of RAM,..."
+  },
+  "77589b42c9317606": {
+    "file": "corpus/devto/dev_to_pranav-dev_i-ported-python-semanticversion-to-rust-in_373672b43d.md",
+    "source": "devto",
+    "title": "I ported `python-semanticversion` to Rust in 72 hours",
+    "url": "https://dev.to/pranav-dev/i-ported-python-semanticversion-to-rust-in-72-hours-5e83",
+    "keywords": [
+      "python → rust ),",
+      "resurrect dead code",
+      "port mortem 2026",
+      "rewrote ...",
+      "72 hours",
+      "72 hours",
+      "rust",
+      "rust",
+      "python",
+      "python"
+    ],
+    "summary": "# I ported `python-semanticversion` to Rust in 72 hours > Source: devto | Category: news | 2026-08-06T03:39:00Z For Port Mortem 2026 (a 72-hour \"resurrect dead code\" hackathon, Track D: Python → Rust), I rewrote..."
+  },
+  "38e30e8c346d7f65": {
+    "file": "corpus/devto/dev_to_waterplea_css-challenges-for-200-iq-ghl_2c1a1f255c.md",
+    "source": "devto",
+    "title": "CSS Challenges for 200 IQ",
+    "url": "https://dev.to/waterplea/css-challenges-for-200-iq-ghl",
+    "keywords": [
+      "ever get",
+      "css challenges",
+      "css challenges",
+      "200 iq",
+      "200 iq",
+      "working",
+      "wall",
+      "task",
+      "source"
+    ],
+    "summary": "# CSS Challenges for 200 IQ > Source: devto | Category: news | 2026-08-06T03:38:59Z Do you ever get that feeling when you’re working on a task, hit a wall with some problem, and..."
+  },
+  "3f156e2200ddd95e": {
+    "file": "corpus/devto/dev_to_paragonkit_15-green-checks-and-a-stale-demo-5gj_cefc27a7e4.md",
+    "source": "devto",
+    "title": "15 green checks and a stale demo",
+    "url": "https://dev.to/paragonkit/15-green-checks-and-a-stale-demo-5gj",
+    "keywords": [
+      "15 green checks",
+      "15 green checks",
+      "fifteen automated checks",
+      "stale demo",
+      "stale demo",
+      "release script",
+      "fifteen",
+      "source",
+      "reactions",
+      "passed"
+    ],
+    "summary": "# 15 green checks and a stale demo I have a release script with fifteen automated checks. Then I opened my own..."
+  },
+  "9f2ac53fc413478b": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_05_budget-cuts-apathy-lead-to-trump_ef8c760741.md",
+    "source": "legal",
+    "title": "[techdirt] Budget Cuts, Apathy Lead To Trump Administration Being Slow Acknowledging Two Cyclosporiasis Deaths",
+    "url": "https://www.techdirt.com/2026/08/05/budget-cuts-apathy-lead-to-trump-administration-being-slow-acknowledging-two-cyclosporiasis-deaths/",
+    "keywords": [
+      "begin [&# 8230 ;]",
+      "foodnet tracking platform",
+      "current cyclosporiasis outbreak",
+      "country &# 8217",
+      "cdc &# 8217",
+      "50z budget cuts",
+      "&# 8217",
+      "&# 8217",
+      "budget cuts",
+      "budget cuts"
+    ],
+    "summary": "# [techdirt] Budget Cuts, Apathy Lead To Trump Administration Being Slow Acknowledging Two Cyclosporiasis Deaths Budget Cuts, Apathy Lead To Trump Administration Being Slow Acknowledging Two Cyclosporiasis Deaths You&#8217;ll have heard about this outbreak in the news by now."
+  },
+  "dd3dda7671e6346d": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49191343_6f37b2f6b4.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49191343",
+    "keywords": [
+      "visa sponsorship .< p",
+      "careers &# x2f ;</",
+      "40 hrs &# x2f",
+      "ci &# x2f",
+      "1 &# x2f",
+      "years professional experience",
+      "role spans architecture",
+      "quality bar sits",
+      "comfortable owning architecture",
+      "io &# x2f"
+    ],
+    "summary": "Early-stage health &amp; wellness startup | Senior Engineer | Chicago or REMOTE (US) | Contract, 40 hrs&#x2F;wk<p>We&#x27;re an early-stage venture building a new mission-driven mobile product in health &amp; wellness, hiring a senior engineer to own the mobile + backend stack end-to-end and set the technical foundation for scale.<p>The role spans architecture, mobile, backend, infra, and the engineering-quality bar sits with you. Small team, high ownership, direct access to the CEO.<p>Stack: Re"
+  },
+  "e4db8a71170471fc": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_export-ai-gateway-traces-with-vercel-dr_d2b7bf04c0.md",
+    "source": "vercel-blog",
+    "title": "Export AI Gateway traces with Vercel Drains",
+    "url": "https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains",
+    "keywords": [
+      "export ai gateway traces",
+      "export ai gateway traces",
+      "vercel drains",
+      "vercel drains",
+      "vercel drains",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog"
+    ],
+    "summary": "# Export AI Gateway traces with Vercel Drains > Source: vercel-blog | Category: news | 2026-08-06T03:39:03Z Export AI Gateway traces with Vercel Drains"
+  },
+  "e0b58931d3583258": {
+    "file": "corpus/hackernews/www_greyblake_com_blog_branchless-rust_d2481f90f9.md",
+    "source": "hackernews",
+    "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+    "url": "https://www.greyblake.com/blog/branchless-rust/",
+    "keywords": [
+      "filter 4x faster",
+      "filter 4x faster",
+      "branchless rust",
+      "branchless rust",
+      "51z score",
+      "source",
+      "removing",
+      "removing",
+      "news",
+      "making"
+    ],
+    "summary": "# Branchless Rust: Making a Filter 4x Faster by Removing an If > Source: hackernews | Category: news | 2026-08-06T03:38:51Z Score: 44 | Comments: 7"
+  },
+  "e9dddf3473404b35": {
+    "file": "corpus/hackernews/nicolo_xyz_something-is-changing-in-the-unit-economics-of-so_be4546be28.md",
+    "source": "hackernews",
+    "title": "Something is changing in the unit economics of software",
+    "url": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+    "keywords": [
+      "unit economics",
+      "unit economics",
+      "53z score",
+      "source",
+      "something",
+      "something",
+      "software",
+      "software",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Something is changing in the unit economics of software > Source: hackernews | Category: news | 2026-08-06T03:38:53Z Score: 46 | Comments: 32"
+  },
+  "d927be3a2f21c645": {
+    "file": "corpus/hackernews/www_truegrittexturesupply_com_blogs_news_origins-of-the-vint_2c49f02ae8.md",
+    "source": "hackernews",
+    "title": "The Origins of Vintage Comics Part 1",
+    "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+    "keywords": [
+      "vintage comics part 1",
+      "vintage comics part 1",
+      "53z score",
+      "source",
+      "origins",
+      "origins",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# The Origins of Vintage Comics Part 1 > Source: hackernews | Category: news | 2026-08-06T03:38:53Z Score: 15 | Comments: 1"
+  },
+  "600388f1543eec61": {
+    "file": "corpus/hackernews/www_bfswa_blog_p_llms-wont-break-symmetric-crypto_838e9c0a46.md",
+    "source": "hackernews",
+    "title": "LLMs won't break symmetric crypto",
+    "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+    "keywords": [
+      "break symmetric crypto",
+      "break symmetric crypto",
+      "50z score",
+      "source",
+      "news",
+      "llms",
+      "llms",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# LLMs won't break symmetric crypto > Source: hackernews | Category: news | 2026-08-06T03:38:50Z Score: 47 | Comments: 39"
+  },
+  "92d1889956c65187": {
+    "file": "corpus/hackernews/marcin_juszkiewicz_com_pl_2026_07_29_new-keyboard-alicja-v2_865ead93f5.md",
+    "source": "hackernews",
+    "title": "New Keyboard: Alicja v2",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/",
+    "keywords": [
+      "new keyboard",
+      "new keyboard",
+      "alicja v2",
+      "alicja v2",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# New Keyboard: Alicja v2 > Source: hackernews | Category: news | 2026-08-06T03:38:54Z Score: 4 | Comments: 0"
+  },
+  "2b0006da6614eda3": {
+    "file": "corpus/hackernews/www_costar_com_article_970809918_nashville-council-approves-_566235ea8e.md",
+    "source": "hackernews",
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "keywords": [
+      "nashville uses eminent domain",
+      "nashville uses eminent domain",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Nashville uses eminent domain to block data center near zoo > Source: hackernews | Category: news | 2026-08-06T03:38:50Z Score: 70 | Comments: 61"
+  },
+  "f5f78bcc22563b10": {
+    "file": "corpus/hackernews/www_thenation_com_article_politics_thomson-reuters-ice-immig_da5e18ee77.md",
+    "source": "hackernews",
+    "title": "Thomson Reuters Employees Demand That ICE 'Leave Our Cities",
+    "url": "https://www.thenation.com/article/politics/thomson-reuters-ice-immigration-voting-data/",
+    "keywords": [
+      "thomson reuters employees demand",
+      "thomson reuters employees demand",
+      "58z score",
+      "source",
+      "news",
+      "leave",
+      "leave",
+      "ice",
+      "ice",
+      "hackernews"
+    ],
+    "summary": "# Thomson Reuters Employees Demand That ICE \"Leave Our Cities\" > Source: hackernews | Category: news | 2026-08-06T03:38:58Z Score: 7 | Comments: 5"
   }
 }
