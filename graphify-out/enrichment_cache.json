@@ -364788,5 +364788,176 @@
       "23z ## crewaiinc"
     ],
     "summary": "### Features - Bump Flow canary on release - Add URLReadTool for reading arbitrary URLs - Add app metadata to platform action tools - Unify scaffolding under `crewai create <resource>` ### Bug Fixes - Clarify conversational route/handler name collision errors ### Documentation - Update scaffold AGENTS.md for unified create CLI"
+  },
+  "8b23ebe20f9e948c": {
+    "file": "corpus/devto/dev_to_fromzerotoship_my-gate-rejected-the-useless-indicator_3cfadbfabf.md",
+    "source": "devto",
+    "title": "My gate rejected the useless indicator instantly. Then it certified the worst one I own, at p=.001.",
+    "url": "https://dev.to/fromzerotoship/my-gate-rejected-the-useless-indicator-instantly-then-it-certified-the-worst-one-i-own-at-p001-4j6e",
+    "keywords": [
+      "p =. 001",
+      "p =. 001",
+      "useless indicator instantly",
+      "useless indicator instantly",
+      "worst one",
+      "worst one",
+      "weeks ago",
+      "gate rejected",
+      "gate rejected",
+      "indicator"
+    ],
+    "summary": "Then it certified the worst one I own, at p=.001. A few weeks ago I killed an indicator of mine in public. I had been trying to work out how much of..."
+  },
+  "becab817203d0598": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_ai-browsers-zero-click-agent-_94fa4cff81.md",
+    "source": "security",
+    "title": "[dark-reading] AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+    "url": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+    "keywords": [
+      "click agent hijacking attackers",
+      "47z ai browsers vulnerable",
+      "click agent hijacking",
+      "click agent hijacking",
+      "ai browsers vulnerable",
+      "ai browsers vulnerable",
+      "malicious instructions hidden",
+      "ai browsers",
+      "take control",
+      "simple fix"
+    ],
+    "summary": "# [dark-reading] AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat."
+  },
+  "92f69f0becf58981": {
+    "file": "corpus/security/www_darkreading_com_application-security_no-perfect-fix-ai-b_cc708ad7bf.md",
+    "source": "security",
+    "title": "[dark-reading] No Perfect Fix for AI Browser Prompt Injection Flaws",
+    "url": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+    "keywords": [
+      "top vendors remain vulnerable",
+      "perfect fix",
+      "perfect fix",
+      "perfect fix",
+      "new research",
+      "source",
+      "security",
+      "security",
+      "reading",
+      "reading"
+    ],
+    "summary": "# [dark-reading] No Perfect Fix for AI Browser Prompt Injection Flaws No Perfect Fix for AI Browser Prompt Injection Flaws AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research."
+  },
+  "01bd498f14626840": {
+    "file": "corpus/hackernews/www_wired_com_story_dhs-wants-protesters-signal-group-chats_91583df99f.md",
+    "source": "hackernews",
+    "title": "DHS Wants Protesters' Signal Group Chats",
+    "url": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+    "keywords": [
+      "signal group chats",
+      "signal group chats",
+      "dhs wants protesters",
+      "dhs wants protesters",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DHS Wants Protesters' Signal Group Chats > Source: hackernews | Category: news | 2026-08-06T00:15:50Z Score: 5 | Comments: 0"
+  },
+  "07883918c56a5b83": {
+    "file": "corpus/hackernews/shuklaayu_sh_blog_riscv-recompiler_1ce1b16f91.md",
+    "source": "hackernews",
+    "title": "Pushing the limits of RISC-V emulation",
+    "url": "https://shuklaayu.sh/blog/riscv-recompiler",
+    "keywords": [
+      "v emulation",
+      "v emulation",
+      "47z score",
+      "source",
+      "risc",
+      "risc",
+      "pushing",
+      "pushing",
+      "news",
+      "limits"
+    ],
+    "summary": "# Pushing the limits of RISC-V emulation > Source: hackernews | Category: news | 2026-08-06T00:15:47Z Score: 8 | Comments: 1"
+  },
+  "5353091f5d3954a3": {
+    "file": "corpus/hackernews/unsung_aresluna_org_as-a-windows-user-its-a-very-surreal-way_f49f048077.md",
+    "source": "hackernews",
+    "title": "A Gallery of Installing from .dmg",
+    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "keywords": [
+      "51z score",
+      "source",
+      "news",
+      "installing",
+      "installing",
+      "hackernews",
+      "gallery",
+      "gallery",
+      "dmg",
+      "dmg"
+    ],
+    "summary": "# A Gallery of Installing from .dmg > Source: hackernews | Category: news | 2026-08-06T00:15:51Z Score: 4 | Comments: 0"
+  },
+  "22a7289eb3cb426f": {
+    "file": "corpus/hackernews/www_davidrevoy_com_article1164_when-online-commenters-detect_9daf33a450.md",
+    "source": "hackernews",
+    "title": "When online commenters detect my art as AI",
+    "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+    "keywords": [
+      "online commenters detect",
+      "online commenters detect",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "art",
+      "art"
+    ],
+    "summary": "# When online commenters detect my art as AI > Source: hackernews | Category: news | 2026-08-06T00:15:52Z Score: 4 | Comments: 0"
+  },
+  "578e20065b4b745f": {
+    "file": "corpus/hackernews/evanjconrad_com_posts_end-of-software_9712aad610.md",
+    "source": "hackernews",
+    "title": "The End of Software",
+    "url": "https://evanjconrad.com/posts/end-of-software",
+    "keywords": [
+      "52z score",
+      "source",
+      "software",
+      "software",
+      "news",
+      "hackernews",
+      "end",
+      "end",
+      "comments",
+      "category"
+    ],
+    "summary": "# The End of Software > Source: hackernews | Category: news | 2026-08-06T00:15:52Z Score: 6 | Comments: 1"
+  },
+  "f11b318207957056": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_4_bf9e72e315.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.4 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.4",
+    "keywords": [
+      "instant navigation quick start",
+      "remove workstore execution mode",
+      "pass explicit render capabilities",
+      "4 ### misc changes",
+      "use tailwind turbopack loader",
+      "reuse completed cache entries",
+      "derive foreground cache revalidation",
+      "separate app route render",
+      "separate app page render",
+      "replace workstore isstaticgeneration"
+    ],
+    "summary": "- [Bench] Fixes for pure Fizz bench: #96771 - Derive foreground cache revalidation from the consumer: #96731 - [turbopack] Raise registration calls in hoisted modules to the top: #96697 - Fix race when navigating Back before hydration: #96252 - docs: present each Skill as steps in the AI agents guide: #96751 - Reuse completed cache entries for the rest of a request: #96727 - Discard only cache entries that predate a tag revalidation: #96726 - Upgrade React from `7dfc7ccd-20260803` to `11eddecd-2"
   }
 }
