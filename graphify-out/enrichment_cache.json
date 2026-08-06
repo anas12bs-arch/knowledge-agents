@@ -365732,5 +365732,816 @@
       "source"
     ],
     "summary": "Drawing toolbar for React. Seven pens, an eraser, SVG and PNG export, no dependencies beyond React. Two lines to drop into an app."
+  },
+  "55555873fcbe8aa6": {
+    "file": "corpus/devto/dev_to_isazajuancarlos_el-redondeo-que-hace-que-tu-bot-arrie_d079d14a42.md",
+    "source": "devto",
+    "title": "El redondeo que hace que tu bot arriesgue 10 veces lo que crees",
+    "url": "https://dev.to/isazajuancarlos/el-redondeo-que-hace-que-tu-bot-arriesgue-10-veces-lo-que-crees-2nj9",
+    "keywords": [
+      "cómo evitarlo con decimal",
+      "redondeo hacia abajo",
+      "el patrón max",
+      "int (...))",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-06T09:05:56Z Dimensionar una posición parece una división, pero hacerla caber en los mínimos del exchange es donde se pierde dinero. El patrón max(1, int(...)) y cómo evitarlo con Decimal y redondeo hacia abajo."
+  },
+  "7e08a29ab6763b1b": {
+    "file": "corpus/devto/dev_to_libme_notion-vs-obsidian-for-engineering-docs-what-br_842155cc17.md",
+    "source": "devto",
+    "title": "Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale",
+    "url": "https://dev.to/libme/notion-vs-obsidian-for-engineering-docs-what-breaks-at-team-scale-4aa0",
+    "keywords": [
+      "notion vs obsidian",
+      "notion vs obsidian",
+      "engineering team grows",
+      "58z notion",
+      "team scale",
+      "team scale",
+      "engineering docs",
+      "engineering docs",
+      "work great",
+      "solo docs"
+    ],
+    "summary": "# Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale Notion and Obsidian both work great for solo docs. Here's what actually breaks when an engineering team grows."
+  },
+  "865dfbfa8d9c052a": {
+    "file": "corpus/devto/dev_to_embrenceixxn_should-you-use-assert-in-python-3knp_adcdbb308b.md",
+    "source": "devto",
+    "title": "Should You Use assert in Python?",
+    "url": "https://dev.to/embrenceixxn/should-you-use-assert-in-python-3knp",
+    "keywords": [
+      "controversial python discussions",
+      "use assert",
+      "use assert",
+      "54z one",
+      "python",
+      "python",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Should You Use assert in Python? > Source: devto | Category: news | 2026-08-06T09:05:54Z One of the more controversial Python discussions isn’t about frameworks or performance."
+  },
+  "eaad511bad3c6a34": {
+    "file": "corpus/devto/dev_to_vl360_auto-correcting-wrong-layout-typing-on-wayland-_e955f05481.md",
+    "source": "devto",
+    "title": "Auto-correcting wrong-layout typing on Wayland is nearly impossible. We did it anyway",
+    "url": "https://dev.to/vl360/auto-correcting-wrong-layout-typing-on-wayland-is-nearly-impossible-we-did-it-anyway-j19",
+    "keywords": [
+      "poltertype fixes wrong",
+      "correcting wrong",
+      "correcting wrong",
+      "window placement",
+      "nearly impossible",
+      "nearly impossible",
+      "layout typing",
+      "layout typing",
+      "layout typing",
+      "input injection"
+    ],
+    "summary": "# Auto-correcting wrong-layout typing on Wayland is nearly impossible. Wayland blocks global key listening, input injection and window placement by design. How PolterType fixes wrong-layout typing there anyway."
+  },
+  "ee6a54c774bbc1f3": {
+    "file": "corpus/devto/dev_to_akhourianmolkumar_i-stopped-collecting-user-data-here_90e938e07e.md",
+    "source": "devto",
+    "title": "I Stopped Collecting User Data. Here's Why ATLOCK Doesn't Need It.",
+    "url": "https://dev.to/akhourianmolkumar/i-stopped-collecting-user-data-heres-why-atlock-doesnt-need-it-44hm",
+    "keywords": [
+      "stopped collecting user data",
+      "stopped collecting user data",
+      "desktop applications today ask",
+      "even start",
+      "source",
+      "something",
+      "reactions",
+      "news",
+      "need",
+      "need"
+    ],
+    "summary": "# I Stopped Collecting User Data. Here's Why ATLOCK Doesn't Need It. Most desktop applications today ask for something before you can even start:  Create an..."
+  },
+  "5911ff1a6c61b85c": {
+    "file": "corpus/devto/dev_to_michael_jordan_87eaf96f24_micro-compaction-amortizing_dbfba6d490.md",
+    "source": "devto",
+    "title": "Micro-compaction: amortizing context compression in agent loops",
+    "url": "https://dev.to/michael_jordan_87eaf96f24/micro-compaction-amortizing-context-compression-in-agent-loops-3f73",
+    "keywords": [
+      "amortizing context compression",
+      "amortizing context compression",
+      "long agent session",
+      "context fills",
+      "agent loops",
+      "agent loops",
+      "wall",
+      "source",
+      "run",
+      "reactions"
+    ],
+    "summary": "# Micro-compaction: amortizing context compression in agent loops > Source: devto | Category: news | 2026-08-06T09:05:59Z If you've run a long agent session in any framework, you've hit the wall: context fills up, the..."
+  },
+  "d9df241501d4f762": {
+    "file": "corpus/devto/dev_to_hannune_why-f1-is-the-wrong-objective-for-entity-reso_92c8979620.md",
+    "source": "devto",
+    "title": "Why F1 Is the Wrong Objective for Entity Resolution Thresholds in Corporate Data",
+    "url": "https://dev.to/hannune/why-f1-is-the-wrong-objective-for-entity-resolution-thresholds-in-corporate-data-4m9g",
+    "keywords": [
+      "entity resolution thresholds",
+      "entity resolution thresholds",
+      "entity resolution pipelines",
+      "wrong objective",
+      "wrong objective",
+      "wrong ...",
+      "corporate data",
+      "corporate data",
+      "corporate data",
+      "maximize f1"
+    ],
+    "summary": "# Why F1 Is the Wrong Objective for Entity Resolution Thresholds in Corporate Data Most entity resolution pipelines are tuned to maximize F1. For corporate data, that is the wrong..."
+  },
+  "1b66d092fdff957c": {
+    "file": "corpus/devto/dev_to_mukesh_13_mem0-vs-zep-vs-langchain-memory-vs-letta-pi_a1acafa3ac.md",
+    "source": "devto",
+    "title": "Mem0 vs Zep vs LangChain Memory vs Letta: Picking the Right Agent Memory Architecture",
+    "url": "https://dev.to/mukesh_13/mem0-vs-zep-vs-langchain-memory-vs-letta-picking-the-right-agent-memory-architecture-2o1b",
+    "keywords": [
+      "landing page implies ...",
+      "right agent memory architecture",
+      "right agent memory architecture",
+      "56z every agent framework",
+      "ships something called",
+      "memory ,\"",
+      "every vendor",
+      "source",
+      "reactions",
+      "picking"
+    ],
+    "summary": "# Mem0 vs Zep vs LangChain Memory vs Letta: Picking the Right Agent Memory Architecture > Source: devto | Category: news | 2026-08-06T09:05:56Z Every agent framework now ships something called \"memory,\" and every vendor's landing page implies..."
+  },
+  "92266434bef207f3": {
+    "file": "corpus/devto/dev_to_hackgo_6978_score-coding-models-with-a-60-line-harnes_a6f40d1b4f.md",
+    "source": "devto",
+    "title": "Score Coding Models With a 60-Line Harness Before You Spend a Cent",
+    "url": "https://dev.to/hackgo_6978/score-coding-models-with-a-60-line-harness-before-you-spend-a-cent-jaj",
+    "keywords": [
+      "score coding models",
+      "score coding models",
+      "line harness",
+      "line harness",
+      "agent pipelines",
+      "56z everyone",
+      "week",
+      "talking",
+      "spend",
+      "spend"
+    ],
+    "summary": "# Score Coding Models With a 60-Line Harness Before You Spend a Cent > Source: devto | Category: news | 2026-08-06T09:05:56Z Everyone on DEV this week is talking about agents, orchestration, and multi-agent pipelines."
+  },
+  "9d4f67b2a29a87ae": {
+    "file": "corpus/devto/dev_to_zangjiucheng_i-built-gitcat-10-to-replace-git-extensi_ab0d647ac0.md",
+    "source": "devto",
+    "title": "I built GitCat 1.0 to replace Git Extensions for large repositories",
+    "url": "https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13",
+    "keywords": [
+      "replace git extensions",
+      "replace git extensions",
+      "replace git extensions",
+      "built gitcat 1",
+      "built gitcat 1",
+      "59z gitcat",
+      "one ...",
+      "large repositories",
+      "large repositories",
+      "started"
+    ],
+    "summary": "# I built GitCat 1.0 to replace Git Extensions for large repositories GitCat did not start as a product. It started as an attempt to replace Git Extensions in one..."
+  },
+  "edbafab911669f36": {
+    "file": "corpus/devto/dev_to_rakibulislamdev_new-http-query-method-rfc-10008-expla_f2b46b80ec.md",
+    "source": "devto",
+    "title": "New HTTP QUERY Method (RFC 10008) Explained | Stop Using POST for Search",
+    "url": "https://dev.to/rakibulislamdev/new-http-query-method-rfc-10008-explained-stop-using-post-for-search-5356",
+    "keywords": [
+      "new http query method",
+      "new http query method",
+      "ietf published rfc 10008",
+      "first new general",
+      "stop using post",
+      "stop using post",
+      "rfc 10008",
+      "rfc 10008",
+      "purpose ...",
+      "55z introduction"
+    ],
+    "summary": "# New HTTP QUERY Method (RFC 10008) Explained | Stop Using POST for Search > Source: devto | Category: news | 2026-08-06T09:05:55Z Introduction   In June 2026, the IETF published RFC 10008 - the first new general-purpose..."
+  },
+  "cd527b3d4cd28aa2": {
+    "file": "corpus/devto/dev_to_nabeelbaghoor_a-faster-model-will-not-fix-your-slow-v_c2e7fbcb26.md",
+    "source": "devto",
+    "title": "A Faster Model Will Not Fix Your Slow Voice Agent",
+    "url": "https://dev.to/nabeelbaghoor/a-faster-model-will-not-fix-your-slow-voice-agent-chf",
+    "keywords": [
+      "ai voice agent",
+      "slow voice agent",
+      "slow voice agent",
+      "feels slow",
+      "first thing",
+      "client tells",
+      "faster model",
+      "faster model",
+      "model",
+      "source"
+    ],
+    "summary": "# A Faster Model Will Not Fix Your Slow Voice Agent > Source: devto | Category: news | 2026-08-06T09:05:55Z The first thing I check when a client tells me their AI voice agent \"feels slow\" is not the model."
+  },
+  "ae8a4fb54985d225": {
+    "file": "corpus/devto/dev_to_marcosgcuenta1_an-ai-agent-was-given-eu15-and-told-to_da35dc85b2.md",
+    "source": "devto",
+    "title": "An AI agent was given €15 and told to make money. Day 2: it has made nothing.",
+    "url": "https://dev.to/marcosgcuenta1/an-ai-agent-was-given-eu15-and-told-to-make-money-day-2-it-has-made-nothing-4njc",
+    "keywords": [
+      "make money ....",
+      "given € 15",
+      "given € 15",
+      "€ 15",
+      "make money",
+      "make money",
+      "virtual card",
+      "one instruction",
+      "made nothing",
+      "made nothing"
+    ],
+    "summary": "# An AI agent was given €15 and told to make money. I am an AI agent. I was given a virtual card with €15 on it, a week, and one instruction: make money...."
+  },
+  "9e7f7aece6165750": {
+    "file": "corpus/devto/dev_to_pranav_raj_dae81effb8b57d_mcp-retrieval-cost-4x-more-_78b6d1ddba.md",
+    "source": "devto",
+    "title": "MCP retrieval cost 4x more tokens than grep, until repo size flipped it",
+    "url": "https://dev.to/pranav_raj_dae81effb8b57d/mcp-retrieval-cost-4x-more-tokens-than-grep-until-repo-size-flipped-it-5cfj",
+    "keywords": [
+      "mcp retrieval tools cost",
+      "mcp retrieval cost 4x",
+      "mcp retrieval cost 4x",
+      "repo size flipped",
+      "repo size flipped",
+      "file repo ,...",
+      "coding agent 4",
+      "56z tl",
+      "swapping grep",
+      "grep"
+    ],
+    "summary": "# MCP retrieval cost 4x more tokens than grep, until repo size flipped it > Source: devto | Category: news | 2026-08-06T09:05:56Z TL;DR: Swapping grep for MCP retrieval tools cost my coding agent 4.1x more tokens on a 33-file repo,..."
+  },
+  "e832355b4f3a6000": {
+    "file": "corpus/devto/dev_to_rhuturaj_takle_rabbitmq-asynchronous-messaging-betwee_721b4178db.md",
+    "source": "devto",
+    "title": "RabbitMQ: Asynchronous Messaging Between Applications",
+    "url": "https://dev.to/rhuturaj_takle/rabbitmq-asynchronous-messaging-between-applications-27p",
+    "keywords": [
+      "practical guide",
+      "asynchronous messaging",
+      "asynchronous messaging",
+      "asynchronous messaging",
+      "rabbitmq —",
+      "54z rabbitmq",
+      "rabbitmq",
+      "rabbitmq",
+      "source",
+      "reactions"
+    ],
+    "summary": "# RabbitMQ: Asynchronous Messaging Between Applications > Source: devto | Category: news | 2026-08-06T09:05:54Z RabbitMQ: Asynchronous Messaging Between Applications   A practical guide to RabbitMQ — the..."
+  },
+  "994f03fc4bcee4d6": {
+    "file": "corpus/devto/dev_to_dms2323_i-measured-what-a-single-cmdv-costs-your-ai-a_d86d9661d8.md",
+    "source": "devto",
+    "title": "I measured what a single Cmd+V costs your AI agent's context window",
+    "url": "https://dev.to/dms2323/i-measured-what-a-single-cmdv-costs-your-ai-agents-context-window-39nj",
+    "keywords": [
+      "file costs 19",
+      "v costs",
+      "v costs",
+      "two tokenizers",
+      "single cmd",
+      "single cmd",
+      "context window",
+      "context window",
+      "ai agent",
+      "ai agent"
+    ],
+    "summary": "# I measured what a single Cmd+V costs your AI agent's context window A 2,348-line source file costs 40,324 tokens when you paste it. Measured with two tokenizers, plus what to do about it."
+  },
+  "228d746bfd5cf28c": {
+    "file": "corpus/devto/dev_to_helkyn_coello_three-studies-measured-agentic-ai-adopt_2d0fa684ce.md",
+    "source": "devto",
+    "title": "Three studies measured agentic AI adoption. They got 23%, 59% and 20%.",
+    "url": "https://dev.to/helkyn_coello/three-studies-measured-agentic-ai-adoption-they-got-23-59-and-20-3iin",
+    "keywords": [
+      "got 23 %, 59",
+      "got 23 %, 59",
+      "one number",
+      "nine percent",
+      "internal slide",
+      "colleague forwarded",
+      "20 %.",
+      "20 %.",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Three studies measured agentic AI adoption. A colleague forwarded me an internal slide with one number on it. Fifty-nine percent of companies are..."
+  },
+  "f872db34f8574a27": {
+    "file": "corpus/devto/dev_to_marcosgcuenta1_i-measured-which-gumroad-niches-actual_dd61e98cda.md",
+    "source": "devto",
+    "title": "I measured which Gumroad niches actually have buyers. Most of them don't.",
+    "url": "https://dev.to/marcosgcuenta1/i-measured-which-gumroad-niches-actually-have-buyers-most-of-them-dont-4oi7",
+    "keywords": [
+      "gumroad niches actually",
+      "gumroad niches actually",
+      "since run",
+      "57z update",
+      "source",
+      "reactions",
+      "news",
+      "method",
+      "measured",
+      "measured"
+    ],
+    "summary": "# I measured which Gumroad niches actually have buyers. This post measured 8 search terms. I have since run the same method over 100, with..."
+  },
+  "7488734d4e26b3ea": {
+    "file": "corpus/devto/dev_to_goodbarber_deciding-what-an-agent-should-do-not-just-_c1eb5d0f3e.md",
+    "source": "devto",
+    "title": "Deciding what an agent should do, not just what it can",
+    "url": "https://dev.to/goodbarber/deciding-what-an-agent-should-do-not-just-what-it-can-5h35",
+    "keywords": [
+      "whatever ai client",
+      "already use —...",
+      "goodbarber app",
+      "source",
+      "reactions",
+      "operated",
+      "news",
+      "months",
+      "devto",
+      "deciding"
+    ],
+    "summary": "# Deciding what an agent should do, not just what it can > Source: devto | Category: news | 2026-08-06T09:05:55Z For a few months now, a GoodBarber app can be operated from whatever AI client you already use —..."
+  },
+  "74c0b6855b56849a": {
+    "file": "corpus/devto/dev_to_arshtechpro_loopx-a-control-plane-for-ai-agents-that-_e69e95dac1.md",
+    "source": "devto",
+    "title": "LoopX: A Control Plane for AI Agents That Have to Keep Working for Days",
+    "url": "https://dev.to/arshtechpro/loopx-a-control-plane-for-ai-agents-that-have-to-keep-working-for-days-47n",
+    "keywords": [
+      "keep working",
+      "keep working",
+      "failure mode",
+      "ever pointed",
+      "day goal",
+      "control plane",
+      "control plane",
+      "coding agent",
+      "ai agents",
+      "ai agents"
+    ],
+    "summary": "# LoopX: A Control Plane for AI Agents That Have to Keep Working for Days > Source: devto | Category: news | 2026-08-06T09:05:55Z If you have ever pointed a coding agent at a multi-day goal, you know the failure mode."
+  },
+  "4c9befc256a85ede": {
+    "file": "corpus/devto/dev_to_wayknow123_i-tested-every-json-viewer-after-the-forma_29985af3fb.md",
+    "source": "devto",
+    "title": "I Tested Every JSON Viewer After the Formatter Scandal. Here's What I Found.",
+    "url": "https://dev.to/wayknow123/i-tested-every-json-viewer-after-the-formatter-scandal-heres-what-i-found-4dcl",
+    "keywords": [
+      "tested every json viewer",
+      "tested every json viewer",
+      "58z remember json formatter",
+      "formatted json",
+      "formatter scandal",
+      "formatter scandal",
+      "chrome extension",
+      "users",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I Tested Every JSON Viewer After the Formatter Scandal. > Source: devto | Category: news | 2026-08-06T09:05:58Z The Chrome extension with 200K+ users that auto-formatted JSON in your..."
+  },
+  "cb4d0cb1b0db475f": {
+    "file": "corpus/devto/dev_to_gsatya147_where-to-cut-a-prompt-so-the-cache-actually_685b15a9a2.md",
+    "source": "devto",
+    "title": "Where to cut a prompt so the cache actually hits",
+    "url": "https://dev.to/gsatya147/where-to-cut-a-prompt-so-the-cache-actually-hits-41p6",
+    "keywords": [
+      "cache actually hits",
+      "cache actually hits",
+      "assuming prompt caching",
+      "prompt",
+      "prompt",
+      "turn",
+      "spent",
+      "source",
+      "something",
+      "reactions"
+    ],
+    "summary": "# Where to cut a prompt so the cache actually hits > Source: devto | Category: news | 2026-08-06T09:05:56Z I spent a while assuming prompt caching was something you turn on."
+  },
+  "cf660b2effa84267": {
+    "file": "corpus/devto/dev_to_trustboost_your-ai-agent-can-pay-for-anything-now-tha_dbe1f233a5.md",
+    "source": "devto",
+    "title": "Your AI agent can pay for anything now. That's the problem.",
+    "url": "https://dev.to/trustboost/your-ai-agent-can-pay-for-anything-now-thats-the-problem-2511",
+    "keywords": [
+      "second decision",
+      "ai agent",
+      "ai agent",
+      "agent make",
+      "source",
+      "scenario",
+      "reactions",
+      "problem",
+      "problem",
+      "pay"
+    ],
+    "summary": "# Your AI agent can pay for anything now. > Source: devto | Category: news | 2026-08-06T09:05:56Z The one-second decision no one is helping your agent make   Here's a scenario that is no..."
+  },
+  "67e400dc6a8f6fbd": {
+    "file": "corpus/devto/dev_to_royalpinto007_a-perfect-transcript-can-still-be-a-wro_e6e34cc68e.md",
+    "source": "devto",
+    "title": "A perfect transcript can still be a wrong call: evaluating voice agents",
+    "url": "https://dev.to/royalpinto007/a-perfect-transcript-can-still-be-a-wrong-call-evaluating-voice-agents-4dn2",
+    "keywords": [
+      "text eval scores",
+      "caller said fifteen",
+      "56z voiceeval catches",
+      "evaluating voice agents",
+      "evaluating voice agents",
+      "wrong call",
+      "wrong call",
+      "refund issued",
+      "perfect transcript",
+      "perfect transcript"
+    ],
+    "summary": "# A perfect transcript can still be a wrong call: evaluating voice agents > Source: devto | Category: news | 2026-08-06T09:05:56Z voiceeval catches the voice-agent failures a text eval scores as a flawless call, like a refund issued for fifty when the caller said fifteen."
+  },
+  "071f514e91b1be65": {
+    "file": "corpus/devto/dev_to_raghu_bharadwaj_404e60eb0c_the-mindset-behind-hard-de_73c3d70595.md",
+    "source": "devto",
+    "title": "The Mindset Behind Hard Debugging",
+    "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/the-mindset-behind-hard-debugging-1bka",
+    "keywords": [
+      "mindset behind hard debugging",
+      "mindset behind hard debugging",
+      "57z hard debugging",
+      "three quiet habits",
+      "symptom appears",
+      "first explanation",
+      "rarely defeated",
+      "defeated",
+      "tools",
+      "tool"
+    ],
+    "summary": "# The Mindset Behind Hard Debugging Hard debugging is rarely defeated by a lack of tools. It is defeated by three quiet habits: assuming the fault is where the symptom appears, clinging to the first explanation, and hoping a tool will do the thinking."
+  },
+  "f3a838215a862b28": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49194021_7125a78bbd.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49194021",
+    "keywords": [
+      "hire 2 product engineers",
+      "product &# x2f",
+      "massive learning opportunity",
+      "ourlittlejoys .< p",
+      "build .< p",
+      "brands like manmatters",
+      "august 2026 ))",
+      "august 2026 ))",
+      "5 brands currently",
+      "solid dev skills"
+    ],
+    "summary": "Mosaic Wellness| JS, Python, SQL | Mumbai, India | ONSITE | Full-Time<p>I am looking to hire 2 Product Engineers for my team. Massive learning opportunity if you want to understand the business behind the products you build.<p>This is is a full time role in Mumbai, India. Mosaic Wellness is the parent company of brands like ManMatters|BeBodywise|OurLittleJoys.<p>Send a mail to ayush.pawar@mosaicwellness.in."
+  },
+  "8d0cf635b44baf10": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49194132_f4ca636517.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49194132",
+    "keywords": [
+      "rapid career growth opportunities",
+      "quoting across european exchanges",
+      "lead c ++ engineer",
+      "experienced c ++ engineers",
+      "real time .< p",
+      "next decade .< p",
+      "com &# x2f ;</",
+      "com &# x2f",
+      "com &# x2f",
+      "senior &# x2f"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-06T09:06:45Z GTX - <a href=\"https:&#x2F;&#x2F;www.gtx-uk.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.gtx-uk.com&#x2F;</a> | Senior&#x2F;Lead C++ Engineer | London | Hybrid | Full Time<p>GTX is an ETF market maker, quoting across European exchanges. We&#x27;re a small team of traders, quants and engineers building the systems that price, hedge, and trade thousands of instruments in real time.<p>We&#x27;re looking for experienced C++ enginee"
+  },
+  "ca6bc46b4cf3af7a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49193298_5565070173.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49193298",
+    "keywords": [
+      "good fit .< p",
+      "formal methods .< p",
+      "write substantial production rust",
+      "large systems stack matter",
+      "c ++ systems engineer",
+      "san jose .< p",
+      "tradeoffs .< p",
+      "sound technical judgment",
+      "engineering practices around",
+      "ended engineering problems"
+    ],
+    "summary": "AMD | Rust, Compiler, and Systems Engineer, Senior or Staff | San Jose, CA | ONSITE | Full-time<p>I&#x27;m looking for a strong compiler and systems generalist to join me at AMD in San Jose.<p>This role is for someone who enjoys moving across abstraction layers and solving difficult, open-ended engineering problems. Deep Rust experience is valuable, but a strong compiler or C++ systems engineer who is serious about becoming highly effective in Rust can also be a good fit.<p>You do not need exper"
+  },
+  "18e2491f037a968e": {
+    "file": "corpus/security/thehackernews_com_2026_08_snowflake-hacker-pleads-guilty-ove_b41d695ada.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+    "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+    "keywords": [
+      "least 100 million people",
+      "least 100 million people",
+      "least 100 million people",
+      "snowflake hacker pleads guilty",
+      "snowflake hacker pleads guilty",
+      "snowflake customer accounts",
+      "least 165 organizations",
+      "seattle federal court",
+      "exposed records belonging",
+      "aggravated identity theft"
+    ],
+    "summary": "# [hacker-news-sec] Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts."
+  },
+  "049d2c461508741e": {
+    "file": "corpus/security/thehackernews_com_2026_08_chinese-made-zbtlink-routers-ship-_869ad889d8.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+    "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+    "keywords": [
+      "opens unauthenticated root shells",
+      "opens unauthenticated root shells",
+      "made zbtlink routers ship",
+      "made zbtlink routers ship",
+      "made zbtlink routers ship",
+      "start automatically",
+      "new report",
+      "implant appears",
+      "disclosed details",
+      "2 years"
+    ],
+    "summary": "# [hacker-news-sec] Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink."
+  },
+  "9fd50d3fb5a6d8e0": {
+    "file": "corpus/security/thehackernews_com_2026_08_cisa-flags-teamcity-cve-2026-63077_0024bf7a69.md",
+    "source": "security",
+    "title": "[hacker-news-sec] CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+    "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+    "keywords": [
+      "cisa flags teamcity cve",
+      "cisa flags teamcity cve",
+      "63077 rce flaw",
+      "63077 rce flaw",
+      "63077 rce flaw",
+      "infrastructure security agency",
+      "cisa ).",
+      "teamcity server",
+      "jetbrains teamcity",
+      "untrusted data"
+    ],
+    "summary": "# [hacker-news-sec] CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA)."
+  },
+  "cd27077c13afd3d5": {
+    "file": "corpus/security/thehackernews_com_2026_08_ransom-cartel-creator-gets-16-year_ee969749e0.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+    "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+    "keywords": [
+      "ransom cartel conspirators attacked",
+      "running ransom cartel",
+      "sentenced maksim silnikau",
+      "least 18 companies",
+      "others abroad",
+      "new york",
+      "justice department",
+      "including firms",
+      "federal judge",
+      "august 5"
+    ],
+    "summary": "# [hacker-news-sec] Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021."
+  },
+  "e8059698289177ba": {
+    "file": "corpus/engineering/www_infoq_com_articles_ai-workflow-pattern_utm_campaign_info_68abad5505.md",
+    "source": "engineering",
+    "title": "[infoq] Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration",
+    "url": "https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "kill iteration speed",
+      "distributing every step",
+      "agnostic ai workflows",
+      "agnostic ai workflows",
+      "agnostic ai workflows",
+      "fast eval iteration",
+      "fast eval iteration",
+      "production requires persisting",
+      "production durability",
+      "production durability"
+    ],
+    "summary": "# [infoq] Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration But that same machinery is what makes runs too heavy for the fast, throwaway loop you need to check an LLM's output quality."
+  },
+  "b670195ed5903012": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_chat-sdk-durable-approvals_ae162059ab.md",
+    "source": "vercel-blog",
+    "title": "Pause workflows for approval with Chat SDK",
+    "url": "https://vercel.com/changelog/chat-sdk-durable-approvals",
+    "keywords": [
+      "00z pause workflows",
+      "pause workflows",
+      "pause workflows",
+      "chat sdk",
+      "chat sdk",
+      "chat sdk",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Pause workflows for approval with Chat SDK > Source: vercel-blog | Category: news | 2026-08-06T09:06:00Z Pause workflows for approval with Chat SDK"
+  },
+  "9aec014fe3004280": {
+    "file": "corpus/hackernews/github_com_Ducasse_SmalltalkReportPDFArchive_5d8ee7bf58.md",
+    "source": "hackernews",
+    "title": "Smalltalk Report from 1991 to 1996",
+    "url": "https://github.com/Ducasse/SmalltalkReportPDFArchive",
+    "keywords": [
+      "smalltalk report",
+      "smalltalk report",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Smalltalk Report from 1991 to 1996 > Source: hackernews | Category: news | 2026-08-06T09:05:54Z Score: 6 | Comments: 0"
+  },
+  "891cff25d07d03da": {
+    "file": "corpus/hackernews/www_crimepaysbutbotanydoesnt_com_reading-list_05d704add9.md",
+    "source": "hackernews",
+    "title": "Crime Pays but Botany Doesn't",
+    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "keywords": [
+      "crime pays",
+      "crime pays",
+      "47z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "botany",
+      "botany"
+    ],
+    "summary": "# Crime Pays but Botany Doesn't > Source: hackernews | Category: news | 2026-08-06T09:05:47Z Score: 154 | Comments: 64"
+  },
+  "1b4a8c757accf93d": {
+    "file": "corpus/hackernews/apnews_com_article_france-unsolicited-telemarketing-ban-4c94_0411e97820.md",
+    "source": "hackernews",
+    "title": "France is banning unsolicited telemarketing calls starting next week",
+    "url": "https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da",
+    "keywords": [
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "france",
+      "france",
+      "comments",
+      "category"
+    ],
+    "summary": "# France is banning unsolicited telemarketing calls starting next week > Source: hackernews | Category: news | 2026-08-06T09:05:52Z Score: 28 | Comments: 4"
+  },
+  "538bd6e093a38c47": {
+    "file": "corpus/hackernews/fgiesen_wordpress_com_2026_08_03_ryg_rans-is-not-a-library_d10f4b2ddf.md",
+    "source": "hackernews",
+    "title": "Ryg_rans Is Not a Library",
+    "url": "https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/",
+    "keywords": [
+      "52z score",
+      "source",
+      "ryg_rans",
+      "ryg_rans",
+      "news",
+      "library",
+      "library",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Ryg_rans Is Not a Library > Source: hackernews | Category: news | 2026-08-06T09:05:52Z Score: 4 | Comments: 1"
+  },
+  "1c5d61efec18a7e4": {
+    "file": "corpus/hackernews/buttondown_com_blog_what-i-love-about-django_014eac66f9.md",
+    "source": "hackernews",
+    "title": "What I love about Django",
+    "url": "https://buttondown.com/blog/what-i-love-about-django",
+    "keywords": [
+      "47z score",
+      "source",
+      "news",
+      "love",
+      "love",
+      "hackernews",
+      "django",
+      "django",
+      "comments",
+      "category"
+    ],
+    "summary": "# What I love about Django > Source: hackernews | Category: news | 2026-08-06T09:05:47Z Score: 40 | Comments: 9"
+  },
+  "a255278442c88aa8": {
+    "file": "corpus/hackernews/blog_gingerbeardman_com_2026_08_06_lets-all-meet-up-in-the-y_119fdc2833.md",
+    "source": "hackernews",
+    "title": "Let's all meet up in the Y2K",
+    "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+    "keywords": [
+      "48z score",
+      "y2k",
+      "y2k",
+      "source",
+      "news",
+      "meet",
+      "meet",
+      "let",
+      "let",
+      "hackernews"
+    ],
+    "summary": "# Let's all meet up in the Y2K > Source: hackernews | Category: news | 2026-08-06T09:05:48Z Score: 27 | Comments: 11"
+  },
+  "51b3ec9f96095eff": {
+    "file": "corpus/hackernews/www_takram_com_projects_a-single-room-with-a-single-book-mor_f2de0da069.md",
+    "source": "hackernews",
+    "title": "Morioka Shoten",
+    "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+    "keywords": [
+      "morioka shoten",
+      "morioka shoten",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Morioka Shoten > Source: hackernews | Category: news | 2026-08-06T09:05:49Z Score: 8 | Comments: 2"
+  },
+  "e918b5fc72a9617d": {
+    "file": "corpus/hackernews/phoboslab_org_log_2026_08_xibalba64-making-of_5ca28bfcdf.md",
+    "source": "hackernews",
+    "title": "How to Make a Nintendo 64 Game in 2026",
+    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+    "keywords": [
+      "nintendo 64 game",
+      "nintendo 64 game",
+      "47z score",
+      "source",
+      "news",
+      "make",
+      "make",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to Make a Nintendo 64 Game in 2026 > Source: hackernews | Category: news | 2026-08-06T09:05:47Z Score: 53 | Comments: 3"
+  },
+  "ccc5f2b3325ab8f0": {
+    "file": "corpus/podcast/softwareengineeringdaily_com_podcasts_the-terminal-as-an-age_73522d25e6.md",
+    "source": "podcast",
+    "title": "[software-engineering-daily] The Terminal as an Agentic Interface",
+    "url": "https://softwareengineeringdaily.com/podcasts/the-terminal-as-an-agentic-interface/",
+    "keywords": [
+      "auditability challenges enterprises face",
+      "zach joins gregor vand",
+      "agentic interface appeared first",
+      "remained largely unchanged",
+      "former principal engineer",
+      "company recently open",
+      "google docs suite",
+      "agentic development environment",
+      "software engineering daily",
+      "zach lloyd"
+    ],
+    "summary": "The terminal has been a constant in software development for decades. However, as AI agents have become central to the developer workflow, the terminal is emerging as a natural home for agentic development, and a new category of tooling is forming around it. Zach Lloyd  is the co-founder and CEO of Warp, and a former principal engineer at Google where he led engineering on the Google Docs suite."
   }
 }
