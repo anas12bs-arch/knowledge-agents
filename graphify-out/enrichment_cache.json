@@ -367281,5 +367281,940 @@
       "0 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-06T13:11:43Z Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.37.md). See the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.37.md) for more details."
+  },
+  "21a00ace57fdd02d": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48206_monzo-tops-one-million-bu_2c5cb62986.md",
+    "source": "finance",
+    "title": "[finextra] Monzo tops one million business accounts",
+    "url": "https://www.finextra.com/newsarticle/48206/monzo-tops-one-million-business-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "first british digital bank",
+      "source",
+      "finextra",
+      "finextra",
+      "finance",
+      "finance",
+      "category",
+      "become",
+      "2026"
+    ],
+    "summary": "# [finextra] Monzo tops one million business accounts Monzo tops one million business accounts Monzo has become the first British digital bank to surpass one million business customers."
+  },
+  "67089279be95f05b": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48207_nayax-and-zaria-file-for-_96e9166ff6.md",
+    "source": "finance",
+    "title": "[finextra] Nayax and Zaria file for bank charters",
+    "url": "https://www.finextra.com/newsarticle/48207/nayax-and-zaria-file-for-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "bank charters israeli payments",
+      "structured finance zaria systems",
+      "loyalty platform nayax",
+      "bank charters",
+      "bank charters",
+      "zaria file",
+      "zaria file",
+      "zaria file",
+      "market credit",
+      "latest fintechs"
+    ],
+    "summary": "# [finextra] Nayax and Zaria file for bank charters Nayax and Zaria file for bank charters Israeli payments and loyalty platform Nayax and infrastructure provider for mark-to-market credit and structured finance Zaria Systems are the latest fintechs to file applications in the US to charter banks."
+  },
+  "742e25dda0d5c61f": {
+    "file": "corpus/youtube/www_youtube_com_shorts_jFQr9KACXNU_12f2d070a1.md",
+    "source": "youtube",
+    "title": "[theo] Anthropic Needs New Engineers",
+    "url": "https://www.youtube.com/shorts/jFQr9KACXNU",
+    "keywords": [
+      "anthropic needs new engineers",
+      "anthropic needs new engineers",
+      "literally insane want",
+      "https :// t3",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "youtube",
+      "video",
+      "video",
+      "twitter"
+    ],
+    "summary": "# [theo] Anthropic Needs New Engineers Want to sponsor a video? Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "43a4dd2d7fc37efe": {
+    "file": "corpus/devto/dev_to_kostyabartashevich_optimizing-an-18-tb-azure-sql-hype_a0432f53c6.md",
+    "source": "devto",
+    "title": "Optimizing an 18 TB Azure SQL Hyperscale Database — Part 4: Reclaiming Terabytes",
+    "url": "https://dev.to/kostyabartashevich/optimizing-an-18-tb-azure-sql-hyperscale-database-part-4-reclaiming-terabytes-2j2k",
+    "keywords": [
+      "heavily loaded production database",
+      "running dbcc shrinkfile",
+      "47z used vs",
+      "reclaiming terabytes",
+      "reclaiming terabytes",
+      "backup cost",
+      "allocated space",
+      "source",
+      "reactions",
+      "optimizing"
+    ],
+    "summary": "# Optimizing an 18 TB Azure SQL Hyperscale Database — Part 4: Reclaiming Terabytes > Source: devto | Category: news | 2026-08-06T15:26:47Z Used vs. allocated space, running DBCC SHRINKFILE against a heavily loaded production database, and what it does to backup cost."
+  },
+  "149024d451c4ec64": {
+    "file": "corpus/devto/dev_to_nazarii-ahapevych_the-check-that-could-not-fail-55n4_13aea89243.md",
+    "source": "devto",
+    "title": "The check that could not fail",
+    "url": "https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4",
+    "keywords": [
+      "one cheap way",
+      "release whether",
+      "ask python",
+      "47z context",
+      "write",
+      "source",
+      "semantic",
+      "reactions",
+      "news",
+      "fail"
+    ],
+    "summary": "# The check that could not fail > Source: devto | Category: news | 2026-08-06T15:26:47Z Context   There is one cheap way to ask python-semantic-release whether it will write your..."
+  },
+  "59ef8dad4350c331": {
+    "file": "corpus/devto/dev_to_arnavsharma2711_what-actually-happens-when-you-run-gi_a4c5dfaff9.md",
+    "source": "devto",
+    "title": "What Actually Happens When You Run `git commit`? A Deep Dive Into Git Internals",
+    "url": "https://dev.to/arnavsharma2711/what-actually-happens-when-you-run-git-commit-a-deep-dive-into-git-internals-j2l",
+    "keywords": [
+      "git commit `?",
+      "git commit `?",
+      "actually happens ...",
+      "actually happens",
+      "actually happens",
+      "git internals",
+      "git internals",
+      "maybe dozens",
+      "ever wondered",
+      "deep dive"
+    ],
+    "summary": "# What Actually Happens When You Run `git commit`? You run git commit every day, maybe dozens of times. But have you ever wondered what actually happens..."
+  },
+  "e57cb11361c88a78": {
+    "file": "corpus/devto/dev_to_kushang_tailor_abilityguard-v11-i-gave-my-abilities-a_91f807260e.md",
+    "source": "devto",
+    "title": "AbilityGuard v1.1: I Gave My Abilities API Monitor a Memory (and a Voice)",
+    "url": "https://dev.to/kushang_tailor/abilityguard-v11-i-gave-my-abilities-api-monitor-a-memory-and-a-voice-2fo7",
+    "keywords": [
+      "could actually see ...",
+      "abilities api monitor",
+      "abilities api monitor",
+      "latest abilityguard plugin",
+      "abilityguard v1",
+      "abilityguard v1",
+      "weeks back",
+      "article upon",
+      "voice",
+      "voice"
+    ],
+    "summary": "# AbilityGuard v1.1: I Gave My Abilities API Monitor a Memory (and a Voice) > Source: devto | Category: news | 2026-08-06T15:26:46Z A few weeks back I published an article upon my latest AbilityGuard plugin so you could actually see..."
+  },
+  "115df82cce4d6049": {
+    "file": "corpus/devto/dev_to_zxpmail_the-channel-gap-why-your-llm-judge-is-blind-i_e350a891b7.md",
+    "source": "devto",
+    "title": "The Channel Gap: Why Your LLM Judge is Blind in One Eye",
+    "url": "https://dev.to/zxpmail/the-channel-gap-why-your-llm-judge-is-blind-in-one-eye-35ne",
+    "keywords": [
+      "data processing inequality lens",
+      "unenumerated rest routes",
+      "neither works alone",
+      "gap without closing",
+      "channel deterministic checks",
+      "channel gap",
+      "channel gap",
+      "deterministic wrapper",
+      "silently passing",
+      "rené zander"
+    ],
+    "summary": "# The Channel Gap: Why Your LLM Judge is Blind in One Eye Text-channel LLM judging vs filesystem-channel deterministic checks. René Zander's 'deterministic wrapper' critique, read through the Data Processing Inequality lens."
+  },
+  "317be66c87a89a66": {
+    "file": "corpus/devto/dev_to_parsajiravand_container-queries-can-check-more-than-s_b693a9e2a1.md",
+    "source": "devto",
+    "title": "Container queries can check more than size — style queries let components read custom property values",
+    "url": "https://dev.to/parsajiravand/container-queries-can-check-more-than-size-style-queries-let-components-read-custom-property-3h6h",
+    "keywords": [
+      "dark sidebar",
+      "danger ...",
+      "context —",
+      "container queries",
+      "container queries",
+      "component needs",
+      "compact layout",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Container queries can check more than size — style queries let components read custom property values > Source: devto | Category: news | 2026-08-06T15:26:46Z When a component needs to know its context — is it inside a dark sidebar?"
+  },
+  "ba65ce020d8d40a1": {
+    "file": "corpus/devto/dev_to_qapilot_the-end-of-the-testing-pyramid-what-replaces-_4292cf723f.md",
+    "source": "devto",
+    "title": "The End of the Testing Pyramid: What Replaces It in the AI Era",
+    "url": "https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46",
+    "keywords": [
+      "testing pyramid",
+      "testing pyramid",
+      "test \".",
+      "automatically ...",
+      "ai era",
+      "ai era",
+      "source",
+      "replaces",
+      "replaces",
+      "reasoned"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-06T15:26:47Z We have discussed the cost of no automation and reasoned \"when to test\". This doesn't automatically..."
+  },
+  "126c0150426dbb5c": {
+    "file": "corpus/devto/dev_to_mbadr3227sys_i-kept-rewriting-the-same-five-lines-of-_f18bfc5820.md",
+    "source": "devto",
+    "title": "I Kept Rewriting the Same Five Lines of Pandas, So I Built a Terminal Tool Instead",
+    "url": "https://dev.to/mbadr3227sys/i-kept-rewriting-the-same-five-lines-of-pandas-so-i-built-a-terminal-tool-instead-44aa",
+    "keywords": [
+      "terminal tool instead",
+      "terminal tool instead",
+      "47z every time",
+      "new dataset",
+      "kept rewriting",
+      "kept rewriting",
+      "five lines",
+      "five lines",
+      "typed",
+      "source"
+    ],
+    "summary": "# I Kept Rewriting the Same Five Lines of Pandas, So I Built a Terminal Tool Instead > Source: devto | Category: news | 2026-08-06T15:26:47Z Every time I opened a new dataset, I typed the same..."
+  },
+  "09a246912ed4d33f": {
+    "file": "corpus/devto/dev_to_lexosi_what-advisory-rules-actually-do-in-an-agent-lo_d799d57f75.md",
+    "source": "devto",
+    "title": "What Advisory Rules Actually Do in an Agent Loop",
+    "url": "https://dev.to/lexosi/what-advisory-rules-actually-do-in-an-agent-loop-bke",
+    "keywords": [
+      "agent system produced 0",
+      "three runs right",
+      "advisory rules actually",
+      "advisory rules actually",
+      "47z advisory rules",
+      "agent loop",
+      "agent loop",
+      "rule ...",
+      "3 compliance"
+    ],
+    "summary": "# What Advisory Rules Actually Do in an Agent Loop > Source: devto | Category: news | 2026-08-06T15:26:47Z Advisory rules in my 19-agent system produced 0/3 compliance in the three runs right after the rule..."
+  },
+  "0d1d35a07600f9c8": {
+    "file": "corpus/devto/dev_to_robertcasschdot_compiling-libjxl-to-wasm-so-browsers-_5816e7826f.md",
+    "source": "devto",
+    "title": "Compiling libjxl to WASM so browsers can open JPEG XL files",
+    "url": "https://dev.to/robertcasschdot/compiling-libjxl-to-wasm-so-browsers-can-open-jpeg-xl-files-3gjp",
+    "keywords": [
+      "open jpeg xl files",
+      "open jpeg xl files",
+      "compiling libjxl",
+      "compiling libjxl",
+      "wasm",
+      "wasm",
+      "source",
+      "reactions",
+      "pulled",
+      "nightly"
+    ],
+    "summary": "# Compiling libjxl to WASM so browsers can open JPEG XL files Chrome shipped JPEG XL behind a flag in 2021, then pulled it in 2022. Firefox has it in Nightly only...."
+  },
+  "c3ef1bd1d0a66e7a": {
+    "file": "corpus/devto/dev_to_asmyshlyaev177_your-spa-probably-leaks-memory-your-pl_7f02359038.md",
+    "source": "devto",
+    "title": "Your SPA probably leaks memory. Your Playwright suite can catch it",
+    "url": "https://dev.to/asmyshlyaev177/your-spa-probably-leaks-memory-your-playwright-suite-can-catch-it-93l",
+    "keywords": [
+      "spa probably leaks memory",
+      "spa probably leaks memory",
+      "playwright suite",
+      "playwright suite",
+      "source",
+      "soak",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Your SPA probably leaks memory. Your Playwright suite can catch it [soak] drawer — 80 iterations     base     heap   2.83MB  nodes    675  listeners   163  docs 1    ..."
+  },
+  "3a0470de335b4bde": {
+    "file": "corpus/devto/dev_to_svyatov_your-agent-writes-python-the-ruby-rule-cuts-t_b79a367efd.md",
+    "source": "devto",
+    "title": "Your agent writes Python. The Ruby rule cuts that by a third.",
+    "url": "https://dev.to/svyatov/your-agent-writes-python-the-ruby-rule-cuts-that-by-a-third-476",
+    "keywords": [
+      "47z lucian ghinda published",
+      "ruby rule cuts",
+      "ruby rule cuts",
+      "agent writes python",
+      "agent writes python",
+      "coding agent",
+      "throwaway ...",
+      "post arguing",
+      "write",
+      "third"
+    ],
+    "summary": "# Your agent writes Python. The Ruby rule cuts that by a third. Lucian Ghinda published a post arguing you should tell your coding agent to write its throwaway..."
+  },
+  "9d1558944ab58946": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-mcp-tools-docstring-promised-sortsta_af5d571667.md",
+    "source": "devto",
+    "title": "My MCP Tool's Docstring Promised sort='stars'. GitHub's API Was Never Going to Honor That Value.",
+    "url": "https://dev.to/enjoy_kumawat/my-mcp-tools-docstring-promised-sortstars-githubs-api-was-never-going-to-honor-that-value-258b",
+    "keywords": [
+      "presence mcp server",
+      "47z every tool",
+      "mcp tool",
+      "mcp tool",
+      "never going",
+      "never going",
+      "line docstring",
+      "value",
+      "value",
+      "source"
+    ],
+    "summary": "# My MCP Tool's Docstring Promised sort=\"stars\". GitHub's API Was Never Going to Honor That Value. Every tool in my developer-presence MCP server has a one-line docstring, because that's the only..."
+  },
+  "bf5a31693db45212": {
+    "file": "corpus/devto/dev_to_alifar_eu-ai-act-article-50-transparency-rules-take-e_df8609affb.md",
+    "source": "devto",
+    "title": "EU AI Act Article 50 Transparency Rules Take Effect for Chatbots and Deepfakes",
+    "url": "https://dev.to/alifar/eu-ai-act-article-50-transparency-rules-take-effect-for-chatbots-and-deepfakes-58if",
+    "keywords": [
+      "eu ai act",
+      "2 august 2026",
+      "transparency obligations",
+      "creating ...",
+      "2026",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "deepfakes"
+    ],
+    "summary": "# EU AI Act Article 50 Transparency Rules Take Effect for Chatbots and Deepfakes > Source: devto | Category: news | 2026-08-06T15:26:46Z The EU AI Act's transparency obligations under Article 50 take full effect on 2 August 2026, creating..."
+  },
+  "c995f82be489e796": {
+    "file": "corpus/devto/dev_to_xiaomodern_ai-didnt-kill-my-motivation-heres-how-i-us_180d2629c5.md",
+    "source": "devto",
+    "title": "AI Didn't Kill My Motivation — Here's How I Use It as a Frontend Productivity Weapon",
+    "url": "https://dev.to/xiaomodern/ai-didnt-kill-my-motivation-heres-how-i-use-it-as-a-frontend-productivity-weapon-4dkm",
+    "keywords": [
+      "46z chinese frontend communities",
+      "frontend productivity weapon",
+      "frontend productivity weapon",
+      "replace us",
+      "real workflow",
+      "numbers behind",
+      "motivation —",
+      "motivation —",
+      "force multiplier",
+      "different path"
+    ],
+    "summary": "# AI Didn't Kill My Motivation — Here's How I Use It as a Frontend Productivity Weapon Chinese frontend communities are flooded with 'AI will replace us' anxiety. Here's my real workflow and the numbers behind it."
+  },
+  "d0285eda78715257": {
+    "file": "corpus/devto/dev_to_fromzerotoship_i-published-a-60-second-deploy-toleran_4c538501c3.md",
+    "source": "devto",
+    "title": "I published a 60-second deploy tolerance on Monday. On Wednesday a deploy took 70, and my check called a healthy site broken.",
+    "url": "https://dev.to/fromzerotoship/i-published-a-60-second-deploy-tolerance-on-monday-on-wednesday-a-deploy-took-70-and-my-check-53l6",
+    "keywords": [
+      "second deploy tolerance",
+      "second deploy tolerance",
+      "healthy site broken",
+      "healthy site broken",
+      "deploy took 70",
+      "deploy took 70",
+      "piece admitting",
+      "check called",
+      "check called",
+      "wednesday"
+    ],
+    "summary": "# I published a 60-second deploy tolerance on Monday. On Wednesday a deploy took 70, and my check called a healthy site broken. On Monday I published a piece admitting that my deploy verification tolerates sixty seconds of \"not..."
+  },
+  "2e6d9e21598827f6": {
+    "file": "corpus/devto/dev_to_visibilityatlas_i-rewrote-the-same-detector-three-tim_17fb3e652c.md",
+    "source": "devto",
+    "title": "I rewrote the same detector three times in one day. Each fix introduced a new way of being wrong.",
+    "url": "https://dev.to/visibilityatlas/i-rewrote-the-same-detector-three-times-in-one-day-each-fix-introduced-a-new-way-of-being-wrong-378e",
+    "keywords": [
+      "post last week",
+      "detector three times",
+      "detector three times",
+      "one day",
+      "one day",
+      "official website",
+      "new way",
+      "new way",
+      "llm fabricating",
+      "fix introduced"
+    ],
+    "summary": "# I rewrote the same detector three times in one day. Each fix introduced a new way of being wrong. I wrote a post last week about an LLM fabricating a company's official website."
+  },
+  "28c7b1a542d0c105": {
+    "file": "corpus/devto/dev_to_masondelan_the-expensive-failure-is-an-agent-re-imple_5dc849fb8b.md",
+    "source": "devto",
+    "title": "The expensive failure is an agent re-implementing something your team already killed",
+    "url": "https://dev.to/masondelan/the-expensive-failure-is-an-agent-re-implementing-something-your-team-already-killed-51an",
+    "keywords": [
+      "team already killed",
+      "team already killed",
+      "implementing something",
+      "implementing something",
+      "expensive failure",
+      "expensive failure",
+      "sure",
+      "source",
+      "rejected",
+      "reactions"
+    ],
+    "summary": "# The expensive failure is an agent re-implementing something your team already killed > Source: devto | Category: news | 2026-08-06T15:26:46Z \"I'm 99% sure that grep won't find your commit because you rejected 'oauth-library' and grepping for..."
+  },
+  "8d454c30330f9c8e": {
+    "file": "corpus/devto/dev_to_anchildress1_i-recreated-management-with-ai-9-things-_c648296f89.md",
+    "source": "devto",
+    "title": "I Recreated Management With AI: 9 Things I Do Differently",
+    "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+    "keywords": [
+      "stopped treating permission prompts",
+      "spent four",
+      "safety system",
+      "recreated management",
+      "recreated management",
+      "nine things",
+      "9 things",
+      "9 things",
+      "source",
+      "replace"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-06T15:26:46Z I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up."
+  },
+  "42e93e40fb111124": {
+    "file": "corpus/devto/dev_to_ayinedjimi-consultants_implementing-totp-two-factor-a_10f9c5e81d.md",
+    "source": "devto",
+    "title": "Implementing TOTP Two-Factor Authentication from Scratch in Python",
+    "url": "https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9",
+    "keywords": [
+      "implementing totp two",
+      "implementing totp two",
+      "need totp",
+      "production —",
+      "factor authentication",
+      "factor authentication",
+      "developers reach",
+      "source",
+      "scratch",
+      "scratch"
+    ],
+    "summary": "# Implementing TOTP Two-Factor Authentication from Scratch in Python Most developers reach for a library when they need TOTP. That's fine for production — but if you..."
+  },
+  "03c440535dacbe37": {
+    "file": "corpus/devto/dev_to_flarecanary_metas-graph-api-v20-expires-september-24-_8a2fbe8fcc.md",
+    "source": "devto",
+    "title": "Meta's Graph API v20 expires September 24 — your calls won't fail, they'll quietly start running v21",
+    "url": "https://dev.to/flarecanary/metas-graph-api-v20-expires-september-24-your-calls-wont-fail-theyll-quietly-start-running-v21-2m2a",
+    "keywords": [
+      "quietly start running v21",
+      "quietly start running v21",
+      "two ways",
+      "dead version",
+      "api version",
+      "reject calls",
+      "calls",
+      "calls",
+      "vendor",
+      "source"
+    ],
+    "summary": "# Meta's Graph API v20 expires September 24 — your calls won't fail, they'll quietly start running v21 There are two ways a vendor can retire an API version. It can reject calls to the dead version, which..."
+  },
+  "8b63150a8dd95b53": {
+    "file": "corpus/ai-research/huggingface_co_blog_baseten_23ccd9ff0c.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Baseten on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/baseten",
+    "keywords": [
+      "39z baseten",
+      "baseten",
+      "baseten",
+      "source",
+      "research",
+      "research",
+      "category",
+      "blog"
+    ],
+    "summary": "# [hf-blog] Baseten on Hugging Face Inference Providers 🔥 > Source: ai-research | Category: research | 2026-08-06T15:26:39Z Baseten on Hugging Face Inference Providers 🔥"
+  },
+  "a0fc2338d91d3d36": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49197515_d5a8265d30.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49197515",
+    "keywords": [
+      "make people pay attention",
+      "based founding marketing lead",
+      "founding team .< p",
+      "based founding role",
+      "wants real ownership",
+      "strong social presence",
+      "helps homeowners connect",
+      "design sharp visuals",
+      "create great content",
+      "read every message"
+    ],
+    "summary": "Someone who can help shape the brand, create great content, build a strong social presence, design sharp visuals, edit video, and come up with ideas that actually feel fresh.<p>This is an equity-based founding role, so we’re looking for someone who wants real ownership and is excited by the idea of helping build something from the ground up.<p>We’re open to people from every background and aren&#x27;t really sticklers for formal credentials. We want to work closely, to bring on someone who feels"
+  },
+  "14f5e319fa66033f": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49197178_63721f289c.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49197178",
+    "keywords": [
+      "push beyond existing products",
+      "core background check business",
+      "class technology allows us",
+      "collaborative environment .< p",
+      "people .< p",
+      "mspbj best place",
+      "latest development practices",
+      "jobs &# x2f",
+      "jobs &# x2f",
+      "greatest startup workplaces"
+    ],
+    "summary": "Yardstik | Senior Software Engineer | Minneapolis, MN (Hybrid) | $120,000 - $200,000<p>Yardstik is a start-up software company with a mission of building trust and safety into the Internet Economy. Come be part of our amazing culture and join an environment where you can see and feel the impact of your work every day.<p>This position will be part of a team focused on Yardstik&#x27;s core background check business. The team&#x27;s mission is to push beyond existing products and features to create"
+  },
+  "4a172a7dc7d942ca": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49197049_6e4ce93ae0.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49197049",
+    "keywords": [
+      "recruiting manager cristina little",
+      "please mention hacker news",
+      "software consulting company based",
+      "experienced ui &# x2f",
+      "fedramp high compliance experience",
+      "modernization project seeking expertise",
+      "com &# x2f ;</",
+      "full stack java engineers",
+      "3 cipher compliance",
+      "remote &# x2f"
+    ],
+    "summary": "Send your resume (Please mention Hacker News in subject line) to our Recruiting Manager Cristina Little - Email:  clittle@solutionstreet.com<p>Current Opportunities:<p>- Automated Test Engineer - Electrical Engineering: (Onsite Dulles, VA) Contract role for 1.5 years. Skills and Qualifications: Experience in Python programming; Electrical Engineering experience; Python - async-io cooperative multitasking; State machines; SCPI equipment such as Keysight or Keithley.<p>- Java Engineers All levels:"
+  },
+  "c1d594e95da1659a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49196678_6db5d86dd9.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49196678",
+    "keywords": [
+      "first ai browser copilot",
+      "behalf — analyzing articles",
+      "lifetime access .< p",
+      "affiliate gets lite agent",
+      "36z lite agent —",
+      "p >- referral bonus",
+      "p >- free agent",
+      "lite agent plan",
+      "refer also gets",
+      "combines ai chat"
+    ],
+    "summary": "Lite Agent — <a href=\"https:&#x2F;&#x2F;liteagent.cloud\" rel=\"nofollow\">https:&#x2F;&#x2F;liteagent.cloud</a> | Hiring Sales Agent | REMOTE | Worldwide<p>Lite Agent is a privacy-first AI browser copilot (Chrome extension) that combines AI chat, page automation, voice input, smart memory, and encrypted backups in one tool. OpenRouter powered, no manual API keys. $15 one-time, lifetime access.<p>We&#x27;re looking for tech accounts with medium-sized followings (10K–100K) to help spread the word.<p"
+  },
+  "b797db9076b33df3": {
+    "file": "corpus/security/thehackernews_com_2026_08_over-4400-rockwell-plcs-exposed-on_5ebab68043.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+    "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+    "keywords": [
+      "us water utilities",
+      "mobile carrier network",
+      "figure counts exposed",
+      "water attack cities",
+      "water attack cities",
+      "cities hit",
+      "united states",
+      "recent cyberattacks",
+      "nineteen used",
+      "including 2"
+    ],
+    "summary": "# [hacker-news-sec] Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised."
+  },
+  "d7cc4588522550f5": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_how-ai-exposed-a-brow_ce1efd08d0.md",
+    "source": "security",
+    "title": "[bleeping-comp] How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+    "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+    "keywords": [
+      "new browser security problem",
+      "enterprises cannot ignore ai",
+      "governing data movement",
+      "critical control point",
+      "enterprises cannot ignore",
+      "enterprises cannot ignore",
+      "browser security gap",
+      "browser security gap",
+      "browser security gap",
+      "skyhigh security explains"
+    ],
+    "summary": "# [bleeping-comp] How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work."
+  },
+  "f621511afce8ca78": {
+    "file": "corpus/hackernews/platform_deepseek_com_usage_4a14f17829.md",
+    "source": "hackernews",
+    "title": "DeepSeek planning to significantly raise prices",
+    "url": "https://platform.deepseek.com/usage",
+    "keywords": [
+      "significantly raise prices",
+      "significantly raise prices",
+      "deepseek planning",
+      "deepseek planning",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DeepSeek planning to significantly raise prices > Source: hackernews | Category: news | 2026-08-06T15:26:43Z Score: 52 | Comments: 40"
+  },
+  "5c51d33434755fbe": {
+    "file": "corpus/hackernews/scalex_dev_blog_ai-agent-permissions-stats_87291e20d0.md",
+    "source": "hackernews",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "keywords": [
+      "humans missed 1",
+      "humans missed 1",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Humans missed 1 in 3 threats approving AI agent commands across 40k game runs > Source: hackernews | Category: news | 2026-08-06T15:26:39Z Score: 103 | Comments: 77"
+  },
+  "57c61b326ce6aa86": {
+    "file": "corpus/hackernews/ggwash_org_view_68565_metro-has-11-types-of-station-architec_374bbbcec6.md",
+    "source": "hackernews",
+    "title": "The 11 Types of Washington, DC, Metro Station Architecture (2018)",
+    "url": "https://ggwash.org/view/68565/metro-has-11-types-of-station-architecture.-learn-them-all-with-this-map",
+    "keywords": [
+      "metro station architecture",
+      "metro station architecture",
+      "41z score",
+      "11 types",
+      "11 types",
+      "washington",
+      "washington",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The 11 Types of Washington, DC, Metro Station Architecture (2018) > Source: hackernews | Category: news | 2026-08-06T15:26:41Z Score: 13 | Comments: 1"
+  },
+  "768a8a93e3cd6ef0": {
+    "file": "corpus/hackernews/techcrunch_com_2026_08_05_shopify-says-ai-search-is-driving-_d5aa678ab3.md",
+    "source": "hackernews",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "keywords": [
+      "shopify says ai search",
+      "shopify says ai search",
+      "replacing google",
+      "replacing google",
+      "43z score",
+      "traffic",
+      "traffic",
+      "source",
+      "sales",
+      "sales"
+    ],
+    "summary": "# Shopify says AI search is driving more traffic and sales, not replacing Google > Source: hackernews | Category: news | 2026-08-06T15:26:43Z Score: 5 | Comments: 1"
+  },
+  "8fe039465059dc64": {
+    "file": "corpus/hackernews/www_space_com_astronomy_mars_mars-dust-is-toxic-how-will-fut_cebff423ef.md",
+    "source": "hackernews",
+    "title": "Mars dust is toxic. How will future astronauts deal with it?",
+    "url": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
+    "keywords": [
+      "future astronauts deal",
+      "future astronauts deal",
+      "mars dust",
+      "mars dust",
+      "45z score",
+      "toxic",
+      "toxic",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Mars dust is toxic. How will future astronauts deal with it? > Source: hackernews | Category: news | 2026-08-06T15:26:45Z"
+  },
+  "ee95c6fc6dea43ae": {
+    "file": "corpus/hackernews/abovethelaw_com_2026_08_former-federal-prosecutors-to-senate_f1d46aa7c3.md",
+    "source": "hackernews",
+    "title": "Former Federal Prosecutors to Senate: Stop Confirming Election Deniers as Judges",
+    "url": "https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/",
+    "keywords": [
+      "stop confirming election deniers",
+      "stop confirming election deniers",
+      "former federal prosecutors",
+      "former federal prosecutors",
+      "45z score",
+      "source",
+      "senate",
+      "senate",
+      "news",
+      "judges"
+    ],
+    "summary": "# Former Federal Prosecutors to Senate: Stop Confirming Election Deniers as Judges > Source: hackernews | Category: news | 2026-08-06T15:26:45Z Score: 41 | Comments: 7"
+  },
+  "a8c516a4046ce9f3": {
+    "file": "corpus/hackernews/jaapgrolleman_com_degrees-of-wealth_5e0533dbe4.md",
+    "source": "hackernews",
+    "title": "Degrees of Wealth",
+    "url": "https://jaapgrolleman.com/degrees-of-wealth/",
+    "keywords": [
+      "38z score",
+      "wealth",
+      "wealth",
+      "source",
+      "news",
+      "hackernews",
+      "degrees",
+      "degrees",
+      "comments",
+      "category"
+    ],
+    "summary": "# Degrees of Wealth > Source: hackernews | Category: news | 2026-08-06T15:26:38Z Score: 27 | Comments: 33"
+  },
+  "e539537c8f68b80a": {
+    "file": "corpus/hackernews/geosona_com_demake_dbca20864a.md",
+    "source": "hackernews",
+    "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+    "url": "https://geosona.com/demake/",
+    "keywords": [
+      "possible without implementation detail",
+      "follow exact hardware constraints",
+      "retro game console rom",
+      "retro game console rom",
+      "retro videogame console",
+      "vmax .< p",
+      "use relative units",
+      "specifications .< p",
+      "colors .< p",
+      "handheld &# x27"
+    ],
+    "summary": "# Show HN: demake – one source project compiles to any retro game console ROM This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware constraints of pixels and colors.<p>While building this I liked the idea that I can fan-out to any retro videogame console or handheld&#x27;s specifications.<p>I then devised my own declarative language - Demotic - to express the game you want to build as concisely and naturally as poss"
+  },
+  "4a88e3e4d64b3df9": {
+    "file": "corpus/hackernews/efoodalert_com_2026_08_05_taylor-farms-cyclospora-outbreak-t_1395572d5e.md",
+    "source": "hackernews",
+    "title": "Taylor Farms Cyclospora outbreak triples in size",
+    "url": "https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/",
+    "keywords": [
+      "39z score",
+      "source",
+      "size",
+      "size",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Taylor Farms Cyclospora outbreak triples in size > Source: hackernews | Category: news | 2026-08-06T15:26:39Z Score: 16 | Comments: 7"
+  },
+  "576c8f178d1e77d0": {
+    "file": "corpus/hackernews/www_wsj_com_finance_stocks_spacex-ipo-spv-investors-2698a174_da81c0bdac.md",
+    "source": "hackernews",
+    "title": "The Investors Whose SpaceX Shares Vanished Before They Could Cash In",
+    "url": "https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174",
+    "keywords": [
+      "could cash",
+      "could cash",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Investors Whose SpaceX Shares Vanished Before They Could Cash In > Source: hackernews | Category: news | 2026-08-06T15:26:44Z Score: 14 | Comments: 3"
+  },
+  "3991d59a45001557": {
+    "file": "corpus/hackernews/en_andros_dev_blog_b6c32a90_i-added-a-real-time-chat-to-my-b_24f6859932.md",
+    "source": "hackernews",
+    "title": "I added a real-time chat to my blog, people used it to attack me",
+    "url": "https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/",
+    "keywords": [
+      "time chat",
+      "time chat",
+      "people used",
+      "people used",
+      "41z score",
+      "source",
+      "real",
+      "real",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# I added a real-time chat to my blog, people used it to attack me > Source: hackernews | Category: news | 2026-08-06T15:26:41Z Score: 53 | Comments: 63"
+  },
+  "34c6acef073dfd82": {
+    "file": "corpus/hackernews/pythonspeed_com_articles_faster-float-math-rust_540bc495c6.md",
+    "source": "hackernews",
+    "title": "Faster floating point math with Rust's new API",
+    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+    "keywords": [
+      "faster floating point math",
+      "faster floating point math",
+      "new api",
+      "new api",
+      "45z score",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Faster floating point math with Rust's new API > Source: hackernews | Category: news | 2026-08-06T15:26:45Z Score: 6 | Comments: 0"
+  },
+  "0e5989648cf7d51f": {
+    "file": "corpus/hackernews/www_sciencedaily_com_releases_2026_07_260729051515_htm_4c2369eb5f.md",
+    "source": "hackernews",
+    "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+    "keywords": [
+      "tiny black holes may",
+      "tiny black holes may",
+      "exploding stars across",
+      "exploding stars across",
+      "milky way",
+      "milky way",
+      "39z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tiny Black Holes May Be Exploding Stars Across the Milky Way > Source: hackernews | Category: news | 2026-08-06T15:26:39Z Score: 33 | Comments: 32"
+  },
+  "e0a9d2b8bafe78f9": {
+    "file": "corpus/hackernews/www_bbc_com_travel_article_20260805-four-simple-rules-behind_fa5d3c9fc9.md",
+    "source": "hackernews",
+    "title": "Four simple rules behind Japan's most liveable cities",
+    "url": "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
+    "keywords": [
+      "liveable cities",
+      "liveable cities",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Four simple rules behind Japan's most liveable cities > Source: hackernews | Category: news | 2026-08-06T15:26:40Z Score: 9 | Comments: 0"
+  },
+  "02971340aba99ba4": {
+    "file": "corpus/hackernews/github_com_Cuprate_cuprate_5e8a1635fe.md",
+    "source": "hackernews",
+    "title": "Cuprate – an alternative and independent Monero node software written in Rust",
+    "url": "https://github.com/Cuprate/cuprate",
+    "keywords": [
+      "cuprate –",
+      "cuprate –",
+      "44z score",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Cuprate – an alternative and independent Monero node software written in Rust > Source: hackernews | Category: news | 2026-08-06T15:26:44Z Score: 9 | Comments: 0"
+  },
+  "83f425bcf1e5c86e": {
+    "file": "corpus/sales/www_saastr_com_i-bought-30-apis-this-year-only-exa-asked-how_9c1ffebe39.md",
+    "source": "sales",
+    "title": "[saastr] I Bought 30+ APIs This Year. Only Exa Asked How It Went. Copy Them.",
+    "url": "https://www.saastr.com/i-bought-30-apis-this-year-only-exa-asked-how-it-went-copy-them/",
+    "keywords": [
+      "word product spec back",
+      "30 ... continue reading",
+      "building saastr ai connect",
+      "ai agents",
+      "bought 30",
+      "bought 30",
+      "bought 30",
+      "structured data",
+      "somewhere north",
+      "run 21"
+    ],
+    "summary": "Four sentences, from a real PM, timed off actual usage. We run 21+ AI agents in production at SaaStr, and we&#8217;re building SaaStr AI Connect on top of them. That means a lot of API signups: search, enrichment, structured data, email infrastructure, inference, storage."
+  },
+  "34820ea2a771827c": {
+    "file": "corpus/github-releases/github_com_denoland_deno_releases_tag_v2_9_5_4920be8cc6.md",
+    "source": "github-releases",
+    "title": "denoland/deno v2.9.5 released",
+    "url": "https://github.com/denoland/deno/releases/tag/v2.9.5",
+    "keywords": [
+      "resolve internal module imports",
+      "fire http2 settings callback",
+      "websocket ): disable http",
+      "fmt ): accept xml",
+      "fetch ): scope redirect",
+      "crypto ): allow derivebits",
+      "web streams (# 36285",
+      "unscoped name (# 36319",
+      "toweb () (# 36321",
+      "test tags (# 36292"
+    ],
+    "summary": "# denoland/deno v2.9.5 released > Source: github-releases | Category: changelog | 2026-08-06T15:27:24Z - feat(add): `--unscoped` flag to alias packages by their unscoped name (#36319) - feat(task): add --members flag to run tasks in workspace members only (#35748) - feat: add Blob/Body textStream() (#35616) - feat: add experimental QuickJS backend (#36194) - fix(bundle): avoid esbuild protocol deadlock (#36427) - fix(bundle): respect runtime file permissions (#36107) - fix(cjs): use loader sourc"
+  },
+  "83106110df674253": {
+    "file": "corpus/github-releases/github_com_vitejs_vite_releases_tag_plugin-legacy_408_2_3_9f5fd8db21.md",
+    "source": "github-releases",
+    "title": "vitejs/vite plugin-legacy@8.2.3 released",
+    "url": "https://github.com/vitejs/vite/releases/tag/plugin-legacy%408.2.3",
+    "keywords": [
+      "3 please refer",
+      "22z ## vitejs",
+      "vite — plugin",
+      "3 released",
+      "3 released",
+      "vite plugin",
+      "vite plugin",
+      "vite",
+      "plugin"
+    ],
+    "summary": "# vitejs/vite plugin-legacy@8.2.3 released > Source: github-releases | Category: changelog | 2026-08-06T15:27:22Z Please refer to [CHANGELOG.md](https://github.com/vitejs/vite/blob/plugin-legacy@8.2.3/packages/plugin-legacy/CHANGELOG.md) for details."
+  },
+  "54f14aff5dd7b3fe": {
+    "file": "corpus/github-releases/github_com_vitejs_vite_releases_tag_v8_2_1_91527ee1ea.md",
+    "source": "github-releases",
+    "title": "vitejs/vite v8.2.1 released",
+    "url": "https://github.com/vitejs/vite/releases/tag/v8.2.1",
+    "keywords": [
+      "1 please refer",
+      "22z ## vitejs",
+      "vite — v8",
+      "1 released",
+      "1 released",
+      "vite v8",
+      "vite v8",
+      "vite"
+    ],
+    "summary": "# vitejs/vite v8.2.1 released > Source: github-releases | Category: changelog | 2026-08-06T15:27:22Z Please refer to [CHANGELOG.md](https://github.com/vitejs/vite/blob/v8.2.1/packages/vite/CHANGELOG.md) for details."
   }
 }
