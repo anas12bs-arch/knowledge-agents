@@ -371883,5 +371883,271 @@
       "everyone"
     ],
     "summary": "# Why Is Everyone in Tech So Sad? > Source: hackernews | Category: news | 2026-08-07T09:38:22Z Score: 5 | Comments: 2"
+  },
+  "6df6616728c073d5": {
+    "file": "corpus/hackernews/www_coinbase_com_blog_interviewing-engineers-in-the-ai-era-l_4017238ddd.md",
+    "source": "hackernews",
+    "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+    "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+    "keywords": [
+      "interviewing engineers",
+      "interviewing engineers",
+      "ai era",
+      "ai era",
+      "29z score",
+      "year",
+      "year",
+      "source",
+      "rebuilding",
+      "rebuilding"
+    ],
+    "summary": "# Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding > Source: hackernews | Category: news | 2026-08-07T10:30:29Z Score: 6 | Comments: 1"
+  },
+  "02d874b4fa8dd263": {
+    "file": "corpus/hackernews/www_reddit_com_r_xteinkereader_s_AZbairiJzJ_14060b5272.md",
+    "source": "hackernews",
+    "title": "CrossPoint 1.5 has officially been released",
+    "url": "https://www.reddit.com/r/xteinkereader/s/AZbairiJzJ",
+    "keywords": [
+      "crosspoint 1",
+      "crosspoint 1",
+      "33z score",
+      "source",
+      "released",
+      "released",
+      "officially",
+      "officially",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# CrossPoint 1.5 has officially been released > Source: hackernews | Category: news | 2026-08-07T10:30:33Z Score: 4 | Comments: 0"
+  },
+  "7b1198ef353f550e": {
+    "file": "corpus/hackernews/thenextweb_com_news_meta-ray-ban-smart-glasses-eu-uk-venue-b_94ac4a25ea.md",
+    "source": "hackernews",
+    "title": "Meta's Ray-Bans are getting banned from UK pubs, and the EU is circling",
+    "url": "https://thenextweb.com/news/meta-ray-ban-smart-glasses-eu-uk-venue-bans-privacy",
+    "keywords": [
+      "uk pubs",
+      "uk pubs",
+      "getting banned",
+      "getting banned",
+      "35z score",
+      "source",
+      "ray",
+      "ray",
+      "news",
+      "meta"
+    ],
+    "summary": "# Meta's Ray-Bans are getting banned from UK pubs, and the EU is circling > Source: hackernews | Category: news | 2026-08-07T10:30:35Z Score: 5 | Comments: 3"
+  },
+  "1953142e878ecfd7": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_7_36ff8a707c.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.7 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.7",
+    "keywords": [
+      "show compiler plugin warning",
+      "75682 ### misc changes",
+      "7 ### core changes",
+      "turbopack ): support",
+      "turbopack ): name",
+      "pages router ssr",
+      "js — v16",
+      "fix missing styled",
+      "10z ## vercel",
+      "js v16"
+    ],
+    "summary": "- Show compiler plugin warning in more situations: #75682 - ci: stop publishing @vercel/devlow-bench: #96887 - fix(turbopack): name the module in the non-ESM-placeable error, and stop duplicating the importer in traces: #96560 - fix(turbopack): support `type: 'text'` in rules, and error on binding imports of non-ESM modules: #96558 - Fix missing styled-jsx styles in Pages Router SSR on adapter builds: #96632 Huge thanks to @mischnic, @sokra, and @Janpot for helping!"
+  },
+  "0b6b3fddce108160": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_ice-is-buying-access-_04abf0af29.md",
+    "source": "security",
+    "title": "[schneier] ICE Is Buying Access to Credit Card Records",
+    "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
+    "keywords": [
+      "credit card records",
+      "credit card records",
+      "credit card records",
+      "credit card",
+      "data brokers",
+      "buying access",
+      "buying access",
+      "buying access",
+      "29z ice",
+      "buying"
+    ],
+    "summary": "# [schneier] ICE Is Buying Access to Credit Card Records ICE Is Buying Access to Credit Card Records Through data brokers, ICE is  buying   the   information  you provided to open a credit card."
+  },
+  "7effa1a312e04c4c": {
+    "file": "corpus/devto/dev_to_yuvrajangadsingh_i-scored-15-ai-coding-tools-with-a-l_41bbe6c0ef.md",
+    "source": "devto",
+    "title": "I scored 15 AI coding tools with a linter. The gap between them is 8x.",
+    "url": "https://dev.to/yuvrajangadsingh/i-scored-15-ai-coding-tools-with-a-linter-the-gap-between-them-is-8x-3lp9",
+    "keywords": [
+      "invented ...",
+      "dead scaffolding",
+      "build vibecheck",
+      "source",
+      "reactions",
+      "news",
+      "linter",
+      "linter",
+      "gap",
+      "gap"
+    ],
+    "summary": "# I scored 15 AI coding tools with a linter. The gap between them is 8x. I build vibecheck, a CLI that catches what AI coding tools leave behind."
+  },
+  "39a90d6e165fc15a": {
+    "file": "corpus/devto/dev_to_gde_agent-sandboxes-giving-ai-agents-their-own-little_fcba5b639a.md",
+    "source": "devto",
+    "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+    "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+    "keywords": [
+      "gke agent sandbox docs",
+      "little linux box",
+      "little linux box",
+      "giving ai agents",
+      "giving ai agents",
+      "agent sandboxes",
+      "agent sandboxes",
+      "36z sourced",
+      "sandbox",
+      "agent"
+    ],
+    "summary": "# Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care) > Source: devto | Category: news | 2026-08-07T10:30:36Z Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing."
+  },
+  "1c1c91c45ffe0836": {
+    "file": "corpus/devto/dev_to_kpmmmurphy_your-soul-deserves-a-changelog-55j3_e206a9a2ef.md",
+    "source": "devto",
+    "title": "Your Soul Deserves a Changelog",
+    "url": "https://dev.to/kpmmmurphy/your-soul-deserves-a-changelog-55j3",
+    "keywords": [
+      "soul deserves",
+      "soul deserves",
+      "reading app",
+      "dyslexic kids",
+      "desktop ....",
+      "build software",
+      "source",
+      "reactions",
+      "news",
+      "map"
+    ],
+    "summary": "I build software with AI all day. A reading app for dyslexic kids. A map that lives on your desktop...."
+  },
+  "3cfe33d624d3e4fb": {
+    "file": "corpus/devto/dev_to_adioof_the-staff-engineer-with-4-years-of-experience-_0f68a9e1c7.md",
+    "source": "devto",
+    "title": "The Staff engineer with 4 years of experience is a hiring problem we made",
+    "url": "https://dev.to/adioof/the-staff-engineer-with-4-years-of-experience-is-a-hiring-problem-we-made-52pa",
+    "keywords": [
+      "hiring manager sparked outrage",
+      "automatically reject candidates",
+      "hiring problem",
+      "hiring problem",
+      "staff engineer",
+      "staff engineer",
+      "4 years",
+      "4 years",
+      "source",
+      "revealed"
+    ],
+    "summary": "# The Staff engineer with 4 years of experience is a hiring problem we made > Source: devto | Category: news | 2026-08-07T10:30:37Z A hiring manager sparked outrage when they revealed that they automatically reject candidates with..."
+  },
+  "b60a7288cc5da2bf": {
+    "file": "corpus/devto/dev_to_yonyonai_the-bug-fastmcps-own-ci-could-not-see-gh6_e3e9041ab6.md",
+    "source": "devto",
+    "title": "The bug FastMCP's own CI could not see",
+    "url": "https://dev.to/yonyonai/the-bug-fastmcps-own-ci-could-not-see-gh6",
+    "keywords": [
+      "wrong place disabled five",
+      "six type overloads",
+      "gate runs ty",
+      "ci stayed green",
+      "ci could",
+      "ci could",
+      "bug fastmcp",
+      "bug fastmcp",
+      "source",
+      "see"
+    ],
+    "summary": "# The bug FastMCP's own CI could not see A docstring in the wrong place disabled five of six type overloads, but only under mypy. The project's gate runs ty, so its CI stayed green on a file that was broken."
+  },
+  "847809aca046a403": {
+    "file": "corpus/devto/dev_to_alifar_n8ns-framework-for-detecting-and-reducing-sile_dbf2e899af.md",
+    "source": "devto",
+    "title": "n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors",
+    "url": "https://dev.to/alifar/n8ns-framework-for-detecting-and-reducing-silent-ai-pipeline-errors-221m",
+    "keywords": [
+      "36z ai automation failures",
+      "often difficult",
+      "n8n ’",
+      "n8n ’",
+      "looks ...",
+      "spot",
+      "source",
+      "return",
+      "reactions",
+      "news"
+    ],
+    "summary": "# n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors > Source: devto | Category: news | 2026-08-07T10:30:36Z AI automation failures are often difficult to spot because a model can return an answer that looks..."
+  },
+  "bd625c63081e2ecb": {
+    "file": "corpus/devto/dev_to_maphielbso_why-i-built-podiom-a-project-layer-for-loc_f3d819e442.md",
+    "source": "devto",
+    "title": "Why I Built Podiom: A Project Layer for Local AI Agents",
+    "url": "https://dev.to/maphielbso/why-i-built-podiom-a-project-layer-for-local-ai-agents-182l",
+    "keywords": [
+      "sessions claude code",
+      "local ai agents",
+      "local ai agents",
+      "project layer",
+      "project layer",
+      "project disappears",
+      "fantastic ...",
+      "built podiom",
+      "built podiom",
+      "source"
+    ],
+    "summary": "# Why I Built Podiom: A Project Layer for Local AI Agents > Source: devto | Category: news | 2026-08-07T10:30:39Z The problem: your project disappears between sessions   Claude Code and Codex are fantastic..."
+  },
+  "f7d4101a2deb13b3": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48210_wero-pushes-luxembourg-la_b40a3212f6.md",
+    "source": "finance",
+    "title": "[finextra] Wero pushes Luxembourg launch to September",
+    "url": "https://www.finextra.com/newsarticle/48210/wero-pushes-luxembourg-launch-to-september?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "wero pushes luxembourg launch",
+      "wero pushes luxembourg launch",
+      "citing regional alignment",
+      "1 september 2026",
+      "official launch",
+      "1 july",
+      "september pan",
+      "luxembourg",
+      "2026",
+      "september"
+    ],
+    "summary": "# [finextra] Wero pushes Luxembourg launch to September Wero pushes Luxembourg launch to September Pan-European digital wallet Wero changed its official launch in Luxembourg from 1 July to 1 September 2026, citing regional alignment as the reason."
+  },
+  "7d290a3a0cb7830a": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48212_fdic-aims-to-establish-st_f795071ca3.md",
+    "source": "finance",
+    "title": "[finextra] FDIC aims to establish standards body to certify banking services providers - Bloomberg Law",
+    "url": "https://www.finextra.com/newsarticle/48212/fdic-aims-to-establish-standards-body-to-certify-banking-services-providers",
+    "keywords": [
+      "federal deposit insurance corp",
+      "certify banking services providers",
+      "certify banking services providers",
+      "certify banking services providers",
+      "independent standards committee",
+      "establish standards body",
+      "establish standards body",
+      "establish standards body",
+      "finextra \"] date",
+      "bloomberg law bloomberg"
+    ],
+    "summary": "# [finextra] FDIC aims to establish standards body to certify banking services providers - Bloomberg Law FDIC aims to establish standards body to certify banking services providers - Bloomberg Law The Federal Deposit Insurance Corp. (FDIC) is working with industry leaders to establish an independent standards committee to certify banks' fintech partners."
   }
 }
