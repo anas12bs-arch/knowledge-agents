@@ -375958,5 +375958,138 @@
       "fix underreporting"
     ],
     "summary": "### Bug Fixes - Fix preservation of provider on LiteLLM-routed models. - Fix underreporting of Anthropic cache token usage. - Fix broken README links, table of contents, and contribution guidance."
+  },
+  "50d62d3892a21d30": {
+    "file": "corpus/devto/dev_to_multigrid_open-source-contribution-as-a-learning-path_7371b67363.md",
+    "source": "devto",
+    "title": "Open Source Contribution as a Learning Path",
+    "url": "https://dev.to/multigrid/open-source-contribution-as-a-learning-path-1g9j",
+    "keywords": [
+      "actually get merged",
+      "55z six kinds",
+      "open source contribution",
+      "open source contribution",
+      "one teaches",
+      "learning path",
+      "learning path",
+      "genuinely make",
+      "first issue",
+      "ai tooling"
+    ],
+    "summary": "# Open Source Contribution as a Learning Path > Source: devto | Category: news | 2026-08-07T22:19:55Z Six kinds of contribution a newcomer can genuinely make to AI tooling, what each one teaches, and how to pick a first issue that will actually get merged."
+  },
+  "23e69633581b0fa7": {
+    "file": "corpus/devto/dev_to_multigrid_writing-documentation-with-ai-assistance-pk_2f9559c687.md",
+    "source": "devto",
+    "title": "Writing Documentation With AI Assistance",
+    "url": "https://dev.to/multigrid/writing-documentation-with-ai-assistance-pk0",
+    "keywords": [
+      "writing documentation",
+      "writing documentation",
+      "api surface",
+      "ai assistance",
+      "ai assistance",
+      "55z extract",
+      "source first",
+      "source",
+      "write",
+      "reactions"
+    ],
+    "summary": "# Writing Documentation With AI Assistance > Source: devto | Category: news | 2026-08-07T22:19:55Z Extract the API surface from the source first, write against the extraction, then fail the build on any identifier in the prose that the extraction does not contain."
+  },
+  "17f5fa48f083a185": {
+    "file": "corpus/devto/dev_to_abhishekbarali_how-i-made-a-local-voice-assistant-fee_edf287f463.md",
+    "source": "devto",
+    "title": "How I Made a Local Voice Assistant Feel Instant",
+    "url": "https://dev.to/abhishekbarali/how-i-made-a-local-voice-assistant-feel-instant-1o0p",
+    "keywords": [
+      "wanted one hotkey",
+      "answer without ...",
+      "assistant look",
+      "talk",
+      "source",
+      "screen",
+      "reactions",
+      "press",
+      "news",
+      "made"
+    ],
+    "summary": "# How I Made a Local Voice Assistant Feel Instant > Source: devto | Category: news | 2026-08-07T22:19:58Z Press it, talk, let the assistant look at my screen, and get an answer without..."
+  },
+  "b3e99e832093fc39": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_07_farmers-are-getting-control-of-t_023ccd0e9b.md",
+    "source": "legal",
+    "title": "[techdirt] Farmers Are Getting Control Of Their Equipment Back",
+    "url": "https://www.techdirt.com/2026/08/07/farmers-are-getting-control-of-their-equipment-back/",
+    "keywords": [
+      "tools [&# 8230 ;]",
+      "repair shops — regardless",
+      "actively made repairing",
+      "authorized &# 8221",
+      "repair advocates",
+      "&# 8220",
+      "tractors near",
+      "major win",
+      "john deere",
+      "getting control"
+    ],
+    "summary": "# [techdirt] Farmers Are Getting Control Of Their Equipment Back For years, John Deere had actively made repairing their tractors near-impossible for anyone but itself and the few &#8220;authorized&#8221; repair shops—regardless of the ability of its customers to actually visit such shops. Now, in a major win for farmers and right to repair advocates, John Deere must soon provide farmers with not just the tools [&#8230;]"
+  },
+  "8494d99e165d3cbd": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49216911_fcd5bdeb2b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49216911",
+    "keywords": [
+      "time voice streaming agents",
+      "senior ai &# x2f",
+      "senior ai &# x2f",
+      "résumé &# x2f",
+      "dpo ), opensearch",
+      "deterministic flow engines",
+      "chief data officer",
+      "llm evaluation pipelines",
+      "evaluation engineering roles",
+      "agentic evaluation pipelines"
+    ],
+    "summary": "Location: San Francisco, CA<p>Willing to relocate: Yes<p>Technologies: Python, TypeScript, LLM Evaluation Pipelines, Multi-Agent Systems, ReAct Frameworks, Fine-Tuning (DPO), OpenSearch, MongoDB, Postgres, Next.js<p>Résumé &#x2F; Contact: linkedin.com&#x2F;in&#x2F;amarcs | amardnagargoje@gmail.com<p>About Me:<p>Senior AI&#x2F;ML Engineer with deep expertise in production multi-agent orchestration, deterministic flow engines, and evaluation infrastructure. Recently served as Chief Data Officer at"
+  },
+  "8e6bd218bf3089d7": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_give-every-agent-in-herdr-its-own-verce_d05521ffb5.md",
+    "source": "vercel-blog",
+    "title": "Give every agent in Herdr its own Vercel Sandbox",
+    "url": "https://vercel.com/changelog/give-every-agent-in-herdr-its-own-vercel-sandbox",
+    "keywords": [
+      "59z give every agent",
+      "give every agent",
+      "give every agent",
+      "vercel sandbox",
+      "vercel sandbox",
+      "vercel sandbox",
+      "vercel",
+      "source",
+      "news",
+      "herdr"
+    ],
+    "summary": "# Give every agent in Herdr its own Vercel Sandbox > Source: vercel-blog | Category: news | 2026-08-07T22:19:59Z Give every agent in Herdr its own Vercel Sandbox"
+  },
+  "45c1a47c0a8f5994": {
+    "file": "corpus/hackernews/www_heise_de_en_news_BMW-Annoyed-by-Advertising-11399005_htm_8ee7fe1578.md",
+    "source": "hackernews",
+    "title": "BMW Rolling Out In-Car Spam",
+    "url": "https://www.heise.de/en/news/BMW-Annoyed-by-Advertising-11399005.html",
+    "keywords": [
+      "car spam",
+      "car spam",
+      "bmw rolling",
+      "bmw rolling",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# BMW Rolling Out In-Car Spam > Source: hackernews | Category: news | 2026-08-07T22:19:53Z Score: 15 | Comments: 2"
   }
 }
