@@ -376186,5 +376186,41 @@
       "category"
     ],
     "summary": "# Curlese, Five Years Later > Source: hackernews | Category: news | 2026-08-07T23:28:55Z Score: 3 | Comments: 2"
+  },
+  "5b7cfffca4e48c5d": {
+    "file": "corpus/hackernews/genesisopenmodels_anl_gov_74aa63caee.md",
+    "source": "hackernews",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "keywords": [
+      "genesis open models initiative",
+      "genesis open models initiative",
+      "energy launches",
+      "energy launches",
+      "34z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# U.S. Department of Energy Launches the Genesis Open Models Initiative > Source: hackernews | Category: news | 2026-08-07T23:57:34Z Score: 6 | Comments: 3"
+  },
+  "5eb97447e3f01a45": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_8_94b42e618d.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.8 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.8",
+    "keywords": [
+      "link view transitions skill",
+      "forwarded action error responses",
+      "dynamic ppr fallback routes",
+      "fix polling watcher bugs",
+      "enable cjs tree shaking",
+      "8 ### misc changes",
+      "default deploy e2e tests",
+      "turbopack deploy test project",
+      "small unit test",
+      "run webpack tests"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-07T23:58:20Z - Flush pending revalidations for forwarded action error responses: #96945 - Handle Server Actions on dynamic PPR fallback routes: #96932 - Turbopack: Improve how DiskWatcher is configured and fix polling watcher bugs: #96440 - Turbopack: Allow DiskWatcher to use a mocked DiskFileSystem, add a small unit test: #96353 - [turbopack] Add e2e test that uses component chunks + workers: #96556 - [turbopack] Support `experimental.se"
   }
 }
