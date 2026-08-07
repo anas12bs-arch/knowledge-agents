@@ -373110,5 +373110,509 @@
       "source"
     ],
     "summary": "# U.S. economy lost 23,000 jobs in July, a sudden reversal > Source: hackernews | Category: news | 2026-08-07T13:20:52Z Score: 7 | Comments: 1"
+  },
+  "6afc3268597f4a37": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48214_financial-data-group-ion-_f42709841e.md",
+    "source": "finance",
+    "title": "[finextra] Financial data group ION missed rent payments on three offices - FT",
+    "url": "https://www.finextra.com/newsarticle/48214/financial-data-group-ion-missed-rent-payments-on-three-offices",
+    "keywords": [
+      "finextra \"] date",
+      "[\" finance \",",
+      "venture \",",
+      "tax \",",
+      "funding \",",
+      "fintech \",",
+      "{} ---",
+      "three countries",
+      "financial times",
+      "three offices"
+    ],
+    "summary": "# [finextra] Financial data group ION missed rent payments on three offices - FT Financial data group ION missed rent payments on three offices - FT Financial data giant ION Investment Group missed rent payments on offices in three countries this year, according to the Financial Times."
+  },
+  "37b6a66cc53a5760": {
+    "file": "corpus/devto/dev_to_orthogonalinfo_reading-a-jwt-offline-how-to-spot-algn_51a48d098f.md",
+    "source": "devto",
+    "title": "Reading a JWT Offline: How to Spot alg:none and Algorithm Confusion Before They Bite",
+    "url": "https://dev.to/orthogonalinfo/reading-a-jwt-offline-how-to-spot-algnone-and-algorithm-confusion-before-they-bite-pl7",
+    "keywords": [
+      "decode jwts offline",
+      "jwt offline",
+      "jwt offline",
+      "spot alg",
+      "spot alg",
+      "spot alg",
+      "rs256 confusion",
+      "leaked pii",
+      "jwt bugs",
+      "cryptographic —"
+    ],
+    "summary": "# Reading a JWT Offline: How to Spot alg:none and Algorithm Confusion Before They Bite Most JWT bugs aren't cryptographic — you catch them by reading the token. How I decode JWTs offline to spot alg:none, HS256/RS256 confusion, and leaked PII."
+  },
+  "ff8fd555750b3140": {
+    "file": "corpus/devto/dev_to_aws-builders_how-kiro-crews-cron-jobs-replaced-4-hour_6d5dc2e372.md",
+    "source": "devto",
+    "title": "How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil",
+    "url": "https://dev.to/aws-builders/how-kiro-crews-cron-jobs-replaced-4-hours-of-weekly-toil-37h",
+    "keywords": [
+      "git hygiene checks",
+      "friday eow summary",
+      "automated dependency scans",
+      "ai agent sets",
+      "weekly toil",
+      "weekly toil",
+      "minute demo",
+      "kiro crew",
+      "kiro crew",
+      "health reports"
+    ],
+    "summary": "# How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil > Source: devto | Category: news | 2026-08-07T14:28:19Z 6-minute demo: AI agent sets up automated dependency scans, git hygiene checks, health reports, doc audits, and a Friday EOW summary."
+  },
+  "7f14711030f13378": {
+    "file": "corpus/devto/dev_to_sahil_kukreja_9cb7eca2367_beyond-seo-how-i-optimized-_2a75202aff.md",
+    "source": "devto",
+    "title": "Beyond SEO: How I Optimized Client Websites for SEO, GEO & AEO",
+    "url": "https://dev.to/sahil_kukreja_9cb7eca2367/beyond-seo-how-i-optimized-client-websites-for-seo-geo-aeo-2obm",
+    "keywords": [
+      "optimized client websites",
+      "optimized client websites",
+      "years ago",
+      "part ...",
+      "beyond seo",
+      "beyond seo",
+      "seo",
+      "seo",
+      "today",
+      "source"
+    ],
+    "summary": "# Beyond SEO: How I Optimized Client Websites for SEO, GEO & AEO > Source: devto | Category: news | 2026-08-07T14:28:22Z A couple of years ago, optimizing a website mostly meant making Google happy."
+  },
+  "d7d5c69d3c052dd2": {
+    "file": "corpus/devto/dev_to_praise-04-dev_i-built-a-colour-palette-generator-with_bfe88b6858.md",
+    "source": "devto",
+    "title": "I Built a Colour Palette Generator with Vanilla JavaScript",
+    "url": "https://dev.to/praise-04-dev/i-built-a-colour-palette-generator-with-vanilla-javascript-3nf8",
+    "keywords": [
+      "shipping one project",
+      "journey toward becoming",
+      "colour palette generator",
+      "colour palette generator",
+      "vanilla javascript",
+      "vanilla javascript",
+      "software engineer",
+      "source",
+      "reactions",
+      "part"
+    ],
+    "summary": "# I Built a Colour Palette Generator with Vanilla JavaScript > Source: devto | Category: news | 2026-08-07T14:28:22Z As part of my journey toward becoming a software engineer, I've committed to shipping one project a..."
+  },
+  "0f45e9630709de43": {
+    "file": "corpus/devto/dev_to_bezzy_j_how-we-structured-a-large-vuenuxt-application_ee6a2871be.md",
+    "source": "devto",
+    "title": "How We Structured a Large Vue/Nuxt Application Without Losing Our Sanity",
+    "url": "https://dev.to/bezzy_j/how-we-structured-a-large-vuenuxt-application-without-losing-our-sanity-56oa",
+    "keywords": [
+      "nuxt application without losing",
+      "nuxt application without losing",
+      "two api ...",
+      "large vue",
+      "large vue",
+      "way",
+      "structured",
+      "structured",
+      "source",
+      "sanity"
+    ],
+    "summary": "# How We Structured a Large Vue/Nuxt Application Without Losing Our Sanity Every Vue application starts the same way. One or two API..."
+  },
+  "4869ec470aee3a6d": {
+    "file": "corpus/devto/dev_to_shanni_i-audited-a-55-gb-ai-training-dataset-by-downl_82bf743b80.md",
+    "source": "devto",
+    "title": "I audited a 5.5 GB AI training dataset by downloading 0.8% of it",
+    "url": "https://dev.to/shanni/i-audited-a-55-gb-ai-training-dataset-by-downloading-08-of-it-bf9",
+    "keywords": [
+      "23z two months ago",
+      "repository turned",
+      "mit ...",
+      "downloading 0",
+      "downloading 0",
+      "744 forks",
+      "358 stars",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# I audited a 5.5 GB AI training dataset by downloading 0.8% of it > Source: devto | Category: news | 2026-08-07T14:28:23Z Two months ago a repository turned up in my corner of the internet: 3,358 stars, 744 forks, an MIT..."
+  },
+  "380700cc4f6d397b": {
+    "file": "corpus/devto/dev_to_min38_ospf-open-shortest-path-first-3bfa_e52fe9b7a2.md",
+    "source": "devto",
+    "title": "OSPF - Open Shortest Path First",
+    "url": "https://dev.to/min38/ospf-open-shortest-path-first-3bfa",
+    "keywords": [
+      "open shortest path first",
+      "open shortest path first",
+      "converges ...",
+      "22z 1",
+      "ospf characteristics",
+      "ospf",
+      "ospf",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# OSPF - Open Shortest Path First > Source: devto | Category: news | 2026-08-07T14:28:22Z OSPF Characteristics    A Link State routing protocol Supports large networks, converges..."
+  },
+  "412e3c00927af8f4": {
+    "file": "corpus/devto/dev_to_lana_connexion_changing-the-ai-engine-moved-3-of-10-r_2086c07d26.md",
+    "source": "devto",
+    "title": "Changing the AI engine moved 3 of 10 results. Changing the question moved 10 of 10.",
+    "url": "https://dev.to/lana_connexion/changing-the-ai-engine-moved-3-of-10-results-changing-the-question-moved-10-of-10-3gk1",
+    "keywords": [
+      "ai engine moved 3",
+      "ai engine moved 3",
+      "publish free leaderboards",
+      "question moved 10",
+      "question moved 10",
+      "someone asks",
+      "10 results",
+      "10 results"
+    ],
+    "summary": "# Changing the AI engine moved 3 of 10 results. Changing the question moved 10 of 10. I publish free leaderboards of which products AI answer engines name when someone asks them to..."
+  },
+  "9c9f4e4306575f31": {
+    "file": "corpus/legal/arstechnica_com_science_2026_08_trump-is-losing-his-war-on-w_740de4f681.md",
+    "source": "legal",
+    "title": "[ars-policy] Trump is losing his war on wind power",
+    "url": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+    "keywords": [
+      "wind projects clearly violates",
+      "wind power",
+      "wind power",
+      "wind power",
+      "court rules",
+      "12z trump",
+      "trump",
+      "trump",
+      "war",
+      "war"
+    ],
+    "summary": "# [ars-policy] Trump is losing his war on wind power Trump is losing his war on wind power A court rules that a hold on all wind projects clearly violates the law."
+  },
+  "79726ea9d6046637": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_north-carolina-ports-_278baa51bd.md",
+    "source": "security",
+    "title": "[bleeping-comp] North Carolina Ports confirms cyberattack disrupting operations",
+    "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "keywords": [
+      "north carolina ports authority",
+      "charlotte inland port",
+      "slowed operations",
+      "morehead city",
+      "cyberattack disrupted",
+      "port",
+      "port",
+      "wilmington",
+      "systems",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] North Carolina Ports confirms cyberattack disrupting operations North Carolina Ports confirms cyberattack disrupting operations The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port."
+  },
+  "8ce5ea6a7d1c92be": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_real-emails-hijacked-_005c5ebee9.md",
+    "source": "security",
+    "title": "[bleeping-comp] Real emails, hijacked payments: Two H1 2026 attack chains",
+    "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+    "keywords": [
+      "used clipboard hijacking",
+      "redirect cryptocurrency payments",
+      "13z real emails",
+      "real emails",
+      "real emails",
+      "hijacked payments",
+      "hijacked payments",
+      "hijacked payments",
+      "malware campaign",
+      "browser manipulation"
+    ],
+    "summary": "# [bleeping-comp] Real emails, hijacked payments: Two H1 2026 attack chains Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments."
+  },
+  "a2c710db74e4dc29": {
+    "file": "corpus/security/thehackernews_com_2026_08_new-wordpress-pre-auth-xss-could-l_38709a9ced.md",
+    "source": "security",
+    "title": "[hacker-news-sec] New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+    "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "keywords": [
+      "auth xss could lead",
+      "auth xss could lead",
+      "auth xss could lead",
+      "nbsp ;( cvss score",
+      "11z new wordpress pre",
+      "new wordpress pre",
+      "new wordpress pre",
+      "severity vulnerability requires",
+      "php code execution",
+      "php code execution"
+    ],
+    "summary": "# [hacker-news-sec] New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system."
+  },
+  "b94a92bc85a09c5d": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_free-domain-now-included-with-new-pro-s_87ca848fe4.md",
+    "source": "vercel-blog",
+    "title": "Free domain now included with new Pro subscriptions",
+    "url": "https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions",
+    "keywords": [
+      "new pro subscriptions",
+      "new pro subscriptions",
+      "new pro subscriptions",
+      "24z free domain",
+      "free domain",
+      "free domain",
+      "vercel",
+      "source",
+      "news",
+      "included"
+    ],
+    "summary": "# Free domain now included with new Pro subscriptions > Source: vercel-blog | Category: news | 2026-08-07T14:28:24Z Free domain now included with new Pro subscriptions"
+  },
+  "d5fd4cdf2a72f60f": {
+    "file": "corpus/hackernews/github_com_tanrax_bitpoint_d9bd054542.md",
+    "source": "hackernews",
+    "title": "Show HN: File-based HTTP endpoints for Python with its own isolated dependencies",
+    "url": "https://github.com/tanrax/bitpoint",
+    "keywords": [
+      "based http endpoints",
+      "based http endpoints",
+      "show hn",
+      "show hn",
+      "isolated dependencies",
+      "isolated dependencies",
+      "18z score",
+      "source",
+      "python",
+      "python"
+    ],
+    "summary": "# Show HN: File-based HTTP endpoints for Python with its own isolated dependencies > Source: hackernews | Category: news | 2026-08-07T14:28:18Z Score: 4 | Comments: 0"
+  },
+  "fec542ef11424130": {
+    "file": "corpus/hackernews/www_fastcompany_com_91576086_ai-psychosis-is-the-new-leaders_5ecb5c6188.md",
+    "source": "hackernews",
+    "title": "AI psychosis is the new leadership blind spot",
+    "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+    "keywords": [
+      "new leadership blind spot",
+      "new leadership blind spot",
+      "ai psychosis",
+      "ai psychosis",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI psychosis is the new leadership blind spot > Source: hackernews | Category: news | 2026-08-07T14:28:12Z Score: 75 | Comments: 32"
+  },
+  "c0abce495e399f11": {
+    "file": "corpus/hackernews/ykiko_me_en_articles_692886292_ec686a3d21.md",
+    "source": "hackernews",
+    "title": "Thoroughly Understanding C++ ABI",
+    "url": "https://ykiko.me/en/articles/692886292/",
+    "keywords": [
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Thoroughly Understanding C++ ABI > Source: hackernews | Category: news | 2026-08-07T14:28:13Z Score: 4 | Comments: 2"
+  },
+  "157b6fe1b80ffe4c": {
+    "file": "corpus/hackernews/blog_cloudflare_com_kitesurf_d13caba535.md",
+    "source": "hackernews",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "keywords": [
+      "v8 isolates",
+      "v8 isolates",
+      "first browser",
+      "first browser",
+      "13z score",
+      "source",
+      "runs",
+      "runs",
+      "news",
+      "kitesurf"
+    ],
+    "summary": "# Kitesurf: Agent-first browser that runs in V8 isolates > Source: hackernews | Category: news | 2026-08-07T14:28:13Z Score: 22 | Comments: 3"
+  },
+  "bdf262feedc47e1d": {
+    "file": "corpus/hackernews/github_com_Wyzer-Lang_wyzer_5d4a40a591.md",
+    "source": "hackernews",
+    "title": "Show HN: Wyzer Programming Language",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "keywords": [
+      "high level programming language",
+      "oriented programming language",
+      "strict type checking",
+      "perceus reference counting",
+      "computationally much simpler",
+      "wyzer programming language",
+      "wyzer programming language",
+      "services wait permanently",
+      "linear &# x2f",
+      "release version 0"
+    ],
+    "summary": "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed d"
+  },
+  "a75371ee2e921f3b": {
+    "file": "corpus/hackernews/textlog_cc_about_4dbe879f62.md",
+    "source": "hackernews",
+    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "url": "https://textlog.cc/about",
+    "keywords": [
+      "textlog –",
+      "textlog –",
+      "show hn",
+      "show hn",
+      "microblogging platform",
+      "microblogging platform",
+      "16z score",
+      "text",
+      "text",
+      "source"
+    ],
+    "summary": "# Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS > Source: hackernews | Category: news | 2026-08-07T14:28:16Z Score: 6 | Comments: 0"
+  },
+  "0839055ad77323db": {
+    "file": "corpus/hackernews/malisper_me_how-we-made-postgres-hundreds-of-times-faster-th_f269154804.md",
+    "source": "hackernews",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "keywords": [
+      "making postgres 300x faster",
+      "making postgres 300x faster",
+      "operator fusion",
+      "operator fusion",
+      "13z score",
+      "source",
+      "simd",
+      "simd",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD > Source: hackernews | Category: news | 2026-08-07T14:28:13Z Score: 24 | Comments: 4"
+  },
+  "70981338327043c7": {
+    "file": "corpus/hackernews/www_niemanlab_org_2026_08_americas-largest-newspaper-chain-u_db82944db2.md",
+    "source": "hackernews",
+    "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
+    "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+    "keywords": [
+      "largest newspaper chain partners",
+      "largest newspaper chain partners",
+      "analyze audience data",
+      "analyze audience data",
+      "11z score",
+      "source",
+      "palantir",
+      "palantir"
+    ],
+    "summary": "# US's largest newspaper chain partners with Palantir to analyze audience data > Source: hackernews | Category: news | 2026-08-07T14:28:11Z Score: 11 | Comments: 1"
+  },
+  "08b0e572ca2530e4": {
+    "file": "corpus/hackernews/www_wsj_com_economy_jobs_july-jobs-report-unemployment-0d7c0_b4b832f6bb.md",
+    "source": "hackernews",
+    "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+    "url": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+    "keywords": [
+      "unemployment ticked lower",
+      "unemployment ticked lower",
+      "lost 23",
+      "lost 23",
+      "12z score",
+      "000 jobs",
+      "000 jobs",
+      "source"
+    ],
+    "summary": "# U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower > Source: hackernews | Category: news | 2026-08-07T14:28:12Z Score: 20 | Comments: 1"
+  },
+  "65abb1633a916730": {
+    "file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-shopify-at-14b-i_39c820cb6f.md",
+    "source": "sales",
+    "title": "[saastr] 5 Interesting Learnings from Shopify at $14B in Revenue: 34% Growth, 18% Free Cash Flow Margins, and AI Orders Up 3x",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-shopify-at-14b-in-revenue-34-growth-18-free-cash-flow-margins-and-ai-orders-up-3x/",
+    "keywords": [
+      "gross ... continue reading",
+      "free cash flow margins",
+      "free cash flow margins",
+      "free cash flow margins",
+      "14z 5 interesting learnings",
+      "stock jumped roughly 18",
+      "30 %+ gmv growth",
+      "5 interesting learnings",
+      "5 interesting learnings",
+      "fifth straight quarter"
+    ],
+    "summary": "# [saastr] 5 Interesting Learnings from Shopify at $14B in Revenue: 34% Growth, 18% Free Cash Flow Margins, and AI Orders Up 3x 5 Interesting Learnings from Shopify at $14B in Revenue: 34% Growth, 18% Free Cash Flow Margins, and AI Orders Up 3x Shopify reported Q2 2026 this week and the stock jumped roughly 18% on the news, erasing most of a 25% year-to-date decline in a single session."
+  },
+  "0fbae86d357b1625": {
+    "file": "corpus/design/css-tricks_com_using-and-styling-the-dialog-element_28c1a92056.md",
+    "source": "design",
+    "title": "[css-tricks] Using and Styling the Dialog Element",
+    "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+    "keywords": [
+      "dialog element originally handwritten",
+      "seemingly little piece",
+      "dialog &# 62",
+      "dialog element",
+      "dialog element",
+      "dialog element",
+      "&# 60",
+      "web architecture",
+      "really get",
+      "12z using"
+    ],
+    "summary": "# [css-tricks] Using and Styling the Dialog Element I've got some notes from digging into it. You should really  get the newsletter  as well."
+  },
+  "c2c0d2d4b716209d": {
+    "file": "corpus/github-releases/github_com_supabase_supabase_releases_tag_v1_26_08_ee65a09197.md",
+    "source": "github-releases",
+    "title": "supabase/supabase v1.26.08 released",
+    "url": "https://github.com/supabase/supabase/releases/tag/v1.26.08",
+    "keywords": [
+      "img width =\" 2400",
+      "img width =\" 1200",
+      "img width =\" 1200",
+      "img width =\" 1200",
+      "img width =\" 1200",
+      "img width =\" 1200",
+      "## quick product announcements",
+      "every plan including free",
+      "/> supabase select returns",
+      "/> unified logs gives"
+    ],
+    "summary": "Supabase Select returns to San Francisco on October 2, a curated day of talks, feature deep dives, and more activations. Connect any Supabase project to Grafana Cloud in one click for a pre-built dashboard, alerting, and metrics, available on every plan including Free. [[Changelog](https://supabase.com/changelog/48235-migration-of-supabase-management-api-logs-all-analytics-endpoint-to-logs-endpoint)] - Supabase now blocks all changes to the `realtime` schema: creating, altering, or dropping obje"
+  },
+  "9f45a2f98c72e7a3": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-ope_a789de6320.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-openai==1.4.2 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.4.2",
+    "keywords": [
+      "openai ): redact mcp",
+      "openai ): preserve responses",
+      "7 updates (# 39187",
+      "openai ): filter langchain",
+      "2 changes since langchain",
+      "openai ): handle",
+      "openai ): 1",
+      "openai == 1",
+      "openai == 1",
+      "openai == 1"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-07T14:29:08Z Changes since langchain-openai==1.4.1 release(openai): 1.4.2 (#39322) fix(openai): handle `ContextWindowExceededError` (#39300) chore: bump the minor-and-patch group across 3 directories with 7 updates (#39187) fix(openai): filter langchain-generated content block IDs (#39209) fix(openai): preserve Responses `text` options (#39204) fix(openai): redact MCP `authorization` (#39155) chore(model-profiles): refresh model profile d"
   }
 }
