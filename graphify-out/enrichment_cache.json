@@ -372354,5 +372354,195 @@
       "empty relation reads"
     ],
     "summary": "For every package this repository publishes, `latest` keeps tracking the newest release, RC included. The bare `prisma` package is not published from this repository; its v8 CLI shim lives in [prisma/prisma-cli](https://github.com/prisma/prisma-cli). **Existing installs are not moved onto the RC line by `npm update`."
+  },
+  "5cbecb408251382c": {
+    "file": "corpus/devto/dev_to_nishant_banginwar_80b7dc5_random-forest-is-horizontal_9e06cc99ba.md",
+    "source": "devto",
+    "title": "Random Forest Is Horizontal Scaling for Predictions",
+    "url": "https://dev.to/nishant_banginwar_80b7dc5/random-forest-is-horizontal-scaling-for-predictions-3dd3",
+    "keywords": [
+      "sre — part 3",
+      "20z classic machine learning",
+      "first ml ...",
+      "random forest",
+      "random forest",
+      "random forest",
+      "horizontal scaling",
+      "horizontal scaling",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Random Forest Is Horizontal Scaling for Predictions > Source: devto | Category: news | 2026-08-07T12:03:20Z Classic Machine Learning Through the Eyes of an SRE — Part 3  The random forest is the first ML..."
+  },
+  "491dc9b1c35464e3": {
+    "file": "corpus/devto/dev_to_moniruzzamansaikat_how-to-build-scalable-software-usi_998b451540.md",
+    "source": "devto",
+    "title": "How to Build Scalable Software Using AI Without Creating an Unmaintainable Mess",
+    "url": "https://dev.to/moniruzzamansaikat/how-to-build-scalable-software-using-ai-without-creating-an-unmaintainable-mess-3je6",
+    "keywords": [
+      "api endpoint ...",
+      "unmaintainable mess",
+      "unmaintainable mess",
+      "18z ai",
+      "speed",
+      "source",
+      "software",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# How to Build Scalable Software Using AI Without Creating an Unmaintainable Mess AI has changed the speed at which software can be built. A developer can describe an API endpoint..."
+  },
+  "494b433ae486dd08": {
+    "file": "corpus/devto/dev_to_iprajapatiparesh_legacy-migration-the-strangler-fig-p_4b7198c9ad.md",
+    "source": "devto",
+    "title": "Legacy Migration: The Strangler Fig Pattern in Laravel 🕰️",
+    "url": "https://dev.to/iprajapatiparesh/legacy-migration-the-strangler-fig-pattern-in-laravel-1pp4",
+    "keywords": [
+      "strangler fig pattern",
+      "strangler fig pattern",
+      "legacy migration",
+      "legacy migration",
+      "legacy ...",
+      "laravel 🕰️",
+      "laravel 🕰️",
+      "big bang",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Legacy Migration: The Strangler Fig Pattern in Laravel 🕰️ > Source: devto | Category: news | 2026-08-07T12:03:20Z The Fallacy of the \"Big Bang\" Rewrite  Every engineering team eventually inherits a legacy..."
+  },
+  "adc76081a682ce28": {
+    "file": "corpus/devto/dev_to_nasrulhazim_one-interface-many-runtimes-a-build-prese_3c81536013.md",
+    "source": "devto",
+    "title": "One interface, many runtimes: a build-preset registry in Laravel",
+    "url": "https://dev.to/nasrulhazim/one-interface-many-runtimes-a-build-preset-registry-in-laravel-g3m",
+    "keywords": [
+      "build many kinds",
+      "many runtimes",
+      "many runtimes",
+      "preset registry",
+      "preset registry",
+      "one system",
+      "one interface",
+      "one interface",
+      "node ,...",
+      "20z tl"
+    ],
+    "summary": "# One interface, many runtimes: a build-preset registry in Laravel > Source: devto | Category: news | 2026-08-07T12:03:20Z TL;DR    When one system has to build many kinds of app (Laravel, Django, Go, Node,..."
+  },
+  "6d884719a901913c": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_ai-incident-response_utm_campaign_3aebc70bec.md",
+    "source": "engineering",
+    "title": "[infoq] AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans",
+    "url": "https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "transforming incident response",
+      "transforming incident response",
+      "transforming incident response",
+      "summarize incident channels",
+      "suggest remediation steps",
+      "generate pull requests",
+      "analyze unfamiliar code",
+      "humans artificial intelligence",
+      "engineering teams respond",
+      "rapidly changing"
+    ],
+    "summary": "# [infoq] AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans Artificial intelligence is rapidly changing how engineering teams respond to production incidents, offering the ability to summarize incident channels, analyze unfamiliar code, suggest remediation steps, generate pull requests, and increasingly assist with diagnosis."
+  },
+  "b3f10f8e4e29ef20": {
+    "file": "corpus/hackernews/whatever_scalzi_com_2026_08_06_generative-ai-the-guitar-hero_0391975779.md",
+    "source": "hackernews",
+    "title": "Generative 'AI': The Guitar Hero of Creativity",
+    "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+    "keywords": [
+      "guitar hero",
+      "guitar hero",
+      "ai ':",
+      "ai \":",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "generative",
+      "generative"
+    ],
+    "summary": "# Generative \"AI\": The Guitar Hero of Creativity > Source: hackernews | Category: news | 2026-08-07T12:03:15Z Score: 3 | Comments: 0"
+  },
+  "a429221ef987fc62": {
+    "file": "corpus/hackernews/github_com_schroedinger-Hat_certo_af88a6d74f.md",
+    "source": "hackernews",
+    "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+    "url": "https://github.com/schroedinger-Hat/certo",
+    "keywords": [
+      ":< p >- self",
+      "partner communities .< p",
+      "model &# x2f ;</",
+      "org &# x2f ;</",
+      "org &# x2f ;</",
+      "implements open badges 3",
+      "org &# x2f",
+      "org &# x2f",
+      "org &# x2f",
+      "org &# x2f"
+    ],
+    "summary": "# Show HN: Certo – An open source platform to deliver Open Badges > Source: hackernews | Category: news | 2026-08-07T12:03:15Z Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.<p>It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentials portable, machine-verifiable, and vendor-independent.<p>It is designed to be:<p>- Self-hosted: run it inside your own infrastructure, air-gapped ne"
+  },
+  "a2771698c32307b6": {
+    "file": "corpus/hackernews/www_newsweek_com_bulldozers-plow-through-big-bend-national-p_52861aad59.md",
+    "source": "hackernews",
+    "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
+    "url": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
+    "keywords": [
+      "big bend national park",
+      "big bend national park",
+      "sparking fury",
+      "sparking fury",
+      "bulldozers plow",
+      "bulldozers plow",
+      "16z score",
+      "texas",
+      "texas",
+      "source"
+    ],
+    "summary": "# Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas > Source: hackernews | Category: news | 2026-08-07T12:03:16Z Score: 7 | Comments: 0"
+  },
+  "4e8fb0a7dd4b4852": {
+    "file": "corpus/hackernews/www_currentaffairs_org_news_the-massive-climate-lie-that-wil_11865311d5.md",
+    "source": "hackernews",
+    "title": "The Gargantuan Lie That Is Collapsing the Climate",
+    "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+    "keywords": [
+      "gargantuan lie",
+      "gargantuan lie",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "collapsing",
+      "collapsing",
+      "climate"
+    ],
+    "summary": "# The Gargantuan Lie That Is Collapsing the Climate > Source: hackernews | Category: news | 2026-08-07T12:03:10Z Score: 55 | Comments: 14"
+  },
+  "20a21a0a1dc3d559": {
+    "file": "corpus/sales/www_saastr_com_if-you-dont-think-you-need-a-vp-of-product-ma_4003348f4c.md",
+    "source": "sales",
+    "title": "[saastr] If You Don’t Think You Need a VP of Product, VP of Marketing, Etc. — Then You Haven’t Worked With a Great One",
+    "url": "https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/",
+    "keywords": [
+      "truly great one",
+      "truly great vp",
+      "great one",
+      "great one",
+      "great one",
+      "maybe even",
+      "important post",
+      "bit later",
+      "20m arr",
+      "&# 8217"
+    ],
+    "summary": "— Then You Haven’t Worked With a Great One If you are between $1m and $20m ARR, and maybe even a bit later, this might be the #1 most important post and piece of advice I can give you: That yes, a truly great VP for any role will move the needle. And if you don&#8217;t think so &#8212;...   Continue Reading"
   }
 }
