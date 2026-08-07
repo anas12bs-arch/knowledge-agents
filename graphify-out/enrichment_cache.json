@@ -373614,5 +373614,420 @@
       "openai == 1"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-07T14:29:08Z Changes since langchain-openai==1.4.1 release(openai): 1.4.2 (#39322) fix(openai): handle `ContextWindowExceededError` (#39300) chore: bump the minor-and-patch group across 3 directories with 7 updates (#39187) fix(openai): filter langchain-generated content block IDs (#39209) fix(openai): preserve Responses `text` options (#39204) fix(openai): redact MCP `authorization` (#39155) chore(model-profiles): refresh model profile d"
+  },
+  "5a12ea0b50d44b12": {
+    "file": "corpus/devto/dev_to_hammad4june1999_ffmpegwasm-012-hung-on-the-first-fram_8cfa7fc022.md",
+    "source": "devto",
+    "title": "ffmpeg.wasm 0.12 hung on the first frame — and the real speedup was not the upgrade",
+    "url": "https://dev.to/hammad4june1999/ffmpegwasm-012-hung-on-the-first-frame-and-the-real-speedup-was-not-the-upgrade-p45",
+    "keywords": [
+      "means every ...",
+      "first frame —",
+      "first frame —",
+      "video tools",
+      "run utilorax",
+      "real speedup",
+      "real speedup",
+      "free browser",
+      "based tools",
+      "12 hung"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-07T15:23:24Z I run Utilorax, a set of free browser-based tools. The video tools are ffmpeg.wasm, which means every..."
+  },
+  "66e5e78d8444ad19": {
+    "file": "corpus/devto/dev_to_antheducation_the-synth-sounded-fine-when-nobody-was-_24f79b5b22.md",
+    "source": "devto",
+    "title": "The Synth Sounded Fine When Nobody Was Listening",
+    "url": "https://dev.to/antheducation/the-synth-sounded-fine-when-nobody-was-listening-50l",
+    "keywords": [
+      "synth sounded fine",
+      "synth sounded fine",
+      "bug killed 6",
+      "24z live playback",
+      "two bytes",
+      "offline renders",
+      "thin",
+      "strangled",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Synth Sounded Fine When Nobody Was Listening Live playback was thin and strangled. Offline renders of the exact same project were flawless."
+  },
+  "49c05d714f147786": {
+    "file": "corpus/devto/dev_to_devio_3007_canaries-not-faith-auditing-where-your-cod_a560fd52fa.md",
+    "source": "devto",
+    "title": "Canaries, Not Faith: Auditing Where Your Coding Agent Actually Writes",
+    "url": "https://dev.to/devio_3007/canaries-not-faith-auditing-where-your-coding-agent-actually-writes-3li5",
+    "keywords": [
+      "coding agent actually writes",
+      "coding agent actually writes",
+      "usually dramatic",
+      "mental image",
+      "source",
+      "reactions",
+      "news",
+      "faith",
+      "faith",
+      "devto"
+    ],
+    "summary": "# Canaries, Not Faith: Auditing Where Your Coding Agent Actually Writes > Source: devto | Category: news | 2026-08-07T15:23:24Z When people discuss AI agents escaping their boundaries, the mental image is usually dramatic: a..."
+  },
+  "09546ff3af7be6e0": {
+    "file": "corpus/devto/dev_to_p0rt_i-found-two-bugs-in-zulip-the-maintainers-had-fi_556a12d56b.md",
+    "source": "devto",
+    "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
+    "url": "https://dev.to/p0rt/i-found-two-bugs-in-zulip-the-maintainers-had-filed-both-two-weeks-earlier-4mom",
+    "keywords": [
+      "bug smash hunting story",
+      "two weeks earlier",
+      "two weeks earlier",
+      "two rediscovered bugs",
+      "found two bugs",
+      "found two bugs",
+      "unreported twin",
+      "right fix",
+      "one claim",
+      "newest importer"
+    ],
+    "summary": "# I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier. A Bug Smash hunting story: two rediscovered bugs, one claim-etiquette call, an unreported twin in the newest importer, and a disagreement with an AI about the right fix."
+  },
+  "1951bb0191b429ba": {
+    "file": "corpus/devto/dev_to_begoodtool_dead-pixel-test-sites-are-just-colored-div_de2522b4de.md",
+    "source": "devto",
+    "title": "Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors",
+    "url": "https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22",
+    "keywords": [
+      "pixel test sites",
+      "pixel test sites",
+      "colored divs —",
+      "colored divs —",
+      "actual engineering problem",
+      "actual engineering problem",
+      "used monitor",
+      "online ...",
+      "fullscreen api",
+      "fullscreen api"
+    ],
+    "summary": "# Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors > Source: devto | Category: news | 2026-08-07T15:23:24Z I bought a used monitor a while back and did what everyone tells you to do first: pull up an online..."
+  },
+  "c3e9dd5806c75a31": {
+    "file": "corpus/devto/dev_to_sachin-680_tracing-a-3x-memory-blow-up-in-grafanas-ti_7a678173e1.md",
+    "source": "devto",
+    "title": "Tracing a 3 Memory Blow-Up in Grafana's Time Comparison",
+    "url": "https://dev.to/sachin-680/tracing-a-3x-memory-blow-up-in-grafanas-time-comparison-2jpn",
+    "keywords": [
+      "3 memory blow",
+      "3 memory blow",
+      "— none",
+      "using far",
+      "time comparison",
+      "time comparison",
+      "root cause",
+      "real data",
+      "comparison panel",
+      "memory"
+    ],
+    "summary": "# Tracing a 3 Memory Blow-Up in Grafana's Time Comparison A comparison panel was using far more memory than it should — none of it real data. Here's how I traced it to the root cause and fixed it."
+  },
+  "098f35cc3d47a690": {
+    "file": "corpus/devto/dev_to_predictandprofit_we-turned-down-googles-ai-weather-mo_a2ae8b9c1a.md",
+    "source": "devto",
+    "title": "We Turned Down Google's AI Weather Model",
+    "url": "https://dev.to/predictandprofit/we-turned-down-googles-ai-weather-model-1blc",
+    "keywords": [
+      "weather model earlier",
+      "ai weather model",
+      "ai weather model",
+      "24z google released",
+      "world 97",
+      "best forecast",
+      "google",
+      "google",
+      "year",
+      "turned"
+    ],
+    "summary": "# We Turned Down Google's AI Weather Model > Source: devto | Category: news | 2026-08-07T15:23:24Z Google released a weather model earlier this year that beats the best forecast in the world 97% of..."
+  },
+  "81ce86ba22f39371": {
+    "file": "corpus/devto/dev_to_michaeltruong_one-skill-per-action-looked-like-the-sa_4650f6fd8d.md",
+    "source": "devto",
+    "title": "One skill per action looked like the safe boundary",
+    "url": "https://dev.to/michaeltruong/one-skill-per-action-looked-like-the-safe-boundary-13pj",
+    "keywords": [
+      "assisted editorial pipeline",
+      "safe boundary",
+      "safe boundary",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "cursor",
+      "category",
+      "building"
+    ],
+    "summary": "# One skill per action looked like the safe boundary > Source: devto | Category: news | 2026-08-07T15:23:23Z I've been building an AI-assisted editorial pipeline in Cursor."
+  },
+  "b0eaa0da2e3cc3bc": {
+    "file": "corpus/devto/dev_to_alvaromontoro_dont-use-a-class-for-that-23l0_cd1059d814.md",
+    "source": "devto",
+    "title": "Don't Use A Class For That!",
+    "url": "https://dev.to/alvaromontoro/dont-use-a-class-for-that-23l0",
+    "keywords": [
+      "23z developers love classes",
+      "custom classes everywhere",
+      "html already counts",
+      "many attributes",
+      "better job",
+      "use",
+      "use",
+      "use",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Don't Use A Class For That! They pile on custom classes everywhere, but HTML already counts with many attributes that do a better job. So why not use them?"
+  },
+  "9981f72dc171d201": {
+    "file": "corpus/devto/dev_to_weirdcodesofficial_added-english-hindi-language-toggl_fedaafb643.md",
+    "source": "devto",
+    "title": "Added English / Hindi Language Toggle",
+    "url": "https://dev.to/weirdcodesofficial/added-english-hindi-language-toggle-4c9c",
+    "keywords": [
+      "hindi language toggle",
+      "hindi language toggle",
+      "hindi language ...",
+      "added english",
+      "added english",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Added English / Hindi Language Toggle > Source: devto | Category: news | 2026-08-07T15:23:24Z 🕉️ मोक्ष — Devlog v0.0.9            द्विभाषी मोक्ष — English / Hindi Language..."
+  },
+  "5dae3ec92a7626be": {
+    "file": "corpus/devto/dev_to_begoodtool_generating-unique-random-numbers-is-easy-s_1da3087cc5.md",
+    "source": "devto",
+    "title": "Generating unique random numbers is easy — swapping min and max broke my own validation",
+    "url": "https://dev.to/begoodtool/generating-unique-random-numbers-is-easy-swapping-min-and-max-broke-my-own-validation-4ae1",
+    "keywords": [
+      "generating unique random numbers",
+      "generating unique random numbers",
+      "easy — swapping min",
+      "easy — swapping min",
+      "small number picker",
+      "put together",
+      "office raffle",
+      "max broke",
+      "max broke",
+      "hit ..."
+    ],
+    "summary": "# Generating unique random numbers is easy — swapping min and max broke my own validation > Source: devto | Category: news | 2026-08-07T15:23:24Z I put together a small number picker for an office raffle: type a minimum, type a maximum, hit..."
+  },
+  "0e5b5718c113ff32": {
+    "file": "corpus/devto/dev_to_mashi_mashi_3092153ef1ab5_saved-successfully-is-not-a_a80969bff7.md",
+    "source": "devto",
+    "title": "Saved successfully' is not a link: verifying backlinks with a real fetch caught six false positives",
+    "url": "https://dev.to/mashi_mashi_3092153ef1ab5/saved-successfully-is-not-a-link-verifying-backlinks-with-a-real-fetch-caught-six-false-positives-2kcf",
+    "keywords": [
+      "verifying backlinks",
+      "verifying backlinks",
+      "saved successfully",
+      "saved successfully",
+      "every profile",
+      "directory entry",
+      "source",
+      "sites",
+      "run",
+      "reactions"
+    ],
+    "summary": "# \"Saved successfully\" is not a link: verifying backlinks with a real fetch caught six false positives > Source: devto | Category: news | 2026-08-07T15:23:24Z I keep a ledger of every profile, article, and directory entry that points at the sites I run."
+  },
+  "2a80e1641d6f7dfb": {
+    "file": "corpus/devto/dev_to_nova-agent_a-prompt-injection-detector-that-only-spea_b0dd3ed122.md",
+    "source": "devto",
+    "title": "A Prompt-Injection Detector That Only Speaks English",
+    "url": "https://dev.to/nova-agent/a-prompt-injection-detector-that-only-speaks-english-2a5h",
+    "keywords": [
+      "speaks english",
+      "speaks english",
+      "injection detector",
+      "injection detector",
+      "supposed",
+      "source",
+      "scanner",
+      "runs",
+      "read",
+      "reactions"
+    ],
+    "summary": "# A Prompt-Injection Detector That Only Speaks English I audit the infrastructure that runs me. This month I read the scanner that's supposed to protect me..."
+  },
+  "e604f14f327e5919": {
+    "file": "corpus/legal/arstechnica_com_ai_2026_08_ai-chatbots-have-failed-people-in_dacb4e98be.md",
+    "source": "legal",
+    "title": "[ars-policy] AI chatbots have failed people in crisis. Can that be fixed?",
+    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "keywords": [
+      "16z ai chatbots",
+      "ai chatbots",
+      "ai chatbots",
+      "safety data",
+      "failed people",
+      "failed people",
+      "failed people",
+      "source",
+      "policy",
+      "policy"
+    ],
+    "summary": "# [ars-policy] AI chatbots have failed people in crisis. AI chatbots have failed people in crisis. Clinicians and researchers say AI companies need to open up their safety data."
+  },
+  "cde6261bb738eda6": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49211731_443f14ca57.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49211731",
+    "keywords": [
+      "hard goods supply chain",
+      "next level .< p",
+      "founding applied ai engineer",
+      "com &# x2f ;</",
+      "4x &# x2f",
+      "help us take",
+      "early design partners",
+      "sale .< p",
+      "august 2026 ))",
+      "august 2026 ))"
+    ],
+    "summary": "Matterhaul | Founding Applied AI Engineer | San Francisco, CA | Onsite (4x&#x2F;week) | $200-260K | <a href=\"https:&#x2F;&#x2F;www.matterhaul.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.matterhaul.com&#x2F;</a><p>Looking for opportunities to develop an AI-powered product with a practical impact? In other words, we&#x27;re making it much, MUCH easier for materials manufacturers and distributors to access information about their products, answer questions with confidence, and speed up time to "
+  },
+  "1098adc2d9ae7125": {
+    "file": "corpus/product/techcrunch_com_2026_08_07_host-your-own-piece-of-disrupt-app_a574fa8854.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+    "keywords": [
+      "techcrunch team helps put",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "put together",
+      "whatever fits",
+      "themed party",
+      "side event",
+      "side event",
+      "side event"
+    ],
+    "summary": "# [techcrunch-startups] Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026 Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026 You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt."
+  },
+  "70f1e709fdc88a2d": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_instacart-blueberry-sre-ai_utm_ca_5e443d580f.md",
+    "source": "engineering",
+    "title": "[infoq] Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents",
+    "url": "https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "call engineers investigate incidents",
+      "call engineers investigate incidents",
+      "assisted incident response system",
+      "16z instacart builds blueberry",
+      "instacart builds blueberry",
+      "instacart builds blueberry",
+      "uses parallel subagents",
+      "reduce investigation time",
+      "historical incident knowledge",
+      "combines ai agents"
+    ],
+    "summary": "Instacart introduced Blueberry, an AI-assisted incident response system that helps on-call engineers investigate production issues faster. It combines AI agents, operational data, and historical incident knowledge to generate grounded root cause hypotheses in Slack. It uses parallel subagents, MCP integrations, and incident history to reduce investigation time while keeping engineers in control."
+  },
+  "0767d2468733a4ce": {
+    "file": "corpus/hackernews/patronview_com_news_99-percent-of-my-website-traffic-is-bots_1e8ed8f629.md",
+    "source": "hackernews",
+    "title": "99% of My Website Traffic Is Bots",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "keywords": [
+      "website traffic",
+      "website traffic",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "bots",
+      "bots"
+    ],
+    "summary": "# 99% of My Website Traffic Is Bots > Source: hackernews | Category: news | 2026-08-07T15:23:16Z Score: 41 | Comments: 33"
+  },
+  "68958f727871dcaa": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_UufMqwyO7pY_252d922a05.md",
+    "source": "hackernews",
+    "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+    "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+    "keywords": [
+      "july 25",
+      "july 25",
+      "iceberg collapses",
+      "iceberg collapses",
+      "17z score",
+      "video",
+      "video",
+      "source",
+      "news",
+      "ilulissat"
+    ],
+    "summary": "# Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video] > Source: hackernews | Category: news | 2026-08-07T15:23:17Z Score: 19 | Comments: 2"
+  },
+  "c858b113db2f58dd": {
+    "file": "corpus/hackernews/letterstoanewdeveloper_com_2020_01_27_software-is-about-peop_823ad97710.md",
+    "source": "hackernews",
+    "title": "Software is about people, not code",
+    "url": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+    "keywords": [
+      "17z score",
+      "source",
+      "software",
+      "software",
+      "people",
+      "people",
+      "news",
+      "hackernews",
+      "comments",
+      "code"
+    ],
+    "summary": "# Software is about people, not code > Source: hackernews | Category: news | 2026-08-07T15:23:17Z Score: 14 | Comments: 2"
+  },
+  "72f32aa9630c9766": {
+    "file": "corpus/hackernews/blog_stackdump_com_posts_petri-net-sequencer_9c2e5d5e2d.md",
+    "source": "hackernews",
+    "title": "Petri Nets as a Music Sequencer",
+    "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+    "keywords": [
+      "petri nets",
+      "petri nets",
+      "music sequencer",
+      "music sequencer",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Petri Nets as a Music Sequencer > Source: hackernews | Category: news | 2026-08-07T15:23:18Z Score: 3 | Comments: 0"
+  },
+  "ffb7117eab5c781a": {
+    "file": "corpus/design/smashingmagazine_com_2026_08_how-baseline-can-help-ship-less_8def1cb6f6.md",
+    "source": "design",
+    "title": "[smashing-magazine] How Baseline Can Help You Ship Less JavaScript",
+    "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+    "keywords": [
+      "ship less javascript",
+      "ship less javascript",
+      "ship less javascript",
+      "” keeps closing",
+      "web platform",
+      "practical guide",
+      "source"
+    ],
+    "summary": "# [smashing-magazine] How Baseline Can Help You Ship Less JavaScript How Baseline Can Help You Ship Less JavaScript A practical guide to auditing your dependencies and finding what the web platform can now handle for you."
   }
 }
