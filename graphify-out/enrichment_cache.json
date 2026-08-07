@@ -374161,5 +374161,459 @@
       "h1 platform"
     ],
     "summary": "# [devops-com] HackerOne Extends Platform Reach to Remediate Source Code Vulnerabilities HackerOne has added a remediation capability to its H1 Platform that reduces the amount of time required to remediate validated vulnerabilities and other weaknesses affecting specific lines of source code. Nidhi Aggarwal, chief product officer for HackerOne, said H1 Remediation combines artificial intelligence (AI) and crowdsourced research to identify the root cause of issues that [&#8230;]"
+  },
+  "0d8e283578291651": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_NAIC9sjBgZA_3ac2b3a851.md",
+    "source": "youtube",
+    "title": "[traversy] Does Anyone Use JavaScript Anymore?",
+    "url": "https://www.youtube.com/watch?v=NAIC9sjBgZA",
+    "keywords": [
+      "try code rabbit today",
+      "anyone use javascript anymore",
+      "anyone use javascript anymore",
+      "anyone use javascript anymore",
+      "anyone use javascript anymore",
+      "beginners learn javascript first",
+      "https :// coderabbit",
+      "http :// startdev",
+      "09 final thoughts",
+      "use code traversy"
+    ],
+    "summary": "TypeScript has become the default for modern web development, but does that mean JavaScript is becoming obsolete? Checkout \"Typescript fundamentals\" on start.dev: http://startdev.link/2a1IOpB, and use code TRAVERSY for 20% off - 9:17 Learn TypeScript with Start.dev - 10:14 When JavaScript Is Still the Better Choice - 11:09 Final Thoughts"
+  },
+  "67cfd8d0776c5312": {
+    "file": "corpus/devto/dev_to_cicikus_niyazi_the-same-setting-three-different-answe_387f68e43a.md",
+    "source": "devto",
+    "title": "The Same Setting, Three Different Answers: Why 0.0.0.0 Isn't Always What You Want",
+    "url": "https://dev.to/cicikus_niyazi/the-same-setting-three-different-answers-why-0000-isnt-always-what-you-want-58h5",
+    "keywords": [
+      "three different answers",
+      "three different answers",
+      "socket binding",
+      "production server",
+      "network isolation",
+      "local vm",
+      "inside docker",
+      "whether",
+      "want",
+      "want"
+    ],
+    "summary": "# The Same Setting, Three Different Answers: Why 0.0.0.0 Isn't Always What You Want Why does uvicorn's --host parameter change depending on whether you are on a local VM, a production server, or inside Docker? A look into socket binding and network isolation."
+  },
+  "622e0945f0cfb37f": {
+    "file": "corpus/devto/dev_to_yuvaraj_radhakrishnan_224_i-built-59-free-browser-bas_758a40f7de.md",
+    "source": "devto",
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-2og8",
+    "keywords": [
+      "built 59 free browser",
+      "built 59 free browser",
+      "vanilla js —",
+      "vanilla js —",
+      "based developer ...",
+      "based dev tools",
+      "based dev tools",
+      "59 free",
+      "browser",
+      "source"
+    ],
+    "summary": "# I built 59 free browser-based dev tools in vanilla JS — here's what I learned > Source: devto | Category: news | 2026-08-07T17:06:37Z I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer..."
+  },
+  "c07c549a591eaf41": {
+    "file": "corpus/devto/dev_to_rusegal_how-we-served-8-gbps-of-video-on-a-single-go-_d65e553870.md",
+    "source": "devto",
+    "title": "How We Served 8 Gbps of Video on a Single Go CPU Core (And Survived the Thundering Herd)",
+    "url": "https://dev.to/rusegal/how-we-served-8-gbps-of-video-on-a-single-go-cpu-core-and-survived-the-thundering-herd-11",
+    "keywords": [
+      "single go cpu core",
+      "single go cpu core",
+      "small side project",
+      "served 8 gbps",
+      "served 8 gbps",
+      "thundering herd",
+      "thundering herd",
+      "hls ....",
+      "37z foreword",
+      "working"
+    ],
+    "summary": "# How We Served 8 Gbps of Video on a Single Go CPU Core (And Survived the Thundering Herd) > Source: devto | Category: news | 2026-08-07T17:06:37Z Foreword  There is a small side project I've been working on – relaying raw RTSP streams into HLS...."
+  },
+  "9461941a68443cfe": {
+    "file": "corpus/devto/dev_to_yureki_lab_how-i-hooked-my-ai-coding-agent-into-ci-to_dae88b05e2.md",
+    "source": "devto",
+    "title": "How I Hooked My AI Coding Agent Into CI to Fix Its Own Failing Builds",
+    "url": "https://dev.to/yureki_lab/how-i-hooked-my-ai-coding-agent-into-ci-to-fix-its-own-failing-builds-4bnf",
+    "keywords": [
+      "autonomous coding agent",
+      "ai coding agent",
+      "ai coding agent",
+      "watches failing builds",
+      "failing builds",
+      "failing builds",
+      "opens ...",
+      "39z tl",
+      "wired",
+      "source"
+    ],
+    "summary": "# How I Hooked My AI Coding Agent Into CI to Fix Its Own Failing Builds > Source: devto | Category: news | 2026-08-07T17:06:39Z TL;DR   I wired my autonomous coding agent into CI so it watches failing builds and opens..."
+  },
+  "2250aa1c9034a7ef": {
+    "file": "corpus/devto/dev_to_pgardunoc_the-night-my-world-cup-model-started-fighti_10d324a70c.md",
+    "source": "devto",
+    "title": "The night my World Cup model started fighting itself",
+    "url": "https://dev.to/pgardunoc/the-night-my-world-cup-model-started-fighting-itself-19f0",
+    "keywords": [
+      "000 monte carlo ...",
+      "lag penalties",
+      "39z back",
+      "wrote",
+      "source",
+      "reactions",
+      "night",
+      "night",
+      "news",
+      "july"
+    ],
+    "summary": "# The night my World Cup model started fighting itself > Source: devto | Category: news | 2026-08-07T17:06:39Z Back in July I wrote up my World Cup model — Elo, jet-lag penalties, and 10,000 Monte Carlo..."
+  },
+  "45839c4ba05b4e9d": {
+    "file": "corpus/devto/dev_to_rickeshtn_your-reasoning-model-isnt-dumb-your-parser-_24fadc501f.md",
+    "source": "devto",
+    "title": "Your reasoning model isn't dumb. Your parser is throwing away its best answers.",
+    "url": "https://dev.to/rickeshtn/your-reasoning-model-isnt-dumb-your-parser-is-throwing-away-its-best-answers-4kdg",
+    "keywords": [
+      "throwing away",
+      "throwing away",
+      "reasoning model",
+      "reasoning model",
+      "real number",
+      "model ,...",
+      "language model",
+      "best answers",
+      "best answers",
+      "vision"
+    ],
+    "summary": "# Your reasoning model isn't dumb. Your parser is throwing away its best answers. I benchmarked a vision-language model and scored it at 0.31."
+  },
+  "b10c23dd2e9e436d": {
+    "file": "corpus/ai-research/openai_com_index_responding-next-frontier-critical-cyber-cap_e66cc71d09.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "keywords": [
+      "sharing preliminary cybersecurity evaluations",
+      "critical cyber capabilities openai",
+      "critical cyber capabilities",
+      "critical cyber capabilities",
+      "strengthen safeguards",
+      "security controls",
+      "next frontier",
+      "next frontier",
+      "next frontier",
+      "30z responding"
+    ],
+    "summary": "# [openai-blog] Responding to the next frontier of critical cyber capabilities Responding to the next frontier of critical cyber capabilities OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+  },
+  "88d2c68925e5b2c4": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_07_brendan-carrs-fcc-rewrites-media_748b4e9f1f.md",
+    "source": "legal",
+    "title": "[techdirt] Brendan Carr’s FCC Rewrites Media Ownership Law Only Congress Can Actually Change",
+    "url": "https://www.techdirt.com/2026/08/07/brendan-carrs-fcc-rewrites-media-ownership-law-only-congress-can-actually-change/",
+    "keywords": [
+      "executive branch &# 8217",
+      "legislative branch &# 8217",
+      "30z brendan carr ’",
+      "brendan carr ’",
+      "brendan carr ’",
+      "impounding funds designated",
+      "become something close",
+      "[&# 8230 ;]",
+      "legislative branch",
+      "simply ignore"
+    ],
+    "summary": "# [techdirt] Brendan Carr’s FCC Rewrites Media Ownership Law Only Congress Can Actually Change Brendan Carr’s FCC Rewrites Media Ownership Law Only Congress Can Actually Change From impounding funds designated by Congress to launching a war without Congress&#8217;s authority, Trump has basically decided that the legislative branch is a [&#8230;]"
+  },
+  "1f17e3a230bba4d1": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49212807_0170c2c193.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49212807",
+    "keywords": [
+      "security clearance .< p",
+      "save taxpayers 80",
+      "position requires u",
+      "made empty promises",
+      "sr &# x2f",
+      "obtain &# x2f",
+      "jobs &# x2f",
+      "jobs &# x2f",
+      "helping agencies deliver",
+      "august 2026 ))"
+    ],
+    "summary": "We&#x27;re changing this with an AI workforce that works around the clock and improves over time. On average, we save taxpayers 80% while helping agencies deliver on initiatives and their mission 10x faster.<p>We&#x27;re looking for a forward deployed engineer to deliver outcomes for customers, building critical systems with national impact. You&#x27;ll also be working on our core platform, extending it with new capabilities.<p>* This position requires U.S. citizenship and the ability to obtain&"
+  },
+  "7fb83492083538d1": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49212742_e8f59d19e8.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49212742",
+    "keywords": [
+      "relatively unique deployment model",
+      "every developer building web",
+      "add )< p >*",
+      "sales cycle easier",
+      "prospects often come",
+      "one customer compared",
+      "let us operate",
+      "full featured free",
+      "ciam platform built",
+      ")< p >*"
+    ],
+    "summary": "FusionAuth | Principal Software Engineer, Senior Java Engineer, Account Executive, Solutions Engineer | Varies between REMOTE (in USA, also in Europe but only for the account exec position) and HYBRID&#x2F;ONSITE in Denver, CO, USA, details in each job desc | Salary ranges for the Senior Java Engineer it is 170k-200k, but the Euro positions don&#x27;t have them :(<p>At FusionAuth, our mission is to make authentication and authorization simple and secure for every developer building web and mobil"
+  },
+  "329c2c09dbc1a4a0": {
+    "file": "corpus/security/www_darkreading_com_application-security_ai-generated-patche_a08bb624a7.md",
+    "source": "security",
+    "title": "[dark-reading] AI-Generated Patches Fail Half the Time",
+    "url": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
+    "keywords": [
+      "generated patches fail half",
+      "generated patches fail half",
+      "generated patches fail half",
+      "even working patches",
+      "000 patches found",
+      "introduce new bugs",
+      "break something else",
+      "31z ai"
+    ],
+    "summary": "# [dark-reading] AI-Generated Patches Fail Half the Time AI-Generated Patches Fail Half the Time A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass."
+  },
+  "1bb918d24c46a5c4": {
+    "file": "corpus/hackernews/www_bloomberg_com_graphics_2026-opinion-australia-tungsten-m_4c8c5e5018.md",
+    "source": "hackernews",
+    "title": "This Mine Predicts Major Wars. It's Opening Again",
+    "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+    "keywords": [
+      "mine predicts major wars",
+      "mine predicts major wars",
+      "34z score",
+      "source",
+      "opening",
+      "opening",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# This Mine Predicts Major Wars. It's Opening Again > Source: hackernews | Category: news | 2026-08-07T17:06:34Z"
+  },
+  "027a15b0ff852cdc": {
+    "file": "corpus/hackernews/www_lse_ac_uk_research_research-for-the-world_economics_tax-_baac03a3f3.md",
+    "source": "hackernews",
+    "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+    "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+    "keywords": [
+      "tax cuts",
+      "tax cuts",
+      "31z score",
+      "wealthy",
+      "wealthy",
+      "source",
+      "rich",
+      "rich",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tax cuts for the wealthy only benefit the rich (2023) > Source: hackernews | Category: news | 2026-08-07T17:06:31Z Score: 7 | Comments: 0"
+  },
+  "a2467219f0c3d400": {
+    "file": "corpus/hackernews/www_sdss_org_black-hole-mapper-release-20_97b18a011a.md",
+    "source": "hackernews",
+    "title": "An all-sky map of half a million supermassive black holes",
+    "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "keywords": [
+      "million supermassive black holes",
+      "million supermassive black holes",
+      "sky map",
+      "sky map",
+      "29z score",
+      "source",
+      "news",
+      "half",
+      "half",
+      "hackernews"
+    ],
+    "summary": "# An all-sky map of half a million supermassive black holes > Source: hackernews | Category: news | 2026-08-07T17:06:29Z Score: 36 | Comments: 9"
+  },
+  "ae7dd6a5939f9cf9": {
+    "file": "corpus/hackernews/eco3min_fr_en_us-children-vs-adults-65-and-older_00b456659b.md",
+    "source": "hackernews",
+    "title": "Adults over 65 will outnumber children by 2029",
+    "url": "https://eco3min.fr/en/us-children-vs-adults-65-and-older/",
+    "keywords": [
+      "outnumber children",
+      "outnumber children",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "adults",
+      "adults"
+    ],
+    "summary": "# Adults over 65 will outnumber children by 2029 > Source: hackernews | Category: news | 2026-08-07T17:06:35Z Score: 5 | Comments: 0"
+  },
+  "56ca3cd2ad53468b": {
+    "file": "corpus/hackernews/theintercept_com_2026_08_07_state-department-palantir-free-s_043cbe3c06.md",
+    "source": "hackernews",
+    "title": "State Department Wants Palantir's Advice on Free Speech",
+    "url": "https://theintercept.com/2026/08/07/state-department-palantir-free-speech-surveillance/",
+    "keywords": [
+      "state department wants palantir",
+      "state department wants palantir",
+      "free speech",
+      "free speech",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# State Department Wants Palantir's Advice on Free Speech > Source: hackernews | Category: news | 2026-08-07T17:06:35Z Score: 13 | Comments: 3"
+  },
+  "c594e0da6f9d617d": {
+    "file": "corpus/hackernews/openai_com_index_responding-next-frontier-critical-cyber-cap_605b544232.md",
+    "source": "hackernews",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "keywords": [
+      "critical cyber capabilities",
+      "critical cyber capabilities",
+      "next frontier",
+      "next frontier",
+      "30z score",
+      "source",
+      "responding",
+      "responding",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Responding to the next frontier of critical cyber capabilities > Source: hackernews | Category: news | 2026-08-07T17:06:30Z Score: 12 | Comments: 1"
+  },
+  "162f8698901f9272": {
+    "file": "corpus/hackernews/londonist_com_london_history_oxford-street-beavers_5c3035dd0e.md",
+    "source": "hackernews",
+    "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+    "url": "https://londonist.com/london/history/oxford-street-beavers",
+    "keywords": [
+      "oxford street shop",
+      "oxford street shop",
+      "31z score",
+      "top",
+      "top",
+      "statues",
+      "statues",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why Are There Statues of Beavers on Top of This Oxford Street Shop? > Source: hackernews | Category: news | 2026-08-07T17:06:31Z Score: 16 | Comments: 1"
+  },
+  "a1e457003f5f1dee": {
+    "file": "corpus/hackernews/www_cnn_com_2026_08_04_tech_ai-anthropic-openai-security-bre_9583d59eb3.md",
+    "source": "hackernews",
+    "title": "AI agents fake identities, target real people in new security incident",
+    "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+    "keywords": [
+      "ai agents fake identities",
+      "ai agents fake identities",
+      "target real people",
+      "target real people",
+      "new security incident",
+      "new security incident",
+      "36z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# AI agents fake identities, target real people in new security incident > Source: hackernews | Category: news | 2026-08-07T17:06:36Z Score: 6 | Comments: 3"
+  },
+  "1819aab957ef21cd": {
+    "file": "corpus/hackernews/www_404media_co_the-tokenpocalypse-is-here-companies-are-scr_3cc580e81d.md",
+    "source": "hackernews",
+    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+    "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+    "keywords": [
+      "stop spending",
+      "stop spending",
+      "35z score",
+      "tokenpocalypse",
+      "tokenpocalypse",
+      "source",
+      "scrambling",
+      "scrambling",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI > Source: hackernews | Category: news | 2026-08-07T17:06:35Z Score: 5 | Comments: 1"
+  },
+  "5391f35dc0c127fc": {
+    "file": "corpus/hackernews/sfstandard_com_pacific-standard-time_2026_08_07_sf-ai-billbo_1a30c9aba3.md",
+    "source": "hackernews",
+    "title": "The AI Billboards Are Killing SF",
+    "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+    "keywords": [
+      "killing sf",
+      "killing sf",
+      "ai billboards",
+      "ai billboards",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The AI Billboards Are Killing SF > Source: hackernews | Category: news | 2026-08-07T17:06:32Z Score: 17 | Comments: 26"
+  },
+  "e0ffa45688e22914": {
+    "file": "corpus/hackernews/quuxplusone_github_io_blog_2026_08_04_mobius-crossword_95f75968a8.md",
+    "source": "hackernews",
+    "title": "Möbius-Strip Crosswords",
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "keywords": [
+      "strip crosswords",
+      "strip crosswords",
+      "31z score",
+      "source",
+      "news",
+      "möbius",
+      "möbius",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Möbius-Strip Crosswords > Source: hackernews | Category: news | 2026-08-07T17:06:31Z Score: 4 | Comments: 0"
+  },
+  "e3c7c807d4d638f1": {
+    "file": "corpus/devops/devops_com_flooding-dropper-is-hitting-npm-with-a-tidal-wave_c48e36f551.md",
+    "source": "devops",
+    "title": "[devops-com] ‘Flooding Dropper’ Is Hitting npm With a Tidal Wave of Malicious Packages",
+    "url": "https://devops.com/flooding-dropper-is-hitting-npm-with-a-tidal-wave-of-malicious-packages/",
+    "keywords": [
+      "‘ flooding dropper ’",
+      "‘ flooding dropper ’",
+      "malicious packages threat researchers",
+      "dropping small numbers",
+      "essentially flooding",
+      "malicious packages",
+      "malicious packages",
+      "malicious packages",
+      "wide range",
+      "warning developers"
+    ],
+    "summary": "# [devops-com] ‘Flooding Dropper’ Is Hitting npm With a Tidal Wave of Malicious Packages ‘Flooding Dropper’ Is Hitting npm With a Tidal Wave of Malicious Packages Threat researchers at Sonatype are warning developers of an expanding campaign that is generating a wide range of npm accounts and dropping small numbers of malicious packages from each one, essentially flooding the zone with a broadly distributed and automated campaign to make it difficult for defenders to keep up."
   }
 }
