@@ -1,0 +1,16 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (August 2026))"
+url: "https://news.ycombinator.com/item?id=49213747"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-08-07T17:58:18Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (August 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-08-07T17:58:18Z
+
+Boost My School | Senior or Lead Software Engineer (IC role) | Full-time | Remote, USA only | $157-181K salary | $174-201K all-in cash | Equity with 4-year vesting<p>Love building a product that improves a user’s life so much that they can’t help but share it with their peers?<p>Boost My School is on a mission to help schools ensure all students succeed. Our platform is trusted by 350+ K-12 schools to modernize their fundraising, events, and auctions.<p>Why work at Boost?<p>1. We make meaningful impact helping schools and students<p>2. We win as part of a thoughtful and collaborative team<p>3. We embrace ownership over our work, growth, and time<p>For full job details and instructions on how to apply: <a href="https:&#x2F;&#x2F;www.boostmyschool.com&#x2F;careers#senior-software-engineer" rel="nofollow">https:&#x2F;&#x2F;www.boostmyschool.com&#x2F;careers#senior-software-engine...</a><p>Leadership team you&#x27;ll be working with:<p>- VP of Product, ex Apple, Flexport, Stanford CS (<a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;nathaniel-okun" rel="nofollow">https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;nathaniel-okun</a>)<p>- Director of Engineering, multiple-time Head of Eng (<a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;caitlinwoodward&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;caitlinwoodward&#x2F;</a>)<p>Tags: edtech, fintech, social impact, mission-driven
