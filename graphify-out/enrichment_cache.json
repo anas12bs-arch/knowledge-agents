@@ -376222,5 +376222,137 @@
       "run webpack tests"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-07T23:58:20Z - Flush pending revalidations for forwarded action error responses: #96945 - Handle Server Actions on dynamic PPR fallback routes: #96932 - Turbopack: Improve how DiskWatcher is configured and fix polling watcher bugs: #96440 - Turbopack: Allow DiskWatcher to use a mocked DiskFileSystem, add a small unit test: #96353 - [turbopack] Add e2e test that uses component chunks + workers: #96556 - [turbopack] Support `experimental.se"
+  },
+  "e04bd06ff3923902": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-mcp-tools-docstring-promised-limit-1_f55a8cf155.md",
+    "source": "devto",
+    "title": "My MCP Tool's Docstring Promised 'limit: 1-100.' Passing -1 Returned Almost Everything, Not Nothing.",
+    "url": "https://dev.to/enjoy_kumawat/my-mcp-tools-docstring-promised-limit-1-100-passing-1-returned-almost-everything-not-3f47",
+    "keywords": [
+      "1 returned almost everything",
+      "1 returned almost everything",
+      "one went looking",
+      "46z every audit",
+      "mcp tool",
+      "mcp tool",
+      "docstring promised",
+      "docstring promised",
+      "100 .'",
+      "100 .'"
+    ],
+    "summary": "# \"My MCP Tool's Docstring Promised 'limit: 1-100.' Passing -1 Returned Almost Everything, Not Nothing.\" Every audit of server.py I've done before this one went looking for a specific bug shape first — a..."
+  },
+  "48d0256e2c18fe1c": {
+    "file": "corpus/devto/dev_to_chenyuan20509_your-subprocesses-outlive-your-program-_5a291c624f.md",
+    "source": "devto",
+    "title": "Your Subprocesses Outlive Your Program. Here's How to Kill Them for Real.",
+    "url": "https://dev.to/chenyuan20509/your-subprocesses-outlive-your-program-heres-how-to-kill-them-for-real-4npp",
+    "keywords": [
+      "deployment script reported success",
+      "health check passing",
+      "script exiting",
+      "worker finishing",
+      "subprocesses outlive",
+      "subprocesses outlive",
+      "log showed",
+      "code zero",
+      "source",
+      "real"
+    ],
+    "summary": "Here's How to Kill Them for Real. > Source: devto | Category: news | 2026-08-08T01:05:46Z At 02:00 the deployment script reported success."
+  },
+  "0a863dd8a74b0bac": {
+    "file": "corpus/devto/dev_to_sonofrhea_-how-i-wired-lhdns-e-invoice-mandate-into-a_a2b1f36ef2.md",
+    "source": "devto",
+    "title": "How I Wired LHDN's e-Invoice Mandate Into a Multi-Tenant ERP, Without Trusting Just One Path to Do It Alone",
+    "url": "https://dev.to/sonofrhea/-how-i-wired-lhdns-e-invoice-mandate-into-a-multi-tenant-erp-without-trusting-any-one-path-to-20ah",
+    "keywords": [
+      "without trusting",
+      "without trusting",
+      "tenant erp",
+      "tenant erp",
+      "recently deep",
+      "one path",
+      "one path",
+      "malaysian smes",
+      "invoice mandate",
+      "invoice mandate"
+    ],
+    "summary": "# How I Wired LHDN's e-Invoice Mandate Into a Multi-Tenant ERP, Without Trusting Just One Path to Do It Alone > Source: devto | Category: news | 2026-08-08T01:05:46Z I was recently deep in Urusentra, the construction ERP I built solo for Malaysian SMEs, when LHDN's..."
+  },
+  "2cedc3af37609b64": {
+    "file": "corpus/devto/dev_to_turalmu95150474_how-asyncio-really-works-under-the-ho_a748f07d1f.md",
+    "source": "devto",
+    "title": "How asyncio Really Works Under the Hood",
+    "url": "https://dev.to/turalmu95150474/how-asyncio-really-works-under-the-hood-7b8",
+    "keywords": [
+      "async def ,...",
+      "asyncio really works",
+      "asyncio really works",
+      "usually introduced",
+      "public api",
+      "46z python",
+      "asyncio",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How asyncio Really Works Under the Hood > Source: devto | Category: news | 2026-08-08T01:05:46Z Python's asyncio is usually introduced through its public API: define a coroutine with async def,..."
+  },
+  "d70964b96e23627a": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-ai-gateway-and-vercel-sandbox-no_3a786048ac.md",
+    "source": "vercel-blog",
+    "title": "Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent",
+    "url": "https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent",
+    "keywords": [
+      "49z vercel ai gateway",
+      "vercel ai gateway",
+      "vercel ai gateway",
+      "vercel sandbox",
+      "vercel sandbox",
+      "vercel sandbox",
+      "hermes agent",
+      "hermes agent",
+      "hermes agent",
+      "vercel"
+    ],
+    "summary": "# Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent > Source: vercel-blog | Category: news | 2026-08-08T01:05:49Z Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent"
+  },
+  "0cfbd588d26a5135": {
+    "file": "corpus/hackernews/github_com_peterkelly_captain-bible-re_33db33d6eb.md",
+    "source": "hackernews",
+    "title": "Captain Bible Reverse Engineering",
+    "url": "https://github.com/peterkelly/captain-bible-re",
+    "keywords": [
+      "captain bible reverse engineering",
+      "captain bible reverse engineering",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Captain Bible Reverse Engineering > Source: hackernews | Category: news | 2026-08-08T01:05:39Z Score: 7 | Comments: 1"
+  },
+  "df7f7d75032e68b9": {
+    "file": "corpus/hackernews/www_economist_com_science-and-technology_2026_08_06_should-a_1df905f905.md",
+    "source": "hackernews",
+    "title": "Should AI labs be treated like the owners of dangerous animals?",
+    "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+    "keywords": [
+      "treated like",
+      "treated like",
+      "dangerous animals",
+      "dangerous animals",
+      "ai labs",
+      "ai labs",
+      "38z score",
+      "source",
+      "owners",
+      "owners"
+    ],
+    "summary": "# Should AI labs be treated like the owners of dangerous animals? > Source: hackernews | Category: news | 2026-08-08T01:05:38Z Score: 17 | Comments: 16"
   }
 }
