@@ -378759,5 +378759,138 @@
       "category"
     ],
     "summary": "# From your doorbell to your home network > Source: hackernews | Category: news | 2026-08-08T16:00:11Z Score: 5 | Comments: 0"
+  },
+  "ad926dd7347a4cbd": {
+    "file": "corpus/devto/dev_to_libme_netlify-pros-and-cons-when-its-the-right-host-a_b73aa482cf.md",
+    "source": "devto",
+    "title": "Netlify Pros and Cons: When It's the Right Host, and When You'll Outgrow It",
+    "url": "https://dev.to/libme/netlify-pros-and-cons-when-its-the-right-host-and-when-youll-outgrow-it-2ka1",
+    "keywords": [
+      "concrete config examples",
+      "right host",
+      "right host",
+      "real strengths",
+      "honest breakdown",
+      "netlify pros",
+      "netlify pros",
+      "netlify",
+      "weaknesses",
+      "source"
+    ],
+    "summary": "# Netlify Pros and Cons: When It's the Right Host, and When You'll Outgrow It > Source: devto | Category: news | 2026-08-08T16:32:44Z An honest breakdown of Netlify's real strengths and weaknesses, with concrete config examples for when it fits and when it doesn't."
+  },
+  "95a2c73cbf3ce3dc": {
+    "file": "corpus/devto/dev_to_mukesh_13_the-gate-everyone-cited-and-nobody-enforced_4dda35e6df.md",
+    "source": "devto",
+    "title": "The Gate Everyone Cited and Nobody Enforced: A War Story About Policy-as-Text vs. Policy-as-Code",
+    "url": "https://dev.to/mukesh_13/the-gate-everyone-cited-and-nobody-enforced-a-war-story-about-policy-as-text-vs-policy-as-code-1gbo",
+    "keywords": [
+      "gate everyone cited",
+      "gate everyone cited",
+      "war story",
+      "war story",
+      "text vs",
+      "text vs",
+      "tasks ...",
+      "real job",
+      "nobody enforced",
+      "nobody enforced"
+    ],
+    "summary": "# The Gate Everyone Cited and Nobody Enforced: A War Story About Policy-as-Text vs. Policy-as-Code I run an autonomous agent that works a real job. Not a chatbot — a daemon that picks its own tasks..."
+  },
+  "40ea6b6b50b32de2": {
+    "file": "corpus/devto/dev_to_tomozayasu_domain-driven-infrastructure-organize-your_a85e187eaf.md",
+    "source": "devto",
+    "title": "Domain-Driven Infrastructure: Organize Your Terraform by Reason to Change",
+    "url": "https://dev.to/tomozayasu/domain-driven-infrastructure-organize-your-terraform-by-reason-to-change-202b",
+    "keywords": [
+      "across six directories —",
+      "one business change sends",
+      "one shared state",
+      "driven infrastructure",
+      "driven infrastructure",
+      "terraform repositories",
+      "change",
+      "change",
+      "terraform",
+      "terraform"
+    ],
+    "summary": "# Domain-Driven Infrastructure: Organize Your Terraform by Reason to Change Most Terraform repositories are organized by technology. Then one business change sends you across six directories — and one shared state."
+  },
+  "07e160e4c4d6b50e": {
+    "file": "corpus/devto/dev_to_multigrid_on-call-runbooks-for-ai-services-4ag7_8b80b3b700.md",
+    "source": "devto",
+    "title": "On-Call Runbooks for AI Services",
+    "url": "https://dev.to/multigrid/on-call-runbooks-for-ai-services-4ag7",
+    "keywords": [
+      "44z five runbooks",
+      "five things",
+      "call runbooks",
+      "call runbooks",
+      "first command",
+      "ai services",
+      "ai services",
+      "ai service",
+      "actually page",
+      "source"
+    ],
+    "summary": "# On-Call Runbooks for AI Services > Source: devto | Category: news | 2026-08-08T16:32:44Z Five runbooks for the five things that actually page you on an AI service, each with the first command, the branch, and what to do at each branch."
+  },
+  "68600045be654b07": {
+    "file": "corpus/devto/dev_to_lizhuojunx86_my-routing-policy-and-my-traces-disagree_2e436234fe.md",
+    "source": "devto",
+    "title": "My routing policy and my traces disagreed 96 times. Never once on the main thread.",
+    "url": "https://dev.to/lizhuojunx86/my-routing-policy-and-my-traces-disagreed-96-times-never-once-on-the-main-thread-ffp",
+    "keywords": [
+      "traces disagreed 96 times",
+      "traces disagreed 96 times",
+      "count tokens ....",
+      "routing policy",
+      "routing policy",
+      "part four",
+      "main thread",
+      "main thread",
+      "audit log",
+      "things"
+    ],
+    "summary": "Never once on the main thread. > Source: devto | Category: news | 2026-08-08T16:32:44Z This is part four of a series about pointing an append-only audit log at things that count tokens...."
+  },
+  "33de66b9553f58e6": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49223303_e704b6b840.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49223303",
+    "keywords": [
+      "reusable app router patterns",
+      "new hotel saas tool",
+      "yrs production web apps",
+      "deep react &# x2f",
+      "code quality &# x2f",
+      "srp &# x2f",
+      "shadcn &# x2f",
+      "node &# x2f",
+      "io &# x2f",
+      "io &# x2f"
+    ],
+    "summary": "~75% of pages get touched this year: international expansion (Mexico &amp; Caribbean now, Europe next), in-housing search from Algolia, a new Hotel SaaS tool, and Spa as a major new vertical.<p>Senior role, Staff-leaning scope, clear path to Tech Lead. Playwright + Datadog.<p>You&#x27;ll own: technical design (RFCs) for major rewrites, reusable App Router patterns, code quality&#x2F;mentorship for a junior-leaning team, and API contracts with backend.<p>Need: 6+ yrs production web apps, deep Rea"
+  },
+  "9c305c35902364e6": {
+    "file": "corpus/hackernews/blog_getutm_app_2026_introducing-triton-directx-11-driver-fo_c9de1039f1.md",
+    "source": "hackernews",
+    "title": "Triton: DirectX 11 Driver for QEMU",
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "keywords": [
+      "directx 11 driver",
+      "directx 11 driver",
+      "37z score",
+      "triton",
+      "triton",
+      "source",
+      "qemu",
+      "qemu",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Triton: DirectX 11 Driver for QEMU > Source: hackernews | Category: news | 2026-08-08T16:32:37Z Score: 18 | Comments: 0"
   }
 }
