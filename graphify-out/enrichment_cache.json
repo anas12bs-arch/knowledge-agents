@@ -380452,5 +380452,136 @@
       "category"
     ],
     "summary": "# My server is a phone now > Source: hackernews | Category: news | 2026-08-08T23:22:39Z Score: 3 | Comments: 0"
+  },
+  "43cb86d3e541249b": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_gVfEtktkvnE_8ada680d3c.md",
+    "source": "youtube",
+    "title": "[theo] Did Anthropic finally fix MCP?",
+    "url": "https://www.youtube.com/watch?v=gVfEtktkvnE",
+    "keywords": [
+      "much better path forward",
+      "anthropic last month changed",
+      "anthropic finally fix mcp",
+      "anthropic finally fix mcp",
+      "anthropic finally fix mcp",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "https :// simonwillison",
+      "https :// blog"
+    ],
+    "summary": "# [theo] Did Anthropic finally fix MCP? The fifth Model Context Protocol spec release from Anthropic last month changed the game and I want to use them way more now 👀 \"stateless MCP\" is a much better path forward. Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "f0a19008fea78e59": {
+    "file": "corpus/devto/dev_to_qingze_hu_c4c251c1b353ede_fable-5-plays-pokemon-sapph_5b17647bff.md",
+    "source": "devto",
+    "title": "Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-Decision Run",
+    "url": "https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k",
+    "keywords": [
+      "three things :...",
+      "discover anything new",
+      "collecting confirmations",
+      "decision run",
+      "decision run",
+      "run",
+      "source",
+      "reactions",
+      "notes",
+      "notes"
+    ],
+    "summary": "# Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-Decision Run This run wasn't designed to discover anything new. It was collecting confirmations on three things:..."
+  },
+  "b3e6bb4d29aa5f76": {
+    "file": "corpus/devto/dev_to_suckup_de_stop-prompting-like-its-2024-19h4_2f1e413bde.md",
+    "source": "devto",
+    "title": "Stop Prompting Like It's 2024",
+    "url": "https://dev.to/suckup_de/stop-prompting-like-its-2024-19h4",
+    "keywords": [
+      "48z ten prompting patterns",
+      "stop prompting like",
+      "stop prompting like",
+      "specific context",
+      "measurable gates",
+      "l2 meta",
+      "coding agents",
+      "blunt boundaries",
+      "adversarial reviews",
+      "actually use"
+    ],
+    "summary": "# Stop Prompting Like It's 2024 > Source: devto | Category: news | 2026-08-08T23:49:48Z Ten prompting patterns I actually use with coding agents: adversarial reviews, blunt boundaries, measurable gates, evidence, project-specific context, and L2 meta-prompts."
+  },
+  "9ff8f202db206443": {
+    "file": "corpus/devto/dev_to_guschiriboga_my-ai-agents-shipped-128-releases-of-a-p_b3a6f975b5.md",
+    "source": "devto",
+    "title": "My AI agents shipped 128 releases of a product no one ever used",
+    "url": "https://dev.to/guschiriboga/my-ai-agents-shipped-128-releases-of-a-product-no-one-ever-used-1045",
+    "keywords": [
+      "one ever used",
+      "one ever used",
+      "one hundred",
+      "eight versions",
+      "contract ...",
+      "typo",
+      "twenty",
+      "source",
+      "reactions",
+      "published"
+    ],
+    "summary": "# My AI agents shipped 128 releases of a product no one ever used > Source: devto | Category: news | 2026-08-08T23:49:46Z One hundred and twenty-eight versions, published to npm and Homebrew, with CI, contract..."
+  },
+  "328bf50c0bf6014b": {
+    "file": "corpus/hackernews/github_com_skorotkiewicz_algebruh_f7fec55f8b.md",
+    "source": "hackernews",
+    "title": "Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean",
+    "url": "https://github.com/skorotkiewicz/algebruh",
+    "keywords": [
+      "check arithmetic claims",
+      "check arithmetic claims",
+      "show hn",
+      "show hn",
+      "45z score",
+      "source",
+      "news",
+      "lean"
+    ],
+    "summary": "# Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean > Source: hackernews | Category: news | 2026-08-08T23:49:45Z Score: 5 | Comments: 0"
+  },
+  "3aff6beea7b88a12": {
+    "file": "corpus/hackernews/bigthink_com_series_full-interview_meaning-crisis-brooks_f1643791d9.md",
+    "source": "hackernews",
+    "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+    "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+    "keywords": [
+      "last 15 years",
+      "last 15 years",
+      "arthur brooks",
+      "arthur brooks",
+      "43z score",
+      "tripled",
+      "tripled",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Depression has tripled in the last 15 years. Arthur Brooks about the cause > Source: hackernews | Category: news | 2026-08-08T23:49:43Z"
+  },
+  "7920c11bd5b8054a": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_9_c07bd12552.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.9 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.9",
+    "keywords": [
+      "effect free async modules",
+      "9 ### misc changes",
+      "route handlers example",
+      "export const dynamic",
+      "events trace span",
+      "js — v16",
+      "17z ## vercel",
+      "js v16",
+      "js v16",
+      "9 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-08T23:50:17Z - [turbopack] Fix a potential deadlock in scope_and_block: #95695 - Remove the turbopack-build-events trace span, use `next build` instead: #96746 - docs: add `export const dynamic = 'force-static'` to Route Handlers example on Static Exports: #96964 - [turbopack] Follow re-exports for side-effect free async modules: #95993 Huge thanks to @lukesandberg, @m-kawafuji, and @sampoder for helping!"
   }
 }
