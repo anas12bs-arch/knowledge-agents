@@ -377916,5 +377916,43 @@
       "44z backstory retiered"
     ],
     "summary": "The Same Exercise Used to Take Five Teams a Quarter. Haya Kamola on running an account tiering analysis with connectors, custom signals, and four rounds of iteration, live at SaaStr AI Day Haya Kamola leads customer success at Backstory, and spent her career in sales and sales leadership before that. The project she walked through at SaaStr AI Day is one most go-to-market leaders have...   Continue Reading"
+  },
+  "2effecd668d49dc2": {
+    "file": "corpus/hackernews/www_theverge_com_tech_976880_microsoft-edge-extensions-ad-bl_fd98875c0f.md",
+    "source": "hackernews",
+    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "keywords": [
+      "older ad blockers",
+      "older ad blockers",
+      "microsoft edge",
+      "microsoft edge",
+      "like chrome",
+      "like chrome",
+      "59z score",
+      "source",
+      "news",
+      "lock"
+    ],
+    "summary": "# Microsoft Edge is about to lock out older ad blockers, just like Chrome did > Source: hackernews | Category: news | 2026-08-08T11:01:59Z Score: 4 | Comments: 2"
+  },
+  "3b51f8d0f5b466d7": {
+    "file": "corpus/hackernews/github_com_aadisang_hand-wave_9fea40130f.md",
+    "source": "hackernews",
+    "title": "Show HN: Sign language translation with smart glasses",
+    "url": "https://github.com/aadisang/hand-wave",
+    "keywords": [
+      "gru temporal encoder architecture",
+      "1 hi !< p",
+      "entirely foss .< p",
+      "device model work cleanly",
+      "modal .< p",
+      "model .< p",
+      "unfortunately performance takes",
+      "speak sign language",
+      "sign language translation",
+      "sign language translation"
+    ],
+    "summary": "Hi!<p>I have relatives that speak sign language, and always found it odd that despite unbelievable advances in AI in recent years, the problem still felt somewhat neglected.<p>Especially with the advent of wearable tech; to my knowledge, this is the first project that integrates the meta glasses w&#x2F; fingerspelling translation software.<p>As for the technical aspect, I trained a neural net on Google&#x27;s FSboard dataset modeling a CNN + GRU temporal encoder architecture (trained with CTC), "
   }
 }
