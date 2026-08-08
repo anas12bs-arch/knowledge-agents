@@ -377236,5 +377236,138 @@
       "hackernews"
     ],
     "summary": "# From One Seed to a Thousand Leaves – Merkle's Authentication Tree > Source: hackernews | Category: news | 2026-08-08T07:28:36Z Score: 8 | Comments: 0"
+  },
+  "eab8ba27b2f68e86": {
+    "file": "corpus/security/thehackernews_com_2026_08_metabase-zero-day-exploited-in-wil_ecc4777c9a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+    "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "keywords": [
+      "data visualization software package",
+      "severity security flaw impacting",
+      "unauthenticated remote attacker",
+      "inject arbitrary sql",
+      "metabase application database",
+      "34z metabase zero",
+      "metabase zero",
+      "metabase zero",
+      "cvss score",
+      "cve identifier"
+    ],
+    "summary": "# [hacker-news-sec] Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain"
+  },
+  "f3600f25a3a8c56a": {
+    "file": "corpus/security/thehackernews_com_2026_08_n-central-attackers-reach-managed__62e6df9d87.md",
+    "source": "security",
+    "title": "[hacker-news-sec] N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+    "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+    "keywords": [
+      "attackers reach managed systems",
+      "attackers reach managed systems",
+      "attackers reach managed systems",
+      "recently disclosed security flaw",
+      "proactively expanding protections",
+      "central hotfix 2",
+      "central hotfix 2",
+      "central hotfix 2",
+      "attack techniques ,\"",
+      "n ‑ central"
+    ],
+    "summary": "# [hacker-news-sec] N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said."
+  },
+  "7269c7d35f08c22e": {
+    "file": "corpus/security/thehackernews_com_2026_08_progress-kemp-loadmaster-flaw-hits_10b04d43af.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+    "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "keywords": [
+      "792 reported exploit attempts",
+      "792 reported exploit attempts",
+      "792 reported exploit attempts",
+      "known exploited vulnerabilities",
+      "command injection flaw",
+      "infrastructure security agency",
+      "friday added",
+      "following reports",
+      "cvss score",
+      "active exploitation"
+    ],
+    "summary": "# [hacker-news-sec] Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary"
+  },
+  "ac52249428f51d3c": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_github-npm-actions-defaults_utm_c_962e26466f.md",
+    "source": "engineering",
+    "title": "[infoq] GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing",
+    "url": "https://www.infoq.com/news/2026/08/github-npm-actions-defaults/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "35z github hardens npm",
+      "github hardens npm",
+      "github hardens npm",
+      "whether waiting periods",
+      "supply chain attacks",
+      "side package signing",
+      "delays versus signing",
+      "delays versus signing",
+      "alter defaults rather",
+      "actions defaults"
+    ],
+    "summary": "# [infoq] GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing GitHub consolidated the npm and Actions changes it shipped from March to July 2026 against supply chain attacks, several of which alter defaults rather than add options."
+  },
+  "2b057adeee67cd7f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-precursor-detection_ut_fb92c7b705.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "time challenges like captchas",
+      "continuously evaluates session interactions",
+      "side behavioral analysis engine",
+      "continuous behavioral analysis",
+      "continuous behavioral analysis",
+      "precursor detects bots",
+      "precursor detects bots",
+      "precursor detects bots",
+      "sophisticated bots",
+      "renato losio"
+    ],
+    "summary": "# [infoq] Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse movements and keyboard timing, to improve detection of sophisticated bots and AI agents without relying solely on one-time challenges like CAPTCHAs."
+  },
+  "11c38da4c578bd08": {
+    "file": "corpus/hackernews/phys_org_news_2026-08-fecal-revolution-earth-ecosystems_html_5be256a575.md",
+    "source": "hackernews",
+    "title": "How the 'fecal revolution' changed Earth's ecosystems",
+    "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+    "keywords": [
+      "fecal revolution",
+      "fecal revolution",
+      "changed earth",
+      "changed earth",
+      "36z score",
+      "source",
+      "news",
+      "hackernews",
+      "ecosystems",
+      "ecosystems"
+    ],
+    "summary": "# How the 'fecal revolution' changed Earth's ecosystems > Source: hackernews | Category: news | 2026-08-08T08:06:36Z Score: 11 | Comments: 1"
+  },
+  "9ad5c772460f52a5": {
+    "file": "corpus/hackernews/github_com_xoreaxeaxeax_rosenbridge_2e5b68b0bd.md",
+    "source": "hackernews",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "keywords": [
+      "x86 cpus",
+      "x86 cpus",
+      "hardware backdoors",
+      "hardware backdoors",
+      "34z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Hardware backdoors in some x86 CPUs > Source: hackernews | Category: news | 2026-08-08T08:06:34Z Score: 20 | Comments: 1"
   }
 }
