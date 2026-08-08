@@ -378664,5 +378664,81 @@
       "reply"
     ],
     "summary": "# Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All > Source: hackernews | Category: news | 2026-08-08T15:03:10Z"
+  },
+  "74b7c70f52cb75fc": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-mcp-tool-fetches-before-it-writes-an_545f42b5ef.md",
+    "source": "devto",
+    "title": "My MCP Tool Fetches Before It Writes and Logs Every Change. It Never Checked Whether There Was Anything to Change.",
+    "url": "https://dev.to/enjoy_kumawat/my-mcp-tool-fetches-before-it-writes-and-logs-every-change-it-never-checked-whether-there-was-243m",
+    "keywords": [
+      "32z two fixes ago",
+      "update_article — one",
+      "never checked whether",
+      "never checked whether",
+      "mcp tool fetches",
+      "mcp tool fetches",
+      "logs every change",
+      "logs every change",
+      "change",
+      "change"
+    ],
+    "summary": "# My MCP Tool Fetches Before It Writes and Logs Every Change. It Never Checked Whether There Was Anything to Change. Two fixes ago, update_article — one of the tools in this repo's MCP server — got hardened twice."
+  },
+  "8ed41f637dd964cc": {
+    "file": "corpus/devto/dev_to_mansio_i-asked-one-ai-to-fact-check-another-ais-audit_6dbc64efa0.md",
+    "source": "devto",
+    "title": "I Asked One AI to Fact-Check Another AI's Audit of My Own Code",
+    "url": "https://dev.to/mansio/i-asked-one-ai-to-fact-check-another-ais-audit-of-my-own-code-1ac3",
+    "keywords": [
+      "check another ai",
+      "check another ai",
+      "asked one ai",
+      "asked one ai",
+      "programming almost",
+      "construction engineering",
+      "source",
+      "reactions",
+      "programmer",
+      "news"
+    ],
+    "summary": "# I Asked One AI to Fact-Check Another AI's Audit of My Own Code > Source: devto | Category: news | 2026-08-08T15:37:32Z My background is construction engineering, and I got into programming almost by..."
+  },
+  "a5456146b9c58c25": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-idempotency-guard-exists-to-survive-_aac344982b.md",
+    "source": "devto",
+    "title": "My Idempotency Guard Exists to Survive One Specific Error. That Error Made It Fail Open.",
+    "url": "https://dev.to/enjoy_kumawat/my-idempotency-guard-exists-to-survive-one-specific-error-that-error-made-it-fail-open-4fbo",
+    "keywords": [
+      "32z five days ago",
+      "survive one specific error",
+      "survive one specific error",
+      "idempotency guard exists",
+      "idempotency guard exists",
+      "error made",
+      "error made",
+      "publish guard",
+      "fail open",
+      "fail open"
+    ],
+    "summary": "# My Idempotency Guard Exists to Survive One Specific Error. That Error Made It Fail Open. Five days ago I added a duplicate-publish guard to publish_devto.py, the script this blog's own..."
+  },
+  "5d6f9f960dc58d79": {
+    "file": "corpus/hackernews/gist_github_com_chitchcock_1281611_c72ca03940.md",
+    "source": "hackernews",
+    "title": "Steve Yegge's Google Platform rant (2011)",
+    "url": "https://gist.github.com/chitchcock/1281611",
+    "keywords": [
+      "google platform rant",
+      "google platform rant",
+      "steve yegge",
+      "steve yegge",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Steve Yegge's Google Platform rant (2011) > Source: hackernews | Category: news | 2026-08-08T15:37:28Z Score: 3 | Comments: 1"
   }
 }
