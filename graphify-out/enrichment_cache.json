@@ -378252,5 +378252,232 @@
       "category"
     ],
     "summary": "# The USSR in 100 Photographs > Source: hackernews | Category: news | 2026-08-08T12:29:06Z Score: 23 | Comments: 2"
+  },
+  "f55ac3330ba905a5": {
+    "file": "corpus/devto/dev_to_aws-builders_everything-was-working-aws-wanted-1665mo_0f24df573f.md",
+    "source": "devto",
+    "title": "Everything Was Working. AWS Wanted $1,665/Month More.",
+    "url": "https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h",
+    "keywords": [
+      "simple version upgrade turned",
+      "hour production maintenance exercise",
+      "looked like",
+      "aws wanted",
+      "aws wanted",
+      "working",
+      "working",
+      "source",
+      "six",
+      "reactions"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-08T13:27:12Z An AWS cost anomaly exposed years of hidden infrastructure drift across EKS and RDS. What looked like a simple version upgrade turned into a six-hour production maintenance exercise."
+  },
+  "d696a9bd5261a8a8": {
+    "file": "corpus/devto/dev_to_magic-peach_week-5-identity-is-not-an-email-address-4_08f3e5d520.md",
+    "source": "devto",
+    "title": "Week 5: Identity Is Not an Email Address",
+    "url": "https://dev.to/magic-peach/week-5-identity-is-not-an-email-address-4ie9",
+    "keywords": [
+      "would ...",
+      "week produced",
+      "week 5",
+      "week 5",
+      "important line",
+      "email address",
+      "email address",
+      "source",
+      "single",
+      "reactions"
+    ],
+    "summary": "# Week 5: Identity Is Not an Email Address > Source: devto | Category: news | 2026-08-08T13:27:14Z This week produced the single most important line of the project so far, and a decision I would..."
+  },
+  "bc7dc3d7804abb23": {
+    "file": "corpus/devto/dev_to_masaoshimadaopen_my-stock-buyback-bot-was-crushing-it_c86ec2ead4.md",
+    "source": "devto",
+    "title": "My Stock Buyback Bot Was Crushing It... Thanks to 220 Phantom Signals from Stock Consolidations",
+    "url": "https://dev.to/masaoshimadaopen/my-stock-buyback-bot-was-crushing-it-thanks-to-220-phantom-signals-from-stock-consolidations-2lf5",
+    "keywords": [
+      "220 phantom signals",
+      "220 phantom signals",
+      "stock buyback bot",
+      "stock buyback bot",
+      "actual age ...",
+      "stock consolidations",
+      "stock consolidations",
+      "online persona",
+      "12z hey",
+      "..."
+    ],
+    "summary": "# My Stock Buyback Bot Was Crushing It... Thanks to 220 Phantom Signals from Stock Consolidations Hey there, it's your friendly neighborhood Old Man Dev."
+  },
+  "2e7e03677eb09b42": {
+    "file": "corpus/devto/dev_to_ali_assiri_7b675f27f4d62f_my-repository-health-tool-g_c826520803.md",
+    "source": "devto",
+    "title": "My repository health tool gave Chromium a score. It had only seen part of it.",
+    "url": "https://dev.to/ali_assiri_7b675f27f4d62f/my-repository-health-tool-gave-chromium-a-score-it-had-only-seen-part-of-it-1aeb",
+    "keywords": [
+      "small cli called repopulse",
+      "local folder —",
+      "github repository —",
+      "seen part",
+      "seen part",
+      "source",
+      "score",
+      "score",
+      "reactions",
+      "point"
+    ],
+    "summary": "# My repository health tool gave Chromium a score. I build a small CLI called RepoPulse. You point it at a GitHub repository — or a local folder — and..."
+  },
+  "6f4dc6bcc1e1441f": {
+    "file": "corpus/devto/dev_to_atlasventuresgroup_openpyxl-writes-formulas-it-never-_e43cd9e540.md",
+    "source": "devto",
+    "title": "openpyxl writes formulas. It never evaluates them — so your generated spreadsheet can be silently wrong.",
+    "url": "https://dev.to/atlasventuresgroup/openpyxl-writes-formulas-it-never-evaluates-them-so-your-generated-spreadsheet-can-be-silently-106e",
+    "keywords": [
+      "cell equals \"= average",
+      "openpyxl writes formulas",
+      "openpyxl writes formulas",
+      "usual test suite",
+      "test asserts",
+      "silently wrong",
+      "silently wrong",
+      "reads 1",
+      "never evaluates",
+      "never evaluates"
+    ],
+    "summary": "It never evaluates them — so your generated spreadsheet can be silently wrong. Your test asserts the cell equals \"=AVERAGE(B2:B13)\" and passes. Here is why the usual test suite can't see it, why data_only=True doesn't save you, and what to assert instead."
+  },
+  "392ed7d79f9a93f2": {
+    "file": "corpus/devto/dev_to_pytorchfromgroundup_your-cnns-advantage-is-one-assump_b0af778105.md",
+    "source": "devto",
+    "title": "Your CNN's Advantage Is One Assumption — and I Measured What Happens When It Breaks",
+    "url": "https://dev.to/pytorchfromgroundup/your-cnns-advantage-is-one-assumption-and-i-measured-what-happens-when-it-breaks-490d",
+    "keywords": [
+      "small convolutional network beats",
+      "one assumption —",
+      "one assumption —",
+      "forward network",
+      "plain flatten",
+      "0 points",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Your CNN's Advantage Is One Assumption — and I Measured What Happens When It Breaks > Source: devto | Category: news | 2026-08-08T13:27:12Z A small convolutional network beats a plain flatten-and-feed-it-forward network by 7.0 points on..."
+  },
+  "297c337d995065fd": {
+    "file": "corpus/devto/dev_to_mighty840_youve-outgrown-one-server-you-dont-need-kub_847c59a999.md",
+    "source": "devto",
+    "title": "You've outgrown one server. You don't need Kubernetes.",
+    "url": "https://dev.to/mighty840/youve-outgrown-one-server-you-dont-need-kubernetes-51cn",
+    "keywords": [
+      "outgrown one server",
+      "outgrown one server",
+      "binary orchestrator",
+      "awkward gap",
+      "need kubernetes",
+      "need kubernetes",
+      "kubernetes",
+      "source",
+      "single",
+      "reactions"
+    ],
+    "summary": "You don't need Kubernetes. > Source: devto | Category: news | 2026-08-08T13:27:12Z The awkward gap between Coolify and Kubernetes - and the single-binary orchestrator I built to fill it."
+  },
+  "e6ababdef8162843": {
+    "file": "corpus/devto/dev_to_multigrid_tpus-trainium-and-custom-accelerators-where_3a7b8aac73.md",
+    "source": "devto",
+    "title": "TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins",
+    "url": "https://dev.to/multigrid/tpus-trainium-and-custom-accelerators-where-non-gpu-silicon-wins-1258",
+    "keywords": [
+      "gpu silicon wins",
+      "gpu silicon wins",
+      "structural reasons",
+      "function accelerator",
+      "custom accelerators",
+      "custom accelerators",
+      "compiler assumptions",
+      "gpu",
+      "trainium",
+      "trainium"
+    ],
+    "summary": "# TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins > Source: devto | Category: news | 2026-08-08T13:27:12Z The structural reasons a fixed-function accelerator can beat a GPU, the compiler assumptions that make it possible, and what you give up in exchange."
+  },
+  "d07662f982091aca": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_i-verified-live-the-same-git-hook-fix-t_56cc904f95.md",
+    "source": "devto",
+    "title": "I 'Verified Live' the Same Git Hook Fix Three Times. I Never Once Let Git Decide Whether to Run It.",
+    "url": "https://dev.to/enjoy_kumawat/i-verified-live-the-same-git-hook-fix-three-times-i-never-once-let-git-decide-whether-to-run-it-hdo",
+    "keywords": [
+      "let git decide whether",
+      "let git decide whether",
+      "write ...",
+      "verified live",
+      "verified live",
+      "msg hook",
+      "local script",
+      "source",
+      "shells",
+      "run"
+    ],
+    "summary": "# I \"Verified Live\" the Same Git Hook Fix Three Times. I Never Once Let Git Decide Whether to Run It. This repo has a prepare-commit-msg hook that shells out to a local script and asks a model to write..."
+  },
+  "cdc1d7df16577398": {
+    "file": "corpus/devto/dev_to_tejas_shinkar_aws-route-53-dns-fundamentals-hosted-zo_f10e39d523.md",
+    "source": "devto",
+    "title": "AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers",
+    "url": "https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727",
+    "keywords": [
+      "systems engineer",
+      "routing policies",
+      "routing policies",
+      "route 53",
+      "hosted zones",
+      "hosted zones",
+      "12z part",
+      "source",
+      "resolvers",
+      "resolvers"
+    ],
+    "summary": "# AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers > Source: devto | Category: news | 2026-08-08T13:27:12Z Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps."
+  },
+  "445e859024a37343": {
+    "file": "corpus/hackernews/andreadimatteo_com_torus-v0-5_html_5867ffd2a3.md",
+    "source": "hackernews",
+    "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
+    "url": "https://andreadimatteo.com/torus-v0-5.html",
+    "keywords": [
+      "try kitty graphics protocol",
+      "kitty graphics protocol",
+      "kitty graphics protocol",
+      "taking computer graphics",
+      "dependencies feels relaxing",
+      "simple concepts",
+      "show hn",
+      "show hn",
+      "rotating torus",
+      "rotating torus"
+    ],
+    "summary": "# Show HN: Rotating torus in terminal (but with kitty graphics protocol) Hi HN,<p>I&#x27;m taking Computer Graphics @ Stanford this summer and wanted to express some very simple concepts I had in mind. That&#x27;s why I wrote a rotating torus in C. Going from writing a ray-tracer that works in Blender to pure C with no dependencies feels relaxing."
+  },
+  "b8e5e0bba7a946af": {
+    "file": "corpus/hackernews/thenewstack_io_claude-code-auto-mode_3c361c5b3e.md",
+    "source": "hackernews",
+    "title": "Auto Mode will be the default in Claude Code – because humans can't be trusted",
+    "url": "https://thenewstack.io/claude-code-auto-mode/",
+    "keywords": [
+      "claude code –",
+      "claude code –",
+      "auto mode",
+      "auto mode",
+      "08z score",
+      "trusted",
+      "trusted",
+      "source",
+      "news",
+      "humans"
+    ],
+    "summary": "# Auto Mode will be the default in Claude Code – because humans can't be trusted > Source: hackernews | Category: news | 2026-08-08T13:27:08Z Score: 6 | Comments: 0"
   }
 }
