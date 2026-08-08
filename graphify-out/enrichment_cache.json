@@ -377954,5 +377954,41 @@
       "sign language translation"
     ],
     "summary": "Hi!<p>I have relatives that speak sign language, and always found it odd that despite unbelievable advances in AI in recent years, the problem still felt somewhat neglected.<p>Especially with the advent of wearable tech; to my knowledge, this is the first project that integrates the meta glasses w&#x2F; fingerspelling translation software.<p>As for the technical aspect, I trained a neural net on Google&#x27;s FSboard dataset modeling a CNN + GRU temporal encoder architecture (trained with CTC), "
+  },
+  "5714d401d9e808b9": {
+    "file": "corpus/devto/dev_to_kikashy_i-asked-an-ai-to-author-the-same-policy-tests_adb3ef3902.md",
+    "source": "devto",
+    "title": "I Asked an AI to Author the Same Policy Tests 50 Times. It Hit Every Boundary in 49 Valid Runs.",
+    "url": "https://dev.to/kikashy/i-asked-an-ai-to-author-the-same-policy-tests-50-times-it-hit-every-boundary-in-49-valid-runs-2g8n",
+    "keywords": [
+      "policy tests 50 times",
+      "policy tests 50 times",
+      "test cases ...",
+      "hit every boundary",
+      "hit every boundary",
+      "49 valid runs",
+      "49 valid runs",
+      "ai independently author",
+      "specific question",
+      "author"
+    ],
+    "summary": "# I Asked an AI to Author the Same Policy Tests 50 Times. It Hit Every Boundary in 49 Valid Runs. I have been experimenting with a specific question: can an AI independently author the test cases..."
+  },
+  "4ad4a198b54a1bab": {
+    "file": "corpus/hackernews/deepmind_google_blog_weathernext-ai-model-achieves-breakthro_1986eab2e2.md",
+    "source": "hackernews",
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "keywords": [
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "deepmind",
+      "deepmind",
+      "comments",
+      "category"
+    ],
+    "summary": "# DeepMind's WeatherNext model achieves breakthrough forecasting cyclones > Source: hackernews | Category: news | 2026-08-08T11:33:23Z Score: 3 | Comments: 1"
   }
 }
