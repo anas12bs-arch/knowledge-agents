@@ -382439,5 +382439,119 @@
       "hackernews"
     ],
     "summary": "# Show HN: Airy – Free, fast, and simple voice content creation > Source: hackernews | Category: news | 2026-08-09T11:48:05Z Score: 4 | Comments: 2"
+  },
+  "30bca4c69af41e48": {
+    "file": "corpus/devto/dev_to_jguillaumesio_cpu-utilization-lies-autoscaling-a-sing_18050af1ba.md",
+    "source": "devto",
+    "title": "CPU utilization lies: autoscaling a single-threaded service",
+    "url": "https://dev.to/jguillaumesio/cpu-utilization-lies-autoscaling-a-single-threaded-service-539k",
+    "keywords": [
+      "users notice ,...",
+      "cpu utilization lies",
+      "cpu utilization lies",
+      "threaded service",
+      "threaded service",
+      "service",
+      "source",
+      "slow",
+      "slow",
+      "single"
+    ],
+    "summary": "# CPU utilization lies: autoscaling a single-threaded service > Source: devto | Category: news | 2026-08-09T12:16:12Z Not down, just slow: p95 latency climbing well past where users notice,..."
+  },
+  "d4732a0e0fbabd47": {
+    "file": "corpus/devto/dev_to_jguillaumesio_shipping-a-saas-on-one-vps-with-docker-_7156ce751e.md",
+    "source": "devto",
+    "title": "Shipping a SaaS on one VPS with Docker Compose: an honest audit",
+    "url": "https://dev.to/jguillaumesio/shipping-a-saas-on-one-vps-with-docker-compose-an-honest-audit-5g81",
+    "keywords": [
+      "entire product runs",
+      "containerised nginx ...",
+      "single vps",
+      "one vps",
+      "one vps",
+      "one machine",
+      "one docker",
+      "honest audit",
+      "honest audit",
+      "docker compose"
+    ],
+    "summary": "# Shipping a SaaS on one VPS with Docker Compose: an honest audit > Source: devto | Category: news | 2026-08-09T12:16:12Z The entire product runs on a single VPS."
+  },
+  "9edaaed185800a3f": {
+    "file": "corpus/devto/dev_to_jguillaumesio_docker-bypassed-my-firewall-the-databas_0510579cb6.md",
+    "source": "devto",
+    "title": "Docker bypassed my firewall: the database port was open to the internet",
+    "url": "https://dev.to/jguillaumesio/docker-bypassed-my-firewall-the-database-port-was-open-to-the-internet-1345",
+    "keywords": [
+      "still ...",
+      "explicitly blocked",
+      "docker bypassed",
+      "docker bypassed",
+      "database port",
+      "database port",
+      "postgres port",
+      "postgres",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Docker bypassed my firewall: the database port was open to the internet I had a firewall. I had explicitly blocked the Postgres port on the host."
+  },
+  "4ddec1220f3a056d": {
+    "file": "corpus/devto/dev_to_jguillaumesio_docker-never-restarted-my-database-the-_93073fecd3.md",
+    "source": "devto",
+    "title": "Docker never restarted my database: the price of restart: no",
+    "url": "https://dev.to/jguillaumesio/docker-never-restarted-my-database-the-price-of-restart-no-4hi4",
+    "keywords": [
+      "docker never restarted",
+      "docker never restarted",
+      "12z something died",
+      "user",
+      "source",
+      "restart",
+      "restart",
+      "reactions",
+      "price",
+      "price"
+    ],
+    "summary": "# Docker never restarted my database: the price of restart: no > Source: devto | Category: news | 2026-08-09T12:16:12Z I found out in the morning, from a user, not from a..."
+  },
+  "5f423f0c4932f961": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49230580_ec4a9cdcd5.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49230580",
+    "keywords": [
+      "54m series b led",
+      "challenging yet interesting problem",
+      "end including permit research",
+      "supporting permitting end",
+      "senior frontend engineer",
+      "frontend software engineers",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "PermitFlow (YC W22) | Staff, Fullstack &amp; Frontend Software Engineers | New York, NY | ONSITE | Full-time | <a href=\"https:&#x2F;&#x2F;permitflow.com\">https:&#x2F;&#x2F;permitflow.com</a> PermitFlow’s mission is to streamline and simplify construction permitting in the $1.6 trillion United States construction market. Our software reduces time to permit, supporting permitting end-to-end including permit research, application preparation, submission, and monitoring.<p>We recently raised a $54M "
+  },
+  "f62ddedd3923cbf9": {
+    "file": "corpus/hackernews/github_com_uber_submitqueue_d96e592357.md",
+    "source": "hackernews",
+    "title": "Uber SubmitQueue: a high-performance speculative merge queue",
+    "url": "https://github.com/uber/submitqueue/",
+    "keywords": [
+      "performance speculative merge queue",
+      "performance speculative merge queue",
+      "uber submitqueue",
+      "uber submitqueue",
+      "04z score",
+      "source",
+      "news",
+      "high",
+      "high",
+      "hackernews"
+    ],
+    "summary": "# Uber SubmitQueue: a high-performance speculative merge queue > Source: hackernews | Category: news | 2026-08-09T12:16:04Z Score: 4 | Comments: 0"
   }
 }
