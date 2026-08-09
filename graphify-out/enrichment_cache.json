@@ -380583,5 +380583,99 @@
       "9 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-08T23:50:17Z - [turbopack] Fix a potential deadlock in scope_and_block: #95695 - Remove the turbopack-build-events trace span, use `next build` instead: #96746 - docs: add `export const dynamic = 'force-static'` to Route Handlers example on Static Exports: #96964 - [turbopack] Follow re-exports for side-effect free async modules: #95993 Huge thanks to @lukesandberg, @m-kawafuji, and @sampoder for helping!"
+  },
+  "4d0f2c8cc6272198": {
+    "file": "corpus/devto/dev_to_akashguptasky_i-built-a-full-backend-learning-platfor_ee919fae44.md",
+    "source": "devto",
+    "title": "I built a full backend-learning platform solo — here's what I shipped (and what broke along the way)",
+    "url": "https://dev.to/akashguptasky/i-built-a-full-backend-learning-platform-solo-heres-what-i-shipped-and-what-broke-along-the-way-990",
+    "keywords": [
+      "learning platform solo —",
+      "learning platform solo —",
+      "months ago",
+      "got tired",
+      "full backend",
+      "full backend",
+      "broke along",
+      "broke along",
+      "way",
+      "way"
+    ],
+    "summary": "# I built a full backend-learning platform solo — here's what I shipped (and what broke along the way) > Source: devto | Category: news | 2026-08-09T00:36:33Z A few months ago I got tired of the same problem: you finish a \"backend course,\" feel great for a..."
+  },
+  "9bc816f1bc868d33": {
+    "file": "corpus/devto/dev_to_scott_peterson_bf7b8ea3f7_free-zero-dependency-youtub_421ecb73e5.md",
+    "source": "devto",
+    "title": "Free, Zero-Dependency YouTube Website Embed (Self-Hostable PHP/JS)",
+    "url": "https://dev.to/scott_peterson_bf7b8ea3f7/free-zero-dependency-youtube-website-embed-self-hostable-phpjs-338h",
+    "keywords": [
+      "dynamic youtube channel feed",
+      "33z hey dev community",
+      "dependency youtube website embed",
+      "dependency youtube website embed",
+      "live stream ...",
+      "hostable php",
+      "hostable php",
+      "ever tried",
+      "embed"
+    ],
+    "summary": "# Free, Zero-Dependency YouTube Website Embed (Self-Hostable PHP/JS) > Source: devto | Category: news | 2026-08-09T00:36:33Z 👋  If you've ever tried to embed a dynamic YouTube channel feed, a live stream..."
+  },
+  "04e7294f4d7b6625": {
+    "file": "corpus/devto/dev_to_swifttooly_compressing-pdfs-in-the-browser-and-the-bu_65542a645b.md",
+    "source": "devto",
+    "title": "Compressing PDFs in the browser, and the bug that shipped empty files",
+    "url": "https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9",
+    "keywords": [
+      "shipped empty files",
+      "shipped empty files",
+      "33z last time",
+      "compressing pdfs",
+      "compressing pdfs",
+      "compressing images",
+      "canvas api",
+      "wrote",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Compressing PDFs in the browser, and the bug that shipped empty files Last time I wrote about compressing images in the browser with the Canvas API. I ended that post by..."
+  },
+  "c3eee64ccb59eff7": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_i-built-scenario-packs-for-agent-reg_24fbb9d965.md",
+    "source": "devto",
+    "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
+    "url": "https://dev.to/debashish_ghosal/i-built-scenario-packs-for-agent-regression-testing-the-integration-not-the-judge-broke-me-1k9k",
+    "keywords": [
+      "write clean yaml",
+      "hard part would",
+      "define expected behavior",
+      "built scenario packs",
+      "built scenario packs",
+      "agent regression testing",
+      "agent regression testing",
+      "run ...",
+      "thought",
+      "source"
+    ],
+    "summary": "# I Built Scenario Packs for Agent Regression Testing. > Source: devto | Category: news | 2026-08-09T00:36:32Z I thought the hard part would be the scoring."
+  },
+  "0d9ebf4ff01ba3d0": {
+    "file": "corpus/hackernews/www_redblobgames_com_pathfinding_heuristics_differential_htm_1d08c1d2b1.md",
+    "source": "hackernews",
+    "title": "Improving Heuristics for A* Pathfinding",
+    "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+    "keywords": [
+      "improving heuristics",
+      "improving heuristics",
+      "26z score",
+      "source",
+      "pathfinding",
+      "pathfinding",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Improving Heuristics for A* Pathfinding > Source: hackernews | Category: news | 2026-08-09T00:36:26Z Score: 19 | Comments: 3"
   }
 }
