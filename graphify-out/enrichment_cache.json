@@ -383002,5 +383002,231 @@
       "free creator seats"
     ],
     "summary": "# [saastr] Atlassian Just Deleted Loom’s Free Creator Seats. It wasn&#8217;t even 30 days after I left Adobe after their acquisition of my last start-up EchoSign / Adobe Sign when &#8230; they ripped out the Free edition. It had millions of users over time, was cheap to provide and simple to use, and materially helped with top-of-funnel, at least for smaller prosumer customers."
+  },
+  "a44fd27c15d2651e": {
+    "file": "corpus/devto/dev_to_francescoxx_rust-borrow-checker-20-is-finally-here-10_48c7e74ea8.md",
+    "source": "devto",
+    "title": "Rust Borrow Checker 2.0 is Finally Here",
+    "url": "https://dev.to/francescoxx/rust-borrow-checker-20-is-finally-here-10e5",
+    "keywords": [
+      "rust borrow checker 2",
+      "rust borrow checker 2",
+      "finally compiling",
+      "finally",
+      "finally",
+      "wait",
+      "today",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Rust Borrow Checker 2.0 is Finally Here > Source: devto | Category: news | 2026-08-09T15:04:35Z Perfectly safe Rust code that wouldn't compile until today is now finally compiling!"
+  },
+  "5a69909a07539e6d": {
+    "file": "corpus/devto/dev_to_yunar-r_i-built-repotrek-a-terminal-first-github-sour_f2ffc1de9f.md",
+    "source": "devto",
+    "title": "I built RepoTrek: a terminal-first GitHub source browser in Rust",
+    "url": "https://dev.to/yunar-r/i-built-repotrek-a-terminal-first-github-source-browser-in-rust-326d",
+    "keywords": [
+      "first github source browser",
+      "first github source browser",
+      "built repotrek",
+      "built repotrek",
+      "built repotrek",
+      "source",
+      "terminal",
+      "terminal",
+      "terminal",
+      "rust"
+    ],
+    "summary": "# I built RepoTrek: a terminal-first GitHub source browser in Rust > Source: devto | Category: news | 2026-08-09T15:04:35Z I built RepoTrek, a terminal-first GitHub source browser written in..."
+  },
+  "1c24bc85f0320437": {
+    "file": "corpus/devto/dev_to_q00_your-agent-loop-is-teaching-the-model-to-cheat-48_453f0fb229.md",
+    "source": "devto",
+    "title": "Your agent loop is teaching the model to cheat",
+    "url": "https://dev.to/q00/your-agent-loop-is-teaching-the-model-to-cheat-48oa",
+    "keywords": [
+      "shot prompting stops ...",
+      "obvious next move",
+      "ai coding agent",
+      "agent loop",
+      "agent loop",
+      "loop around",
+      "32z wrapping",
+      "teaching",
+      "teaching",
+      "source"
+    ],
+    "summary": "# Your agent loop is teaching the model to cheat > Source: devto | Category: news | 2026-08-09T15:04:32Z Wrapping a loop around an AI coding agent is the obvious next move once single-shot prompting stops..."
+  },
+  "8caf4517b7d69293": {
+    "file": "corpus/devto/dev_to_ravikumarve_i-built-an-ai-mock-interview-coach-that-d_1b6d31b942.md",
+    "source": "devto",
+    "title": "I Built an AI Mock Interview Coach That Doesn't Fake Praise (Next.js + NVIDIA NIM)",
+    "url": "https://dev.to/ravikumarve/i-built-an-ai-mock-interview-coach-that-doesnt-fake-praise-nextjs-nvidia-nim-5gbn",
+    "keywords": [
+      "ai mock interview coach",
+      "ai mock interview coach",
+      "ai interview prep tools",
+      "great answer !\"",
+      "nvidia nim",
+      "nvidia nim",
+      "fake praise",
+      "fake praise",
+      "tell"
+    ],
+    "summary": "# I Built an AI Mock Interview Coach That Doesn't Fake Praise (Next.js + NVIDIA NIM) Most AI interview prep tools are polite. and move on — which means you..."
+  },
+  "925e24770a55e376": {
+    "file": "corpus/devto/dev_to_hblai_filmlook_where-indie-web-tools-actually-get-the_5234bd96f5.md",
+    "source": "devto",
+    "title": "Where indie web tools actually get their backlinks (it isn't the directories)",
+    "url": "https://dev.to/hblai_filmlook/where-indie-web-tools-actually-get-their-backlinks-it-isnt-the-directories-5ebc",
+    "keywords": [
+      "side project",
+      "product hunt",
+      "alternativeto ....",
+      "32z every",
+      "source",
+      "reactions",
+      "news",
+      "list",
+      "launch",
+      "directories"
+    ],
+    "summary": "# Where indie web tools actually get their backlinks (it isn't the directories) > Source: devto | Category: news | 2026-08-09T15:04:32Z Every \"launch your side project\" checklist has the same list on it."
+  },
+  "b0cdfa52bc78306a": {
+    "file": "corpus/devto/dev_to_siddharth_pandey_27_stale-infrastructure-context-is-w_c671d6d83d.md",
+    "source": "devto",
+    "title": "Stale infrastructure context is worse than none",
+    "url": "https://dev.to/siddharth_pandey_27/stale-infrastructure-context-is-worse-than-none-2npa",
+    "keywords": [
+      "stale infrastructure context",
+      "stale infrastructure context",
+      "letter queue",
+      "queue",
+      "worse",
+      "worse",
+      "tuesday",
+      "source",
+      "reactions",
+      "orders"
+    ],
+    "summary": "# Stale infrastructure context is worse than none > Source: devto | Category: news | 2026-08-09T15:04:35Z The bug that isn't a bug   On Tuesday you attach a dead-letter queue to orders-queue."
+  },
+  "452de18fc4f0acd2": {
+    "file": "corpus/devto/dev_to_hj_rr_54c6382012a2bb57813_show-os-universal-uploader-_f53b44e7d2.md",
+    "source": "devto",
+    "title": "Show OS: Universal Uploader – Zero-dependency, stream-based file uploading with transparent XHR fallback",
+    "url": "https://dev.to/hj_rr_54c6382012a2bb57813/show-os-universal-uploader-zero-dependency-stream-based-file-uploading-with-transparent-xhr-4jj3",
+    "keywords": [
+      "universal uploader – zero",
+      "universal uploader – zero",
+      "transparent xhr fallback",
+      "transparent xhr fallback",
+      "based file uploading",
+      "based file uploading",
+      "33z hey everyone",
+      "show os",
+      "show os",
+      "persistent ..."
+    ],
+    "summary": "# Show OS: Universal Uploader – Zero-dependency, stream-based file uploading with transparent XHR fallback > Source: devto | Category: news | 2026-08-09T15:04:33Z Hey everyone, I wanted to share an open-source library I’ve been developing to solve a persistent..."
+  },
+  "6774fb34ab24954d": {
+    "file": "corpus/devto/dev_to_numb_code_07_rag-chunking-strategies-that-survive-pro_612fdb355d.md",
+    "source": "devto",
+    "title": "RAG Chunking Strategies That Survive Production: Beyond the 512-Token Default",
+    "url": "https://dev.to/numb_code_07/rag-chunking-strategies-that-survive-production-beyond-the-512-token-default-1hkk",
+    "keywords": [
+      "decision everyone defaults",
+      "rag chunking strategies",
+      "rag chunking strategies",
+      "chunking ...",
+      "token default",
+      "token default",
+      "survive production",
+      "survive production",
+      "nobody revisits",
+      "32z table"
+    ],
+    "summary": "# RAG Chunking Strategies That Survive Production: Beyond the 512-Token Default > Source: devto | Category: news | 2026-08-09T15:04:32Z Table of Contents    The Decision Everyone Defaults and Nobody Revisits What Chunking..."
+  },
+  "92ea9b1b5d127ccd": {
+    "file": "corpus/devto/dev_to_flawsom_i-built-an-openai-compatible-api-on-top-of-ge_aead31e96d.md",
+    "source": "devto",
+    "title": "I built an OpenAI-compatible API on top of Gemini's web protocol. Here's the war.",
+    "url": "https://dev.to/flawsom/i-built-an-openai-compatible-api-on-top-of-geminis-web-protocol-heres-the-war-26b6",
+    "keywords": [
+      "35z gemini web2api —",
+      "compatible api server",
+      "gemini web ...",
+      "compatible api",
+      "compatible api",
+      "web protocol",
+      "web protocol",
+      "gemini",
+      "gemini",
+      "war"
+    ],
+    "summary": "# I built an OpenAI-compatible API on top of Gemini's web protocol. > Source: devto | Category: news | 2026-08-09T15:04:35Z Gemini Web2API — a self-hosted, OpenAI-compatible API server that talks to Google's Gemini web..."
+  },
+  "8f2e36a4ef4bf104": {
+    "file": "corpus/devto/dev_to_wali0007_i-built-a-morse-code-translator-and-the-timi_bd5c4bb663.md",
+    "source": "devto",
+    "title": "I Built a Morse Code Translator — and the Timing Math Turned Out to Be the Hard Part",
+    "url": "https://dev.to/wali0007/i-built-a-morse-code-translator-and-the-timing-math-turned-out-to-be-the-hard-part-4c63",
+    "keywords": [
+      "online morse code translator",
+      "morse code translator —",
+      "morse code translator —",
+      "timing math turned",
+      "timing math turned",
+      "hard part would",
+      "hard part",
+      "hard part",
+      "started building",
+      "source"
+    ],
+    "summary": "# I Built a Morse Code Translator — and the Timing Math Turned Out to Be the Hard Part > Source: devto | Category: news | 2026-08-09T15:04:33Z When I started building an online Morse code translator, I assumed the hard part would be the..."
+  },
+  "3e23f557b7ae5652": {
+    "file": "corpus/devto/dev_to_skyf0xx_a-fix-for-ai-spaghetti-code-5750_8d0cd5a0e3.md",
+    "source": "devto",
+    "title": "A fix for AI spaghetti code",
+    "url": "https://dev.to/skyf0xx/a-fix-for-ai-spaghetti-code-5750",
+    "keywords": [
+      "really iffy code created",
+      "ai spaghetti code",
+      "ai spaghetti code",
+      "got tired",
+      "usually",
+      "source",
+      "reactions",
+      "news",
+      "looking"
+    ],
+    "summary": "# A fix for AI spaghetti code > Source: devto | Category: news | 2026-08-09T15:04:35Z I got tired of looking at really iffy code created by AI."
+  },
+  "7b00a7a9ba1f1062": {
+    "file": "corpus/hackernews/kibotronics_net_unlisted_lilly-machines_f544207e7c.md",
+    "source": "hackernews",
+    "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "url": "https://kibotronics.net/unlisted/lilly-machines/",
+    "keywords": [
+      "solid state intelligence",
+      "solid state intelligence",
+      "john c",
+      "john c",
+      "26z score",
+      "source",
+      "news",
+      "man",
+      "man",
+      "lilly"
+    ],
+    "summary": "# John C. Lilly on solid state intelligence and the elimination of man (1978) > Source: hackernews | Category: news | 2026-08-09T15:04:26Z Score: 4 | Comments: 1"
   }
 }
