@@ -381314,5 +381314,230 @@
       "alt =\" follow"
     ],
     "summary": "🔥** The web context API to find sources, extract content, and turn it into clean Markdown or structured data your agents can ship with. Open source and available as a [hosted service](https://firecrawl.dev/?ref=github). - **Industry-leading reliability**: Covers 96% of the web, including JS-heavy pages — no proxy headaches, just clean data ([see benchmarks](https://www.firecrawl.dev/blog/the-worlds-best-web-data-api-v25)) - **Blazingly fast**: P95 latency of 3.4s across millions of pages, built "
+  },
+  "0c979bfec61796e6": {
+    "file": "corpus/devto/dev_to_budiwidhiyanto_testing-hl7-to-fhir-pipelines-without-_245605298f.md",
+    "source": "devto",
+    "title": "Testing HL7-to-FHIR Pipelines Without a Hospital: Mocking HAPI FHIR with respx",
+    "url": "https://dev.to/budiwidhiyanto/testing-hl7-to-fhir-pipelines-without-a-hospital-mocking-hapi-fhir-with-respx-13le",
+    "keywords": [
+      "mocking hapi fhir",
+      "mocking hapi fhir",
+      "get 274 tests",
+      "fhir pipelines without",
+      "fhir pipelines without",
+      "coverage without ...",
+      "testing hl7",
+      "testing hl7",
+      "maternity ward",
+      "spin"
+    ],
+    "summary": "# Testing HL7-to-FHIR Pipelines Without a Hospital: Mocking HAPI FHIR with respx You can't spin up a maternity ward in CI. But you can get 274 tests and 90% coverage without..."
+  },
+  "91e8393d72319f58": {
+    "file": "corpus/devto/dev_to_shashikanthgs_the-two-layers-that-decide-whether-your_06ca456c5d.md",
+    "source": "devto",
+    "title": "The Two Layers That Decide Whether Your Agent Survives",
+    "url": "https://dev.to/shashikanthgs/the-two-layers-that-decide-whether-your-agent-survives-1670",
+    "keywords": [
+      "last two years",
+      "agent architecture content",
+      "two layers",
+      "two layers",
+      "agent survives",
+      "agent survives",
+      "decide whether",
+      "decide whether",
+      "source",
+      "read"
+    ],
+    "summary": "# The Two Layers That Decide Whether Your Agent Survives > Source: devto | Category: news | 2026-08-09T05:13:51Z I have read a lot of agent architecture content over the last two years, and almost all of it is..."
+  },
+  "ddf9e59c3c0153ab": {
+    "file": "corpus/devto/dev_to_numbpill3d_surviving-the-ai-bubble-with-two-pieces-of_95d7f0dc19.md",
+    "source": "devto",
+    "title": "Surviving the AI Bubble With Two Pieces of Junk From Amazon",
+    "url": "https://dev.to/numbpill3d/surviving-the-ai-bubble-with-two-pieces-of-junk-from-amazon-5h1i",
+    "keywords": [
+      "build escape hatches",
+      "two pieces",
+      "two pieces",
+      "building agents",
+      "ai bubble",
+      "ai bubble",
+      "50z everyone",
+      "surviving",
+      "surviving",
+      "source"
+    ],
+    "summary": "# Surviving the AI Bubble With Two Pieces of Junk From Amazon You should build escape hatches. We are living through the..."
+  },
+  "e07b3283a8b4eadc": {
+    "file": "corpus/devto/dev_to_sandeepvarma_the-order-to-build-mlops-in-when-you-hav_1c40128244.md",
+    "source": "devto",
+    "title": "The order to build MLOps in when you have one model, not fifty",
+    "url": "https://dev.to/sandeepvarma/the-order-to-build-mlops-in-when-you-have-one-model-not-fifty-49c5",
+    "keywords": [
+      "person team brought",
+      "churn scorer ...",
+      "first production model",
+      "one model",
+      "one model",
+      "last month",
+      "help ship",
+      "build mlops",
+      "build mlops",
+      "source"
+    ],
+    "summary": "# The order to build MLOps in when you have one model, not fifty > Source: devto | Category: news | 2026-08-09T05:13:52Z A five-person team brought me in last month to help ship their first production model, a churn scorer..."
+  },
+  "567f2a5868b28fd4": {
+    "file": "corpus/devto/dev_to_mellowthunder735_ai-can-write-tests-faster-than-your-_01eaa70ddf.md",
+    "source": "devto",
+    "title": "AI Can Write Tests Faster Than Your Team Can Understand Them",
+    "url": "https://dev.to/mellowthunder735/ai-can-write-tests-faster-than-your-team-can-understand-them-bji",
+    "keywords": [
+      "produce code extremely ...",
+      "52z ai coding tools",
+      "write tests faster",
+      "write tests faster",
+      "understand",
+      "understand",
+      "team",
+      "team"
+    ],
+    "summary": "# AI Can Write Tests Faster Than Your Team Can Understand Them > Source: devto | Category: news | 2026-08-09T05:13:52Z AI coding tools have solved one problem remarkably well:  They can produce code extremely..."
+  },
+  "429550d3265c6a38": {
+    "file": "corpus/devto/dev_to_lizhuojunx86_i-measured-his-app-with-his-own-code-he-_2cbade13f9.md",
+    "source": "devto",
+    "title": "I measured his app with his own code. He measured my claim with his own corpus.",
+    "url": "https://dev.to/lizhuojunx86/i-measured-his-app-with-his-own-code-he-measured-my-claim-with-his-own-corpus-1l5m",
+    "keywords": [
+      "count tokens ....",
+      "part five",
+      "audit log",
+      "things",
+      "source",
+      "series",
+      "reactions",
+      "pointing",
+      "news",
+      "measured"
+    ],
+    "summary": "He measured my claim with his own corpus. > Source: devto | Category: news | 2026-08-09T05:13:50Z This is part five of a series about pointing an append-only audit log at things that count tokens...."
+  },
+  "2115cc47cbb4a2b6": {
+    "file": "corpus/hackernews/longbets_org_601_56f77821a8.md",
+    "source": "hackernews",
+    "title": "The original URL for this prediction will no longer be available in 11 years.' (2011)",
+    "url": "https://longbets.org/601/",
+    "keywords": [
+      "11 years .'",
+      "11 years .\"",
+      "original url",
+      "original url",
+      "42z score",
+      "source",
+      "prediction",
+      "prediction",
+      "news",
+      "longer"
+    ],
+    "summary": "# \"The original URL for this prediction will no longer be available in 11 years.\" > Source: hackernews | Category: news | 2026-08-09T05:13:42Z Score: 14 | Comments: 2"
+  },
+  "bff3937527ca4f43": {
+    "file": "corpus/hackernews/news_mccombs_utexas_edu_research_what-makes-companies-dodge-_2e8df8ae5a.md",
+    "source": "hackernews",
+    "title": "What makes companies dodge taxes?",
+    "url": "https://news.mccombs.utexas.edu/research/what-makes-companies-dodge-taxes/",
+    "keywords": [
+      "makes companies dodge taxes",
+      "makes companies dodge taxes",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# What makes companies dodge taxes? > Source: hackernews | Category: news | 2026-08-09T05:13:48Z Score: 5 | Comments: 0"
+  },
+  "aea2f151e0162c40": {
+    "file": "corpus/hackernews/itsfoss_com_news_illinois-age-verification-bill_ccc9885049.md",
+    "source": "hackernews",
+    "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+    "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+    "keywords": [
+      "told every operating system",
+      "told every operating system",
+      "start reporting",
+      "start reporting",
+      "44z score",
+      "source",
+      "news",
+      "kid",
+      "kid",
+      "illinois"
+    ],
+    "summary": "# Illinois Just Told Every Operating System to Start Reporting Your Kid's Age > Source: hackernews | Category: news | 2026-08-09T05:13:44Z Score: 16 | Comments: 1"
+  },
+  "778adab964cdcc6c": {
+    "file": "corpus/hackernews/github_com_Tura-AI_tura_9333fdd968.md",
+    "source": "hackernews",
+    "title": "Show HN: Tura – Build agent that uses 80% less token and delivers better results",
+    "url": "https://github.com/Tura-AI/tura",
+    "keywords": [
+      "tura – build agent",
+      "tura – build agent",
+      "delivers better results",
+      "delivers better results",
+      "uses 80",
+      "uses 80",
+      "show hn",
+      "show hn",
+      "less token",
+      "less token"
+    ],
+    "summary": "# Show HN: Tura – Build agent that uses 80% less token and delivers better results > Source: hackernews | Category: news | 2026-08-09T05:13:49Z Score: 4 | Comments: 0"
+  },
+  "0050101efa2ff926": {
+    "file": "corpus/hackernews/academic_oup_com_sleep_article_46_Supplement_1_A34_7181621_c75ac87284.md",
+    "source": "hackernews",
+    "title": "Melatonin impairs morning cognition in healthy young adults",
+    "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+    "keywords": [
+      "melatonin impairs morning cognition",
+      "melatonin impairs morning cognition",
+      "healthy young adults",
+      "healthy young adults",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Melatonin impairs morning cognition in healthy young adults > Source: hackernews | Category: news | 2026-08-09T05:13:44Z Score: 24 | Comments: 3"
+  },
+  "bd6330dd5a03d427": {
+    "file": "corpus/hackernews/www_experimental-history_com_p_incentives-are-for-losers_a01041fffb.md",
+    "source": "hackernews",
+    "title": "Incentives Are for Losers",
+    "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+    "keywords": [
+      "43z score",
+      "source",
+      "news",
+      "losers",
+      "losers",
+      "incentives",
+      "incentives",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Incentives Are for Losers > Source: hackernews | Category: news | 2026-08-09T05:13:43Z Score: 23 | Comments: 4"
   }
 }
