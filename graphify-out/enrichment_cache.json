@@ -388137,5 +388137,780 @@
       "content (# 39366"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-10T13:55:07Z Changes since langchain-openai==1.4.2 release(openai): 1.4.3 (#39485) fix(openai): filter invalid tool calls from content (#39366) chore(openai): update guidance for responses API for OpenAI-compatible providers (#39327) chore(openai): update docstring for `include_response_headers` (#39326)"
+  },
+  "6bc3396885405bd7": {
+    "file": "corpus/devto/dev_to_p0rt_distilling-kimi-into-qwen-doesnt-give-you-kimi-i_08e234a1bc.md",
+    "source": "devto",
+    "title": "Distilling Kimi Into Qwen Doesn't Give You Kimi. It Gives You Qwen With Kimi's Handwriting",
+    "url": "https://dev.to/p0rt/distilling-kimi-into-qwen-doesnt-give-you-kimi-it-gives-you-qwen-with-kimis-handwriting-284p",
+    "keywords": [
+      "mostly moves format",
+      "reasoning traces",
+      "open model",
+      "frontier model",
+      "actually transfers",
+      "distilling kimi",
+      "distilling kimi",
+      "kimi",
+      "kimi",
+      "kimi"
+    ],
+    "summary": "It Gives You Qwen With Kimi's Handwriting > Source: devto | Category: news | 2026-08-10T14:48:16Z What actually transfers when you fine-tune an open model on a frontier model's reasoning traces: the mechanics, the evidence it works, the evidence it mostly moves format, and how to tell which one you got."
+  },
+  "2439a412fcfbce42": {
+    "file": "corpus/devto/dev_to_auth0_how-to-give-claude-real-time-auth0-docs-access-_a49abbf01d.md",
+    "source": "devto",
+    "title": "How to Give Claude Real-Time Auth0 Docs Access (MCP Server)",
+    "url": "https://dev.to/auth0/how-to-give-claude-real-time-auth0-docs-access-mcp-server-55f5",
+    "keywords": [
+      "time auth0 docs access",
+      "time auth0 docs access",
+      "outdated llm training data",
+      "writing identity code",
+      "incomplete web scrapes",
+      "give claude real",
+      "give claude real",
+      "16z stop relying",
+      "mcp server",
+      "mcp server"
+    ],
+    "summary": "# How to Give Claude Real-Time Auth0 Docs Access (MCP Server) > Source: devto | Category: news | 2026-08-10T14:48:16Z Stop relying on outdated LLM training data or incomplete web scrapes when writing identity code."
+  },
+  "349cc11a3a9d6b03": {
+    "file": "corpus/devto/dev_to_muneebahmedkhanwriting_organizing-bug-bounty-notes-in_ca7e3c2b28.md",
+    "source": "devto",
+    "title": "Organizing Bug Bounty Notes in Obsidian: A Vault Structure for Beginners",
+    "url": "https://dev.to/muneebahmedkhanwriting/organizing-bug-bounty-notes-in-obsidian-a-vault-structure-for-beginners-43fn",
+    "keywords": [
+      "organizing bug bounty notes",
+      "organizing bug bounty notes",
+      "bug bounty research ,...",
+      "working obsidian vault structured",
+      "vault structure",
+      "vault structure",
+      "obsidian",
+      "obsidian",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Organizing Bug Bounty Notes in Obsidian: A Vault Structure for Beginners > Source: devto | Category: news | 2026-08-10T14:48:19Z By the end of this guide, you will have a working Obsidian vault structured for bug bounty research,..."
+  },
+  "27ec0063bda10a67": {
+    "file": "corpus/devto/dev_to_turalmu95150474_inside-an-async-web-server-37i7_a9067af06d.md",
+    "source": "devto",
+    "title": "Inside an Async Web Server",
+    "url": "https://dev.to/turalmu95150474/inside-an-async-web-server-37i7",
+    "keywords": [
+      "async web server",
+      "async web server",
+      "also hide ...",
+      "17z frameworks",
+      "source",
+      "reactions",
+      "news",
+      "inside",
+      "inside",
+      "fastapi"
+    ],
+    "summary": "# Inside an Async Web Server > Source: devto | Category: news | 2026-08-10T14:48:17Z Frameworks such as FastAPI and aiohttp make HTTP servers straightforward to build."
+  },
+  "bd2ccce8a470d9a8": {
+    "file": "corpus/devto/dev_to_mrasadatik_ai-thinks-im-bertram-gilfoyle-from-silicon_67032cb015.md",
+    "source": "devto",
+    "title": "AI Thinks I'm Bertram Gilfoyle From Silicon Valley. Maybe It Has a Point.",
+    "url": "https://dev.to/mrasadatik/ai-thinks-im-bertram-gilfoyle-from-silicon-valley-maybe-it-has-a-point-2ei4",
+    "keywords": [
+      "entire chat history",
+      "silicon valley",
+      "silicon valley",
+      "one ...",
+      "bertram gilfoyle",
+      "bertram gilfoyle",
+      "ai thinks",
+      "ai thinks",
+      "source"
+    ],
+    "summary": "# AI Thinks I'm Bertram Gilfoyle From Silicon Valley. Maybe It Has a Point. \"Based on our entire chat history, name the ONE..."
+  },
+  "839429a83a7676f8": {
+    "file": "corpus/devto/dev_to_xulingfeng_stratagems-24-leo-built-a-corridor-the-ai-_3085c211d2.md",
+    "source": "devto",
+    "title": "Stratagems #24: Leo Built a Corridor. The AI Thought It Was a Road.",
+    "url": "https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf",
+    "keywords": [
+      "two great powers",
+      "neighbor presses",
+      "leo built",
+      "leo built",
+      "cornered ...",
+      "ai thought",
+      "ai thought",
+      "stratagems",
+      "stratagems",
+      "source"
+    ],
+    "summary": "# Stratagems #24: Leo Built a Corridor. The AI Thought It Was a Road. Between two great powers, when a neighbor presses you to follow, borrow its momentum."
+  },
+  "1a5081cc9c4401a3": {
+    "file": "corpus/devto/dev_to_sreeraj-sreenivasan_300-terms-every-beginner-ai-engin_d4106464f3.md",
+    "source": "devto",
+    "title": "300 Terms Every Beginner AI Engineer Should Know",
+    "url": "https://dev.to/sreeraj-sreenivasan/300-terms-every-beginner-ai-engineer-should-know-3l4l",
+    "keywords": [
+      "19z ai engineering",
+      "starting",
+      "source",
+      "reactions",
+      "news",
+      "math",
+      "language",
+      "know",
+      "know",
+      "half"
+    ],
+    "summary": "# 300 Terms Every Beginner AI Engineer Should Know > Source: devto | Category: news | 2026-08-10T14:48:19Z AI engineering has its own language."
+  },
+  "e0ea3496425efef8": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-commit-message-script-has-8-assertio_08946724e6.md",
+    "source": "devto",
+    "title": "My Commit-Message Script Has 8 Assertions in --selftest. None of Them Touch the Code That Can Actually Fail.",
+    "url": "https://dev.to/enjoy_kumawat/my-commit-message-script-has-8-assertions-in-selftest-none-of-them-touch-the-code-that-can-4ji4",
+    "keywords": [
+      "three files",
+      "message script",
+      "message script",
+      "actually fail",
+      "actually fail",
+      "8 assertions",
+      "8 assertions",
+      "-- selftest",
+      "-- selftest",
+      "touch"
+    ],
+    "summary": "# My Commit-Message Script Has 8 Assertions in --selftest. None of Them Touch the Code That Can Actually Fail. I have three files in this repo that shell out to something over the network or a subprocess and can..."
+  },
+  "1dc30a659f859af1": {
+    "file": "corpus/devto/dev_to_rolan_r_n_r_i-built-a-privacy-first-human-friendly-al_66332e7b25.md",
+    "source": "devto",
+    "title": "I Built a Privacy-First, Human-Friendly Alternative to Wireshark in Rust & Tauri 🚀",
+    "url": "https://dev.to/rolan_r_n_r/i-built-a-privacy-first-human-friendly-alternative-to-wireshark-in-rust-tauri-4p6i",
+    "keywords": [
+      "ever opened wireshark",
+      "tauri 🚀",
+      "tauri 🚀",
+      "greeted ...",
+      "friendly alternative",
+      "friendly alternative",
+      "wireshark",
+      "wireshark",
+      "source",
+      "rust"
+    ],
+    "summary": "# I Built a Privacy-First, Human-Friendly Alternative to Wireshark in Rust & Tauri 🚀 > Source: devto | Category: news | 2026-08-10T14:48:17Z Have you ever opened Wireshark to figure out why your app is failing to connect, only to be greeted..."
+  },
+  "5a06300433cfeb55": {
+    "file": "corpus/devto/dev_to_wasifkhan111_why-does-unix-time-start-on-january-1-19_905903fe20.md",
+    "source": "devto",
+    "title": "Why Does Unix Time Start on January 1, 1970?",
+    "url": "https://dev.to/wasifkhan111/why-does-unix-time-start-on-january-1-1970-47g8",
+    "keywords": [
+      "unix time start",
+      "unix time start",
+      "1970 epoch —",
+      "time zones",
+      "january 1",
+      "january 1",
+      "counting seconds",
+      "1970",
+      "1970",
+      "source"
+    ],
+    "summary": "# Why Does Unix Time Start on January 1, 1970? > Source: devto | Category: news | 2026-08-10T14:48:19Z The real reason Bell Labs chose the 1970 epoch — and why counting seconds from a fixed zero point keeps time simple and free of time zones."
+  },
+  "4888d8e40be5fe1c": {
+    "file": "corpus/devto/dev_to_codejs_8314_build-a-personal-model-bake-off-testing-f_39ce9d6b3d.md",
+    "source": "devto",
+    "title": "Build a Personal Model Bake-Off: Testing Free AI Assistants on Your Real Bugs",
+    "url": "https://dev.to/codejs_8314/build-a-personal-model-bake-off-testing-free-ai-assistants-on-your-real-bugs-4abg",
+    "keywords": [
+      "testing free ai assistants",
+      "testing free ai assistants",
+      "comparison chart someone posted",
+      "ai coding tool based",
+      "personal model bake",
+      "personal model bake",
+      "19z last month",
+      "real bugs",
+      "real bugs",
+      "almost subscribed"
+    ],
+    "summary": "# Build a Personal Model Bake-Off: Testing Free AI Assistants on Your Real Bugs > Source: devto | Category: news | 2026-08-10T14:48:19Z Last month I almost subscribed to an AI coding tool based on a comparison chart someone posted."
+  },
+  "6194e7ce06291a26": {
+    "file": "corpus/devto/dev_to_victor_azubuike_cbe29672b_h100-vs-h200-vs-b200-how-to_d15f38e0b1.md",
+    "source": "devto",
+    "title": "H100 vs H200 vs B200: How to Choose a GPU for AI Workloads in 2026",
+    "url": "https://dev.to/victor_azubuike_cbe29672b/h100-vs-h200-vs-b200-how-to-choose-a-gpu-for-ai-workloads-in-2026-4410",
+    "keywords": [
+      "becoming less straightforward",
+      "years ago",
+      "question ...",
+      "ai workloads",
+      "ai workloads",
+      "ai infrastructure",
+      "19z choosing",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# H100 vs H200 vs B200: How to Choose a GPU for AI Workloads in 2026 Choosing a GPU for AI infrastructure is becoming less straightforward. A few years ago, the question..."
+  },
+  "7c07c8300edd24b9": {
+    "file": "corpus/devto/dev_to_leonadato_punchline-or-gut-punch-4ngc_62964e55a2.md",
+    "source": "devto",
+    "title": "Punchline, or Gut-Punch?",
+    "url": "https://dev.to/leonadato/punchline-or-gut-punch-4ngc",
+    "keywords": [
+      "closing keynote talk ...",
+      "also humbled",
+      "source",
+      "reactions",
+      "punchline",
+      "punchline",
+      "punch",
+      "punch",
+      "news",
+      "gut"
+    ],
+    "summary": "# Punchline, or Gut-Punch? > Source: devto | Category: news | 2026-08-10T14:48:15Z I was excited and also humbled to be given the chance to deliver the closing keynote talk..."
+  },
+  "2afd7d1fefd09740": {
+    "file": "corpus/devto/dev_to_joduchan_most-of-a-test-phones-carbon-is-emitted-befo_52dccfd048.md",
+    "source": "devto",
+    "title": "Most of a test phone's carbon is emitted before the first test runs",
+    "url": "https://dev.to/joduchan/most-of-a-test-phones-carbon-is-emitted-before-the-first-test-runs-lmn",
+    "keywords": [
+      "first test runs",
+      "first test runs",
+      "test phone",
+      "test phone",
+      "two iphones",
+      "mobile teams",
+      "fourteen phones",
+      "source",
+      "reactions",
+      "offices"
+    ],
+    "summary": "# Most of a test phone's carbon is emitted before the first test runs There is a drawer in most mobile teams' offices. Mine had fourteen phones in it."
+  },
+  "4d332a7e0f1ab585": {
+    "file": "corpus/devto/dev_to_dengyier_when-your-ai-agent-passes-2283-tests-and-sti_d7bcd9161d.md",
+    "source": "devto",
+    "title": "When Your AI Agent Passes 2,283 Tests — And Still Fails in Production",
+    "url": "https://dev.to/dengyier/when-your-ai-agent-passes-2283-tests-and-still-fails-in-production-2dga",
+    "keywords": [
+      "ai agent passes 2",
+      "ai agent passes 2",
+      "283 tests —",
+      "283 tests —",
+      "world production bug",
+      "still fails",
+      "still fails",
+      "design insight",
+      "cryptographic ...",
+      "production"
+    ],
+    "summary": "# When Your AI Agent Passes 2,283 Tests — And Still Fails in Production > Source: devto | Category: news | 2026-08-10T14:48:15Z A real-world production bug, a protocol-design insight from the community, and why cryptographic..."
+  },
+  "8470a60410d5729a": {
+    "file": "corpus/devto/dev_to_themdmohiuddin_pull-requests-code-reviews-git-rebase-_098fcc1901.md",
+    "source": "devto",
+    "title": "Pull Requests, Code Reviews & Git Rebase",
+    "url": "https://dev.to/themdmohiuddin/pull-requests-code-reviews-git-rebase-5fe1",
+    "keywords": [
+      "already learned git commits",
+      "git rebase",
+      "git rebase",
+      "pull requests",
+      "pull requests",
+      "code reviews",
+      "code reviews",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Pull Requests, Code Reviews & Git Rebase > Source: devto | Category: news | 2026-08-10T14:48:19Z If you've already learned Git commits, branching, and merging, you've mastered the mechanics of..."
+  },
+  "1cdee70987268b00": {
+    "file": "corpus/devto/dev_to_brennhill_how-to-build-a-good-human-in-the-loop-for-b_4b0926f4c6.md",
+    "source": "devto",
+    "title": "How to Build a Good Human-in-the-Loop for Browser & Computer-Use Agents",
+    "url": "https://dev.to/brennhill/how-to-build-a-good-human-in-the-loop-for-browser-computer-use-agents-5cme",
+    "keywords": [
+      "person … reactions",
+      "dangerous actions impossible",
+      "use agents",
+      "use agents",
+      "trivially reversible",
+      "good human",
+      "good human",
+      "good human",
+      "browser agents",
+      "browser"
+    ],
+    "summary": "# How to Build a Good Human-in-the-Loop for Browser & Computer-Use Agents > Source: devto | Category: news | 2026-08-10T14:48:15Z A good human in the loop for browser agents is a set of controls that make the dangerous actions impossible or trivially reversible, not a person…"
+  },
+  "138bd4ce01fd7049": {
+    "file": "corpus/devto/dev_to_codejs_6920_what-breaks-first-when-you-swap-a-local-c_d459c23293.md",
+    "source": "devto",
+    "title": "What Breaks First When You Swap a Local Coding Model for a Free Hosted One? A Failure-Mode Probe Suite",
+    "url": "https://dev.to/codejs_6920/what-breaks-first-when-you-swap-a-local-coding-model-for-a-free-hosted-one-a-failure-mode-probe-1he6",
+    "keywords": [
+      "15z liquid syntax error",
+      "mode probe suite",
+      "mode probe suite",
+      "local coding model",
+      "local coding model",
+      "free hosted one",
+      "free hosted one",
+      "unknown tag",
+      "breaks first",
+      "breaks first"
+    ],
+    "summary": "# What Breaks First When You Swap a Local Coding Model for a Free Hosted One? > Source: devto | Category: news | 2026-08-10T14:48:15Z Liquid syntax error: Unknown tag 'endraw'"
+  },
+  "5f7a0556195f05de": {
+    "file": "corpus/devto/dev_to_canro91_dont-just-be-a-coder-be-a-street-smart-coder-_2a5b0b0b03.md",
+    "source": "devto",
+    "title": "Don't Just Be a Coder. Be a Street-Smart Coder Instead",
+    "url": "https://dev.to/canro91/dont-just-be-a-coder-be-a-street-smart-coder-instead-plg",
+    "keywords": [
+      "smart coding manifesto",
+      "smart coder instead",
+      "smart coder instead",
+      "coding trilogy",
+      "coder",
+      "coder",
+      "wrote",
+      "street",
+      "street",
+      "street"
+    ],
+    "summary": "# Don't Just Be a Coder. Be a Street-Smart Coder Instead For Street-Smart Coding Manifesto, the prequel of my coding trilogy, I wrote what being a..."
+  },
+  "fc65cce99d78e8d8": {
+    "file": "corpus/devto/dev_to_datacpp_8185_dont-trust-the-demo-a-repeatable-test-ha_882b952741.md",
+    "source": "devto",
+    "title": "Don't Trust the Demo: A Repeatable Test Harness for Evaluating Free AI Coding Models",
+    "url": "https://dev.to/datacpp_8185/dont-trust-the-demo-a-repeatable-test-harness-for-evaluating-free-ai-coding-models-33de",
+    "keywords": [
+      "new coding model shows",
+      "watch someone ...",
+      "repeatable test harness",
+      "repeatable test harness",
+      "19z every",
+      "polished demo",
+      "every",
+      "demo",
+      "demo",
+      "weeks"
+    ],
+    "summary": "# Don't Trust the Demo: A Repeatable Test Harness for Evaluating Free AI Coding Models > Source: devto | Category: news | 2026-08-10T14:48:19Z Every few weeks a new coding model shows up with a polished demo, and every few weeks I watch someone..."
+  },
+  "defba5dbd735b6ec": {
+    "file": "corpus/devto/dev_to_artificial_wasteland_three-checks-in-our-codebase-tha_298cff0158.md",
+    "source": "devto",
+    "title": "Three checks in our codebase that could not fail",
+    "url": "https://dev.to/artificial_wasteland/three-checks-in-our-codebase-that-could-not-fail-4e3l",
+    "keywords": [
+      "estimator whose bound",
+      "wide enough",
+      "verifier holding",
+      "pinned pass",
+      "assertion count",
+      "actually caught",
+      "three checks",
+      "three checks",
+      "checks",
+      "source"
+    ],
+    "summary": "# Three checks in our codebase that could not fail > Source: devto | Category: news | 2026-08-10T14:48:15Z A verifier holding its own copy of the rule it checks, a pinned PASS that only asserted the assertion count, and an estimator whose bound was wide enough to contain any answer."
+  },
+  "eb6fbbd11a2e9f25": {
+    "file": "corpus/devto/dev_to_earnestamateur_i-handed-my-backlog-to-an-agent-fleet-_4920fd8e7e.md",
+    "source": "devto",
+    "title": "I handed my backlog to an agent fleet for ten days. Three of its safeguards were lying to me.",
+    "url": "https://dev.to/earnestamateur/i-handed-my-backlog-to-an-agent-fleet-for-ten-days-three-of-its-safeguards-were-lying-to-me-4hg4",
+    "keywords": [
+      "two year ...",
+      "ten days",
+      "ten days",
+      "agent fleet",
+      "agent fleet",
+      "three",
+      "three",
+      "source",
+      "safeguards",
+      "safeguards"
+    ],
+    "summary": "# I handed my backlog to an agent fleet for ten days. Three of its safeguards were lying to me. I also have a job between eight and five, a two year..."
+  },
+  "c5cfd9b4d2982c00": {
+    "file": "corpus/devto/dev_to_codepro_3283_a-preflight-harness-for-tool-using-codin_1ce08028fc.md",
+    "source": "devto",
+    "title": "A Preflight Harness for Tool-Using Coding Agents",
+    "url": "https://dev.to/codepro_3283/a-preflight-harness-for-tool-using-coding-agents-4f1l",
+    "keywords": [
+      "using coding agents",
+      "using coding agents",
+      "coding assistant",
+      "smarter ...",
+      "preflight harness",
+      "preflight harness",
+      "install tools",
+      "tool",
+      "tool",
+      "source"
+    ],
+    "summary": "# A Preflight Harness for Tool-Using Coding Agents > Source: devto | Category: news | 2026-08-10T14:48:19Z A coding assistant with shell, file, HTTP, or package-install tools is not just a smarter..."
+  },
+  "b01310d3099dce8a": {
+    "file": "corpus/devto/dev_to_devrs_9381_a-reproducible-harness-for-evaluating-free_255269d474.md",
+    "source": "devto",
+    "title": "A Reproducible Harness for Evaluating Free AI Coding Models on Your Own Codebase",
+    "url": "https://dev.to/devrs_9381/a-reproducible-harness-for-evaluating-free-ai-coding-models-on-your-own-codebase-1mgk",
+    "keywords": [
+      "ai coding model",
+      "use ?\"",
+      "someone else",
+      "someone else",
+      "reproducible harness",
+      "reproducible harness",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# A Reproducible Harness for Evaluating Free AI Coding Models on Your Own Codebase > Source: devto | Category: news | 2026-08-10T14:48:19Z Most \"which AI coding model should I use?\""
+  },
+  "46af90b8709b8b70": {
+    "file": "corpus/devto/dev_to_turalmu95150474_head-of-line-blocking-in-http-4mn2_90f1862b33.md",
+    "source": "devto",
+    "title": "Head-of-Line Blocking in HTTP",
+    "url": "https://dev.to/turalmu95150474/head-of-line-blocking-in-http-4mn2",
+    "keywords": [
+      "still serializing work ...",
+      "handle many connections concurrently",
+      "line blocking",
+      "line blocking",
+      "1 server",
+      "asynchronous http",
+      "http",
+      "http",
+      "source"
+    ],
+    "summary": "# Head-of-Line Blocking in HTTP > Source: devto | Category: news | 2026-08-10T14:48:17Z An asynchronous HTTP/1.1 server can handle many connections concurrently while still serializing work..."
+  },
+  "b074be3090ea47eb": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_i-ran-claude-p-for-one-commit-message-m_c4ea685a6a.md",
+    "source": "devto",
+    "title": "I Ran `claude -p` for One Commit Message. My Whole CLAUDE.md Came Along Uninvited.",
+    "url": "https://dev.to/enjoy_kumawat/i-ran-claude-p-for-one-commit-message-my-whole-claudemd-came-along-uninvited-3kb2",
+    "keywords": [
+      "md came along uninvited",
+      "md came along uninvited",
+      "line script called git_commit",
+      "one commit message",
+      "one commit message",
+      "whole claude",
+      "whole claude",
+      "p ...",
+      "claude",
+      "claude"
+    ],
+    "summary": "# I Ran `claude -p` for One Commit Message. My Whole CLAUDE.md Came Along Uninvited. I have a 20-line script called git_commit.py that reads git diff --staged and shells out to claude -p..."
+  },
+  "d2b9085e224f8d4a": {
+    "file": "corpus/devto/dev_to_hemapriya_kanagala_what-would-you-tell-someone-early-_234531ff26.md",
+    "source": "devto",
+    "title": "What Would You Tell Someone Early in Their Career?",
+    "url": "https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76",
+    "keywords": [
+      "19z 📌 tl",
+      "tell someone early",
+      "tell someone early",
+      "still early",
+      "much advice",
+      "would",
+      "would",
+      "thinking",
+      "source",
+      "reactions"
+    ],
+    "summary": "# What Would You Tell Someone Early in Their Career? > Source: devto | Category: news | 2026-08-10T14:48:19Z 📌 TL;DR  I'm still early in my own career, and lately I've been thinking about how much advice we..."
+  },
+  "8b6e9b2ec3c2039b": {
+    "file": "corpus/ai-research/openai_com_index_responsible-ai-infrastructure-texas_3d196224ab.md",
+    "source": "ai-research",
+    "title": "[openai-blog] OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "keywords": [
+      "responsible ai infrastructure",
+      "responsible ai infrastructure",
+      "responsible ai infrastructure",
+      "responsible ai infrastructure",
+      "letter supports reliable",
+      "05z openai ’",
+      "openai ’",
+      "openai ’",
+      "transparent growth",
+      "governor abbott"
+    ],
+    "summary": "# [openai-blog] OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas."
+  },
+  "bd920c228fef5b23": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-sonicwall-sma100_1b13f7171c.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+    "keywords": [
+      "sonicwall sma1000 flaws",
+      "sonicwall sma1000 flaws",
+      "sonicwall sma1000 flaws",
+      "side request forgery",
+      "ransomware gangs cisa",
+      "ransomware gangs",
+      "ransomware gangs",
+      "ransomware gangs",
+      "severity server",
+      "08z cisa"
+    ],
+    "summary": "# [bleeping-comp] CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw."
+  },
+  "bca5b0505c416ae6": {
+    "file": "corpus/security/thehackernews_com_2026_08_kimsuky-builds-offline-ai-stack-th_e4cbe4f1c2.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+    "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+    "keywords": [
+      "begun running artificial intelligence",
+      "software parts needed",
+      "main espionage groups",
+      "automate malware development",
+      "automate malware development",
+      "type prompts",
+      "state hackers",
+      "search tools",
+      "public chatbots",
+      "longer content"
+    ],
+    "summary": "# [hacker-news-sec] Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development North Korea's state hackers are no longer content to type prompts into public chatbots."
+  },
+  "d1c03ba17ab6e5c1": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_when-credentials-are-_b02e825d52.md",
+    "source": "security",
+    "title": "[bleeping-comp] When Credentials Are No Longer Enough: Device Trust in the AI Era",
+    "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+    "keywords": [
+      "increasingly adding device trust",
+      "social engineering faster",
+      "geolocation become easier",
+      "zero trust strategies",
+      "traditional trust signals",
+      "ai era ai",
+      "device trust",
+      "device trust",
+      "device trust",
+      "ai era"
+    ],
+    "summary": "# [bleeping-comp] When Credentials Are No Longer Enough: Device Trust in the AI Era When Credentials Are No Longer Enough: Device Trust in the AI Era AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass."
+  },
+  "fc52f0218f942ba4": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_jep401-value-objects-preview_utm__d49cda3fde.md",
+    "source": "engineering",
+    "title": "[infoq] Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects",
+    "url": "https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "reduce memory allocation costs",
+      "jep 401 redefines ==",
+      "jep 401 redefines ==",
+      "jep 401 redefines ==",
+      "java objects jep 401",
+      "requires specific configuration",
+      "introduces value objects",
+      "06z project valhalla",
+      "java objects",
+      "java objects"
+    ],
+    "summary": "# [infoq] Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects It aims to enhance efficiency and reduce memory allocation costs."
+  },
+  "4889e0e9d2e2e0cd": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_canva-session-revocation-scale_ut_644dde90b2.md",
+    "source": "engineering",
+    "title": "[infoq] Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions",
+    "url": "https://www.infoq.com/news/2026/08/canva-session-revocation-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "design improved deployment speed",
+      "architecture uses amazon s3",
+      "session revocation across hundreds",
+      "session revocation across hundreds",
+      "session revocation across hundreds",
+      "reduced database infrastructure requirements",
+      "revocation cache memory footprint",
+      "support 100m active sessions",
+      "durable revocation records",
+      "reducing database lookups"
+    ],
+    "summary": "Canva redesigned session revocation infrastructure to support 100M active sessions while reducing database lookups. The architecture uses Amazon S3 for durable revocation records and distributes compact, in-memory indexes to application gateways. Canva said the design improved deployment speed, reduced database infrastructure requirements, and cut the revocation cache memory footprint by 87.5%."
+  },
+  "d77f938c027df18f": {
+    "file": "corpus/hackernews/www_economist_com_finance-and-economics_2026_08_09_china-is-_7d62028409.md",
+    "source": "hackernews",
+    "title": "China is now the world's greatest oil power",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power",
+    "keywords": [
+      "greatest oil power",
+      "greatest oil power",
+      "10z score",
+      "world",
+      "world",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "china"
+    ],
+    "summary": "# China is now the world's greatest oil power > Source: hackernews | Category: news | 2026-08-10T14:48:10Z Score: 21 | Comments: 2"
+  },
+  "7b86b1fe15195e36": {
+    "file": "corpus/hackernews/www_ft_com_content_4e3957f8-ea7c-4c46-a3de-cdce8e526878_b4c0bfda42.md",
+    "source": "hackernews",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "keywords": [
+      "mark zuckerberg attacks",
+      "mark zuckerberg attacks",
+      "open models",
+      "open models",
+      "meta returns",
+      "meta returns",
+      "ai rivals",
+      "ai rivals",
+      "08z score",
+      "source"
+    ],
+    "summary": "# Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models > Source: hackernews | Category: news | 2026-08-10T14:48:08Z Score: 13 | Comments: 6"
+  },
+  "5e849ce579687483": {
+    "file": "corpus/hackernews/www_meta_com_thefutureisforeveryone_389f679924.md",
+    "source": "hackernews",
+    "title": "The Future Is for Everyone – The Path to a Positive AI Future",
+    "url": "https://www.meta.com/thefutureisforeveryone/",
+    "keywords": [
+      "positive ai future",
+      "positive ai future",
+      "everyone –",
+      "everyone –",
+      "11z score",
+      "future",
+      "future",
+      "source",
+      "path",
+      "path"
+    ],
+    "summary": "# The Future Is for Everyone – The Path to a Positive AI Future > Source: hackernews | Category: news | 2026-08-10T14:48:11Z Score: 13 | Comments: 3"
+  },
+  "6a4a65fd0c2a192d": {
+    "file": "corpus/hackernews/github_com_mrblakessinger-rgb_qec-evaluation-suite_0eade21a77.md",
+    "source": "hackernews",
+    "title": "Open QEC harness – greedy vs. GE, uniform vs. clustered k=4",
+    "url": "https://github.com/mrblakessinger-rgb/qec-evaluation-suite",
+    "keywords": [
+      "uniform vs",
+      "uniform vs",
+      "clustered k",
+      "clustered k",
+      "09z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Open QEC harness – greedy vs. GE, uniform vs. clustered k=4 > Source: hackernews | Category: news | 2026-08-10T14:48:09Z Score: 4 | Comments: 0"
+  },
+  "88185f136a6d9336": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_cpvw8vmmgrwo_f251cdd5a1.md",
+    "source": "hackernews",
+    "title": "Ocean heat records broken as hottest July temperature recorded",
+    "url": "https://www.bbc.com/news/articles/cpvw8vmmgrwo",
+    "keywords": [
+      "ocean heat records broken",
+      "ocean heat records broken",
+      "hottest july temperature recorded",
+      "hottest july temperature recorded",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Ocean heat records broken as hottest July temperature recorded > Source: hackernews | Category: news | 2026-08-10T14:48:15Z Score: 14 | Comments: 1"
+  },
+  "56ed13417f52303e": {
+    "file": "corpus/sales/www_saastr_com_how-mailchimp-went-from-1b-arr-and-20-growth-_bac7df0291.md",
+    "source": "sales",
+    "title": "[saastr] How Mailchimp Went From $1B+ ARR to … Shrinking Inside Intuit. A Death Spiral in the Age of AI?",
+    "url": "https://www.saastr.com/how-mailchimp-went-from-1b-arr-and-20-growth-to-shrinking-inside-intuit/",
+    "keywords": [
+      "… shrinking inside intuit",
+      "… shrinking inside intuit",
+      "… shrinking inside intuit",
+      "parent publishes growth figures",
+      "new apps get built",
+      "doug dennison &# 8217",
+      "dennison founded mailninja",
+      "mailchimp .&# 8221",
+      "&# 8217",
+      "&# 8220"
+    ],
+    "summary": "# [saastr] How Mailchimp Went From $1B+ ARR to … Shrinking Inside Intuit. A product that won by doing one thing perfectly spent seven years becoming several. Now its parent publishes growth figures with it removed, and the platforms where new apps get built don&#8217;t list it at all."
+  },
+  "4a0eb01bb8dffdc0": {
+    "file": "corpus/business/sequoiacap_com_article_partnering-with-corma-closing-the-def_209c527612.md",
+    "source": "business",
+    "title": "[sequoia] Partnering with Corma: Closing the Defensive Cybersecurity Gap",
+    "url": "https://sequoiacap.com/article/partnering-with-corma-closing-the-defensive-cybersecurity-gap/",
+    "keywords": [
+      "defensive cybersecurity gap",
+      "defensive cybersecurity gap",
+      "defensive cybersecurity gap",
+      "post partnering",
+      "08z partnering",
+      "sequoia capital",
+      "partnering",
+      "partnering",
+      "sequoia",
+      "sequoia"
+    ],
+    "summary": "# [sequoia] Partnering with Corma: Closing the Defensive Cybersecurity Gap Partnering with Corma: Closing the Defensive Cybersecurity Gap The post  Partnering with Corma: Closing the Defensive Cybersecurity Gap  appeared first on  Sequoia Capital ."
+  },
+  "ec987adcc28ab8ce": {
+    "file": "corpus/devops/devops_com_ten-great-devops-job-opportunities-18_6684a218c5.md",
+    "source": "devops",
+    "title": "[devops-com] Ten Great DevOps Job Opportunities",
+    "url": "https://devops.com/ten-great-devops-job-opportunities-18/",
+    "keywords": [
+      "weekly devops jobs report",
+      "challenging economic times",
+      "[&# 8230 ;]",
+      "much easier",
+      "better serve",
+      "devops professionals",
+      "devops professionals",
+      "devops",
+      "devops",
+      "devops"
+    ],
+    "summary": "# [devops-com] Ten Great DevOps Job Opportunities DevOps.com is now providing a weekly DevOps jobs report through which opportunities for DevOps professionals will be highlighted as part of an effort to better serve our audience. Our goal in these challenging economic times is to make it just that much easier for DevOps professionals to advance their careers."
   }
 }
