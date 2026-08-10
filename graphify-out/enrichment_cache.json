@@ -387193,5 +387193,269 @@
       "newest open model"
     ],
     "summary": "It's a 30B multimodal model purpose-built for agent workloads that run locally. > Note: Muse Glimmer is currently supported via Ollama's MLX engine on Apple Silicon. Support for NVIDIA, AMD, and other platforms will be available shortly."
+  },
+  "29d0d9b55fac52f3": {
+    "file": "corpus/finance/news_crunchbase_com_venture_global-unicorn-counts-rise-ai-ro_4466aae0b6.md",
+    "source": "finance",
+    "title": "[crunchbase] Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
+    "url": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
+    "keywords": [
+      "global new unicorn counts",
+      "global new unicorn counts",
+      "total 195 companies joined",
+      "already surpassed 2025 ’",
+      "already surpassed 2025 ’",
+      "already surpassed 2025 ’",
+      "new unicorn totals",
+      "crunchbase unicorn board",
+      "193 companies",
+      "second half"
+    ],
+    "summary": "# [crunchbase] Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals Already, H1 is above the new unicorn totals for all of 2025, when 193 companies were minted with that status."
+  },
+  "4c58c9e3b3d1ceb6": {
+    "file": "corpus/finance/news_crunchbase_com_public_ai-ipo-results-lp-liquidity-gersh_46aa02b234.md",
+    "source": "finance",
+    "title": "[crunchbase] The Biggest Consequence Of An AI IPO Isn’t The IPO Itself. It’s What Happens Afterward.",
+    "url": "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/",
+    "keywords": [
+      "simply affecting public",
+      "established vc firms",
+      "could reshape fundraising",
+      "venture ecosystem",
+      "startup financing",
+      "power across",
+      "market valuations",
+      "limited partners",
+      "happens afterward",
+      "happens afterward"
+    ],
+    "summary": "# [crunchbase] The Biggest Consequence Of An AI IPO Isn’t The IPO Itself. A wave of major AI IPOs could return significant liquidity to limited partners, fueling a new venture fundraising cycle rather than simply affecting public-market valuations. That capital is likely to flow disproportionately to the largest, established VC firms, writes guest author Andrew Gershfeld of Flint Capital, creating a concentration flywheel that could reshape fundraising, startup financing and power across the ven"
+  },
+  "838dc56149d76d0a": {
+    "file": "corpus/devto/dev_to_silentcarry_phase-7b-bolting-on-the-ai-an-llmcategori_d3f246db2d.md",
+    "source": "devto",
+    "title": "Phase 7b — Bolting On the AI: An LLMCategorizer Behind the Same Door (with Caching, a Fallback, and Six Model Names)",
+    "url": "https://dev.to/silentcarry/phase-7b-bolting-on-the-ai-an-llmcategorizer-behind-the-same-door-with-caching-a-fallback-and-45n6",
+    "keywords": [
+      "phase 7b — bolting",
+      "phase 7b — bolting",
+      "phase 7a finally earned",
+      "six model names",
+      "six model names",
+      "llmcategorizer behind",
+      "llmcategorizer behind",
+      "backed categorizer",
+      "source",
+      "seam"
+    ],
+    "summary": "# Phase 7b — Bolting On the AI: An LLMCategorizer Behind the Same Door (with Caching, a Fallback, and Six Model Names) The seam I built in Phase 7a finally earned its keep. I dropped a Gemini-backed categorizer in..."
+  },
+  "589ca711c0f91f83": {
+    "file": "corpus/devto/dev_to_prince_panchani_f971a20ec_the-2-am-fridge-a-landing-p_09ffa62dc5.md",
+    "source": "devto",
+    "title": "The 2 A.M. Fridge: A Landing Page With Exactly One Light Source",
+    "url": "https://dev.to/prince_panchani_f971a20ec/the-2-am-fridge-a-landing-page-with-exactly-one-light-source-297c",
+    "keywords": [
+      "exactly one light source",
+      "exactly one light source",
+      "comfort food edition",
+      "perfect landing 🍕",
+      "landing page",
+      "landing page",
+      "frontend challenge",
+      "source",
+      "submission",
+      "reactions"
+    ],
+    "summary": "# The 2 A.M. Fridge: A Landing Page With Exactly One Light Source > Source: devto | Category: news | 2026-08-10T11:38:23Z This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           🍕 What..."
+  },
+  "af5731b758e77edf": {
+    "file": "corpus/devto/dev_to_aws-builders_same-aws-error-two-answers-i-built-a-too_a0d163cb40.md",
+    "source": "devto",
+    "title": "Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM",
+    "url": "https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6",
+    "keywords": [
+      "two answers",
+      "two answers",
+      "stops guessing",
+      "stops guessing",
+      "every time",
+      "aws error",
+      "aws error",
+      "aws",
+      "tool",
+      "tool"
+    ],
+    "summary": "# Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM Ciao Amici 👋  Let me start with a confession. Every time I hit an AccessDenied in AWS, I do the same..."
+  },
+  "3e4eb97e57c7112f": {
+    "file": "corpus/devto/dev_to_axfab_why-i-built-my-own-local-database-for-my-nodejs_3eaef5d3d3.md",
+    "source": "devto",
+    "title": "Why I Built My Own Local Database for My Node.js Prototypes",
+    "url": "https://dev.to/axfab/why-i-built-my-own-local-database-for-my-nodejs-prototypes-5di4",
+    "keywords": [
+      "small personal tools",
+      "probably never ship",
+      "local utilities :...",
+      "local database",
+      "local database",
+      "js prototypes",
+      "js prototypes",
+      "prototypes",
+      "things",
+      "source"
+    ],
+    "summary": "# Why I Built My Own Local Database for My Node.js Prototypes I build a lot of things I'll probably never ship. Small personal tools, prototypes, local utilities:..."
+  },
+  "e56664aaab67b9ca": {
+    "file": "corpus/devto/dev_to_gnomeman4201_back-to-basics-what-a-forensic-investiga_b930f6a380.md",
+    "source": "devto",
+    "title": "Back to Basics: What a Forensic Investigation Can Prove — and What It Can’t",
+    "url": "https://dev.to/gnomeman4201/back-to-basics-what-a-forensic-investigation-can-prove-and-what-it-cant-1d1n",
+    "keywords": [
+      "prove —",
+      "prove —",
+      "forensic investigations",
+      "forensic investigation",
+      "forensic investigation",
+      "going back",
+      "back",
+      "back"
+    ],
+    "summary": "# Back to Basics: What a Forensic Investigation Can Prove — and What It Can’t This post is going back to the basics in forensic investigations. Not because the basics are..."
+  },
+  "2050fc7d93624cec": {
+    "file": "corpus/devto/dev_to_diegomoreira_shipping-whatsapp-cloud-api-to-productio_9ff9b66dad.md",
+    "source": "devto",
+    "title": "Shipping WhatsApp Cloud API to production: the gotchas the docs don't tell you",
+    "url": "https://dev.to/diegomoreira/shipping-whatsapp-cloud-api-to-production-the-gotchas-the-docs-dont-tell-you-47e6",
+    "keywords": [
+      "shipping whatsapp cloud api",
+      "shipping whatsapp cloud api",
+      "whatsapp cloud api",
+      "small ...",
+      "recently built",
+      "notification channel",
+      "top",
+      "tell",
+      "tell",
+      "source"
+    ],
+    "summary": "# Shipping WhatsApp Cloud API to production: the gotchas the docs don't tell you > Source: devto | Category: news | 2026-08-10T11:38:22Z I recently built a proactive-notification channel on top of the WhatsApp Cloud API for a small..."
+  },
+  "a4f78fec7ece78e6": {
+    "file": "corpus/devto/dev_to_hernanz_absorber-les-50-de-lapi-claude-sans-couper-un_05756e56ad.md",
+    "source": "devto",
+    "title": "Absorber les +50 % de l'API Claude sans couper une feature",
+    "url": "https://dev.to/hernanz/absorber-les-50-de-lapi-claude-sans-couper-une-feature-4nj",
+    "keywords": [
+      "le million de tokens",
+      "de l",
+      "de l",
+      "absorber les",
+      "absorber les",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Absorber les +50 % de l'API Claude sans couper une feature > Source: devto | Category: news | 2026-08-10T11:38:24Z Comment le prompt caching et le batch encaissent la hausse — code Python, calcul de facture et pièges réels."
+  },
+  "0b8379129d88a248": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_python-now-has-a-post_32f8cb1e53.md",
+    "source": "security",
+    "title": "[schneier] Python Now Has a Post-Quantum Encryption Library",
+    "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
+    "keywords": [
+      "systems crypto agile",
+      "sovereign tech agency",
+      "quantum encryption library",
+      "quantum encryption library",
+      "quantum encryption library",
+      "entire python ecosystem",
+      "quantum cryptography",
+      "standard key",
+      "standard digital",
+      "signature primitive"
+    ],
+    "summary": "# [schneier] Python Now Has a Post-Quantum Encryption Library Remember, the reason to do this now is because there&#8217;s no emergency. And because you will make your systems crypto agile, which is always a good idea."
+  },
+  "e78873bb9ca5d695": {
+    "file": "corpus/engineering/www_infoq_com_articles_system-comprehension-evolutionary-arc_b98255b50f.md",
+    "source": "engineering",
+    "title": "[infoq] Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely",
+    "url": "https://www.infoq.com/articles/system-comprehension-evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "understood cannot evolve safely",
+      "understood cannot evolve safely",
+      "understood cannot evolve safely",
+      "ai commoditizes code output",
+      "threatens safe architectural evolution",
+      "system comprehension silently decays",
+      "offering actionable strategies",
+      "human understanding must",
+      "creating cognitive debt",
+      "essential architectural characteristic"
+    ],
+    "summary": "As AI commoditizes code output, system comprehension silently decays, creating cognitive debt that threatens safe architectural evolution. This article explores why human understanding must be treated as an essential architectural characteristic, offering actionable strategies, socio-technical metrics, and design checkpoints to preserve intent across modern engineering teams. By Jacobus Meintjes, Narayana Rengaswamy, Paul Katsande, Sureshbabu Bikki"
+  },
+  "216640c34b3c2e7d": {
+    "file": "corpus/hackernews/coldcard_rip_9fb240df72.md",
+    "source": "hackernews",
+    "title": "COLDCARD's Random Numbers Weren't",
+    "url": "https://coldcard.rip/",
+    "keywords": [
+      "random numbers",
+      "random numbers",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "coldcard",
+      "coldcard",
+      "category"
+    ],
+    "summary": "# COLDCARD's Random Numbers Weren't > Source: hackernews | Category: news | 2026-08-10T11:38:15Z Score: 3 | Comments: 0"
+  },
+  "8a691a1c49b7c1b8": {
+    "file": "corpus/hackernews/twitter_com_finkd_status_2086754845218726027_97fe86f759.md",
+    "source": "hackernews",
+    "title": "Meta's new open-weight model targets local agentic AI",
+    "url": "https://twitter.com/finkd/status/2086754845218726027",
+    "keywords": [
+      "new open",
+      "new open",
+      "18z score",
+      "source",
+      "news",
+      "meta",
+      "meta",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Meta's new open-weight model targets local agentic AI > Source: hackernews | Category: news | 2026-08-10T11:38:18Z Score: 11 | Comments: 1"
+  },
+  "1b00cfe464f628bf": {
+    "file": "corpus/podcast/syntax_fm_1028_c44be1bf85.md",
+    "source": "podcast",
+    "title": "[syntax-fm] 1028: Cloudflare Wallets",
+    "url": "https://syntax.fm/1028",
+    "keywords": [
+      "x instagram youtube threads",
+      "unhealthy ai usage 48",
+      "js dominic gannaway ’",
+      "new npm malware scanning",
+      "vue vapor benchmarks",
+      "ui libraries foley",
+      "rendering benchmark 27",
+      "58 qwen 3",
+      "19 scott switched",
+      "show notes 00"
+    ],
+    "summary": "Cloudflare is rolling out crypto wallets with claimable handles as identity, and a real React compiler finally landed for regular hooks-based code. Plus: OpenAI's pricing war, Vue Vapor benchmarks, GitHub's new npm malware scanning, and an active supply chain attack hitting 868 packages. 05:27 GitHub scans your npm packages for malware"
   }
 }
