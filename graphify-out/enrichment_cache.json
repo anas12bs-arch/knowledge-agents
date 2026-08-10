@@ -387064,5 +387064,134 @@
       "category"
     ],
     "summary": "# Hetzner Experiments Platform: Inference API > Source: hackernews | Category: news | 2026-08-10T09:53:27Z Score: 9 | Comments: 4"
+  },
+  "f40b89105ac26715": {
+    "file": "corpus/ai-research/huggingface_co_blog_MultiverseComputingCAI_efficient-knowled_815edfe638.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "keywords": [
+      "source",
+      "scale",
+      "scale",
+      "scale",
+      "run",
+      "run",
+      "run",
+      "research",
+      "research"
+    ],
+    "summary": "# [hf-blog] Making Knowledge Distillation Cheap Enough to Run at Scale > Source: ai-research | Category: research | 2026-08-10T10:53:08Z Making Knowledge Distillation Cheap Enough to Run at Scale"
+  },
+  "dfe2a538748cc7fe": {
+    "file": "corpus/ai-research/huggingface_co_blog_muse-glimmer_dfb586131b.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "keywords": [
+      "muse glimmer",
+      "muse glimmer",
+      "muse glimmer",
+      "open source",
+      "open source",
+      "open source",
+      "08z meta",
+      "source",
+      "meta",
+      "meta"
+    ],
+    "summary": "# [hf-blog] Meta is back with Muse Glimmer: local, agentic, multimodal, and open source > Source: ai-research | Category: research | 2026-08-10T10:53:08Z Meta is back with Muse Glimmer: local, agentic, multimodal, and open source"
+  },
+  "aa8aaa8fa8195103": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_pinterest-secures-aws-infra_utm_c_d0774d510f.md",
+    "source": "engineering",
+    "title": "[infoq] How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline",
+    "url": "https://www.infoq.com/news/2026/08/pinterest-secures-aws-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "pinterest secures aws infrastructure",
+      "pinterest secures aws infrastructure",
+      "pinterest secures aws infrastructure",
+      "centralized terraform pipeline pinterest",
+      "centralized terraform pipeline",
+      "centralized terraform pipeline",
+      "terraform execution engine",
+      "resource provisioner pipeline",
+      "github actions workflows",
+      "adds strict guardrails"
+    ],
+    "summary": "# [infoq] How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline Pinterest has revealed the Resource Provisioner Pipeline (RPP), its own Terraform execution engine."
+  },
+  "8f14a1ce8d6e8cba": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_fow-LsdaH2E_6539f287da.md",
+    "source": "hackernews",
+    "title": "How Blackwing Pencils are Made [video]",
+    "url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+    "keywords": [
+      "blackwing pencils",
+      "blackwing pencils",
+      "08z score",
+      "video",
+      "video",
+      "source",
+      "news",
+      "made",
+      "made",
+      "hackernews"
+    ],
+    "summary": "# How Blackwing Pencils are Made [video] > Source: hackernews | Category: news | 2026-08-10T10:53:08Z Score: 8 | Comments: 0"
+  },
+  "3111a7c4ed2d6d45": {
+    "file": "corpus/hackernews/research_meta_ai_blog_introducing-muse-glimmer-open-agentic-_7c4c5b27f7.md",
+    "source": "hackernews",
+    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "keywords": [
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Meta Muse Glimmer – open weights 30B local coding model > Source: hackernews | Category: news | 2026-08-10T10:53:07Z Score: 34 | Comments: 7"
+  },
+  "7896788c7e7bf1e6": {
+    "file": "corpus/github-releases/github_com_huggingface_transformers_releases_tag_v5_15_0_c07a67b182.md",
+    "source": "github-releases",
+    "title": "huggingface/transformers v5.15.0 released",
+    "url": "https://github.com/huggingface/transformers/releases/tag/v5.15.0",
+    "keywords": [
+      "28b parameter text decoder",
+      "## breaking changes kernels",
+      "img width =\" 960",
+      "img width =\" 580",
+      "img width =\" 1280",
+      "img width =\" 1013",
+      "/> ** links :**",
+      "/> ** links :**",
+      "/> ** links :**",
+      "/> --- ### granitemoeswa"
+    ],
+    "summary": "Muse Glimmer, released today, is Meta’s new multimodal model, especially designed for agentic use cases. Kernels are now opt-in rather than mandatory for linear attention models (Mamba, GDN, Conv-only, etc. ), so users who relied on automatic kernel selection must explicitly enable kernels to maintain previous behavior."
+  },
+  "3c362beb17dcb214": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_7_fc56b4dc8d.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.7 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.7",
+    "keywords": [
+      "power coding agent applications",
+      "currently supported via ollama",
+      "mlx engine provides state",
+      "30b multimodal model purpose",
+      "run muse glimmer locally",
+      "weight coding agent",
+      "running personal assistants",
+      "personal assistant frameworks",
+      "meta superintelligence labs",
+      "newest open model"
+    ],
+    "summary": "It's a 30B multimodal model purpose-built for agent workloads that run locally. > Note: Muse Glimmer is currently supported via Ollama's MLX engine on Apple Silicon. Support for NVIDIA, AMD, and other platforms will be available shortly."
   }
 }
