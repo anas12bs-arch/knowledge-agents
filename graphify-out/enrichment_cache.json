@@ -385545,5 +385545,403 @@
       "category"
     ],
     "summary": "# How We Pushed CDC into Postgres > Source: hackernews | Category: news | 2026-08-10T02:27:03Z Score: 22 | Comments: 0"
+  },
+  "a791e2cce961de3b": {
+    "file": "corpus/devto/dev_to_thechrisin_software-longevity-how-to-design-systems-t_5e4c5ca964.md",
+    "source": "devto",
+    "title": "Software Longevity: How to Design Systems That Age Well",
+    "url": "https://dev.to/thechrisin/software-longevity-how-to-design-systems-that-age-well-2kda",
+    "keywords": [
+      "lived software depends",
+      "software longevity",
+      "software longevity",
+      "future maintainers",
+      "explicit trade",
+      "design systems",
+      "design systems",
+      "age well",
+      "age well",
+      "source"
+    ],
+    "summary": "# Software Longevity: How to Design Systems That Age Well > Source: devto | Category: news | 2026-08-10T04:12:44Z Why long-lived software depends on restraint, explicit trade-offs, and respect for future maintainers, not just correctness."
+  },
+  "f457221960846d21": {
+    "file": "corpus/devto/dev_to_darshan_dev_what-happens-when-you-type-a-url-in-the-b_f31f14747e.md",
+    "source": "devto",
+    "title": "What Happens When You Type a URL in the Browser?",
+    "url": "https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo",
+    "keywords": [
+      "https :// example",
+      "url",
+      "url",
+      "type",
+      "type",
+      "type",
+      "source",
+      "reactions",
+      "news",
+      "happens"
+    ],
+    "summary": "# What Happens When You Type a URL in the Browser? > Source: devto | Category: news | 2026-08-10T04:12:47Z You type:    https://example.com        Enter fullscreen mode            Exit fullscreen mode    ..."
+  },
+  "514cb25fc8e43124": {
+    "file": "corpus/devto/dev_to_tienbku_6-patterns-of-cache-3gmb_f4c7828335.md",
+    "source": "devto",
+    "title": "6 Patterns of Cache",
+    "url": "https://dev.to/tienbku/6-patterns-of-cache-3gmb",
+    "keywords": [
+      "complexity somewhere else",
+      "system faster",
+      "6 patterns",
+      "6 patterns",
+      "45z cache",
+      "cache",
+      "cache",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-10T04:12:45Z Cache Doesn't Make Your System Faster. It Just Moves the Complexity Somewhere Else."
+  },
+  "64df06c2ff98d0fc": {
+    "file": "corpus/devto/dev_to_arnavsharma2711_https-explained-what-the-padlock-actu_248a8cd617.md",
+    "source": "devto",
+    "title": "HTTPS Explained: What the Padlock Actually Protects",
+    "url": "https://dev.to/arnavsharma2711/https-explained-what-the-padlock-actually-protects-2he3",
+    "keywords": [
+      "padlock actually protects",
+      "padlock actually protects",
+      "little padlock",
+      "safe .\"",
+      "people think",
+      "https explained",
+      "https explained",
+      "address bar",
+      "source",
+      "site"
+    ],
+    "summary": "# HTTPS Explained: What the Padlock Actually Protects That little padlock in your browser's address bar? Most people think it means \"this site is safe.\""
+  },
+  "72651d8bb17a7fa7": {
+    "file": "corpus/devto/dev_to_saint-ij_full-stack-developer-or-full-stack-engineer-_843da0b0a0.md",
+    "source": "devto",
+    "title": "Full Stack Developer or Full Stack Engineer: What Should You Call Yourself?",
+    "url": "https://dev.to/saint-ij/full-stack-developer-or-full-stack-engineer-what-should-you-call-yourself-4eac",
+    "keywords": [
+      "people often ask",
+      "mern stack ....",
+      "full stack engineer",
+      "full stack engineer",
+      "full stack developer",
+      "full stack developer",
+      "source",
+      "seen",
+      "reactions"
+    ],
+    "summary": "# Full Stack Developer or Full Stack Engineer: What Should You Call Yourself? I have seen these two terms confused several times. People often ask me, “I learned the MERN stack...."
+  },
+  "04b15aedf7b3f674": {
+    "file": "corpus/devto/dev_to_pankaj_batra_i-deployed-a-full-rag-backend-for-0month_7e48ea893d.md",
+    "source": "devto",
+    "title": "I Deployed a Full RAG Backend for ₹0/Month — Here Are the 3 Walls I Hit",
+    "url": "https://dev.to/pankaj_batra/i-deployed-a-full-rag-backend-for-0month-here-are-the-3-walls-i-hit-3nga",
+    "keywords": [
+      "full rag backend",
+      "full rag backend",
+      "youtube rag chat",
+      "youtube link",
+      "month —",
+      "month —",
+      "get ...",
+      "3 walls",
+      "3 walls",
+      "₹ 0"
+    ],
+    "summary": "# I Deployed a Full RAG Backend for ₹0/Month — Here Are the 3 Walls I Hit > Source: devto | Category: news | 2026-08-10T04:12:45Z I just shipped the backend for YouTube RAG Chat: paste a YouTube link, chat with the video, and get..."
+  },
+  "8a687b7b2bf41d42": {
+    "file": "corpus/devto/dev_to_dineshstack_when-a-deploy-breaks-production-the-begin_a640865844.md",
+    "source": "devto",
+    "title": "When a Deploy Breaks Production: The Beginner's Rollback Playbook",
+    "url": "https://dev.to/dineshstack/when-a-deploy-breaks-production-the-beginners-rollback-playbook-55kp",
+    "keywords": [
+      "pipeline went green",
+      "deploy breaks production",
+      "deploy breaks production",
+      "work ...",
+      "rollback playbook",
+      "rollback playbook",
+      "source",
+      "site",
+      "reactions",
+      "pushed"
+    ],
+    "summary": "# When a Deploy Breaks Production: The Beginner's Rollback Playbook It Happens to Everyone  You pushed. You opened the site to admire your work..."
+  },
+  "6f18d4b62ce60e12": {
+    "file": "corpus/devto/dev_to_jayeshmepani_why-reversible-transliteration-isnt-alwa_c5937e2e9a.md",
+    "source": "devto",
+    "title": "Why “reversible transliteration” isn't always actually reversible",
+    "url": "https://dev.to/jayeshmepani/why-reversible-transliteration-isnt-always-actually-reversible-1n0k",
+    "keywords": [
+      "exact original unicode ...",
+      "“ reversible transliteration ”",
+      "“ reversible transliteration ”",
+      "indic transliteration library",
+      "always actually reversible",
+      "always actually reversible",
+      "source",
+      "recover",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Why “reversible transliteration” isn't always actually reversible > Source: devto | Category: news | 2026-08-10T04:12:48Z I built an Indic transliteration library that can recover the exact original Unicode..."
+  },
+  "8af13eccdd8421a3": {
+    "file": "corpus/devto/dev_to_sanjayfreak_cannot-find-symbol-class-entity-my-pomxml_f4d8a9b1a1.md",
+    "source": "devto",
+    "title": "Cannot find symbol: class Entity — My pom.xml Said MongoDB, My Code Said MySQL",
+    "url": "https://dev.to/sanjayfreak/cannot-find-symbol-class-entity-my-pomxml-said-mongodb-my-code-said-mysql-hl5",
+    "keywords": [
+      "old spring boot project",
+      "xml said mongodb",
+      "xml said mongodb",
+      "code said mysql",
+      "code said mysql",
+      "class entity —",
+      "class entity —",
+      "cannot find symbol",
+      "cannot find symbol",
+      "20 compilation ..."
+    ],
+    "summary": "# Cannot find symbol: class Entity — My pom.xml Said MongoDB, My Code Said MySQL I opened an old Spring Boot project of mine and ran a build. It failed with 20 compilation..."
+  },
+  "f79584eda1c20f68": {
+    "file": "corpus/devto/dev_to_extinctsion_thinking-and-decision-making-cognitive-pr_6a0885a367.md",
+    "source": "devto",
+    "title": "Thinking and Decision Making: Cognitive Processes Explained",
+    "url": "https://dev.to/extinctsion/thinking-and-decision-making-cognitive-processes-explained-2hl3",
+    "keywords": [
+      "47z introduction every day",
+      "cognitive processes explained",
+      "cognitive processes explained",
+      "take ,...",
+      "make thousands",
+      "decision making",
+      "decision making",
+      "thinking",
+      "thinking",
+      "source"
+    ],
+    "summary": "# Thinking and Decision Making: Cognitive Processes Explained > Source: devto | Category: news | 2026-08-10T04:12:47Z Introduction   Every day you make thousands of decisions: what to eat, which route to take,..."
+  },
+  "04abc78d7008dbce": {
+    "file": "corpus/devto/dev_to_thechrisin_systems-thinking-how-restraint-prevents-co_86b2ccfdf7.md",
+    "source": "devto",
+    "title": "Systems Thinking: How Restraint Prevents Complexity",
+    "url": "https://dev.to/thechrisin/systems-thinking-how-restraint-prevents-complexity-4jno",
+    "keywords": [
+      "clear boundaries keep long",
+      "lived systems stable",
+      "restraint prevents complexity",
+      "restraint prevents complexity",
+      "complexity emerges",
+      "systems thinking",
+      "systems thinking",
+      "unconstrained interaction",
+      "restraint",
+      "source"
+    ],
+    "summary": "# Systems Thinking: How Restraint Prevents Complexity > Source: devto | Category: news | 2026-08-10T04:12:44Z How complexity emerges from unconstrained interaction, and why restraint and clear boundaries keep long-lived systems stable."
+  },
+  "cf6c7a2e40716448": {
+    "file": "corpus/devto/dev_to_omuniyal_i-built-a-python-package-to-diff-large-data-_0da5c28842.md",
+    "source": "devto",
+    "title": "I built a Python package to diff large data files — here's why existing tools weren't enough",
+    "url": "https://dev.to/omuniyal/i-built-a-python-package-to-diff-large-data-files-heres-why-existing-tools-werent-enough-199g",
+    "keywords": [
+      "produce identical ...",
+      "two systems",
+      "python package",
+      "python package",
+      "existing tools",
+      "existing tools",
+      "47z every",
+      "work",
+      "supposed",
+      "source"
+    ],
+    "summary": "# I built a Python package to diff large data files — here's why existing tools weren't enough Every few months at work I run into the same problem. Two systems are supposed to produce identical..."
+  },
+  "c50d136068db6fa0": {
+    "file": "corpus/devto/dev_to_michaelnocito_operationalization-turning-fuzzy-questi_897552d9e8.md",
+    "source": "devto",
+    "title": "Operationalization: Turning Fuzzy Questions Into Measurable Definitions",
+    "url": "https://dev.to/michaelnocito/operationalization-turning-fuzzy-questions-into-measurable-definitions-4mid",
+    "keywords": [
+      "measurable metric definitions —",
+      "vague concepts like",
+      "turning fuzzy questions",
+      "turning fuzzy questions",
+      "real worked example",
+      "active user ',",
+      "measurable definitions",
+      "measurable definitions",
+      "churn ',",
+      "validity question"
+    ],
+    "summary": "# Operationalization: Turning Fuzzy Questions Into Measurable Definitions > Source: devto | Category: news | 2026-08-10T04:12:47Z What 'operationalization' and 'operational definition' mean in data analysis: how vague concepts like 'active user', 'churn', or 'popular' become exact, measurable metric definitions — the method, the validity question, and a real worked example."
+  },
+  "9b61037f22b051cd": {
+    "file": "corpus/devto/dev_to_snigdha_chaudhari_learning-linux-dont-start-by-memori_7cbc8b5f88.md",
+    "source": "devto",
+    "title": "Learning Linux? Don't Start by Memorising Commands",
+    "url": "https://dev.to/snigdha_chaudhari/learning-linux-dont-start-by-memorising-commands-4ljg",
+    "keywords": [
+      "first started learning linux",
+      "learning linux",
+      "learning linux",
+      "top ,...",
+      "memorising commands",
+      "memorising commands",
+      "commands",
+      "thought",
+      "start",
+      "start"
+    ],
+    "summary": "Don't Start by Memorising Commands > Source: devto | Category: news | 2026-08-10T04:12:47Z When I first started learning Linux, I thought I needed to remember a lot of commands."
+  },
+  "9ec73f8e2baa97ac": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_linux-ai-policies_utm_campaign_in_02cf35809e.md",
+    "source": "engineering",
+    "title": "[infoq] Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem",
+    "url": "https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "human maintainer remains",
+      "distinct approaches highlight",
+      "based utility model",
+      "ai policy across",
+      "ai policy across",
+      "ai policy across",
+      "ai policies across",
+      "linux kernel ’",
+      "34z beyond consensus",
+      "beyond consensus"
+    ],
+    "summary": "# [infoq] Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem From core infrastructure to high-level orchestration, these distinct approaches highlight a shared commitment: ensuring the human maintainer remains the indispensable guardian of the code."
+  },
+  "a1e887f5aa567118": {
+    "file": "corpus/hackernews/www_cnbc_com_2026_08_09_taylor-farms-recalls-salsa-and-guaca_770c99ba74.md",
+    "source": "hackernews",
+    "title": "Taylor Farms recalls salsa and guacamole over salmonella risk",
+    "url": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
+    "keywords": [
+      "taylor farms recalls salsa",
+      "taylor farms recalls salsa",
+      "salmonella risk",
+      "salmonella risk",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "guacamole",
+      "guacamole"
+    ],
+    "summary": "# Taylor Farms recalls salsa and guacamole over salmonella risk > Source: hackernews | Category: news | 2026-08-10T04:12:38Z Score: 13 | Comments: 0"
+  },
+  "548746ddfdda7eb4": {
+    "file": "corpus/hackernews/foldingglobes_com_004fef72a5.md",
+    "source": "hackernews",
+    "title": "Turn satellite imagery into a paper globe you fold yourself",
+    "url": "https://foldingglobes.com/",
+    "keywords": [
+      "turn satellite imagery",
+      "turn satellite imagery",
+      "paper globe",
+      "paper globe",
+      "33z score",
+      "source",
+      "news",
+      "hackernews",
+      "fold",
+      "fold"
+    ],
+    "summary": "# Turn satellite imagery into a paper globe you fold yourself > Source: hackernews | Category: news | 2026-08-10T04:12:33Z Score: 17 | Comments: 2"
+  },
+  "be9a7c5c1d40185c": {
+    "file": "corpus/hackernews/github_com_stratopi-org_stratopi_c949b12fd2.md",
+    "source": "hackernews",
+    "title": "Show HN: Weather balloon to the stratosphere with a Raspberry Pi computer",
+    "url": "https://github.com/stratopi-org/stratopi",
+    "keywords": [
+      "raspberry pi computer",
+      "raspberry pi computer",
+      "weather balloon",
+      "weather balloon",
+      "show hn",
+      "show hn",
+      "43z score",
+      "stratosphere",
+      "stratosphere",
+      "source"
+    ],
+    "summary": "# Show HN: Weather balloon to the stratosphere with a Raspberry Pi computer > Source: hackernews | Category: news | 2026-08-10T04:12:43Z Score: 5 | Comments: 0"
+  },
+  "5a184818dbbfe673": {
+    "file": "corpus/hackernews/atproto_com_articles_atproto-for-distsys-engineers_83cc49ebe2.md",
+    "source": "hackernews",
+    "title": "ATProto for Distributed Systems Engineers",
+    "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+    "keywords": [
+      "distributed systems engineers",
+      "distributed systems engineers",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "atproto",
+      "atproto"
+    ],
+    "summary": "# ATProto for Distributed Systems Engineers > Source: hackernews | Category: news | 2026-08-10T04:12:35Z Score: 22 | Comments: 3"
+  },
+  "c256845721d6d62a": {
+    "file": "corpus/hackernews/memelang_net_11_a6a637769d.md",
+    "source": "hackernews",
+    "title": "Memelang: Token-Terse Query Language",
+    "url": "https://memelang.net/11/",
+    "keywords": [
+      "terse query language",
+      "terse query language",
+      "38z score",
+      "token",
+      "token",
+      "source",
+      "news",
+      "memelang",
+      "memelang",
+      "hackernews"
+    ],
+    "summary": "# Memelang: Token-Terse Query Language > Source: hackernews | Category: news | 2026-08-10T04:12:38Z Score: 8 | Comments: 1"
+  },
+  "823747c371df2ed0": {
+    "file": "corpus/hackernews/blog_teknogeek_io_posts_what-happened-to-hackerone_7def8c8346.md",
+    "source": "hackernews",
+    "title": "What Happened to HackerOne?",
+    "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "keywords": [
+      "33z score",
+      "source",
+      "news",
+      "happened",
+      "happened",
+      "hackerone",
+      "hackerone",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What Happened to HackerOne? > Source: hackernews | Category: news | 2026-08-10T04:12:33Z Score: 87 | Comments: 26"
   }
 }
