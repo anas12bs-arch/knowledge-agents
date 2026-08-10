@@ -386741,5 +386741,328 @@
       "vercel"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-10T08:22:18Z - [turbopack] Treat constants with values referencing other values as unsafe: #96190 Huge thanks to @sampoder for helping!"
+  },
+  "e0d7e0cdd10807a3": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48219_revolut-awarded-full-fat-_c9f0e46073.md",
+    "source": "finance",
+    "title": "[finextra] Revolut awarded full-fat European banking licence",
+    "url": "https://www.finextra.com/newsarticle/48219/revolut-awarded-full-fat-european-banking-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "fat european banking licence",
+      "fat european banking licence",
+      "full european banking licence",
+      "23z revolut awarded full",
+      "european central bank",
+      "revolut awarded full",
+      "revolut awarded full",
+      "french regulators",
+      "approval rubber",
+      "awarded"
+    ],
+    "summary": "# [finextra] Revolut awarded full-fat European banking licence Revolut awarded full-fat European banking licence Revolut has been awarded a full European banking licence by French regulators, with approval rubber-stamped by the European Central bank."
+  },
+  "b1804ecc1c980aee": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48218_fca-welcomes-five-fintech_a298b17fd8.md",
+    "source": "finance",
+    "title": "[finextra] FCA welcomes five fintechs into Scale-up Unit",
+    "url": "https://www.finextra.com/newsarticle/48218/fca-welcomes-five-fintechs-into-scale-up-unit?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "fca welcomes five fintechs",
+      "fca welcomes five fintechs",
+      "receiving tailored support",
+      "unit five fast",
+      "growing fintechs",
+      "navigate regulation",
+      "grow sustainably",
+      "fca",
+      "unit",
+      "unit"
+    ],
+    "summary": "# [finextra] FCA welcomes five fintechs into Scale-up Unit FCA welcomes five fintechs into Scale-up Unit Five fast-growing fintechs have joined the FCA's Scale-up Unit, receiving tailored support to help them navigate regulation and grow sustainably."
+  },
+  "94b64cf9a39d5839": {
+    "file": "corpus/devto/dev_to_shivharakhyadav_i-ported-a-python-library-to-rust-all_237b96f851.md",
+    "source": "devto",
+    "title": "I Ported a Python Library to Rust. All 1,059 Original Tests Passed — and It Was Still Broken.",
+    "url": "https://dev.to/shivharakhyadav/i-ported-a-python-library-to-rust-all-1059-original-tests-passed-and-it-was-still-broken-3mge",
+    "keywords": [
+      "test suite",
+      "still broken",
+      "still broken",
+      "python library",
+      "python library",
+      "original project",
+      "touch",
+      "take",
+      "source",
+      "rust"
+    ],
+    "summary": "# I Ported a Python Library to Rust. All 1,059 Original Tests Passed — and It Was Still Broken. The rule for this hackathon is blunt: take the original project's test suite, don't touch it, make it..."
+  },
+  "1ae45249b24db277": {
+    "file": "corpus/devto/dev_to_jacobandrewsky_preserve-component-state-in-vue-with-k_fa97f1cb2f.md",
+    "source": "devto",
+    "title": "Preserve Component State in Vue with KeepAlive",
+    "url": "https://dev.to/jacobandrewsky/preserve-component-state-in-vue-with-keepalive-58i1",
+    "keywords": [
+      "different components like tabs",
+      "preserve component state",
+      "preserve component state",
+      "building vue applications",
+      "step ...",
+      "often switch",
+      "vue",
+      "vue",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Preserve Component State in Vue with KeepAlive > Source: devto | Category: news | 2026-08-10T09:53:30Z When building Vue applications, we often switch between different components like tabs, multi-step..."
+  },
+  "d3007dada90d33bc": {
+    "file": "corpus/devto/dev_to_mkmkkkkk_the-calling-layer-won-the-numbers-arent-clos_573ad1f693.md",
+    "source": "devto",
+    "title": "The calling layer won. The numbers aren't close.",
+    "url": "https://dev.to/mkmkkkkk/the-calling-layer-won-the-numbers-arent-close-3kp6",
+    "keywords": [
+      "scraper across 742 sources",
+      "pulls package registry stats",
+      "week one ...",
+      "calling layer",
+      "calling layer",
+      "week",
+      "source",
+      "run",
+      "reactions",
+      "numbers"
+    ],
+    "summary": "The numbers aren't close. I run a scraper across 742 sources. Once a week it pulls package registry stats, and this week one..."
+  },
+  "1cbf99fe5cb193c9": {
+    "file": "corpus/devto/dev_to_adioof_the-ai-native-junior-cant-debug-and-were-prete_03124fbf78.md",
+    "source": "devto",
+    "title": "The AI-native junior can't debug and we're pretending that's fine",
+    "url": "https://dev.to/adioof/the-ai-native-junior-cant-debug-and-were-pretending-thats-fine-4f8j",
+    "keywords": [
+      "recent graduates",
+      "native junior",
+      "native junior",
+      "code ...",
+      "400 lines",
+      "29z one",
+      "team",
+      "source",
+      "reactions",
+      "pretending"
+    ],
+    "summary": "# The AI-native junior can't debug and we're pretending that's fine > Source: devto | Category: news | 2026-08-10T09:53:29Z One of the recent graduates who is a part of our team was able to author a PR with 400 lines of code..."
+  },
+  "8d928a0c239629f4": {
+    "file": "corpus/devto/dev_to_petersoos_when-is-it-safe-to-open-the-microphone-buil_35f53d2173.md",
+    "source": "devto",
+    "title": "When is it safe to open the microphone? Building a realtime voice agent on Twilio",
+    "url": "https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo",
+    "keywords": [
+      "phone agent looks like",
+      "twilio media streams gives",
+      "realtime voice agent",
+      "realtime voice agent",
+      "weekend project",
+      "30z wiring",
+      "twilio",
+      "twilio",
+      "websocket",
+      "source"
+    ],
+    "summary": "# When is it safe to open the microphone? Building a realtime voice agent on Twilio Twilio Media Streams gives you a WebSocket with..."
+  },
+  "a0154ce3cbf0b71c": {
+    "file": "corpus/devto/dev_to_parsajiravand_youre-importing-pako-to-gzip-data-compr_d02236ddd1.md",
+    "source": "devto",
+    "title": "You're importing pako to gzip data. `CompressionStream` does it natively.",
+    "url": "https://dev.to/parsajiravand/youre-importing-pako-to-gzip-data-compressionstream-does-it-natively-4d7b",
+    "keywords": [
+      "29z compressing data",
+      "gzip data",
+      "gzip data",
+      "slow connection",
+      "real ...",
+      "importing pako",
+      "importing pako",
+      "writing",
+      "source",
+      "sending"
+    ],
+    "summary": "# You're importing pako to gzip data. `CompressionStream` does it natively. Compressing data before writing it to IndexedDB or sending it over a slow connection is a real..."
+  },
+  "ffae1b4944da8f1d": {
+    "file": "corpus/devto/dev_to_ferhatatagun_i-accidentally-built-a-forward-deployed-_d9310d230d.md",
+    "source": "devto",
+    "title": "I accidentally built a forward-deployed engineer's field kit",
+    "url": "https://dev.to/ferhatatagun/i-accidentally-built-a-forward-deployed-engineers-field-kit-khi",
+    "keywords": [
+      "working inside someone else",
+      "regulated environment",
+      "preference turn",
+      "minimal dependencies",
+      "field kit",
+      "field kit",
+      "deployed engineer",
+      "deployed engineer",
+      "bundler problem",
+      "anthropic sdk"
+    ],
+    "summary": "# I accidentally built a forward-deployed engineer's field kit I dropped the Anthropic SDK for 150 lines of TypeScript and filed it as a bundler problem. Browser-only, BYOK, no backend, minimal dependencies - the constraints I picked out of preference turn out to be the exact constraints of working inside someone else's regulated environment."
+  },
+  "61efd6ee2f4fd505": {
+    "file": "corpus/devto/dev_to_weirdcodesofficial_gyroscope-tilt-steering-mobile-2k4_c7888508de.md",
+    "source": "devto",
+    "title": "Gyroscope tilt steering (mobile)",
+    "url": "https://dev.to/weirdcodesofficial/gyroscope-tilt-steering-mobile-2k4g",
+    "keywords": [
+      "gyroscope tilt steering",
+      "gyroscope tilt steering",
+      "pj90 ...",
+      "10 author",
+      "source",
+      "reactions",
+      "news",
+      "mobile",
+      "mobile",
+      "mobile"
+    ],
+    "summary": "# Gyroscope tilt steering (mobile) > Source: devto | Category: news | 2026-08-10T09:53:30Z Devlog — Gyroscope tilt steering (mobile)    Date: 2026-08-10  Author: pj90..."
+  },
+  "20c3dd1abfe3c18c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-warns-of-critica_3df9f34363.md",
+    "source": "security",
+    "title": "[bleeping-comp] Critical Progress LoadMaster flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+    "keywords": [
+      "critical progress loadmaster flaw",
+      "critical progress loadmaster flaw",
+      "infrastructure security agency",
+      "actively exploited",
+      "actively exploited",
+      "actively exploited",
+      "critical",
+      "security",
+      "security",
+      "warned"
+    ],
+    "summary": "# [bleeping-comp] Critical Progress LoadMaster flaw now actively exploited in attacks Critical Progress LoadMaster flaw now actively exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability."
+  },
+  "ccec44fcd589b5a1": {
+    "file": "corpus/engineering/www_infoq_com_presentations_emulation-genai_utm_campaign_inf_a8775a7e05.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Leveraging Adversary Emulation for GenAI Red Teaming",
+    "url": "https://www.infoq.com/presentations/emulation-genai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "secure production ai applications",
+      "bridge traditional cloud security",
+      "proactively identify vulnerabilities",
+      "mitre atlas frameworks",
+      "leveraging adversary emulation",
+      "leveraging adversary emulation",
+      "leveraging adversary emulation",
+      "genai red teaming",
+      "genai red teaming",
+      "safeguard llms"
+    ],
+    "summary": "# [infoq] Presentation: Leveraging Adversary Emulation for GenAI Red Teaming Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS. He explains how engineering leaders and architects can bridge traditional cloud security with MITRE ATLAS frameworks to proactively identify vulnerabilities, implement guardrails, and secure production AI applications."
+  },
+  "ca1dedfa0bb448ed": {
+    "file": "corpus/hackernews/smallcultfollowing_com_babysteps_blog_2018_04_27_an-alias-ba_e202c305d2.md",
+    "source": "hackernews",
+    "title": "An alias-based formulation of the borrow checker (2018)",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+    "keywords": [
+      "borrow checker",
+      "borrow checker",
+      "based formulation",
+      "based formulation",
+      "21z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# An alias-based formulation of the borrow checker (2018) > Source: hackernews | Category: news | 2026-08-10T09:53:21Z Score: 9 | Comments: 1"
+  },
+  "98e2f405cf2b0627": {
+    "file": "corpus/hackernews/www_theguardian_com_technology_2026_aug_09_i-kept-catching-p_3d52242374.md",
+    "source": "hackernews",
+    "title": "Influencers face backlash over Meta 'pervert glasses' content",
+    "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
+    "keywords": [
+      "influencers face backlash",
+      "influencers face backlash",
+      "pervert glasses",
+      "pervert glasses",
+      "26z score",
+      "source",
+      "news",
+      "meta",
+      "meta",
+      "hackernews"
+    ],
+    "summary": "# Influencers face backlash over Meta 'pervert glasses' content > Source: hackernews | Category: news | 2026-08-10T09:53:26Z Score: 5 | Comments: 1"
+  },
+  "ad9ea83084548793": {
+    "file": "corpus/hackernews/marketplace_visualstudio_com_items_itemName_strangepleasures_2b459d7823.md",
+    "source": "hackernews",
+    "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+    "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+    "keywords": [
+      "vs code",
+      "vs code",
+      "implant –",
+      "implant –",
+      "coding agents",
+      "coding agents",
+      "25z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Implant – an extension to VS Code that exposes its APIs to coding agents > Source: hackernews | Category: news | 2026-08-10T09:53:25Z Score: 3 | Comments: 0"
+  },
+  "b0c1af3911d07567": {
+    "file": "corpus/hackernews/lordgoati_us_blog_tail-call_58e4e6da34.md",
+    "source": "hackernews",
+    "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+    "url": "https://lordgoati.us/blog/tail-call/",
+    "keywords": [
+      "rust – jimmy ostler",
+      "rust – jimmy ostler",
+      "call interpreters",
+      "call interpreters",
+      "20z score",
+      "tail",
+      "tail",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tail-Call Interpreters in Rust – Jimmy Ostler > Source: hackernews | Category: news | 2026-08-10T09:53:20Z Score: 12 | Comments: 0"
+  },
+  "98fa0bf5f9d23d62": {
+    "file": "corpus/hackernews/experiments_hetzner_com_docs_inference_52b38ec39d.md",
+    "source": "hackernews",
+    "title": "Hetzner Experiments Platform: Inference API",
+    "url": "https://experiments.hetzner.com/docs/inference",
+    "keywords": [
+      "hetzner experiments platform",
+      "hetzner experiments platform",
+      "inference api",
+      "inference api",
+      "27z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Hetzner Experiments Platform: Inference API > Source: hackernews | Category: news | 2026-08-10T09:53:27Z Score: 9 | Comments: 4"
   }
 }
