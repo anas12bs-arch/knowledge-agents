@@ -392836,5 +392836,62 @@
       "8 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-11T06:08:00Z ## What's Changed * Add Muse Glimmer support for NVIDIA, AMD, and additional platforms **Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.7...v0.32.8-rc0"
+  },
+  "9525bafc2be5d067": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_e1snsuY4lTI_bd00a09f14.md",
+    "source": "youtube",
+    "title": "[theo] I made Claude smarter by writing it a letter",
+    "url": "https://www.youtube.com/watch?v=e1snsuY4lTI",
+    "keywords": [
+      "skill descriptions trigger keywords",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "made claude smarter",
+      "made claude smarter",
+      "made claude smarter",
+      "full walkthrough"
+    ],
+    "summary": "# [theo] I made Claude smarter by writing it a letter I made Claude smarter by writing it a letter Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "66e6887c163a15db": {
+    "file": "corpus/security/thehackernews_com_2026_08_bdthemes-supply-chain-attack-poiso_39f20a787a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+    "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "keywords": [
+      "create rogue wordpress admins",
+      "create rogue wordpress admins",
+      "zero source code files",
+      "content management systems",
+      "official wordpress",
+      "temporarily disable",
+      "plugins team",
+      "modified within",
+      "source",
+      "warned"
+    ],
+    "summary": "# [hacker-news-sec] BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said."
+  },
+  "4526ccfe19b69bb5": {
+    "file": "corpus/security/thehackernews_com_2026_08_hackers-breach-polish-power-plant__21ad1a2bf2.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+    "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+    "keywords": [
+      "local grid operator uses",
+      "customers lost neither heat",
+      "shut turbine attackers shut",
+      "polish combined heat",
+      "water treatment system",
+      "still active inside",
+      "reach remote equipment",
+      "plant supplies heat",
+      "private cellular network",
+      "shut turbine"
+    ],
+    "summary": "# [hacker-news-sec] Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment."
   }
 }
