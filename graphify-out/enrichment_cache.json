@@ -395132,5 +395132,327 @@
       "05z ## ollama"
     ],
     "summary": "[NVIDIA Nemotron 3.5 Lightning](https://ollama.com/library/nemotron-3.5-lightning) is an open 30B mixture-of-experts (MoE) model with 3B active parameters built for that execution layer of always-on agents. It is designed for harnesses like OpenClaw and Hermes Agent – all supported by the [NVIDIA NemoClaw](https://github.com/NVIDIA/NemoClaw) open source security and management stack for running always-on AI agents. ## What's Changed * Added the Nemotron 3 architecture * Handle boundary condition"
+  },
+  "978375364f1713c5": {
+    "file": "corpus/devto/dev_to_safiullah222_5-things-i-wish-i-knew-before-starting-m_e6f21a909b.md",
+    "source": "devto",
+    "title": "5 Things I Wish I Knew Before Starting My AI Engineering Internship",
+    "url": "https://dev.to/safiullah222/5-things-i-wish-i-knew-before-starting-my-ai-engineering-internship-4o9n",
+    "keywords": [
+      "ai engineering internship",
+      "ai engineering internship",
+      "ai engineering internship",
+      "21z seven weeks",
+      "5 things",
+      "5 things",
+      "wish",
+      "wish",
+      "starting",
+      "starting"
+    ],
+    "summary": "# \"5 Things I Wish I Knew Before Starting My AI Engineering Internship\" > Source: devto | Category: news | 2026-08-11T14:57:21Z Seven weeks into an AI Engineering internship (alongside the IBM Data Science Professional..."
+  },
+  "709d23c33b737b5e": {
+    "file": "corpus/devto/dev_to_lululuhu_i-lost-my-best-ai-prompt-after-40-tweaks-so-_c67f3c5f5c.md",
+    "source": "devto",
+    "title": "I lost my best AI prompt after 40 tweaks. So I built a tiny git for prompts.",
+    "url": "https://dev.to/lululuhu/i-lost-my-best-ai-prompt-after-40-tweaks-so-i-built-a-tiny-git-for-prompts-1d5j",
+    "keywords": [
+      "tweak one word",
+      "best ai prompt",
+      "best ai prompt",
+      "tiny git",
+      "tiny git",
+      "40 tweaks",
+      "40 tweaks",
+      "21z 🤯",
+      "prompt",
+      "source"
+    ],
+    "summary": "# I lost my best AI prompt after 40 tweaks. So I built a tiny git for prompts. You're iterating on a prompt for an LLM."
+  },
+  "6c6194587ef0bf25": {
+    "file": "corpus/devto/dev_to_theosoti_i-built-a-scanner-to-find-javascript-that-mo_c09eb1e2f0.md",
+    "source": "devto",
+    "title": "I built a scanner to find JavaScript that modern CSS can replace",
+    "url": "https://dev.to/theosoti/i-built-a-scanner-to-find-javascript-that-modern-css-can-replace-1pn5",
+    "keywords": [
+      "replace small pieces",
+      "time writing",
+      "modern css",
+      "modern css",
+      "css features",
+      "find javascript",
+      "find javascript",
+      "replace",
+      "replace",
+      "javascript"
+    ],
+    "summary": "# I built a scanner to find JavaScript that modern CSS can replace > Source: devto | Category: news | 2026-08-11T14:57:20Z I spend a lot of time writing about CSS features that replace small pieces of JavaScript."
+  },
+  "fd1eaada48faccc0": {
+    "file": "corpus/devto/dev_to_shivams136_what-i-learned-building-a-payments-page-wi_d8bbaad7df.md",
+    "source": "devto",
+    "title": "What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform",
+    "url": "https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne",
+    "keywords": [
+      "zero commission donation platform",
+      "zero commission donation platform",
+      "19z upi deeplinks",
+      "zero backend",
+      "donation page",
+      "payments page",
+      "payments page",
+      "payment processor",
+      "payment processor",
+      "learned building"
+    ],
+    "summary": "# What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform > Source: devto | Category: news | 2026-08-11T14:57:19Z UPI deeplinks that fail silently, a URL-encoding landmine, and why a donation page with zero backend can charge 0% forever."
+  },
+  "5b5f5e19de6a194a": {
+    "file": "corpus/devto/dev_to_andrewbuilds_most-compound-interest-calculators-get-c_169049585d.md",
+    "source": "devto",
+    "title": "Most compound interest calculators get contributions wrong",
+    "url": "https://dev.to/andrewbuilds/most-compound-interest-calculators-get-contributions-wrong-1h6l",
+    "keywords": [
+      "math sounded like",
+      "solved problem",
+      "source",
+      "shipped",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "=..."
+    ],
+    "summary": "# Most compound interest calculators get contributions wrong > Source: devto | Category: news | 2026-08-11T14:57:20Z I shipped a daily compound interest calculator last week."
+  },
+  "33bf4c5cc803990d": {
+    "file": "corpus/devto/dev_to_ale3oula_how-many-introductions-away-are-you-from-ped_5cb4603ee2.md",
+    "source": "devto",
+    "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
+    "url": "https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg",
+    "keywords": [
+      "many introductions away",
+      "many introductions away",
+      "know pedro pascal",
+      "pedro pascal",
+      "pedro pascal",
+      "practical introduction",
+      "practical introduction",
+      "graph search",
+      "graph search",
+      "watching"
+    ],
+    "summary": "# How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search I was watching The Mandalorian the other day when it struck me that I don't know Pedro Pascal, which..."
+  },
+  "2e22a0a766e42e28": {
+    "file": "corpus/devto/dev_to_miguelangelo_something-is-squatting-on-port-3000-5gnj_e78f6986d9.md",
+    "source": "devto",
+    "title": "Something is squatting on port 3000",
+    "url": "https://dev.to/miguelangelo/something-is-squatting-on-port-3000-5gnj",
+    "keywords": [
+      "terminal split inside",
+      "port 3000",
+      "port 3000",
+      "good arrangement",
+      "ai agent",
+      "time",
+      "squatting",
+      "squatting",
+      "source",
+      "something"
+    ],
+    "summary": "# Something is squatting on port 3000 I run my AI agent in a terminal split inside my IDE. Most of the time, it's a good arrangement."
+  },
+  "0916e557481bc909": {
+    "file": "corpus/devto/dev_to_aniruddha_adak_rannaghar-a-bengali-comfort-food-landi_39e0e7515f.md",
+    "source": "devto",
+    "title": "Rannaghar ~ a Bengali comfort-food landing page with scroll-driven CSS and :has() tabs",
+    "url": "https://dev.to/aniruddha_adak/rannaghar-a-bengali-comfort-food-landing-page-with-scroll-driven-css-and-has-tabs-354n",
+    "keywords": [
+      "food landing page",
+      "food landing page",
+      "comfort food edition",
+      "perfect landing",
+      "bengali comfort",
+      "bengali comfort",
+      "frontend challenge",
+      "driven css",
+      "driven css",
+      "() tabs"
+    ],
+    "summary": "# Rannaghar ~ a Bengali comfort-food landing page with scroll-driven CSS and :has() tabs > Source: devto | Category: news | 2026-08-11T14:57:20Z This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I..."
+  },
+  "9cf6f8038ac41208": {
+    "file": "corpus/devto/dev_to_thecryptodonkey_i-put-gopher-on-nostr-now-every-npub-_9b891017fc.md",
+    "source": "devto",
+    "title": "I put Gopher on Nostr. Now every npub is a gopherhole",
+    "url": "https://dev.to/thecryptodonkey/i-put-gopher-on-nostr-now-every-npub-is-a-gopherhole-ahh",
+    "keywords": [
+      "signed gopherholes",
+      "held events",
+      "every npub",
+      "every npub",
+      "put gopher",
+      "put gopher",
+      "gopher",
+      "web",
+      "terminal",
+      "source"
+    ],
+    "summary": "# I put Gopher on Nostr. Now every npub is a gopherhole GopherKind turns Nostr identities and relay-held events into signed gopherholes you can read through Gopher, Gemini, the web or a terminal."
+  },
+  "8201545cbc5e9105": {
+    "file": "corpus/devto/dev_to_moputa_how-to-actually-practise-for-an-ai-technical-s_660f0fb856.md",
+    "source": "devto",
+    "title": "How to actually practise for an AI technical screen",
+    "url": "https://dev.to/moputa/how-to-actually-practise-for-an-ai-technical-screen-56lh",
+    "keywords": [
+      "ai technical screen",
+      "ai technical screen",
+      "technical interviews",
+      "recent times",
+      "actually practise",
+      "actually practise",
+      "still",
+      "source",
+      "reactions",
+      "one"
+    ],
+    "summary": "# How to actually practise for an AI technical screen You can be good at technical interviews and still do badly at this one. In recent times, most..."
+  },
+  "8c37b55f6faaff7b": {
+    "file": "corpus/devto/dev_to_sabahattink_every-coding-agent-session-starts-by-redi_d6c73c2f6c.md",
+    "source": "devto",
+    "title": "Every Coding Agent Session Starts by Rediscovering Your Repository",
+    "url": "https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e",
+    "keywords": [
+      "claude code",
+      "source",
+      "repository",
+      "repository",
+      "rediscovering",
+      "rediscovering",
+      "reactions",
+      "news",
+      "devto",
+      "cursor"
+    ],
+    "summary": "# Every Coding Agent Session Starts by Rediscovering Your Repository > Source: devto | Category: news | 2026-08-11T14:57:18Z I've been using coding agents heavily across real projects."
+  },
+  "72f57354e4d371cf": {
+    "file": "corpus/hackernews/stolen-thoughts_com_5639e45f22.md",
+    "source": "hackernews",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "keywords": [
+      "stealing reasoning traces",
+      "stealing reasoning traces",
+      "proprietary llm apis",
+      "proprietary llm apis",
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Stealing Reasoning Traces from Proprietary LLM APIs > Source: hackernews | Category: news | 2026-08-11T14:57:13Z Score: 9 | Comments: 0"
+  },
+  "9716fc5dbb5da579": {
+    "file": "corpus/hackernews/www_propublica_org_article_foia-requests-responses_1d92c8941c.md",
+    "source": "hackernews",
+    "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
+    "url": "https://www.propublica.org/article/foia-requests-responses",
+    "keywords": [
+      "contracts leaves portal broken",
+      "contracts leaves portal broken",
+      "federal vendor",
+      "federal vendor",
+      "16z score",
+      "source",
+      "news",
+      "month",
+      "month",
+      "hackernews"
+    ],
+    "summary": "# Federal vendor with $50M in contracts leaves portal broken for a month > Source: hackernews | Category: news | 2026-08-11T14:57:16Z Score: 4 | Comments: 0"
+  },
+  "3e827cf67577650e": {
+    "file": "corpus/hackernews/www_tomshardware_com_networking_usd580-million-undersea-cabl_18c1bc1170.md",
+    "source": "hackernews",
+    "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+    "url": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+    "keywords": [
+      "580m undersea cable rerouted",
+      "580m undersea cable rerouted",
+      "house elf",
+      "house elf",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "grave",
+      "grave"
+    ],
+    "summary": "# $580M undersea cable rerouted to avoid the grave of Dobby the House Elf > Source: hackernews | Category: news | 2026-08-11T14:57:14Z Score: 18 | Comments: 8"
+  },
+  "2b08363c61b5d20e": {
+    "file": "corpus/hackernews/aimagazine_com_news_why-did-openai-head-of-ethics-chloe-baka_8dd74c53c1.md",
+    "source": "hackernews",
+    "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+    "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+    "keywords": [
+      "ethics chloé bakalar leave",
+      "ethics chloé bakalar leave",
+      "13z score",
+      "source",
+      "openai",
+      "openai",
+      "news",
+      "head",
+      "head",
+      "hackernews"
+    ],
+    "summary": "# Why Did OpenAI's Head of Ethics Chloé Bakalar Leave? > Source: hackernews | Category: news | 2026-08-11T14:57:13Z Score: 19 | Comments: 13"
+  },
+  "d704d260c1e20dd0": {
+    "file": "corpus/hackernews/www_theguardian_com_world_2026_aug_08_greenland-iwarning-tru_d52586e2eb.md",
+    "source": "hackernews",
+    "title": "Greenland issues 'strong warning' as American oil firm illegally drills wells",
+    "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
+    "keywords": [
+      "strong warning",
+      "strong warning",
+      "greenland issues",
+      "greenland issues",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Greenland issues \"strong warning\" as American oil firm illegally drills wells > Source: hackernews | Category: news | 2026-08-11T14:57:17Z Score: 48 | Comments: 43"
+  },
+  "2552424f58011beb": {
+    "file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-palo-alto-networ_e5e6366c02.md",
+    "source": "sales",
+    "title": "[saastr] 5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled th",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/",
+    "keywords": [
+      "15z 5 interesting learnings",
+      "stock palo alto networks",
+      "palo alto networks",
+      "palo alto networks",
+      "palo alto networks",
+      "5 interesting learnings",
+      "5 interesting learnings",
+      "past twelve months",
+      "twelve months",
+      "time high"
+    ],
+    "summary": "# [saastr] 5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock 5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock They spent about $29B on acquisitions in twelve months, took a GAAP loss,...   Continue Reading"
   }
 }
