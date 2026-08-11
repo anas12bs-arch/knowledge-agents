@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack"
+url: "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-08-11T21:08:26Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
+
+> Source: security | Category: security | 2026-08-11T21:08:26Z
+
+Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
+
+Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
+
+The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first.
+
+The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only
