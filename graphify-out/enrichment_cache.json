@@ -396549,5 +396549,518 @@
       "runnables (# 39307"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-11T18:32:41Z Changes since langchain-core==1.5.3 release(core): 1.5.4 (#39592) fix(core): compat with pydantic 2.14 (#39328) fix(core): stop StructuredPrompt from mutating caller kwargs (#39174) fix(core): preserve flat tool args schema for `RootModel` runnables (#39307) fix(core): close internally created event loops in streaming tracers (#39222) chore: bump the minor-and-patch group across 3 directories with 7 updates (#39187) fix(core)"
+  },
+  "68fc0b06d28dbbd8": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain_3D__fa79836f4a.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain==1.3.15 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.15",
+    "keywords": [
+      "summary failure (# 39268",
+      "output responses (# 39245",
+      "exception handling (# 38884",
+      "end behavior (# 39258",
+      "checkpointed turns (# 39248",
+      "bound tools (# 39259",
+      "7 updates (# 39187",
+      "langchain ): restrict narrowed",
+      "langchain ): prevent orphaned",
+      "langchain ): preserve history"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-11T19:36:59Z Changes since langchain==1.3.14 release(langchain): 1.3.15 (#39595) feat(langchain): expose `trace_policy` on `AgentMiddleware` (#38910) chore(langchain): fix type errors in tests (#39589) chore: bump h2 from 4.3.0 to 4.4.1 in /libs/langchain_v1 (#39324) fix(langchain): preserve history on `SummarizationMiddleware` summary failure (#39268) fix(langchain): handle import error in `LLMToolEmulator` by `model` (#39290) refactor(l"
+  },
+  "43b804c3bbc05f92": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v2_54_0_0fb1c9ac35.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v2.54.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.54.0",
+    "keywords": [
+      "28888f9cc1635dc1247c400a8054c836abc2c129 )) ### chores",
+      "file header attribution",
+      "0 ... v2",
+      "python — v2",
+      "00z ## openai",
+      "ea17fda01d7067a6d829effa437952a09f2bb3a3 ))",
+      "### features",
+      "0 ##",
+      "0 released",
+      "0 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-11T19:37:00Z * **api:** Add new Responses model identifiers ([#3595](https://github.com/openai/openai-python/issues/3595)) ([0652787](https://github.com/openai/openai-python/commit/06527878b8759ba52f28ab53e4d95a33989700d0)) * **api:** Update generated-file header attribution to Castiron ([#3583](https://github.com/openai/openai-python/issues/3583)) ([ea17fda](https://github.com/openai/openai-python/commit/ea17fda01d7067a6d829effa437952a09"
+  },
+  "54eba153950bc3d6": {
+    "file": "corpus/devto/dev_to_alifar_mai-code-1-flash-highlights-microsofts-lower-c_872d344d7b.md",
+    "source": "devto",
+    "title": "MAI-Code-1-Flash Highlights Microsoft’s Lower-Cost Approach to Coding AI",
+    "url": "https://dev.to/alifar/mai-code-1-flash-highlights-microsofts-lower-cost-approach-to-coding-ai-oh",
+    "keywords": [
+      "flash highlights microsoft ’",
+      "flash highlights microsoft ’",
+      "09z microsoft ’",
+      "cost approach",
+      "cost approach",
+      "coding ai",
+      "coding ai",
+      "flash",
+      "source",
+      "reactions"
+    ],
+    "summary": "# MAI-Code-1-Flash Highlights Microsoft’s Lower-Cost Approach to Coding AI > Source: devto | Category: news | 2026-08-11T19:36:09Z Microsoft’s MAI-Code-1-Flash is the more concrete story behind recent claims of a cheaper, more..."
+  },
+  "e5aced9aabe5a92a": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-ai-commit-message-script-assumed-eve_3f004c7770.md",
+    "source": "devto",
+    "title": "My AI Commit-Message Script Assumed Every File in My Repo Is UTF-8. Mine Wasn't.",
+    "url": "https://dev.to/enjoy_kumawat/my-ai-commit-message-script-assumed-every-file-in-my-repo-is-utf-8-mine-wasnt-55b1",
+    "keywords": [
+      "staged diff",
+      "small script",
+      "asks claude",
+      "ai commit",
+      "ai commit",
+      "utf",
+      "utf",
+      "turn",
+      "source",
+      "repo"
+    ],
+    "summary": "# My AI Commit-Message Script Assumed Every File in My Repo Is UTF-8. > Source: devto | Category: news | 2026-08-11T19:36:11Z I have a small script, git_commit.py, that reads my staged diff and asks Claude to turn it into a..."
+  },
+  "127b5140f51f1cd9": {
+    "file": "corpus/devto/dev_to_safiyevmarat_why-ai-agents-say-done-when-the-task-act_04f89ce71f.md",
+    "source": "devto",
+    "title": "Why AI Agents Say “Done” When the Task Actually Failed",
+    "url": "https://dev.to/safiyevmarat/why-ai-agents-say-done-when-the-task-actually-failed-5ck1",
+    "keywords": [
+      "surprisingly simple reliability problem",
+      "task actually failed",
+      "task actually failed",
+      "often confuse performing",
+      "14z ai agents",
+      "action ...",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Why AI Agents Say “Done” When the Task Actually Failed > Source: devto | Category: news | 2026-08-11T19:36:14Z AI agents have a surprisingly simple reliability problem:  They often confuse performing an action..."
+  },
+  "4ce4309eb198202d": {
+    "file": "corpus/devto/dev_to_keparlak_you-cant-set-a-status-in-jira-4d7p_d3dcee4c93.md",
+    "source": "devto",
+    "title": "You can't set a status in Jira",
+    "url": "https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p",
+    "keywords": [
+      "08z agents write",
+      "started modelling",
+      "class ...",
+      "work trackers",
+      "trackers",
+      "status",
+      "status",
+      "source",
+      "set",
+      "set"
+    ],
+    "summary": "# You can't set a status in Jira > Source: devto | Category: news | 2026-08-11T19:36:08Z Agents write to work trackers now, and the trackers have started modelling them as first-class..."
+  },
+  "2737abd66d5285b3": {
+    "file": "corpus/devto/dev_to_anthony_yerhot_2d8b5de407_behavioral-analysis-the-cha_f119640121.md",
+    "source": "devto",
+    "title": "Behavioral Analysis: The Challenge of the Tab",
+    "url": "https://dev.to/anthony_yerhot_2d8b5de407/behavioral-analysis-the-challenge-of-the-tab-3a1j",
+    "keywords": [
+      "13z currently working",
+      "user ’",
+      "behavioral analysis",
+      "behavioral analysis",
+      "tab",
+      "tab",
+      "source",
+      "site",
+      "saas",
+      "reads"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-11T19:36:13Z Currently working on a Saas that reads a user’s behavior on a site. The goal is keeping it..."
+  },
+  "b3c426db2dc0f72e": {
+    "file": "corpus/devto/dev_to_luckyguy_how-i-built-a-100-client-side-text-repeater-_ca3e5bdc3e.md",
+    "source": "devto",
+    "title": "How I Built a 100% Client-Side Text Repeater (And Why Your Data Never Leaves the Browser",
+    "url": "https://dev.to/luckyguy/how-i-built-a-100-client-side-text-repeater-and-why-your-data-never-leaves-the-browser-4ff5",
+    "keywords": [
+      "side text repeater",
+      "side text repeater",
+      "data never leaves",
+      "data never leaves",
+      "weeks ago",
+      "repeat ...",
+      "line like",
+      "friend asked",
+      "could take",
+      "❤️\""
+    ],
+    "summary": "# How I Built a 100% Client-Side Text Repeater (And Why Your Data Never Leaves the Browser > Source: devto | Category: news | 2026-08-11T19:36:13Z A few weeks ago a friend asked me for a tool that could take a line like \"I Love You ❤️\" and repeat..."
+  },
+  "6258cb5d6ce74cfd": {
+    "file": "corpus/devto/dev_to_ravipurohit1991_mirchi-mirabelle-every-dish-on-this-m_9c35cc2f98.md",
+    "source": "devto",
+    "title": "Mirchi & Mirabelle: every dish on this menu is two places that never met 🍲",
+    "url": "https://dev.to/ravipurohit1991/mirchi-mirabelle-every-dish-on-this-menu-is-two-places-that-never-met-2hof",
+    "keywords": [
+      "never met 🍲",
+      "never met 🍲",
+      "comfort food edition",
+      "perfect landing mirchi",
+      "two places",
+      "two places",
+      "frontend challenge",
+      "every dish",
+      "every dish",
+      "amp ;..."
+    ],
+    "summary": "# Mirchi & Mirabelle: every dish on this menu is two places that never met 🍲 > Source: devto | Category: news | 2026-08-11T19:36:10Z This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing Mirchi &amp;..."
+  },
+  "a5e583e25f5c3b1a": {
+    "file": "corpus/devto/dev_to_freema_i-didnt-want-to-build-one-game-so-i-built-a-wh_a466f62dfc.md",
+    "source": "devto",
+    "title": "I didn't want to build one game, so I built a whole portal, and the pixel-art pipeline to feed it",
+    "url": "https://dev.to/freema/i-didnt-want-to-build-one-game-so-i-built-a-whole-portal-and-the-pixel-art-pipeline-to-feed-it-223k",
+    "keywords": [
+      "building one game",
+      "build one game",
+      "build one game",
+      "hold many",
+      "art pipeline",
+      "art pipeline",
+      "10z instead",
+      "whole portal",
+      "whole portal",
+      "portal"
+    ],
+    "summary": "# I didn't want to build one game, so I built a whole portal, and the pixel-art pipeline to feed it Instead of building one game, I built a portal to hold many of them. I know how that..."
+  },
+  "2c045221d60dc6d7": {
+    "file": "corpus/devto/dev_to_jutionck_i-built-livepoll-an-open-source-real-time-po_7a79d5c6e9.md",
+    "source": "devto",
+    "title": "I Built LivePoll: An Open-Source Real-Time Polling Tool for Communities",
+    "url": "https://dev.to/jutionck/i-built-livepoll-an-open-source-real-time-polling-tool-for-communities-56kh",
+    "keywords": [
+      "time polling tool",
+      "time polling tool",
+      "time polling tool",
+      "regularly work ...",
+      "built livepoll",
+      "built livepoll",
+      "built livepoll",
+      "source real",
+      "source real",
+      "source real"
+    ],
+    "summary": "# I Built LivePoll: An Open-Source Real-Time Polling Tool for Communities > Source: devto | Category: news | 2026-08-11T19:36:12Z I Built LivePoll: An Open-Source Real-Time Polling Tool for Communities   I regularly work..."
+  },
+  "adec035b8c0a578e": {
+    "file": "corpus/devto/dev_to_kenryikegbo_why-use-then-when-asyncawait-is-cleaner-1_491a4f3d1c.md",
+    "source": "devto",
+    "title": "Why Use .then() When Async/Await Is Cleaner?",
+    "url": "https://dev.to/kenryikegbo/why-use-then-when-asyncawait-is-cleaner-1k11",
+    "keywords": [
+      "modern javascript developer",
+      "javascript deep dives",
+      "handle asynchronous ...",
+      "13z series",
+      "use",
+      "use",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Why Use .then() When Async/Await Is Cleaner? > Source: devto | Category: news | 2026-08-11T19:36:13Z series: JavaScript Deep Dives  If you ask any modern JavaScript developer how to handle asynchronous..."
+  },
+  "e19ce978054f7afb": {
+    "file": "corpus/devto/dev_to_lovestaco_the-guy-who-invented-the-internets-front-do_b73ec17501.md",
+    "source": "devto",
+    "title": "The Guy Who Invented the Internet's Front Door and Refused to Charge Rent",
+    "url": "https://dev.to/lovestaco/the-guy-who-invented-the-internets-front-door-and-refused-to-charge-rent-4igd",
+    "keywords": [
+      "micro ai code reviewer",
+      "front door",
+      "front door",
+      "every commit",
+      "charge rent",
+      "charge rent",
+      "building git",
+      "09z hello",
+      "source",
+      "runs"
+    ],
+    "summary": "# The Guy Who Invented the Internet's Front Door and Refused to Charge Rent > Source: devto | Category: news | 2026-08-11T19:36:09Z I'm building git-lrc, a Micro AI code reviewer that runs on every commit."
+  },
+  "b50c51fd6022ff09": {
+    "file": "corpus/vercel-blog/vercel_com_blog_everything-hackable-will-get-hacked_1113be99a6.md",
+    "source": "vercel-blog",
+    "title": "Everything hackable will get hacked",
+    "url": "https://vercel.com/blog/everything-hackable-will-get-hacked",
+    "keywords": [
+      "15z everything hackable",
+      "everything hackable",
+      "everything hackable",
+      "get hacked",
+      "get hacked",
+      "get hacked",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Everything hackable will get hacked > Source: vercel-blog | Category: news | 2026-08-11T19:36:15Z Everything hackable will get hacked"
+  },
+  "a14a51d33ae70329": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_enterprise-managed-users_c3d5b9e206.md",
+    "source": "vercel-blog",
+    "title": "Enterprise Managed Users is now generally available",
+    "url": "https://vercel.com/changelog/enterprise-managed-users",
+    "keywords": [
+      "15z enterprise managed users",
+      "enterprise managed users",
+      "enterprise managed users",
+      "generally available",
+      "generally available",
+      "generally available",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Enterprise Managed Users is now generally available > Source: vercel-blog | Category: news | 2026-08-11T19:36:15Z Enterprise Managed Users is now generally available"
+  },
+  "370b0529b15ef083": {
+    "file": "corpus/security/thehackernews_com_2026_08_sandworm-linked-uac-0145-uses-fake_cf109a85f8.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+    "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+    "keywords": [
+      "computer emergency response team",
+      "state threat actors targeting",
+      "subgroup within sandworm",
+      "threat cluster",
+      "russian nation",
+      "run commands",
+      "run commands",
+      "run commands",
+      "push vpn",
+      "push vpn"
+    ],
+    "summary": "# [hacker-news-sec] Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware."
+  },
+  "fa5181e727b2833f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_delta-probes-wi-fi-de_0f85616fcc.md",
+    "source": "security",
+    "title": "[bleeping-comp] Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+    "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+    "keywords": [
+      "def con hacker convention",
+      "59z delta probes wi",
+      "delta probes wi",
+      "delta probes wi",
+      "atlanta carrying passengers",
+      "fi deauth attack",
+      "fi deauth attack",
+      "fi deauth attack",
+      "unauthorized wi",
+      "fi network"
+    ],
+    "summary": "# [bleeping-comp] Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention."
+  },
+  "22a5206a7246a041": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48232_apple-pay-and-wallet-chie_9ffcbb9ad8.md",
+    "source": "finance",
+    "title": "[finextra] Apple Pay and Wallet chief Bailey to leave",
+    "url": "https://www.finextra.com/newsarticle/48232/apple-pay-and-wallet-chief-bailey-to-leave?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "wallet chief bailey",
+      "wallet chief bailey",
+      "wallet chief bailey",
+      "58z apple pay",
+      "wallet services",
+      "jennifer bailey",
+      "apple pay",
+      "apple pay",
+      "tech giant",
+      "23 years"
+    ],
+    "summary": "# [finextra] Apple Pay and Wallet chief Bailey to leave Apple Pay and Wallet chief Bailey to leave Apple's head of payment and wallet services, Jennifer Bailey, is leaving after 23 years at the tech giant."
+  },
+  "353dbc0eb8a82413": {
+    "file": "corpus/hackernews/tensor_khalilli_ai_blog_part-0-the-map_31e90d9de1.md",
+    "source": "hackernews",
+    "title": "The whole of PyTorch on one page",
+    "url": "https://tensor.khalilli.ai/blog/part-0-the-map/",
+    "keywords": [
+      "one page",
+      "one page",
+      "59z score",
+      "whole",
+      "whole",
+      "source",
+      "pytorch",
+      "pytorch",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The whole of PyTorch on one page > Source: hackernews | Category: news | 2026-08-11T19:35:59Z Score: 8 | Comments: 0"
+  },
+  "abeb417234cb70b7": {
+    "file": "corpus/hackernews/twitter_com_OpenAI_status_2087231350134980830_50eb7db2d0.md",
+    "source": "hackernews",
+    "title": "ChatGPT Desktop App for Linux",
+    "url": "https://twitter.com/OpenAI/status/2087231350134980830",
+    "keywords": [
+      "chatgpt desktop app",
+      "chatgpt desktop app",
+      "08z score",
+      "source",
+      "news",
+      "linux",
+      "linux",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# ChatGPT Desktop App for Linux > Source: hackernews | Category: news | 2026-08-11T19:36:08Z Score: 8 | Comments: 0"
+  },
+  "5088fb35d88de1d7": {
+    "file": "corpus/hackernews/master_dev_blog_typographic-css-tricks_abc1fb305b.md",
+    "source": "hackernews",
+    "title": "CSS properties you should know for better text designs",
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "keywords": [
+      "better text designs",
+      "better text designs",
+      "css properties",
+      "css properties",
+      "02z score",
+      "source",
+      "news",
+      "know",
+      "know",
+      "hackernews"
+    ],
+    "summary": "# CSS properties you should know for better text designs > Source: hackernews | Category: news | 2026-08-11T19:36:02Z Score: 6 | Comments: 0"
+  },
+  "a35c54b05921582d": {
+    "file": "corpus/hackernews/adamtornhill_substack_com_p_five-programming-books-that-chan_4ff1f55c7b.md",
+    "source": "hackernews",
+    "title": "Five Programming Books That Changed How I Think",
+    "url": "https://adamtornhill.substack.com/p/five-programming-books-that-changed",
+    "keywords": [
+      "five programming books",
+      "five programming books",
+      "07z score",
+      "think",
+      "think",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "changed"
+    ],
+    "summary": "# Five Programming Books That Changed How I Think > Source: hackernews | Category: news | 2026-08-11T19:36:07Z Score: 4 | Comments: 0"
+  },
+  "023d24269815b5d7": {
+    "file": "corpus/hackernews/www_emergingtrajectories_com_lh_japan-economy-tradeoffs_dd2ca5bb30.md",
+    "source": "hackernews",
+    "title": "The Tradeoffs Facing Japan's Economy",
+    "url": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+    "keywords": [
+      "tradeoffs facing japan",
+      "tradeoffs facing japan",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "economy",
+      "economy",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Tradeoffs Facing Japan's Economy > Source: hackernews | Category: news | 2026-08-11T19:36:00Z Score: 27 | Comments: 7"
+  },
+  "c2590a33a3e85825": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_08_04_us_ai-boss-san-francisco-andon-ma_eb2875864e.md",
+    "source": "hackernews",
+    "title": "A new study of a bot running a store finds it is friendly but not very smart",
+    "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+    "keywords": [
+      "store finds",
+      "store finds",
+      "new study",
+      "new study",
+      "bot running",
+      "bot running",
+      "00z score",
+      "source",
+      "smart",
+      "smart"
+    ],
+    "summary": "# A new study of a bot running a store finds it is friendly but not very smart > Source: hackernews | Category: news | 2026-08-11T19:36:00Z Score: 7 | Comments: 2"
+  },
+  "f169df864bb3e68e": {
+    "file": "corpus/hackernews/ironicsans_ghost_io_how-we-used-to-get-jobs_fecd257c0b.md",
+    "source": "hackernews",
+    "title": "How we used to get jobs: A newspaper classifieds story",
+    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "keywords": [
+      "newspaper classifieds story",
+      "newspaper classifieds story",
+      "get jobs",
+      "get jobs",
+      "58z score",
+      "used",
+      "used",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How we used to get jobs: A newspaper classifieds story > Source: hackernews | Category: news | 2026-08-11T19:35:58Z Score: 32 | Comments: 10"
+  },
+  "6ee0413a9e96d9ac": {
+    "file": "corpus/hackernews/blog_jordan_matelsky_com_Penplotter-holography_acf37bc9ae.md",
+    "source": "hackernews",
+    "title": "Making holograms with a pen plotter",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "keywords": [
+      "pen plotter",
+      "pen plotter",
+      "making holograms",
+      "making holograms",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Making holograms with a pen plotter > Source: hackernews | Category: news | 2026-08-11T19:35:58Z Score: 9 | Comments: 2"
+  },
+  "952a3c291952938a": {
+    "file": "corpus/hackernews/www_ft_com_content_e49dfb75-f841-4466-a577-f7aaff8779a0_3641f6219d.md",
+    "source": "hackernews",
+    "title": "OpenAI’s head of ethics leaves less than a year after joining",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "keywords": [
+      "ph &# x2f",
+      "ph &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      ">< p ><",
+      "news &# x2f",
+      "news &# x2f",
+      "ethics leaves less",
+      "ethics leaves less",
+      "ch ...</"
+    ],
+    "summary": "# OpenAI’s head of ethics leaves less than a year after joining > Source: hackernews | Category: news | 2026-08-11T19:35:59Z <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;W48UV\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;W48UV</a><p><a href=\"https:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;why-did-openai-head-of-ethics-chloe-bakalar-leave\" rel=\"nofollow\">https:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;why-did-openai-head-of-ethics-ch...</a>"
   }
 }
