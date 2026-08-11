@@ -1,0 +1,18 @@
+---
+title: "[bleeping-comp] Cisco warns of high-severity ClamAV flaws with public exploits"
+url: "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "bleeping-comp"]
+date: "2026-08-11T11:11:22Z"
+metadata:
+  {}
+---
+
+# [bleeping-comp] Cisco warns of high-severity ClamAV flaws with public exploits
+
+> Source: security | Category: security | 2026-08-11T11:11:22Z
+
+Cisco warns of high-severity ClamAV flaws with public exploits
+
+Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]
