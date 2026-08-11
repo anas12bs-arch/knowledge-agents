@@ -397513,5 +397513,228 @@
       "0 released"
     ],
     "summary": "Proxy selection now goes through a `createProxyDispatcher(env)` factory that checks `ALL_PROXY` / `all_proxy` for a `socks*://` URL before falling back to the existing HTTP/HTTPS handling. `ALL_PROXY` with a non-SOCKS scheme is ignored here — `HTTP_PROXY` / `HTTPS_PROXY` remain the way to configure those. Existing `HTTPS_PROXY` / `HTTP_PROXY` / `NO_PROXY` handling via `undici.EnvHttpProxyAgent` is unchanged."
+  },
+  "740bf87544c155e9": {
+    "file": "corpus/product/techcrunch_com_2026_08_11_phoebe-gates-and-sophia-kianni-rep_d68a95553d.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+    "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+    "keywords": [
+      "‘ cookie stuffing ’",
+      "‘ cookie stuffing ’",
+      "‘ cookie stuffing ’",
+      "shopping startup co",
+      "alleged business practices",
+      "57z phoebe gates",
+      "phoebe gates",
+      "phoebe gates",
+      "phoebe gates",
+      "sophia kianni"
+    ],
+    "summary": "# [techcrunch-startups] Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices."
+  },
+  "57b0da3dbbcb217d": {
+    "file": "corpus/ai-research/openai_com_index_daybreak-models-are-now-available-on-aws_5d3aff0aba.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Daybreak models are now available on AWS",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "keywords": [
+      "support enterprise security workflows",
+      "55z daybreak models",
+      "daybreak models",
+      "daybreak models",
+      "amazon bedrock",
+      "aws openai",
+      "openai",
+      "openai",
+      "aws",
+      "aws"
+    ],
+    "summary": "# [openai-blog] Daybreak models are now available on AWS Daybreak models are now available on AWS OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+  },
+  "154fafdc37b2a2e8": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_gunra-ransomw_5556828abf.md",
+    "source": "security",
+    "title": "[dark-reading] Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
+    "keywords": [
+      "leaked conti code",
+      "critical infrastructure targets",
+      "vpn appliances",
+      "service operation",
+      "old flaws",
+      "finding success",
+      "bypasses mfa",
+      "bypasses mfa",
+      "bypasses mfa",
+      "source"
+    ],
+    "summary": "# [dark-reading] Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances."
+  },
+  "cb047c3c624693f4": {
+    "file": "corpus/security/krebsonsecurity_com_2026_08_microsoft-plugs-nearly-400-secur_215b91448d.md",
+    "source": "security",
+    "title": "[krebs] Microsoft Plugs Nearly 400 Security Holes",
+    "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+    "keywords": [
+      "least 398 security vulnerabilities",
+      "windows operating systems",
+      "publicly detailed prior",
+      "including one weakness",
+      "two others",
+      "supported software",
+      "actively exploited",
+      "security",
+      "security",
+      "today"
+    ],
+    "summary": "# [krebs] Microsoft Plugs Nearly 400 Security Holes Microsoft Plugs Nearly 400 Security Holes Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
+  },
+  "8c9dacf4caab1d6a": {
+    "file": "corpus/security/www_darkreading_com_application-security_microsofts-patch-tu_a0b8784b0a.md",
+    "source": "security",
+    "title": "[dark-reading] Microsoft's Patch Tuesday Deluge Continues With August Updates",
+    "url": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+    "keywords": [
+      "patch tuesday deluge continues",
+      "patch tuesday deluge continues",
+      "patch tuesday deluge continues",
+      "massive cve volume",
+      "main focus",
+      "august updates",
+      "august updates",
+      "august updates",
+      "57z microsoft",
+      "microsoft"
+    ],
+    "summary": "# [dark-reading] Microsoft's Patch Tuesday Deluge Continues With August Updates Microsoft's Patch Tuesday Deluge Continues With August Updates Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume."
+  },
+  "ca6202056667672b": {
+    "file": "corpus/finance/techcrunch_com_2026_08_11_accel-closes-oversubscribed-550m-i_dc1f32fc90.md",
+    "source": "finance",
+    "title": "[tc-venture] Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "keywords": [
+      "55z accel closes oversubscribed",
+      "accel closes oversubscribed",
+      "accel closes oversubscribed",
+      "vc firm still",
+      "19 months",
+      "19 months",
+      "19 months",
+      "venture",
+      "venture"
+    ],
+    "summary": "# [tc-venture] Accel closes oversubscribed $550M India fund within weeks, 19 months after its last Accel closes oversubscribed $550M India fund within weeks, 19 months after its last The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+  },
+  "a92f2dccfdb4bf70": {
+    "file": "corpus/hackernews/www_wired_com_story_dhs-is-hiring-bounty-hunters-to-find-and_9c152ebcbb.md",
+    "source": "hackernews",
+    "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People's Homes",
+    "url": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
+    "keywords": [
+      "photograph deported people",
+      "photograph deported people",
+      "hiring bounty hunters",
+      "hiring bounty hunters",
+      "02z score",
+      "source",
+      "news",
+      "homes",
+      "homes",
+      "hackernews"
+    ],
+    "summary": "# DHS Is Hiring Bounty Hunters to Find and Photograph Deported People's Homes > Source: hackernews | Category: news | 2026-08-11T22:00:02Z Score: 9 | Comments: 1"
+  },
+  "da21016691ae9eb8": {
+    "file": "corpus/hackernews/www_psupress_org_books_titles_978-0-271-06650-9_html_srsltid_996b6a512e.md",
+    "source": "hackernews",
+    "title": "An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk",
+    "url": "https://www.psupress.org/books/titles/978-0-271-06650-9.html?srsltid=AfmBOorGIOS9Y77k3J_CX6UWqfZlPbHXO-8zSjtD5coAKmnN47_e9kAW&utm_source=chatgpt.com",
+    "keywords": [
+      "century french monk",
+      "century french monk",
+      "visionary autobiography",
+      "visionary autobiography",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "fourteenth",
+      "fourteenth"
+    ],
+    "summary": "# An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk > Source: hackernews | Category: news | 2026-08-11T21:59:58Z Score: 7 | Comments: 0"
+  },
+  "1c04330cc63e878c": {
+    "file": "corpus/hackernews/x_ai_bot_3b295a1700.md",
+    "source": "hackernews",
+    "title": "Grok Bot",
+    "url": "https://x.ai/bot",
+    "keywords": [
+      "grok bot",
+      "grok bot",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Grok Bot > Source: hackernews | Category: news | 2026-08-11T21:59:58Z Score: 45 | Comments: 41"
+  },
+  "121069ca67a77141": {
+    "file": "corpus/hackernews/arstechnica_com_health_2026_08_less-than-2-5-of-taylor-farms_b64ea38750.md",
+    "source": "hackernews",
+    "title": "FDA report reveals where Taylor Farms sent its lettuce–and it raises questions",
+    "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+    "keywords": [
+      "taylor farms sent",
+      "taylor farms sent",
+      "fda report reveals",
+      "fda report reveals",
+      "raises questions",
+      "raises questions",
+      "lettuce –",
+      "lettuce –",
+      "01z score",
+      "source"
+    ],
+    "summary": "# FDA report reveals where Taylor Farms sent its lettuce–and it raises questions > Source: hackernews | Category: news | 2026-08-11T22:00:01Z Score: 8 | Comments: 1"
+  },
+  "d57eced36c7b970c": {
+    "file": "corpus/hackernews/www_paradigm_xyz_writing_rsi-simulator_4387acdd9b.md",
+    "source": "hackernews",
+    "title": "RSI Simulator",
+    "url": "https://www.paradigm.xyz/writing/rsi-simulator",
+    "keywords": [
+      "xyz &# x2f",
+      "xyz &# x2f",
+      "research &# x2f",
+      "research &# x2f",
+      "rsi &# x2f",
+      "rsi &# x2f",
+      "rsi simulator",
+      "rsi simulator",
+      "57z score",
+      "game </"
+    ],
+    "summary": "# RSI Simulator > Source: hackernews | Category: news | 2026-08-11T21:59:57Z <a href=\"https:&#x2F;&#x2F;www.paradigm.xyz&#x2F;research&#x2F;rsi&#x2F;game\" rel=\"nofollow\">https:&#x2F;&#x2F;www.paradigm.xyz&#x2F;research&#x2F;rsi&#x2F;game</a>"
+  },
+  "9cb4332521f4c2ce": {
+    "file": "corpus/hackernews/www_effort_news_p4ne_603a4be07c.md",
+    "source": "hackernews",
+    "title": "The 19th-Century Family Fortunes Funding Degrowth",
+    "url": "https://www.effort.news/p4ne",
+    "keywords": [
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "19th"
+    ],
+    "summary": "# The 19th-Century Family Fortunes Funding Degrowth > Source: hackernews | Category: news | 2026-08-11T21:59:59Z Score: 3 | Comments: 1"
   }
 }
