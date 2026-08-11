@@ -395682,5 +395682,365 @@
       "hackernews"
     ],
     "summary": "# Halcyon Video – a 3D video store for your media server > Source: hackernews | Category: news | 2026-08-11T15:52:57Z Score: 18 | Comments: 6"
+  },
+  "e1d9853af0277d79": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_aB5LGrHISqY_a95ed03a48.md",
+    "source": "youtube",
+    "title": "[fireship] Robot demos have a dirty little secret...",
+    "url": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+    "keywords": [
+      "dirty little secret ...",
+      "dirty little secret ...",
+      "spent last week",
+      "https :// bytes",
+      "https :// bit",
+      "csail lab learning",
+      "open source meta",
+      "dev 🧠 courses",
+      "54z robot demos",
+      "https :// fireship"
+    ],
+    "summary": "# [fireship] Robot demos have a dirty little secret... Omnigent is an open source meta-harness to run all your AI agents in one place. I spent last week at MIT's CSAIL lab learning where the frontier of robotics actually is."
+  },
+  "d35a4b07edf5309e": {
+    "file": "corpus/devto/dev_to_parsajiravand_youre-polling-setinterval-to-detect-dom_5409436387.md",
+    "source": "devto",
+    "title": "You're polling setInterval to detect DOM changes. `MutationObserver` fires when they happen.",
+    "url": "https://dev.to/parsajiravand/youre-polling-setinterval-to-detect-dom-changes-mutationobserver-fires-when-they-happen-5do",
+    "keywords": [
+      "party widget injects",
+      "detect dom changes",
+      "detect dom changes",
+      "trigger —",
+      "polling setinterval",
+      "polling setinterval",
+      "library ...",
+      "dom",
+      "ways",
+      "third"
+    ],
+    "summary": "# You're polling setInterval to detect DOM changes. `MutationObserver` fires when they happen. The DOM can change in ways your code didn't trigger — a third-party widget injects a node, a library..."
+  },
+  "9a3463d2de678bc0": {
+    "file": "corpus/devto/dev_to_phero20_i-built-a-concurrent-resource-scheduler-in-go_9d2f7b16f1.md",
+    "source": "devto",
+    "title": "I Built a Concurrent Resource Scheduler in Go Using Sharded Priority Heaps",
+    "url": "https://dev.to/phero20/i-built-a-concurrent-resource-scheduler-in-go-using-sharded-priority-heaps-5g34",
+    "keywords": [
+      "maintaining reusable resources",
+      "heavy concurrent load",
+      "concurrent resource scheduler",
+      "concurrent resource scheduler",
+      "concurrent resource scheduler",
+      "complete technical breakdown",
+      "agnostic go library",
+      "source",
+      "selecting"
+    ],
+    "summary": "# I Built a Concurrent Resource Scheduler in Go Using Sharded Priority Heaps > Source: devto | Category: news | 2026-08-11T16:42:39Z A complete technical breakdown of Concurrent Resource Scheduler (CRS) — a high-performance, domain-agnostic Go library for selecting, prioritizing, routing, and maintaining reusable resources under heavy concurrent load."
+  },
+  "8a466575239457e3": {
+    "file": "corpus/devto/dev_to_michael_agentic_why-your-agents-tool-list-keeps-drift_130dcbb555.md",
+    "source": "devto",
+    "title": "Why your agent's tool list keeps drifting away from your database",
+    "url": "https://dev.to/michael_agentic/why-your-agents-tool-list-keeps-drifting-away-from-your-database-3hmb",
+    "keywords": [
+      "model requests exactly",
+      "usual pitch",
+      "source",
+      "reactions",
+      "news",
+      "needs",
+      "graphql",
+      "fields",
+      "devto",
+      "database"
+    ],
+    "summary": "# Why your agent's tool list keeps drifting away from your database > Source: devto | Category: news | 2026-08-11T16:42:40Z The usual pitch for GraphQL and agents is that the model requests exactly the fields it needs, so you..."
+  },
+  "02386121ea1d56f6": {
+    "file": "corpus/devto/dev_to_cridiv_our-benchmark-was-wrong-and-a-strangers-blog-p_539a457e38.md",
+    "source": "devto",
+    "title": "Our benchmark was wrong, and a stranger's blog post is why we found out",
+    "url": "https://dev.to/cridiv/our-benchmark-was-wrong-and-a-strangers-blog-post-is-why-we-found-out-30n9",
+    "keywords": [
+      "541 requests per ...",
+      "weeks ago",
+      "blog post",
+      "blog post",
+      "wrong",
+      "wrong",
+      "stranger",
+      "stranger",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Our benchmark was wrong, and a stranger's blog post is why we found out > Source: devto | Category: news | 2026-08-11T16:42:39Z A few weeks ago I published a number for Auvis, the proxy I've been building."
+  },
+  "b38b14ee70a3de4f": {
+    "file": "corpus/devto/dev_to_mighty840_secrets-that-live-in-git-encrypted-no-vault_a4c39f8304.md",
+    "source": "devto",
+    "title": "Secrets that live in git - encrypted, no Vault, no sidecar",
+    "url": "https://dev.to/mighty840/secrets-that-live-in-git-encrypted-no-vault-no-sidecar-4ia5",
+    "keywords": [
+      "secret manager",
+      "gitops repo",
+      "circular dependency",
+      "vault",
+      "vault",
+      "source",
+      "sidecar",
+      "sidecar",
+      "secrets",
+      "secrets"
+    ],
+    "summary": "# Secrets that live in git - encrypted, no Vault, no sidecar > Source: devto | Category: news | 2026-08-11T16:42:42Z Why a secret manager is a circular dependency for an orchestrator, and how age + SOPS let secrets live encrypted in your GitOps repo."
+  },
+  "97b92ad8d5eea737": {
+    "file": "corpus/devto/dev_to_scott_steinmetz_a-digital-toolbox-for-seven-locations_ed7a8e3f14.md",
+    "source": "devto",
+    "title": "A Digital Toolbox for Seven Locations (and Every Truck)",
+    "url": "https://dev.to/scott_steinmetz/a-digital-toolbox-for-seven-locations-and-every-truck-1141",
+    "keywords": [
+      "seven business locations",
+      "seven locations",
+      "seven locations",
+      "parts warehouse",
+      "maintenance person",
+      "every truck",
+      "every truck",
+      "digital toolbox",
+      "digital toolbox",
+      "body ..."
+    ],
+    "summary": "# A Digital Toolbox for Seven Locations (and Every Truck) > Source: devto | Category: news | 2026-08-11T16:42:43Z I'm the only maintenance person for seven business locations."
+  },
+  "3b38fb6cadcb89a8": {
+    "file": "corpus/devto/dev_to_arshtechpro_how-dopamine-works-the-architecture-of-a-_8ef355279e.md",
+    "source": "devto",
+    "title": "How Dopamine Works: The Architecture of a Modern iOS Jailbreak",
+    "url": "https://dev.to/arshtechpro/how-dopamine-works-the-architecture-of-a-modern-ios-jailbreak-2hj3",
+    "keywords": [
+      "modern ios jailbreak",
+      "modern ios jailbreak",
+      "never jailbreak",
+      "dopamine works",
+      "dopamine works",
+      "source",
+      "reactions",
+      "phone",
+      "news",
+      "fine"
+    ],
+    "summary": "# How Dopamine Works: The Architecture of a Modern iOS Jailbreak Most developers will never jailbreak a phone. This article is not a how-to, and there..."
+  },
+  "a99a28a5b19c9eca": {
+    "file": "corpus/ai-research/openai_com_index_testing-ads-in-chatgpt_b19ec562c4.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "keywords": [
+      "support free access",
+      "strong privacy protections",
+      "32z testing ads",
+      "testing ads",
+      "testing ads",
+      "user control",
+      "clear labeling",
+      "answer independence",
+      "source",
+      "research"
+    ],
+    "summary": "# [openai-blog] Testing ads in ChatGPT > Source: ai-research | Category: research | 2026-08-11T16:42:32Z OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+  },
+  "2b7626513299677f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_08_trump-to-give-republican_fffbaf0ee9.md",
+    "source": "legal",
+    "title": "[ars-policy] Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
+    "keywords": [
+      "filling empty democratic seat",
+      "filling empty democratic seat",
+      "1 fcc majority",
+      "1 fcc majority",
+      "1 fcc majority",
+      "resisted urge",
+      "give republicans",
+      "give republicans",
+      "give republicans",
+      "32z trump"
+    ],
+    "summary": "# [ars-policy] Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win."
+  },
+  "e3dcbc109bb78343": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_11_minnesota-is-trying-to-talk-texa_3111b8c951.md",
+    "source": "legal",
+    "title": "[techdirt] Minnesota Is Trying To Talk Texas Into Extraditing An Arrested ICE Officer To Face Assault Charges",
+    "url": "https://www.techdirt.com/2026/08/11/minnesota-is-trying-to-talk-texas-into-extraditing-an-arrested-ice-officer-to-face-assault-charges/",
+    "keywords": [
+      "even pulled fbi agents",
+      "actively blocked state investigators",
+      "ice [&# 8230 ;]",
+      "face assault charges",
+      "face assault charges",
+      "face assault charges",
+      "ice officer accountable",
+      "arrested ice officer",
+      "arrested ice officer",
+      "arrested ice officer"
+    ],
+    "summary": "# [techdirt] Minnesota Is Trying To Talk Texas Into Extraditing An Arrested ICE Officer To Face Assault Charges Will anyone ever hold an ICE officer accountable for shooting or killing someone? Maybe, but it won&#8217;t be anyone from this administration &#8212; one that has actively blocked state investigators from following up on ICE shootings and even pulled FBI agents from ongoing investigations so ICE can forgive itself for its officers actions."
+  },
+  "09744a4fe8f39b44": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49260542_af56ab4a1a.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49260542",
+    "keywords": [
+      "build production ai workflows",
+      "strong software engineer",
+      "stage &# x2f",
+      "someone genuinely interested",
+      "ml &# x2f",
+      "langgraph &# x2f",
+      "founding software engineer",
+      "core founding team",
+      "antimicrobial resistance research",
+      "antibiotic drug repurposing"
+    ],
+    "summary": "Looking for a strong software engineer to join the core founding team and build production AI workflows, backend infrastructure and scientific tooling. Stack: Python, LangGraph&#x2F;LangChain, APIs, cloud, AI agents; experience with ML&#x2F;biotech is a plus. Looking for someone genuinely interested in building long term."
+  },
+  "762b90768b129aa7": {
+    "file": "corpus/product/techcrunch_com_2026_08_11_kyoto-fusioneering-starts-work-on-_3031b280e0.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Kyoto Fusioneering starts work on key fusion power plant device",
+    "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+    "keywords": [
+      "kyoto fusioneering starts work",
+      "kyoto fusioneering starts work",
+      "future power plants",
+      "kyoto fusioneering",
+      "supply components",
+      "fuel system",
+      "based startup",
+      "turning",
+      "techcrunch",
+      "techcrunch"
+    ],
+    "summary": "# [techcrunch-startups] Kyoto Fusioneering starts work on key fusion power plant device Kyoto Fusioneering starts work on key fusion power plant device Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants."
+  },
+  "d7acbea9691dee2c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_wesco-confirms-securi_bc8bdcb78a.md",
+    "source": "security",
+    "title": "[bleeping-comp] Wesco confirms security incident after ExfilSquad claims data theft",
+    "url": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
+    "keywords": [
+      "exfilsquad claims data theft",
+      "exfilsquad claims data theft",
+      "wesco confirms security incident",
+      "wesco confirms security incident",
+      "distribution giant wesco",
+      "cybersecurity incident",
+      "security",
+      "security",
+      "statement",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] Wesco confirms security incident after ExfilSquad claims data theft Wesco confirms security incident after ExfilSquad claims data theft Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident."
+  },
+  "79a1a43a6bf701a4": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_ai-genie-in-the-wild__94e147bdf8.md",
+    "source": "security",
+    "title": "[schneier] AI Genie in the Wild",
+    "url": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
+    "keywords": [
+      "kicked another gym",
+      "classes several weeks",
+      "agent came back",
+      "book gym classes",
+      "&# 8230 ;.",
+      "ai agent reported",
+      "33z ai genie",
+      "ai genie",
+      "ai genie",
+      "&# 8217"
+    ],
+    "summary": "Someone named Andrew tasked OpenClaw to book gym classes for him. Minutes later, his AI agent reported it had discovered a way to book Andrew into classes several weeks in advance, far beyond what was supposed to be possible. Andrew, who was sitting fourth on a waitlist for a class later that week, asked if it was possible to move him to the top of the list."
+  },
+  "2ba1568527372b6a": {
+    "file": "corpus/engineering/newsletter_pragmaticengineer_com_p_optiver_5f0ab700bf.md",
+    "source": "engineering",
+    "title": "[pragmatic-engineer] Software engineering at a proprietary trading company: Optiver",
+    "url": "https://newsletter.pragmaticengineer.com/p/optiver",
+    "keywords": [
+      "building better ai models",
+      "building custom hardware",
+      "proprietary trading company",
+      "proprietary trading company",
+      "proprietary trading company",
+      "33z software engineering",
+      "software engineering",
+      "software engineering",
+      "tech companies",
+      "full stack"
+    ],
+    "summary": "# [pragmatic-engineer] Software engineering at a proprietary trading company: Optiver Software engineering at a proprietary trading company: Optiver A shift from a focus on latency to building better AI models, owning the full stack from applications to building custom hardware, very different incentives to most tech companies in play, and more"
+  },
+  "324b3a23361aafdc": {
+    "file": "corpus/hackernews/www_wsj_com_us-news_education_university-of-michigan-grades-_1eb5d730fc.md",
+    "source": "hackernews",
+    "title": "University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis",
+    "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+    "keywords": [
+      "curb mental health crisis",
+      "curb mental health crisis",
+      "michigan drops first",
+      "michigan drops first",
+      "semester grades",
+      "semester grades",
+      "33z score",
+      "university",
+      "university",
+      "source"
+    ],
+    "summary": "# University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis' > Source: hackernews | Category: news | 2026-08-11T16:42:33Z Score: 31 | Comments: 29"
+  },
+  "4dbdf95755ae3fd4": {
+    "file": "corpus/hackernews/writemd_app_41b8e7b1ab.md",
+    "source": "hackernews",
+    "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
+    "url": "https://writemd.app/",
+    "keywords": [
+      "themeable markdown editor",
+      "themeable markdown editor",
+      "show hn",
+      "show hn",
+      "35z score",
+      "write",
+      "write",
+      "source",
+      "source",
+      "source"
+    ],
+    "summary": "# Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS > Source: hackernews | Category: news | 2026-08-11T16:42:35Z Score: 11 | Comments: 0"
+  },
+  "6851c826e62ca7cc": {
+    "file": "corpus/hackernews/jolt-lang_github_io_f13d471318.md",
+    "source": "hackernews",
+    "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+    "url": "https://jolt-lang.github.io",
+    "keywords": [
+      "clojure compiler implemented",
+      "clojure compiler implemented",
+      "chez scheme",
+      "chez scheme",
+      "33z score",
+      "source",
+      "news",
+      "jolt",
+      "jolt",
+      "hackernews"
+    ],
+    "summary": "# Jolt: Clojure compiler implemented with Chez Scheme > Source: hackernews | Category: news | 2026-08-11T16:42:33Z Score: 20 | Comments: 3"
   }
 }
