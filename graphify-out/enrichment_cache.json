@@ -404155,5 +404155,194 @@
       "another batch"
     ],
     "summary": "-   fix: skip controlled each fast path while another batch is pending ([#18625](https://github.com/sveltejs/svelte/pull/18625)) -   fix: don't duplicate comments in attributes ([#18636](https://github.com/sveltejs/svelte/pull/18636)) -   fix: preserve CSS comments in the AST printer ([#18637](https://github.com/sveltejs/svelte/pull/18637))"
+  },
+  "6568c17acd87843c": {
+    "file": "corpus/devops/devops_com_the-verification-gap-behind-every-ai-generated-re_85415c1bd1.md",
+    "source": "devops",
+    "title": "[devops-com] The Verification Gap Behind Every AI-Generated Release",
+    "url": "https://devops.com/the-verification-gap-behind-every-ai-generated-release/",
+    "keywords": [
+      "production incident back",
+      "ai code generation",
+      "generated code",
+      "testing —",
+      "racing ahead",
+      "generated release",
+      "generated release",
+      "already traced",
+      "80 percent"
+    ],
+    "summary": "# [devops-com] The Verification Gap Behind Every AI-Generated Release The Verification Gap Behind Every AI-Generated Release Sauce Labs CEO Prince Kohli joins Mike Vizard to unpack why AI code generation is racing ahead of testing — and why 80 percent of organizations have already traced a production incident back to AI-generated code."
+  },
+  "eba8056e0e7353c8": {
+    "file": "corpus/devops/devops_com_why-ci-cd-security-testing-is-going-autonomous-an_7b0f7217b5.md",
+    "source": "devops",
+    "title": "[devops-com] Why CI/CD Security Testing Is Going Autonomous (and Why It Should Stay Local)",
+    "url": "https://devops.com/why-ci-cd-security-testing-is-going-autonomous-and-why-it-should-stay-local/",
+    "keywords": [
+      "security testing never caught",
+      "cd security testing",
+      "cd security testing",
+      "cd security testing",
+      "teams merge dozens",
+      "[&# 8230 ;]",
+      "two modes",
+      "still lives",
+      "stay local",
+      "stay local"
+    ],
+    "summary": "Continuous integration and delivery changed the tempo of software. Teams merge dozens of times a day, infrastructure is redefined on every commit, and a new build can reach production in minutes. Security testing never caught up with that tempo."
+  },
+  "52819edae2bfdb43": {
+    "file": "corpus/devops/devops_com_ai-raises-the-stakes-for-observability-engineerin_03cf151d4f.md",
+    "source": "devops",
+    "title": "[devops-com] AI Raises the Stakes for Observability Engineering",
+    "url": "https://devops.com/ai-raises-the-stakes-for-observability-engineering/",
+    "keywords": [
+      "jones joins alan shimel",
+      "assisted development —",
+      "observability engineering honeycomb",
+      "59z ai raises",
+      "observability engineering",
+      "observability engineering",
+      "observability engineering",
+      "assisted workflows",
+      "ai raises",
+      "ai raises"
+    ],
+    "summary": "# [devops-com] AI Raises the Stakes for Observability Engineering AI Raises the Stakes for Observability Engineering Honeycomb's Liz Fong-Jones joins Alan Shimel to explain why observability engineering has become the real bottleneck in AI-assisted development — and how agent-assisted workflows are reshaping the loop."
+  },
+  "19fa243147b89e2b": {
+    "file": "corpus/devto/dev_to_lbagga_i-wanted-kubernetes-without-an-always-on-eks-b_dd080feb1f.md",
+    "source": "devto",
+    "title": "I Wanted Kubernetes Without an Always On EKS Bill",
+    "url": "https://dev.to/lbagga/i-wanted-kubernetes-without-an-always-on-eks-bill-39j4",
+    "keywords": [
+      "wanted kubernetes without",
+      "wanted kubernetes without",
+      "kubernetes lab",
+      "would still",
+      "temporary cluster",
+      "next morning",
+      "eks bill",
+      "eks bill",
+      "wanted",
+      "source"
+    ],
+    "summary": "# I Wanted Kubernetes Without an Always On EKS Bill I wanted a Kubernetes lab that would still be there the next morning. A temporary cluster on my..."
+  },
+  "a58bd1f5fff0ac43": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hundreds-of-fake-chro_fb395f64dd.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+    "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+    "keywords": [
+      "737 browser extensions published",
+      "socks5 proxies operated",
+      "single provider",
+      "routing users",
+      "known vpn",
+      "01z hundreds",
+      "proxy services",
+      "hundreds",
+      "hundreds",
+      "proxy"
+    ],
+    "summary": "# [bleeping-comp] Hundreds of fake Chrome VPN extensions route traffic through a proxy Hundreds of fake Chrome VPN extensions route traffic through a proxy More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider."
+  },
+  "6854c242ced777fb": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_G55HSGpuh1M_3e643c584f.md",
+    "source": "youtube",
+    "title": "[fireship] Meta's new model wants 'deep access' to your personal life...",
+    "url": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+    "keywords": [
+      "fully permissive apache 2",
+      "personal life ... openrouter",
+      "personal life ...",
+      "personal life ...",
+      "https :// openrouter",
+      "released muse glimmer",
+      "https :// bytes",
+      "new model wants",
+      "new model wants",
+      "new model wants"
+    ],
+    "summary": "# [fireship] Meta's new model wants \"deep access\" to your personal life... Meta's new model wants \"deep access\" to your personal life... OpenRouter is the only API you need for AI."
+  },
+  "bb695ed06726cbd6": {
+    "file": "corpus/hackernews/thenewcuriosityshop_substack_com_p_the-essential-question_69c06eba99.md",
+    "source": "hackernews",
+    "title": "The Essential Question: 'What should I read next?",
+    "url": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
+    "keywords": [
+      "read next ?\"",
+      "read next",
+      "essential question",
+      "essential question",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Essential Question: \"What should I read next?\" > Source: hackernews | Category: news | 2026-08-12T19:34:00Z Score: 15 | Comments: 2"
+  },
+  "233569ab2ba694b8": {
+    "file": "corpus/hackernews/www_dostips_com_b70c3cf6f1.md",
+    "source": "hackernews",
+    "title": "DosTips, Windows scripting knowledge trove, scraped to death",
+    "url": "https://www.dostips.com/",
+    "keywords": [
+      "windows scripting knowledge trove",
+      "windows scripting knowledge trove",
+      "04z score",
+      "source",
+      "scraped",
+      "scraped",
+      "news",
+      "hackernews",
+      "dostips",
+      "dostips"
+    ],
+    "summary": "# DosTips, Windows scripting knowledge trove, scraped to death > Source: hackernews | Category: news | 2026-08-12T19:34:04Z Score: 6 | Comments: 0"
+  },
+  "4702ea1e8a1eb5fc": {
+    "file": "corpus/hackernews/zed_dev_blog_introducing-delta_9e5a86081b.md",
+    "source": "hackernews",
+    "title": "Zed: Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "keywords": [
+      "57z score",
+      "zed",
+      "zed",
+      "source",
+      "news",
+      "hackernews",
+      "delta",
+      "delta",
+      "comments",
+      "category"
+    ],
+    "summary": "# Zed: Delta > Source: hackernews | Category: news | 2026-08-12T19:33:57Z Score: 119 | Comments: 39"
+  },
+  "23afe222685b5fdd": {
+    "file": "corpus/hackernews/julienreszka_com_blog_your-key-to-success-isn-t-more-luck-or_079aae38f4.md",
+    "source": "hackernews",
+    "title": "Your Key to Success Isn't More Luck or Hard Work",
+    "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+    "keywords": [
+      "hard work",
+      "hard work",
+      "58z score",
+      "success",
+      "success",
+      "source",
+      "news",
+      "luck",
+      "luck",
+      "key"
+    ],
+    "summary": "# Your Key to Success Isn't More Luck or Hard Work > Source: hackernews | Category: news | 2026-08-12T19:33:58Z Score: 28 | Comments: 19"
   }
 }
