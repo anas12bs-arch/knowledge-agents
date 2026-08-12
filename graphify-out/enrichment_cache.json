@@ -404344,5 +404344,62 @@
       "key"
     ],
     "summary": "# Your Key to Success Isn't More Luck or Hard Work > Source: hackernews | Category: news | 2026-08-12T19:33:58Z Score: 28 | Comments: 19"
+  },
+  "530e764052e96924": {
+    "file": "corpus/devto/dev_to_martin_palopoli_benchmarkee-el-orm-postgres-nativo-de_2a0f66313f.md",
+    "source": "devto",
+    "title": "Benchmarkée el ORM Postgres nativo de mi lenguaje contra SQLAlchemy: ~8 más rápido en reads, 5.7 menos memoria — y dónde empata",
+    "url": "https://dev.to/martin_palopoli/benchmarkee-el-orm-postgres-nativo-de-mi-lenguaje-contra-sqlalchemy-8x-mas-rapido-en-reads-57x-39bd",
+    "keywords": [
+      "7 menos memoria —",
+      "7 menos memoria —",
+      "más lento que python",
+      "otro con python",
+      "mismos endpoints",
+      "dónde empata",
+      "dónde empata",
+      "cero overhead",
+      "sqlalchemy",
+      "source"
+    ],
+    "summary": "# Benchmarkée el ORM Postgres nativo de mi lenguaje contra SQLAlchemy: ~8 más rápido en reads, 5.7 menos memoria — y dónde empata Así que el repo de Fitz trae un cabeza-a-cabeza reproducible entre dos boilerplates idénticos — mismo Postgres, mismos endpoints, mismo docker compose — uno con el ORM nativo de Fitz, otro con Python + SQLAlchemy. Acá están los números honestos (mediana de 3), por qué Fitz gana en reads, por qué empata en writes, y el bug de Nagle que alguna vez lo hizo 30% más lento "
+  },
+  "1fce5e3763053043": {
+    "file": "corpus/devto/dev_to_sandrog_agent-plugins-package-capabilities-irc-a-asks_a94c8132df.md",
+    "source": "devto",
+    "title": "Agent Plugins Package Capabilities. IRC-A Asks: Who Authorizes Them at Runtime?",
+    "url": "https://dev.to/sandrog/agent-plugins-package-capabilities-irc-a-asks-who-authorizes-them-at-runtime-33gg",
+    "keywords": [
+      "agent plugins package capabilities",
+      "agent plugins package capabilities",
+      "packaging agent skills",
+      "new open standard",
+      "mcp ...",
+      "linkedin post",
+      "07z yesterday",
+      "stumbled",
+      "source",
+      "runtime"
+    ],
+    "summary": "IRC-A Asks: Who Authorizes Them at Runtime? > Source: devto | Category: news | 2026-08-12T20:12:07Z Yesterday I stumbled on a LinkedIn post about a new open standard for packaging Agent Skills and MCP..."
+  },
+  "baa8611db4bafbff": {
+    "file": "corpus/hackernews/www_bloomberg_com_news_articles_2026-08-05_how-chartreuse-co_863eff990d.md",
+    "source": "hackernews",
+    "title": "Chartreuse, a case study in how scarcity and authenticity can drive desirability",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
+    "keywords": [
+      "ph &# x2f",
+      "ph &# x2f",
+      "drive desirability",
+      "drive desirability",
+      "case study",
+      "case study",
+      "03z score",
+      "jdyk0 </",
+      "jdyk0",
+      "source"
+    ],
+    "summary": "# Chartreuse, a case study in how scarcity and authenticity can drive desirability > Source: hackernews | Category: news | 2026-08-12T20:12:03Z Score: 8 | Comments: 7"
   }
 }
