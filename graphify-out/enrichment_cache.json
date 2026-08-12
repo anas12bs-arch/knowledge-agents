@@ -399149,5 +399149,194 @@
       "hackernews"
     ],
     "summary": "# A shell exclamation mark is not for yelling. Be lazy. > Source: hackernews | Category: news | 2026-08-12T07:01:09Z"
+  },
+  "4fcb1ae3edc24f3f": {
+    "file": "corpus/devto/dev_to_childrentime_react-useeventsource-hook-server-sent-ev_3b3bdc0d52.md",
+    "source": "devto",
+    "title": "React useEventSource Hook: Server-Sent Events with Auto-Reconnect (2026)",
+    "url": "https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm",
+    "keywords": [
+      "token — none ...",
+      "react useeventsource hook",
+      "react useeventsource hook",
+      "ai responses streaming",
+      "09z live notifications",
+      "stock tickers",
+      "sent events",
+      "sent events",
+      "deployment logs",
+      "token"
+    ],
+    "summary": "# React useEventSource Hook: Server-Sent Events with Auto-Reconnect (2026) > Source: devto | Category: news | 2026-08-12T08:19:09Z Live notifications, deployment logs, stock tickers, AI responses streaming in token by token — none..."
+  },
+  "9dea7e052a91fb04": {
+    "file": "corpus/devto/dev_to_martin_palopoli_a-native-frontend-for-a-compiled-lang_d0765c1439.md",
+    "source": "devto",
+    "title": "A native frontend for a compiled language: .fitzv components that compile to WebAssembly",
+    "url": "https://dev.to/martin_palopoli/a-native-frontend-for-a-compiled-language-fitzv-components-that-compile-to-webassembly-5cfn",
+    "keywords": [
+      "javascript framework bolted",
+      "file component format",
+      "`. fitzv `,",
+      "contained webassembly bundle",
+      "framework runtime",
+      "component uses",
+      "fitzv components",
+      "fitzv components",
+      "compiler turns",
+      "compiled language"
+    ],
+    "summary": "# A native frontend for a compiled language: .fitzv components that compile to WebAssembly Fitz's frontend isn't a JavaScript framework bolted on — it's a single-file component format, `.fitzv`, that the same compiler turns into a self-contained WebAssembly bundle. No npm, no bundler, no framework runtime, and the `type` you defined for the server is the exact same one the component uses."
+  },
+  "330df6884895acac": {
+    "file": "corpus/security/thehackernews_com_2026_08_sap-commerce-cloud-flaw-could-let__c0354b09ca.md",
+    "source": "security",
+    "title": "[hacker-news-sec] SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+    "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+    "keywords": [
+      "sap commerce cloud allows",
+      "insufficient authorization checks",
+      "data hub adapter",
+      "cvss scoring system",
+      "cve identifier cve",
+      "arbitrary code execution",
+      "released patches",
+      "rated 10",
+      "input validation",
+      "could result"
+    ],
+    "summary": "# [hacker-news-sec] SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. It has been described as a case of insufficient authorization checks and input validation."
+  },
+  "8cd93fbfbfa437f9": {
+    "file": "corpus/security/thehackernews_com_2026_08_shieldbreak-zero-day-poc-claims_ht_b5ba4ab6c3.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+    "keywords": [
+      "8 ), otherwise known",
+      "day called shieldbreak",
+      "new microsoft zero",
+      "name chaotic eclipse",
+      "aka infinite nightmare",
+      "01z shieldbreak zero",
+      "security researcher going",
+      "shieldbreak zero",
+      "shieldbreak zero",
+      "microsoft defender"
+    ],
+    "summary": "# [hacker-news-sec] ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak."
+  },
+  "b02fb26c74f389ff": {
+    "file": "corpus/security/thehackernews_com_2026_08_cisco-asa-and-ftd-flaw-exploited-i_1fa2facc3f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+    "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+    "keywords": [
+      "secure firewall threat defense",
+      "trigger remote dos cisco",
+      "trigger remote dos",
+      "trigger remote dos",
+      "processing http requests",
+      "insufficient error checking",
+      "ftd flaw exploited",
+      "ftd flaw exploited",
+      "ftd flaw exploited",
+      "01z cisco asa"
+    ],
+    "summary": "# [hacker-news-sec] Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger"
+  },
+  "8e6a694bb10b50ba": {
+    "file": "corpus/hackernews/www_cringebot3000_com_a9081e41fc.md",
+    "source": "hackernews",
+    "title": "LinkedIn CringeBot 3000",
+    "url": "https://www.cringebot3000.com/",
+    "keywords": [
+      "linkedin cringebot 3000",
+      "linkedin cringebot 3000",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# LinkedIn CringeBot 3000 > Source: hackernews | Category: news | 2026-08-12T08:19:01Z Score: 18 | Comments: 4"
+  },
+  "940966341590b686": {
+    "file": "corpus/hackernews/jamesoclaire_com_2026_08_06_how-to-install-python3-14-from-s_b771b83289.md",
+    "source": "hackernews",
+    "title": "How to Install Python3.14 from source on Ubuntu 26.04",
+    "url": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
+    "keywords": [
+      "ubuntu 26",
+      "ubuntu 26",
+      "install python3",
+      "install python3",
+      "03z score",
+      "source",
+      "source",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How to Install Python3.14 from source on Ubuntu 26.04 > Source: hackernews | Category: news | 2026-08-12T08:19:03Z Score: 6 | Comments: 3"
+  },
+  "2cc09f2dd1640583": {
+    "file": "corpus/hackernews/casar_house_gov_sites_evo-subsites_casar_house_gov_files_evo_4a24bf12f5.md",
+    "source": "hackernews",
+    "title": "Congressional Letter to Sam Altman demanding HuggingFace incident transparency [pdf]",
+    "url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf",
+    "keywords": [
+      "congressional letter",
+      "congressional letter",
+      "06z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Congressional Letter to Sam Altman demanding HuggingFace incident transparency [pdf] > Source: hackernews | Category: news | 2026-08-12T08:19:06Z Score: 5 | Comments: 0"
+  },
+  "d0f05591991f5a18": {
+    "file": "corpus/hackernews/arstechnica_com_security_2026_08_chrome-adopts-what-may-be-t_dae8536582.md",
+    "source": "hackernews",
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "keywords": [
+      "best protection yet",
+      "best protection yet",
+      "chrome adopts",
+      "chrome adopts",
+      "account takeovers",
+      "account takeovers",
+      "07z score",
+      "source",
+      "news",
+      "may"
+    ],
+    "summary": "# Chrome adopts what may be the best protection yet against account takeovers > Source: hackernews | Category: news | 2026-08-12T08:19:07Z Score: 5 | Comments: 3"
+  },
+  "06e49cf0c33ab5bd": {
+    "file": "corpus/hackernews/discoveredmaterials_com_research_46e55eb646.md",
+    "source": "hackernews",
+    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+    "url": "https://discoveredmaterials.com/research/",
+    "keywords": [
+      "major reasons datacenters consume",
+      "causing drastic temperature rise",
+      "energy per bit required",
+      "2d circuit board ).",
+      "com &# x2f ;</",
+      "semiconductor industry .< p",
+      "computationally discover new materials",
+      "would generally take",
+      "poor thermal conductor",
+      "operation .< p"
+    ],
+    "summary": "We build AI agents that discover new materials for the semiconductor industry.<p>GPUs today have a heat problem. Nvidia &amp; AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3 kW of heat. Today’s models are not good at coming up with synthesis recipes to make materials in a lab."
   }
 }
