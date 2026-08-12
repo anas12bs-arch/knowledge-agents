@@ -400580,5 +400580,194 @@
       "deltadb hit us"
     ],
     "summary": "Nathan Sobo joins Scott and Wes to explain why Zed was built in Rust, how GPUI works, and what happens to editors once agents write most of the code. They also talk about DeltaDB, Zed’s new Git-compatible version control system, and Delta, the collaborative agentic editor it powers. 21:52 Delta DB: The vision for collaborative development"
+  },
+  "675cd56c14f353a0": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48237_hsbc-invests-in-ai-modell_24d9b0175f.md",
+    "source": "finance",
+    "title": "[finextra] HSBC invests in AI modelling firm",
+    "url": "https://www.finextra.com/newsarticle/48237/hsbc-invests-in-ai-modelling-firm?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "investment management arm",
+      "high street bank",
+      "ai modelling firm",
+      "ai modelling firm",
+      "57z hsbc invests",
+      "hsbc invests",
+      "hsbc invests",
+      "provided funding",
+      "hsbc",
+      "source"
+    ],
+    "summary": "# [finextra] HSBC invests in AI modelling firm HSBC invests in AI modelling firm HSBC Asset Management (HSBC AM), the high street bank's investment management arm, has provided funding for London-based AI startup Model ML."
+  },
+  "ca42b916a6f6d309": {
+    "file": "corpus/finance/news_crunchbase_com_transportation_clearjet-raises-25m-logis_fcfe30ddfe.md",
+    "source": "finance",
+    "title": "[crunchbase] Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’",
+    "url": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+    "keywords": [
+      "25 million edison partners",
+      "tells crunchbase news exclusively",
+      "led series b",
+      "unused cargo capacity",
+      "cargo ’ austin",
+      "cargo ’",
+      "cargo ’",
+      "‘ uber",
+      "‘ uber",
+      "‘ uber"
+    ],
+    "summary": "# [crunchbase] Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’ Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’ Austin-based ClearJet, an AI-enabled logistics technology startup connects shippers with unused cargo capacity on commercial flights, has raised a $25 million Edison Partners-led Series B, it tells Crunchbase News exclusively."
+  },
+  "dcb86d6543a07e54": {
+    "file": "corpus/devto/dev_to_igor_potapenko_the-junior-qa-bar-keeps-rising-and-her_b4b07cc8f9.md",
+    "source": "devto",
+    "title": "The junior QA bar keeps rising — and here is what each requirement is actually for",
+    "url": "https://dev.to/igor_potapenko/the-junior-qa-bar-keeps-rising-and-here-is-what-each-requirement-is-actually-for-2ab6",
+    "keywords": [
+      "conference talk could get",
+      "know test design",
+      "basic security",
+      "sql",
+      "source",
+      "requirement",
+      "requirement",
+      "reactions",
+      "news",
+      "junior"
+    ],
+    "summary": "# The junior QA bar keeps rising — and here is what each requirement is actually for A decade ago one good question after a conference talk could get you the job. Now a junior is expected to know test design, HTTP, SQL and basic security."
+  },
+  "32fca26db01c1a0e": {
+    "file": "corpus/security/thehackernews_com_2026_08_adobe-patches-three-cvss-100-coldf_ee8b70611e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+    "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+    "keywords": [
+      "campaign classic flaws adobe",
+      "arbitrary code execution",
+      "campaign classic flaws",
+      "campaign classic flaws",
+      "campaign classic",
+      "successfully exploited",
+      "shipped updates",
+      "privilege escalation",
+      "cvss score",
+      "could result"
+    ],
+    "summary": "# [hacker-news-sec] Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could"
+  },
+  "41ea230c0e12e991": {
+    "file": "corpus/hackernews/infosec_exchange_rebane2001_117078420917152774_18684e0ed0.md",
+    "source": "hackernews",
+    "title": "(ADVANCED) Guide to not fucking up QR codes",
+    "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+    "keywords": [
+      "qr codes",
+      "qr codes",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "guide",
+      "guide",
+      "fucking",
+      "fucking"
+    ],
+    "summary": "# (ADVANCED) Guide to not fucking up QR codes > Source: hackernews | Category: news | 2026-08-12T12:07:04Z Score: 7 | Comments: 2"
+  },
+  "4ba2f37576d48c5b": {
+    "file": "corpus/hackernews/getfresh_dev_docs_blog_packaging-for-linux_a7a80011e5.md",
+    "source": "hackernews",
+    "title": "I hate packaging my software for Linux",
+    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "keywords": [
+      "hate packaging",
+      "hate packaging",
+      "58z score",
+      "source",
+      "software",
+      "software",
+      "news",
+      "linux",
+      "linux",
+      "hackernews"
+    ],
+    "summary": "# I hate packaging my software for Linux > Source: hackernews | Category: news | 2026-08-12T12:06:58Z Score: 7 | Comments: 5"
+  },
+  "b9f4f63868ee3ab3": {
+    "file": "corpus/hackernews/jonty_github_io_2026_eclipse_webcams_58f4b92c18.md",
+    "source": "hackernews",
+    "title": "2026 Eclipse Webcams",
+    "url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "keywords": [
+      "2026 eclipse webcams",
+      "2026 eclipse webcams",
+      "57z score",
+      "2026",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# 2026 Eclipse Webcams > Source: hackernews | Category: news | 2026-08-12T12:06:57Z Score: 4 | Comments: 0"
+  },
+  "51bf78c0416f6b6f": {
+    "file": "corpus/hackernews/bookdna_com_best-books_nonfiction-animal-books-that-make-you_8c264190ab.md",
+    "source": "hackernews",
+    "title": "My favorite nonfiction animal books that make you go holy shit",
+    "url": "https://bookdna.com/best-books/nonfiction-animal-books-that-make-you-go-holy-sht",
+    "keywords": [
+      "favorite nonfiction animal books",
+      "favorite nonfiction animal books",
+      "go holy shit",
+      "go holy shit",
+      "01z score",
+      "source",
+      "news",
+      "make",
+      "make",
+      "hackernews"
+    ],
+    "summary": "# My favorite nonfiction animal books that make you go holy shit > Source: hackernews | Category: news | 2026-08-12T12:07:01Z Score: 3 | Comments: 0"
+  },
+  "c247d292c3dde734": {
+    "file": "corpus/hackernews/monictheory_com_7af19ae451.md",
+    "source": "hackernews",
+    "title": "Music Generation by a Composer, for Musicians",
+    "url": "https://monictheory.com",
+    "keywords": [
+      "music generation",
+      "music generation",
+      "01z score",
+      "source",
+      "news",
+      "musicians",
+      "musicians",
+      "hackernews",
+      "composer",
+      "composer"
+    ],
+    "summary": "# Music Generation by a Composer, for Musicians > Source: hackernews | Category: news | 2026-08-12T12:07:01Z Score: 5 | Comments: 2"
+  },
+  "e470282d3d9b3861": {
+    "file": "corpus/sales/www_saastr_com_a-checklist-10-signs-you-shouldnt-hire-a-sale_5ce4c40df3.md",
+    "source": "sales",
+    "title": "[saastr] A Checklist:  10 Signs You Shouldn’t Hire a Sales Rep",
+    "url": "https://www.saastr.com/a-checklist-10-signs-you-shouldnt-hire-a-sales-rep/",
+    "keywords": [
+      "... continue reading",
+      "see &# 8212",
+      "jason ✨👾 saastr",
+      "&# 8217",
+      "&# 8217",
+      "&# 39",
+      "&# 39",
+      "june 24",
+      "interesting time",
+      "great vp"
+    ],
+    "summary": "Never hire anyone in sales that doesn&#39;t care about money You&#39;ll see &#8212; Jason ✨👾SaaStr.Ai✨ Lemkin (@jasonlk) June 24, 2025 So you&#8217;re hiring your first few sales reps in the early days? Before you have a great VP of Sales? Leads are precious, everyone is a team."
   }
 }
