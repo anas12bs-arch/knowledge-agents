@@ -398620,5 +398620,252 @@
       "25z ## openai"
     ],
     "summary": "* **api:** HTTPX2 is now the default HTTP client, and `httpx` is no longer installed automatically. Applications using custom HTTPX clients, transports, or configuration objects must migrate to their HTTPX2 equivalents or use the temporary, runtime-only legacy HTTPX escape hatch. See the [HTTPX2 migration guide](https://github.com/openai/openai-python/blob/main/httpx2.md)."
+  },
+  "bf5cd7b3feab1c1d": {
+    "file": "corpus/devto/dev_to_johnonlee_209-ai-code-reviews-accurate-is-not-necessa_100bed0a43.md",
+    "source": "devto",
+    "title": "209 AI Code Reviews: Accurate Is Not Necessary",
+    "url": "https://dev.to/johnonlee/209-ai-code-reviews-accurate-is-not-necessary-4cc3",
+    "keywords": [
+      "21z late last month",
+      "209 ai code reviews",
+      "209 ai code reviews",
+      "security ...",
+      "pr opened",
+      "source",
+      "repo",
+      "reactions",
+      "news",
+      "necessary"
+    ],
+    "summary": "# 209 AI Code Reviews: Accurate Is Not Necessary > Source: devto | Category: news | 2026-08-12T04:26:21Z Late last month a PR opened on our repo: propagating secret taint across workflow steps, a security..."
+  },
+  "d7568b8c43108429": {
+    "file": "corpus/devto/dev_to_udaninn_workday-job-boards-have-a-json-api-too-its-ju_d1b3d97bc6.md",
+    "source": "devto",
+    "title": "Workday job boards have a JSON API too. It's just better hidden.",
+    "url": "https://dev.to/udaninn/workday-job-boards-have-a-json-api-too-its-just-better-hidden-23fl",
+    "keywords": [
+      "workday job boards",
+      "workday job boards",
+      "lever ,...",
+      "last post",
+      "json api",
+      "json api",
+      "better hidden",
+      "better hidden",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Workday job boards have a JSON API too. > Source: devto | Category: news | 2026-08-12T04:26:22Z In the last post I listed six ATS platforms whose job boards are open JSON APIs — Greenhouse, Lever,..."
+  },
+  "563b87e9172f858d": {
+    "file": "corpus/devto/dev_to_zkasuran_a-documented-prop-that-silently-stacked-ever_b043501e05.md",
+    "source": "devto",
+    "title": "A documented prop that silently stacked every component at the origin",
+    "url": "https://dev.to/zkasuran/a-documented-prop-that-silently-stacked-every-component-at-the-origin-5h0f",
+    "keywords": [
+      "silently stacked every component",
+      "silently stacked every component",
+      "summer bug smash",
+      "lineup powered",
+      "documented prop",
+      "documented prop",
+      "submission",
+      "source",
+      "sentry",
+      "reactions"
+    ],
+    "summary": "# A documented prop that silently stacked every component at the origin > Source: devto | Category: news | 2026-08-12T04:26:24Z This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry."
+  },
+  "5880e24bda5dfb29": {
+    "file": "corpus/devto/dev_to_sarahpan_how-do-you-choose-which-llm-to-use-in-produc_66763070e4.md",
+    "source": "devto",
+    "title": "How Do You Choose Which LLM to Use in Production? I'd Love to Hear Your Process.",
+    "url": "https://dev.to/sarahpan/how-do-you-choose-which-llm-to-use-in-production-id-love-to-hear-your-process-14c0",
+    "keywords": [
+      "less comfortable",
+      "use",
+      "use",
+      "use",
+      "test",
+      "source",
+      "reactions",
+      "question",
+      "production",
+      "production"
+    ],
+    "summary": "# How Do You Choose Which LLM to Use in Production? I'd Love to Hear Your Process. The more models I test, the less comfortable I am answering the question: Which LLM should I use?"
+  },
+  "ae6a3365d4f37d6a": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_11_donald-trump-just-became-the-wor_4522342547.md",
+    "source": "legal",
+    "title": "[techdirt] Donald Trump Just Became The World’s Most Famous Anti-Vaxxer Nonsense Peddler",
+    "url": "https://www.techdirt.com/2026/08/11/donald-trump-just-became-the-worlds-most-famous-anti-vaxxer-nonsense-peddler/",
+    "keywords": [
+      "[&# 8230 ;]",
+      "vaxxer nonsense peddler",
+      "vaxxer nonsense peddler",
+      "vaxxer nonsense peddler",
+      "14z donald trump",
+      "donald trump",
+      "donald trump",
+      "vaxxer movement",
+      "united states",
+      "ten years"
+    ],
+    "summary": "# [techdirt] Donald Trump Just Became The World’s Most Famous Anti-Vaxxer Nonsense Peddler Donald Trump Just Became The World’s Most Famous Anti-Vaxxer Nonsense Peddler When it comes to the bullshit, batshit-crazy anti-vaxxer movement that currently has the United States in its un-scientific grip, I&#8217;ve focused most of my attention on RFK Jr. And, frankly, for good reason."
+  },
+  "317a3ac0ac89371c": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49267485_a8c663090c.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49267485",
+    "keywords": [
+      "price series quietly wrong",
+      "fact without ever throwing",
+      "careers &# x2f ;</",
+      "founding ml platform engineer",
+      "model gateway .< p",
+      "model .< p",
+      "iso &# x2f",
+      "io &# x2f",
+      "io &# x2f",
+      "required .< p"
+    ],
+    "summary": "Joulent | Founding ML Platform Engineer, Energy Intelligence | San Francisco | HYBRID | Full-time | equity<p>We deliver multi-gigawatt power to AI data centers, and this is the founding hire on the team that forecasts load and market prices. Feeds land late and get revised after the fact without ever throwing an error, so the failure mode is a price series quietly wrong for three weeks behind a forecast that looks fine. The work is trust infrastructure: lineage, freshness SLAs, point-in-time cor"
+  },
+  "839a59442efe4880": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49267747_eabdea02c2.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49267747",
+    "keywords": [
+      "particularly interesting ).< p",
+      "modern language .< p",
+      "phone screen &# x2f",
+      "solid backend engineering experience",
+      "growth .< p",
+      "build .< p",
+      "feel particularly proud",
+      "new platform features",
+      "hour coding challenge",
+      "construction finance platform"
+    ],
+    "summary": "Sitewire | Full-Stack Software Engineer | Full-Time | $130-200k USD | 0-0.1% Equity | Remote (US only)<p>I&#x27;m the head of engineering at Sitewire, a construction finance platform that helps lenders and real estate investors track projects, automate work verification, and speed up payments. Our small, fully-remote team has built a profitable product that&#x27;s expanded organically 3x per year, mainly through word of mouth. Our web app and API are currently powered by a Ruby on Rails monolith"
+  },
+  "c5c532519016a854": {
+    "file": "corpus/hackernews/thehustle_co_originals_what-happens-when-the-ai-bubble-pops_625867dd5a.md",
+    "source": "hackernews",
+    "title": "What happens when the AI bubble pops?",
+    "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+    "keywords": [
+      "ai bubble pops",
+      "ai bubble pops",
+      "20z score",
+      "source",
+      "news",
+      "happens",
+      "happens",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What happens when the AI bubble pops? > Source: hackernews | Category: news | 2026-08-12T04:26:20Z Score: 7 | Comments: 1"
+  },
+  "a37ec62a5f2aac4e": {
+    "file": "corpus/hackernews/whdh_com_news_the-lifesaving-secret-hidden-inside-a-horsesho_300f06fd4e.md",
+    "source": "hackernews",
+    "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+    "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+    "keywords": [
+      "lifesaving secret hidden inside",
+      "lifesaving secret hidden inside",
+      "horseshoe crab",
+      "horseshoe crab",
+      "blue blood",
+      "blue blood",
+      "14z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The lifesaving secret hidden inside a horseshoe crab's blue blood > Source: hackernews | Category: news | 2026-08-12T04:26:14Z Score: 27 | Comments: 4"
+  },
+  "1161f05bcb66e96f": {
+    "file": "corpus/hackernews/brentfitzgerald_com_posts_the-human-is-the-loop_c5d5486469.md",
+    "source": "hackernews",
+    "title": "The Human Is the Loop",
+    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "keywords": [
+      "15z score",
+      "source",
+      "news",
+      "loop",
+      "loop",
+      "human",
+      "human",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Human Is the Loop > Source: hackernews | Category: news | 2026-08-12T04:26:15Z Score: 20 | Comments: 2"
+  },
+  "ad65cc2e110b286c": {
+    "file": "corpus/hackernews/github_com_rimironenko_rag-staleness-check_7b09ac990d.md",
+    "source": "hackernews",
+    "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+    "url": "https://github.com/rimironenko/rag-staleness-check",
+    "keywords": [
+      "retrievable rag vectors",
+      "retrievable rag vectors",
+      "show hn",
+      "show hn",
+      "find stale",
+      "find stale",
+      "16z score",
+      "source",
+      "orphaned",
+      "orphaned"
+    ],
+    "summary": "# Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors > Source: hackernews | Category: news | 2026-08-12T04:26:16Z Score: 3 | Comments: 0"
+  },
+  "068058e4efa7af70": {
+    "file": "corpus/hackernews/ourworldindata_org_grapher_statin-use-cardiovascular-disease_8a0425e0a2.md",
+    "source": "hackernews",
+    "title": "Statin use vs. death rate from cardiovascular diseases (2019)",
+    "url": "https://ourworldindata.org/grapher/statin-use-cardiovascular-disease-death-rate",
+    "keywords": [
+      "statin use vs",
+      "statin use vs",
+      "death rate",
+      "death rate",
+      "cardiovascular diseases",
+      "cardiovascular diseases",
+      "19z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Statin use vs. death rate from cardiovascular diseases (2019) > Source: hackernews | Category: news | 2026-08-12T04:26:19Z Score: 9 | Comments: 1"
+  },
+  "40d8bf6ce0ed52ab": {
+    "file": "corpus/devops/kubernetes_io_blog_2026_08_11_how-to-pretty-print-kubernetes_6ae64bcd99.md",
+    "source": "devops",
+    "title": "[kubernetes] How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
+    "url": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
+    "keywords": [
+      "templating tools like helm",
+      "sig cli introduced kyaml",
+      "features make files harder",
+      "silent type coercion",
+      "gets especially painful",
+      "wrongly indented file",
+      "indentation defines structure",
+      "types without warning",
+      "remain syntactically valid",
+      "existing ecosystem without"
+    ],
+    "summary": "The interesting part is that Kubernetes doesn't actually need most of those features. How KYAML solves it    Standard YAML has a few well-known traps and JSON is not without its own. This gets especially painful with templating tools like Helm, where you are manipulating indentation from outside the YAML context."
   }
 }
