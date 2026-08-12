@@ -404913,5 +404913,138 @@
       "model parameter"
     ],
     "summary": "## What's Changed - Models that don't set a `repeat_penalty` now default to 1.0 (off) instead of 1.1, matching other engines and speeding up speculative decoding; set a per-model parameter if an older model repeats itself. - Fixed blob verification being skipped when an OCI manifest's config and layer share a digest. ## New Contributors * @vigneshakaviki made their first contribution in https://github.com/ollama/ollama/pull/15504"
+  },
+  "a9b2ef9a077af4c8": {
+    "file": "corpus/devto/dev_to_kenwalger_ai-access-control-for-enterprise-ai-turning_64da6c635f.md",
+    "source": "devto",
+    "title": "AI Access Control for Enterprise AI: Turning Policy Into Runtime Enforcement",
+    "url": "https://dev.to/kenwalger/ai-access-control-for-enterprise-ai-turning-policy-into-runtime-enforcement-5bkk",
+    "keywords": [
+      "ai access control",
+      "ai access control",
+      "policy objects decide",
+      "enterprise ai",
+      "enterprise ai",
+      "turning policy",
+      "turning policy",
+      "runtime enforcement",
+      "runtime enforcement",
+      "source"
+    ],
+    "summary": "# AI Access Control for Enterprise AI: Turning Policy Into Runtime Enforcement API keys authenticate software. Policy objects decide what that software is allowed to do."
+  },
+  "e00fc5fcb3c37615": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_set-up-coding-agents-in-one-command-wit_852623ba39.md",
+    "source": "vercel-blog",
+    "title": "Set up coding agents in one command with AI Gateway",
+    "url": "https://vercel.com/changelog/set-up-coding-agents-in-one-command-with-ai-gateway",
+    "keywords": [
+      "one command",
+      "one command",
+      "one command",
+      "coding agents",
+      "coding agents",
+      "coding agents",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "53z set"
+    ],
+    "summary": "# Set up coding agents in one command with AI Gateway > Source: vercel-blog | Category: news | 2026-08-12T23:55:53Z Set up coding agents in one command with AI Gateway"
+  },
+  "764443ec568fb214": {
+    "file": "corpus/hackernews/funcall_blogspot_com_2026_08_why-vibe-code-in-lisp_html_e468e98ad9.md",
+    "source": "hackernews",
+    "title": "Why Target Common Lisp for Code Generation?",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "keywords": [
+      "target common lisp",
+      "target common lisp",
+      "code generation",
+      "code generation",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why Target Common Lisp for Code Generation? > Source: hackernews | Category: news | 2026-08-12T23:55:41Z Score: 13 | Comments: 5"
+  },
+  "55c4886be443db0f": {
+    "file": "corpus/hackernews/bengodfrey_dev_blog_process_f3a2f8e9ff.md",
+    "source": "hackernews",
+    "title": "Process as a Proxy for Motivation",
+    "url": "https://bengodfrey.dev/blog/process/",
+    "keywords": [
+      "43z score",
+      "source",
+      "proxy",
+      "proxy",
+      "process",
+      "process",
+      "news",
+      "motivation",
+      "motivation",
+      "hackernews"
+    ],
+    "summary": "# Process as a Proxy for Motivation > Source: hackernews | Category: news | 2026-08-12T23:55:43Z Score: 7 | Comments: 1"
+  },
+  "71b8b7daf786e041": {
+    "file": "corpus/hackernews/github_com_DannyArends_DLLM_6e3a868b21.md",
+    "source": "hackernews",
+    "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
+    "url": "https://github.com/DannyArends/DLLM",
+    "keywords": [
+      "cpp without overhead",
+      "cpp without overhead",
+      "45z score",
+      "source",
+      "news",
+      "minimal",
+      "minimal",
+      "llama",
+      "llama",
+      "hackernews"
+    ],
+    "summary": "# DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead > Source: hackernews | Category: news | 2026-08-12T23:55:45Z Score: 3 | Comments: 1"
+  },
+  "ab385bf31798da60": {
+    "file": "corpus/hackernews/bipluk_com_094152c2eb.md",
+    "source": "hackernews",
+    "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
+    "url": "https://bipluk.com/",
+    "keywords": [
+      "native sysex librarian",
+      "native sysex librarian",
+      "90s synthesizers",
+      "90s synthesizers",
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I built a browser-native SysEx librarian for 80s/90s synthesizers > Source: hackernews | Category: news | 2026-08-12T23:55:42Z Score: 5 | Comments: 2"
+  },
+  "182859f84bf7fd40": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_15_a949b7c962.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.15 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.15",
+    "keywords": [
+      "read private preview builds",
+      "15 ### misc changes",
+      "pnpm build `:",
+      "mtime fallback back",
+      "dynamic imports evaluated",
+      "discourage trivial prs",
+      "allow issue participants",
+      "use oidc tokens",
+      "proxy deploy tests",
+      "js — v16"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-12T23:56:43Z - test: fix 'ouput' typo in parseIdsFromCliOutput: #97266 - Add the mtime fallback back: #97268 - Allow issue participants to request reopening: #96947 - [turbopack] Document clusters for chunking: #97267 - Link to issues in the contribution guide and discourage trivial PRs: #97188 - Stop serializing hmr version state: #97146 - [turbopack] Add `clusters` to chunking heuristics: #95157 - [test] Redirect the deployment host in-"
   }
 }
