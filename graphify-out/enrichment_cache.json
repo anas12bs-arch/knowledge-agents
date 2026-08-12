@@ -399338,5 +399338,510 @@
       "operation .< p"
     ],
     "summary": "We build AI agents that discover new materials for the semiconductor industry.<p>GPUs today have a heat problem. Nvidia &amp; AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3 kW of heat. Today’s models are not good at coming up with synthesis recipes to make materials in a lab."
+  },
+  "3548e9fd1356d119": {
+    "file": "corpus/devto/dev_to_jon_at_backboardio_we-hit-9995-on-the-locomo-memory-b_d4807e8348.md",
+    "source": "devto",
+    "title": "We hit 99.95% on the LoCoMo memory benchmark. Here's the catch, and why it still matters.",
+    "url": "https://dev.to/jon_at_backboardio/we-hit-9995-on-the-locomo-memory-benchmark-heres-the-catch-and-why-it-still-matters-3and",
+    "keywords": [
+      "ceo rob imbeault published",
+      "locomo memory benchmark",
+      "locomo memory benchmark",
+      "team posted",
+      "still matters",
+      "still matters",
+      "hit 99",
+      "hit 99",
+      "95 %..."
+    ],
+    "summary": "# We hit 99.95% on the LoCoMo memory benchmark. Here's the catch, and why it still matters. Our CEO Rob Imbeault published a piece on LinkedIn this week about a result our team posted: 99.95%..."
+  },
+  "0281f69de23e622c": {
+    "file": "corpus/devto/dev_to_andresclua_how-to-tell-if-you-can-actually-drop-your-_ed418bb221.md",
+    "source": "devto",
+    "title": "How to Tell If You Can Actually Drop Your Animation Library",
+    "url": "https://dev.to/andresclua/how-to-tell-if-you-can-actually-drop-your-animation-library-571n",
+    "keywords": [
+      "migration every post telling",
+      "animation library opens ...",
+      "animation library",
+      "animation library",
+      "actually drop",
+      "actually drop",
+      "tell",
+      "tell",
+      "source",
+      "reactions"
+    ],
+    "summary": "# How to Tell If You Can Actually Drop Your Animation Library > Source: devto | Category: news | 2026-08-12T09:34:44Z The Demo Is Not the Migration   Every post telling me to delete my animation library opens..."
+  },
+  "d52bf1b660811c64": {
+    "file": "corpus/devto/dev_to_nixan_we-replaced-headless-libreoffice-with-a-single-_da45d6976b.md",
+    "source": "devto",
+    "title": "We Replaced Headless LibreOffice with a Single Rust Binary for DOCX PDF",
+    "url": "https://dev.to/nixan/we-replaced-headless-libreoffice-with-a-single-rust-binary-for-docx-pdf-7po",
+    "keywords": [
+      "single rust binary",
+      "single rust binary",
+      "replaced headless libreoffice",
+      "replaced headless libreoffice",
+      "turned docx templates",
+      "headless ...",
+      "docx pdf",
+      "docx pdf",
+      "document pipeline",
+      "source"
+    ],
+    "summary": "# We Replaced Headless LibreOffice with a Single Rust Binary for DOCX PDF > Source: devto | Category: news | 2026-08-12T09:34:47Z We had a document pipeline in production that turned DOCX templates into PDFs."
+  },
+  "6d6d405cfeb4f381": {
+    "file": "corpus/devto/dev_to_thesablefalcon_what-it-took-to-move-a-collaborative-b_a8c9937767.md",
+    "source": "devto",
+    "title": "What it took to move a collaborative browser IDE beyond process memory",
+    "url": "https://dev.to/thesablefalcon/what-it-took-to-move-a-collaborative-browser-ide-beyond-process-memory-3cj8",
+    "keywords": [
+      "local demo needs",
+      "first collaboration model",
+      "way",
+      "took",
+      "took",
+      "source",
+      "reactions",
+      "news",
+      "move",
+      "move"
+    ],
+    "summary": "# What it took to move a collaborative browser IDE beyond process memory > Source: devto | Category: news | 2026-08-12T09:34:44Z The first collaboration model in CodeVerse was convincing in exactly the way a local demo needs to be..."
+  },
+  "bac3d5d9d7f36660": {
+    "file": "corpus/devto/dev_to_ghabryel_angular-22-the-end-of-boilerplate-and-the-co_01199b8b92.md",
+    "source": "devto",
+    "title": "Angular 22: The End of Boilerplate and the Consolidation of the Reactive Era",
+    "url": "https://dev.to/ghabryel/angular-22-the-end-of-boilerplate-and-the-consolidation-of-the-reactive-era-3a8n",
+    "keywords": [
+      "silent reconstruction — piece",
+      "piece ...",
+      "reactive era",
+      "reactive era",
+      "angular 22",
+      "angular 22",
+      "years",
+      "undergoing",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Angular 22: The End of Boilerplate and the Consolidation of the Reactive Era > Source: devto | Category: news | 2026-08-12T09:34:44Z If you have been following the evolution of Google's framework over the last few years, you know it has been undergoing a silent reconstruction — piece by piece..."
+  },
+  "731681ea1cd93624": {
+    "file": "corpus/devto/dev_to_linfordr_context-compaction-is-silently-destroying-yo_851ba072c2.md",
+    "source": "devto",
+    "title": "Context compaction is silently destroying your LLM agent's memory",
+    "url": "https://dev.to/linfordr/context-compaction-is-silently-destroying-your-llm-agents-memory-2pg2",
+    "keywords": [
+      "session llm ...",
+      "45z context compaction",
+      "context compaction",
+      "context compaction",
+      "llm agent",
+      "llm agent",
+      "llm agent",
+      "silently destroying",
+      "silently destroying",
+      "silently destroying"
+    ],
+    "summary": "# Context compaction is silently destroying your LLM agent's memory > Source: devto | Category: news | 2026-08-12T09:34:45Z Context compaction is silently destroying your LLM agent's memory   Tl;dr: Long-session LLM..."
+  },
+  "403d5ae72181c32b": {
+    "file": "corpus/devto/dev_to_parsajiravand_youre-blocking-touchmove-events-to-cont_0185534684.md",
+    "source": "devto",
+    "title": "You're blocking touchmove events to contain scroll. `overscroll-behavior` does it natively.",
+    "url": "https://dev.to/parsajiravand/youre-blocking-touchmove-events-to-contain-scroll-overscroll-behavior-does-it-natively-223o",
+    "keywords": [
+      "starts moving ....",
+      "blocking touchmove events",
+      "blocking touchmove events",
+      "user scrolls",
+      "page behind",
+      "keeps scrolling",
+      "contain scroll",
+      "contain scroll",
+      "source",
+      "reactions"
+    ],
+    "summary": "# You're blocking touchmove events to contain scroll. > Source: devto | Category: news | 2026-08-12T09:34:44Z When a user scrolls to the bottom of a modal and keeps scrolling, the page behind it starts moving...."
+  },
+  "4fd580d6f4799121": {
+    "file": "corpus/devto/dev_to_shamik123_i-gave-an-llm-the-keys-to-my-house-heres-th_ecb940dd1b.md",
+    "source": "devto",
+    "title": "I Gave an LLM the Keys to My House. Here's the Guardrail Engine That Keeps It Honest",
+    "url": "https://dev.to/shamik123/i-gave-an-llm-the-keys-to-my-house-heres-the-guardrail-engine-that-keeps-it-honest-1938",
+    "keywords": [
+      "learned building",
+      "guardrail engine",
+      "guardrail engine",
+      "guardrail engine",
+      "engine ...",
+      "house —",
+      "house",
+      "house",
+      "source",
+      "runs"
+    ],
+    "summary": "# I Gave an LLM the Keys to My House. Here's the Guardrail Engine That Keeps It Honest What I learned building a guardrail engine for an agent that runs my house — and how the same engine..."
+  },
+  "66aee54687a06b92": {
+    "file": "corpus/devto/dev_to_matias_affolter_how-we-made-image-copy-detection-1000_1de702e42b.md",
+    "source": "devto",
+    "title": "How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels",
+    "url": "https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50",
+    "keywords": [
+      "made image copy",
+      "made image copy",
+      "44z structural hashing",
+      "000 faster —",
+      "000 faster —",
+      "pixel art",
+      "byte key",
+      "artwork ?'",
+      "115 ...",
+      "000"
+    ],
+    "summary": "# How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels > Source: devto | Category: news | 2026-08-12T09:34:44Z Structural hashing for pixel art: a 1024-byte key that answers 'is this the same artwork?'"
+  },
+  "a0d733c34759c0c3": {
+    "file": "corpus/devto/dev_to_smirnovartur_a-lattice-with-no-mesh-sphere-tracing-a-_9f80d9e332.md",
+    "source": "devto",
+    "title": "A lattice with no mesh: sphere-tracing a signed distance field in raw WebGL2",
+    "url": "https://dev.to/smirnovartur/a-lattice-with-no-mesh-sphere-tracing-a-signed-distance-field-in-raw-webgl2-2g9h",
+    "keywords": [
+      "signed distance field",
+      "signed distance field",
+      "https :// smirnov",
+      "3d model behind",
+      "44z live page",
+      "page —",
+      "raw webgl2",
+      "raw webgl2",
+      "webgl",
+      "tracing"
+    ],
+    "summary": "# A lattice with no mesh: sphere-tracing a signed distance field in raw WebGL2 > Source: devto | Category: news | 2026-08-12T09:34:44Z Live page: https://smirnov-artur.github.io/webgl/lattice/  There's no 3D model behind this page — no..."
+  },
+  "7cf643cce994405f": {
+    "file": "corpus/devto/dev_to_roandejager_building-talon-sub-second-non-generative-_1b4da784ff.md",
+    "source": "devto",
+    "title": "Building TALON: Sub-Second Non-Generative Knowledge Graph Ingestion on a GTX 1070",
+    "url": "https://dev.to/roandejager/building-talon-sub-second-non-generative-knowledge-graph-ingestion-on-a-gtx-1070-5hnj",
+    "keywords": [
+      "generative knowledge graph ingestion",
+      "generative knowledge graph ingestion",
+      "generative knowledge graph ingestion",
+      "45z building talon",
+      "building talon",
+      "building talon",
+      "second non",
+      "second non",
+      "second non",
+      "gtx 1070"
+    ],
+    "summary": "# Building TALON: Sub-Second Non-Generative Knowledge Graph Ingestion on a GTX 1070 > Source: devto | Category: news | 2026-08-12T09:34:45Z Building TALON: Sub-Second Non-Generative Knowledge Graph Ingestion on a GTX..."
+  },
+  "a582c83df1f2cf73": {
+    "file": "corpus/devto/dev_to_storvus_what-does-the-del-statement-actually-do-36nf_9dc87986cb.md",
+    "source": "devto",
+    "title": "What Does the `del` Statement Actually Do?",
+    "url": "https://dev.to/storvus/what-does-the-del-statement-actually-do-36nf",
+    "keywords": [
+      "statement actually",
+      "statement actually",
+      "revisit one",
+      "first ideas",
+      "source",
+      "series",
+      "reactions",
+      "question",
+      "news",
+      "let"
+    ],
+    "summary": "# What Does the `del` Statement Actually Do? > Source: devto | Category: news | 2026-08-12T09:34:45Z To answer that question, let's revisit one of the very first ideas we learned in this series."
+  },
+  "d1e8f41a385f1551": {
+    "file": "corpus/devto/dev_to_zkasuran_the-sparring-partner-was-reading-my-config-f_135a100096.md",
+    "source": "devto",
+    "title": "The sparring partner was reading my config file",
+    "url": "https://dev.to/zkasuran/the-sparring-partner-was-reading-my-config-file-ljm",
+    "keywords": [
+      "summer bug smash",
+      "smash stories powered",
+      "sparring partner",
+      "sparring partner",
+      "config file",
+      "config file",
+      "tuning",
+      "submission",
+      "source",
+      "sentry"
+    ],
+    "summary": "# The sparring partner was reading my config file > Source: devto | Category: news | 2026-08-12T09:34:43Z This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry."
+  },
+  "f6a20a9bf54e7615": {
+    "file": "corpus/devto/dev_to_devanshkant_we-ported-jsbi-to-c-and-the-benchmark-tau_91cdd53a47.md",
+    "source": "devto",
+    "title": "We ported JSBI to C++ — and the benchmark taught us more than the port did",
+    "url": "https://dev.to/devanshkant/we-ported-jsbi-to-c-and-the-benchmark-taught-us-more-than-the-port-did-14c",
+    "keywords": [
+      "precision integer library —",
+      "c ++ —",
+      "c ++ —",
+      "benchmark taught us",
+      "benchmark taught us",
+      "jsbi —",
+      "ported jsbi",
+      "ported jsbi",
+      "ported googlechromelabs",
+      "modern ..."
+    ],
+    "summary": "# We ported JSBI to C++ — and the benchmark taught us more than the port did > Source: devto | Category: news | 2026-08-12T09:34:44Z TL;DR: We ported GoogleChromeLabs/jsbi — a pure-JS arbitrary-precision integer library — to modern..."
+  },
+  "455da623d40f6bc8": {
+    "file": "corpus/devto/dev_to_pedroven_how-one-django-delete-ran-a-4-gb-instance-ou_5f7fedaa23.md",
+    "source": "devto",
+    "title": "How one Django .delete() ran a 4 GB instance out of memory | Slicing Prod Data",
+    "url": "https://dev.to/pedroven/how-one-django-delete-ran-a-4-gb-instance-out-of-memory-slicing-prod-data-330m",
+    "keywords": [
+      "slicing prod data",
+      "slicing prod data",
+      "raw sql commands",
+      "delete () ran",
+      "delete () ran",
+      "4 gb instance",
+      "4 gb instance",
+      "one django",
+      "one django",
+      "bring us"
+    ],
+    "summary": "# How one Django .delete() ran a 4 GB instance out of memory | Slicing Prod Data > Source: devto | Category: news | 2026-08-12T09:34:45Z ORMs can bring us a lot of simplicity and are easier to maintain than raw SQL commands, but as with..."
+  },
+  "bce0f92b47e11d6a": {
+    "file": "corpus/security/thehackernews_com_2026_08_malicious-litellm-releases-tied-to_ef7a70b327.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+    "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "keywords": [
+      "threat intelligence firm cloudsek",
+      "malicious litellm releases tied",
+      "malicious litellm releases tied",
+      "trivy hack may",
+      "trivy hack may",
+      "trivy hack may",
+      "stealing code capable",
+      "march carrying credential",
+      "maps potential exposure",
+      "harvesting cloud keys"
+    ],
+    "summary": "# [hacker-news-sec] Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more"
+  },
+  "d7c43c3217283d1a": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48233_coinbase-to-launch-tokeni_c43b6faeef.md",
+    "source": "finance",
+    "title": "[finextra] Coinbase to launch tokenisation hub in Abu Dhabi",
+    "url": "https://www.finextra.com/newsarticle/48233/coinbase-to-launch-tokenisation-hub-in-abu-dhabi?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "launch tokenisation hub",
+      "launch tokenisation hub",
+      "launch tokenisation hub",
+      "international tokenisation hub",
+      "chosen abu dhabi",
+      "abu dhabi",
+      "abu dhabi",
+      "37z coinbase",
+      "coinbase",
+      "coinbase"
+    ],
+    "summary": "# [finextra] Coinbase to launch tokenisation hub in Abu Dhabi Coinbase to launch tokenisation hub in Abu Dhabi Crypto exchange Coinbase has chosen Abu Dhabi as the location for its international tokenisation hub."
+  },
+  "cacd05b31c3e8203": {
+    "file": "corpus/hackernews/spoorkaart_zaza_dev_f30b1d810e.md",
+    "source": "hackernews",
+    "title": "Dutch Train Map Simulator",
+    "url": "https://spoorkaart.zaza.dev",
+    "keywords": [
+      "dutch train map simulator",
+      "dutch train map simulator",
+      "36z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Dutch Train Map Simulator > Source: hackernews | Category: news | 2026-08-12T09:34:36Z Score: 6 | Comments: 0"
+  },
+  "a3487c5a8dc479ab": {
+    "file": "corpus/hackernews/www_msarnoff_org_millitext_ec4ad8e476.md",
+    "source": "hackernews",
+    "title": "Single-pixel width legible LCD font – Subpixel Text Encoding",
+    "url": "https://www.msarnoff.org/millitext/",
+    "keywords": [
+      "42z score",
+      "source",
+      "single",
+      "single",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Single-pixel width legible LCD font – Subpixel Text Encoding > Source: hackernews | Category: news | 2026-08-12T09:34:42Z Score: 4 | Comments: 1"
+  },
+  "e1d7460687481da9": {
+    "file": "corpus/hackernews/www_cbc_ca_news_canada_newfoundland-labrador_nl-hard-bread-h_f35279c2d0.md",
+    "source": "hackernews",
+    "title": "Newfoundland has a hard bread shortage, but why do they eat it?",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276",
+    "keywords": [
+      "hard bread shortage",
+      "hard bread shortage",
+      "38z score",
+      "source",
+      "news",
+      "newfoundland",
+      "newfoundland",
+      "hackernews",
+      "eat",
+      "eat"
+    ],
+    "summary": "# Newfoundland has a hard bread shortage, but why do they eat it? > Source: hackernews | Category: news | 2026-08-12T09:34:38Z Score: 11 | Comments: 0"
+  },
+  "c6dbf1244c19e193": {
+    "file": "corpus/hackernews/worm_net_2ca2ecb655.md",
+    "source": "hackernews",
+    "title": "Worms: The Future of Yesterday's Worms Today",
+    "url": "https://worm.net/",
+    "keywords": [
+      "36z score",
+      "worms today",
+      "worms today",
+      "worms",
+      "worms",
+      "yesterday",
+      "yesterday",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Worms: The Future of Yesterday's Worms Today > Source: hackernews | Category: news | 2026-08-12T09:34:36Z Score: 35 | Comments: 8"
+  },
+  "c5afe9e651e5daa4": {
+    "file": "corpus/design/state-of-ai-in-design-systems_netlify_app_80b8740a19.md",
+    "source": "design",
+    "title": "[sidebar-io] State of AI in Design Systems",
+    "url": "https://state-of-ai-in-design-systems.netlify.app/",
+    "keywords": [
+      "6 platforms make",
+      "source design systems",
+      "design systems",
+      "design systems",
+      "design systems",
+      "field study",
+      "20 open",
+      "38z state",
+      "ai agents",
+      "source"
+    ],
+    "summary": "# [sidebar-io] State of AI in Design Systems State of AI in Design Systems A field study of how 20 open-source design systems and 6 platforms make themselves readable to AI agents."
+  },
+  "700f9afddd737cf9": {
+    "file": "corpus/design/blog_mozilla_org_ux_2026_08_let-your-designs-fail-for-the-ri_559f7dc301.md",
+    "source": "design",
+    "title": "[sidebar-io] Let your designs fail for the right reasons",
+    "url": "https://blog.mozilla.org/ux/2026/08/let-your-designs-fail-for-the-right-reasons/",
+    "keywords": [
+      "usability testing could show",
+      "assisted native prototypes changed",
+      "right reasons",
+      "right reasons",
+      "right reasons",
+      "designs fail",
+      "designs fail",
+      "designs fail",
+      "38z let",
+      "let"
+    ],
+    "summary": "# [sidebar-io] Let your designs fail for the right reasons Let your designs fail for the right reasons How AI-assisted native prototypes changed what usability testing could show."
+  },
+  "179d307268d60eb6": {
+    "file": "corpus/design/2026_stateofcss_com_en-US_63da145d42.md",
+    "source": "design",
+    "title": "[sidebar-io] State of CSS 2026",
+    "url": "https://2026.stateofcss.com/en-US/",
+    "keywords": [
+      "layout practices",
+      "css 2026",
+      "css 2026",
+      "css 2026",
+      "38z state",
+      "2026",
+      "state",
+      "state",
+      "usage",
+      "source"
+    ],
+    "summary": "# [sidebar-io] State of CSS 2026 The results are in. Developer adoption across modern CSS features—empirical data on layout practices and usage."
+  },
+  "907bcc11dac9700b": {
+    "file": "corpus/design/taylor_town_leaving-openai_942a639010.md",
+    "source": "design",
+    "title": "[sidebar-io] I’m leaving OpenAI to build Jurassic Park",
+    "url": "https://taylor.town/leaving-openai",
+    "keywords": [
+      "build jurassic park",
+      "build jurassic park",
+      "stone age",
+      "leaving openai",
+      "leaving openai",
+      "leaving openai",
+      "source"
+    ],
+    "summary": "# [sidebar-io] I’m leaving OpenAI to build Jurassic Park I’m leaving OpenAI to build Jurassic Park Gonna send you back to the stone age."
+  },
+  "e5183d17ca317032": {
+    "file": "corpus/design/www_beautifului_dev_1211ff45b3.md",
+    "source": "design",
+    "title": "[sidebar-io] Beautiful UI",
+    "url": "https://www.beautifului.dev/",
+    "keywords": [
+      "everything agents need",
+      "38z beautiful ui",
+      "beautiful ui",
+      "beautiful ui",
+      "chat agents",
+      "thinking states",
+      "small library",
+      "paste components",
+      "loop approvals",
+      "extremely crafted"
+    ],
+    "summary": "# [sidebar-io] Beautiful UI Beautiful UI A small library of extremely crafted, copy-paste components for chat agents, thinking states, human-in-the-loop approvals, and everything agents need."
+  },
+  "83d7303dd9471973": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49269646_5569a9364a.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49269646",
+    "keywords": [
+      "informed models .< p",
+      "helping hardware design move",
+      "foundational ai models",
+      "building ai models",
+      "turn existing schematics",
+      "render &# x2f",
+      "production ready boards",
+      "make sound build",
+      "kimi &# x2f",
+      "founding backend engineer"
+    ],
+    "summary": "We turn existing schematics into production ready boards, helping hardware design move at the speed of software. &gt;4+ years of experience building REST applications.<p>Familiarity with the stack is not required but it would be nice to have. FastAPI, Postgres, S3, Python, Render&#x2F;AWS, Codex&#x2F;Claude&#x2F;Kimi&#x2F;Qwen (any other foundational model experience), monitoring frameworks.<p>Apply: <a href=\"https:&#x2F;&#x2F;www.origamics.ai&#x2F;join-us\" rel=\"nofollow\">https:&#x2F;&#x2F;www.o"
   }
 }

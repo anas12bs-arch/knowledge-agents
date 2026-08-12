@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations"
+url: "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-08-12T09:34:36Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations
+
+> Source: security | Category: security | 2026-08-12T09:34:36Z
+
+Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations
+
+Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.
+
+Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more
