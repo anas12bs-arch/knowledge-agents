@@ -409124,5 +409124,510 @@
       "scrape career pages"
     ],
     "summary": "# Show HN: OJCP – an open protocol for agent-consumable job data Employers get buried in applications that don&#x27;t fit, candidates hear nothing back, and the resume is now an AI-written thing that another AI scores (which breaks the existing model entirely, btw).<p>OJCP is MCP tools for search and apply, a manifest at &#x2F;.well-known&#x2F;ojcp.json so agents can find providers, and schemas that extend schema.org instead of replacing it. Agents sign requests using the same method that CloudF"
+  },
+  "4bd73dbd651e062a": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_13_the-fake-free-speech-president-h_d97d931d9e.md",
+    "source": "legal",
+    "title": "[techdirt] The Fake Free Speech President Has Unleashed ICE On Its Critics",
+    "url": "https://www.techdirt.com/2026/08/13/the-fake-free-speech-president-has-unleashed-ice-on-its-critics/",
+    "keywords": [
+      "trump administration regularly engages",
+      "fake free speech president",
+      "fake free speech president",
+      "fake free speech president",
+      "clearly unconstitutional attempts",
+      "[&# 8230 ;]",
+      "free speech",
+      "suppress speech",
+      "donald trump",
+      "unleashed ice"
+    ],
+    "summary": "# [techdirt] The Fake Free Speech President Has Unleashed ICE On Its Critics The Fake Free Speech President Has Unleashed ICE On Its Critics Anyone who looks will note that the Trump administration regularly engages in clearly unconstitutional attempts to suppress speech."
+  },
+  "34b3649067f80926": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_13_daily-deal-the-aws-certification_f4130834e8.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: The AWS Certification Paths Bundle",
+    "url": "https://www.techdirt.com/2026/08/13/daily-deal-the-aws-certification-paths-bundle/",
+    "keywords": [
+      "use realistic exam simulators",
+      "questions [&# 8230 ;]",
+      "aws certification paths bundle",
+      "aws certification paths bundle",
+      "aws certification paths bundle",
+      "certifications open doors",
+      "38z daily deal",
+      "aws certification",
+      "daily deal",
+      "daily deal"
+    ],
+    "summary": "# [techdirt] Daily Deal: The AWS Certification Paths Bundle Daily Deal: The AWS Certification Paths Bundle If you’re looking for a career in cloud computing, there’s no better place to start than with the AWS certification."
+  },
+  "439da55a547db66f": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_my-commit-hook-has-ten-documented-fixes_c88e646960.md",
+    "source": "devto",
+    "title": "My Commit Hook Has Ten Documented Fixes. Its Own Guard Clause May Have Kept It From Running on a Single One of My Real Commits.",
+    "url": "https://dev.to/enjoy_kumawat/my-commit-hook-has-ten-documented-fixes-its-own-guard-clause-may-have-kept-it-from-running-on-a-4d8e",
+    "keywords": [
+      "ten documented fixes",
+      "ten documented fixes",
+      "guard clause may",
+      "guard clause may",
+      "single one",
+      "single one",
+      "real commits",
+      "real commits",
+      "msg hook",
+      "diff call"
+    ],
+    "summary": "# My Commit Hook Has Ten Documented Fixes. Its Own Guard Clause May Have Kept It From Running on a Single One of My Real Commits. I've fixed this repo's prepare-commit-msg hook a lot."
+  },
+  "55f8c41e6b41385d": {
+    "file": "corpus/devto/dev_to_fetchsandbox_undefined-undefined-the-auth-bypass-your_7b4c461c44.md",
+    "source": "devto",
+    "title": "undefined === undefined — the auth bypass your AI wrote into your checkout",
+    "url": "https://dev.to/fetchsandbox/undefined-undefined-the-auth-bypass-your-ai-wrote-into-your-checkout-4j9g",
+    "keywords": [
+      "undefined === undefined —",
+      "undefined === undefined —",
+      "one config away",
+      "wide open",
+      "open auth",
+      "auth bypass",
+      "auth bypass",
+      "ai wrote",
+      "ai wrote"
+    ],
+    "summary": "# undefined === undefined — the auth bypass your AI wrote into your checkout An AI-written auth check let every anonymous request through, because a missing env var made undefined === undefined. Fail-open auth is one config away from wide open."
+  },
+  "ceb597b9d187b87b": {
+    "file": "corpus/devto/dev_to_conchaestradamiguelangeldroid_we-found-a-bug-that-let_d1f07f9081.md",
+    "source": "devto",
+    "title": "We found a bug that let our test suite write to production. Here's what we did about it.",
+    "url": "https://dev.to/conchaestradamiguelangeldroid/we-found-a-bug-that-let-our-test-suite-write-to-production-heres-what-we-did-about-it-c60",
+    "keywords": [
+      "45z five days ago",
+      "test suite write",
+      "test suite write",
+      "opened ekurhive —",
+      "ai agents —",
+      "week ,...",
+      "trust network",
+      "outside nodes",
+      "source",
+      "reactions"
+    ],
+    "summary": "# We found a bug that let our test suite write to production. Here's what we did about it. Five days ago we opened Ekurhive — our trust network for AI agents — to outside nodes."
+  },
+  "216efd7b4b84118b": {
+    "file": "corpus/devto/dev_to_manasviboineypally_building-a-multi-agent-ai-pipeline_f5be34ddbb.md",
+    "source": "devto",
+    "title": "Building a Multi-Agent AI Pipeline That Ships: LangGraph, RAG, and Evals That Matter",
+    "url": "https://dev.to/manasviboineypally/building-a-multi-agent-ai-pipeline-that-ships-langgraph-rag-and-evals-that-matter-32db",
+    "keywords": [
+      "spent 18 days building",
+      "converts research papers",
+      "agent ai pipeline",
+      "agent ai pipeline",
+      "ai product",
+      "tailored ...",
+      "building",
+      "building",
+      "source",
+      "ships"
+    ],
+    "summary": "# Building a Multi-Agent AI Pipeline That Ships: LangGraph, RAG, and Evals That Matter > Source: devto | Category: news | 2026-08-13T18:26:47Z I spent 18 days building an AI product that converts research papers into audience-tailored..."
+  },
+  "f3dd181e08c0388e": {
+    "file": "corpus/ai-research/openai_com_index_builders-guide-to-gpt-5-6_6f8368ac76.md",
+    "source": "ai-research",
+    "title": "[openai-blog] The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "keywords": [
+      "new responses api capabilities",
+      "startups use gpt",
+      "smarter model selection",
+      "gpt ‑ 5",
+      "gpt ‑ 5",
+      "gpt ‑ 5",
+      "efficient ai agents",
+      "builder ’",
+      "builder ’",
+      "builder ’"
+    ],
+    "summary": "# [openai-blog] The builder’s guide to GPT‑5.6 The builder’s guide to GPT‑5.6 Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+  },
+  "1f7e0d53acec8e47": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_gemini-3-7-flash-now-available-on-ai-ga_c9138c8201.md",
+    "source": "vercel-blog",
+    "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
+    "url": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
+    "keywords": [
+      "49z gemini 3",
+      "gemini 3",
+      "gemini 3",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "7 flash",
+      "7 flash",
+      "7 flash",
+      "vercel"
+    ],
+    "summary": "# Gemini 3.7 Flash now available on AI Gateway for 50% off > Source: vercel-blog | Category: news | 2026-08-13T18:26:49Z Gemini 3.7 Flash now available on AI Gateway for 50% off"
+  },
+  "d0e1a24733e4ad88": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-breach-govt-w_209727c80a.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers breach govt webmail while running parallel crypto fraud",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
+    "keywords": [
+      "hackers breach govt webmail",
+      "hackers breach govt webmail",
+      "espionage operations targeting governments",
+      "running parallel crypto fraud",
+      "running parallel crypto fraud",
+      "running parallel crypto fraud",
+      "jewelbug hacker group",
+      "cryptocurrency fraud",
+      "also engaging",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] Hackers breach govt webmail while running parallel crypto fraud Hackers breach govt webmail while running parallel crypto fraud The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud."
+  },
+  "f5038987f67914f6": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_ai-watermark-removers_00e63bf675.md",
+    "source": "security",
+    "title": "[bleeping-comp] AI 'watermark removers' flood the web. Almost none can prove they work.",
+    "url": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
+    "keywords": [
+      "500 github stars",
+      "open source project",
+      "watermark removers",
+      "watermark removers",
+      "watermark removers",
+      "watermark removers",
+      "text watermark",
+      "surfaced days",
+      "almost none",
+      "almost none"
+    ],
+    "summary": "# [bleeping-comp] AI 'watermark removers' flood the web. Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion services. None of the tools' claims about defeating the text watermark can be verified, as Anthropic has not released a detector."
+  },
+  "0da2d2267cb4af3f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-patches-le_8e33415ace.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft patches LegacyHive Windows zero-day vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+    "keywords": [
+      "july 2026 patch tuesday",
+      "legacyhive ,\" disclosed",
+      "day vulnerability microsoft",
+      "day vulnerability known",
+      "released security patches",
+      "day vulnerability",
+      "day vulnerability",
+      "windows zero",
+      "2026",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Microsoft patches LegacyHive Windows zero-day vulnerability Microsoft patches LegacyHive Windows zero-day vulnerability Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday."
+  },
+  "80c722176583a48a": {
+    "file": "corpus/youtube/www_youtube_com_shorts_mnPieSQvZv8_1c080fd30d.md",
+    "source": "youtube",
+    "title": "[leerob] How AI agents fix Lighthouse errors in Chrome DevTools",
+    "url": "https://www.youtube.com/shorts/mnPieSQvZv8",
+    "keywords": [
+      "web development workflow using",
+      "matthias rohmer products mentioned",
+      "fix lighthouse errors",
+      "ai coding agents",
+      "chrome devtools improve",
+      "lighthouse speaker",
+      "integrated straight",
+      "devtoolstips subscribe",
+      "chrome devtools",
+      "chrome devtools"
+    ],
+    "summary": "# [leerob] How AI agents fix Lighthouse errors in Chrome DevTools Lighthouse is now integrated straight into Chrome DevTools for agents. View the complete Developer Tooling Tips episode to learn more."
+  },
+  "ba083e7bab50c167": {
+    "file": "corpus/hackernews/donkeybas_com_5a4ef5d969.md",
+    "source": "hackernews",
+    "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+    "url": "https://donkeybas.com/",
+    "keywords": [
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "glory",
+      "glory",
+      "donkey",
+      "donkey",
+      "comments",
+      "category"
+    ],
+    "summary": "# Donkey.bas is 45 Years Old – 131 line of Glory > Source: hackernews | Category: news | 2026-08-13T18:26:38Z Score: 27 | Comments: 9"
+  },
+  "8312801db4979f11": {
+    "file": "corpus/hackernews/docs_mistral_ai_models_ocr-4-1_7da85c9e93.md",
+    "source": "hackernews",
+    "title": "Mistral OCR 4.1",
+    "url": "https://docs.mistral.ai/models/ocr-4-1",
+    "keywords": [
+      "mistral ocr 4",
+      "mistral ocr 4",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mistral OCR 4.1 > Source: hackernews | Category: news | 2026-08-13T18:26:38Z Score: 78 | Comments: 18"
+  },
+  "bcef2aec2683a54a": {
+    "file": "corpus/hackernews/mcfunley_com_choose-boring-technology_f9c2faed5b.md",
+    "source": "hackernews",
+    "title": "Choose Boring Technology (2015)",
+    "url": "https://mcfunley.com/choose-boring-technology",
+    "keywords": [
+      "choose boring technology",
+      "choose boring technology",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Choose Boring Technology (2015) > Source: hackernews | Category: news | 2026-08-13T18:26:38Z Score: 38 | Comments: 13"
+  },
+  "5ae7725ea776d435": {
+    "file": "corpus/hackernews/www_cerebras_ai_blog_accelerating-gpt-5-6-sol-ultrafast-with_3868a8d41a.md",
+    "source": "hackernews",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "keywords": [
+      "6 sol ultrafast",
+      "6 sol ultrafast",
+      "accelerating gpt",
+      "accelerating gpt",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Accelerating GPT-5.6 Sol Ultrafast > Source: hackernews | Category: news | 2026-08-13T18:26:40Z Score: 5 | Comments: 0"
+  },
+  "04aec698d53db9fe": {
+    "file": "corpus/hackernews/www_cmegroup_com_media-room_press-releases_2026_8_11_cme_gro_17711b99c5.md",
+    "source": "hackernews",
+    "title": "Chicago Mercantile Exchange will list futures contracts for GPU costs",
+    "url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html",
+    "keywords": [
+      "list futures contracts",
+      "list futures contracts",
+      "chicago mercantile exchange",
+      "chicago mercantile exchange",
+      "gpu costs",
+      "gpu costs",
+      "43z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Chicago Mercantile Exchange will list futures contracts for GPU costs > Source: hackernews | Category: news | 2026-08-13T18:26:43Z Score: 3 | Comments: 1"
+  },
+  "505d169c6cc983fc": {
+    "file": "corpus/hackernews/lrc_la_utexas_edu_eieol_tokol_0_e189a8fe47.md",
+    "source": "hackernews",
+    "title": "Tocharian Online",
+    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+    "keywords": [
+      "tocharian online",
+      "tocharian online",
+      "38z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Tocharian Online > Source: hackernews | Category: news | 2026-08-13T18:26:38Z Score: 22 | Comments: 0"
+  },
+  "1bc4cd322c446b61": {
+    "file": "corpus/hackernews/github_com_roandejager_Hillock_8f490b6676.md",
+    "source": "hackernews",
+    "title": "Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM",
+    "url": "https://github.com/roandejager/Hillock",
+    "keywords": [
+      "symbolic memory engine running",
+      "symbolic memory engine running",
+      "hillock – local neuro",
+      "hillock – local neuro",
+      "42z score",
+      "2gb vram",
+      "2gb vram",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM > Source: hackernews | Category: news | 2026-08-13T18:26:42Z Score: 4 | Comments: 1"
+  },
+  "555700baecf9dbf9": {
+    "file": "corpus/hackernews/techcrunch_com_2026_08_12_amazon-will-train-on-twitch-stream_4eff3856a5.md",
+    "source": "hackernews",
+    "title": "Amazon will train on Twitch streamers' content by default, unless they opt out",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "keywords": [
+      "twitch streamers",
+      "twitch streamers",
+      "43z score",
+      "unless",
+      "unless",
+      "train",
+      "train",
+      "source",
+      "opt",
+      "opt"
+    ],
+    "summary": "# Amazon will train on Twitch streamers' content by default, unless they opt out > Source: hackernews | Category: news | 2026-08-13T18:26:43Z Score: 14 | Comments: 2"
+  },
+  "a68cf127ba545c30": {
+    "file": "corpus/hackernews/games_lukicengineering_com_blog_2013-vs-2026_783d1ff578.md",
+    "source": "hackernews",
+    "title": "From 13.5M installs to 499 active devices",
+    "url": "https://games.lukicengineering.com/blog/2013-vs-2026/",
+    "keywords": [
+      "499 active devices",
+      "499 active devices",
+      "5m installs",
+      "5m installs",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# From 13.5M installs to 499 active devices > Source: hackernews | Category: news | 2026-08-13T18:26:41Z Score: 17 | Comments: 5"
+  },
+  "86772cd7e38b14f1": {
+    "file": "corpus/hackernews/huggingface_co_papers_2608_09888_4123cbd2a0.md",
+    "source": "hackernews",
+    "title": "New model BDH-CQ costs $0.007 per task 11x less than OpenAI Luna even w 80% off",
+    "url": "https://huggingface.co/papers/2608.09888",
+    "keywords": [
+      "new model bdh",
+      "new model bdh",
+      "cq costs",
+      "cq costs",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# New model BDH-CQ costs $0.007 per task 11x less than OpenAI Luna even w 80% off > Source: hackernews | Category: news | 2026-08-13T18:26:44Z Score: 5 | Comments: 0"
+  },
+  "2706fa6c73a8d438": {
+    "file": "corpus/hackernews/surfil_com_0561d451c4.md",
+    "source": "hackernews",
+    "title": "Surfil On-device control plane for AI coding agents",
+    "url": "https://surfil.com/",
+    "keywords": [
+      "device control plane",
+      "device control plane",
+      "ai coding agents",
+      "ai coding agents",
+      "42z score",
+      "surfil",
+      "surfil",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Surfil On-device control plane for AI coding agents > Source: hackernews | Category: news | 2026-08-13T18:26:42Z Score: 4 | Comments: 0"
+  },
+  "57b1b78e3f04e29e": {
+    "file": "corpus/hackernews/opencv_org_opencv-ai-competition-2026_16fec11fef.md",
+    "source": "hackernews",
+    "title": "OpenCV AI Competition 2026",
+    "url": "https://opencv.org/opencv-ai-competition-2026/",
+    "keywords": [
+      "opencv ai competition 2026",
+      "opencv ai competition 2026",
+      "44z score",
+      "2026",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# OpenCV AI Competition 2026 > Source: hackernews | Category: news | 2026-08-13T18:26:44Z Score: 4 | Comments: 0"
+  },
+  "5f29b95d348c939f": {
+    "file": "corpus/hackernews/0_mk_blog_link-rot_e17fe5066d.md",
+    "source": "hackernews",
+    "title": "Where did the old web go? We followed 657,607 links to find out",
+    "url": "https://0.mk/blog/link-rot",
+    "keywords": [
+      "old web go",
+      "old web go",
+      "followed 657",
+      "followed 657",
+      "607 links",
+      "607 links",
+      "39z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Where did the old web go? We followed 657,607 links to find out > Source: hackernews | Category: news | 2026-08-13T18:26:39Z"
+  },
+  "ee1c4cba879bf86d": {
+    "file": "corpus/hackernews/tschatzl_github_io_2026_08_10_jdk27-g1-serial-parallel-gc-ch_3d4970df55.md",
+    "source": "hackernews",
+    "title": "JDK 27 G1/Parallel/Serial GC Changes",
+    "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+    "keywords": [
+      "serial gc changes",
+      "serial gc changes",
+      "jdk 27 g1",
+      "jdk 27 g1",
+      "41z score",
+      "source",
+      "parallel",
+      "parallel",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# JDK 27 G1/Parallel/Serial GC Changes > Source: hackernews | Category: news | 2026-08-13T18:26:41Z Score: 7 | Comments: 0"
+  },
+  "f92a6825400624af": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49289931_8b81ae804f.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49289931",
+    "keywords": [
+      "hiring manager .< p",
+      "stats .< p",
+      "x &# x2f",
+      "x &# x2f",
+      "detail &# x2f",
+      "detail &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "august 2026 ))",
+      "august 2026 ))"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-08-13T18:27:37Z Data analyst | Chicago, IL or Washington DC only| No visa sponsorship<p>National Association of Realtors is hiring a data analyst to work with customer data and to work on AI-enabled projects. We&#x27;re looking for Python and SQL with some stats.<p>I&#x27;m the hiring manager.<p>Please apply on the site: <a href=\"https:&#x2F;&#x2F;realtors.applicantstack.com&#x2F;x&#x2F;detail&#x2F;a2yfvt49zurx\" rel=\"nofollow\">https:&#x2F;&#x2F;r"
   }
 }
