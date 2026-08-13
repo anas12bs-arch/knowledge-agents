@@ -405663,5 +405663,286 @@
       "6 (# 39622"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-13T03:17:52Z Changes since langchain-anthropic==1.5.5 release(anthropic): 1.5.6 (#39622) fix(anthropic): normalize `tool_search_tool_result` blocks (#39621) fix(anthropic): correct model profile data for Fable 5, Sonnet 5, Opus 4.1 (#39604)"
+  },
+  "5c6b3eef37deaf11": {
+    "file": "corpus/devto/dev_to_kickbuttowski80_the-case-of-the-lying-clock-5-vue-mys_54e6760cdf.md",
+    "source": "devto",
+    "title": "The Case of the Lying Clock: 5 Vue Mysteries Solved",
+    "url": "https://dev.to/kickbuttowski80/the-case-of-the-lying-clock-5-vue-mysteries-solved-1e99",
+    "keywords": [
+      "5 vue mysteries solved",
+      "5 vue mysteries solved",
+      "10z timer drift",
+      "plain english",
+      "lying clock",
+      "lying clock",
+      "inline sources",
+      "hydration explained",
+      "effect scopes",
+      "source"
+    ],
+    "summary": "# The Case of the Lying Clock: 5 Vue Mysteries Solved > Source: devto | Category: news | 2026-08-13T05:08:10Z Timer drift, effect scopes, shallowRef, and hydration explained in plain English with analogies and inline sources."
+  },
+  "36ce4d033ae4d031": {
+    "file": "corpus/devto/dev_to_michaelnocito_sql-ctes-how-to-build-a-query-in-steps-_3bc9c51fd1.md",
+    "source": "devto",
+    "title": "SQL CTEs: How to Build a Query in Steps You Can Check",
+    "url": "https://dev.to/michaelnocito/sql-ctes-how-to-build-a-query-in-steps-you-can-check-3po",
+    "keywords": [
+      "cte names one step",
+      "named step beats",
+      "956 real games",
+      "sql ctes",
+      "sql ctes",
+      "nested subquery",
+      "stack steps",
+      "one",
+      "steps",
+      "steps"
+    ],
+    "summary": "# SQL CTEs: How to Build a Query in Steps You Can Check A CTE names one step of a query so you can run it on its own. Here is the WITH syntax, how to stack steps, how to test each one, and why a named step beats a nested subquery."
+  },
+  "788612b1ba10fb96": {
+    "file": "corpus/devto/dev_to_michaelnocito_sql-foundations-start-to-finish-17lm_7acef0ed99.md",
+    "source": "devto",
+    "title": "SQL Foundations, Start to Finish",
+    "url": "https://dev.to/michaelnocito/sql-foundations-start-to-finish-17lm",
+    "keywords": [
+      "window functions",
+      "sql foundations",
+      "sql foundations",
+      "six clauses",
+      "really run",
+      "tables",
+      "subqueries",
+      "start",
+      "start",
+      "source"
+    ],
+    "summary": "# SQL Foundations, Start to Finish > Source: devto | Category: news | 2026-08-13T05:08:10Z Every core SQL idea in the order they build on each other: tables and grain, the six clauses and the order they really run in, NULL, filtering, aggregation, GROUP BY and HAVING, joins, CASE, subqueries, CTEs, window functions, keys and indexes."
+  },
+  "4a7795357d631ae9": {
+    "file": "corpus/devto/dev_to_axrisi_the-founders-cognitive-trap-why-changing-your-_850259a774.md",
+    "source": "devto",
+    "title": "The Founder’s Cognitive Trap: Why Changing Your Mind Gets Harder After You Build",
+    "url": "https://dev.to/axrisi/the-founders-cognitive-trap-why-changing-your-mind-gets-harder-after-you-build-38cg",
+    "keywords": [
+      "predictable job ....",
+      "mind gets harder",
+      "mind gets harder",
+      "company looks like",
+      "radical openness",
+      "founder ’",
+      "founder ’",
+      "cognitive trap",
+      "cognitive trap",
+      "09z starting"
+    ],
+    "summary": "# The Founder’s Cognitive Trap: Why Changing Your Mind Gets Harder After You Build Starting a company looks like an act of radical openness to change. You leave the predictable job...."
+  },
+  "cf0932dbf530441b": {
+    "file": "corpus/devto/dev_to_michaelnocito_group-by-and-having-how-to-summarize-ro_b5e07036ad.md",
+    "source": "devto",
+    "title": "GROUP BY and HAVING: How to Summarize Rows Without Getting a Fake Answer",
+    "url": "https://dev.to/michaelnocito/group-by-and-having-how-to-summarize-rows-without-getting-a-fake-answer-1jkb",
+    "keywords": [
+      "summarize rows without getting",
+      "summarize rows without getting",
+      "956 real games",
+      "one line",
+      "fake answer",
+      "fake answer",
+      "eleven records",
+      "rows",
+      "worked",
+      "topping"
+    ],
+    "summary": "# GROUP BY and HAVING: How to Summarize Rows Without Getting a Fake Answer What GROUP BY actually does to your rows, why WHERE and HAVING are not interchangeable, and the one line that stops a category of eleven records from topping your chart. Worked on 82,956 real games."
+  },
+  "aa417f89ed2b761a": {
+    "file": "corpus/devto/dev_to_deanliu_the-ios-safari-keyboard-scroll-bug-fixed-with_766c30b219.md",
+    "source": "devto",
+    "title": "The iOS Safari keyboard scroll bug, fixed with one line of CSS",
+    "url": "https://dev.to/deanliu/the-ios-safari-keyboard-scroll-bug-fixed-with-one-line-of-css-1353",
+    "keywords": [
+      "screen mobile editor",
+      "one line",
+      "one line",
+      "fixed toolbar",
+      "fixed overlay",
+      "fixed",
+      "fixed",
+      "top",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The iOS Safari keyboard scroll bug, fixed with one line of CSS > Source: devto | Category: news | 2026-08-13T05:08:08Z If you build a full-screen mobile editor as a position: fixed overlay with a fixed toolbar on top and..."
+  },
+  "1947eb5fac939095": {
+    "file": "corpus/devto/dev_to_andrewavery7_what-llm-cost-calculators-get-wrong-2334_2cfebe58e3.md",
+    "source": "devto",
+    "title": "What LLM Cost Calculators Get Wrong",
+    "url": "https://dev.to/andrewavery7/what-llm-cost-calculators-get-wrong-2334",
+    "keywords": [
+      "catalog —...",
+      "calculators show",
+      "actually right",
+      "whether",
+      "source",
+      "reactions",
+      "number",
+      "news",
+      "model",
+      "devto"
+    ],
+    "summary": "# What LLM Cost Calculators Get Wrong > Source: devto | Category: news | 2026-08-13T05:08:10Z Is the number these calculators show you actually right?"
+  },
+  "2f77bcbf46c24f7e": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Antiqua_E2_80_93Fraktur_dispute_80e2a569a7.md",
+    "source": "hackernews",
+    "title": "Antiqua–Fraktur dispute",
+    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "keywords": [
+      "antiqua – fraktur dispute",
+      "antiqua – fraktur dispute",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Antiqua–Fraktur dispute > Source: hackernews | Category: news | 2026-08-13T05:07:57Z Score: 32 | Comments: 2"
+  },
+  "f8a3eecec0e862fd": {
+    "file": "corpus/hackernews/spillhistorie_no_2026_08_08_fra-gummistovler-til-copa-da-mic_29c8cfe33a.md",
+    "source": "hackernews",
+    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
+    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
+    "keywords": [
+      "microprose soccer revolutionized football",
+      "microprose soccer revolutionized football",
+      "rubber boots",
+      "rubber boots",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "copa",
+      "copa"
+    ],
+    "summary": "# From rubber boots to Copa: When MicroProse Soccer revolutionized football > Source: hackernews | Category: news | 2026-08-13T05:07:59Z Score: 6 | Comments: 0"
+  },
+  "99f9cfa8f29ad768": {
+    "file": "corpus/hackernews/www_malwarebytes_com_blog_news_2026_08_edge-is-dropping-olde_b8860a6132.md",
+    "source": "hackernews",
+    "title": "Edge is dropping older extensions(Manifest V2), affecting popular privacy tools",
+    "url": "https://www.malwarebytes.com/blog/news/2026/08/edge-is-dropping-older-extensions-affecting-popular-privacy-tools",
+    "keywords": [
+      "dropping older extensions",
+      "dropping older extensions",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "edge",
+      "edge",
+      "comments",
+      "category"
+    ],
+    "summary": "# Edge is dropping older extensions(Manifest V2), affecting popular privacy tools > Source: hackernews | Category: news | 2026-08-13T05:08:04Z Score: 11 | Comments: 1"
+  },
+  "be87043249360bb0": {
+    "file": "corpus/design/backyarddesigners_club_b0be04c218.md",
+    "source": "design",
+    "title": "[sidebar-io] Backyard designers",
+    "url": "https://backyarddesigners.club/",
+    "keywords": [
+      "count salary cap",
+      "chunky cartoon kids",
+      "backyard designers",
+      "backyard designers",
+      "stay",
+      "source",
+      "sidebar",
+      "sidebar",
+      "post",
+      "lineup"
+    ],
+    "summary": "# [sidebar-io] Backyard designers Backyard designers Draft seven real designers as chunky cartoon kids, stay under the follower-count salary cap, then post your lineup."
+  },
+  "1c870b8b5b0e7160": {
+    "file": "corpus/design/www_noemamag_com_why-is-everyone-in-tech-so-sad_0e65cc9919.md",
+    "source": "design",
+    "title": "[sidebar-io] Why is everyone in tech so sad?",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "keywords": [
+      "people seem",
+      "mostly pointless",
+      "knowledge work",
+      "tech",
+      "tech",
+      "tech",
+      "source",
+      "sidebar",
+      "sidebar",
+      "sad"
+    ],
+    "summary": "# [sidebar-io] Why is everyone in tech so sad? Why is everyone in tech so sad? A lot of people seem to be realizing that knowledge work is mostly pointless."
+  },
+  "988cb283e0cdd6ef": {
+    "file": "corpus/design/www_imkylelambert_com_articles_everyone-is-designing-with-ai_d42229a66a.md",
+    "source": "design",
+    "title": "[sidebar-io] Everyone is designing with AI, not for it",
+    "url": "https://www.imkylelambert.com/articles/everyone-is-designing-with-ai-not-for-it",
+    "keywords": [
+      "rarely read",
+      "changing “",
+      "” people",
+      "58z everyone",
+      "people",
+      "everyone",
+      "everyone",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Everyone is designing with AI, not for it We focus on how people are designing and building with AI. I rarely read about how AI is changing “what” people are designing and building."
+  },
+  "3962a0b3df69aa3a": {
+    "file": "corpus/design/kuber_studio_cookie_0c0b8525c9.md",
+    "source": "design",
+    "title": "[sidebar-io] I didn’t set a cookie",
+    "url": "https://kuber.studio/cookie/",
+    "keywords": [
+      "two seconds",
+      "permission prompt",
+      "page knows",
+      "cookie everything",
+      "cookie",
+      "cookie",
+      "cookie"
+    ],
+    "summary": "# [sidebar-io] I didn’t set a cookie I didn’t set a cookie Everything this page knows about you, it learned in under two seconds."
+  },
+  "bbb78c80b7fc7b87": {
+    "file": "corpus/design/lethain_com_middle-management-roles-were-also-a-trap_5227702e7f.md",
+    "source": "design",
+    "title": "[sidebar-io] Middle management roles are also a trap",
+    "url": "https://lethain.com/middle-management-roles-were-also-a-trap/",
+    "keywords": [
+      "58z middle management roles",
+      "middle management roles",
+      "middle management roles",
+      "sometimes negatively select",
+      "trap",
+      "trap",
+      "trap",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Middle management roles are also a trap Middle management roles are also a trap Most middle management roles make practicing executive skills difficult, and sometimes negatively select against developing them."
   }
 }
