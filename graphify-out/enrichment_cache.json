@@ -411290,5 +411290,98 @@
       "headers ()` view"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-13T23:08:45Z ## What's Changed * [16.x] Turbopack: don't strip async-module runtime from shared runtime chunks by @lukesandberg in https://github.com/vercel/next.js/pull/96653 * [16.x] [turbopack] Add `turbopack_ecmascript` and `turbopack_wasm`'s embeded FS to `internal_assets_conditions` by @lukesandberg in https://github.com/vercel/next.js/pull/96655 * [16.x] [turbopack] Collapse nested promises in the analyzer by @sampoder in https://g"
+  },
+  "fc27f51504e5319e": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_16_29dd694dea.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.16 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.16",
+    "keywords": [
+      "update authentication diagram url",
+      "revert i18n localization change",
+      "image ): skip 0",
+      "adopting fork pull requests",
+      "initializing disk lru cache",
+      "16 ### misc changes",
+      "testmode passthrough fetch",
+      "fix infinite recursion",
+      "convert tree prefetches",
+      "js — v16"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-13T23:54:48Z - Unify how a response's shell and full payloads are written: #96878 - Convert per-segment prefetches to NavigationFlightResponse format: #96877 - Unify how server responses are written into the client cache: #96876 - Convert tree prefetches to NavigationFlightResponse format: #96788 - Revert i18n localization change for dynamic Pages API routes (#94905): #97327 - fix(next/image): skip 0-byte entries when initializing disk LR"
+  },
+  "4be309e71ab44cda": {
+    "file": "corpus/devto/dev_to_martinhicks_parity-suite-300-measuring-the-wrong-thin_88e3d112de.md",
+    "source": "devto",
+    "title": "Parity Suite 3.0.0: measuring the wrong thing",
+    "url": "https://dev.to/martinhicks/parity-suite-300-measuring-the-wrong-thing-7fa",
+    "keywords": [
+      "grades every dynamodb emulator",
+      "18z parity suite 3",
+      "parity suite 3",
+      "parity suite 3",
+      "old conformance percentage",
+      "new vector search",
+      "wrong thing",
+      "wrong thing",
+      "054 tests",
+      "first coverage"
+    ],
+    "summary": "# Parity Suite 3.0.0: measuring the wrong thing > Source: devto | Category: news | 2026-08-13T23:54:18Z Parity Suite 3.0.0 splits the old conformance percentage into divergence and coverage, grades every DynamoDB emulator from A to F, and takes the suite to 1,054 tests with the first coverage of DynamoDB's new vector search."
+  },
+  "372b81a68c399878": {
+    "file": "corpus/devto/dev_to_kenwalger_durable-memory-why-vector-databases-arent-e_5692ede57b.md",
+    "source": "devto",
+    "title": "Durable Memory: Why Vector Databases Aren't Enough",
+    "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
+    "keywords": [
+      "ai memory stack series",
+      "finishing part 2",
+      "15z part 3",
+      "durable memory",
+      "durable memory",
+      "vector databases",
+      "vector databases",
+      "noticed something",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Durable Memory: Why Vector Databases Aren't Enough > Source: devto | Category: news | 2026-08-13T23:54:15Z Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something."
+  },
+  "2772170d41ec5b22": {
+    "file": "corpus/hackernews/declaude_org_watermarking_782d58f4df.md",
+    "source": "hackernews",
+    "title": "How AI text watermarking works",
+    "url": "https://declaude.org/watermarking/",
+    "keywords": [
+      "ai text watermarking works",
+      "ai text watermarking works",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How AI text watermarking works > Source: hackernews | Category: news | 2026-08-13T23:54:10Z Score: 4 | Comments: 0"
+  },
+  "201b55759dd8fb74": {
+    "file": "corpus/sales/www_saastr_com_canva-cuts-2026-growth-by-a-third-jeff-dean-w_545d568c7e.md",
+    "source": "sales",
+    "title": "[saastr] Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr",
+    "url": "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/",
+    "keywords": [
+      "canva cuts 2026 growth",
+      "canva cuts 2026 growth",
+      "2026 growth forecast",
+      "jeff dean walks",
+      "jeff dean walks",
+      "jeff dean walks",
+      "argument stopped working",
+      "20vc x saastr",
+      "20vc x saastr",
+      "20vc x saastr"
+    ],
+    "summary": "# [saastr] Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr This week on 20VC x SaaStr with Harry Stebbings, Jason Lemkin and Rory O&#8217;Driscoll, we started somewhere other than OpenAI and Anthropic for once: Canva cutting its 2026 growth forecast by a third as AI serving...   Continue Reading"
   }
 }
