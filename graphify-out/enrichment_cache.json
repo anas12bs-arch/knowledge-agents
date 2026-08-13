@@ -408726,5 +408726,403 @@
       "category"
     ],
     "summary": "# Ordinary Abundance > Source: hackernews | Category: news | 2026-08-13T16:30:17Z Score: 21 | Comments: 1"
+  },
+  "903313bb93519e3f": {
+    "file": "corpus/devto/dev_to_akki907_12-agentic-harness-patterns-2jkj_cba6eeda86.md",
+    "source": "devto",
+    "title": "12 Agentic Harness Patterns",
+    "url": "https://dev.to/akki907/12-agentic-harness-patterns-2jkj",
+    "keywords": [
+      "12 agentic harness patterns",
+      "12 agentic harness patterns",
+      "keeping one alive",
+      "six months",
+      "ai agent",
+      "19z building",
+      "wire",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "Building an AI agent is easy. Keeping one alive for six months is not. You can wire up an..."
+  },
+  "b6bed04c2f7b99e9": {
+    "file": "corpus/devto/dev_to_predictandprofit_the-fix-was-not-a-cleverer-model-3oi_25951f7983.md",
+    "source": "devto",
+    "title": "The Fix Was Not a Cleverer Model",
+    "url": "https://dev.to/predictandprofit/the-fix-was-not-a-cleverer-model-3oik",
+    "keywords": [
+      "spent four months tuning",
+      "custom weather ensemble",
+      "cleverer model",
+      "cleverer model",
+      "worse",
+      "source",
+      "reactions",
+      "news",
+      "guessing",
+      "fix"
+    ],
+    "summary": "# The Fix Was Not a Cleverer Model I spent four months tuning a custom weather ensemble. It was worse than guessing."
+  },
+  "10d4344678c5d550": {
+    "file": "corpus/devto/dev_to_albertoclemente_every-ai-coding-agent-tracker-is-a-se_35b872ccf8.md",
+    "source": "devto",
+    "title": "Every AI coding agent tracker is a self-report system",
+    "url": "https://dev.to/albertoclemente/every-ai-coding-agent-tracker-is-a-self-report-system-53nm",
+    "keywords": [
+      "found three things true",
+      "report system",
+      "report system",
+      "claude code",
+      "27 july",
+      "source",
+      "self",
+      "self",
+      "reactions",
+      "project"
+    ],
+    "summary": "# Every AI coding agent tracker is a self-report system > Source: devto | Category: news | 2026-08-13T17:29:22Z On 27 July I opened a project I'd been building with Claude Code and found three things true at..."
+  },
+  "9302aabf866b0b3c": {
+    "file": "corpus/devto/dev_to_hyuga611_i-attacked-my-own-npm-package-before-launchi_8d91cc21e8.md",
+    "source": "devto",
+    "title": "I attacked my own npm package before launching it. It let the proposer approve their own writes",
+    "url": "https://dev.to/hyuga611/i-attacked-my-own-npm-package-before-launching-it-it-let-the-proposer-approve-their-own-writes-4mki",
+    "keywords": [
+      "audit trail anyway",
+      "proposer —",
+      "proposer approve",
+      "proposer approve",
+      "npm package",
+      "npm package",
+      "never checked",
+      "library exists",
+      "human approves",
+      "wrote"
+    ],
+    "summary": "# I attacked my own npm package before launching it. It let the proposer approve their own writes My library exists so a human approves an LLM's UPDATE before it runs."
+  },
+  "90f4650abce5b242": {
+    "file": "corpus/devto/dev_to_pytorchfromgroundup_pytorch-autograd-explained-what-b_e7531e3001.md",
+    "source": "devto",
+    "title": "PyTorch Autograd Explained: What .backward() Actually Does",
+    "url": "https://dev.to/pytorchfromgroundup/pytorch-autograd-explained-what-backward-actually-does-4acg",
+    "keywords": [
+      "pytorch autograd explained",
+      "pytorch autograd explained",
+      "autograd tutorials show",
+      "backward () actually",
+      "backward () actually",
+      "backward (),",
+      "source",
+      "requires_grad",
+      "reactions",
+      "news"
+    ],
+    "summary": "# PyTorch Autograd Explained: What .backward() Actually Does > Source: devto | Category: news | 2026-08-13T17:29:20Z most autograd tutorials show you requires_grad, then .backward(), then .grad, and then they hand you..."
+  },
+  "1808dd4b9e0ffc87": {
+    "file": "corpus/ai-research/huggingface_co_blog_icml-2026-open-reproductions_57f8b7f378.md",
+    "source": "ai-research",
+    "title": "[hf-blog] What We Learned by Reproducing 2,200 papers from ICML",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "keywords": [
+      "reproducing 2",
+      "reproducing 2",
+      "reproducing 2",
+      "200 papers",
+      "200 papers",
+      "200 papers",
+      "source",
+      "research",
+      "research",
+      "learned"
+    ],
+    "summary": "# [hf-blog] What We Learned by Reproducing 2,200 papers from ICML > Source: ai-research | Category: research | 2026-08-13T17:29:12Z What We Learned by Reproducing 2,200 papers from ICML"
+  },
+  "db7f643f3dffbee0": {
+    "file": "corpus/ai-research/openai_com_index_previewing-ultrafast_c0986f6628.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "keywords": [
+      "12z previewing ultrafast mode",
+      "previewing ultrafast mode",
+      "previewing ultrafast mode",
+      "14 × faster",
+      "speed preview ultrafast",
+      "6 sol",
+      "6 sol",
+      "6 sol",
+      "6 sol",
+      "runs gpt"
+    ],
+    "summary": "# [openai-blog] Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+  },
+  "1c9d22f1b55beb92": {
+    "file": "corpus/ai-research/huggingface_co_blog_amazon_strands-lerobot-streaming-data-lo_353217afc4.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "keywords": [
+      "hugging face storage buckets",
+      "hugging face storage buckets",
+      "hugging face storage buckets",
+      "strands agents",
+      "strands agents",
+      "strands agents",
+      "one place",
+      "one place",
+      "one place",
+      "12z record"
+    ],
+    "summary": "# [hf-blog] Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets > Source: ai-research | Category: research | 2026-08-13T17:29:12Z Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets"
+  },
+  "dab561a76b56a15a": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_critical-vmware-vcent_a4f4d669c4.md",
+    "source": "security",
+    "title": "[bleeping-comp] Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "keywords": [
+      "vmware vcenter syslog server",
+      "recently patched critical vulnerability",
+      "reverse ssh tool",
+      "reverse ssh access",
+      "reverse ssh access",
+      "reverse ssh access",
+      "remote access",
+      "active campaign",
+      "source",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Critical VMware vCenter RCE flaw exploited for reverse SSH access Critical VMware vCenter RCE flaw exploited for reverse SSH access A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access."
+  },
+  "c23b56639d6baddc": {
+    "file": "corpus/hackernews/www_techcentral_ie_mozilla-says-stricter-antitrust-measures-_c9cf7b7f35.md",
+    "source": "hackernews",
+    "title": "Mozilla says stricter antitrust measures against Google 'threaten Firefox",
+    "url": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
+    "keywords": [
+      "threaten firefox",
+      "threaten firefox",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "google",
+      "google",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mozilla says stricter antitrust measures against Google 'threaten Firefox' > Source: hackernews | Category: news | 2026-08-13T17:29:14Z Score: 6 | Comments: 9"
+  },
+  "ea6c1deae310f3f4": {
+    "file": "corpus/hackernews/ai_google_dev_gemini-api_docs_models_gemini-3_7-flash_7ff10c9817.md",
+    "source": "hackernews",
+    "title": "Gemini 3.7 Flash",
+    "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+    "keywords": [
+      "gemini 3",
+      "gemini 3",
+      "7 flash",
+      "7 flash",
+      "11z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Gemini 3.7 Flash > Source: hackernews | Category: news | 2026-08-13T17:29:11Z Score: 20 | Comments: 6"
+  },
+  "55566e7083617812": {
+    "file": "corpus/hackernews/rubyonrails_org_ai_0c6dd188cb.md",
+    "source": "hackernews",
+    "title": "Rails Is Built for AI",
+    "url": "https://rubyonrails.org/ai",
+    "keywords": [
+      "17z score",
+      "source",
+      "rails",
+      "rails",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "built",
+      "built"
+    ],
+    "summary": "# Rails Is Built for AI > Source: hackernews | Category: news | 2026-08-13T17:29:17Z Score: 7 | Comments: 1"
+  },
+  "cdcd7175d3558b11": {
+    "file": "corpus/hackernews/jdagostino_github_io_ai-pt1-box-o-scraps_index_html_b751336a14.md",
+    "source": "hackernews",
+    "title": "We Have AI at Home Chapter 1: A Box of Scraps",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "keywords": [
+      "home chapter 1",
+      "home chapter 1",
+      "14z score",
+      "source",
+      "scraps",
+      "scraps",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# We Have AI at Home Chapter 1: A Box of Scraps > Source: hackernews | Category: news | 2026-08-13T17:29:14Z Score: 4 | Comments: 0"
+  },
+  "9f67ef461e22d22c": {
+    "file": "corpus/hackernews/blog_google_innovation-and-ai_models-and-research_gemini-mod_69cbe3169a.md",
+    "source": "hackernews",
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "keywords": [
+      "7 flash",
+      "7 flash",
+      "15z score",
+      "gemini 3",
+      "gemini 3",
+      "source",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# Gemini 3.7 Flash > Source: hackernews | Category: news | 2026-08-13T17:29:15Z Score: 29 | Comments: 3"
+  },
+  "e09627deb4caf801": {
+    "file": "corpus/hackernews/deepseek_com_harness_en_cf91a2161f.md",
+    "source": "hackernews",
+    "title": "DeepSeek Harness developer preview",
+    "url": "https://deepseek.com/harness/en/",
+    "keywords": [
+      "deepseek harness developer preview",
+      "deepseek harness developer preview",
+      "io &# x2f",
+      "io &# x2f",
+      "en &# x2f",
+      "en &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "ai &# x2f",
+      "ai &# x2f"
+    ],
+    "summary": "# DeepSeek Harness developer preview > Source: hackernews | Category: news | 2026-08-13T17:29:12Z <a href=\"https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harness\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harness</a><p><a href=\"https:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide&#x2F;quickstart\" rel=\"nofollow\">https:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide...</a>"
+  },
+  "c0b2017b82200098": {
+    "file": "corpus/hackernews/habitpocket_io_2a3ec7a940.md",
+    "source": "hackernews",
+    "title": "Show HN: Track habits, metrics, time and whateven you think worth tracking",
+    "url": "https://habitpocket.io/",
+    "keywords": [
+      "think worth tracking",
+      "think worth tracking",
+      "track habits",
+      "track habits",
+      "show hn",
+      "show hn",
+      "17z score",
+      "whateven",
+      "whateven",
+      "time"
+    ],
+    "summary": "# Show HN: Track habits, metrics, time and whateven you think worth tracking > Source: hackernews | Category: news | 2026-08-13T17:29:17Z Score: 4 | Comments: 3"
+  },
+  "1650623b1692129b": {
+    "file": "corpus/hackernews/github_com_vishal-dehurdle_hypersae_52cea7137c.md",
+    "source": "hackernews",
+    "title": "Show HN: At 16K features, flat autoencoders break. Curved space doesn't",
+    "url": "https://github.com/vishal-dehurdle/hypersae",
+    "keywords": [
+      "flat autoencoders break",
+      "flat autoencoders break",
+      "show hn",
+      "show hn",
+      "curved space",
+      "curved space",
+      "16z score",
+      "16k features",
+      "16k features",
+      "source"
+    ],
+    "summary": "# Show HN: At 16K features, flat autoencoders break. Curved space doesn't > Source: hackernews | Category: news | 2026-08-13T17:29:16Z"
+  },
+  "4b537944525621d7": {
+    "file": "corpus/hackernews/www_telegraph_co_uk_world-news_2026_08_13_us-navy-sailors-ju_66adc61a9e.md",
+    "source": "hackernews",
+    "title": "US Navy sailors try to throw themselves overboard after 250 days at sea",
+    "url": "https://www.telegraph.co.uk/world-news/2026/08/13/us-navy-sailors-jump-overboard-after-nine-months-at-sea/",
+    "keywords": [
+      "us navy sailors try",
+      "us navy sailors try",
+      "250 days",
+      "250 days",
+      "17z score",
+      "throw",
+      "throw",
+      "source",
+      "sea",
+      "sea"
+    ],
+    "summary": "# US Navy sailors try to throw themselves overboard after 250 days at sea > Source: hackernews | Category: news | 2026-08-13T17:29:17Z Score: 15 | Comments: 6"
+  },
+  "0b08bf9d5163309b": {
+    "file": "corpus/hackernews/goaccess_io_55acee2735.md",
+    "source": "hackernews",
+    "title": "GoAccess – open-source real-time log analyzer and interactive viewer",
+    "url": "https://goaccess.io/",
+    "keywords": [
+      "time log analyzer",
+      "time log analyzer",
+      "goaccess – open",
+      "goaccess – open",
+      "interactive viewer",
+      "interactive viewer",
+      "16z score",
+      "source real",
+      "source real",
+      "source"
+    ],
+    "summary": "# GoAccess – open-source real-time log analyzer and interactive viewer > Source: hackernews | Category: news | 2026-08-13T17:29:16Z Score: 4 | Comments: 0"
+  },
+  "1a2d9db245ad8a08": {
+    "file": "corpus/hackernews/sourcelibrary_org_6892f5ed00.md",
+    "source": "hackernews",
+    "title": "Translating the Renaissance: 17,000+ historical source texts",
+    "url": "https://sourcelibrary.org",
+    "keywords": [
+      "historical source texts",
+      "historical source texts",
+      "15z score",
+      "source",
+      "translating",
+      "translating",
+      "renaissance",
+      "renaissance",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Translating the Renaissance: 17,000+ historical source texts > Source: hackernews | Category: news | 2026-08-13T17:29:15Z Score: 8 | Comments: 0"
+  },
+  "d90be51ad95f6fe6": {
+    "file": "corpus/hackernews/ojcp_dev_4e59be94d2.md",
+    "source": "hackernews",
+    "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
+    "url": "https://ojcp.dev/",
+    "keywords": [
+      "models keep getting better",
+      "get bot blocked ).",
+      "candidates hear nothing back",
+      "interaction occurs .< p",
+      "&# x2f ;. well",
+      "capable impersonator .< p",
+      "agents sign requests using",
+      "employers get buried",
+      "sides .< p",
+      "scrape career pages"
+    ],
+    "summary": "# Show HN: OJCP – an open protocol for agent-consumable job data Employers get buried in applications that don&#x27;t fit, candidates hear nothing back, and the resume is now an AI-written thing that another AI scores (which breaks the existing model entirely, btw).<p>OJCP is MCP tools for search and apply, a manifest at &#x2F;.well-known&#x2F;ojcp.json so agents can find providers, and schemas that extend schema.org instead of replacing it. Agents sign requests using the same method that CloudF"
   }
 }
