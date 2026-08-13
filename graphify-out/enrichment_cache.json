@@ -410155,5 +410155,100 @@
       "model parameter"
     ],
     "summary": "## What's Changed - Models that don't set a `repeat_penalty` now default to 1.0 (off) instead of 1.1, matching other engines and speeding up speculative decoding; set a per-model parameter if an older model repeats itself. - Fixed blob verification being skipped when an OCI manifest's config and layer share a digest. ## New Contributors * @vigneshakaviki made their first contribution in https://github.com/ollama/ollama/pull/15504"
+  },
+  "4cced66a256b3957": {
+    "file": "corpus/devto/dev_to_ben_its-always-doom-httpsooddevpostsdoom-4fpi_b249e93098.md",
+    "source": "devto",
+    "title": "It's always Doom https://ood.dev/posts/doom/",
+    "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi",
+    "keywords": [
+      "56z ...",
+      "source",
+      "reactions",
+      "posts",
+      "posts",
+      "news",
+      "doom",
+      "doom",
+      "devto",
+      "dev"
+    ],
+    "summary": "# It's always Doom https://ood.dev/posts/doom/ > Source: devto | Category: news | 2026-08-13T20:06:56Z Reactions: 3"
+  },
+  "4f41153e244beae4": {
+    "file": "corpus/hackernews/www_404media_co_person-hides-prompt-injection-in-legal-filin_04541d55b2.md",
+    "source": "hackernews",
+    "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+    "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+    "keywords": [
+      "person hides prompt injection",
+      "person hides prompt injection",
+      "legal filing telling ai",
+      "legal filing telling ai",
+      "54z score",
+      "source",
+      "side",
+      "side",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them > Source: hackernews | Category: news | 2026-08-13T20:06:54Z Score: 15 | Comments: 1"
+  },
+  "cda1f6133b46acbc": {
+    "file": "corpus/hackernews/nicole_express_2026_more-like-idle-mahjong_html_c658b91d94.md",
+    "source": "hackernews",
+    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+    "keywords": [
+      "idol mahjong final romance",
+      "idol mahjong final romance",
+      "video game",
+      "video game",
+      "slideshow disguised",
+      "slideshow disguised",
+      "51z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game > Source: hackernews | Category: news | 2026-08-13T20:06:51Z Score: 5 | Comments: 0"
+  },
+  "498959c7ad64150d": {
+    "file": "corpus/hackernews/cdn_openai_com_pdf_how-organizations-use-chatgpt_pdf_51164b112e.md",
+    "source": "hackernews",
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "keywords": [
+      "organizations use ai",
+      "organizations use ai",
+      "50z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews",
+      "evidence",
+      "evidence"
+    ],
+    "summary": "# How Organizations Use AI: Evidence from ChatGPT [pdf] > Source: hackernews | Category: news | 2026-08-13T20:06:50Z Score: 8 | Comments: 0"
+  },
+  "5d2fdae8ad26a7bd": {
+    "file": "corpus/hackernews/support_google_com_photos_thread_256212140_how-do-i-permanen_1a79cce9c0.md",
+    "source": "hackernews",
+    "title": "How do I permanently disable Google Photos pop-up prompt to backup my photos?",
+    "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
+    "keywords": [
+      "55z score",
+      "source",
+      "prompt",
+      "prompt",
+      "photos",
+      "photos",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How do I permanently disable Google Photos pop-up prompt to backup my photos? > Source: hackernews | Category: news | 2026-08-13T20:06:55Z Score: 8 | Comments: 1"
   }
 }
