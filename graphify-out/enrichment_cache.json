@@ -405046,5 +405046,227 @@
       "js — v16"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-08-12T23:56:43Z - test: fix 'ouput' typo in parseIdsFromCliOutput: #97266 - Add the mtime fallback back: #97268 - Allow issue participants to request reopening: #96947 - [turbopack] Document clusters for chunking: #97267 - Link to issues in the contribution guide and discourage trivial PRs: #97188 - Stop serializing hmr version state: #97146 - [turbopack] Add `clusters` to chunking heuristics: #95157 - [test] Redirect the deployment host in-"
+  },
+  "313c46a3f2a7f427": {
+    "file": "corpus/devto/dev_to_jamesmh_stop-pretending-to-do-domain-driven-design-2o_0187dc1061.md",
+    "source": "devto",
+    "title": "Stop Pretending To Do Domain-Driven Design",
+    "url": "https://dev.to/jamesmh/stop-pretending-to-do-domain-driven-design-2od4",
+    "keywords": [
+      "stop pretending",
+      "stop pretending",
+      "many entities",
+      "driven design",
+      "driven design",
+      "driven design",
+      "source",
+      "services"
+    ],
+    "summary": "# Stop Pretending To Do Domain-Driven Design It doesn’t matter how many entities, aggregates, factories, services, and repositories you have. That’s not domain-driven design."
+  },
+  "991d66b6195213e7": {
+    "file": "corpus/devto/dev_to_gronskideveloper_how-i-document-my-ai-first-workflow-_f5a21362f0.md",
+    "source": "devto",
+    "title": "How I document my AI-first workflow in every public repo",
+    "url": "https://dev.to/gronskideveloper/how-i-document-my-ai-first-workflow-in-every-public-repo-4l0h",
+    "keywords": [
+      "five working repos",
+      "every public repo",
+      "every public repo",
+      "first workflow",
+      "first workflow",
+      "concrete workflow",
+      "source",
+      "reference",
+      "reactions",
+      "news"
+    ],
+    "summary": "# How I document my AI-first workflow in every public repo > Source: devto | Category: news | 2026-08-13T00:48:33Z What CLAUDE.md, .claude/commands/ and a proper case study actually look like — with five working repos as reference."
+  },
+  "b13bd5248a7fae9a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49280288_ee748ad719.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49280288",
+    "keywords": [
+      "physicians use .< p",
+      ".< p >$ 100k",
+      "spent turning product ideas",
+      "win .< p",
+      "fractional senior support",
+      "ship quality software",
+      "interesting data challenges",
+      "dedicated data engineer",
+      "august 2026 ))",
+      "august 2026 ))"
+    ],
+    "summary": "Tessellate | Full Stack Engineer | Hybrid | Nashville, TN | Full-time<p>Tessellate is pre-seed and early — this is a real chance to help build a startup from the ground floor, led by second-time founders. We have fractional senior support for our infrastructure and a dedicated data engineer for the claims layer, so you can lean on real depth where you need it and stay focused on moving the product forward. What we need from you is momentum on the product itself.<p>$100K - $130K apply at careers@"
+  },
+  "c18ca0e69f954d2c": {
+    "file": "corpus/hackernews/flutter_dev_blog_whats-new-in-flutter-3-47_c96869506a.md",
+    "source": "hackernews",
+    "title": "What's New in Flutter 3.47",
+    "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "keywords": [
+      "flutter 3",
+      "flutter 3",
+      "22z score",
+      "source",
+      "news",
+      "new",
+      "new",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What's New in Flutter 3.47 > Source: hackernews | Category: news | 2026-08-13T00:48:22Z Score: 16 | Comments: 10"
+  },
+  "fd4b300ff4e2e952": {
+    "file": "corpus/hackernews/www_whitehouse_gov_presidential-actions_2026_08_expanding-ca_54ec961e3b.md",
+    "source": "hackernews",
+    "title": "White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/",
+    "keywords": [
+      "hack foreign cybercrime groups",
+      "hack foreign cybercrime groups",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "companies",
+      "companies",
+      "comments",
+      "category"
+    ],
+    "summary": "# White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups > Source: hackernews | Category: news | 2026-08-13T00:48:28Z Score: 13 | Comments: 3"
+  },
+  "cdb4159c5c82c7a2": {
+    "file": "corpus/hackernews/www_orangecrumbs_com_stories_show-hn_43297d9ca8.md",
+    "source": "hackernews",
+    "title": "Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat",
+    "url": "https://www.orangecrumbs.com/stories/show-hn",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat > Source: hackernews | Category: news | 2026-08-13T00:48:28Z Score: 4 | Comments: 1"
+  },
+  "8479ca93ef48890e": {
+    "file": "corpus/hackernews/yogthos_net_posts_2026-08-07-portable-jolt_html_dd807085a3.md",
+    "source": "hackernews",
+    "title": "Program images and portable Scheme back ends for Jolt",
+    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "keywords": [
+      "portable scheme back ends",
+      "portable scheme back ends",
+      "program images",
+      "program images",
+      "24z score",
+      "source",
+      "news",
+      "jolt",
+      "jolt",
+      "hackernews"
+    ],
+    "summary": "# Program images and portable Scheme back ends for Jolt > Source: hackernews | Category: news | 2026-08-13T00:48:24Z Score: 4 | Comments: 0"
+  },
+  "4c951ad7545c8766": {
+    "file": "corpus/hackernews/okmij_org_ftp_Computation_Impressions_PrincipiaMathematica_h_790ec71a34.md",
+    "source": "hackernews",
+    "title": "Principia Mathematica is modern and insightful",
+    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "keywords": [
+      "principia mathematica",
+      "principia mathematica",
+      "22z score",
+      "source",
+      "news",
+      "modern",
+      "modern",
+      "insightful",
+      "insightful",
+      "hackernews"
+    ],
+    "summary": "# Principia Mathematica is modern and insightful > Source: hackernews | Category: news | 2026-08-13T00:48:22Z Score: 18 | Comments: 2"
+  },
+  "0da30160c2a3be25": {
+    "file": "corpus/hackernews/gwern_net_doc_psychology_spaced-repetition_1973-standing_pdf_24caf2d6a1.md",
+    "source": "hackernews",
+    "title": "Learning 10000 pictures (1973) [pdf]",
+    "url": "https://gwern.net/doc/psychology/spaced-repetition/1973-standing.pdf",
+    "keywords": [
+      "learning 10000 pictures",
+      "learning 10000 pictures",
+      "27z score",
+      "source",
+      "pdf",
+      "pdf",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Learning 10000 pictures (1973) [pdf] > Source: hackernews | Category: news | 2026-08-13T00:48:27Z Score: 4 | Comments: 0"
+  },
+  "2a0ce1ec2aca5df4": {
+    "file": "corpus/hackernews/adapt_com_blog_build-wide-ship-narrow_8d766acef7.md",
+    "source": "hackernews",
+    "title": "Build Wide, Ship Narrow",
+    "url": "https://adapt.com/blog/build-wide-ship-narrow",
+    "keywords": [
+      "ship narrow",
+      "ship narrow",
+      "build wide",
+      "build wide",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Build Wide, Ship Narrow > Source: hackernews | Category: news | 2026-08-13T00:48:23Z Score: 10 | Comments: 0"
+  },
+  "ff7c90bde49f0eda": {
+    "file": "corpus/hackernews/sharktastica_co_uk_articles_pc-fxt-45_82aded1a35.md",
+    "source": "hackernews",
+    "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+    "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+    "keywords": [
+      "happy 45th birthday",
+      "happy 45th birthday",
+      "model f",
+      "model f",
+      "ibm pc",
+      "ibm pc",
+      "22z score",
+      "source"
+    ],
+    "summary": "# Happy 45th Birthday to the IBM PC and Model F/XT > Source: hackernews | Category: news | 2026-08-13T00:48:22Z Score: 13 | Comments: 1"
+  },
+  "3851855f2c96a0a8": {
+    "file": "corpus/hackernews/www_ballet_dev_67080855fd.md",
+    "source": "hackernews",
+    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+    "url": "https://www.ballet.dev/",
+    "keywords": [
+      "ballet – workflow automation",
+      "ballet – workflow automation",
+      "writes integrations",
+      "writes integrations",
+      "show hn",
+      "show hn",
+      "22z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: Ballet – Workflow automation that writes integrations against any API > Source: hackernews | Category: news | 2026-08-13T00:48:22Z Score: 11 | Comments: 1"
   }
 }
