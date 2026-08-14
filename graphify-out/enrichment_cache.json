@@ -417308,5 +417308,81 @@
       "14t23"
     ],
     "summary": "# Game Developers Conference – Royalty Free Sound Effects > Source: hackernews | Category: news | 2026-08-14T23:33:58Z Score: 5 | Comments: 0"
+  },
+  "9df6c26b22eebf37": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v3_1_0_6588315eca.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v3.1.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v3.1.0",
+    "keywords": [
+      "f38355ecdf69b231be218e572f591ce7f389a211 )) ### chores",
+      "remove stainless attribution",
+      "0 ... v3",
+      "49z ## openai",
+      "python — v3",
+      "### features",
+      "df274d44f5207febff3231f3a707f1d2265917b5 ))",
+      "d9029e3ada3c008b4631d78a425743445730892a ))",
+      "a1eeab58db02de46717ccebaf1eb83e314fa86ff ))",
+      "721cb1cd1cacb71237db4403d80a01403af61248 ))"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T23:52:49Z * **api:** add WebSocket stream IDs ([#3612](https://github.com/openai/openai-python/issues/3612)) ([d9029e3](https://github.com/openai/openai-python/commit/d9029e3ada3c008b4631d78a425743445730892a)) * **api:** add workload identity access token issued event ([#3601](https://github.com/openai/openai-python/issues/3601)) ([df274d4](https://github.com/openai/openai-python/commit/df274d44f5207febff3231f3a707f1d2265917b5)) * **ap"
+  },
+  "8805f94bb524f6ac": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_19_a705cc97ee.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.19 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.19",
+    "keywords": [
+      "19 ### misc changes",
+      "remove stale manifests",
+      "make unreachable codegen",
+      "js — v16",
+      "42z ## vercel",
+      "js v16",
+      "js v16",
+      "19 released",
+      "19 released",
+      "metadata rendering"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T23:52:42Z - Adopt SelectedMetadata for metadata rendering: #97387 - fix(next/image): reject empty image on read/write to disk cache : #97278 - Turbopack: remove stale manifests for deleted routes: #97333 - Turbopack: make unreachable codegen more generic: #97385 Huge thanks to @gnoff, @styfle, @marcoshernanz, and @mischnic for helping!"
+  },
+  "fdd7619f45d864ee": {
+    "file": "corpus/hackernews/www_economist_com_by-invitation_2026_08_13_the-case-for-over_7ed986f458.md",
+    "source": "hackernews",
+    "title": "The case for overhauling American science",
+    "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+    "keywords": [
+      "overhauling american science",
+      "overhauling american science",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "case",
+      "case"
+    ],
+    "summary": "# The case for overhauling American science > Source: hackernews | Category: news | 2026-08-14T23:51:52Z Score: 4 | Comments: 0"
+  },
+  "bc50c6536edbfe65": {
+    "file": "corpus/hackernews/getsmall_xyz_post_cmstjfl9l000if70ljmpzr4va_7946e62490.md",
+    "source": "hackernews",
+    "title": "Stop sending me huge PRs; a rant",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "keywords": [
+      "stop sending",
+      "stop sending",
+      "huge prs",
+      "huge prs",
+      "53z score",
+      "source",
+      "rant",
+      "rant",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Stop sending me huge PRs; a rant > Source: hackernews | Category: news | 2026-08-14T23:51:53Z Score: 6 | Comments: 1"
   }
 }
