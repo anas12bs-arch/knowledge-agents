@@ -1,0 +1,38 @@
+---
+title: "vercel/next.js v16.3.1-canary.17 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.17"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-08-14T17:10:06Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.3.1-canary.17"
+---
+
+# vercel/next.js v16.3.1-canary.17 released
+
+> Source: github-releases | Category: changelog | 2026-08-14T17:10:06Z
+
+## vercel/next.js — v16.3.1-canary.17
+
+### Misc Changes
+
+- Turbopack: add imports_wildcard NFT unit test: #97373
+- Turbopack: improve chunk_item_content docs: #97370
+- Turbopack: don't trace embedded WASM loader helpers: #97353
+- test: Reenable i18n-api-support deploy test for Turbopack with adapters: #96898
+- Trace instrumentation startup: #97296
+- Trace route module preparation: #97295
+- Trace route module loading: #97318
+- fix(deps): bump `satori` and `@vercel/og`: #97276
+- Scope app-entry export validation to files inside the app directory: #97350
+- Emit whole-app server NFTs when `output: 'standalone'` is used with an adapter: #97287
+- [test] Cover `'use cache: private'` in route handlers: #97349
+- Fix missing Pages runtime in adapter Pages API outputs: #96819
+- docs: align SPA guide reducer example with React conventions: #97341
+- Update blob version.: #97342
+
+### Credits 
+
+Huge thanks to @mischnic, @DavidIlie, @styfle, @unstubbable, @bryan-ferry, @timneutkens, @aurorascharff, and @gdborton for helping!

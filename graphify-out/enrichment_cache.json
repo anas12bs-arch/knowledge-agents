@@ -415341,5 +415341,496 @@
       "category"
     ],
     "summary": "# Cursor Is Joining SpaceX > Source: hackernews | Category: news | 2026-08-14T16:10:37Z Score: 13 | Comments: 2"
+  },
+  "650d3e752e339177": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_17_70b5be314d.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.17 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.17",
+    "keywords": [
+      "cover `' use cache",
+      "trace route module preparation",
+      "trace route module loading",
+      "17 ### misc changes",
+      "fix missing pages runtime",
+      "adapter pages api outputs",
+      "trace instrumentation startup",
+      "update blob version",
+      "entry export validation",
+      "deps ): bump"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T17:10:06Z - Turbopack: add imports_wildcard NFT unit test: #97373 - Turbopack: improve chunk_item_content docs: #97370 - Turbopack: don't trace embedded WASM loader helpers: #97353 - test: Reenable i18n-api-support deploy test for Turbopack with adapters: #96898 - Trace instrumentation startup: #97296 - Trace route module preparation: #97295 - Trace route module loading: #97318 - fix(deps): bump `satori` and `@vercel/og`: #97276 - Scop"
+  },
+  "42836dda349a1eb5": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_12_15d55fc07a.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.12 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
+    "keywords": [
+      "img width =\" 600",
+      "/> ## qwen 3",
+      "output quality suitable",
+      "apple silicon devices",
+      "alt =\" ollama",
+      "15z ## ollama",
+      "horizon agentic tasks",
+      "https :// ollama",
+      "8 model page",
+      "27b model support"
+    ],
+    "summary": "<img width=\"600\" alt=\"ollama and qwen capybara\" src=\"https://github.com/user-attachments/assets/5fa5e93b-d48b-4a6a-b72a-25379ab9429c\" /> This release adds the support of Qwen 3.8 27B. Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks."
+  },
+  "8dc3d70d40a25a04": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_14_fifth-circuit-cites-a-ruling-cal_ad2ee562b9.md",
+    "source": "legal",
+    "title": "[techdirt] Fifth Circuit Cites A Ruling Calling Mail-In Ballots “Vital” To Falsely Claim They “Jeopardize Democracy Itself”",
+    "url": "https://www.techdirt.com/2026/08/14/fifth-circuit-cites-a-ruling-calling-mail-in-ballots-vital-to-falsely-claim-they-jeopardize-democracy-itself/",
+    "keywords": [
+      "suppress [&# 8230 ;]",
+      "recent fifth circuit decision",
+      "59z fifth circuit cites",
+      "ballots “ vital ”",
+      "ballots “ vital ”",
+      "ballots “ vital ”",
+      "fifth circuit cites",
+      "fifth circuit cites",
+      "“ jeopardize democracy",
+      "“ jeopardize democracy"
+    ],
+    "summary": "# [techdirt] Fifth Circuit Cites A Ruling Calling Mail-In Ballots “Vital” To Falsely Claim They “Jeopardize Democracy Itself” You may have seen news of the recent Fifth Circuit decision, with an opinion written by Judge Andrew Oldham, overturning a lower court ruling, and reinstating highly questionable ID requirements for mail-in ballots. We can debate how this decision blends two great MAGA obsessions, mail-in ballots and voter ID (both overhyped panics designed to suppress [&#8230;]"
+  },
+  "92a1b19ae2759ca1": {
+    "file": "corpus/devto/dev_to_anand_rathnas_d5b608cc3de_backups-that-you-dont-resto_ea4519a727.md",
+    "source": "devto",
+    "title": "Backups That You Don't Restore Aren't Backups: A Weekly Restore Drill",
+    "url": "https://dev.to/anand_rathnas_d5b608cc3de/backups-that-you-dont-restore-arent-backups-a-weekly-restore-drill-4eld",
+    "keywords": [
+      "separate workflow restores",
+      "weekly restore drill",
+      "weekly restore drill",
+      "postgres nightly",
+      "latest dump",
+      "every sunday",
+      "digitalocean spaces",
+      "restore",
+      "restore",
+      "source"
+    ],
+    "summary": "# Backups That You Don't Restore Aren't Backups: A Weekly Restore Drill We back up Postgres nightly to DigitalOcean Spaces. Every Sunday a separate workflow restores the latest dump into a sandbox."
+  },
+  "98a1b9cf5109f318": {
+    "file": "corpus/devto/dev_to_yureki_lab_how-i-got-my-ai-coding-agent-to-write-chan_e4046a29a7.md",
+    "source": "devto",
+    "title": "How I Got My AI Coding Agent to Write Changelogs Humans Actually Read",
+    "url": "https://dev.to/yureki_lab/how-i-got-my-ai-coding-agent-to-write-changelogs-humans-actually-read-104",
+    "keywords": [
+      "ai coding agent auto",
+      "ai coding agent",
+      "ai coding agent",
+      "generate changelog entries",
+      "every merged pr",
+      "09z tl",
+      "source",
+      "reactions",
+      "news",
+      "let"
+    ],
+    "summary": "# How I Got My AI Coding Agent to Write Changelogs Humans Actually Read > Source: devto | Category: news | 2026-08-14T17:09:09Z TL;DR   I let my AI coding agent auto-generate changelog entries for every merged PR, and..."
+  },
+  "9acb116131a04bed": {
+    "file": "corpus/devto/dev_to_rupadana_belajar-kubernetes-untuk-pengguna-docker-5ea_2b31f375db.md",
+    "source": "devto",
+    "title": "Belajar Kubernetes untuk Pengguna Docker",
+    "url": "https://dev.to/rupadana/belajar-kubernetes-untuk-pengguna-docker-5ea7",
+    "keywords": [
+      "dan paham konsep ...",
+      "08z target pembaca",
+      "docker build",
+      "docker",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "compose",
+      "category"
+    ],
+    "summary": "# Belajar Kubernetes untuk Pengguna Docker > Source: devto | Category: news | 2026-08-14T17:09:08Z Target pembaca: kamu sudah terbiasa dengan docker run, docker build, docker-compose, dan paham konsep..."
+  },
+  "82ded11acbb0f8d7": {
+    "file": "corpus/devto/dev_to_ferztyle_build-an-mcp-server-in-go-part-1-designing-a_f80e602b0f.md",
+    "source": "devto",
+    "title": "Build an MCP Server in Go (Part 1): Designing a diagnostic-grade Kubernetes client",
+    "url": "https://dev.to/ferztyle/build-an-mcp-server-in-go-part-1-designing-a-diagnostic-grade-kubernetes-client-49a2",
+    "keywords": [
+      "part 1 ): designing",
+      "part 1 ): designing",
+      "next post wraps",
+      "grade kubernetes client",
+      "grade kubernetes client",
+      "kubernetes client",
+      "post designs",
+      "mcp server",
+      "mcp server",
+      "mcp server"
+    ],
+    "summary": "# Build an MCP Server in Go (Part 1): Designing a diagnostic-grade Kubernetes client This post designs the Kubernetes client. The next post wraps it as an MCP server and wires it to an..."
+  },
+  "c7d789f4780b1add": {
+    "file": "corpus/devto/dev_to_evanlin_claude-code-in-practice-rethinking-terminal-w_d941198dd3.md",
+    "source": "devto",
+    "title": "[Claude Code in Practice] Rethinking Terminal Workflows: From zsh Autocomplete to Search and Diff Toolchains",
+    "url": "https://dev.to/evanlin/claude-code-in-practice-rethinking-terminal-workflows-from-zsh-autocomplete-to-search-and-diff-4jdk",
+    "keywords": [
+      "rethinking terminal workflows",
+      "rethinking terminal workflows",
+      "zsh autocomplete",
+      "zsh autocomplete",
+      "diff toolchains",
+      "diff toolchains",
+      "claude code",
+      "claude code",
+      "source",
+      "search"
+    ],
+    "summary": "# [Claude Code in Practice] Rethinking Terminal Workflows: From zsh Autocomplete to Search and Diff Toolchains > Source: devto | Category: news | 2026-08-14T17:09:09Z 痛點：每打一個指令，都要重新來一次   平常用 Claude Code 處理事情的時候，一直有兩個小摩擦一直在，只是還沒認真處理過。  第一個是 shell..."
+  },
+  "99c70dc13e168b0a": {
+    "file": "corpus/devto/dev_to_canro91_heres-what-being-a-street-smart-coder-means-4_60e3dc1f05.md",
+    "source": "devto",
+    "title": "Here's what being a street-smart coder means",
+    "url": "https://dev.to/canro91/heres-what-being-a-street-smart-coder-means-4pgd",
+    "keywords": [
+      "smart coder instead ...",
+      "smart coder means",
+      "smart coder means",
+      "coder",
+      "street",
+      "street",
+      "street",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Here's what being a street-smart coder means Don't Just Be a Coder. Be a Street-Smart Coder Instead                                         ..."
+  },
+  "099b84006779f627": {
+    "file": "corpus/devto/dev_to_gde_reviving-open-source-giants-how-i-brought-weave-s_8137cf7508.md",
+    "source": "devto",
+    "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+    "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+    "keywords": [
+      "brought weave scope back",
+      "brought weave scope back",
+      "reviving open source giants",
+      "reviving open source giants",
+      "one afternoon using antigravity",
+      "one afternoon using antigravity",
+      "rescue abandoned open",
+      "platform docker support",
+      "platform docker support",
+      "modernize build systems"
+    ],
+    "summary": "# Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity > Source: devto | Category: news | 2026-08-14T17:09:08Z How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity."
+  },
+  "e11fb6e93a05f566": {
+    "file": "corpus/devto/dev_to_ferztyle_build-an-mcp-server-in-go-part-2-building-th_b9a8fd197d.md",
+    "source": "devto",
+    "title": "Build an MCP Server in Go (Part 2): Building the MCP tool layer",
+    "url": "https://dev.to/ferztyle/build-an-mcp-server-in-go-part-2-building-the-mcp-tool-layer-4l3m",
+    "keywords": [
+      "part 2 ): building",
+      "part 2 ): building",
+      "08z part 1 designs",
+      "mcp tool layer",
+      "mcp tool layer",
+      "mcp server",
+      "mcp server",
+      "short ...",
+      "post builds",
+      "kubeclient interface"
+    ],
+    "summary": "# Build an MCP Server in Go (Part 2): Building the MCP tool layer Part 1 designs the KubeClient interface this post builds on. If you haven't read it, the short..."
+  },
+  "b8a95acb5fad9956": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_encrypted-client-hello-now-supported-on_5f5bb7a216.md",
+    "source": "vercel-blog",
+    "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+    "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+    "keywords": [
+      "11z encrypted client hello",
+      "encrypted client hello",
+      "encrypted client hello",
+      "vercel cdn",
+      "vercel cdn",
+      "vercel cdn",
+      "vercel",
+      "supported",
+      "supported",
+      "supported"
+    ],
+    "summary": "# Encrypted Client Hello (ECH) is now supported on Vercel CDN > Source: vercel-blog | Category: news | 2026-08-14T17:09:11Z Encrypted Client Hello (ECH) is now supported on Vercel CDN"
+  },
+  "4e4ed74bc5b4a7c4": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_scottish-govt_9f7d0a43b9.md",
+    "source": "security",
+    "title": "[dark-reading] Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+    "keywords": [
+      "third party",
+      "well",
+      "thanks",
+      "source",
+      "serviced",
+      "security",
+      "security",
+      "reading",
+      "reading",
+      "prosecutor"
+    ],
+    "summary": "# [dark-reading] Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
+  },
+  "7acb06c27dc96131": {
+    "file": "corpus/hackernews/rustdesk_com_blog_unattended-remote-access-wayland_36730cabd2.md",
+    "source": "hackernews",
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "keywords": [
+      "59z score",
+      "wayland",
+      "wayland",
+      "source",
+      "rustdesk",
+      "rustdesk",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# RustDesk now supports true unattended remote access on Wayland > Source: hackernews | Category: news | 2026-08-14T17:08:59Z Score: 35 | Comments: 3"
+  },
+  "295d24f39c6acc26": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_ZqGSg4b_cZA_2c9fb37b1c.md",
+    "source": "hackernews",
+    "title": "The Java Story – The official documentary [video]",
+    "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
+    "keywords": [
+      "java story –",
+      "java story –",
+      "official documentary",
+      "official documentary",
+      "06z score",
+      "video",
+      "video",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Java Story – The official documentary [video] > Source: hackernews | Category: news | 2026-08-14T17:09:06Z Score: 7 | Comments: 0"
+  },
+  "9b9c53d79798f3bd": {
+    "file": "corpus/hackernews/electrek_co_2026_08_13_tesla-defeats-sweden-if-metall-union-_8e2a60982a.md",
+    "source": "hackernews",
+    "title": "Tesla defeats Sweden's IF Metall union after 1,021-day strike",
+    "url": "https://electrek.co/2026/08/13/tesla-defeats-sweden-if-metall-union-strike/",
+    "keywords": [
+      "tesla defeats sweden",
+      "tesla defeats sweden",
+      "metall union",
+      "metall union",
+      "day strike",
+      "day strike",
+      "06z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Tesla defeats Sweden's IF Metall union after 1,021-day strike > Source: hackernews | Category: news | 2026-08-14T17:09:06Z Score: 5 | Comments: 0"
+  },
+  "38dc7377def77101": {
+    "file": "corpus/hackernews/www_reuters_com_world_frances-top-court-rules-social-media-b_f13823624a.md",
+    "source": "hackernews",
+    "title": "France blocks social media ban because it would require adults to prove age",
+    "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "keywords": [
+      "would require adults",
+      "would require adults",
+      "prove age",
+      "prove age",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# France blocks social media ban because it would require adults to prove age > Source: hackernews | Category: news | 2026-08-14T17:09:00Z Score: 66 | Comments: 16"
+  },
+  "2ab70d6c980fdbd9": {
+    "file": "corpus/hackernews/rdio-docs_vercel_app_267d0a706d.md",
+    "source": "hackernews",
+    "title": "Show HN: Rdio – an open-source internet radio control suite",
+    "url": "https://rdio-docs.vercel.app",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "rdio –",
+      "rdio –",
+      "05z score",
+      "source",
+      "open",
+      "open",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: Rdio – an open-source internet radio control suite > Source: hackernews | Category: news | 2026-08-14T17:09:05Z Score: 8 | Comments: 0"
+  },
+  "6f15a8b0b6100dd8": {
+    "file": "corpus/hackernews/www_byhand_ai_2b71cb6d2f.md",
+    "source": "hackernews",
+    "title": "AI by Hand",
+    "url": "https://www.byhand.ai/",
+    "keywords": [
+      "02z score",
+      "source",
+      "news",
+      "hand",
+      "hand",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI by Hand > Source: hackernews | Category: news | 2026-08-14T17:09:02Z Score: 5 | Comments: 0"
+  },
+  "fa47b09352adf74d": {
+    "file": "corpus/hackernews/claude_com_blog_maximizing-the-value-of-your-claude-code-ses_df53bf5622.md",
+    "source": "hackernews",
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "keywords": [
+      "claude code sessions",
+      "claude code sessions",
+      "02z score",
+      "value",
+      "value",
+      "source",
+      "news",
+      "maximizing",
+      "maximizing",
+      "hackernews"
+    ],
+    "summary": "# Maximizing the value of your Claude Code sessions > Source: hackernews | Category: news | 2026-08-14T17:09:02Z Score: 6 | Comments: 0"
+  },
+  "8ccb476d76488033": {
+    "file": "corpus/hackernews/www_propublica_org_article_general-dynamics-artillery-factor_6829a23fca.md",
+    "source": "hackernews",
+    "title": "Taxpayers Funded a $533M Artillery Plant That Made Nothing",
+    "url": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
+    "keywords": [
+      "533m artillery plant",
+      "533m artillery plant",
+      "taxpayers funded",
+      "taxpayers funded",
+      "made nothing",
+      "made nothing",
+      "04z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Taxpayers Funded a $533M Artillery Plant That Made Nothing > Source: hackernews | Category: news | 2026-08-14T17:09:04Z Score: 14 | Comments: 1"
+  },
+  "411b305ad1f41577": {
+    "file": "corpus/hackernews/uvbirds_com_44c9c4f8c8.md",
+    "source": "hackernews",
+    "title": "Ultraviolet Bird Photography",
+    "url": "https://uvbirds.com/",
+    "keywords": [
+      "ultraviolet bird photography",
+      "ultraviolet bird photography",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Ultraviolet Bird Photography > Source: hackernews | Category: news | 2026-08-14T17:09:01Z Score: 15 | Comments: 0"
+  },
+  "c01fd4f1d3e8d67f": {
+    "file": "corpus/hackernews/blog_google_security_how-google-is-making-private-ai-practic_0356ba6ae0.md",
+    "source": "hackernews",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "keywords": [
+      "making private ai practical",
+      "making private ai practical",
+      "homomorphic encryption",
+      "homomorphic encryption",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "google",
+      "google"
+    ],
+    "summary": "# Google is making private AI practical with homomorphic encryption > Source: hackernews | Category: news | 2026-08-14T17:09:00Z Score: 38 | Comments: 23"
+  },
+  "b88117d17af725a6": {
+    "file": "corpus/hackernews/rayforcedb_com_0ff0ebe072.md",
+    "source": "hackernews",
+    "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+    "url": "https://rayforcedb.com/",
+    "keywords": [
+      "pure c analytics database",
+      "pure c analytics database",
+      "rayforcedb –",
+      "rayforcedb –",
+      "like syntax",
+      "like syntax",
+      "00z score",
+      "source",
+      "news",
+      "lisp"
+    ],
+    "summary": "# RayforceDB – a pure C analytics database with a Lisp-like syntax > Source: hackernews | Category: news | 2026-08-14T17:09:00Z Score: 15 | Comments: 5"
+  },
+  "a666924dc00283c6": {
+    "file": "corpus/hackernews/www_npr_org_2026_08_10_nx-s1-5925350_the-nerd-reich-tracks-t_6b7260721a.md",
+    "source": "hackernews",
+    "title": "The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics",
+    "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+    "keywords": [
+      "true politics",
+      "true politics",
+      "silicon valley",
+      "silicon valley",
+      "nerd reich",
+      "nerd reich",
+      "04z score",
+      "unmasking",
+      "unmasking",
+      "tracks"
+    ],
+    "summary": "# 'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics' > Source: hackernews | Category: news | 2026-08-14T17:09:04Z Score: 25 | Comments: 1"
+  },
+  "c3a34e577b3f7851": {
+    "file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-metas-self-infl_f31f52960c.md",
+    "source": "engineering",
+    "title": "[pragmatic-engineer] The Pulse: Meta’s self-inflicted resignation-wave",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
+    "keywords": [
+      "openclaw moment &# 8221",
+      "social media giant",
+      "retainer equity grants",
+      "managed ai agents",
+      "&# 8220",
+      "meta ’",
+      "meta ’",
+      "meta ’",
+      "inflicted resignation",
+      "inflicted resignation"
+    ],
+    "summary": "# [pragmatic-engineer] The Pulse: Meta’s self-inflicted resignation-wave The social media giant is offering $1M+ retainer equity grants to staff who are leaving: and even this is not effective. Also: is Grok Bot the &#8220;OpenClaw moment&#8221; for managed AI agents?"
   }
 }
