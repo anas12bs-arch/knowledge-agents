@@ -416865,5 +416865,138 @@
       "2026"
     ],
     "summary": "# Open WireGuard Endpoints > Source: hackernews | Category: news | 2026-08-14T20:17:36Z Score: 10 | Comments: 0"
+  },
+  "7addfabc84eacb50": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_18_227d01d4d7.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.18 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.18",
+    "keywords": [
+      "18 ### misc changes",
+      "js — v16",
+      "37z ## vercel",
+      "js v16",
+      "js v16",
+      "18 released",
+      "18 released",
+      "upgrade react",
+      "20260814 `:",
+      "vercel"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T20:48:37Z ### Misc Changes - Upgrade React from `22e4f993-20260811` to `eb8feb71-20260814`: #97382"
+  },
+  "0bfb46110dfba11f": {
+    "file": "corpus/devops/devops_com_treat-business-workflow-changes-like-deployments_c1e776eeaf.md",
+    "source": "devops",
+    "title": "[devops-com] Treat Business Workflow Changes Like Deployments",
+    "url": "https://devops.com/treat-business-workflow-changes-like-deployments/",
+    "keywords": [
+      "receive [&# 8230 ;]",
+      "visual builder instead",
+      "routing rule changes",
+      "release discipline applied",
+      "integration starts writing",
+      "edit may happen",
+      "approval threshold moves",
+      "still real",
+      "new system",
+      "blast radius"
+    ],
+    "summary": "Business automation often reaches production without the release discipline applied to application code. A routing rule changes, an approval threshold moves, or an integration starts writing to a new system. The edit may happen in a visual builder instead of a repository, but its blast radius is still real: orders can duplicate, customers can receive [&#8230;]"
+  },
+  "94f049557edd52d9": {
+    "file": "corpus/hackernews/eliasfarhan_ch_gamedev_cpp_2026_08_14_srnative-01-why-a-cust_1e0de7f739.md",
+    "source": "hackernews",
+    "title": "What You Gain by Building Your Own Game Engine",
+    "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+    "keywords": [
+      "game engine",
+      "game engine",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "gain",
+      "gain",
+      "comments",
+      "category"
+    ],
+    "summary": "# What You Gain by Building Your Own Game Engine > Source: hackernews | Category: news | 2026-08-14T20:47:52Z Score: 6 | Comments: 1"
+  },
+  "522b53e4e8a1b3a8": {
+    "file": "corpus/hackernews/op_tngl_io_every-fucking-website_ab1fa9fb08.md",
+    "source": "hackernews",
+    "title": "Every fucking website: 2026 edition",
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "keywords": [
+      "every fucking website",
+      "every fucking website",
+      "55z score",
+      "2026 edition",
+      "2026 edition",
+      "2026",
+      "source",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# Every fucking website: 2026 edition > Source: hackernews | Category: news | 2026-08-14T20:47:55Z Score: 4 | Comments: 3"
+  },
+  "ff03362849d5eceb": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_c1j1ye6n30no_9064b6334d.md",
+    "source": "hackernews",
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+    "keywords": [
+      "plagiarism row",
+      "plagiarism row",
+      "jason arday",
+      "jason arday",
+      "found dead",
+      "found dead",
+      "cambridge professor",
+      "cambridge professor",
+      "52z score",
+      "source"
+    ],
+    "summary": "# Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead > Source: hackernews | Category: news | 2026-08-14T20:47:52Z Score: 44 | Comments: 32"
+  },
+  "48634103ec01d0c2": {
+    "file": "corpus/hackernews/iafisher_com_2026_07_pelham-123_8cb13b19f0.md",
+    "source": "hackernews",
+    "title": "Every exterior shot in The Taking of Pelham 123",
+    "url": "https://iafisher.com/2026/07/pelham-123",
+    "keywords": [
+      "every exterior shot",
+      "every exterior shot",
+      "pelham 123",
+      "pelham 123",
+      "52z score",
+      "taking",
+      "taking",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Every exterior shot in The Taking of Pelham 123 > Source: hackernews | Category: news | 2026-08-14T20:47:52Z Score: 4 | Comments: 0"
+  },
+  "0d034e0fc503b7fb": {
+    "file": "corpus/hackernews/github_com_carpdiem_ember_9e2dddde98.md",
+    "source": "hackernews",
+    "title": "Show HN: Ember – Redshift safe color palettes",
+    "url": "https://github.com/carpdiem/ember",
+    "keywords": [
+      "strong redshift &# x2f",
+      "ui palettes designed",
+      "duplicate color appearances",
+      "color palettes collapse",
+      "redshift condition ...",
+      "&# x27",
+      "&# x27",
+      "worse yet",
+      "show hn",
+      "show hn"
+    ],
+    "summary": "# Show HN: Ember – Redshift safe color palettes Most color palettes collapse if you&#x27;ve got a strong redshift&#x2F;nightshift color filter actively suppressing green and blue channels. I made one that doesn&#x27;t.<p>Ember has terminal, chart, heatmap, and UI palettes designed and tested to be as distinguishable as possible under both the redshift &amp; non-redshift condition... so no more duplicate color appearances (or worse yet, disappearing colors!"
   }
 }
