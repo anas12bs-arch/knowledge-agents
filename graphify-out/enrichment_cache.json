@@ -411569,5 +411569,343 @@
       "category"
     ],
     "summary": "# Bluesky Protocol Services > Source: hackernews | Category: news | 2026-08-14T00:46:33Z Score: 29 | Comments: 0"
+  },
+  "0eebd2dd6a0811d1": {
+    "file": "corpus/github-releases/github_com_remix-run_remix_releases_tag_ui_400_5_0_4bb94894ac.md",
+    "source": "github-releases",
+    "title": "remix-run/remix ui@0.5.0 released",
+    "url": "https://github.com/remix-run/remix/releases/tag/ui%400.5.0",
+    "keywords": [
+      "style values cannot terminate",
+      "fix hydrated component updates",
+      "native constraint validation runs",
+      "corresponding attribute value automatically",
+      "redirected response without replacing",
+      "single options object instead",
+      "final response url replaces",
+      "history entry without retaining",
+      "0 ### minor changes",
+      "options ?. target `."
+    ],
+    "summary": "- Allow element-wide mixins such as `css()` to be used on subtype hosts like `<select>` without TypeScript assignability errors. - Built-in styled components now use adaptive `light-dark(...)` colors for their internal surfaces, text, borders, focus rings, and control states so they render correctly in dark color schemes. - Show complete destination server-rendered client entry content during document and frame reloads while replacement modules load, instead of retai"
+  },
+  "ec4a4c8f147a9792": {
+    "file": "corpus/github-releases/github_com_remix-run_remix_releases_tag_ui-hmr_400_1_0_bb63023e26.md",
+    "source": "github-releases",
+    "title": "remix-run/remix ui-hmr@0.1.0 released",
+    "url": "https://github.com/remix-run/remix/releases/tag/ui-hmr%400.1.0",
+    "keywords": [
+      "0 ### minor changes",
+      "node module hooks",
+      "node import hook",
+      "initial `@ remix",
+      "41z ## remix",
+      "remix — ui",
+      "uihmr ()`",
+      "server modules",
+      "browser modules",
+      "0 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T03:14:41Z - Added the initial `@remix-run/ui-hmr` package with Remix UI component HMR runtimes, a `remix/assets` loader, and Node module hooks. Use `remix/ui-hmr/node` as a Node import hook for server modules and `uiHmr()` from `remix/ui-hmr/assets` with `remix/assets` for browser modules."
+  },
+  "c4a61daea928968c": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_11_dd52f3e1d1.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.11 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.11",
+    "keywords": [
+      "add muse code integration",
+      "add deepseek harness integration",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "10 ... v0",
+      "44z ## ollama",
+      "ollama — v0",
+      "11 ##",
+      "11 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T03:14:44Z ## What's Changed * launch: add Muse Code integration by @dhiltgen in https://github.com/ollama/ollama/pull/17594 * model/renderers: match Muse Glimmer reasoning template by @dhiltgen in https://github.com/ollama/ollama/pull/17732 * launch: add DeepSeek Harness integration by @ParthSareen in https://github.com/ollama/ollama/pull/17733 **Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.10...v0.32.11"
+  },
+  "ef93e4e56e5d2b76": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_13_doctors-medical-associations-alr_aafc18a0e2.md",
+    "source": "legal",
+    "title": "[techdirt] Doctors, Medical Associations Already Giving A Giant Middle Finger To Trump’s Vaccine EO",
+    "url": "https://www.techdirt.com/2026/08/13/doctors-medical-associations-already-giving-a-giant-middle-finger-to-trumps-vaccine-eo/",
+    "keywords": [
+      "medical associations already giving",
+      "medical associations already giving",
+      "medical associations already giving",
+      "recommended childhood vaccination schedule",
+      "giant middle finger",
+      "giant middle finger",
+      "giant middle finger",
+      "bonkers executive order",
+      "[&# 8230 ;]",
+      "world &# 8217"
+    ],
+    "summary": "# [techdirt] Doctors, Medical Associations Already Giving A Giant Middle Finger To Trump’s Vaccine EO Doctors, Medical Associations Already Giving A Giant Middle Finger To Trump’s Vaccine EO Earlier this week we pointed out that Donald Trump supplanted RFK Jr. as the world&#8217;s most infamous anti-vaxxer when he vomited out a bonkers executive order that reduced the recommended childhood vaccination schedule for American children, pared down which diseases were recommended for vaccination, and"
+  },
+  "1eff09e871378aac": {
+    "file": "corpus/devto/dev_to_datacpp_8185_free-model-endpoints-make-good-fuzz-gene_b40ca25b52.md",
+    "source": "devto",
+    "title": "Free Model Endpoints Make Good Fuzz Generators and Bad Oracles",
+    "url": "https://dev.to/datacpp_8185/free-model-endpoints-make-good-fuzz-generators-and-bad-oracles-4m8e",
+    "keywords": [
+      "tempting ...",
+      "failure starts",
+      "bad oracles",
+      "bad oracles",
+      "bad oracles",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Free Model Endpoints Make Good Fuzz Generators and Bad Oracles > Source: devto | Category: news | 2026-08-14T03:14:08Z Free Model Endpoints Make Good Fuzz Generators and Bad Oracles  The failure starts with a tempting..."
+  },
+  "14db3a630459c487": {
+    "file": "corpus/devto/dev_to_shipsitself_an-ai-agent-read-13-invoices-and-blocked-_4b98db146f.md",
+    "source": "devto",
+    "title": "An AI agent read 13 invoices and blocked $1,411.25 in bad payments",
+    "url": "https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi",
+    "keywords": [
+      "ai agent 13 invoices",
+      "bad payments",
+      "bad payments",
+      "approved 10",
+      "actually ordered",
+      "source",
+      "reactions",
+      "news",
+      "list",
+      "handed"
+    ],
+    "summary": "# An AI agent read 13 invoices and blocked $1,411.25 in bad payments > Source: devto | Category: news | 2026-08-14T03:14:08Z I handed an AI agent 13 invoices and a list of what we had actually ordered."
+  },
+  "44de7512e85c0672": {
+    "file": "corpus/devto/dev_to_cynepmyx_nginx-is-not-the-bug-two-lines-of-your-confi_68fc7fd587.md",
+    "source": "devto",
+    "title": "nginx is not the bug. Two lines of your config are. CVE-2026-42945 on a live stand",
+    "url": "https://dev.to/cynepmyx/nginx-is-not-the-bug-two-lines-of-your-config-are-cve-2026-42945-on-a-live-stand-5fc8",
+    "keywords": [
+      "2 cvss heap overflow",
+      "rules everyone repeats",
+      "live stand",
+      "live stand",
+      "live stand",
+      "eighteen years",
+      "two lines",
+      "two lines",
+      "two",
+      "wrong"
+    ],
+    "summary": "Two lines of your config are. A 9.2 CVSS heap overflow in nginx that sat for eighteen years. Reproduced on a live stand, and two of the rules everyone repeats about it turn out to be wrong."
+  },
+  "99adbe79e622e9a5": {
+    "file": "corpus/devto/dev_to_hackhub_6179_i-put-my-agents-model-routing-policy-in-_c027500fc0.md",
+    "source": "devto",
+    "title": "I Put My Agent's Model Routing Policy in Git. The Bill Dropped Before the Code Did.",
+    "url": "https://dev.to/hackhub_6179/i-put-my-agents-model-routing-policy-in-git-the-bill-dropped-before-the-code-did-5gga",
+    "keywords": [
+      "coding agent run unattended",
+      "provider invoice told",
+      "model routing policy",
+      "model routing policy",
+      "08z two weeks",
+      "bill dropped",
+      "bill dropped",
+      "backlog chores",
+      "agent",
+      "agent"
+    ],
+    "summary": "# I Put My Agent's Model Routing Policy in Git. > Source: devto | Category: news | 2026-08-14T03:14:08Z Two weeks after I let a coding agent run unattended on backlog chores, the provider invoice told me..."
+  },
+  "312344343ad82af2": {
+    "file": "corpus/devto/dev_to_li_lu_8925b64a9636130a26d_translating-a-scanned-pdf-i_2573d650a0.md",
+    "source": "devto",
+    "title": "Translating a scanned PDF is a graphics problem, not a translation problem",
+    "url": "https://dev.to/li_lu_8925b64a9636130a26d/translating-a-scanned-pdf-is-a-graphics-problem-not-a-translation-problem-1d0p",
+    "keywords": [
+      "tool works beautifully",
+      "wall ...",
+      "translation problem",
+      "translation problem",
+      "graphics problem",
+      "graphics problem",
+      "get back",
+      "08z every",
+      "scanned pdf",
+      "scanned pdf"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-14T03:14:08Z Every \"translate your PDF\" tool works beautifully until you feed it a scan. Then you get back a wall..."
+  },
+  "7022e0ed2ffd9495": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_apple_apple-sends-new-threat-n_df1d901c6d.md",
+    "source": "security",
+    "title": "[bleeping-comp] Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+    "keywords": [
+      "mercenary spyware attack targeted",
+      "mercenary spyware attacks",
+      "mercenary spyware attacks",
+      "mercenary spyware attacks",
+      "apple threat notification",
+      "iphone .\"",
+      "source",
+      "security",
+      "security",
+      "saying"
+    ],
+    "summary": "# [bleeping-comp] Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\""
+  },
+  "f1837c5fb8699c20": {
+    "file": "corpus/hackernews/szha_ai_blog_compute-optimal-is-not-cluster-optimal_de4e0f3553.md",
+    "source": "hackernews",
+    "title": "Compute-optimal is not cluster-optimal",
+    "url": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
+    "keywords": [
+      "price every candidate architecture",
+      "new paper folds",
+      "pdf &# x2f",
+      "pdf &# x2f",
+      "org &# x2f",
+      "org &# x2f",
+      "moe &# x27",
+      "cluster actually delivers",
+      "&# x27",
+      "systems stage"
+    ],
+    "summary": "> Source: hackernews | Category: news | 2026-08-14T03:14:04Z <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605</a>: Our new paper folds the systems stage into the scaling-law stage. Price every candidate architecture on what the cluster actually delivers, and the answer changes: the sparsity an MoE &#x27;should&#x27; have depends on the cluster you train it on."
+  },
+  "8c08b0fe4e2d7b80": {
+    "file": "corpus/hackernews/domenkozar_com_2026_08_13_i-want-extern-fil-c_56e5e10d8e.md",
+    "source": "hackernews",
+    "title": "I want extern 'fil-C",
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "keywords": [
+      "want extern",
+      "want extern",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "fil",
+      "fil",
+      "comments",
+      "category"
+    ],
+    "summary": "# I want extern \"fil-C\" > Source: hackernews | Category: news | 2026-08-14T03:14:02Z Score: 44 | Comments: 8"
+  },
+  "513d6233f0bada02": {
+    "file": "corpus/hackernews/www_theguardian_com_us-news_2026_aug_13_us-government-spied-_b5ec033e45.md",
+    "source": "hackernews",
+    "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+    "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+    "keywords": [
+      "ice protesters",
+      "ice protesters",
+      "01z score",
+      "source",
+      "news",
+      "leftwing",
+      "leftwing",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# US conducted mass spying campaign against leftwing and anti-ICE protesters > Source: hackernews | Category: news | 2026-08-14T03:14:01Z Score: 25 | Comments: 3"
+  },
+  "859fc3e5545cb6c2": {
+    "file": "corpus/hackernews/www_theverge_com_policy_979852_that-is-not-acceptable-judge-_23291f036d.md",
+    "source": "hackernews",
+    "title": "Not acceptable': Judge orders Google to make rival app store installs easier",
+    "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+    "keywords": [
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "14t03"
+    ],
+    "summary": "# 'Not acceptable': Judge orders Google to make rival app store installs easier > Source: hackernews | Category: news | 2026-08-14T03:14:04Z Score: 9 | Comments: 1"
+  },
+  "b3891284608eb61e": {
+    "file": "corpus/hackernews/www_seangoedecke_com_blog-about-things-you-dont-understand-y_23a579b6de.md",
+    "source": "hackernews",
+    "title": "Blog about things you don't understand yet",
+    "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+    "keywords": [
+      "understand yet",
+      "understand yet",
+      "01z score",
+      "things",
+      "things",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Blog about things you don't understand yet > Source: hackernews | Category: news | 2026-08-14T03:14:01Z Score: 23 | Comments: 4"
+  },
+  "47843d62c7095daa": {
+    "file": "corpus/hackernews/github_com_bshichman_trs80-coco-basic_00ed218d1b.md",
+    "source": "hackernews",
+    "title": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
+    "url": "https://github.com/bshichman/trs80-coco-basic",
+    "keywords": [
+      "04z score",
+      "trs",
+      "trs",
+      "source",
+      "news",
+      "javascript",
+      "javascript",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# TRS-80 Color Computer Extended Basic Emulator in JavaScript > Source: hackernews | Category: news | 2026-08-14T03:14:04Z Score: 7 | Comments: 0"
+  },
+  "dc867522d7510d89": {
+    "file": "corpus/hackernews/www_crownengine_org_news_crown-0-64_ae08f77a9e.md",
+    "source": "hackernews",
+    "title": "Crown 0.64 – Native and cross-platform game engine",
+    "url": "https://www.crownengine.org/news/crown-0-64/",
+    "keywords": [
+      "platform game engine",
+      "platform game engine",
+      "64 – native",
+      "64 – native",
+      "crown 0",
+      "crown 0",
+      "03z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Crown 0.64 – Native and cross-platform game engine > Source: hackernews | Category: news | 2026-08-14T03:14:03Z Score: 6 | Comments: 4"
+  },
+  "5673f00f3f044b91": {
+    "file": "corpus/hackernews/www_sfchronicle_com_projects_2026_san-francisco-employee-pay_22dfe62bdb.md",
+    "source": "hackernews",
+    "title": "S.F.'s top-paid employee made $900K. Here's what every city worker gets paid",
+    "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/?taid=6a7db1d2d297630001917f1d&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
+    "keywords": [
+      "paid employee made",
+      "paid employee made",
+      "06z score",
+      "top",
+      "top",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "'s top-paid employee made $900K. Here's what every city worker gets paid > Source: hackernews | Category: news | 2026-08-14T03:14:06Z"
   }
 }
