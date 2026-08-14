@@ -416360,5 +416360,342 @@
       "kafka &# x2f"
     ],
     "summary": "DAT | Engineering Manager, Senior Engineering Manager | Seattle, Portland, Denver | Hybrid 2-3 days&#x2F;week | Full-time | $192k - $261k<p>I&#x27;m hiring for both EM and Senior EM levels building the automation layer for freight pricing, matching, onboarding, and settlement. Lead 1-3 teams (FTE + contractors), own delivery end-to-end, ~8 yrs exp typical. I expect all managers to be technical and be able to help unblock the team, though your day-to-day wont be in the code.<p>Interesting problem"
+  },
+  "71aa110993b5b869": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_13_27e7ff4b9c.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.13 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+    "keywords": [
+      "12 ... v0",
+      "53z ## ollama",
+      "ollama — v0",
+      "13 ##",
+      "ollama v0",
+      "ollama v0",
+      "13 released",
+      "13 released",
+      "ollama"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T19:48:53Z ## What's Changed * qwen3.8: support developer instructions **Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.12...v0.32.13"
+  },
+  "9ecd04bc36d52664": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-ope_c286050243.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-openrouter==0.2.8 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.2.8",
+    "keywords": [
+      "usage chunks (# 39338",
+      "response metadata (# 39301",
+      "openrouter ): preserve provider",
+      "8 changes since langchain",
+      "openrouter ): 0",
+      "8 (# 39658",
+      "openrouter == 0",
+      "openrouter == 0",
+      "openrouter == 0",
+      "openrouter == 0"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T19:48:51Z Changes since langchain-openrouter==0.2.7 release(openrouter): 0.2.8 (#39658) chore(model-profiles): refresh model profile data (#39646) chore(model-profiles): refresh model profile data (#39625) fix(openrouter): preserve cost metadata in usage chunks (#39338) chore(model-profiles): refresh model profile data (#39609) chore(model-profiles): refresh model profile data (#39579) chore(model-profiles): refresh model profile data "
+  },
+  "d41ec9b9a40a47ae": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_08_suspecting-court-of-usin_2dbd025943.md",
+    "source": "legal",
+    "title": "[ars-policy] Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "keywords": [
+      "man injected prompts",
+      "man injected prompts",
+      "man injected prompts",
+      "using chatbots wrong",
+      "47z suspecting court",
+      "suspecting court",
+      "suspecting court",
+      "using ai",
+      "using ai",
+      "using ai"
+    ],
+    "summary": "# [ars-policy] Suspecting court of using AI, man injected prompts in filings to try to win case Suspecting court of using AI, man injected prompts in filings to try to win case Judge warns pro se litigants are using chatbots wrong and getting desperate."
+  },
+  "3cd16042012a7c8d": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_08_state-judge-orders-kalsh_cd9f375d0a.md",
+    "source": "legal",
+    "title": "[ars-policy] State judge orders Kalshi to stop offering sports bets and other wagers",
+    "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+    "keywords": [
+      "state judge orders kalshi",
+      "state judge orders kalshi",
+      "stop offering sports bets",
+      "stop offering sports bets",
+      "stop offering sports bets",
+      "stop offering bets",
+      "must implement geofencing",
+      "wagers kalshi ordered",
+      "wagers",
+      "wagers"
+    ],
+    "summary": "# [ars-policy] State judge orders Kalshi to stop offering sports bets and other wagers State judge orders Kalshi to stop offering sports bets and other wagers Kalshi ordered to stop offering bets in Washington, must implement geofencing."
+  },
+  "9a6a2b120ca89c99": {
+    "file": "corpus/devto/dev_to_artificial_wasteland_we-asked-ten-agents-for-a-test-t_ff018bf883.md",
+    "source": "devto",
+    "title": "We asked ten agents for a test that must go red. Five wrote one that could not.",
+    "url": "https://dev.to/artificial_wasteland/we-asked-ten-agents-for-a-test-that-must-go-red-five-wrote-one-that-could-not-1lck",
+    "keywords": [
+      "second audit question",
+      "must go red",
+      "must go red",
+      "asked ten agents",
+      "asked ten agents",
+      "five wrote one",
+      "five wrote one",
+      "silently unfalsifiable",
+      "one test",
+      "negative control"
+    ],
+    "summary": "# We asked ten agents for a test that must go red. Five wrote one that could not. A negative control is the one test most likely to be silently unfalsifiable."
+  },
+  "bd597c5aeb54cc9a": {
+    "file": "corpus/devto/dev_to_websilvercraft_the-python-gil-explained-without-the-h_1261d490c8.md",
+    "source": "devto",
+    "title": "The Python GIL, explained without the hand-waving",
+    "url": "https://dev.to/websilvercraft/the-python-gil-explained-without-the-hand-waving-10jo",
+    "keywords": [
+      "use threads",
+      "python gil",
+      "python gil",
+      "explained without",
+      "explained without",
+      "waving",
+      "waving",
+      "speed",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Python GIL, explained without the hand-waving > Source: devto | Category: news | 2026-08-14T19:47:56Z Every Python developer eventually hits this conversation:   \"Just use threads to speed it..."
+  },
+  "2732f0ff7c0d96ad": {
+    "file": "corpus/devto/dev_to_haoxiang_li_a709204042e6b_i-built-an-ai-liars-dice-op_656ad443fa.md",
+    "source": "devto",
+    "title": "I Built an AI Liar's Dice Opponent That Remembers How You Play",
+    "url": "https://dev.to/haoxiang_li_a709204042e6b/i-built-an-ai-liars-dice-opponent-that-remembers-how-you-play-1bgk",
+    "keywords": [
+      "test data",
+      "prose ....",
+      "dice opponent",
+      "dice opponent",
+      "development note",
+      "ai liar",
+      "ai liar",
+      "ai helped",
+      "source",
+      "remembers"
+    ],
+    "summary": "# I Built an AI Liar's Dice Opponent That Remembers How You Play This is a development note. The project and test data are real; AI helped me clean up the prose...."
+  },
+  "868b5d1b4e57793c": {
+    "file": "corpus/devto/dev_to_sarvar_04_59-of-dogs-are-obese-and-their-owners-dont-_f86f5e472c.md",
+    "source": "devto",
+    "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
+    "url": "https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89",
+    "keywords": [
+      "decode confusing behavior",
+      "triage emergencies",
+      "trial",
+      "things",
+      "tells",
+      "tells",
+      "source",
+      "reactions",
+      "put",
+      "photo"
+    ],
+    "summary": "# 59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them. PawWise uses Google AI to analyze your dog's health from a photo, decode confusing behavior, triage emergencies, and (when things are fine) put your dog on trial for their crimes."
+  },
+  "686e6448d2d76d90": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_mission-driven-_4ae5bf990f.md",
+    "source": "security",
+    "title": "[dark-reading] Mission-Driven Security: Inside a Global Bank's Defense",
+    "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
+    "keywords": [
+      "group ciso shares insights",
+      "savvy security executives",
+      "video interview",
+      "technical roles",
+      "strategic leadership",
+      "standard chartered",
+      "global bank",
+      "global bank",
+      "global bank",
+      "defensive capabilities"
+    ],
+    "summary": "# [dark-reading] Mission-Driven Security: Inside a Global Bank's Defense Mission-Driven Security: Inside a Global Bank's Defense In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking."
+  },
+  "56762748ad160b11": {
+    "file": "corpus/finance/techcrunch_com_2026_08_14_thrives-joshua-kushner-chides-sili_8a1931ce59.md",
+    "source": "finance",
+    "title": "[tc-venture] Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+    "keywords": [
+      "let excitement weaken",
+      "ever investment letter",
+      "46z thrive ’",
+      "thrive ’",
+      "thrive ’",
+      "would also",
+      "grave error",
+      "ai opportunity",
+      "ai euphoria",
+      "ai euphoria"
+    ],
+    "summary": "# [tc-venture] Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
+  },
+  "5e8ade0d97edeba0": {
+    "file": "corpus/finance/news_crunchbase_com_ai_biggest-funding-rounds-databricks-riv_8d1ff940f1.md",
+    "source": "finance",
+    "title": "[crunchbase] The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
+    "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+    "keywords": [
+      "10 biggest funding rounds",
+      "10 biggest funding rounds",
+      "10 biggest funding rounds",
+      "ai coding lead databricks",
+      "eight months ago",
+      "back raising another",
+      "ai coding lead",
+      "ai coding lead",
+      "week also went",
+      "ai infrastructure"
+    ],
+    "summary": "# [crunchbase] The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead Databricks is back raising another $5 billion, after it raised that amount just eight months ago. The largest fundings this week also went to an AI neolab, data center and electricity storage, defense, coding and biotech."
+  },
+  "31bc03a346ccce36": {
+    "file": "corpus/hackernews/cvd_z_ai_e14dd8ed89.md",
+    "source": "hackernews",
+    "title": "Z.ai Security Disclosure",
+    "url": "https://cvd.z.ai",
+    "keywords": [
+      "ai security disclosure",
+      "ai security disclosure",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Z.ai Security Disclosure > Source: hackernews | Category: news | 2026-08-14T19:47:48Z Score: 10 | Comments: 1"
+  },
+  "e0651fc75a1681f8": {
+    "file": "corpus/hackernews/www_derekthompson_org_p_the-american-sports-plutocracy-is_281a3cb111.md",
+    "source": "hackernews",
+    "title": "The American Sports Plutocracy Is Bullshit",
+    "url": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+    "keywords": [
+      "american sports plutocracy",
+      "american sports plutocracy",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "bullshit",
+      "bullshit"
+    ],
+    "summary": "# The American Sports Plutocracy Is Bullshit > Source: hackernews | Category: news | 2026-08-14T19:47:53Z Score: 11 | Comments: 0"
+  },
+  "0a7d7e738fc2c6fc": {
+    "file": "corpus/hackernews/www_anthropic_com_news_claude-text-watermark_e68246067e.md",
+    "source": "hackernews",
+    "title": "How Claude's text watermarking works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "keywords": [
+      "text watermarking works",
+      "text watermarking works",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "claude",
+      "claude",
+      "category"
+    ],
+    "summary": "# How Claude's text watermarking works > Source: hackernews | Category: news | 2026-08-14T19:47:50Z Score: 7 | Comments: 1"
+  },
+  "2b4c89cf1712d4e1": {
+    "file": "corpus/hackernews/www_cnn_com_2026_08_14_business_vishal-garg-better-ceo_5cdd11aaa7.md",
+    "source": "hackernews",
+    "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
+    "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+    "keywords": [
+      "fired 900 people",
+      "fired 900 people",
+      "job back",
+      "job back",
+      "christmas wants",
+      "christmas wants",
+      "54z score",
+      "zoom",
+      "zoom",
+      "source"
+    ],
+    "summary": "# CEO who fired 900 people on Zoom just before Christmas wants his job back > Source: hackernews | Category: news | 2026-08-14T19:47:54Z Score: 6 | Comments: 2"
+  },
+  "6c044274a274c3c2": {
+    "file": "corpus/hackernews/github_com_lajosdeme_mole_5a94dd163b.md",
+    "source": "hackernews",
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "url": "https://github.com/lajosdeme/mole",
+    "keywords": [
+      "blow way past budget",
+      "sound confident .< p",
+      "local data .< p",
+      "etc .< p",
+      "machine )< p",
+      "every claim carries",
+      "best possible answer",
+      "data ever leaving",
+      "data stays local",
+      "including coding agents"
+    ],
+    "summary": "# Show HN: Mole – Deep research agent for your terminal Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Data stays local "
+  },
+  "f76c34d83661d758": {
+    "file": "corpus/hackernews/www_pcworld_com_article_3212428_firefox-is-now-the-last-majo_25fb2a3813.md",
+    "source": "hackernews",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "keywords": [
+      "still supports ublock origin",
+      "still supports ublock origin",
+      "last major browser",
+      "last major browser",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "firefox",
+      "firefox"
+    ],
+    "summary": "# Firefox is now the last major browser that still supports uBlock Origin > Source: hackernews | Category: news | 2026-08-14T19:47:53Z Score: 21 | Comments: 6"
+  },
+  "8a18dd8340098291": {
+    "file": "corpus/hackernews/www_telegraph_co_uk_gift_9d2ca09b7c07688a_ee998789a9.md",
+    "source": "hackernews",
+    "title": "Jason Arday Found Dead",
+    "url": "https://www.telegraph.co.uk/gift/9d2ca09b7c07688a",
+    "keywords": [
+      "jason arday found dead",
+      "jason arday found dead",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Jason Arday Found Dead > Source: hackernews | Category: news | 2026-08-14T19:47:53Z Score: 11 | Comments: 3"
   }
 }
