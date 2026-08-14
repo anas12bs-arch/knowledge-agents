@@ -414419,5 +414419,623 @@
       "css navigation matching"
     ],
     "summary": "# [css-tricks] What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More Basically, how to do a lot of really cool (CSS) stuff."
+  },
+  "57f3d89efaca2f2f": {
+    "file": "corpus/product/techcrunch_com_2026_08_14_kog-is-going-deeper-to-squeeze-mor_bc34116698.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Kog is going deeper to squeeze more inference out of GPUs",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "keywords": [
+      "agentic workflows may",
+      "french startup kog",
+      "poorly suited",
+      "going deeper",
+      "going deeper",
+      "going deeper",
+      "07z kog",
+      "kog",
+      "kog",
+      "techcrunch"
+    ],
+    "summary": "# [techcrunch-startups] Kog is going deeper to squeeze more inference out of GPUs Kog is going deeper to squeeze more inference out of GPUs The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+  },
+  "92ecd22d39fc3624": {
+    "file": "corpus/devto/dev_to_probal_dhali_f7d15eac866a_-ai-coding-agents-can-pass-_6b6d999db3.md",
+    "source": "devto",
+    "title": "AI Coding Agents Can Pass Tests and Still Make the Wrong Decision",
+    "url": "https://dev.to/probal_dhali_f7d15eac866a/-ai-coding-agents-can-pass-tests-and-still-make-the-wrong-decision-3hf7",
+    "keywords": [
+      "discussing ai coding agents",
+      "ai coding agents",
+      "ai coding agents",
+      "wrong decision",
+      "wrong decision",
+      "still make",
+      "still make",
+      "several developers",
+      "pass tests",
+      "pass tests"
+    ],
+    "summary": "# AI Coding Agents Can Pass Tests and Still Make the Wrong Decision > Source: devto | Category: news | 2026-08-14T15:23:16Z A question I've been thinking about after discussing AI coding agents with several developers:   Is..."
+  },
+  "71335ad06cf4c298": {
+    "file": "corpus/devto/dev_to_ajidev_ai-is-making-programmers-stackless-engineering_a12bd82c63.md",
+    "source": "devto",
+    "title": "AI Is Making Programmers Stackless: Engineering Experience Is the New Moat",
+    "url": "https://dev.to/ajidev/ai-is-making-programmers-stackless-engineering-experience-is-the-new-moat-5g03",
+    "keywords": [
+      "good programmer meant knowing",
+      "stack really well",
+      "making programmers stackless",
+      "making programmers stackless",
+      "new moat",
+      "new moat",
+      "laravel ...",
+      "engineering experience",
+      "engineering experience",
+      "years"
+    ],
+    "summary": "# AI Is Making Programmers Stackless: Engineering Experience Is the New Moat For years, I thought being a good programmer meant knowing your stack really well. I was a Laravel..."
+  },
+  "274dc27bda625333": {
+    "file": "corpus/devto/dev_to_ail_akram_dcc5063c428734b_benchmarking-dflash-on-a-30_ab04e8b80d.md",
+    "source": "devto",
+    "title": "Benchmarking DFlash on a 30B Model: Why Tokens per Second Can Mislead",
+    "url": "https://dev.to/ail_akram_dcc5063c428734b/benchmarking-dflash-on-a-30b-model-why-tokens-per-second-can-mislead-4oel",
+    "keywords": [
+      "system architects deploying open",
+      "tokens per second",
+      "tokens per second",
+      "weights 30b",
+      "scale ...",
+      "ml engineers",
+      "llm devops",
+      "field guide",
+      "benchmarking dflash",
+      "benchmarking dflash"
+    ],
+    "summary": "# Benchmarking DFlash on a 30B Model: Why Tokens per Second Can Mislead > Source: devto | Category: news | 2026-08-14T15:23:16Z A field guide for ML engineers, LLM DevOps, and system architects deploying open-weights 30B-scale..."
+  },
+  "d71a31fcde698c0b": {
+    "file": "corpus/devto/dev_to_lexosi_a-line-of-documentation-was-acting-as-a-global_241b76e22a.md",
+    "source": "devto",
+    "title": "A Line of Documentation Was Acting as a Global Config Flag",
+    "url": "https://dev.to/lexosi/a-line-of-documentation-was-acting-as-a-global-config-flag-3635",
+    "keywords": [
+      "global config flag",
+      "global config flag",
+      "morning hunting",
+      "turned",
+      "spent",
+      "source",
+      "setting",
+      "reactions",
+      "news",
+      "line"
+    ],
+    "summary": "# A Line of Documentation Was Acting as a Global Config Flag I spent a morning hunting for a setting that did not exist. A while back I turned off Claude's..."
+  },
+  "7250350a8ac921ae": {
+    "file": "corpus/devto/dev_to_automate-archit_build-a-pan-aadhaar-redaction-tool-in_f3e73cb0ab.md",
+    "source": "devto",
+    "title": "Build a PAN & Aadhaar Redaction Tool in 63 Lines of Python",
+    "url": "https://dev.to/automate-archit/build-a-pan-aadhaar-redaction-tool-in-63-lines-of-python-50db",
+    "keywords": [
+      "340 employee onboarding pdfs",
+      "aadhaar redaction tool",
+      "aadhaar redaction tool",
+      "16z last month",
+      "client sent",
+      "63 lines",
+      "63 lines",
+      "source",
+      "reactions",
+      "python"
+    ],
+    "summary": "# Build a PAN & Aadhaar Redaction Tool in 63 Lines of Python > Source: devto | Category: news | 2026-08-14T15:23:16Z Last month a client sent me a folder of 340 employee onboarding PDFs and asked me to \"black out the..."
+  },
+  "60a58a0eb9121451": {
+    "file": "corpus/devto/dev_to_acel_lm-studio-on-windows-wsl2-for-development-the-se_c69c2258b1.md",
+    "source": "devto",
+    "title": "LM Studio on Windows, WSL2 for Development: The Setup Guide I Wish I Had",
+    "url": "https://dev.to/acel/lm-studio-on-windows-wsl2-for-development-the-setup-guide-i-wish-i-had-2km4",
+    "keywords": [
+      "local models ....",
+      "gemma event expecting",
+      "setup guide",
+      "setup guide",
+      "lm studio",
+      "lm studio",
+      "day experimenting",
+      "wsl2",
+      "wsl2",
+      "wish"
+    ],
+    "summary": "# LM Studio on Windows, WSL2 for Development: The Setup Guide I Wish I Had > Source: devto | Category: news | 2026-08-14T15:23:15Z I went to a Build with Gemma event expecting to spend the day experimenting with local models...."
+  },
+  "6761028a68166132": {
+    "file": "corpus/devto/dev_to_corpulent_your-coding-agent-probably-doesnt-need-a-me_683242a452.md",
+    "source": "devto",
+    "title": "Your Coding Agent Probably Doesn’t Need a Memory SaaS",
+    "url": "https://dev.to/corpulent/your-coding-agent-probably-doesnt-need-a-memory-saas-58ep",
+    "keywords": [
+      "kept seeing saas products",
+      "actually needed fit",
+      "coding agent probably",
+      "coding agent probably",
+      "memory saas",
+      "memory saas",
+      "agent memory",
+      "one ...",
+      "coding"
+    ],
+    "summary": "# Your Coding Agent Probably Doesn’t Need a Memory SaaS I kept seeing SaaS products for coding-agent memory. The continuity I actually needed fit in one..."
+  },
+  "91136fd0f3021acb": {
+    "file": "corpus/devto/dev_to_logical_bytes_the-difference-between-good-code-and-ba_e67dd299bc.md",
+    "source": "devto",
+    "title": "The Difference Between Good Code and Bad Code is 5 Minutes",
+    "url": "https://dev.to/logical_bytes/the-difference-between-good-code-and-bad-code-is-5-minutes-4a99",
+    "keywords": [
+      "building something new",
+      "kiss principle",
+      "good code",
+      "good code",
+      "bad code",
+      "bad code",
+      "5 minutes",
+      "5 minutes",
+      "source",
+      "simple"
+    ],
+    "summary": "# The Difference Between Good Code and Bad Code is 5 Minutes I'm a fan of the KISS principle. That applies when you're building something new, but..."
+  },
+  "6788ebc16c0da248": {
+    "file": "corpus/devto/dev_to_rhuturaj_takle_prometheus-and-grafana-metrics-monitor_881516642f.md",
+    "source": "devto",
+    "title": "Prometheus and Grafana: Metrics Monitoring and Dashboards",
+    "url": "https://dev.to/rhuturaj_takle/prometheus-and-grafana-metrics-monitoring-and-dashboards-38fa",
+    "keywords": [
+      "practical guide",
+      "metrics monitoring",
+      "metrics monitoring",
+      "metrics monitoring",
+      "prometheus ...",
+      "13z prometheus",
+      "prometheus",
+      "prometheus",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Prometheus and Grafana: Metrics Monitoring and Dashboards > Source: devto | Category: news | 2026-08-14T15:23:13Z Prometheus and Grafana: Metrics Monitoring and Dashboards   A practical guide to Prometheus..."
+  },
+  "a097c034ac86ff9a": {
+    "file": "corpus/devto/dev_to_renga154_i-redacted-my-username-from-a-screen-recordi_74b6eb22c9.md",
+    "source": "devto",
+    "title": "I redacted my username from a screen recording three times and missed it every time",
+    "url": "https://dev.to/renga154/i-redacted-my-username-from-a-screen-recording-three-times-and-missed-it-every-time-1gnd",
+    "keywords": [
+      "screen recording three times",
+      "screen recording three times",
+      "desktop ai agent",
+      "15z originally published",
+      "writing ...",
+      "every time",
+      "every time",
+      "username",
+      "username",
+      "source"
+    ],
+    "summary": "# I redacted my username from a screen recording three times and missed it every time I make a desktop AI agent. I recorded a demo of it writing..."
+  },
+  "d97f04580826049e": {
+    "file": "corpus/devto/dev_to_gurayta_dokuz-sanal-sunucu-uc-platform-bir-kota-duvar_d023d0ecf5.md",
+    "source": "devto",
+    "title": "Dokuz sanal sunucu, üç platform, bir kota duvarı: karakter videosu hattını kurmak (Bölüm 2)",
+    "url": "https://dev.to/gurayta/dokuz-sanal-sunucu-uc-platform-bir-kota-duvari-karakter-videosu-hattini-kurmak-bolum-2-30ma",
+    "keywords": [
+      "karakter videosu hattını kurmak",
+      "karakter videosu hattını kurmak",
+      "yazıdan sonra ...",
+      "dokuz sanal sunucu",
+      "dokuz sanal sunucu",
+      "bir kota duvarı",
+      "bir kota duvarı",
+      "üç platform",
+      "üç platform",
+      "bölüm 2"
+    ],
+    "summary": "# Dokuz sanal sunucu, üç platform, bir kota duvarı: karakter videosu hattını kurmak (Bölüm 2) > Source: devto | Category: news | 2026-08-14T15:23:15Z Birinci bölümde bir haber sitesinin yayın akışını ajana devrettiğimi yazmıştım."
+  },
+  "39ec03147848300b": {
+    "file": "corpus/ai-research/huggingface_co_blog_state-of-open-models-summer-2026_bc290ba394.md",
+    "source": "ai-research",
+    "title": "[hf-blog] State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "keywords": [
+      "summer 2026 observations",
+      "summer 2026 observations",
+      "summer 2026 observations",
+      "open models",
+      "open models",
+      "open models",
+      "04z state",
+      "2026",
+      "state",
+      "state"
+    ],
+    "summary": "# [hf-blog] State of Open Models: Summer 2026 Observations > Source: ai-research | Category: research | 2026-08-14T15:23:04Z State of Open Models: Summer 2026 Observations"
+  },
+  "af6d0c13114ac625": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-exploit-macos_f3d1727276.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+    "keywords": [
+      "public exploit code emerged",
+      "macos authentication bypass vulnerability",
+      "national cyber security centre",
+      "deploy monero miner",
+      "deploy monero miner",
+      "deploy monero miner",
+      "actively exploiting",
+      "security",
+      "security",
+      "warning"
+    ],
+    "summary": "# [bleeping-comp] Hackers exploit macOS Screen Sharing flaw to deploy Monero miner Hackers exploit macOS Screen Sharing flaw to deploy Monero miner The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged."
+  },
+  "873e331eaff8acbc": {
+    "file": "corpus/hackernews/kukuroo_cc_c20565a194.md",
+    "source": "hackernews",
+    "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "url": "https://kukuroo.cc/",
+    "keywords": [
+      "06z score",
+      "works",
+      "works",
+      "source",
+      "self",
+      "self",
+      "news",
+      "ios",
+      "ios",
+      "hackernews"
+    ],
+    "summary": "# Self-hosted web push Cloudflare Worker, works on iOS > Source: hackernews | Category: news | 2026-08-14T15:23:06Z Score: 3 | Comments: 1"
+  },
+  "cf67116d0a67da00": {
+    "file": "corpus/hackernews/huggingface_co_Qwen_Qwen3_8-27B-FP8_034c2462b0.md",
+    "source": "hackernews",
+    "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "keywords": [
+      "qwen 3",
+      "qwen 3",
+      "open weights",
+      "open weights",
+      "8 27b",
+      "8 27b",
+      "06z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Qwen 3.8 27B is out: open weights, best local dense model yet > Source: hackernews | Category: news | 2026-08-14T15:23:06Z Score: 30 | Comments: 5"
+  },
+  "3525a427648e9d36": {
+    "file": "corpus/hackernews/huggingface_co_unsloth_Qwen3_8-27B-GGUF_bb6e58f548.md",
+    "source": "hackernews",
+    "title": "Unsloth Qwen3.8-27B GGUF files",
+    "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "keywords": [
+      "27b gguf files",
+      "27b gguf files",
+      "unsloth qwen3",
+      "unsloth qwen3",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Unsloth Qwen3.8-27B GGUF files > Source: hackernews | Category: news | 2026-08-14T15:23:10Z Score: 8 | Comments: 0"
+  },
+  "044068f3bf0903a8": {
+    "file": "corpus/hackernews/www_mixedbread_com_blog_toast-1_b3fb756b54.md",
+    "source": "hackernews",
+    "title": "Introducing Toast 1",
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "keywords": [
+      "introducing toast 1",
+      "introducing toast 1",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Introducing Toast 1 > Source: hackernews | Category: news | 2026-08-14T15:23:06Z Score: 4 | Comments: 0"
+  },
+  "9ba187c7134339d8": {
+    "file": "corpus/hackernews/weightythoughts_com_p_when-genius-failsthe-intellectual_0d4bc1667c.md",
+    "source": "hackernews",
+    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+    "keywords": [
+      "intellectual arrogance",
+      "intellectual arrogance",
+      "genius fails",
+      "genius fails",
+      "ai labs",
+      "ai labs",
+      "04z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# When Genius Fails: The Intellectual Arrogance of the AI Labs > Source: hackernews | Category: news | 2026-08-14T15:23:04Z Score: 25 | Comments: 3"
+  },
+  "11388cfdae5b1ca6": {
+    "file": "corpus/hackernews/lxe_github_io_everywebsite_9e108b0d60.md",
+    "source": "hackernews",
+    "title": "Every Fucking Website",
+    "url": "https://lxe.github.io/everywebsite/",
+    "keywords": [
+      "every fucking website",
+      "every fucking website",
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Every Fucking Website > Source: hackernews | Category: news | 2026-08-14T15:23:03Z Score: 179 | Comments: 95"
+  },
+  "000d66a9e63f8a85": {
+    "file": "corpus/hackernews/huggingface_co_collections_Qwen_qwen38_4d95d8d81a.md",
+    "source": "hackernews",
+    "title": "Qwen3.8-27B is now available on Hugging Face",
+    "url": "https://huggingface.co/collections/Qwen/qwen38",
+    "keywords": [
+      "hugging face",
+      "hugging face",
+      "12z score",
+      "source",
+      "qwen3",
+      "qwen3",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Qwen3.8-27B is now available on Hugging Face > Source: hackernews | Category: news | 2026-08-14T15:23:12Z Score: 10 | Comments: 2"
+  },
+  "1b5ce53c51016860": {
+    "file": "corpus/hackernews/www_indiatoday_in_world_story_us-loses-one-fourth-mq-9-reape_3123eab30c.md",
+    "source": "hackernews",
+    "title": "US loses one-fourth of drone fleet as Iran war drains its arsenal",
+    "url": "https://www.indiatoday.in/world/story/us-loses-one-fourth-mq-9-reaper-drones-near-strait-of-hormuz-in-iran-war-2970823-2026-08-14",
+    "keywords": [
+      "us loses one",
+      "us loses one",
+      "iran war drains",
+      "iran war drains",
+      "drone fleet",
+      "drone fleet",
+      "09z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# US loses one-fourth of drone fleet as Iran war drains its arsenal > Source: hackernews | Category: news | 2026-08-14T15:23:09Z Score: 11 | Comments: 2"
+  },
+  "1d109e5d2480128b": {
+    "file": "corpus/hackernews/sniffnet_app_news_github-secure-open-source-fund_8535682abb.md",
+    "source": "hackernews",
+    "title": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+    "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
+    "keywords": [
+      "learned securing sniffnet",
+      "learned securing sniffnet",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund > Source: hackernews | Category: news | 2026-08-14T15:23:10Z Score: 4 | Comments: 0"
+  },
+  "2999e2476acde71c": {
+    "file": "corpus/hackernews/shubhamjain_co_2026_08_13_demographic-dividend-overpopulatio_1e96392dc0.md",
+    "source": "hackernews",
+    "title": "Demographic Dividend, my ass; overpopulation sucks",
+    "url": "https://shubhamjain.co/2026/08/13/demographic-dividend-overpopulation-sucks/",
+    "keywords": [
+      "overpopulation sucks",
+      "overpopulation sucks",
+      "demographic dividend",
+      "demographic dividend",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Demographic Dividend, my ass; overpopulation sucks > Source: hackernews | Category: news | 2026-08-14T15:23:12Z Score: 4 | Comments: 0"
+  },
+  "ea9796029f8c0078": {
+    "file": "corpus/hackernews/heyjonny_dev_posts_rss-to-eink-newspaper_bae71eb952.md",
+    "source": "hackernews",
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "keywords": [
+      "stop reading",
+      "stop reading",
+      "rss feeds",
+      "rss feeds",
+      "ink newspaper",
+      "ink newspaper",
+      "05z score",
+      "turned",
+      "turned",
+      "source"
+    ],
+    "summary": "# I turned my RSS feeds into an e-ink newspaper to stop reading on my phone > Source: hackernews | Category: news | 2026-08-14T15:23:05Z Score: 12 | Comments: 5"
+  },
+  "87e4ab06de43cf78": {
+    "file": "corpus/hackernews/apimart_ai_register_aff_yScTCM_d0089b65e8.md",
+    "source": "hackernews",
+    "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+    "url": "https://apimart.ai/register?aff=yScTCM",
+    "keywords": [
+      "discounted ai api aggregator",
+      "discounted ai api aggregator",
+      "sora 2",
+      "sora 2",
+      "show hn",
+      "show hn",
+      "06z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2 > Source: hackernews | Category: news | 2026-08-14T15:23:06Z Score: 5 | Comments: 1"
+  },
+  "0607a26ef754fce8": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49299333_a1fa6f338a.md",
+    "source": "hackernews",
+    "title": "Ask HN: Should hard-tech founders join a problem or technology-first PhD lab?",
+    "url": "https://news.ycombinator.com/item?id=49299333",
+    "keywords": [
+      "engineering undergrad considering pursuing",
+      "g ., like yet",
+      "work since deep tech",
+      "novel science without",
+      "-- industrial decarbonization",
+      "typical academic lab",
+      "commercialization happens largely",
+      "mining &# x2f",
+      "tech founders join",
+      "tech founders join"
+    ],
+    "summary": "# Ask HN: Should hard-tech founders join a problem or technology-first PhD lab? Instead, they argue that most hard-tech companies are only founded because somebody made a scientific breakthrough and realized afterwards that there might be a commercial application. Indeed, the VC firm Pillar VC says that most deep-tech companies they know were &quot;technology-first.&quot;<p>With that in mind, does anybody have any advice on which type of PhD lab to join?"
+  },
+  "332aace171622f02": {
+    "file": "corpus/hackernews/www_chiply_dev_post-elisp-macros-are-beautiful_b819a48f3d.md",
+    "source": "hackernews",
+    "title": "Gödel, Escher, Elisp: The Beauty of Macros",
+    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "keywords": [
+      "07z score",
+      "source",
+      "news",
+      "macros",
+      "macros",
+      "hackernews",
+      "gödel",
+      "gödel",
+      "escher",
+      "escher"
+    ],
+    "summary": "# Gödel, Escher, Elisp: The Beauty of Macros > Source: hackernews | Category: news | 2026-08-14T15:23:07Z Score: 9 | Comments: 0"
+  },
+  "f4496f9f88f1ae7a": {
+    "file": "corpus/hackernews/run_cosmograph_app_public_ca9fd1ad-fe83-4238-8b69-b707c633ae_93af4f37b4.md",
+    "source": "hackernews",
+    "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "keywords": [
+      "interconnected 3d graph",
+      "interconnected 3d graph",
+      "ml models",
+      "ml models",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI Model Atlas – visualizing populations of ML models as interconnected 3D graph > Source: hackernews | Category: news | 2026-08-14T15:23:07Z Score: 6 | Comments: 0"
+  },
+  "8696ed3b917e8438": {
+    "file": "corpus/hackernews/blog_plover_com_2026_08_02_aed285ba05.md",
+    "source": "hackernews",
+    "title": "Seven books I keep close because I love them",
+    "url": "https://blog.plover.com/2026/08/02/",
+    "keywords": [
+      "seven books",
+      "seven books",
+      "keep close",
+      "keep close",
+      "05z score",
+      "source",
+      "news",
+      "love",
+      "love",
+      "hackernews"
+    ],
+    "summary": "# Seven books I keep close because I love them > Source: hackernews | Category: news | 2026-08-14T15:23:05Z Score: 5 | Comments: 0"
+  },
+  "d56c6c2e8573e2f3": {
+    "file": "corpus/hackernews/twitter_com_alibaba_qwen_status_2088280182356611304_b1de594c18.md",
+    "source": "hackernews",
+    "title": "Qwen3.8-27B",
+    "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+    "keywords": [
+      "04z score",
+      "source",
+      "qwen3",
+      "qwen3",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Qwen3.8-27B > Source: hackernews | Category: news | 2026-08-14T15:23:04Z Score: 65 | Comments: 21"
+  },
+  "d408dfc75fb6d61f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-cdnjs-migration_utm_ca_3c59f56862.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "new architecture uses workers",
+      "preserving package contents",
+      "open source cdn",
+      "developer platform cloudflare",
+      "developer platform",
+      "developer platform",
+      "developer platform",
+      "sri hashes",
+      "migrated cdnjs",
+      "leela kumili"
+    ],
+    "summary": "# [infoq] Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform The new architecture uses Workers, R2, KV, Workflows, Queues, Durable Objects and Containers, consolidating publishing and delivery infrastructure while preserving package contents, URLs and SRI hashes at a scale of 9 billion requests per day."
+  },
+  "6acf48c3380913c5": {
+    "file": "corpus/sales/www_saastr_com_klaviyos-ceo-on-building-at-1-5b-with-agents-_1472e28b7e.md",
+    "source": "sales",
+    "title": "[saastr] Klaviyo’s CEO on Building at $1.5B With Agents: “Dark Factory,” Composer, and Why Every Single Employee Had to Hit L3 by June",
+    "url": "https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/",
+    "keywords": [
+      "cart ... continue reading",
+      "ceo andrew bialecki came",
+      "every single employee",
+      "every single employee",
+      "every single employee",
+      "actual build system",
+      "many got opened",
+      "06z klaviyo ’",
+      "june klaviyo co",
+      "klaviyo ’"
+    ],
+    "summary": "# [saastr] Klaviyo’s CEO on Building at $1.5B With Agents: “Dark Factory,” Composer, and Why Every Single Employee Had to Hit L3 by June Klaviyo’s CEO on Building at $1.5B With Agents: “Dark Factory,” Composer, and Why Every Single Employee Had to Hit L3 by June Klaviyo won B2B for e-commerce with one insight: instead of showing merchants how many emails they sent and how many got opened, connect to the cart...   Continue Reading"
   }
 }
