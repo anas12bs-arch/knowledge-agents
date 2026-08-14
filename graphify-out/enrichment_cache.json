@@ -411383,5 +411383,191 @@
       "20vc x saastr"
     ],
     "summary": "# [saastr] Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr This week on 20VC x SaaStr with Harry Stebbings, Jason Lemkin and Rory O&#8217;Driscoll, we started somewhere other than OpenAI and Anthropic for once: Canva cutting its 2026 growth forecast by a third as AI serving...   Continue Reading"
+  },
+  "e1233352fde49825": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_16_d254039241.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.16 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.16",
+    "keywords": [
+      "introduce execution context management",
+      "started ### bug fixes",
+      "changed ### features",
+      "every emitted span",
+      "add frontend guides",
+      "failed ### documentation",
+      "ui ## contributors",
+      "crewai — 1",
+      "27z ## crewaiinc",
+      "crewai 1"
+    ],
+    "summary": "### Features - Introduce execution context management with UUID support - Record what kind of exception ended a flow - Record when a trace batch is shared with AMP - Count deployments from any origin and record where they started ### Bug Fixes - Record the running release on every emitted span - Fix MySQL search table name validation - Stop a failed turn from marking the next one as failed ### Documentation - Add Frontend guides for CopilotKit and AG-UI"
+  },
+  "2f3507b961bb6f02": {
+    "file": "corpus/devto/dev_to_raghavsharma_the-first-answer-is-a-starting-position-_d410be84da.md",
+    "source": "devto",
+    "title": "The First Answer Is a Starting Position, Not a Verdict",
+    "url": "https://dev.to/raghavsharma_/the-first-answer-is-a-starting-position-not-a-verdict-5fmb",
+    "keywords": [
+      "better second move",
+      "worse one",
+      "starting position",
+      "starting position",
+      "people reach",
+      "first answer",
+      "first answer",
+      "answer",
+      "verdict",
+      "verdict"
+    ],
+    "summary": "# The First Answer Is a Starting Position, Not a Verdict You read the answer, decide it is about 80% right, and fix the rest yourself. There is a better second move, and also a worse one that most people reach for."
+  },
+  "e5e5ef927004551e": {
+    "file": "corpus/devto/dev_to_muhammad_anasbabar_31256_give-your-coding-agent-proje_d0e084444d.md",
+    "source": "devto",
+    "title": "Give your coding agent project memory without paying for it every message",
+    "url": "https://dev.to/muhammad_anasbabar_31256/give-your-coding-agent-project-memory-without-paying-for-it-every-message-4nfj",
+    "keywords": [
+      "persistent instructions file —...",
+      "every message",
+      "every message",
+      "use",
+      "source",
+      "reactions",
+      "news",
+      "give",
+      "give",
+      "devto"
+    ],
+    "summary": "# Give your coding agent project memory without paying for it every message > Source: devto | Category: news | 2026-08-14T00:46:43Z If you use an agentic coding tool — Claude Code, or anything with a persistent instructions file —..."
+  },
+  "3f0b924a61e69483": {
+    "file": "corpus/devto/dev_to_technoblogger14o3_chatgpt-desktop-codex-desktop-for-l_b2725b5a79.md",
+    "source": "devto",
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "url": "https://dev.to/technoblogger14o3/chatgpt-desktop-codex-desktop-for-linux-430l",
+    "keywords": [
+      "41z ever found",
+      "fingers poised",
+      "codex desktop",
+      "codex desktop",
+      "chatgpt desktop",
+      "chatgpt desktop",
+      "terminal",
+      "source",
+      "sitting",
+      "reactions"
+    ],
+    "summary": "# ChatGPT Desktop (Codex Desktop) for Linux > Source: devto | Category: news | 2026-08-14T00:46:41Z Ever found yourself sitting in front of your terminal, fingers poised over the keyboard, and..."
+  },
+  "4460bd57f9c415ce": {
+    "file": "corpus/devto/dev_to_datacpp_8185_weekly-game-changer-models-burned-me-twi_0b66b500c8.md",
+    "source": "devto",
+    "title": "Weekly 'Game-Changer' Models Burned Me Twice. Now They Earn Production Access Through Gates.",
+    "url": "https://dev.to/datacpp_8185/weekly-game-changer-models-burned-me-twice-now-they-earn-production-access-through-gates-30c6",
+    "keywords": [
+      "newest model release",
+      "earn production access",
+      "earn production access",
+      "43z every week",
+      "work forever",
+      "screenshots ...",
+      "models burned",
+      "models burned",
+      "feed tells",
+      "weekly"
+    ],
+    "summary": "# Weekly 'Game-Changer' Models Burned Me Twice. Now They Earn Production Access Through Gates. Every week my feed tells me the newest model release will change how I work forever."
+  },
+  "370ae5b7af0fbe3b": {
+    "file": "corpus/devto/dev_to_gigaelk_japan-invented-flow-then-refused-to-use-it-13_099afe9cdd.md",
+    "source": "devto",
+    "title": "Japan invented flow, then refused to use it.",
+    "url": "https://dev.to/gigaelk/japan-invented-flow-then-refused-to-use-it-137k",
+    "keywords": [
+      "japan invented flow",
+      "japan invented flow",
+      "factory floor long",
+      "user stories",
+      "taiichi ...",
+      "use",
+      "use",
+      "swimlanes",
+      "sprints",
+      "source"
+    ],
+    "summary": "# Japan invented flow, then refused to use it. > Source: devto | Category: news | 2026-08-14T00:46:43Z The Genesis on the Factory Floor   Long before user stories, sprints and swimlanes, Taiichi..."
+  },
+  "47898302ef7f9242": {
+    "file": "corpus/hackernews/blog_dundns_eu_posts_ddr-encrypted-dns-discovery_b0188f0928.md",
+    "source": "hackernews",
+    "title": "How a device finds encrypted DNS by itself",
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "keywords": [
+      "device finds encrypted dns",
+      "device finds encrypted dns",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How a device finds encrypted DNS by itself > Source: hackernews | Category: news | 2026-08-14T00:46:35Z Score: 9 | Comments: 3"
+  },
+  "34637ec099e7e3d4": {
+    "file": "corpus/hackernews/www_electrospaces_net_2013_04_how-obamas-blackberry-got-secu_93e4f42f9c.md",
+    "source": "hackernews",
+    "title": "How Obama's BlackBerry got secured (2023)",
+    "url": "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html",
+    "keywords": [
+      "blackberry got secured",
+      "blackberry got secured",
+      "39z score",
+      "source",
+      "obama",
+      "obama",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How Obama's BlackBerry got secured (2023) > Source: hackernews | Category: news | 2026-08-14T00:46:39Z Score: 4 | Comments: 0"
+  },
+  "9607b25b64fceb96": {
+    "file": "corpus/hackernews/sparrowmap_com_3a108ac506.md",
+    "source": "hackernews",
+    "title": "SparrowMap – Cameras that watch government vehicles",
+    "url": "https://sparrowmap.com/",
+    "keywords": [
+      "watch government vehicles",
+      "watch government vehicles",
+      "sparrowmap – cameras",
+      "sparrowmap – cameras",
+      "36z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# SparrowMap – Cameras that watch government vehicles > Source: hackernews | Category: news | 2026-08-14T00:46:36Z Score: 5 | Comments: 0"
+  },
+  "f0d0ed3391e7a48e": {
+    "file": "corpus/hackernews/atproto_com_blog_introducing-bluesky-protocol-services_ed3ad54a47.md",
+    "source": "hackernews",
+    "title": "Bluesky Protocol Services",
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "keywords": [
+      "bluesky protocol services",
+      "bluesky protocol services",
+      "33z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bluesky Protocol Services > Source: hackernews | Category: news | 2026-08-14T00:46:33Z Score: 29 | Comments: 0"
   }
 }
