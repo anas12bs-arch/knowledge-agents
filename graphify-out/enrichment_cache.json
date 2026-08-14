@@ -416039,5 +416039,326 @@
       "hackernews"
     ],
     "summary": "# A Contract-Grade Verifier for LLM-Generated GPU Kernels > Source: hackernews | Category: news | 2026-08-14T18:02:22Z Score: 4 | Comments: 0"
+  },
+  "527ad125a757f45c": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-cor_1eb89354ef.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-core==1.5.5 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5",
+    "keywords": [
+      "zero size (# 39367",
+      "merging chunks (# 39535",
+      "list values (# 39588",
+      "explicit dep (# 39612",
+      "context manager (# 39616",
+      "async path (# 39576",
+      "core ): raise valueerror",
+      "core ): add httpx",
+      "core ): preserve non",
+      "5 changes since langchain"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-14T19:01:00Z Changes since langchain-core==1.5.4 release(core): 1.5.5 (#39655) fix(core): make abatch_iterate consistent with batch_iterate for None and zero size (#39367) fix(core): respect pydantic aliases when validating tool inputs (#39572) fix(core): issues in merging chunks (#39535) fix(core): handle v1 base model validation in async path (#39576) fix(core): handle tool descriptions for infer_schema=False (#39573) fix(core): clear u"
+  },
+  "f676d4568860ec43": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_14_trump-wants-the-doj-to-go-after-_1676f0c2bb.md",
+    "source": "legal",
+    "title": "[techdirt] Trump Wants The DOJ To Go After Olympian David Hearn Again In Reflecting Pool Vandalism Case",
+    "url": "https://www.techdirt.com/2026/08/14/trump-wants-the-doj-to-go-after-olympian-david-hearn-again-in-reflecting-pool-vandalism-case/",
+    "keywords": [
+      "reflecting pool vandalism case",
+      "reflecting pool vandalism case",
+      "reflecting pool vandalism case",
+      "everyone else &# 8217",
+      "lincoln reflecting pool",
+      "taking sole credit",
+      "olympian david hearn",
+      "olympian david hearn",
+      "olympian david hearn",
+      "[&# 8230 ;]"
+    ],
+    "summary": "# [techdirt] Trump Wants The DOJ To Go After Olympian David Hearn Again In Reflecting Pool Vandalism Case Trump Wants The DOJ To Go After Olympian David Hearn Again In Reflecting Pool Vandalism Case Trump&#8217;s cronies/donors &#8212; who were paid millions to do a job they&#8217;d never done before &#8212; failed to bring the Lincoln Reflecting Pool up to spec by July 4th, preventing Trump from taking sole credit for everyone else&#8217;s hard work while turning the nation&#8217;s [&#8230;]"
+  },
+  "ca5361372db8d956": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_14_daily-deal-the-ultimate-unity-ga_b313a75491.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: The Ultimate Unity Game Development Bundle",
+    "url": "https://www.techdirt.com/2026/08/14/daily-deal-the-ultimate-unity-game-development-bundle-3/",
+    "keywords": [
+      "video training designed",
+      "platform deployment training",
+      "master player physics",
+      "[&# 8230 ;]",
+      "15z daily deal",
+      "daily deal",
+      "daily deal",
+      "unity engine",
+      "level animations",
+      "dive deep"
+    ],
+    "summary": "# [techdirt] Daily Deal: The Ultimate Unity Game Development Bundle The Ultimate Unity Game Development Bundle has 44+ hourse of video training designed for aspiring developers. With multi-platform deployment training, it&#8217;s everything you need to kickstart a portfolio."
+  },
+  "0b75345f97d6e00e": {
+    "file": "corpus/devto/dev_to_booyaka101_two-npm-worms-shipped-with-valid-provenanc_f93d5c7ea6.md",
+    "source": "devto",
+    "title": "Two npm worms shipped with valid provenance this year",
+    "url": "https://dev.to/booyaka101/two-npm-worms-shipped-with-valid-provenance-this-year-22io",
+    "keywords": [
+      "two npm worms shipped",
+      "two npm worms shipped",
+      "npm meant something stronger",
+      "green provenance check",
+      "valid provenance",
+      "valid provenance",
+      "year believing",
+      "year",
+      "year",
+      "spent"
+    ],
+    "summary": "# Two npm worms shipped with valid provenance this year > Source: devto | Category: news | 2026-08-14T19:00:23Z I spent most of this year believing a green provenance check on npm meant something stronger than it..."
+  },
+  "247002e855079569": {
+    "file": "corpus/devto/dev_to_rinava_nobody-audits-their-openai-invoice-2n5i_e1ed162dd2.md",
+    "source": "devto",
+    "title": "Nobody audits their OpenAI invoice",
+    "url": "https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i",
+    "keywords": [
+      "two numbers",
+      "openai invoice",
+      "openai invoice",
+      "nobody audits",
+      "nobody audits",
+      "last month",
+      "spend",
+      "source",
+      "reactions",
+      "production"
+    ],
+    "summary": "# Nobody audits their OpenAI invoice > Source: devto | Category: news | 2026-08-14T19:00:22Z Every team running LLMs in production has two numbers for last month's spend: the one in their..."
+  },
+  "a8ed0d4c18beff87": {
+    "file": "corpus/devto/dev_to_asynchronope_from-xtwitter-bookmarks-to-a-searchable-_823cc9fc28.md",
+    "source": "devto",
+    "title": "From X/Twitter Bookmarks to a Searchable Static Site",
+    "url": "https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd",
+    "keywords": [
+      "searchable static site",
+      "searchable static site",
+      "twitter bookmarks",
+      "twitter bookmarks",
+      "personal archive",
+      "feel like",
+      "x bookmarks",
+      "wanted"
+    ],
+    "summary": "# From X/Twitter Bookmarks to a Searchable Static Site I wanted my X bookmarks to feel like a personal archive. The saved posts lived inside one account,..."
+  },
+  "9337f2d177f9c537": {
+    "file": "corpus/devto/dev_to_gde_dev-logpython-create-short-videos-from-photos-and_e75e5fb572.md",
+    "source": "devto",
+    "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+    "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+    "keywords": [
+      "dev log ][ python",
+      "dev log ][ python",
+      "create short videos",
+      "create short videos",
+      "gemini api ...",
+      "gemini 3",
+      "gemini 3",
+      "new page",
+      "22z preface",
+      "7 flash"
+    ],
+    "summary": "# [Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft Preface:   It all started with a misunderstanding. I noticed a new page in the Gemini API..."
+  },
+  "44e3bb1c00dbbcc7": {
+    "file": "corpus/devto/dev_to_j3ffjessie_interviewing-doesnt-have-to-be-scary-pract_bf9534eb49.md",
+    "source": "devto",
+    "title": "Interviewing doesn't have to be scary. Practice just got easier!!",
+    "url": "https://dev.to/j3ffjessie/interviewing-doesnt-have-to-be-scary-practice-just-got-easier-3h4g",
+    "keywords": [
+      "gum per year",
+      "got easier !!",
+      "got easier !!",
+      "discord bot",
+      "source",
+      "scary",
+      "scary",
+      "reactions",
+      "practice",
+      "practice"
+    ],
+    "summary": "# Interviewing doesn't have to be scary. > Source: devto | Category: news | 2026-08-14T19:00:22Z AI Voice interview feature for Discord Bot for the cost of a pack of gum per year."
+  },
+  "0e0766aa3ff8d247": {
+    "file": "corpus/devto/dev_to_ofri-peretz_your-token-is-not-safer-in-a-cookie-it-is_28832ef533.md",
+    "source": "devto",
+    "title": "Your Token Is Not Safer in a Cookie. It Is Safer From JavaScript.",
+    "url": "https://dev.to/ofri-peretz/your-token-is-not-safer-in-a-cookie-it-is-safer-from-javascript-5e45",
+    "keywords": [
+      "one property decides whether",
+      "xss bug reads",
+      "wrong axis",
+      "session —",
+      "cookies argument",
+      "versus",
+      "token",
+      "token",
+      "source",
+      "safer"
+    ],
+    "summary": "# Your Token Is Not Safer in a Cookie. It Is Safer From JavaScript. One property decides whether an XSS bug reads your session — and it is not the container."
+  },
+  "67efa40719774bd2": {
+    "file": "corpus/devto/dev_to_reporails_opus-5-how-to-fix-verbose-output-4amn_5087069ad9.md",
+    "source": "devto",
+    "title": "Opus 5: How to Fix Verbose Output",
+    "url": "https://dev.to/reporails/opus-5-how-to-fix-verbose-output-4amn",
+    "keywords": [
+      "fix verbose output",
+      "fix verbose output",
+      "opus 5",
+      "opus 5",
+      "opus 5",
+      "family ...",
+      "extremely eager",
+      "uncle",
+      "talk",
+      "source"
+    ],
+    "summary": "# Opus 5: How to Fix Verbose Output > Source: devto | Category: news | 2026-08-14T19:00:22Z You might have noticed that Opus 5 is extremely eager to talk."
+  },
+  "6db2f6c73419f897": {
+    "file": "corpus/devto/dev_to_david_essien_rate-limiting-isnt-one-layer-what-logicv_51277d523f.md",
+    "source": "devto",
+    "title": "Rate Limiting Isn't One Layer: What LogicVisor and Titan Actually Do Differently",
+    "url": "https://dev.to/david_essien/rate-limiting-isnt-one-layer-what-logicvisor-and-titan-actually-do-differently-3kim",
+    "keywords": [
+      "sounds like one task",
+      "actually three separate layers",
+      "add rate limiting",
+      "rate limiting",
+      "rate limiting",
+      "titan actually",
+      "titan actually",
+      "one layer",
+      "one layer",
+      "source"
+    ],
+    "summary": "# Rate Limiting Isn't One Layer: What LogicVisor and Titan Actually Do Differently \"Add rate limiting\" sounds like one task. It's actually three separate layers, each defending against..."
+  },
+  "0db4c41733becbf9": {
+    "file": "corpus/security/www_darkreading_com_vulnerabilities-threats_ai-driven-bug-ts_f9fa1931bd.md",
+    "source": "security",
+    "title": "[dark-reading] Amid AI-Driven Bug Tsunami, NIST Looks to…AI",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+    "keywords": [
+      "ask whether ai could",
+      "vulnerability volumes continue",
+      "driven bug tsunami",
+      "driven bug tsunami",
+      "driven bug tsunami",
+      "… ai driven",
+      "19z amid ai",
+      "… ai",
+      "… ai",
+      "amid ai"
+    ],
+    "summary": "# [dark-reading] Amid AI-Driven Bug Tsunami, NIST Looks to…AI Amid AI-Driven Bug Tsunami, NIST Looks to…AI Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
+  },
+  "dcd5dd4e215c42bc": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-arrested-over_f425d96c2c.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers arrested over €30M bank fraud exploiting service provider flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+    "keywords": [
+      "20z hackers arrested",
+      "hackers arrested",
+      "hackers arrested",
+      "withdraw funds",
+      "three others",
+      "service provider",
+      "commerzbank customers",
+      "bank accounts",
+      "arrested",
+      "vulnerability"
+    ],
+    "summary": "# [bleeping-comp] Hackers arrested over €30M bank fraud exploiting service provider flaw Hackers arrested over €30M bank fraud exploiting service provider flaw Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts."
+  },
+  "091b10518e93e3b0": {
+    "file": "corpus/hackernews/techcrunch_com_2026_08_14_apple-proposes-to-take-a-15-cut-of_c9bed3a6ad.md",
+    "source": "hackernews",
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+    "keywords": [
+      "purchases made outside",
+      "purchases made outside",
+      "apple proposes",
+      "apple proposes",
+      "app store",
+      "app store",
+      "19z score",
+      "take",
+      "take",
+      "source"
+    ],
+    "summary": "# Apple proposes to take a 15% cut of purchases made outside the App Store > Source: hackernews | Category: news | 2026-08-14T19:00:19Z Score: 15 | Comments: 8"
+  },
+  "5e5c580ba50fbbdd": {
+    "file": "corpus/hackernews/sandbox_bio_training_embed_6d6da14835.md",
+    "source": "hackernews",
+    "title": "Show HN: Embed a real Linux terminal on your website",
+    "url": "https://sandbox.bio/training/embed",
+    "keywords": [
+      "real linux terminal",
+      "real linux terminal",
+      "show hn",
+      "show hn",
+      "16z score",
+      "website",
+      "website",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: Embed a real Linux terminal on your website > Source: hackernews | Category: news | 2026-08-14T19:00:16Z Score: 4 | Comments: 0"
+  },
+  "56628c104f8962c6": {
+    "file": "corpus/hackernews/turbopuffer_com_blog_control-plane_8d5b5dd74d.md",
+    "source": "hackernews",
+    "title": "How to ship a database every day",
+    "url": "https://turbopuffer.com/blog/control-plane",
+    "keywords": [
+      "database every day",
+      "database every day",
+      "19z score",
+      "source",
+      "ship",
+      "ship",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to ship a database every day > Source: hackernews | Category: news | 2026-08-14T19:00:19Z Score: 9 | Comments: 0"
+  },
+  "65aa63d2a43a280d": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_49302719_f871c3cd17.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (August 2026))",
+    "url": "https://news.ycombinator.com/item?id=49302719",
+    "keywords": [
+      "8 yrs exp typical",
+      "still hold humans responsible",
+      "project oxygen &# x2f",
+      "luu &# x2f ;</",
+      "minimal bs .< p",
+      "3 days &# x2f",
+      "senior em levels building",
+      "trust &# x2f",
+      "node &# x2f",
+      "kafka &# x2f"
+    ],
+    "summary": "DAT | Engineering Manager, Senior Engineering Manager | Seattle, Portland, Denver | Hybrid 2-3 days&#x2F;week | Full-time | $192k - $261k<p>I&#x27;m hiring for both EM and Senior EM levels building the automation layer for freight pricing, matching, onboarding, and settlement. Lead 1-3 teams (FTE + contractors), own delivery end-to-end, ~8 yrs exp typical. I expect all managers to be technical and be able to help unblock the team, though your day-to-day wont be in the code.<p>Interesting problem"
   }
 }
