@@ -412681,5 +412681,362 @@
       "category"
     ],
     "summary": "# Ruby 4.0 Universal RCE Deserialization Gadget Chain > Source: hackernews | Category: news | 2026-08-14T07:53:31Z Score: 5 | Comments: 0"
+  },
+  "7286ab1de6d67da4": {
+    "file": "corpus/devto/dev_to_leadace_building-an-outbound-sales-agent-as-a-claude-_43580cc117.md",
+    "source": "devto",
+    "title": "Building an outbound sales agent as a Claude Code plugin (and open-sourcing it)",
+    "url": "https://dev.to/leadace/building-an-outbound-sales-agent-as-a-claude-code-plugin-and-open-sourcing-it-17ae",
+    "keywords": [
+      "small software company",
+      "outbound sales agent",
+      "outbound sales agent",
+      "cold outbound ...",
+      "claude code plugin",
+      "claude code plugin",
+      "tokyo",
+      "sourcing",
+      "sourcing",
+      "source"
+    ],
+    "summary": "# Building an outbound sales agent as a Claude Code plugin (and open-sourcing it) I run a small software company in Tokyo. I am an engineer, not a salesperson."
+  },
+  "09660f73564248f6": {
+    "file": "corpus/devto/dev_to_phero20_concurrent-resource-scheduler-v123-sharded-pr_d42ed6baff.md",
+    "source": "devto",
+    "title": "Concurrent Resource Scheduler v1.2.3: Sharded Priority Heaps Under Concurrent Load",
+    "url": "https://dev.to/phero20/concurrent-resource-scheduler-v123-sharded-priority-heaps-under-concurrent-load-bpk",
+    "keywords": [
+      "release validation actually show",
+      "concurrent resource scheduler v1",
+      "concurrent resource scheduler v1",
+      "concurrent resource scheduler v1",
+      "uses sharded priority heaps",
+      "sharded priority heaps",
+      "sharded priority heaps",
+      "resource lifecycle work",
+      "latest go benchmarks",
+      "deep technical look"
+    ],
+    "summary": "# Concurrent Resource Scheduler v1.2.3: Sharded Priority Heaps Under Concurrent Load > Source: devto | Category: news | 2026-08-14T08:53:48Z A deep technical look at Concurrent Resource Scheduler v1.2.3 — why it uses sharded priority heaps, how acquisition and resource lifecycle work, and what the latest Go benchmarks and release validation actually show."
+  },
+  "1687492660014269": {
+    "file": "corpus/devto/dev_to_merlonix_we-health-checked-86-public-mcp-servers-not-_661c0bd889.md",
+    "source": "devto",
+    "title": "We Health-Checked 86 Public MCP Servers. Not One Uses the Legacy Transport.",
+    "url": "https://dev.to/merlonix/we-health-checked-86-public-mcp-servers-not-one-uses-the-legacy-transport-74n",
+    "keywords": [
+      "negotiated protocol revisions",
+      "46z transport split",
+      "legacy transport",
+      "legacy transport",
+      "one uses",
+      "one uses",
+      "handshake latency",
+      "auth rates",
+      "tool",
+      "source"
+    ],
+    "summary": "# We Health-Checked 86 Public MCP Servers. Not One Uses the Legacy Transport. Transport split, auth rates, negotiated protocol revisions, handshake latency and tool-surface size across every reachable public remote MCP server in our directory."
+  },
+  "7e89aab0f5332139": {
+    "file": "corpus/devto/dev_to_david_golverdingen_b133a5_we-replaced-jira-with-markd_eee7a4326a.md",
+    "source": "devto",
+    "title": "We Replaced Jira With Markdown Files",
+    "url": "https://dev.to/david_golverdingen_b133a5/we-replaced-jira-with-markdown-files-3065",
+    "keywords": [
+      "costs nothing per seat",
+      "jira licence nobody enjoyed",
+      "seven months later",
+      "moved every ticket",
+      "four tech stacks",
+      "47z one team",
+      "markdown files next",
+      "markdown files",
+      "markdown files",
+      "replaced jira"
+    ],
+    "summary": "One team, ten repositories, four tech stacks, and a Jira licence nobody enjoyed. We moved every ticket into markdown files next to the code. Seven months later, 15 projects and 12 people are on a board that costs nothing per seat."
+  },
+  "1c887b3010f677c3": {
+    "file": "corpus/devto/dev_to_moputa_ai-engineering-interview-questions-retrieval-e_a6bad7e90b.md",
+    "source": "devto",
+    "title": "AI engineering interview questions: retrieval, evaluation and everything that breaks",
+    "url": "https://dev.to/moputa/ai-engineering-interview-questions-retrieval-evaluation-and-everything-that-breaks-62n",
+    "keywords": [
+      "interviewers weight engineering ...",
+      "ai engineering interview questions",
+      "ai engineering interview questions",
+      "young enough",
+      "ten years",
+      "source",
+      "retrieval",
+      "retrieval",
+      "reactions",
+      "nobody"
+    ],
+    "summary": "# AI engineering interview questions: retrieval, evaluation and everything that breaks > Source: devto | Category: news | 2026-08-14T08:53:47Z The field is young enough that nobody has ten years of experience, so interviewers weight engineering..."
+  },
+  "59509011818c7e2c": {
+    "file": "corpus/devto/dev_to_asael_shinder_9f53bdca840_your-career-runs-on-convers_8458c28cd4.md",
+    "source": "devto",
+    "title": "Your Career Runs on Conversations",
+    "url": "https://dev.to/asael_shinder_9f53bdca840/your-career-runs-on-conversations-4mak",
+    "keywords": [
+      "still get passed",
+      "smartest person",
+      "career runs",
+      "career runs",
+      "work",
+      "source",
+      "room",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Your Career Runs on Conversations You can be the smartest person in the room and still get passed over. Not because the work was..."
+  },
+  "c2236f254c846ed4": {
+    "file": "corpus/devto/dev_to_sammy_cloud_beyond-the-switchover-using-rds-snapshots_e41c0d0458.md",
+    "source": "devto",
+    "title": "Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover",
+    "url": "https://dev.to/sammy_cloud/beyond-the-switchover-using-rds-snapshots-to-safely-test-mysql-84-compatibility-before-your-2991",
+    "keywords": [
+      "safely test mysql 8",
+      "safely test mysql 8",
+      "46z aws rds blue",
+      "using rds snapshots",
+      "using rds snapshots",
+      "powerful zero",
+      "green environment",
+      "green deployment",
+      "green cutover",
+      "green cutover"
+    ],
+    "summary": "# Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover > Source: devto | Category: news | 2026-08-14T08:53:46Z AWS RDS Blue/Green deployment is a powerful zero-downtime tool, but its Green environment is..."
+  },
+  "436103999bed6018": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_data-analyst-sent-to-_de4f35c2e8.md",
+    "source": "security",
+    "title": "[bleeping-comp] Data analyst sent to prison for stealing data, extorting employer",
+    "url": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+    "keywords": [
+      "5 million extortion scheme",
+      "former data analyst contractor",
+      "37z data analyst sent",
+      "data analyst sent",
+      "data analyst sent",
+      "stealing data",
+      "stealing data",
+      "stealing data",
+      "two years",
+      "brightly software"
+    ],
+    "summary": "# [bleeping-comp] Data analyst sent to prison for stealing data, extorting employer Data analyst sent to prison for stealing data, extorting employer A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme."
+  },
+  "ee77547bd01b0c2d": {
+    "file": "corpus/hackernews/www_frandroid_com_marques_xiaomi_3211257_photo-de-leclipse-o_3431541c3f.md",
+    "source": "hackernews",
+    "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+    "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+    "keywords": [
+      "xiaomi 17 ultra confuses",
+      "xiaomi 17 ultra confuses",
+      "37z score",
+      "sun",
+      "sun",
+      "source",
+      "news",
+      "moon",
+      "moon",
+      "hackernews"
+    ],
+    "summary": "# Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun > Source: hackernews | Category: news | 2026-08-14T08:53:37Z Score: 15 | Comments: 1"
+  },
+  "a592e534e1ed8e03": {
+    "file": "corpus/hackernews/www_reuters_com_legal_litigation_connecticut-judge-says-plai_720d2351f5.md",
+    "source": "hackernews",
+    "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
+    "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
+    "keywords": [
+      "court filings",
+      "court filings",
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Connecticut judge says plaintiff hid messages for AI in court filings > Source: hackernews | Category: news | 2026-08-14T08:53:42Z Score: 7 | Comments: 0"
+  },
+  "b57c9501e5a9dcb3": {
+    "file": "corpus/hackernews/www_washingtonpost_com_investigations_2026_08_13_covert-cia-_f8fabd0a25.md",
+    "source": "hackernews",
+    "title": "Covert CIA program said to be behind mysterious attacks on Galápagos boats",
+    "url": "https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/",
+    "keywords": [
+      "covert cia program said",
+      "covert cia program said",
+      "behind mysterious attacks",
+      "behind mysterious attacks",
+      "galápagos boats",
+      "galápagos boats",
+      "43z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Covert CIA program said to be behind mysterious attacks on Galápagos boats > Source: hackernews | Category: news | 2026-08-14T08:53:43Z Score: 7 | Comments: 1"
+  },
+  "18f4df7f7d758739": {
+    "file": "corpus/hackernews/www_tokyodev_com_articles_yes-and-what-an-improv-stage-can-t_855d01c8e2.md",
+    "source": "hackernews",
+    "title": "What an improv stage can teach you about leading cross-cultural teams in Tokyo",
+    "url": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
+    "keywords": [
+      "leading cross",
+      "leading cross",
+      "improv stage",
+      "improv stage",
+      "cultural teams",
+      "cultural teams",
+      "38z score",
+      "tokyo",
+      "tokyo",
+      "teach"
+    ],
+    "summary": "# What an improv stage can teach you about leading cross-cultural teams in Tokyo > Source: hackernews | Category: news | 2026-08-14T08:53:38Z Score: 8 | Comments: 0"
+  },
+  "2a21d3707d4b1dca": {
+    "file": "corpus/design/gooey_jakubantalik_com_c9f3d46bb6.md",
+    "source": "design",
+    "title": "[sidebar-io] Liquid Gooey",
+    "url": "https://gooey.jakubantalik.com/",
+    "keywords": [
+      "liquid gooey",
+      "liquid gooey",
+      "source",
+      "sidebar",
+      "sidebar",
+      "react",
+      "design",
+      "design"
+    ],
+    "summary": "# [sidebar-io] Liquid Gooey Liquid Gooey Liquid UI effects for React."
+  },
+  "97fc5caef1e996a8": {
+    "file": "corpus/design/blog_florianherrengt_com_ai-removing-middle-class-software-e_d10ea54f06.md",
+    "source": "design",
+    "title": "[sidebar-io] AI is removing the middle class of software engineering",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "keywords": [
+      "values human architectural judgment",
+      "software engineering",
+      "software engineering",
+      "software engineering",
+      "middle class",
+      "middle class",
+      "middle class",
+      "execution speed",
+      "economic shift",
+      "37z ai"
+    ],
+    "summary": "# [sidebar-io] AI is removing the middle class of software engineering AI is removing the middle class of software engineering The economic shift that values human architectural judgment over execution speed."
+  },
+  "1cc42372bfdeaadd": {
+    "file": "corpus/design/mattrothenberg_com_notes_you-dont-have-a-design-system_e3191e19d0.md",
+    "source": "design",
+    "title": "[sidebar-io] You don't have a design system",
+    "url": "https://mattrothenberg.com/notes/you-dont-have-a-design-system/",
+    "keywords": [
+      "sustained product consistency",
+      "document implementation logic",
+      "forces teams",
+      "design system",
+      "design system",
+      "design system",
+      "design",
+      "design",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] You don't have a design system You don't have a design system A classification that forces teams to document implementation logic for sustained product consistency."
+  },
+  "325afd332e8a77d2": {
+    "file": "corpus/design/stolen-thoughts_com_5639e45f22.md",
+    "source": "design",
+    "title": "[sidebar-io] Stolen thoughts",
+    "url": "https://stolen-thoughts.com/",
+    "keywords": [
+      "thought blocks returned",
+      "google apis —",
+      "decode hidden reasoning",
+      "stolen thoughts",
+      "stolen thoughts",
+      "source",
+      "sidebar",
+      "sidebar",
+      "scale",
+      "openai"
+    ],
+    "summary": "# [sidebar-io] Stolen thoughts Stolen thoughts Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs—we exploit this to decode hidden reasoning at scale."
+  },
+  "d3ed7318a43ee146": {
+    "file": "corpus/design/yaronschoen_com_blog_claude-code-101-for-designers_b17bdf2788.md",
+    "source": "design",
+    "title": "[sidebar-io] Claude Code 101, for designers",
+    "url": "https://yaronschoen.com/blog/claude-code-101-for-designers/",
+    "keywords": [
+      "37z claude code 101",
+      "claude code 101",
+      "claude code 101",
+      "claude code actually",
+      "language decoder",
+      "jargon around",
+      "tokens",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Claude Code 101, for designers What Claude Code actually is, plus a plain-language decoder for the jargon around it. Models, tokens, agents, MCP, and friends."
+  },
+  "7d616c738b078daf": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_rx-net-7_utm_campaign_infoq_conte_81d6a0d0e3.md",
+    "source": "engineering",
+    "title": "[infoq] Rx.NET 7.0 Reduces Deployment Size by Splitting Windows UI Support",
+    "url": "https://www.infoq.com/news/2026/08/rx-net-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "new version separates wpf",
+      "narrowly focused change aimed",
+      "splitting windows ui support",
+      "splitting windows ui support",
+      "0 reduces deployment size",
+      "0 reduces deployment size",
+      "0 reduces deployment size",
+      "reducing deployment size",
+      "windows runtime integration",
+      "unused framework dependencies"
+    ],
+    "summary": "# [infoq] Rx.NET 7.0 Reduces Deployment Size by Splitting Windows UI Support Rx.NET 7.0 has been released with a narrowly focused change aimed at reducing deployment size for Windows applications. The new version separates WPF, Windows Forms, UWP, and Windows Runtime integration from the main System.Reactive package, avoiding cases where self-contained applications could acquire tens of megabytes of unused framework dependencies."
+  },
+  "d8d34fd4cbca327e": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_kubeflow_utm_campaign_infoq_conte_07191430de.md",
+    "source": "engineering",
+    "title": "[infoq] Kubeflow Expands AI Capabilities as CNCF Graduation Nears",
+    "url": "https://www.infoq.com/news/2026/08/kubeflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "unveiled several technical updates",
+      "advancements include kale 2",
+      "cloud native computing foundation",
+      "project moves towards graduation",
+      "kubeflow expands ai capabilities",
+      "kubeflow expands ai capabilities",
+      "enhance distributed ai",
+      "native spark support",
+      "cncf graduation nears",
+      "cncf graduation nears"
+    ],
+    "summary": "# [infoq] Kubeflow Expands AI Capabilities as CNCF Graduation Nears The Kubeflow project has unveiled several technical updates to enhance distributed AI and high-performance computing on Kubernetes. These advancements include Kale 2.0, a modernised SDK with native Spark support, and expanded capabilities for the Kubeflow Trainer."
   }
 }
