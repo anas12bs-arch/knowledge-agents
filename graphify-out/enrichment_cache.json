@@ -419131,5 +419131,62 @@
       "category"
     ],
     "summary": "# The mathematical beauty of hyperbezier curves > Source: hackernews | Category: news | 2026-08-15T10:53:33Z Score: 8 | Comments: 0"
+  },
+  "82334e8f4a1408c8": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49309061_fc56996b25.md",
+    "source": "hackernews",
+    "title": "Alternative to Internet Archive",
+    "url": "https://news.ycombinator.com/item?id=49309061",
+    "keywords": [
+      "privacy friendly platforms ran",
+      "sometimes happens frequently",
+      "share already .)",
+      "keep getting results",
+      "days keeps leading",
+      "300 albums .)",
+      "someone could point",
+      "one place .)",
+      "big enough stickdrive",
+      "creation .< p"
+    ],
+    "summary": "I don&#x27;t want to individually input over 2000 songs; including their metadata and other factors.<p>Many sites that we both have heard of; have various limitations or are not privacy friendly platforms ran by a company that seeks to be Big Brother from 1984 and watch us in a Brave New World.<p>I would simply P2P my music on nicotine+ or even have a server for my music.<p>The only thing stoping me on P2P my music on nicotine is the requirement of have a big enough stickdrive to have it availab"
+  },
+  "fa3ca140d00752f1": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-agent-tracing_utm_camp_a625eb8678.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "cloudflare adds agent tracing",
+      "cloudflare adds agent tracing",
+      "payload recording defaults differ",
+      "2026 every span counts",
+      "uneven payload defaults",
+      "uneven payload defaults",
+      "existing workers traces",
+      "docs warn traces",
+      "sessions replay turn",
+      "agent invocations"
+    ],
+    "summary": "# [infoq] Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults Payload recording defaults differ by framework, and from October 1, 2026 every span counts as a billable event."
+  },
+  "47ce7c4f65b5a543": {
+    "file": "corpus/engineering/www_infoq_com_presentations_ai-agentic-recommendations-seman_f273a233d0.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash",
+    "url": "https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "doordash sudeep das shares",
+      "vae semantic ids",
+      "native consumer memory",
+      "dramatically boost relevance",
+      "discusses leveraging language",
+      "aware consumer ai",
+      "aware consumer ai",
+      "aware consumer ai",
+      "agentic recommendation platform",
+      "sudeep das"
+    ],
+    "summary": "# [infoq] Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash Sudeep Das shares how DoorDash shifts from legacy one-shot predictions to an agentic recommendation platform. He discusses leveraging language-native consumer memory, RQ-VAE semantic IDs for catalog representation, and grounded search to dramatically boost relevance and conversion metrics."
   }
 }
