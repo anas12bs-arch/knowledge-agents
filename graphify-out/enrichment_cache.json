@@ -418413,5 +418413,43 @@
       "category"
     ],
     "summary": "# \"That's not SoC 2 compliant\" > Source: hackernews | Category: news | 2026-08-15T06:25:52Z Score: 4 | Comments: 0"
+  },
+  "9b0a49d7722d8672": {
+    "file": "corpus/hackernews/silentshark_app_ab8ae868ff.md",
+    "source": "hackernews",
+    "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
+    "url": "https://silentshark.app/",
+    "keywords": [
+      "naval bases still exist",
+      "based wwii submarine sim",
+      "based wwii submarine sim",
+      "fully released silent shark",
+      "almost exactly six months",
+      "onboarding tutorials multiple times",
+      "centered approach .< p",
+      "improvements :< p >*",
+      "full version .< p",
+      "helpful feedback back"
+    ],
+    "summary": "I posted an early beta of this game a few months ago: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48180924\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48180924</a> - May 2026 (45 comments) and today released the full version.<p>You all gave extremely valuable and helpful feedback back then - thank you so much for that. It led to a lot of improvements:<p>* I reworked the onboarding tutorials multiple times for clarity, adding protections to stop players from shooting the"
+  },
+  "e1fcffa0de576b2d": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-cache-rules_utm_campai_43aa45153e.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-cache-rules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "cache response rules add",
+      "origin server responds",
+      "evaluates origin responses",
+      "origin cache control",
+      "origin cache control",
+      "cache rules operated",
+      "rules engine",
+      "response phase",
+      "request attributes",
+      "renato losio"
+    ],
+    "summary": "Cloudflare recently introduced Cache Response Rules, a rules engine that operates after an origin server responds but before content is written to Cloudflare's cache. Previously, Cache Rules operated only on request attributes. Cache Response Rules add a response phase that evaluates origin responses before they are cached."
   }
 }
