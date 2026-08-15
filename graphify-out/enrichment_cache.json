@@ -418451,5 +418451,100 @@
       "renato losio"
     ],
     "summary": "Cloudflare recently introduced Cache Response Rules, a rules engine that operates after an origin server responds but before content is written to Cloudflare's cache. Previously, Cache Rules operated only on request attributes. Cache Response Rules add a response phase that evaluates origin responses before they are cached."
+  },
+  "e6271053b3279d3e": {
+    "file": "corpus/devto/dev_to_dj29_spicing-up-the-web-building-angaar-an-immersive-_baec0f14e7.md",
+    "source": "devto",
+    "title": "Spicing Up the Web: Building 'Angaar', an Immersive Indian Comfort Food Experience",
+    "url": "https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go",
+    "keywords": [
+      "comfort food edition",
+      "perfect landing",
+      "frontend challenge",
+      "angaar ',",
+      "angaar \",",
+      "web",
+      "web",
+      "submission",
+      "spicing",
+      "spicing"
+    ],
+    "summary": "# Spicing Up the Web: Building \"Angaar\", an Immersive Indian Comfort Food Experience > Source: devto | Category: news | 2026-08-15T07:38:30Z This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I..."
+  },
+  "b2f473f49929ea3e": {
+    "file": "corpus/devto/dev_to_artificial_wasteland_semantic-search-for-796-pages-wi_5409c4c303.md",
+    "source": "devto",
+    "title": "Semantic search for 796 pages, with no server, no vector database, and no model at query time",
+    "url": "https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m",
+    "keywords": [
+      "deliberately weird material",
+      "vector database",
+      "vector database",
+      "semantic search",
+      "semantic search",
+      "query time",
+      "query time",
+      "checked ...",
+      "796 pages",
+      "796 pages"
+    ],
+    "summary": "# Semantic search for 796 pages, with no server, no vector database, and no model at query time > Source: devto | Category: news | 2026-08-15T07:38:30Z Our site has 796 pages of dense, cross-referenced, deliberately weird material: machine-checked..."
+  },
+  "4b254420bba427a4": {
+    "file": "corpus/devto/dev_to_bazzz_your-mcp-server-didnt-break-the-protocol-did-3a_49d2145193.md",
+    "source": "devto",
+    "title": "Your MCP server didn't break. The protocol did.",
+    "url": "https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp",
+    "keywords": [
+      "30z mcp 2026",
+      "mcp server",
+      "mcp server",
+      "initiated requests",
+      "initialize handshake",
+      "every error",
+      "28 deleted",
+      "2026",
+      "server",
+      "source"
+    ],
+    "summary": "# Your MCP server didn't break. MCP 2026-07-28 deleted the initialize handshake, sessions, and server-initiated requests. Here's every error you'll see, what it means, and what to do about it."
+  },
+  "2abe60e41a428d20": {
+    "file": "corpus/devto/dev_to_parsajiravand_five-tabs-open-one-refresh-token-the-ra_656832e2a1.md",
+    "source": "devto",
+    "title": "Five tabs open, one refresh token — the race nobody noticed",
+    "url": "https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8",
+    "keywords": [
+      "one refresh token —",
+      "one refresh token —",
+      "race nobody noticed",
+      "race nobody noticed",
+      "keep getting logged",
+      "five tabs open",
+      "five tabs open",
+      "immediately —",
+      "user reports",
+      "always ..."
+    ],
+    "summary": "# Five tabs open, one refresh token — the race nobody noticed A user reports that they keep getting logged out. Not immediately — after a while, randomly, always..."
+  },
+  "ea944fa6afd23535": {
+    "file": "corpus/hackernews/apnews_com_article_israel-palestinians-settler-violence-us-s_de8690e7a3.md",
+    "source": "hackernews",
+    "title": "Israel's done little to rein in spiraling settler violence against Palestinians",
+    "url": "https://apnews.com/article/israel-palestinians-settler-violence-us-siege-west-bank-bd4ae76cec1773c1c09233cc0b33a378",
+    "keywords": [
+      "spiraling settler violence",
+      "spiraling settler violence",
+      "done little",
+      "done little",
+      "25z score",
+      "source",
+      "rein",
+      "rein",
+      "palestinians",
+      "palestinians"
+    ],
+    "summary": "# Israel's done little to rein in spiraling settler violence against Palestinians > Source: hackernews | Category: news | 2026-08-15T07:38:25Z Score: 19 | Comments: 2"
   }
 }
