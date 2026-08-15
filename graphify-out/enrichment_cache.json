@@ -421132,5 +421132,43 @@
       "briskdb"
     ],
     "summary": "# BriskDB > Source: hackernews | Category: news | 2026-08-15T19:30:00Z Score: 4 | Comments: 2"
+  },
+  "6183354186b2368b": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_14-rc0_fb7495dea8.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.14-rc0 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0",
+    "keywords": [
+      "transcode webp images",
+      "13 ... v0",
+      "37z ## ollama",
+      "ollama — v0",
+      "rc0 ##",
+      "tolerate non",
+      "ollama v0",
+      "ollama v0",
+      "rc0 released",
+      "rc0 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-15T19:46:37Z ## What's Changed * llm: transcode WebP images for llama-server * renderers/qwen: tolerate non-leading system messages **Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.13...v0.32.14-rc0"
+  },
+  "ebeaa5cbbbe8d986": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_cz97ljy91zxo_9f93bf789a.md",
+    "source": "hackernews",
+    "title": "Why tech bosses keep sharing their manifestos about AI",
+    "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+    "keywords": [
+      "tech bosses keep sharing",
+      "tech bosses keep sharing",
+      "31z score",
+      "source",
+      "news",
+      "manifestos",
+      "manifestos",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why tech bosses keep sharing their manifestos about AI > Source: hackernews | Category: news | 2026-08-15T19:45:31Z Score: 3 | Comments: 0"
   }
 }
