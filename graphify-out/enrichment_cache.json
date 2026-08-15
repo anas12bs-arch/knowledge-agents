@@ -422106,5 +422106,43 @@
       "hackernews"
     ],
     "summary": "# Jaithon 3, a fast programming language with the perfect syntax > Source: hackernews | Category: news | 2026-08-15T23:14:36Z Score: 6 | Comments: 5"
+  },
+  "4ef9fced484d024f": {
+    "file": "corpus/devto/dev_to_gde_one-shot-ui-side-effects-in-blocsignal-snackbars-_0e743eb0ab.md",
+    "source": "devto",
+    "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
+    "url": "https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4",
+    "keywords": [
+      "navigation without state pollution",
+      "navigation without state pollution",
+      "shot ui side effects",
+      "shot ui side effects",
+      "shot side effects",
+      "persistent domain state",
+      "classic bloc solved",
+      "zero dependencies",
+      "wrong place",
+      "transient dialogs"
+    ],
+    "summary": "# One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution > Source: devto | Category: news | 2026-08-15T23:35:20Z Why persistent domain state is the wrong place for transient dialogs and snackbars, how classic BLoC solved it with bloc_presentation, and how to handle one-shot side effects in BlocSignal with zero dependencies."
+  },
+  "28f138138c26a370": {
+    "file": "corpus/devto/dev_to_jsmanifest_nextjs-image-optimization-in-2026-nextimag_0b3345a55a.md",
+    "source": "devto",
+    "title": "Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss",
+    "url": "https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8",
+    "keywords": [
+      "config changes teams miss",
+      "config changes teams miss",
+      "config changes ...",
+      "js image optimization",
+      "js image optimization",
+      "js image optimization",
+      "image v4",
+      "21z next",
+      "image",
+      "image"
+    ],
+    "summary": "# Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss > Source: devto | Category: news | 2026-08-15T23:35:21Z Next.js Image Optimization in 2026: next/image v4, AVIF by Default, and the Config Changes..."
   }
 }
