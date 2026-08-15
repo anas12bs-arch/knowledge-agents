@@ -421394,5 +421394,271 @@
       "category"
     ],
     "summary": "# American Airlines 737s with the Same Callsign Flew Straight at Each Other > Source: hackernews | Category: news | 2026-08-15T21:32:51Z Score: 5 | Comments: 0"
+  },
+  "f3844f6457772150": {
+    "file": "corpus/devto/dev_to_kcltech_how-monorepos-work-a-beginner-friendly-guide-_e59f9d9695.md",
+    "source": "devto",
+    "title": "How Monorepos Work: A beginner-friendly guide to monorepos",
+    "url": "https://dev.to/kcltech/how-monorepos-work-a-beginner-friendly-guide-to-monorepos-400g",
+    "keywords": [
+      "one application ...",
+      "codebase rarely stays",
+      "waseef khan",
+      "kcl tech",
+      "friendly guide",
+      "friendly guide",
+      "15z written",
+      "monorepos work",
+      "monorepos work",
+      "monorepos"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-15T21:49:15Z Written by Waseef Khan, Co-President of KCL Tech. A codebase rarely stays as one application..."
+  },
+  "1c10701d17e393d5": {
+    "file": "corpus/devto/dev_to_raju_dandigam_why-consolelog-isnt-enough-when-buildin_ed9052a0b5.md",
+    "source": "devto",
+    "title": "Why console.log Isn't Enough When Building AI Agents",
+    "url": "https://dev.to/raju_dandigam/why-consolelog-isnt-enough-when-building-ai-agents-17o5",
+    "keywords": [
+      "log (' starting ...",
+      "building ai agents",
+      "building ai agents",
+      "ai agent fails",
+      "log statements",
+      "log",
+      "log",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Why console.log Isn't Enough When Building AI Agents > Source: devto | Category: news | 2026-08-15T21:49:15Z An AI agent fails, so you add a few log statements:    console.log('starting..."
+  },
+  "1daa6f81ea3a4090": {
+    "file": "corpus/devto/dev_to_maysam_ehab_what-i-learned-about-exceptions-in-c-unde_0b6b743e8d.md",
+    "source": "devto",
+    "title": "What I Learned About Exceptions in C#: Understanding Errors Instead of Hiding Them",
+    "url": "https://dev.to/maysam_ehab_/what-i-learned-about-exceptions-in-c-understanding-errors-instead-of-hiding-them-5b71",
+    "keywords": [
+      "started learning c #,",
+      "code inside ...",
+      "one thing",
+      "thought exceptions",
+      "exceptions",
+      "exceptions",
+      "source",
+      "reactions",
+      "put",
+      "news"
+    ],
+    "summary": "# What I Learned About Exceptions in C#: Understanding Errors Instead of Hiding Them > Source: devto | Category: news | 2026-08-15T21:49:15Z When I started learning C#, I thought exceptions were mainly about one thing:   Put the code inside..."
+  },
+  "65293c0c5fca72af": {
+    "file": "corpus/devto/dev_to_marcusykim_what-gemini-37-flash-can-teach-beginners-a_03aacb3fd4.md",
+    "source": "devto",
+    "title": "What Gemini 3.7 Flash Can Teach Beginners About Testing AI-Generated App UI in 2026",
+    "url": "https://dev.to/marcusykim/what-gemini-37-flash-can-teach-beginners-about-testing-ai-generated-app-ui-in-2026-5hgj",
+    "keywords": [
+      "google introduced gemini 3",
+      "generated app ui",
+      "generated app ui",
+      "gemini 3",
+      "gemini 3",
+      "testing ai",
+      "testing ai",
+      "teach beginners",
+      "teach beginners",
+      "august 13"
+    ],
+    "summary": "# What Gemini 3.7 Flash Can Teach Beginners About Testing AI-Generated App UI in 2026 > Source: devto | Category: news | 2026-08-15T21:49:15Z On August 13, Google introduced Gemini 3.7 Flash as its latest “workhorse” model for coding and..."
+  },
+  "0bad6f28c2cc3588": {
+    "file": "corpus/devto/dev_to_jesmoo_89-nos-and-not-a-single-line-of-code-2da2_9f06c02c7c.md",
+    "source": "devto",
+    "title": "89 nos and not a single line of code",
+    "url": "https://dev.to/_jesmoo/89-nos-and-not-a-single-line-of-code-2da2",
+    "keywords": [
+      "three years",
+      "single line",
+      "single line",
+      "89 nos",
+      "89 nos",
+      "source",
+      "ship",
+      "reactions",
+      "news",
+      "idea"
+    ],
+    "summary": "# 89 nos and not a single line of code > Source: devto | Category: news | 2026-08-15T21:49:15Z For three years I thought building software worked like this: I get an idea, I build it, I ship it,..."
+  },
+  "970f083cffc8f2bd": {
+    "file": "corpus/devto/dev_to_altrouter_the-cheap-model-is-only-cheap-for-half-your_184f32e913.md",
+    "source": "devto",
+    "title": "The cheap model is only cheap for half your tasks",
+    "url": "https://dev.to/altrouter/the-cheap-model-is-only-cheap-for-half-your-tasks-29ac",
+    "keywords": [
+      "one task swap",
+      "never measured —",
+      "15z two models",
+      "output tokens",
+      "bill flips",
+      "42 %.",
+      "cheap model",
+      "cheap model",
+      "cheap",
+      "cheap"
+    ],
+    "summary": "# The cheap model is only cheap for half your tasks Two models, one task swap, and the bill flips by 42%. Which LLM is cheapest for you depends on a number most teams have never measured — the ratio between input and output tokens."
+  },
+  "a933a7b0c070a976": {
+    "file": "corpus/devto/dev_to_kun_shen_eedb57cc827955f5_stop-comparing-the-apk-file_77327591cc.md",
+    "source": "devto",
+    "title": "Stop Comparing the APK File Hash to the Signing Certificate",
+    "url": "https://dev.to/kun_shen_eedb57cc827955f5/stop-comparing-the-apk-file-hash-to-the-signing-certificate-4ipo",
+    "keywords": [
+      "“ fingerprint .”",
+      "least two sha",
+      "developers casually call",
+      "apk file hash",
+      "apk file hash",
+      "stop comparing",
+      "stop comparing",
+      "signing certificate",
+      "signing certificate",
+      "256 values"
+    ],
+    "summary": "# Stop Comparing the APK File Hash to the Signing Certificate > Source: devto | Category: news | 2026-08-15T21:49:15Z An APK can have at least two SHA-256 values that developers casually call a “fingerprint.”"
+  },
+  "df6a259336845b5e": {
+    "file": "corpus/devto/dev_to_abhishek_mishra_2002_from-text-to-attention-understan_7264ea7ea0.md",
+    "source": "devto",
+    "title": "From Text to Attention: Understanding Transformers with Simple Analogies 🤖",
+    "url": "https://dev.to/abhishek_mishra_2002/from-text-to-attention-understanding-transformers-with-simple-analogies-j64",
+    "keywords": [
+      "simple analogies 🤖",
+      "simple analogies 🤖",
+      "understanding transformers",
+      "understanding transformers",
+      "started learning",
+      "text",
+      "text",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# From Text to Attention: Understanding Transformers with Simple Analogies 🤖 > Source: devto | Category: news | 2026-08-15T21:49:15Z If you've started learning about LLMs, you've probably come across terms like Tokenization,..."
+  },
+  "58370fa2e09805cb": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_your-company-has-ai-tribes-send-an-e_4a957ba07a.md",
+    "source": "devto",
+    "title": "Your Company Has AI Tribes. Send an Engineer as Emissary",
+    "url": "https://dev.to/debashish_ghosal/your-company-has-ai-tribes-send-an-engineer-as-emissary-4g72",
+    "keywords": [
+      "roi story",
+      "narrower ...",
+      "ai tribes",
+      "ai tribes",
+      "source",
+      "send",
+      "send",
+      "reactions",
+      "news",
+      "manual"
+    ],
+    "summary": "This is not a how-to manual. It is also not an ROI story. This is an exploration of a narrower..."
+  },
+  "43a43d48ed6a0d74": {
+    "file": "corpus/devto/dev_to_marius0of1_key-engineering-invariants-47ab_1e1d0296ff.md",
+    "source": "devto",
+    "title": "Key Engineering Invariants",
+    "url": "https://dev.to/marius0of1/key-engineering-invariants-47ab",
+    "keywords": [
+      "key engineering invariants",
+      "key engineering invariants",
+      "action violates bounds",
+      "0v safe state",
+      "15z 1",
+      "source",
+      "reactions",
+      "provides",
+      "news",
+      "fail"
+    ],
+    "summary": "# Key Engineering Invariants > Source: devto | Category: news | 2026-08-15T21:49:15Z Fail-Closed by Default (0.0V Safe State)   If an action violates bounds, provides an..."
+  },
+  "534cf20187cb3bcb": {
+    "file": "corpus/devto/dev_to_harshith_gaddam_my-javascript-learning-journeyasyncaw_a3a3613b4d.md",
+    "source": "devto",
+    "title": "My Javascript Learning Journey:Async,Await,iterators & Generators",
+    "url": "https://dev.to/harshith_gaddam/my-javascript-learning-journeyasyncawaititerators-generators-2k56",
+    "keywords": [
+      "javascript learning journey",
+      "javascript learning journey",
+      "asynchronous programming",
+      "15z today",
+      "source",
+      "reactions",
+      "news",
+      "iterators",
+      "iterators",
+      "generators"
+    ],
+    "summary": "# My Javascript Learning Journey:Async,Await,iterators & Generators > Source: devto | Category: news | 2026-08-15T21:49:15Z Today I learned several important JavaScript concepts related to asynchronous programming and..."
+  },
+  "521fdc74150bcf02": {
+    "file": "corpus/hackernews/www_pcgamer_com_software_browsers_firefox-stunts-on-edge-as-_31990202aa.md",
+    "source": "hackernews",
+    "title": "Firefox stunts on Edge as Microsoft gears up to neuter adblockers",
+    "url": "https://www.pcgamer.com/software/browsers/firefox-stunts-on-edge-as-microsoft-gears-up-to-neuter-adblockers-ublock-origin-isnt-going-anywhere/",
+    "keywords": [
+      "neuter adblockers",
+      "neuter adblockers",
+      "microsoft gears",
+      "microsoft gears",
+      "firefox stunts",
+      "firefox stunts",
+      "11z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Firefox stunts on Edge as Microsoft gears up to neuter adblockers > Source: hackernews | Category: news | 2026-08-15T21:49:11Z Score: 9 | Comments: 4"
+  },
+  "46bf98ac6c34561a": {
+    "file": "corpus/hackernews/www_overcomingbias_com_p_no-new-physics-consciousness_35a2a48454.md",
+    "source": "hackernews",
+    "title": "No-New-Physics Consciousness",
+    "url": "https://www.overcomingbias.com/p/no-new-physics-consciousness",
+    "keywords": [
+      "physics consciousness",
+      "physics consciousness",
+      "08z score",
+      "source",
+      "news",
+      "new",
+      "new",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# No-New-Physics Consciousness > Source: hackernews | Category: news | 2026-08-15T21:49:08Z Score: 3 | Comments: 0"
+  },
+  "ba23870de83b9c10": {
+    "file": "corpus/hackernews/www_timeshighereducation_com_opinion_ai-makes-foundational-k_d1c96ee037.md",
+    "source": "hackernews",
+    "title": "AI makes foundational knowledge more important",
+    "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+    "keywords": [
+      "ai makes foundational knowledge",
+      "ai makes foundational knowledge",
+      "09z score",
+      "source",
+      "news",
+      "important",
+      "important",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI makes foundational knowledge more important > Source: hackernews | Category: news | 2026-08-15T21:49:09Z Score: 3 | Comments: 0"
   }
 }
