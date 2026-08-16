@@ -422163,5 +422163,62 @@
       "hackernews"
     ],
     "summary": "# Credit card debt rises to $1.26T, nearing all-time record > Source: hackernews | Category: news | 2026-08-15T23:50:39Z Score: 5 | Comments: 1"
+  },
+  "faf52a1b131ab6b9": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_20_5011420013.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.20 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.20",
+    "keywords": [
+      "replacing resolve request keys",
+      "extract metadata resolution primitives",
+      "20 ### misc changes",
+      "js — v16",
+      "37z ## vercel",
+      "js v16",
+      "js v16",
+      "20 released",
+      "20 released",
+      "retain conditions"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-16T00:01:37Z - Wait for back-before-hydration recoveries in the browser: #97321 - Extract metadata resolution primitives: #97388 - test: update React 18 redbox snapshot: #97415 - Turbopack: retain conditions when replacing resolve request keys: #97372 - Remove server route matcher stack: #94157 Huge thanks to @gaearon, @gnoff, @timneutkens, and @mischnic for helping!"
+  },
+  "25372b5ba67de2b6": {
+    "file": "corpus/hackernews/lapcatsoftware_com_articles_2026_8_3_html_8358e1e58b.md",
+    "source": "hackernews",
+    "title": "A fortuitous decade as an indie software developer",
+    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+    "keywords": [
+      "indie software developer",
+      "indie software developer",
+      "fortuitous decade",
+      "fortuitous decade",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A fortuitous decade as an indie software developer > Source: hackernews | Category: news | 2026-08-16T00:00:58Z Score: 5 | Comments: 0"
+  },
+  "8bc2d384a4296c81": {
+    "file": "corpus/hackernews/magic-oracle_com_795a939053.md",
+    "source": "hackernews",
+    "title": "Oracle – a photorealistic browser for every Magic card ever printed",
+    "url": "https://magic-oracle.com/",
+    "keywords": [
+      "photorealistic browser",
+      "photorealistic browser",
+      "oracle –",
+      "oracle –",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Oracle – a photorealistic browser for every Magic card ever printed > Source: hackernews | Category: news | 2026-08-16T00:00:59Z Score: 3 | Comments: 2"
   }
 }
