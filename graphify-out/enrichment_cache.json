@@ -423533,5 +423533,81 @@
       "secrets"
     ],
     "summary": "# Show HN: Laptop is the last place your secrets are still in plaintext > Source: hackernews | Category: news | 2026-08-16T07:12:44Z Score: 9 | Comments: 1"
+  },
+  "0d214c412e07a0cd": {
+    "file": "corpus/devto/dev_to_parsajiravand_i-can-finally-delete-my-max-height-9999_2f7be13cf0.md",
+    "source": "devto",
+    "title": "I Can Finally Delete My max-height: 9999px Animation Hack",
+    "url": "https://dev.to/parsajiravand/i-can-finally-delete-my-max-height-9999px-animation-hack-1p8o",
+    "keywords": [
+      "real numbers —",
+      "9999px animation hack",
+      "9999px animation hack",
+      "13z css transitions",
+      "size finally give",
+      "size ()",
+      "finally delete",
+      "finally delete",
+      "number ceiling",
+      "number"
+    ],
+    "summary": "# I Can Finally Delete My max-height: 9999px Animation Hack CSS transitions have never been able to animate to height: auto, because auto isn't a number the engine can interpolate. calc-size() and interpolate-size finally give it real numbers — no JavaScript, no magic-number ceiling."
+  },
+  "f06e7aa819ebe8a0": {
+    "file": "corpus/hackernews/www_health_harvard_edu_exercise-and-fitness_the-health-benef_3672edb760.md",
+    "source": "hackernews",
+    "title": "Health benefits of Tai Chi",
+    "url": "https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi",
+    "keywords": [
+      "tai chi",
+      "tai chi",
+      "health benefits",
+      "health benefits",
+      "04z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Health benefits of Tai Chi > Source: hackernews | Category: news | 2026-08-16T07:45:04Z Score: 5 | Comments: 0"
+  },
+  "7d5466424adf501c": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_aws-dogwood-agent-policy_utm_camp_933ce4cee7.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls",
+    "url": "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "prior tool calls rather",
+      "agent tool calls aws",
+      "policy language extending cedar",
+      "agent tool calls",
+      "agent tool calls",
+      "02z aws open",
+      "extending cedar",
+      "extending cedar",
+      "extending cedar",
+      "agentcore policy"
+    ],
+    "summary": "# [infoq] AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls AWS has open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules can reason about an agent's prior tool calls rather than one request in isolation."
+  },
+  "c8ab6ba9f979f11a": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_aws-dynamodb-vector-search_utm_ca_c6ba0d0b7c.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Introduces Native Vector Search for DynamoDB",
+    "url": "https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "separate vector database",
+      "semantic search workloads",
+      "run approximate nearest",
+      "neighbor queries directly",
+      "configurable vector indexes",
+      "dynamodb without using",
+      "renato losio",
+      "allowing developers",
+      "dynamodb",
+      "dynamodb"
+    ],
+    "summary": "# [infoq] AWS Introduces Native Vector Search for DynamoDB Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from DynamoDB without using a separate vector database. The feature supports filtered similarity searches and configurable vector indexes for semantic search workloads."
   }
 }
