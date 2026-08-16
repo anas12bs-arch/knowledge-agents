@@ -423609,5 +423609,22 @@
       "dynamodb"
     ],
     "summary": "# [infoq] AWS Introduces Native Vector Search for DynamoDB Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from DynamoDB without using a separate vector database. The feature supports filtered similarity searches and configurable vector indexes for semantic search workloads."
+  },
+  "a29efaa8bb405d69": {
+    "file": "corpus/hackernews/littlelearner-ll_github_io_b7e49e27c6.md",
+    "source": "hackernews",
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "url": "https://littlelearner-ll.github.io/",
+    "keywords": [
+      "17z score",
+      "source",
+      "news",
+      "happens",
+      "happens",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What happens when an LLM never sees material beyond fifth grade? > Source: hackernews | Category: news | 2026-08-16T08:01:17Z Score: 25 | Comments: 6"
   }
 }
