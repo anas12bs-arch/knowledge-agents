@@ -427940,5 +427940,81 @@
       "hackathons"
     ],
     "summary": "# HackEurope 2026: A short rant on AI and hackathons > Source: hackernews | Category: news | 2026-08-17T09:06:07Z Score: 23 | Comments: 5"
+  },
+  "21780d96233df8d8": {
+    "file": "corpus/devto/dev_to_anmolpawar_can-ai-understand-your-dog-meet-dogesh-you_51a81a401c.md",
+    "source": "devto",
+    "title": "🐶 Can AI Understand Your Dog? Meet Dogesh — Your Dog, Decoded.",
+    "url": "https://dev.to/anmolpawar_/can-ai-understand-your-dog-meet-dogesh-your-dog-decoded-3gb6",
+    "keywords": [
+      "meet dogesh —",
+      "meet dogesh —",
+      "dog days edition",
+      "built dogesh",
+      "weekend challenge",
+      "ai understand",
+      "ai understand",
+      "dog",
+      "dog",
+      "dog"
+    ],
+    "summary": "# 🐶 Can AI Understand Your Dog? Meet Dogesh — Your Dog, Decoded. *This is a submission for Weekend Challenge: Dog Days Edition           What I Built   Dogesh is an..."
+  },
+  "438eee966bcbce39": {
+    "file": "corpus/devto/dev_to_lizhuojunx86_deepseek-harness-got-append-only-right-i_653f21998e.md",
+    "source": "devto",
+    "title": "DeepSeek Harness got append-only right. Its token projection still misses what compaction costs.",
+    "url": "https://dev.to/lizhuojunx86/deepseek-harness-got-append-only-right-its-token-projection-still-misses-what-compaction-costs-2m3",
+    "keywords": [
+      "week across two providers",
+      "token projection still misses",
+      "token projection still misses",
+      "deepseek harness got append",
+      "deepseek harness got append",
+      "summing every ...",
+      "08z four numbers",
+      "old codebase",
+      "compaction costs",
+      "compaction costs"
+    ],
+    "summary": "# DeepSeek Harness got append-only right. Its token projection still misses what compaction costs. Four numbers from a nine-day-old codebase, measured this week across two providers:   Summing every..."
+  },
+  "f37ca863ee51bc1d": {
+    "file": "corpus/hackernews/statmodeling_stat_columbia_edu_2026_08_13_we-should-probably_50e31acdbc.md",
+    "source": "hackernews",
+    "title": "The continuing 'Q collar' scandal",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/",
+    "keywords": [
+      "q collar",
+      "q collar",
+      "57z score",
+      "source",
+      "scandal",
+      "scandal",
+      "news",
+      "hackernews",
+      "continuing",
+      "continuing"
+    ],
+    "summary": "# The continuing \"Q collar\" scandal > Source: hackernews | Category: news | 2026-08-17T09:53:57Z Score: 8 | Comments: 0"
+  },
+  "6aad42e81d65391c": {
+    "file": "corpus/engineering/www_infoq_com_presentations_architecture-patterns-llm_utm_ca_db6616d575.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: From Thousands to One: Building LLM-Powered Selection Systems",
+    "url": "https://www.infoq.com/presentations/architecture-patterns-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "separating semantic text extraction",
+      "powered selection systems",
+      "powered selection systems",
+      "ensure database integrity",
+      "discusses overcoming non",
+      "system reliability",
+      "structure llms",
+      "restricting schemas",
+      "production pipelines",
+      "mvc approach"
+    ],
+    "summary": "# [infoq] Presentation: From Thousands to One: Building LLM-Powered Selection Systems Jendrik Jördening shares practical engineering strategies for integrating LLMs into production pipelines. He discusses overcoming non-determinism, restricting schemas, separating semantic text extraction from deterministic code, and validating choices using discriminator models."
   }
 }
