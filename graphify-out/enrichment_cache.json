@@ -432038,5 +432038,81 @@
       "category"
     ],
     "summary": "# Israel creates fake think tank in likely attempt to dupe AI chatbots > Source: hackernews | Category: news | 2026-08-17T21:19:57Z Score: 4 | Comments: 0"
+  },
+  "e031a83e055052e7": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-cor_63bdbc61cc.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-core==1.5.6 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6",
+    "keywords": [
+      "core ): release 1",
+      "6 changes since langchain",
+      "core == 1",
+      "core == 1",
+      "core == 1",
+      "core == 1",
+      "traces (# 39703",
+      "6 (# 39704",
+      "39z ## langchain",
+      "langchain — langchain"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-17T21:46:39Z Changes since langchain-core==1.5.5 chore(core): release 1.5.6 (#39704) feat(core): incorporate gateway metadata to traces (#39703)"
+  },
+  "0241eea7c42f42e3": {
+    "file": "corpus/devto/dev_to_gaurav_jha_fbabb66ef5df4c_i-built-an-agentic-ai-syste_d82664641f.md",
+    "source": "devto",
+    "title": "I Built an Agentic AI System From Scratch: RAG, GraphRAG, 12 Tools & Kubernetes",
+    "url": "https://dev.to/gaurav_jha_fbabb66ef5df4c/i-built-an-agentic-ai-system-from-scratch-rag-graphrag-12-tools-kubernetes-20bp",
+    "keywords": [
+      "stack agentic ai system",
+      "agentic ai system",
+      "agentic ai system",
+      "step tasks ,...",
+      "plan multi",
+      "five weeks",
+      "41z tl",
+      "12 tools",
+      "12 tools",
+      "source"
+    ],
+    "summary": "# I Built an Agentic AI System From Scratch: RAG, GraphRAG, 12 Tools & Kubernetes > Source: devto | Category: news | 2026-08-17T21:45:41Z TL;DR: Over five weeks, I built a full-stack Agentic AI system that can plan multi-step tasks,..."
+  },
+  "8be02cf955856288": {
+    "file": "corpus/security/www_darkreading_com_threat-intelligence_turf-war-claude-agen_9b6a27ccd9.md",
+    "source": "security",
+    "title": "[dark-reading] 'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+    "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+    "keywords": [
+      "different directives engaged",
+      "claude agents leads",
+      "claude agents leads",
+      "claude agents leads",
+      "turf war",
+      "turf war",
+      "turf war",
+      "territorial attacks",
+      "replicating malware",
+      "replicating malware"
+    ],
+    "summary": "# [dark-reading] 'Turf War' Between Claude Agents Leads to Self-Replicating Malware 'Turf War' Between Claude Agents Leads to Self-Replicating Malware Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic."
+  },
+  "413e5968892e0201": {
+    "file": "corpus/hackernews/tesana_ai_en_2525cc252e.md",
+    "source": "hackernews",
+    "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
+    "url": "https://tesana.ai/en",
+    "keywords": [
+      "three key features 1",
+      "builds quality games end",
+      "builds quality games end",
+      "without coding .< p",
+      "create full games",
+      "simple text prompt",
+      "questions &# x2f",
+      "dev stack behind",
+      "250 000 builders",
+      "life .< p"
+    ],
+    "summary": "# Show HN: Tesana – An AI game engine that builds quality games end-to-end I built <a href=\"https:&#x2F;&#x2F;tesana.ai&#x2F;en\" rel=\"nofollow\">https:&#x2F;&#x2F;tesana.ai&#x2F;en</a>, a game generation platform that allows anyone to create full games with graphics, game logic, and animations from a simple text prompt - without coding.<p>Tesana has three key features 1. describe your game idea and have Tesana write a game plan for you 2. Let me know if you have any questions&#x2F;comments&#x2F;f"
   }
 }
