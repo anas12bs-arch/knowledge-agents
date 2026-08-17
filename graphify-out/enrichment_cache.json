@@ -432529,5 +432529,96 @@
       "hackernews"
     ],
     "summary": "# Bluesky draws its logo on screenshots > Source: hackernews | Category: news | 2026-08-17T22:24:09Z Score: 3 | Comments: 0"
+  },
+  "7fe654d146a9cd2d": {
+    "file": "corpus/github-releases/github_com_remix-run_remix_releases_tag_static-middleware_40_718ac426c9.md",
+    "source": "github-releases",
+    "title": "remix-run/remix static-middleware@0.4.14 released",
+    "url": "https://github.com/remix-run/remix/releases/tag/static-middleware%400.4.14",
+    "keywords": [
+      "14 ### patch changes",
+      "staticfiles ()` middleware types",
+      "updating `@ remix",
+      "established `@ remix",
+      "12z ## remix",
+      "remix — static",
+      "14 released",
+      "14 released",
+      "remix static",
+      "remix static"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-17T22:48:12Z - Fixed `staticFiles()` middleware types being incompatible with other router middleware by updating `@remix-run/fetch-router` to `^0.21.0`. This keeps the established `@remix-run/static-middleware` package compatible with Remix 3 projects without package-manager overrides."
+  },
+  "de5b69f0a26091d9": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_17_another-california-court-has-now_2622ec8bd2.md",
+    "source": "legal",
+    "title": "[techdirt] Another California Court Has Now Broken Media Advertising, So The Copia Institute Asked Another California Appeals Court To Fix It",
+    "url": "https://www.techdirt.com/2026/08/17/another-california-court-has-now-broken-media-advertising-so-the-copia-institute-asked-another-california-appeals-court-to-fix-it/",
+    "keywords": [
+      "goods [&# 8230 ;]",
+      "california appeals court produced",
+      "18z another california court",
+      "another california court",
+      "another california court",
+      "unruh act resulting",
+      "unfortunate liapes v",
+      "broken media advertising",
+      "broken media advertising",
+      "broken media advertising"
+    ],
+    "summary": "# [techdirt] Another California Court Has Now Broken Media Advertising, So The Copia Institute Asked Another California Appeals Court To Fix It In this decision, it gave the go-ahead to age discrimination claims under California’s Unruh Act resulting from ads not being served to users of certain ages. It’s a nonsensical application of anti-discrimination law, because ads are not themselves the goods [&#8230;]"
+  },
+  "e2c59dd655fc3c7e": {
+    "file": "corpus/hackernews/fabiensanglard_net_quake_shareware_cd_index_html_b961931d54.md",
+    "source": "hackernews",
+    "title": "Quake Shareware, a CD-ROM just a little too full",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "keywords": [
+      "quake shareware",
+      "quake shareware",
+      "18z score",
+      "source",
+      "rom",
+      "rom",
+      "news",
+      "little",
+      "little",
+      "hackernews"
+    ],
+    "summary": "# Quake Shareware, a CD-ROM just a little too full > Source: hackernews | Category: news | 2026-08-17T22:47:18Z Score: 10 | Comments: 0"
+  },
+  "46bc15f3988ad738": {
+    "file": "corpus/hackernews/status_cursor_com_incidents_l9h9vrd726jv_bdcdafaa32.md",
+    "source": "hackernews",
+    "title": "GitHub degradation affects Cursor Origin, its new Git platform",
+    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+    "keywords": [
+      "new git platform",
+      "new git platform",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# GitHub degradation affects Cursor Origin, its new Git platform > Source: hackernews | Category: news | 2026-08-17T22:47:24Z Score: 3 | Comments: 0"
+  },
+  "9fd43992dbe96fd9": {
+    "file": "corpus/hackernews/devblogs_microsoft_com_oldnewthing_20260817-40_p_112617_9776cb0e65.md",
+    "source": "hackernews",
+    "title": "How do functions like alloca allocate memory from the stack?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+    "keywords": [
+      "22z score",
+      "stack",
+      "stack",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How do functions like alloca allocate memory from the stack? > Source: hackernews | Category: news | 2026-08-17T22:47:22Z Score: 3 | Comments: 0"
   }
 }
