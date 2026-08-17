@@ -429132,5 +429132,1024 @@
       "hotshot crew superintendent"
     ],
     "summary": "And where does a crew go when the fire threatens to overrun them? In each episode of  What It's Like to Be...,  bestselling author Dan Heath speaks with someone about what it's like to walk in their (work) shoes.&nbsp; Behavioral Scientist &nbsp;serves as a distribution partner with episodes released every other week. The post  What It&#8217;s Like to Be&#8230;a Hotshot  appeared first on  Behavioral Scientist ."
+  },
+  "57cc934c1a6a9ad7": {
+    "file": "corpus/github-releases/github_com_prisma_prisma_releases_tag_v8_0_0-rc_2_90d8f910a5.md",
+    "source": "github-releases",
+    "title": "prisma/prisma v8.0.0-rc.2 released",
+    "url": "https://github.com/prisma/prisma/releases/tag/v8.0.0-rc.2",
+    "keywords": [
+      "splits runtime row queries",
+      "flat shape still load",
+      "two upgrade recipes carry",
+      "``` ts // prisma",
+      "``` ts // prisma",
+      "existing orm config nested",
+      "three new operations",
+      "makes check constraints",
+      "lossless variants beside",
+      "lossless variants beside"
+    ],
+    "summary": "- **The default aggregates are JavaScript numbers again, with lossless variants beside them** — `count()`, `sum()` over an integer column, and `avg()` over an integer column all return `number`. A `count()` or integer `sum()` whose value passes ±(2^53 − 1) now raises `RUNTIME.DECODE_FAILED` rather than returning a rounded number, so move those calls to the `BigInt` variants where the magnitude is real. The SQL builder's comparison operands do move, because `fns.gt(a, b)` types both sides from on"
+  },
+  "4a5cb7c84bbd958a": {
+    "file": "corpus/devops/devops_com_ten-great-devops-job-opportunities-19_9452e36dec.md",
+    "source": "devops",
+    "title": "[devops-com] Ten Great DevOps Job Opportunities",
+    "url": "https://devops.com/ten-great-devops-job-opportunities-19/",
+    "keywords": [
+      "weekly devops jobs report",
+      "challenging economic times",
+      "[&# 8230 ;]",
+      "much easier",
+      "better serve",
+      "devops professionals",
+      "devops professionals",
+      "devops",
+      "devops",
+      "devops"
+    ],
+    "summary": "# [devops-com] Ten Great DevOps Job Opportunities DevOps.com is now providing a weekly DevOps jobs report through which opportunities for DevOps professionals will be highlighted as part of an effort to better serve our audience. Our goal in these challenging economic times is to make it just that much easier for DevOps professionals to advance their careers."
+  },
+  "64539dd090d66c6d": {
+    "file": "corpus/product/techcrunch_com_2026_08_17_terra-industries-closes-52m-seed-r_5a5c806e8b.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+    "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+    "keywords": [
+      "22z terra industries closes",
+      "terra industries closes",
+      "terra industries closes",
+      "build defense infrastructure",
+      "build defense infrastructure",
+      "build defense infrastructure",
+      "52m seed round",
+      "52m seed round",
+      "52m seed round",
+      "seed round"
+    ],
+    "summary": "# [techcrunch-startups] Terra Industries closes $52M seed round to build defense infrastructure for the Global South Terra Industries closes $52M seed round to build defense infrastructure for the Global South African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million."
+  },
+  "0416947635fefd82": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_17_rather-than-investigate-the-alex_9f92cbc51e.md",
+    "source": "legal",
+    "title": "[techdirt] Rather Than Investigate The Alex Pretti Murder, The DHS Investigated Minneapolis Activist Groups",
+    "url": "https://www.techdirt.com/2026/08/17/rather-than-investigate-the-alex-pretti-murder-the-dhs-investigated-minneapolis-activist-groups/",
+    "keywords": [
+      "administration buddies amplified accusations",
+      "public safety effort",
+      "political persecution pretending",
+      "government funding fraud",
+      "alex pretti murder",
+      "alex pretti murder",
+      "alex pretti murder",
+      "[&# 8230 ;]",
+      "minneapolis &# 8212",
+      "&# 8217"
+    ],
+    "summary": "Two murders in less than a week. It was political persecution pretending to be a public safety effort. Trump and his administration buddies amplified accusations of government funding fraud."
+  },
+  "b52c26ce7c186f26": {
+    "file": "corpus/devto/dev_to_mikefrol_the-arbitrage-that-wasnt-when-two-markets-ar_b23aabb434.md",
+    "source": "devto",
+    "title": "The arbitrage that wasn't: when two markets are identical but their oracles aren't",
+    "url": "https://dev.to/mikefrol/the-arbitrage-that-wasnt-when-two-markets-are-identical-but-their-oracles-arent-4pga",
+    "keywords": [
+      "two markets",
+      "two markets",
+      "venue arbitrage",
+      "arbitrage",
+      "arbitrage",
+      "arbitrage",
+      "source",
+      "scanner",
+      "reactions",
+      "oracles"
+    ],
+    "summary": "# The arbitrage that wasn't: when two markets are identical but their oracles aren't > Source: devto | Category: news | 2026-08-17T16:34:22Z The arbitrage that wasn't   I build a scanner that looks for cross-venue arbitrage in..."
+  },
+  "cd13ea8f53893699": {
+    "file": "corpus/devto/dev_to_doublecitizen_ffmpegwasm-in-production-deadlocks-a-2-_431ee9d847.md",
+    "source": "devto",
+    "title": "FFmpeg.wasm in production: deadlocks, a 2 GB ceiling and a codec that lies to users",
+    "url": "https://dev.to/doublecitizen/ffmpegwasm-in-production-deadlocks-a-2-gb-ceiling-and-a-codec-that-lies-to-users-1lj8",
+    "keywords": [
+      "full media converter client",
+      "2 gb ceiling",
+      "2 gb ceiling",
+      "zero servers",
+      "actually takes",
+      "wasm",
+      "wasm",
+      "users",
+      "users"
+    ],
+    "summary": "# FFmpeg.wasm in production: deadlocks, a 2 GB ceiling and a codec that lies to users > Source: devto | Category: news | 2026-08-17T16:34:22Z What it actually takes to run a full media converter client-side, with zero servers."
+  },
+  "491fd0ea4dff76af": {
+    "file": "corpus/devto/dev_to_lfrichter_i-built-cat-guardian-for-my-seven-cats-287_24ee9720a3.md",
+    "source": "devto",
+    "title": "I Built Cat Guardian for My Seven Cats 🐾",
+    "url": "https://dev.to/lfrichter/i-built-cat-guardian-for-my-seven-cats-287",
+    "keywords": [
+      "seven cats 🐾",
+      "seven cats 🐾",
+      "built cat guardian",
+      "built cat guardian",
+      "weekend challenge",
+      "submission",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# I Built Cat Guardian for My Seven Cats 🐾 > Source: devto | Category: news | 2026-08-17T16:34:21Z This is a submission for Weekend Challenge: Dog Days Edition           🐾 Cat Guardian — Protect...."
+  },
+  "a9f8632f1d77d16f": {
+    "file": "corpus/devto/dev_to_yuvaraj_radhakrishnan_224_i-built-59-free-browser-bas_23ac14e234.md",
+    "source": "devto",
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-550",
+    "keywords": [
+      "built 59 free browser",
+      "built 59 free browser",
+      "vanilla js —",
+      "vanilla js —",
+      "based developer ...",
+      "based dev tools",
+      "based dev tools",
+      "59 free",
+      "browser",
+      "source"
+    ],
+    "summary": "# I built 59 free browser-based dev tools in vanilla JS — here's what I learned > Source: devto | Category: news | 2026-08-17T16:34:22Z I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer..."
+  },
+  "334db7cf8a3f49da": {
+    "file": "corpus/devto/dev_to_mattstratton_dont-give-the-model-sql-5h32_302f786406.md",
+    "source": "devto",
+    "title": "Don't Give the Model SQL",
+    "url": "https://dev.to/mattstratton/dont-give-the-model-sql-5h32",
+    "keywords": [
+      "wrong answer",
+      "model walks",
+      "model sql",
+      "model sql",
+      "health data",
+      "given sql",
+      "already produced",
+      "six traps",
+      "six",
+      "worse"
+    ],
+    "summary": "My health data has six traps in it that have each already produced a wrong answer. Given SQL, a model walks into all six. Told about them in a prompt, it avoids them most of the time, which is worse."
+  },
+  "9690d428ed17a376": {
+    "file": "corpus/devto/dev_to_jacquesgariepy_faire-tourner-qwen-38-27b-en-local-ave_0d5de4de6a.md",
+    "source": "devto",
+    "title": "Faire tourner Qwen 3.8–27B en local avec Unsloth et DeepSeek Harness sur une RTX 3090 (24 Go) sous Windows 11.",
+    "url": "https://dev.to/jacquesgariepy/faire-tourner-qwen-38-27b-en-local-avec-unsloth-et-deepseek-harness-sur-une-rtx-3090-24-go-sous-5144",
+    "keywords": [
+      "faire tourner qwen 3",
+      "faire tourner qwen 3",
+      "sous windows 11",
+      "sous windows 11",
+      "pas et ...",
+      "dépannage windows pas",
+      "24 go",
+      "24 go",
+      "source"
+    ],
+    "summary": "# Faire tourner Qwen 3.8–27B en local avec Unsloth et DeepSeek Harness sur une RTX 3090 (24 Go) sous Windows 11. > Source: devto | Category: news | 2026-08-17T16:34:21Z Par Jacques Gariépy • Guide technique, retour d'expérience, dépannage Windows pas-à-pas et..."
+  },
+  "0a6552319bb72008": {
+    "file": "corpus/devto/dev_to_rimshashehzadi98_nose-id-i-taught-an-ai-to-recognize-_84c9053505.md",
+    "source": "devto",
+    "title": "Nose ID: I Taught an AI to Recognize Dogs by Their Nose-Print",
+    "url": "https://dev.to/rimshashehzadi98/nose-id-i-taught-an-ai-to-recognize-dogs-by-their-nose-print-l44",
+    "keywords": [
+      "biometric dog identification system",
+      "built nose id —",
+      "collar tag ,...",
+      "nose id",
+      "nose id",
+      "recognize dogs",
+      "recognize dogs",
+      "nose",
+      "nose",
+      "taught"
+    ],
+    "summary": "# Nose ID: I Taught an AI to Recognize Dogs by Their Nose-Print What I Built   Nose ID — a biometric dog identification system. Instead of a collar tag,..."
+  },
+  "21624304e95b88fe": {
+    "file": "corpus/devto/dev_to_dev_nash_make-a-canvas-fish-swim-force-not-animation-_e7dfcd3ceb.md",
+    "source": "devto",
+    "title": "Make a canvas fish swim: force, not animation",
+    "url": "https://dev.to/dev_nash/make-a-canvas-fish-swim-force-not-animation-1bff",
+    "keywords": [
+      "fish slid sideways",
+      "canvas fish swim",
+      "canvas fish swim",
+      "badly —",
+      "watch",
+      "source",
+      "second",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Make a canvas fish swim: force, not animation Our fish slid sideways. Not badly — you had to watch for a second before it bothered you — but once..."
+  },
+  "b5ca1cbfab277323": {
+    "file": "corpus/devto/dev_to_hyuga611_my-linter-kept-warning-the-people-who-did-it_1d7da92056.md",
+    "source": "devto",
+    "title": "My linter kept warning the people who did it right. Three times, in the same direction",
+    "url": "https://dev.to/hyuga611/my-linter-kept-warning-the-people-who-did-it-right-three-times-in-the-same-direction-2j45",
+    "keywords": [
+      "linter kept warning",
+      "linter kept warning",
+      "warning landed",
+      "three times",
+      "three times",
+      "linter",
+      "source",
+      "right",
+      "right",
+      "reactions"
+    ],
+    "summary": "# My linter kept warning the people who did it right. Three times, in the same direction The warning landed on the only people who had done it properly   I maintain a linter that..."
+  },
+  "068d7b197c475172": {
+    "file": "corpus/devto/dev_to_rupa_tiwari_dd308948d710f_what-is-an-mcp-eval-why-you_e4dd342b38.md",
+    "source": "devto",
+    "title": "What Is an MCP Eval? Why Your Server Passes Every Test and Still Fails",
+    "url": "https://dev.to/rupa_tiwari_dd308948d710f/what-is-an-mcp-eval-why-your-server-passes-every-test-and-still-fails-41gf",
+    "keywords": [
+      "model must complete using",
+      "server passes every test",
+      "server passes every test",
+      "21z 📖 tl",
+      "tools —...",
+      "still fails",
+      "still fails",
+      "realistic task",
+      "mcp eval",
+      "mcp eval"
+    ],
+    "summary": "# What Is an MCP Eval? Why Your Server Passes Every Test and Still Fails 📖 TL;DR    An MCP eval is a realistic task a model must complete using only your server's tools —..."
+  },
+  "acab0447c1807f6a": {
+    "file": "corpus/devto/dev_to_micaavigliano_learn-how-to-build-an-expandable-and-co_a44bce30c7.md",
+    "source": "devto",
+    "title": "Learn how to build a disclosure component using the native HTML details tag",
+    "url": "https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j",
+    "keywords": [
+      "native html details tag",
+      "native html details tag",
+      "disclosure component using",
+      "disclosure component using",
+      "section dedicated",
+      "new entry",
+      "creating reusable",
+      "accessible ...",
+      "22z welcome",
+      "source"
+    ],
+    "summary": "# Learn how to build a disclosure component using the native HTML details tag > Source: devto | Category: news | 2026-08-17T16:34:22Z Welcome to a new entry in my section dedicated to creating reusable and, above all, accessible..."
+  },
+  "733a5daf9ea8a287": {
+    "file": "corpus/devto/dev_to_rashmishivakumar_pawprints-helping-dogs-find-friends-_629b519844.md",
+    "source": "devto",
+    "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
+    "url": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
+    "keywords": [
+      "dog days edition",
+      "weekend challenge",
+      "life beyond",
+      "life beyond",
+      "built ...",
+      "built",
+      "submission",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed > Source: devto | Category: news | 2026-08-17T16:34:22Z This is a submission for Weekend Challenge: Dog Days Edition           What I Built   I built..."
+  },
+  "5c174acba7f5bfe1": {
+    "file": "corpus/devto/dev_to_docker_sip-five-immediate-software-supply-chain-contr_562e3d8ca6.md",
+    "source": "devto",
+    "title": "SIP: Five Immediate Software Supply Chain Controls",
+    "url": "https://dev.to/docker/sip-five-immediate-software-supply-chain-controls-4836",
+    "keywords": [
+      "software supply chain security",
+      "often get",
+      "different capacities",
+      "talk",
+      "source",
+      "sip",
+      "sip",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# SIP: Five Immediate Software Supply Chain Controls > Source: devto | Category: news | 2026-08-17T16:34:21Z I talk about software supply chain security in different capacities, and I often get the same..."
+  },
+  "e498f21edeb9354d": {
+    "file": "corpus/devto/dev_to_siddharth_pandey_27_your-monorepo-remembers-infrastru_5e7dc2d208.md",
+    "source": "devto",
+    "title": "Your monorepo remembers infrastructure you deleted",
+    "url": "https://dev.to/siddharth_pandey_27/your-monorepo-remembers-infrastructure-you-deleted-24lp",
+    "keywords": [
+      "tool told someone",
+      "monorepo remembers infrastructure",
+      "monorepo remembers infrastructure",
+      "table",
+      "stack",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "deploy"
+    ],
+    "summary": "# Your monorepo remembers infrastructure you deleted > Source: devto | Category: news | 2026-08-17T16:34:25Z A tool told someone to deploy a table from a stack they had deleted   Three bug reports..."
+  },
+  "687587f1047639e0": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_gpt-5-6-sol-is-50-off-on-ai-gateway-for_0f13cb6d40.md",
+    "source": "vercel-blog",
+    "title": "GPT-5.6 Sol is 50% off on AI Gateway for the next month",
+    "url": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
+    "keywords": [
+      "next month",
+      "next month",
+      "next month",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "6 sol",
+      "6 sol",
+      "6 sol",
+      "26z gpt"
+    ],
+    "summary": "# GPT-5.6 Sol is 50% off on AI Gateway for the next month > Source: vercel-blog | Category: news | 2026-08-17T16:34:26Z GPT-5.6 Sol is 50% off on AI Gateway for the next month"
+  },
+  "988f4938ec13f937": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_certighost-and-the-pr_c7510fc0ce.md",
+    "source": "security",
+    "title": "[bleeping-comp] Certighost and the Privilege Hiding in Your Certificate Authority",
+    "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "keywords": [
+      "tier 0 identity infrastructure",
+      "standard domain user turn",
+      "certificate authority cve",
+      "domain controller",
+      "certificate authority",
+      "certificate authority",
+      "treating pki",
+      "standing privilege",
+      "privilege hiding",
+      "privilege hiding"
+    ],
+    "summary": "# [bleeping-comp] Certighost and the Privilege Hiding in Your Certificate Authority Certighost and the Privilege Hiding in Your Certificate Authority The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been."
+  },
+  "50c1f8825528e966": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_linux-botnet-evooo1bot-mirai-_31464e819e.md",
+    "source": "security",
+    "title": "[dark-reading] Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+    "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+    "keywords": [
+      "botnet adds exploitation modules",
+      "turn compromised devices",
+      "reverse socks relays",
+      "persistent attacker infrastructure",
+      "credential theft",
+      "source",
+      "security",
+      "security",
+      "reading",
+      "reading"
+    ],
+    "summary": "# [dark-reading] Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure."
+  },
+  "766d178f3604473e": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-confirms-g_854ad5325b.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft confirms GitHub is down worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+    "keywords": [
+      "16z microsoft confirms github",
+      "microsoft confirms github",
+      "microsoft confirms github",
+      "causing errors across",
+      "worldwide github",
+      "widespread outage",
+      "pull requests",
+      "worldwide",
+      "worldwide",
+      "website"
+    ],
+    "summary": "# [bleeping-comp] Microsoft confirms GitHub is down worldwide Microsoft confirms GitHub is down worldwide GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services."
+  },
+  "cf5307531dc9fea9": {
+    "file": "corpus/security/thehackernews_com_2026_08_weekly-recap-vmware-exploits-windo_74a4bb0aaf.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "keywords": [
+      "exposed services got hit",
+      "assumed nobody would look",
+      "14z ⚡ weekly recap",
+      "⚡ weekly recap",
+      "⚡ weekly recap",
+      "windows 0",
+      "windows 0",
+      "windows 0",
+      "vmware exploits",
+      "vmware exploits"
+    ],
+    "summary": "# [hacker-news-sec] ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise."
+  },
+  "6c81b56b51665870": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48257_trump-linked-world-libert_e4f5aedce2.md",
+    "source": "finance",
+    "title": "[finextra] Trump-linked World Liberty Financial gets conditional bank charter approval",
+    "url": "https://www.finextra.com/newsarticle/48257/trump-linked-world-liberty-financial-gets-conditional-bank-charter-approval?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "received conditional approval",
+      "bank charter",
+      "15z trump",
+      "trump",
+      "trump",
+      "source",
+      "office",
+      "finextra",
+      "finextra",
+      "finance"
+    ],
+    "summary": "# [finextra] Trump-linked World Liberty Financial gets conditional bank charter approval Trump-linked World Liberty Financial gets conditional bank charter approval Donald Trump-linked crypto venture World Liberty Financial has received conditional approval for a bank charter from the Office of the Comptroller of the Currency."
+  },
+  "0f677549186a48c5": {
+    "file": "corpus/hackernews/www_bundeskartellamt_de_SharedDocs_Meldung_EN_Pressemitteilu_542a76a9c6.md",
+    "source": "hackernews",
+    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "keywords": [
+      "app tracking transparency treated",
+      "app tracking transparency treated",
+      "apps better",
+      "apps better",
+      "15z score",
+      "source",
+      "rivals",
+      "rivals",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Apple's App Tracking Transparency treated its own apps better than rivals > Source: hackernews | Category: news | 2026-08-17T16:34:15Z Score: 167 | Comments: 59"
+  },
+  "688fd060a94cc879": {
+    "file": "corpus/hackernews/nmsspot_com_2026_08_09_my-ten-years-in-no-mans-sky_4ec7f31790.md",
+    "source": "hackernews",
+    "title": "My Ten Years in No Man's Sky",
+    "url": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/",
+    "keywords": [
+      "ten years",
+      "ten years",
+      "18z score",
+      "source",
+      "sky",
+      "sky",
+      "news",
+      "man",
+      "man",
+      "hackernews"
+    ],
+    "summary": "# My Ten Years in No Man's Sky > Source: hackernews | Category: news | 2026-08-17T16:34:18Z Score: 65 | Comments: 61"
+  },
+  "32b605e639984653": {
+    "file": "corpus/hackernews/ysph_yale_edu_news-article_universal-health-coverage-could-s_5f26ffd12c.md",
+    "source": "hackernews",
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "keywords": [
+      "yale study",
+      "yale study",
+      "16z score",
+      "114k lives",
+      "114k lives",
+      "year",
+      "year",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study > Source: hackernews | Category: news | 2026-08-17T16:34:16Z Score: 182 | Comments: 205"
+  },
+  "a1185c6606c55c52": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49332387_50beb3b5c3.md",
+    "source": "hackernews",
+    "title": "Ask HN: Is this the worst time to be human?",
+    "url": "https://news.ycombinator.com/item?id=49332387",
+    "keywords": [
+      "humans keep life interesting",
+      "become less economical compared",
+      "speeding bullet ?< p",
+      "ex :- drawing animation",
+      "ex :- 1",
+      "depressed .< p",
+      "miserable &# x2f",
+      "causing miserable lives",
+      "using ai tools",
+      "ai generated unless"
+    ],
+    "summary": "With AI doing much of the work, how do we humans keep life interesting? People who make a living by drawing because they like it will feel all the more miserable. For ex:- drawing animation by hand will become less economical compared with AI generated unless you are faster than a speeding bullet?<p>Please share your thoughts."
+  },
+  "41d734d0ffd5c250": {
+    "file": "corpus/hackernews/nanochess_org_am29000_c_compiler_web_browser_html_35147f36d9.md",
+    "source": "hackernews",
+    "title": "How I developed an Am29000 C compiler and web browser",
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "keywords": [
+      "am29000 c compiler",
+      "am29000 c compiler",
+      "web browser",
+      "web browser",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "developed",
+      "developed"
+    ],
+    "summary": "# How I developed an Am29000 C compiler and web browser > Source: hackernews | Category: news | 2026-08-17T16:34:15Z Score: 30 | Comments: 2"
+  },
+  "0da0fee5be988117": {
+    "file": "corpus/hackernews/twitter_com_TheAhmadOsman_status_2065307070044234186_53d23d2c59.md",
+    "source": "hackernews",
+    "title": "Ahmad on X: 'Anthropic's War on open source AI' / X",
+    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "keywords": [
+      "open source ai",
+      "open source ai",
+      "19z score",
+      "source",
+      "war",
+      "war"
+    ],
+    "summary": "# Ahmad on X: \"Anthropic's War on open source AI\" / X > Source: hackernews | Category: news | 2026-08-17T16:34:19Z Score: 9 | Comments: 0"
+  },
+  "8f8e69af93a9df8b": {
+    "file": "corpus/hackernews/mkornreich_me_projects_sokoban_8f664b8520.md",
+    "source": "hackernews",
+    "title": "Show HN: Sokoban AI Solver",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "keywords": [
+      "sokoban ai solver",
+      "sokoban ai solver",
+      "show hn",
+      "show hn",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Sokoban AI Solver > Source: hackernews | Category: news | 2026-08-17T16:34:15Z Score: 39 | Comments: 27"
+  },
+  "35fcb91b54e9bde5": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Olo_color_a51b9f3757.md",
+    "source": "hackernews",
+    "title": "Olo (Color)",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "keywords": [
+      "15z score",
+      "source",
+      "olo",
+      "olo",
+      "news",
+      "hackernews",
+      "comments",
+      "color",
+      "color",
+      "category"
+    ],
+    "summary": "# Olo (Color) > Source: hackernews | Category: news | 2026-08-17T16:34:15Z Score: 55 | Comments: 4"
+  },
+  "34d2d4f1ed5628cb": {
+    "file": "corpus/hackernews/www_wiz_io_blog_red-agent-snowflake-copilot-cicd-bug_76963b852e.md",
+    "source": "hackernews",
+    "title": "AI-Generated GitHub Copilot 'Autofix' Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "keywords": [
+      "generated github copilot",
+      "generated github copilot",
+      "allowed compromise",
+      "allowed compromise",
+      "14z score",
+      "source",
+      "snowflake",
+      "snowflake",
+      "news",
+      "jira"
+    ],
+    "summary": "# AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira > Source: hackernews | Category: news | 2026-08-17T16:34:14Z Score: 100 | Comments: 44"
+  },
+  "5ace5b4885f38abc": {
+    "file": "corpus/hackernews/statuslin_es_3028e0cf7c.md",
+    "source": "hackernews",
+    "title": "Show HN: A community library for Claude Code status lines",
+    "url": "https://statuslin.es",
+    "keywords": [
+      "claude code status lines",
+      "claude code status lines",
+      "various scenarios .< p",
+      "approval .< p",
+      "nathanab &# x2f",
+      "nathanab &# x2f",
+      "live sandbox containers",
+      "com &# x2f",
+      "com &# x2f",
+      "status line renderings"
+    ],
+    "summary": "# Show HN: A community library for Claude Code status lines > Source: hackernews | Category: news | 2026-08-17T16:34:19Z All status line renderings are captured from live sandbox containers under various scenarios.<p>Anyone can submit a status line, and each one is manually reviewed before approval.<p>Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;NathanAB&#x2F;statuslin.es\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;NathanAB&#x2F;statuslin.es</a><p>Enjoy!"
+  },
+  "350fab4e0ffab687": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49330597_403b294d26.md",
+    "source": "hackernews",
+    "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
+    "url": "https://news.ycombinator.com/item?id=49330597",
+    "keywords": [
+      "please try refreshing",
+      "incidents &# x2f",
+      "experiencing degraded performance",
+      "experiencing degraded performance",
+      "com &# x2f",
+      "tell hn",
+      "tell hn",
+      "tell hn",
+      "original title",
+      "currently available"
+    ],
+    "summary": "# Tell HN: GitHub Is Experiencing Degraded Performance Just got this message: &quot;No server is currently available to service your request. Please try refreshing and contact us if the problem persists.&quot;<p>Edit: at the time of posting there was not an incident on githubstatus.com."
+  },
+  "109d8bb154139509": {
+    "file": "corpus/hackernews/www_githubstatus_com_incidents_zkxwbgr0cnmx_5fd5a81e69.md",
+    "source": "hackernews",
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "keywords": [
+      "16z score",
+      "source",
+      "news",
+      "incident",
+      "incident",
+      "hackernews",
+      "github",
+      "github",
+      "comments",
+      "com"
+    ],
+    "summary": "# Incident with Github.com > Source: hackernews | Category: news | 2026-08-17T16:34:16Z Score: 683 | Comments: 487"
+  },
+  "2ffdecf6c68b1eb8": {
+    "file": "corpus/hackernews/flagquizzes_com_b8834e9f34.md",
+    "source": "hackernews",
+    "title": "Show HN: Learn Flags Quiz",
+    "url": "https://flagquizzes.com/",
+    "keywords": [
+      "learn flags quiz",
+      "learn flags quiz",
+      "show hn",
+      "show hn",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Learn Flags Quiz > Source: hackernews | Category: news | 2026-08-17T16:34:16Z Score: 14 | Comments: 3"
+  },
+  "8c39a06ac5cd8c3d": {
+    "file": "corpus/hackernews/www_npr_org_2026_08_17_nx-s1-5928263_cialis-viagra-tadalafil_9f40d2702e.md",
+    "source": "hackernews",
+    "title": "Online clinics and influencers are promoting Cialis as a longevity drug",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+    "keywords": [
+      "promoting cialis",
+      "promoting cialis",
+      "online clinics",
+      "online clinics",
+      "longevity drug",
+      "longevity drug",
+      "17z score",
+      "source",
+      "news",
+      "influencers"
+    ],
+    "summary": "# Online clinics and influencers are promoting Cialis as a longevity drug > Source: hackernews | Category: news | 2026-08-17T16:34:17Z Score: 69 | Comments: 47"
+  },
+  "d1106513e0ad9915": {
+    "file": "corpus/hackernews/arstechnica_com_science_2026_08_meet-the-only-known-trebuche_6132321fb4.md",
+    "source": "hackernews",
+    "title": "The only known trebuchet casualty in history",
+    "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+    "keywords": [
+      "known trebuchet casualty",
+      "known trebuchet casualty",
+      "18z score",
+      "source",
+      "news",
+      "history",
+      "history",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The only known trebuchet casualty in history > Source: hackernews | Category: news | 2026-08-17T16:34:18Z Score: 28 | Comments: 7"
+  },
+  "39b0e2e05ae19139": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49331033_17056c89af.md",
+    "source": "hackernews",
+    "title": "Ask HN: Alternatives to GitHub",
+    "url": "https://news.ycombinator.com/item?id=49331033",
+    "keywords": [
+      "make sense",
+      "ask hn",
+      "ask hn",
+      "15z score",
+      "123 github",
+      "github",
+      "github",
+      "switch",
+      "source",
+      "news"
+    ],
+    "summary": "# Ask HN: Alternatives to GitHub > Source: hackernews | Category: news | 2026-08-17T16:34:15Z Github has been down consistently over the last few months - does it make sense to switch to alternatives?"
+  },
+  "ccef394058ae5b25": {
+    "file": "corpus/hackernews/signoregalilei_com_2026_08_02_how-to-put-170-atoms-in-an-ato_568edd0203.md",
+    "source": "hackernews",
+    "title": "How to put 170 atoms in an atom",
+    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "keywords": [
+      "put 170 atoms",
+      "put 170 atoms",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "atom",
+      "atom"
+    ],
+    "summary": "# How to put 170 atoms in an atom > Source: hackernews | Category: news | 2026-08-17T16:34:14Z Score: 42 | Comments: 4"
+  },
+  "668c8e2397dd855b": {
+    "file": "corpus/hackernews/github_com_earendil-works_pi_issues_534_9bdeac9934.md",
+    "source": "hackernews",
+    "title": "Pi coding agent: config folder is out of place on Linux",
+    "url": "https://github.com/earendil-works/pi/issues/534",
+    "keywords": [
+      "pi coding agent",
+      "pi coding agent",
+      "config folder",
+      "config folder",
+      "19z score",
+      "source",
+      "place",
+      "place",
+      "news",
+      "linux"
+    ],
+    "summary": "# Pi coding agent: config folder is out of place on Linux > Source: hackernews | Category: news | 2026-08-17T16:34:19Z Score: 32 | Comments: 11"
+  },
+  "453cf1fc3752af14": {
+    "file": "corpus/hackernews/piszczek_pl_blog_qwen38-27b-256k-50-tps-24gb-gpu_eddd8be852.md",
+    "source": "hackernews",
+    "title": "Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU",
+    "url": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+    "keywords": [
+      "24 gb gpu",
+      "24 gb gpu",
+      "8 27b",
+      "8 27b",
+      "50 tps",
+      "50 tps",
+      "16z score",
+      "source",
+      "qwen3",
+      "qwen3"
+    ],
+    "summary": "# Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU > Source: hackernews | Category: news | 2026-08-17T16:34:16Z Score: 32 | Comments: 26"
+  },
+  "c2a6b04512b7f8b5": {
+    "file": "corpus/hackernews/speko_ai_5011c8f472.md",
+    "source": "hackernews",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "keywords": [
+      "swapping always looked like",
+      "cto building voice agents",
+      "typical production voice agent",
+      "caller waits .< p",
+      "spent four years",
+      "plane round trip",
+      "high error rates",
+      "enterprises across asia",
+      "dozen credible vendors",
+      "balanced ), language"
+    ],
+    "summary": "I&#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;no2LY2gRh-c\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;no2LY2gRh-c</a> Link: <a href=\"https:&#x2F;&#x2F;speko.ai&#x2F;?utm_source=hn\">https:&#x2F;&#x2F;speko.ai&#x2F;?utm_source=hn</a><p>Typical production voice agent is an ensemble "
+  },
+  "aeeb6ec40a589b1d": {
+    "file": "corpus/hackernews/reason_com_volokh_2026_08_17_judges-allegedly-relying-wholly_38ed1a960b.md",
+    "source": "hackernews",
+    "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+    "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+    "keywords": [
+      "judge relying wholly",
+      "judge relying wholly",
+      "judicial immunity",
+      "judicial immunity",
+      "court rules",
+      "court rules",
+      "18z score",
+      "source",
+      "order",
+      "order"
+    ],
+    "summary": "# Judge relying wholly on AI in order is covered by judicial immunity, court rules > Source: hackernews | Category: news | 2026-08-17T16:34:18Z Score: 21 | Comments: 24"
+  },
+  "dffdc98e37d5b42d": {
+    "file": "corpus/hackernews/saggar_marginalutility_dev_3d4b4eb8ba.md",
+    "source": "hackernews",
+    "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "url": "https://saggar.marginalutility.dev/",
+    "keywords": [
+      "terminal stopped feeling like",
+      "started feeling like",
+      "1 hi hn",
+      "like many",
+      "mac terminal",
+      "mac terminal",
+      "show hn",
+      "show hn",
+      "talented folk",
+      "management problem"
+    ],
+    "summary": "# Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized Hi HN, like many of you talented folk, I’ve been building more, faster than ever. I built Saggar after my terminal stopped feeling like a tool and started feeling like a tab-management problem."
+  },
+  "91537dc290638752": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49330632_5470cf5e76.md",
+    "source": "hackernews",
+    "title": "GitHub down again? no PR access",
+    "url": "https://news.ycombinator.com/item?id=49330632",
+    "keywords": [
+      "com currently says everything",
+      "pr access",
+      "pr access",
+      "99 githubstatus",
+      "15z score",
+      "&# x27",
+      "working",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "no PR access > Source: hackernews | Category: news | 2026-08-17T16:34:15Z Githubstatus.com currently says everything is working, but it isn&#x27;t"
+  },
+  "7f437f9591bf4b4f": {
+    "file": "corpus/hackernews/www_librarian_net_notoai_050c872c2a.md",
+    "source": "hackernews",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "keywords": [
+      "avoid intrusive ai",
+      "avoid intrusive ai",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "disable",
+      "disable",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to disable or avoid intrusive AI > Source: hackernews | Category: news | 2026-08-17T16:34:14Z Score: 76 | Comments: 20"
+  },
+  "b78af9e7daf70f56": {
+    "file": "corpus/hackernews/duckdb_org_2026_08_17_duckdb-20-highlights_4f5a33c12f.md",
+    "source": "hackernews",
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "keywords": [
+      "duckdb v2",
+      "duckdb v2",
+      "14z score",
+      "source",
+      "preview",
+      "preview",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Preview of DuckDB v2.0 > Source: hackernews | Category: news | 2026-08-17T16:34:14Z Score: 214 | Comments: 31"
+  },
+  "c87df7a3553b0fa3": {
+    "file": "corpus/design/css-tricks_com_dark-mode-toggles-two-states-are-enough_172d4f0ca0.md",
+    "source": "design",
+    "title": "[css-tricks] Dark mode toggles: two states are enough",
+    "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+    "keywords": [
+      "display three state options",
+      "15z dark mode toggles",
+      "dark mode toggles",
+      "dark mode toggles",
+      "dark mode toggles",
+      "dark mode implementations",
+      "enough originally handwritten",
+      "two states",
+      "two states",
+      "two states"
+    ],
+    "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough  originally handwritten and published with love on  CSS-Tricks . You should really  get the newsletter  as well."
+  },
+  "42c6a43ffd1108cb": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_grab-ai-analytics-agents_utm_camp_35e377856f.md",
+    "source": "engineering",
+    "title": "[infoq] Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents",
+    "url": "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "cutting mechanical analyst work",
+      "approach combines agent autonomy",
+      "automate analytics workflows",
+      "using ai agents",
+      "ai agents grab",
+      "ai agents",
+      "ai agents",
+      "leela kumili",
+      "human oversight",
+      "context management"
+    ],
+    "summary": "# [infoq] Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents Its approach combines agent autonomy, certified data, context management and human oversight, with self service analytics increasingly handling metric, data and SQL requests without analyst intervention."
+  },
+  "d7a3e6be3cf80a61": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_waymo-vs-tesla-two-ways-to-build_d199878e74.md",
+    "source": "engineering",
+    "title": "[bytebytego] Waymo vs Tesla: Two Ways to Build Self-Driving Cars",
+    "url": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
+    "keywords": [
+      "16z waymo vs tesla",
+      "waymo vs tesla",
+      "waymo vs tesla",
+      "two ways",
+      "two ways",
+      "two ways",
+      "driving cars",
+      "driving cars",
+      "driving cars",
+      "build self"
+    ],
+    "summary": "# [bytebytego] Waymo vs Tesla: Two Ways to Build Self-Driving Cars Waymo vs Tesla: Two Ways to Build Self-Driving Cars In this article, we will take a look at both approaches."
+  },
+  "f7034f92a872cc13": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_java-native-json-api_utm_campaign_7284408bba.md",
+    "source": "engineering",
+    "title": "[infoq] JEP 540 Proposed to Target JDK 28 with a Simple JSON API",
+    "url": "https://www.infoq.com/news/2026/08/java-native-json-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "enforcing strict syntax rules",
+      "api allows simple traversal",
+      "15z jep 540 proposed",
+      "jep 540 proposed",
+      "jep 540 proposed",
+      "simple json api",
+      "simple json api",
+      "simple json api",
+      "immutable value hierarchy",
+      "target jdk 28"
+    ],
+    "summary": "# [infoq] JEP 540 Proposed to Target JDK 28 with a Simple JSON API It introduces a compact API for parsing and generating JSON documents without external dependencies. The API allows simple traversal and conversion while enforcing strict syntax rules."
+  },
+  "1032ce3077f0ff96": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_how-i-ai-how-a-solo-founder-used_f28c01da51.md",
+    "source": "sales",
+    "title": "[lennys] 🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+    "keywords": [
+      "solo founder used codex",
+      "solo founder used codex",
+      "solo founder used codex",
+      "fashion brand without engineers",
+      "fashion brand without engineers",
+      "fashion brand without engineers",
+      "17z 🎙 ️",
+      "🎙 ️",
+      "🎙 ️",
+      "weekly listens"
+    ],
+    "summary": "# [lennys] 🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers 🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers Your weekly listens from How I AI, part of the Lenny's Podcast Network"
   }
 }
