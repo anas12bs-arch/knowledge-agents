@@ -428016,5 +428016,119 @@
       "mvc approach"
     ],
     "summary": "# [infoq] Presentation: From Thousands to One: Building LLM-Powered Selection Systems Jendrik Jördening shares practical engineering strategies for integrating LLMs into production pipelines. He discusses overcoming non-determinism, restricting schemas, separating semantic text extraction from deterministic code, and validating choices using discriminator models."
+  },
+  "2945db975e189364": {
+    "file": "corpus/github-releases/github_com_docker_compose_releases_tag_v5_5_0_4743dd800c.md",
+    "source": "github-releases",
+    "title": "docker/compose v5.5.0 released",
+    "url": "https://github.com/docker/compose/releases/tag/v5.5.0",
+    "keywords": [
+      "inline needlessly extracted single",
+      "add engine column driven",
+      "14041 ### 🐛 fixes",
+      "14028 ### 🔧 internal",
+      "deps ): bump github",
+      "deps ): bump github",
+      "deps ): bump github",
+      "deps ): bump github",
+      "prevent unnecessary container recreation",
+      "bridge ): validate arguments"
+    ],
+    "summary": "> ℹ️  This release overhauls image digest reconciliation to prevent unnecessary container recreation. > Existing containers may be recreated the first time you run `compose up` after upgrading, as image digests are re-evaluated using the new logic. ### ⚙️ Dependencies * Build(deps): bump github.com/moby/moby/client from 0.5.0 to 0.5.1 by @dependabot[bot] in https://github.com/docker/compose/pull/13999 * Build(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.4 by @dependabot[bot]"
+  },
+  "9cb677803ee63a5c": {
+    "file": "corpus/devto/dev_to_grimicorn_revalidatetag-vs-updatetag-nextjs-split-cac_7fda4eeba7.md",
+    "source": "devto",
+    "title": "revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two",
+    "url": "https://dev.to/grimicorn/revalidatetag-vs-updatetag-nextjs-split-cache-invalidation-in-two-bag",
+    "keywords": [
+      "js split cache invalidation",
+      "js split cache invalidation",
+      "revalidatetag vs updatetag",
+      "revalidatetag vs updatetag",
+      "lag versus content",
+      "split maps",
+      "real distinction",
+      "47z next",
+      "content",
+      "next"
+    ],
+    "summary": "# revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two > Source: devto | Category: news | 2026-08-17T10:18:47Z Next.js 16 gave cache invalidation two different functions instead of one, and the split maps to a real distinction: content that can lag versus content the user just typed."
+  },
+  "926299b67c95f2cf": {
+    "file": "corpus/devto/dev_to_wolfejam_i-built-a-lying-mcp-server-on-purpose-heres-_0146a9d866.md",
+    "source": "devto",
+    "title": "I built a lying MCP server on purpose — here's how you catch it",
+    "url": "https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g",
+    "keywords": [
+      "list response either backs",
+      "lying mcp server",
+      "lying mcp server",
+      "say anything",
+      "purpose —",
+      "purpose —",
+      "dr —",
+      "46z tl",
+      "server",
+      "tools"
+    ],
+    "summary": "# \"I built a lying MCP server on purpose — here's how you catch it\" TL;DR — A server's README can say anything. Its tools/list response either backs that up or it..."
+  },
+  "03a4dcdba21f3c19": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_french-tax-authority-_651dff2e00.md",
+    "source": "security",
+    "title": "[bleeping-comp] French tax authority data breach affects 678,000 individuals",
+    "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+    "keywords": [
+      "stole data belonging",
+      "data breach",
+      "public finances",
+      "general directorate",
+      "french ministry",
+      "attacker accessed",
+      "000 individuals",
+      "000 individuals",
+      "000 individuals",
+      "000 individuals"
+    ],
+    "summary": "# [bleeping-comp] French tax authority data breach affects 678,000 individuals French tax authority data breach affects 678,000 individuals The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals."
+  },
+  "e5e494ee02763ed1": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_grafana-mcp-server-telemetry_utm__9f24052424.md",
+    "source": "engineering",
+    "title": "[infoq] Grafana's gcx and MCP Server Reach GA for Telemetry-Driven Agent Development",
+    "url": "https://www.infoq.com/news/2026/08/grafana-mcp-server-telemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "mcp server reach ga",
+      "mcp server reach ga",
+      "mcp server reach ga",
+      "grafana mcp server",
+      "synthetic monitoring results",
+      "announced general availability",
+      "driven agent development",
+      "driven agent development",
+      "two tools",
+      "pull metrics"
+    ],
+    "summary": "# [infoq] Grafana's gcx and MCP Server Reach GA for Telemetry-Driven Agent Development Grafana Labs has announced general availability for two tools that let AI coding agents query live observability data during development: the gcx CLI and the Grafana MCP server. Both allow agents to pull metrics, logs, traces, SLOs, and Synthetic Monitoring results from Grafana Cloud or a self-hosted stack   By Claudio Masolo"
+  },
+  "1ead179d60f8d345": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-how-can-i-become-a-better-vp-of-s_9fc731868a.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr: How Can I Become a Better VP of Sales?",
+    "url": "https://www.saastr.com/dear-saastr-how-can-i-become-a-better-vp-of-sales/",
+    "keywords": [
+      "number — quarter",
+      "building process decks",
+      "... continue reading",
+      "39z dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "job actually",
+      "hard truth",
+      "better vp"
+    ],
+    "summary": "Dear SaaStr: How Can I Become a Better VP of Sales? Dear SaaStr: How Can I Become a Better VP of Sales? The hard truth: most VPs of Sales fail not because they can&#8217;t sell, but because they don&#8217;t understand what the job actually is."
   }
 }
