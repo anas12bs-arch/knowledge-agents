@@ -432322,5 +432322,212 @@
       "category"
     ],
     "summary": "# Intriguing Stories in Computer Science > Source: hackernews | Category: news | 2026-08-17T22:01:11Z Score: 5 | Comments: 0"
+  },
+  "f63c6a55aa6e0cbe": {
+    "file": "corpus/github-releases/github_com_remix-run_remix_releases_tag_ui_400_7_0_a41a94e701.md",
+    "source": "github-releases",
+    "title": "remix-run/remix ui@0.7.0 released",
+    "url": "https://github.com/remix-run/remix/releases/tag/ui%400.7.0",
+    "keywords": [
+      "``` diff let app",
+      "0 ### minor changes",
+      "default browser frame resolver",
+      "enable frame reloads",
+      "default resolver submits",
+      "15z ## remix",
+      "fetch frame html",
+      "run ({ loadmodule",
+      "}, }) ```",
+      "run ()` calls"
+    ],
+    "summary": "- `run()` now uses a default browser frame resolver when `resolveFrame` is omitted. Apps that supplied a resolver only to fetch frame HTML can remove it: Keep a custom `resolveFrame` when the app needs custom request headers, body encoding, response handling, or error UI."
+  },
+  "92c25a159c773fd9": {
+    "file": "corpus/github-releases/github_com_remix-run_remix_releases_tag_static-files-middlew_7d609846e0.md",
+    "source": "github-releases",
+    "title": "remix-run/remix static-files-middleware@0.1.0 released",
+    "url": "https://github.com/remix-run/remix/releases/tag/static-files-middleware%400.1.0",
+    "keywords": [
+      "0 ### minor changes",
+      "15z ## remix",
+      "remix — static",
+      "static file",
+      "static `.",
+      "static `.",
+      "initial release",
+      "continue importing",
+      "application code",
+      "remix static"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-17T22:25:15Z - Initial release of the static file-serving middleware that powers `remix/middleware/static`. Application code should continue importing `staticFiles` from `remix/middleware/static`."
+  },
+  "04f3b41d8399f90b": {
+    "file": "corpus/devto/dev_to_micaavigliano_master-price-tags-167d_845242cb33.md",
+    "source": "devto",
+    "title": "Master price tags",
+    "url": "https://dev.to/micaavigliano/master-price-tags-167d",
+    "keywords": [
+      "html tags comparative ...",
+      "master price tags",
+      "master price tags",
+      "15z understanding",
+      "gt ;,",
+      "use",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Master price tags > Source: devto | Category: news | 2026-08-17T22:24:15Z Understanding when to use &lt;ins&gt;, &lt;del&gt; and &lt;s&gt; HTML tags      Comparative..."
+  },
+  "9d45172fdb8546cd": {
+    "file": "corpus/devto/dev_to_ashwin_ugale_102f2abc9cec_your-agent-ignored-a-failed_c84e36c2c4.md",
+    "source": "devto",
+    "title": "Your agent ignored a failed tool call. Here's how to catch that in CI.",
+    "url": "https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17",
+    "keywords": [
+      "failed tool call",
+      "failed tool call",
+      "reads results",
+      "ai agent",
+      "agent ignored",
+      "agent ignored",
+      "calls tools",
+      "tools",
+      "calls",
+      "time"
+    ],
+    "summary": "# Your agent ignored a failed tool call. Here's how to catch that in CI. You ship an AI agent."
+  },
+  "0422d52f0ce3c9bb": {
+    "file": "corpus/devto/dev_to_rizwan_haider_d8b26a1d5b8_i-verified-51-sets-of-us-ta_d40607e582.md",
+    "source": "devto",
+    "title": "I verified 51 sets of US tax rules by hand and turned them into a static site",
+    "url": "https://dev.to/rizwan_haider_d8b26a1d5b8/i-verified-51-sets-of-us-tax-rules-by-hand-and-turned-them-into-a-static-site-f4e",
+    "keywords": [
+      "three different paycheck calculators",
+      "get three different ...",
+      "verified 51 sets",
+      "verified 51 sets",
+      "us tax rules",
+      "us tax rules",
+      "static site",
+      "static site",
+      "15z run",
+      "turned"
+    ],
+    "summary": "# I verified 51 sets of US tax rules by hand and turned them into a static site > Source: devto | Category: news | 2026-08-17T22:24:15Z Run the same salary through three different paycheck calculators and you'll get three different..."
+  },
+  "941dff426920f20f": {
+    "file": "corpus/devto/dev_to_haoxiang_li_a709204042e6b_codex-vs-claude-code-at-lia_ff93f1a8fe.md",
+    "source": "devto",
+    "title": "Codex vs. Claude Code at Liar's Dice: the Winning Bluff Was the Truth",
+    "url": "https://dev.to/haoxiang_li_a709204042e6b/codex-vs-claude-code-at-liars-dice-the-winning-bluff-was-the-truth-203l",
+    "keywords": [
+      "15z one authoritative engine",
+      "locked mcp servers",
+      "winning bluff",
+      "winning bluff",
+      "two seat",
+      "three best",
+      "millisecond ...",
+      "codex vs",
+      "codex vs",
+      "claude code"
+    ],
+    "summary": "# Codex vs. Claude Code at Liar's Dice: the Winning Bluff Was the Truth > Source: devto | Category: news | 2026-08-17T22:24:15Z One authoritative engine, two seat-locked MCP servers, three best-of-threes, and a 3-millisecond..."
+  },
+  "4d6d3f816b221bd3": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_dLhcLqoff6k_8fda1ff99f.md",
+    "source": "youtube",
+    "title": "[theo] I'm done with terminals",
+    "url": "https://www.youtube.com/watch?v=dLhcLqoff6k",
+    "keywords": [
+      "find another solution thank",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "terminal experience",
+      "blacksmith want",
+      "terminals since",
+      "blacksmith",
+      "terminals"
+    ],
+    "summary": "# [theo] I'm done with terminals I've lived in terminals since I was 13, so this breaks my heart, but the Terminal experience isn't good for coding with agents so we need to find another solution Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "0b5895ba3615f6b1": {
+    "file": "corpus/hackernews/catcrafts_net_posts_fairphone-6-postmarketos-working-main-ca_2b385af36e.md",
+    "source": "hackernews",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "keywords": [
+      "postmarketos working main camera",
+      "postmarketos working main camera",
+      "fairphone 6",
+      "fairphone 6",
+      "08z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Fairphone 6 and PostmarketOS working main camera > Source: hackernews | Category: news | 2026-08-17T22:24:08Z Score: 8 | Comments: 0"
+  },
+  "90272bcfd2ab92fe": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_08_17_climate_lake-powell-record-low-co_0dfd644dcf.md",
+    "source": "hackernews",
+    "title": "Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest",
+    "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+    "keywords": [
+      "threatening life",
+      "threatening life",
+      "largest reservoirs",
+      "largest reservoirs",
+      "11z score",
+      "southwest",
+      "southwest",
+      "source",
+      "news",
+      "nation"
+    ],
+    "summary": "# Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest > Source: hackernews | Category: news | 2026-08-17T22:24:11Z Score: 6 | Comments: 0"
+  },
+  "fe28287e82179ffe": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_08_17_business_buy-now-pay-later_html_c4f2753d8f.md",
+    "source": "hackernews",
+    "title": "Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent",
+    "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
+    "keywords": [
+      "needs like electricity",
+      "needs like electricity",
+      "lenders pitch loans",
+      "lenders pitch loans",
+      "pay later",
+      "pay later",
+      "12z score",
+      "source",
+      "rent",
+      "rent"
+    ],
+    "summary": "# 'Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent > Source: hackernews | Category: news | 2026-08-17T22:24:12Z Score: 6 | Comments: 4"
+  },
+  "1390ed9253f0c7aa": {
+    "file": "corpus/hackernews/timmarinin_net_2026_bluesky-screenshots_a52672b084.md",
+    "source": "hackernews",
+    "title": "Bluesky draws its logo on screenshots",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "keywords": [
+      "bluesky draws",
+      "bluesky draws",
+      "09z score",
+      "source",
+      "screenshots",
+      "screenshots",
+      "news",
+      "logo",
+      "logo",
+      "hackernews"
+    ],
+    "summary": "# Bluesky draws its logo on screenshots > Source: hackernews | Category: news | 2026-08-17T22:24:09Z Score: 3 | Comments: 0"
   }
 }
