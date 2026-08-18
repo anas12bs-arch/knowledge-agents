@@ -434912,5 +434912,100 @@
       "story publicly"
     ],
     "summary": "In a sense, it happened to me — once. But I’ve learned a few things: No one cares. No one wants to work with, or...   Continue Reading"
+  },
+  "e0adcaca905b3839": {
+    "file": "corpus/github-releases/github_com_prisma_prisma_releases_tag_v8_0_0-rc_3_c69840c9a0.md",
+    "source": "github-releases",
+    "title": "prisma/prisma v8.0.0-rc.3 released",
+    "url": "https://github.com/prisma/prisma/releases/tag/v8.0.0-rc.3",
+    "keywords": [
+      "every mounted product runs",
+      "structured delegated output",
+      "code changes —",
+      "5 `); upgrade",
+      "## breaking changes",
+      "orm api changes",
+      "operational peer move",
+      "40z ## prisma",
+      "one engine version",
+      "exact `@ prisma"
+    ],
+    "summary": "A single-purpose release: `@prisma/orm-toolchain` moves its exact `@prisma/cli-engine` peer from 0.1.1 to 0.2.0, so the unified `prisma` CLI can ship a release in which every mounted product runs on the one engine version it installs. There are no ORM API changes in this release. - **The exact `@prisma/cli-engine` peer moves to 0.2.0** — engine 0.2.0 adds the credential-refresh exports and structured delegated output that `prisma@8.0.0-rc.4` was built against but the registry's engine 0.1.1 does"
+  },
+  "0246932321e90fa9": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-windows-task-hos_8d518de522.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA: Windows Task Host flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+    "keywords": [
+      "windows task host flaw",
+      "windows task host flaw",
+      "windows task host flaw",
+      "infrastructure security agency",
+      "ransomware gangs",
+      "ransomware gangs",
+      "ransomware gangs",
+      "ransomware gangs",
+      "also exploiting",
+      "actively exploited"
+    ],
+    "summary": "# [bleeping-comp] CISA: Windows Task Host flaw now exploited by ransomware gangs CISA: Windows Task Host flaw now exploited by ransomware gangs The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April."
+  },
+  "6059ecd54bc60875": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_llms-and-contextual-i_8447452c32.md",
+    "source": "security",
+    "title": "[schneier] LLMs and Contextual Integrity",
+    "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
+    "keywords": [
+      "recently found two papers",
+      "findings reveal fundamental limitations",
+      "6 %, reaching 25",
+      "100 attributes per user",
+      "models leak different attributes",
+      "memory introduces critical risks",
+      "leaking information inappropriately ),",
+      "increasingly use persistent memory",
+      "large language models",
+      "frontier models exhibit"
+    ],
+    "summary": "We present CIMemories, a benchmark for evaluating whether LLMs appropriately control information flow from memory based on task context. Our evaluation reveals that frontier models exhibit up to 69% attribute-level violations (leaking information inappropriately), with lower violation rates often coming at the cost of task utility. Privacy-conscious prompting does not solve this&#8212;models overgeneralize, sharing everything or nothing rather than making nuanced, context-dependent decisions."
+  },
+  "b31faa57f2a14594": {
+    "file": "corpus/hackernews/en_andros_dev_blog_54572bc7_finger-the-1971-social-network-t_832c33d8bd.md",
+    "source": "hackernews",
+    "title": "Finger: Social network that never died",
+    "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+    "keywords": [
+      "social network",
+      "social network",
+      "never died",
+      "never died",
+      "46z score",
+      "source",
+      "news",
+      "hackernews",
+      "finger",
+      "finger"
+    ],
+    "summary": "# Finger: Social network that never died > Source: hackernews | Category: news | 2026-08-18T10:46:46Z Score: 4 | Comments: 0"
+  },
+  "0e4314c73e41cbf6": {
+    "file": "corpus/hackernews/www_theregister_com_ai-and-ml_2026_08_18_google-buys-crashed_16a7068d98.md",
+    "source": "hackernews",
+    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "keywords": [
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "data",
+      "data",
+      "comments",
+      "category",
+      "auction",
+      "auction"
+    ],
+    "summary": "# Google buys crashed airline Spirit's data at auction, because AI > Source: hackernews | Category: news | 2026-08-18T10:46:41Z Score: 21 | Comments: 3"
   }
 }
