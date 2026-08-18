@@ -432974,5 +432974,119 @@
       "documents"
     ],
     "summary": "# Google wins bankruptcy auction for Spirit Airlines emails, chats, documents > Source: hackernews | Category: news | 2026-08-18T00:58:24Z Score: 5 | Comments: 2"
+  },
+  "f95100382af35118": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-ope_123758f4db.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-openai==1.5.2a1 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.5.2a1",
+    "keywords": [
+      "huggingface lockfiles (# 39617",
+      "env var (# 38742",
+      "cassette setup (# 38690",
+      "async contexts (# 38157",
+      "7 updates (# 39187",
+      "11 updates (# 38587",
+      "openai ): update guidance",
+      "openai ): update docstring",
+      "openai ): redact mcp",
+      "compatible providers (# 39327"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-18T02:13:32Z Initial release release(openai): 1.5.2a1 (#39709) feat(openai): extract gateway metadata from response headers when available (#39706) chore(openai): update snapshots (#39657) fix(openai): support o-series models in `get_num_tokens_from_messages` (#38710) release(openai): 1.5.1 (#39653) fix(openai): preserve streamed encrypted reasoning (#39635) chore(infra): support langsmith gateway in CI (#39651) release(openai): 1.5.0 (#3"
+  },
+  "9ea6f80010a3b415": {
+    "file": "corpus/devto/dev_to_thebguy_the-whole-loop-one-window-561g_8add831624.md",
+    "source": "devto",
+    "title": "The Whole Loop, One Window",
+    "url": "https://dev.to/thebguy/the-whole-loop-one-window-561g",
+    "keywords": [
+      "spent years working",
+      "whole loop",
+      "whole loop",
+      "one window",
+      "one window",
+      "feature branches",
+      "code ...",
+      "using",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Whole Loop, One Window > Source: devto | Category: news | 2026-08-18T02:12:49Z I've spent years working with Git."
+  },
+  "df5721b9c6fc796d": {
+    "file": "corpus/devto/dev_to_erystelathevale_how-i-bypassed-reddits-unauthenticate_ee712eed92.md",
+    "source": "devto",
+    "title": "How I Bypassed Reddit's Unauthenticated RSS Rate Limits (Without an API Key)",
+    "url": "https://dev.to/erystelathevale/how-i-bypassed-reddits-unauthenticated-rss-rate-limits-without-an-api-key-3hkc",
+    "keywords": [
+      "unauthenticated rss rate limits",
+      "unauthenticated rss rate limits",
+      "pull rss ...",
+      "bypassed reddit",
+      "bypassed reddit",
+      "api key",
+      "api key",
+      "without",
+      "without",
+      "wall"
+    ],
+    "summary": "# How I Bypassed Reddit's Unauthenticated RSS Rate Limits (Without an API Key) > Source: devto | Category: news | 2026-08-18T02:12:49Z Like many developers building small personal tools in 2026, I ran into a wall when trying to pull RSS..."
+  },
+  "30b26d24257c2919": {
+    "file": "corpus/hackernews/www_science_org_content_article_shattered-skeleton-scottish-_499936b28a.md",
+    "source": "hackernews",
+    "title": "Shattered skeleton is first confirmed death from trebuchet",
+    "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+    "keywords": [
+      "first confirmed death",
+      "first confirmed death",
+      "shattered skeleton",
+      "shattered skeleton",
+      "43z score",
+      "trebuchet",
+      "trebuchet",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Shattered skeleton is first confirmed death from trebuchet > Source: hackernews | Category: news | 2026-08-18T02:12:43Z Score: 3 | Comments: 2"
+  },
+  "68b156a198054032": {
+    "file": "corpus/hackernews/terrytao_wordpress_com_2026_08_12_a-digestion-of-the-proof-o_6683949f47.md",
+    "source": "hackernews",
+    "title": "A digestion of the proof of Sendov's conjecture",
+    "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
+    "keywords": [
+      "44z score",
+      "source",
+      "sendov",
+      "sendov",
+      "proof",
+      "proof",
+      "news",
+      "hackernews",
+      "digestion",
+      "digestion"
+    ],
+    "summary": "# A digestion of the proof of Sendov's conjecture > Source: hackernews | Category: news | 2026-08-18T02:12:44Z Score: 4 | Comments: 0"
+  },
+  "14c8ce0dcf7af56a": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49340013_0d4b8df95f.md",
+    "source": "hackernews",
+    "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
+    "url": "https://news.ycombinator.com/item?id=49340013",
+    "keywords": [
+      "learning new cs concepts",
+      "5 new software releases",
+      "side project",
+      "next interview",
+      "job probably",
+      "guy bagging",
+      "exactly like",
+      "even exist",
+      "entire purpose",
+      "enable cheats"
+    ],
+    "summary": "# Ask HN: Does anyone else feel like nothing matters anymore? Everything is done and cooked with AI now.<p>It&#x27;s exactly like that feeling once you enable cheats in a game; sure you can do anything, but everything is meaningless now. Our entire purpose and joy in life has been taken from us."
   }
 }
