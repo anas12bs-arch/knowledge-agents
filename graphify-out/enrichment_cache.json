@@ -437287,5 +437287,117 @@
       "dream job"
     ],
     "summary": "# [lennys] Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies"
+  },
+  "adcfe11d6e7aa229": {
+    "file": "corpus/devto/dev_to_tomsun28_why-does-every-ai-agent-still-look-like-whil_1cbd80abb5.md",
+    "source": "devto",
+    "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
+    "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
+    "keywords": [
+      "agent runtimes share",
+      "event log",
+      "brittle skeleton",
+      "... }`?",
+      "... }`?",
+      "true",
+      "true",
+      "source",
+      "replace",
+      "reactions"
+    ],
+    "summary": "# Why Does Every AI Agent Still Look Like `while (true) { ... }`? Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log."
+  },
+  "f97d80abe88981c2": {
+    "file": "corpus/vercel-blog/vercel_com_blog_one-million-dollar-hacker-challenge-for-verc_ed6b434dda.md",
+    "source": "vercel-blog",
+    "title": "$1 million hacker challenge for Vercel Sandbox",
+    "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+    "keywords": [
+      "1 million hacker challenge",
+      "1 million hacker challenge",
+      "1 million hacker challenge",
+      "vercel sandbox",
+      "vercel sandbox",
+      "vercel sandbox",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# $1 million hacker challenge for Vercel Sandbox > Source: vercel-blog | Category: news | 2026-08-18T16:16:51Z $1 million hacker challenge for Vercel Sandbox"
+  },
+  "d42dae82f6a219f6": {
+    "file": "corpus/hackernews/abstractextraordinary_com_blog_how-muse-glimmer-fits-an-agen_651fb9e241.md",
+    "source": "hackernews",
+    "title": "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer",
+    "url": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
+    "keywords": [
+      "memory hierarchy disguised",
+      "memory hierarchy disguised",
+      "muse glimmer",
+      "muse glimmer",
+      "41z score",
+      "30b transformer",
+      "30b transformer",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Muse Glimmer is a memory hierarchy disguised as a 30B Transformer > Source: hackernews | Category: news | 2026-08-18T16:16:41Z Score: 7 | Comments: 0"
+  },
+  "a989e71b3e35f9af": {
+    "file": "corpus/hackernews/www_forbes_com_sites_we-dont-have-time_2026_08_08_us-declare_e6453de508.md",
+    "source": "hackernews",
+    "title": "U.S. Declared an Energy Emergency, Then Paid $4B for Less Energy",
+    "url": "https://www.forbes.com/sites/we-dont-have-time/2026/08/08/us-declared-an-energy-emergency-then-paid-4-billion-for-less-energy/",
+    "keywords": [
+      "less energy",
+      "less energy",
+      "energy emergency",
+      "energy emergency",
+      "45z score",
+      "source",
+      "paid",
+      "paid"
+    ],
+    "summary": "Declared an Energy Emergency, Then Paid $4B for Less Energy > Source: hackernews | Category: news | 2026-08-18T16:16:45Z Score: 18 | Comments: 1"
+  },
+  "c5760f3db3c4ac0c": {
+    "file": "corpus/engineering/www_infoq_com_presentations_ai-hardware-tokenomics_utm_campa_72db25ebca.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: From Fab To Token - The State Of The Market",
+    "url": "https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "market jordan nanos discusses",
+      "data center expansion",
+      "jordan nanos",
+      "shares insights",
+      "semiconductor constraints",
+      "semianalysis research",
+      "model inference",
+      "gpu scaling",
+      "benchmark performance",
+      "39z presentation"
+    ],
+    "summary": "# [infoq] Presentation: From Fab To Token - The State Of The Market Jordan Nanos discusses how semiconductor constraints, data center expansion, and networking bottlenecks impact AI software architecture. Drawing from SemiAnalysis research, he shares insights on benchmark performance, GPU scaling, and tokenomics from chip fab to model inference."
+  },
+  "caddfaca47f224ca": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-writeguard-mcp-safety__9a0db7495d.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "make ai agents safer",
+      "cloudflare writeguard brings fine",
+      "cloudflare writeguard brings fine",
+      "simply read information",
+      "sergio de simone",
+      "model context protocol",
+      "grained security controls",
+      "grained security controls",
+      "grained security controls",
+      "grained security controls"
+    ],
+    "summary": "# [infoq] Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers Cloudflare is introducing WriteGuard, now in private beta, to provide fine-grained security controls for MCP (Model Context Protocol) servers. It aims to make AI agents safer by controlling their access to tools that can modify data or perform actions, rather than simply read information."
   }
 }
