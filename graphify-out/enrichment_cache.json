@@ -435343,5 +435343,119 @@
       "tracking"
     ],
     "summary": "# [hacker-news-sec] 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer."
+  },
+  "3fb5c241ef5ccd33": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_23_da7ec4bc11.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.23 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.23",
+    "keywords": [
+      "app router reference accuracy",
+      "23 ### misc changes",
+      "i18n base path",
+      "cover dynamic apis",
+      "js — v16",
+      "10z ## vercel",
+      "js v16",
+      "js v16",
+      "23 released",
+      "23 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-18T12:19:10Z - Trace lazy App Route module loading: #97439 - [ci] Wait for the `next` version to be available on npm before deploy tests: #97460 - docs: fix stale Dev Overlay README link in contributing guide: #97486 - docs: app router reference accuracy: #97477 - test: Don't wait trying to load non-existing images: #97488 - test: cover dynamic APIs with i18n base path: #97367 Huge thanks to @DavidIlie, @eps1lon, @icyJoseph, and @mischnic"
+  },
+  "7db8d339a239e569": {
+    "file": "corpus/devto/dev_to_lovestaco_cosp-the-prompting-trick-where-your-llm-gra_5814774ce9.md",
+    "source": "devto",
+    "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
+    "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
+    "keywords": [
+      "micro ai code reviewer",
+      "prompting trick",
+      "prompting trick",
+      "llm grades",
+      "llm grades",
+      "every commit",
+      "building git",
+      "11z hello",
+      "source",
+      "runs"
+    ],
+    "summary": "# COSP: The Prompting Trick Where Your LLM Grades Its Own Homework > Source: devto | Category: news | 2026-08-18T12:18:11Z I'm building git-lrc, a Micro AI code reviewer that runs on every commit."
+  },
+  "ecf6b0e317004bb6": {
+    "file": "corpus/devto/dev_to_aws-builders_how-i-built-a-kiro-crew-app-in-5-minutes_ea2bf26369.md",
+    "source": "devto",
+    "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
+    "url": "https://dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0",
+    "keywords": [
+      "one curl command",
+      "kiro crew app",
+      "kiro crew app",
+      "kiro crew",
+      "min demo",
+      "installed live",
+      "full tutorial",
+      "full tutorial",
+      "dashboard page",
+      "custom agent"
+    ],
+    "summary": "# How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code 5-min demo: custom agent + skill + cron job + dashboard page, installed live with one curl command. Kiro Crew isn't just a tool."
+  },
+  "2e07e019dabda6d4": {
+    "file": "corpus/hackernews/tau_dev_2026_08_07_canon_3bf580fc12.md",
+    "source": "hackernews",
+    "title": "Teaching my kid to code with a modern MUD",
+    "url": "https://tau.dev/2026/08/07/canon",
+    "keywords": [
+      "modern mud",
+      "modern mud",
+      "05z score",
+      "teaching",
+      "teaching",
+      "source",
+      "news",
+      "kid",
+      "kid",
+      "hackernews"
+    ],
+    "summary": "# Teaching my kid to code with a modern MUD > Source: hackernews | Category: news | 2026-08-18T12:18:05Z Score: 6 | Comments: 0"
+  },
+  "282aa7a60ae6553e": {
+    "file": "corpus/hackernews/www_theguardian_com_news_2026_aug_18_the-long-read-democracy_6796057065.md",
+    "source": "hackernews",
+    "title": "Democracy vs. the machine: birth of digital age,the warnings that were ignored",
+    "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+    "keywords": [
+      "digital age",
+      "digital age",
+      "democracy vs",
+      "democracy vs",
+      "08z score",
+      "warnings",
+      "warnings",
+      "source",
+      "news",
+      "machine"
+    ],
+    "summary": "# Democracy vs. the machine: birth of digital age,the warnings that were ignored > Source: hackernews | Category: news | 2026-08-18T12:18:08Z Score: 4 | Comments: 0"
+  },
+  "843bffff97621f42": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_github-stacked-pull-requests_utm__a16740625a.md",
+    "source": "engineering",
+    "title": "[infoq] GitHub Brings Stacked Pull Requests to Public Preview",
+    "url": "https://www.infoq.com/news/2026/08/github-stacked-pull-requests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "breaking large software changes",
+      "stacked pull requests",
+      "introducing native support",
+      "dependent pull requests",
+      "public preview github",
+      "public preview",
+      "public preview",
+      "public preview",
+      "merged independently",
+      "craig risi"
+    ],
+    "summary": "# [infoq] GitHub Brings Stacked Pull Requests to Public Preview GitHub Brings Stacked Pull Requests to Public Preview GitHub has announced that Stacked Pull Requests are now available in public preview, introducing native support for breaking large software changes into smaller, dependent pull requests that can be reviewed and merged independently."
   }
 }
