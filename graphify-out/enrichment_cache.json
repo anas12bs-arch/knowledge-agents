@@ -442494,5 +442494,366 @@
       "source"
     ],
     "summary": "# A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D) > Source: hackernews | Category: news | 2026-08-19T13:11:41Z Score: 14 | Comments: 5"
+  },
+  "d3e5070e9a45d915": {
+    "file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_50a6c7150d.md",
+    "source": "github-releases",
+    "title": "anthropics/anthropic-sdk-python v0.123.0 released",
+    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.123.0",
+    "keywords": [
+      "runner :** retry tool",
+      "** api :** updates",
+      "** api :** additions",
+      "8f88c57d70cc3813392be9195c9d29fe022d49d0 )) ### chores",
+      "0 ## 0",
+      "0 ... v0",
+      "0 ... v0",
+      "43z ## anthropics",
+      "python — v0",
+      "** session"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-19T13:57:43Z * **api:** additions to files and memory stores ([09ce187](https://github.com/anthropics/anthropic-sdk-python/commit/09ce187e1c21029d636534fbabc7dd328f037c68)) * **api:** updates to skill, files, and user profiles ([c6cbffd](https://github.com/anthropics/anthropic-sdk-python/commit/c6cbffdb6df46d96d873c613d0ca5baff6745768)) * **client:** add helpers for accessing the workspace ID in response headers ([f79882b](https://github."
+  },
+  "037cbdc18ecb65b5": {
+    "file": "corpus/devto/dev_to_aditya2529_023c568e7edf52_the-ugly-truth-about-linux-_d16dcd042b.md",
+    "source": "devto",
+    "title": "The Ugly Truth About Linux Packaging: I Spent a Month Building a Screen Time Tracker",
+    "url": "https://dev.to/aditya2529_023c568e7edf52/the-ugly-truth-about-linux-packaging-i-spent-a-month-building-a-screen-time-tracker-4ehe",
+    "keywords": [
+      "screen time tracker",
+      "screen time tracker",
+      "screen time tracker",
+      "ugly truth",
+      "ugly truth",
+      "took three",
+      "code took",
+      "month building",
+      "month building",
+      "linux packaging"
+    ],
+    "summary": "# The Ugly Truth About Linux Packaging: I Spent a Month Building a Screen Time Tracker I built a screen time tracker for Linux. The code took a month."
+  },
+  "4599285c249ca569": {
+    "file": "corpus/devto/dev_to_shipsitself_one-slash-in-a-clients-name-silently-sent_11a18ebe25.md",
+    "source": "devto",
+    "title": "One slash in a client's name silently sent their files to the wrong folder",
+    "url": "https://dev.to/shipsitself/one-slash-in-a-clients-name-silently-sent-their-files-to-the-wrong-folder-18d8",
+    "keywords": [
+      "name silently sent",
+      "name silently sent",
+      "company name",
+      "wrong folder",
+      "wrong folder",
+      "reported success",
+      "one slash",
+      "one slash",
+      "one character",
+      "onboarding workflow"
+    ],
+    "summary": "# One slash in a client's name silently sent their files to the wrong folder A client-onboarding workflow that reported success while writing every file two directories deeper than intended. The cause was one character in a company name."
+  },
+  "4ebbc190492b2f00": {
+    "file": "corpus/devto/dev_to_peakd_how-500-concurrent-hn-connections-took-down-pea_dce1696f20.md",
+    "source": "devto",
+    "title": "How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure",
+    "url": "https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537",
+    "keywords": [
+      "500 concurrent connections took",
+      "weeks ago",
+      "hacker news",
+      "posted peakd",
+      "news",
+      "peakd",
+      "peakd",
+      "source",
+      "site",
+      "rebuilt"
+    ],
+    "summary": "# How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure > Source: devto | Category: news | 2026-08-19T13:56:39Z A few weeks ago I posted Peakd on Hacker News, and ~500 concurrent connections took the site down in..."
+  },
+  "c8218e0b90636ea6": {
+    "file": "corpus/devto/dev_to_anas_sheikh_2_ive-reviewed-a-dozen-nextjs-stripe-inte_4186f7fc96.md",
+    "source": "devto",
+    "title": "I've Reviewed a Dozen Next.js Stripe Integrations. Almost None Handle This Race Condition.",
+    "url": "https://dev.to/anas_sheikh_2/ive-reviewed-a-dozen-nextjs-stripe-integrations-almost-none-handle-this-race-condition-26i9",
+    "keywords": [
+      "almost none handle",
+      "almost none handle",
+      "39z quick fact",
+      "js stripe integrations",
+      "js stripe integrations",
+      "race condition",
+      "race condition",
+      "guarantee ...",
+      "first time",
+      "dozen next"
+    ],
+    "summary": "# I've Reviewed a Dozen Next.js Stripe Integrations. Almost None Handle This Race Condition. Quick fact that surprises a lot of developers the first time they hear it: Stripe does not guarantee..."
+  },
+  "aa4949b64d861f62": {
+    "file": "corpus/devto/dev_to_nerd_snipe_dev_why-i-finally-opened-a-strangers-issue_5ac974199e.md",
+    "source": "devto",
+    "title": "Why I finally opened a stranger's issue on DesignFoundation, two and a half weeks late",
+    "url": "https://dev.to/nerd_snipe_dev/why-i-finally-opened-a-strangers-issue-on-designfoundation-two-and-a-half-weeks-late-j8j",
+    "keywords": [
+      "half weeks late",
+      "half weeks late",
+      "filed two issues",
+      "finally opened",
+      "finally opened",
+      "owe fraserscottmorrison",
+      "two",
+      "two",
+      "owe",
+      "thank"
+    ],
+    "summary": "# Why I finally opened a stranger's issue on DesignFoundation, two and a half weeks late I owe fraserscottmorrison an apology before I owe him a thank you. He filed two issues on..."
+  },
+  "1f28538674fcca69": {
+    "file": "corpus/devto/dev_to_pfgiiu_nextjs-163s-memory-claim-didnt-hold-up-on-my-a_c0cafb43d7.md",
+    "source": "devto",
+    "title": "Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds.",
+    "url": "https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om",
+    "keywords": [
+      "typescript claim cut",
+      "typescript claim cut",
+      "memory claim",
+      "memory claim",
+      "two thirds",
+      "two thirds",
+      "memory :...",
+      "js 16",
+      "js 16",
+      "js 16"
+    ],
+    "summary": "# Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds. The claim   Next.js 16.3 shipped on August 3, 2026, and the headline number is memory:..."
+  },
+  "4fd990089a252cc4": {
+    "file": "corpus/devto/dev_to_bonzai2carn_how-to-build-a-cad-style-layout-editor-on_e76719baad.md",
+    "source": "devto",
+    "title": "How to Build a CAD-Style Layout Editor on Top of Extracted HTML",
+    "url": "https://dev.to/bonzai2carn/how-to-build-a-cad-style-layout-editor-on-top-of-extracted-html-4ihd",
+    "keywords": [
+      "style layout editor",
+      "style layout editor",
+      "layout ...",
+      "want users",
+      "39z tldr",
+      "extracted html",
+      "extracted html",
+      "html",
+      "extracted",
+      "top"
+    ],
+    "summary": "# How to Build a CAD-Style Layout Editor on Top of Extracted HTML > Source: devto | Category: news | 2026-08-19T13:56:39Z TLDR   If you have extracted a PDF to HTML and want users to rearrange and edit the layout..."
+  },
+  "9c1dea56d8cea0f7": {
+    "file": "corpus/ai-research/huggingface_co_blog_LiquidAI_qad_f56fb1ee13.md",
+    "source": "ai-research",
+    "title": "[hf-blog] LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "keywords": [
+      "aware distillation",
+      "aware distillation",
+      "aware distillation",
+      "_0 checkpoints",
+      "_0 checkpoints",
+      "_0 checkpoints",
+      "5 q4",
+      "5 q4",
+      "5 q4",
+      "31z lfm2"
+    ],
+    "summary": "# [hf-blog] LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation > Source: ai-research | Category: research | 2026-08-19T13:56:31Z LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation"
+  },
+  "b5886160020fde25": {
+    "file": "corpus/security/thehackernews_com_2026_08_hackers-compromised-14500-dahua-de_b3d652ff51.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+    "keywords": [
+      "31z hackers compromised 14",
+      "hackers compromised 14",
+      "hackers compromised 14",
+      "using credential attacks",
+      "codenamed operation cameraswarm",
+      "530 dahua devices",
+      "p2p cybersecurity researchers",
+      "say compromised",
+      "two authentication",
+      "relay technique"
+    ],
+    "summary": "# [hacker-news-sec] Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 "
+  },
+  "e46df22a785d1819": {
+    "file": "corpus/security/thehackernews_com_2026_08_silkparasite-espionage-campaign-ta_9382709941.md",
+    "source": "security",
+    "title": "[hacker-news-sec] SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+    "keywords": [
+      "seven remote access tool",
+      "observed targeting government bodies",
+      "intrusion set makes use",
+      "five new rats",
+      "five new rats",
+      "five new rats",
+      "previously documented",
+      "late 2025",
+      "first discovered",
+      "central asia"
+    ],
+    "summary": "# [hacker-news-sec] SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia."
+  },
+  "72b910036041f3b4": {
+    "file": "corpus/security/thehackernews_com_2026_08_phishing-30-fight-moves-to-agent-v_8feab542b0.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Phishing 3.0: The Fight Moves to Agent Versus Agent",
+    "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+    "keywords": [
+      "email defenses still",
+      "agent versus agent",
+      "agent versus agent",
+      "agent versus agent",
+      "sides phishing 1",
+      "31z phishing 3",
+      "phishing 3",
+      "phishing 3",
+      "stopped working",
+      "something malicious"
+    ],
+    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person."
+  },
+  "3538ac460f56209b": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48272_monzo-deploys-backup-bank_d9a2d7e8c3.md",
+    "source": "finance",
+    "title": "[finextra] Monzo deploys backup bank in face of outage",
+    "url": "https://www.finextra.com/newsarticle/48272/monzo-deploys-backup-bank-in-face-of-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "monzo deploys backup bank",
+      "monzo deploys backup bank",
+      "independent backup bank",
+      "customers reported issues",
+      "outage monzo says",
+      "outage",
+      "outage",
+      "thousands",
+      "source",
+      "finextra"
+    ],
+    "summary": "# [finextra] Monzo deploys backup bank in face of outage Monzo deploys backup bank in face of outage Monzo says it has activated its independent backup bank after thousands of customers reported issues with accessing its app."
+  },
+  "820a152fac528481": {
+    "file": "corpus/hackernews/www_wsj_com_arts-culture_books_generative-ai-book-publishing_3e54f62b60.md",
+    "source": "hackernews",
+    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+    "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+    "keywords": [
+      "book publishing industry",
+      "book publishing industry",
+      "utter chaos",
+      "utter chaos",
+      "35z score",
+      "source",
+      "plunged",
+      "plunged",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# AI Has Plunged the Book Publishing Industry into Utter Chaos > Source: hackernews | Category: news | 2026-08-19T13:56:35Z Score: 4 | Comments: 0"
+  },
+  "e2b0a18012d6f61f": {
+    "file": "corpus/hackernews/twitter_com_NoubarAfeyan_status_2090050162441752787_a6291b992f.md",
+    "source": "hackernews",
+    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+    "keywords": [
+      "mrna neoantigen therapy",
+      "mrna neoantigen therapy",
+      "32z score",
+      "source",
+      "news",
+      "melanoma",
+      "melanoma",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma > Source: hackernews | Category: news | 2026-08-19T13:56:32Z Score: 15 | Comments: 2"
+  },
+  "aeff144770ae0269": {
+    "file": "corpus/hackernews/discourse_ubuntu_com_t_investing-in-automated-c-to-rust-tran_c62d7ab47e.md",
+    "source": "hackernews",
+    "title": "Investing in automated C to Rust translation",
+    "url": "https://discourse.ubuntu.com/t/investing-in-automated-c-to-rust-translation/86369",
+    "keywords": [
+      "rust translation",
+      "rust translation",
+      "automated c",
+      "automated c",
+      "36z score",
+      "source",
+      "news",
+      "investing",
+      "investing",
+      "hackernews"
+    ],
+    "summary": "# Investing in automated C to Rust translation > Source: hackernews | Category: news | 2026-08-19T13:56:36Z Score: 4 | Comments: 1"
+  },
+  "d6e1c7916c725df3": {
+    "file": "corpus/hackernews/www_raphaelbauer_com_443_posts_postgresql-everything_483a0efb4d.md",
+    "source": "hackernews",
+    "title": "PostgreSQL for Everything",
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "keywords": [
+      "30z score",
+      "source",
+      "postgresql",
+      "postgresql",
+      "news",
+      "hackernews",
+      "everything",
+      "everything",
+      "comments",
+      "category"
+    ],
+    "summary": "# PostgreSQL for Everything > Source: hackernews | Category: news | 2026-08-19T13:56:30Z Score: 13 | Comments: 4"
+  },
+  "b7f52d74545d1403": {
+    "file": "corpus/hackernews/sprocketfox_io_xssfox_2026_08_19_sondehub-and-war_a6c08c0e1e.md",
+    "source": "hackernews",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "keywords": [
+      "joke domain purchase turned",
+      "joke domain purchase turned",
+      "geopolitical warfare",
+      "geopolitical warfare",
+      "31z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A joke domain purchase turned in geopolitical warfare > Source: hackernews | Category: news | 2026-08-19T13:56:31Z Score: 52 | Comments: 2"
+  },
+  "86bd94aec42d6985": {
+    "file": "corpus/hackernews/github_com_DioxusLabs_taffy_983b1a2a41.md",
+    "source": "hackernews",
+    "title": "Taffy: A flexible, high-performance, cross-platform UI layout library",
+    "url": "https://github.com/DioxusLabs/taffy",
+    "keywords": [
+      "platform ui layout library",
+      "platform ui layout library",
+      "32z score",
+      "taffy",
+      "taffy",
+      "source",
+      "performance",
+      "performance",
+      "news",
+      "high"
+    ],
+    "summary": "# Taffy: A flexible, high-performance, cross-platform UI layout library > Source: hackernews | Category: news | 2026-08-19T13:56:32Z Score: 6 | Comments: 0"
   }
 }
