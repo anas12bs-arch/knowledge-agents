@@ -440804,5 +440804,61 @@
       "hackernews"
     ],
     "summary": "# Japan's Gen X workers are struggling > Source: hackernews | Category: news | 2026-08-19T06:18:53Z Score: 6 | Comments: 0"
+  },
+  "c708f1f435d78e3d": {
+    "file": "corpus/hackernews/gitlab_com_megastallman_bsdun_652e965fb3.md",
+    "source": "hackernews",
+    "title": "BSDun – FreeBSD ELF support for the Linux kernel",
+    "url": "https://gitlab.com/megastallman/bsdun",
+    "keywords": [
+      "linux kernel",
+      "linux kernel",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# BSDun – FreeBSD ELF support for the Linux kernel > Source: hackernews | Category: news | 2026-08-19T07:08:50Z Score: 3 | Comments: 0"
+  },
+  "ef0a036e63961159": {
+    "file": "corpus/hackernews/blog_regehr_org_archives_2124_ff60b6983f.md",
+    "source": "hackernews",
+    "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
+    "url": "https://blog.regehr.org/archives/2124",
+    "keywords": [
+      "missed alarm bugs",
+      "missed alarm bugs",
+      "formal verification tool",
+      "formal verification tool",
+      "46z score",
+      "source",
+      "news",
+      "looking",
+      "looking",
+      "hackernews"
+    ],
+    "summary": "# Looking for Missed Alarm Bugs in a Formal Verification Tool > Source: hackernews | Category: news | 2026-08-19T07:08:46Z Score: 8 | Comments: 0"
+  },
+  "39b299979e053503": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_react-route-v8_utm_campaign_infoq_43224268be.md",
+    "source": "engineering",
+    "title": "[infoq] React Router v8: A Deliberately Boring Release with ESM-Only Builds and Default Middleware",
+    "url": "https://www.infoq.com/news/2026/08/react-route-v8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "follow specific migration guidelines",
+      "44z react router v8",
+      "react router v8",
+      "react router v8",
+      "react router v6",
+      "minimal breaking changes",
+      "key updates include",
+      "deliberately boring release",
+      "deliberately boring release",
+      "deliberately boring release"
+    ],
+    "summary": "# [infoq] React Router v8: A Deliberately Boring Release with ESM-Only Builds and Default Middleware React Router v8 was released on June 17, 2026, with minimal breaking changes and new baselines. Developers should follow specific migration guidelines to update their applications, while some are considering alternatives like TanStack Router."
   }
 }
