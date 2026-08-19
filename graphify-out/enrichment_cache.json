@@ -444110,5 +444110,157 @@
       "14 years"
     ],
     "summary": "# [pragmatic-engineer] From Chrome DevTools to AI Engineering, with Addy Osmani From Chrome DevTools to AI Engineering, with Addy Osmani Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed."
+  },
+  "e991826abb99cb05": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_15-rc1_d8e339f142.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.15-rc1 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15-rc1",
+    "keywords": [
+      "model metadata cache",
+      "14 ... v0",
+      "https :// github",
+      "reduce ollama ’",
+      "15z ## ollama",
+      "ollama — v0",
+      "rc1 ##",
+      "nv made",
+      "first contribution",
+      "ollama v0"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-19T17:38:15Z ## What's Changed * Add a model metadata cache to reduce Ollama’s per-request overhead ## New Contributors * @gaugarg-nv made their first contribution in https://github.com/ollama/ollama/pull/17752"
+  },
+  "6d4b014b458118d9": {
+    "file": "corpus/product/techcrunch_com_video_meet-the-startup-helping-wall-street-pu_47420612f6.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Meet the startup helping Wall Street put a price on AI compute",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "keywords": [
+      "anyone building ai products",
+      "compute &# 160 ;—",
+      "single biggest cost",
+      "ai buildout shows",
+      "gpus ,&# 160",
+      "changes .&# 160",
+      "still &# 160",
+      "price &# 160",
+      "&# 160",
+      "&# 160"
+    ],
+    "summary": "# [techcrunch-startups] Meet the startup helping Wall Street put a price on AI compute Meet the startup helping Wall Street put a price on AI compute But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]"
+  },
+  "c6b9a966785c6594": {
+    "file": "corpus/devto/dev_to_fayzan123_turn-claude-code-codex-and-hermes-sessions-_0e8c880d23.md",
+    "source": "devto",
+    "title": "Turn Claude Code, Codex, and Hermes sessions into a shareable graph your agent can query",
+    "url": "https://dev.to/fayzan123/turn-claude-code-codex-and-hermes-sessions-into-a-shareable-graph-your-agent-can-query-4j0d",
+    "keywords": [
+      "37z coding agents moved",
+      "turn claude code",
+      "turn claude code",
+      "code got fast",
+      "agent actually ...",
+      "shareable graph",
+      "shareable graph",
+      "hermes sessions",
+      "hermes sessions",
+      "agent"
+    ],
+    "summary": "# Turn Claude Code, Codex, and Hermes sessions into a shareable graph your agent can query Coding agents moved my bottleneck. Understanding what the agent actually..."
+  },
+  "ba5b36d00482ecba": {
+    "file": "corpus/devto/dev_to_igor_potapenko_your-idempotency-test-probably-cannot-_660b32d8d6.md",
+    "source": "devto",
+    "title": "Your idempotency test probably cannot fail",
+    "url": "https://dev.to/igor_potapenko/your-idempotency-test-probably-cannot-fail-39g0",
+    "keywords": [
+      "looked like proof",
+      "weak —",
+      "structurally incapable",
+      "payment twice",
+      "test",
+      "test",
+      "source",
+      "reactions",
+      "passed",
+      "opposite"
+    ],
+    "summary": "# Your idempotency test probably cannot fail My test for \"do not announce the same payment twice\" passed. Production sent two identical messages 142 milliseconds apart."
+  },
+  "02ed351bbeb47e0d": {
+    "file": "corpus/devto/dev_to_dima853_static-single-assignment-form-ssa-4gn3_c70a6e8714.md",
+    "source": "devto",
+    "title": "Static Single Assignment Form (SSA)",
+    "url": "https://dev.to/dima853/static-single-assignment-form-ssa-4gn3",
+    "keywords": [
+      "static single assignment form",
+      "static single assignment form",
+      "compiler optimizations ...",
+      "ssa",
+      "ssa",
+      "ssa",
+      "source",
+      "role",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Static Single Assignment Form (SSA) > Source: devto | Category: news | 2026-08-19T17:37:37Z Static Single Assignment Form (SSA) and Its Role in Compiler Optimizations           ..."
+  },
+  "5ccd7ea1201ccda9": {
+    "file": "corpus/ai-research/openai_com_index_our-commitment-to-zero-data-retention_f1e200b4b4.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "keywords": [
+      "previews private safety processing",
+      "offering zero data retention",
+      "offering zero data retention",
+      "eligible api customers",
+      "frontier models",
+      "frontier models",
+      "source",
+      "research",
+      "research",
+      "openai"
+    ],
+    "summary": "# [openai-blog] Offering Zero Data Retention for frontier models Offering Zero Data Retention for frontier models OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  "3ed0c80617da595f": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-connect-supports-microsoft_d7e838cf49.md",
+    "source": "vercel-blog",
+    "title": "Vercel Connect now supports Microsoft",
+    "url": "https://vercel.com/changelog/vercel-connect-supports-microsoft",
+    "keywords": [
+      "40z vercel connect",
+      "vercel connect",
+      "vercel connect",
+      "supports microsoft",
+      "supports microsoft",
+      "supports microsoft",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Vercel Connect now supports Microsoft > Source: vercel-blog | Category: news | 2026-08-19T17:37:40Z Vercel Connect now supports Microsoft"
+  },
+  "2ef59357255e1e57": {
+    "file": "corpus/hackernews/demo_frugaltokens_com_9465e01807.md",
+    "source": "hackernews",
+    "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+    "url": "https://demo.frugaltokens.com/",
+    "keywords": [
+      "usage across coding agents",
+      "usage across coding agents",
+      "widely different spend profiles",
+      "see individual model calls",
+      "much cache misses affected",
+      "usage patterns across",
+      "high context usage",
+      "dpclark4 &# x2f",
+      "dpclark4 &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "# Show HN: Frugal Tokens – explore costs and usage across coding agents There’s also a rough cost comparison that shows what the recorded session would have cost with another model’s pricing, or for Anthropic, with 5m vs 1h caching.<p>In the future, I’d love to collect more information to see which patterns might make people’s workflows more expensive, e.g. long sessions, high context usage, many turns, etc.<p>The tool requires deno, but is just one command to run once that is installed. The dem"
   }
 }
