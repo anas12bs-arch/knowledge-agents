@@ -443471,5 +443471,212 @@
       "engineering"
     ],
     "summary": "# [bytebytego] GraphRAG: How AI Answers Questions Hidden Across Many Documents GraphRAG: How AI Answers Questions Hidden Across Many Documents GraphRAG was designed to handle the second kind of questions, and we are going to learn more about it in this article."
+  },
+  "2b0ff2095a1a9491": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-cor_5d3bfa3d60.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-core==1.6.0 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.0",
+    "keywords": [
+      "temporary file tests portable",
+      "core ): finalize chain",
+      "core ): fail fast",
+      "core ): avoid version",
+      "core ): allow deserializing",
+      "mustache templates (# 39680",
+      "core ): make subprocess",
+      "dict mappings (# 39750",
+      "core ): accept non",
+      "0 changes since langchain"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-19T16:17:07Z Changes since langchain-core==1.5.6 release(core): 1.6.0 (#39760) fix(core): resolve postponed annotations in `StructuredTool._injected_args_keys` (#39602) feat(core): add standard model exception types (#39538) fix(core): allow deserializing `RunnablePick` (#39753) fix(core): make `convert_to_openai_function` handle callables and non-dict mappings (#39750) fix(core): make subprocess and temporary file tests portable on Windo"
+  },
+  "0c2c4bd2ecbd1fcd": {
+    "file": "corpus/devops/devops_com_cursor-launches-origin-code-hosting-platform-as-g_3922942fda.md",
+    "source": "devops",
+    "title": "[devops-com] Cursor Launches Origin Code Hosting Platform as GitHub Rival",
+    "url": "https://devops.com/cursor-launches-origin-code-hosting-platform-as-github-rival/",
+    "keywords": [
+      "ai coding agents inside",
+      "new coding platform expands",
+      "code hosting platform",
+      "market long dominated",
+      "major outage lasting",
+      "disrupting pull requests",
+      "cursor development environment",
+      "[&# 8230 ;]",
+      "puts source code",
+      "six hours"
+    ],
+    "summary": "# [devops-com] Cursor Launches Origin Code Hosting Platform as GitHub Rival AI coding provider Cursor has launched Origin, a code hosting platform that puts source code and AI coding agents inside the Cursor development environment. The rollout arrived as GitHub suffered a major outage lasting more than six hours, disrupting pull requests, [&#8230;]"
+  },
+  "15f994c647bb235f": {
+    "file": "corpus/devto/dev_to_spranab_relicensing-yantrikdb-took-57-minutes-and-i-g_52c3166b0d.md",
+    "source": "devto",
+    "title": "Relicensing yantrikdb took 57 minutes and I got two things wrong",
+    "url": "https://dev.to/spranab/relicensing-yantrikdb-took-57-minutes-and-i-got-two-things-wrong-12ad",
+    "keywords": [
+      "got two things wrong",
+      "got two things wrong",
+      "still declared",
+      "one evening",
+      "old licence",
+      "moved yantrikdb",
+      "every place",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Relicensing yantrikdb took 57 minutes and I got two things wrong > Source: devto | Category: news | 2026-08-19T16:16:22Z I moved yantrikdb from AGPL-3.0 to Apache-2.0 in one evening, and this is every place the old licence was still declared."
+  },
+  "b4ce1b8991557e85": {
+    "file": "corpus/devto/dev_to_casperday11_building-for-the-real-world-what-winning-_38d199d453.md",
+    "source": "devto",
+    "title": "Building for the Real World: What Winning an International Ideathon Taught Me",
+    "url": "https://dev.to/casperday11/building-for-the-real-world-what-winning-an-international-ideathon-taught-me-4p6f",
+    "keywords": [
+      "international ideathon taught",
+      "international ideathon taught",
+      "international team",
+      "international ...",
+      "yc s26",
+      "real world",
+      "real world",
+      "egoist machines",
+      "days ago",
+      "winning"
+    ],
+    "summary": "# Building for the Real World: What Winning an International Ideathon Taught Me > Source: devto | Category: news | 2026-08-19T16:16:21Z A few days ago, I made an international team for the Egoist Machines, Inc. (YC S26) International..."
+  },
+  "72f448db2fbe21a9": {
+    "file": "corpus/devto/dev_to_jonisar_data-lakehouse-how-and-why-aco_44a82f181e.md",
+    "source": "devto",
+    "title": "Data Lakehouse: How and Why",
+    "url": "https://dev.to/jonisar/data-lakehouse-how-and-why-aco",
+    "keywords": [
+      "data flow patterns",
+      "data lakehouse works",
+      "data lakehouse",
+      "data lakehouse",
+      "production —",
+      "internal mechanics",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Data Lakehouse: How and Why > Source: devto | Category: news | 2026-08-19T16:16:18Z How the data lakehouse works in production — the internal mechanics, the data flow patterns, why..."
+  },
+  "b8497015a97fd90f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_us-charges-iranian-ha_b7fff6367c.md",
+    "source": "security",
+    "title": "[bleeping-comp] US charges Iranian hackers over $3.4 billion intellectual property theft",
+    "url": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+    "keywords": [
+      "us charges iranian hackers",
+      "us charges iranian hackers",
+      "charged 17 iranians",
+      "stole data",
+      "long operations",
+      "american organizations",
+      "alleged members",
+      "years",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] US charges Iranian hackers over $3.4 billion intellectual property theft US charges Iranian hackers over $3.4 billion intellectual property theft The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations."
+  },
+  "fdddc4c114e41d1b": {
+    "file": "corpus/youtube/www_youtube_com_shorts_fL0HsZc7RP4_5a155505d3.md",
+    "source": "youtube",
+    "title": "[theo] SSH Kinda Sucks",
+    "url": "https://www.youtube.com/shorts/fL0HsZc7RP4",
+    "keywords": [
+      "https :// t3",
+      "https :// soydev",
+      "drawbacks … quite",
+      "ssh kinda sucks",
+      "ssh kinda sucks",
+      "actually want",
+      "ssh",
+      "ssh",
+      "youtube"
+    ],
+    "summary": "Even though it’s useful, SSH has its drawbacks…quite a few actually Want to sponsor a video? Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "2a9639a7f580c47f": {
+    "file": "corpus/hackernews/shkspr_mobi_blog_2013_11_civic-hygiene_16ec5940a0.md",
+    "source": "hackernews",
+    "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+    "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+    "keywords": [
+      "police state",
+      "police state",
+      "13z score",
+      "used",
+      "used",
+      "source",
+      "news",
+      "hackernews",
+      "could",
+      "could"
+    ],
+    "summary": "# Civic Hygiene – avoid building technologies that could be used by a police state > Source: hackernews | Category: news | 2026-08-19T16:16:13Z Score: 3 | Comments: 0"
+  },
+  "779a17bc638e97ba": {
+    "file": "corpus/hackernews/mazingamazingly_blogspot_com_2026_08_sea-turtle-sex-crisis-w_c20abcb4ca.md",
+    "source": "hackernews",
+    "title": "Sea Turtle Sex Crisis: Why 99% Are Now Female",
+    "url": "https://mazingamazingly.blogspot.com/2026/08/sea-turtle-sex-crisis-why-99-are-now.html",
+    "keywords": [
+      "sea turtle sex crisis",
+      "sea turtle sex crisis",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "female",
+      "female",
+      "comments",
+      "category"
+    ],
+    "summary": "# Sea Turtle Sex Crisis: Why 99% Are Now Female > Source: hackernews | Category: news | 2026-08-19T16:16:16Z Score: 6 | Comments: 0"
+  },
+  "1727a30763ff7a93": {
+    "file": "corpus/hackernews/ornith_ai_ornith_1_5_html_e23acc0744.md",
+    "source": "hackernews",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "keywords": [
+      "14z score",
+      "source",
+      "self",
+      "self",
+      "self",
+      "self",
+      "scaffolding",
+      "scaffolding",
+      "ornith",
+      "ornith"
+    ],
+    "summary": "# Ornith-1.5: From Self-Scaffolding to Self-Improvement > Source: hackernews | Category: news | 2026-08-19T16:16:14Z Score: 8 | Comments: 0"
+  },
+  "563ebb09d1191a2c": {
+    "file": "corpus/hackernews/www_casio_com_uk_watches_casio_product_F-B100W-1A_a5ff08199a.md",
+    "source": "hackernews",
+    "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "keywords": [
+      "b100w – upgrade",
+      "b100w – upgrade",
+      "new casio f",
+      "new casio f",
+      "iconic f",
+      "iconic f",
+      "40 years",
+      "40 years",
+      "12z score",
+      "source"
+    ],
+    "summary": "# New Casio F-B100W – Upgrade to the iconic F-91W after 40 years > Source: hackernews | Category: news | 2026-08-19T16:16:12Z Score: 31 | Comments: 15"
   }
 }
