@@ -446514,5 +446514,60 @@
       "future"
     ],
     "summary": "# The Future of CSS: Target Multiple Classes with the Class Prefix Selector > Source: hackernews | Category: news | 2026-08-19T23:38:17Z Score: 3 | Comments: 0"
+  },
+  "b491f3c8f452707b": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_25_8bf949d0bd.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.25 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.25",
+    "keywords": [
+      "mark complete shell requests",
+      "document metadata pagination field",
+      "adjust interactive app guide",
+      "25 ### misc changes",
+      "move preview props",
+      "better isolate concurrent",
+      "add accessible label",
+      "js — v16",
+      "39z ## vercel",
+      "fix stale cross"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-19T23:55:39Z - [PPF] Remove `unstable_eager`: #97524 - [PPF] Do not mark complete shell requests as partial: #97503 - fix: add accessible label to icon-only link: #96334 - Fix stale cross-references in skills/: #97566 - docs: generateMetadata values should be serializable with use cache: #97551 - Move preview props into separate manifest: #96004 - docs: adjust interactive app guide: #97558 - Turbopack: allow TURBOPACK_PRINT_CHUNK_GROUPS i"
+  },
+  "f0109c0d1c8adbbb": {
+    "file": "corpus/hackernews/www_uncensoredobjection_com_p_senator-rick-scott-walked-away_0030e00e3f.md",
+    "source": "hackernews",
+    "title": "Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat",
+    "url": "https://www.uncensoredobjection.com/p/senator-rick-scott-walked-away-from",
+    "keywords": [
+      "rick scott walked away",
+      "rick scott walked away",
+      "senate seat",
+      "senate seat",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "got",
+      "got"
+    ],
+    "summary": "# Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat > Source: hackernews | Category: news | 2026-08-19T23:54:57Z Score: 7 | Comments: 0"
+  },
+  "caca13e50856a775": {
+    "file": "corpus/hackernews/www_kmbc_com_article_gardner-kansas-flock-cameras-license-pl_f434897078.md",
+    "source": "hackernews",
+    "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+    "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+    "keywords": [
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "19t23"
+    ],
+    "summary": "# Gardner police discontinue Flock cameras as license plate readers face scrutiny > Source: hackernews | Category: news | 2026-08-19T23:54:50Z Score: 6 | Comments: 0"
   }
 }
