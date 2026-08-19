@@ -442175,5 +442175,118 @@
       "source"
     ],
     "summary": "# Win-V combo from Windows on Ubuntu > Source: hackernews | Category: news | 2026-08-19T11:55:18Z Score: 4 | Comments: 0"
+  },
+  "7af8878c8cf9bec9": {
+    "file": "corpus/devops/devops_com_are-llms-equally-good-or-bad-at-building-secure-s_84260a3c1d.md",
+    "source": "devops",
+    "title": "[devops-com] Are LLMs Equally Good (or Bad) at Building Secure Software?",
+    "url": "https://devops.com/are-llms-equally-good-or-bad-at-building-secure-software/",
+    "keywords": [
+      "scw study finds",
+      "llms equally good",
+      "llms equally good",
+      "llms equally good",
+      "building secure software",
+      "building secure software",
+      "building secure software",
+      "striking cost variance",
+      "large variance",
+      "source"
+    ],
+    "summary": "# [devops-com] Are LLMs Equally Good (or Bad) at Building Secure Software? Are LLMs Equally Good (or Bad) at Building Secure Software? An SCW study finds a large variance in how frontier and budget LLMs perform across different frameworks, and explains the striking cost variance."
+  },
+  "ada5cd2a733c5e00": {
+    "file": "corpus/devops/devops_com_what-the-microservices-era-can-teach-us-about-ai_8863264b8b.md",
+    "source": "devops",
+    "title": "[devops-com] What the Microservices Era Can Teach Us About AI",
+    "url": "https://devops.com/what-the-microservices-era-can-teach-us-about-ai/",
+    "keywords": [
+      "ai ai agents",
+      "teach us",
+      "teach us",
+      "teach us",
+      "step identity",
+      "llms attached",
+      "microservices era",
+      "microservices era",
+      "microservices era"
+    ],
+    "summary": "# [devops-com] What the Microservices Era Can Teach Us About AI What the Microservices Era Can Teach Us About AI Their long-running, non-deterministic workflows demand durable execution, per-step identity, governance and observability."
+  },
+  "739ffb801486f116": {
+    "file": "corpus/devto/dev_to_amit_shrivastava_e813c728_comprehension-debt-what-ai-_e78d67d62c.md",
+    "source": "devto",
+    "title": "Comprehension debt: what AI-written code actually costs",
+    "url": "https://dev.to/amit_shrivastava_e813c728/comprehension-debt-what-ai-written-code-actually-costs-2m02",
+    "keywords": [
+      "written code actually costs",
+      "written code actually costs",
+      "46z originally published",
+      "september ...",
+      "jason gorman",
+      "comprehension debt",
+      "comprehension debt",
+      "comprehension debt",
+      "term",
+      "source"
+    ],
+    "summary": "# Comprehension debt: what AI-written code actually costs > Source: devto | Category: news | 2026-08-19T12:17:46Z The term \"comprehension debt\" is Jason Gorman's, from September..."
+  },
+  "6af1fd833653e128": {
+    "file": "corpus/devto/dev_to_fikrimohammad_why-gos-encodingcsv-burns-540mb-on-5m-r_d3685b468b.md",
+    "source": "devto",
+    "title": "Why Go's encoding/csv Burns 540MB on 5M Rows (and How I Fixed It)",
+    "url": "https://dev.to/fikrimohammad/why-gos-encodingcsv-burns-540mb-on-5m-rows-and-how-i-fixed-it-4m63",
+    "keywords": [
+      "every single row ,...",
+      "csv burns 540mb",
+      "csv burns 540mb",
+      "5m rows",
+      "5m rows",
+      "46z tl",
+      "csv",
+      "strings",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why Go's encoding/csv Burns 540MB on 5M Rows (and How I Fixed It) > Source: devto | Category: news | 2026-08-19T12:17:46Z TL;DR: Go's built-in encoding/csv.Read() allocates string slices and strings for every single row,..."
+  },
+  "98de26c30de46f08": {
+    "file": "corpus/hackernews/grapheneos_social_GrapheneOS_117078064184215730_3e61e6c454.md",
+    "source": "hackernews",
+    "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+    "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "keywords": [
+      "end motorola phones",
+      "end motorola phones",
+      "39z score",
+      "2027 available",
+      "2027 available",
+      "source",
+      "news",
+      "high",
+      "high",
+      "hackernews"
+    ],
+    "summary": "# GrapheneOS in 2027 available on high-end Motorola phones > Source: hackernews | Category: news | 2026-08-19T12:17:39Z Score: 27 | Comments: 4"
+  },
+  "e5c0fc02928aed65": {
+    "file": "corpus/sales/www_saastr_com_5-tips-to-closing-more-bigger-deals_43137b9827.md",
+    "source": "sales",
+    "title": "[saastr] 9 Tips To Closing More Bigger Deals",
+    "url": "https://www.saastr.com/5-tips-to-closing-more-bigger-deals/",
+    "keywords": [
+      "enterprise deals &# 8230",
+      "... continue reading",
+      "bigger &# 8221",
+      "41z 9 tips",
+      "&# 8220",
+      "9 tips",
+      "9 tips",
+      "bigger deals",
+      "bigger deals",
+      "bigger deals"
+    ],
+    "summary": "# [saastr] 9 Tips To Closing More Bigger Deals 9 Tips To Closing More Bigger Deals If you already have a few bigger deals under your belt, but most are smaller … and you want to build on that and close more &#8220;bigger&#8221; / enterprise deals &#8230; a few higher-level suggestions: Hire a Very Good CRO / VP of Sales that has sold at your “high end” price point."
   }
 }
