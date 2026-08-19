@@ -446141,5 +446141,119 @@
       "mouse"
     ],
     "summary": "# IDE Nostalgia: Programming NLS in 1972: Keyset, Mouse, and Viewspecs > Source: hackernews | Category: news | 2026-08-19T21:55:57Z Score: 5 | Comments: 0"
+  },
+  "2eefed4866d193d6": {
+    "file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v0_1_de7397e164.md",
+    "source": "github-releases",
+    "title": "anthropics/anthropic-sdk-python v0.125.0 released",
+    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.125.0",
+    "keywords": [
+      "0 ## 0",
+      "32z ## anthropics",
+      "0 ... v0",
+      "0 ... v0",
+      "python — v0",
+      "0 released",
+      "0 released",
+      "b75afd6ffa210ff2e98bc5e90d6f1f3367038f0b ))",
+      "### features",
+      "python v0"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-19T22:13:32Z Full Changelog: [v0.124.0...v0.125.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.124.0...v0.125.0) * **api:** managed agents web search config and self hosted sandbox memory ([b75afd6](https://github.com/anthropics/anthropic-sdk-python/commit/b75afd6ffa210ff2e98bc5e90d6f1f3367038f0b))"
+  },
+  "a58ca40869a3a6e3": {
+    "file": "corpus/devto/dev_to_nocodeexport_a-fallback-that-writes-a-file-must-never_7d9c1e9ec2.md",
+    "source": "devto",
+    "title": "A fallback that writes a file must never report success",
+    "url": "https://dev.to/nocodeexport/a-fallback-that-writes-a-file-must-never-report-success-2o4",
+    "keywords": [
+      "47z four real failures",
+      "10 broken pages",
+      "wix site",
+      "rotted twice",
+      "reported success",
+      "one bug",
+      "measuring instrument",
+      "export pipeline",
+      "detection signals",
+      "writes"
+    ],
+    "summary": "# A fallback that writes a file must never report success > Source: devto | Category: news | 2026-08-19T22:12:47Z Four real failures from a static-export pipeline: 10 broken pages that reported success, a Wix site that couldn't scroll, detection signals that rotted twice, and one bug that was my own measuring instrument."
+  },
+  "cc1691c53c6679e5": {
+    "file": "corpus/devto/dev_to_mollenthiel_single-database-multi-tenancy-in-symfony-_b290240fd7.md",
+    "source": "devto",
+    "title": "Single-database multi-tenancy in Symfony: a 31-line Doctrine filter, and the five places it never runs",
+    "url": "https://dev.to/mollenthiel/single-database-multi-tenancy-in-symfony-a-31-line-doctrine-filter-and-the-five-places-it-never-18pg",
+    "keywords": [
+      "line doctrine filter",
+      "line doctrine filter",
+      "organization_id ...",
+      "one schema",
+      "one connection",
+      "never runs",
+      "never runs",
+      "five places",
+      "five places",
+      "database multi"
+    ],
+    "summary": "# Single-database multi-tenancy in Symfony: a 31-line Doctrine filter, and the five places it never runs > Source: devto | Category: news | 2026-08-19T22:12:47Z Single-database multi-tenancy is the cheapest kind: one schema, one connection, an organization_id..."
+  },
+  "51b770c994028080": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_fish-audio-models-now-available-on-ai-g_b2a5e59336.md",
+    "source": "vercel-blog",
+    "title": "Fish Audio models now available on Vercel AI Gateway for free",
+    "url": "https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free",
+    "keywords": [
+      "51z fish audio models",
+      "fish audio models",
+      "fish audio models",
+      "vercel ai gateway",
+      "vercel ai gateway",
+      "vercel ai gateway",
+      "vercel",
+      "source",
+      "news",
+      "free"
+    ],
+    "summary": "# Fish Audio models now available on Vercel AI Gateway for free > Source: vercel-blog | Category: news | 2026-08-19T22:12:51Z Fish Audio models now available on Vercel AI Gateway for free"
+  },
+  "203c4ebb6ec7104b": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_rogue-ransomware-affi_2b2f8778b7.md",
+    "source": "security",
+    "title": "[bleeping-comp] Rogue ransomware affiliate poses as recovery firm to steal payments",
+    "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+    "keywords": [
+      "ransom busters ,\" contacting",
+      "rogue ransomware affiliate poses",
+      "rogue ransomware affiliate poses",
+      "ransomware recovery service called",
+      "suspected ransomware affiliate",
+      "provide decryption keys",
+      "delete stolen data",
+      "attacks become public",
+      "recovery firm",
+      "recovery firm"
+    ],
+    "summary": "# [bleeping-comp] Rogue ransomware affiliate poses as recovery firm to steal payments Rogue ransomware affiliate poses as recovery firm to steal payments A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee."
+  },
+  "3c6ef27c878dcb0e": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_l38UNgI13GE_d674e51c2e.md",
+    "source": "youtube",
+    "title": "[theo] Will we ever get a frontier model again?",
+    "url": "https://www.youtube.com/watch?v=l38UNgI13GE",
+    "keywords": [
+      "sup nerds",
+      "got things",
+      "frontier model",
+      "frontier model",
+      "frontier model",
+      "ever get",
+      "ever get",
+      "ever get",
+      "youtube",
+      "video"
+    ],
+    "summary": "# [theo] Will we ever get a frontier model again? Will we ever get a frontier model again? Sup nerds we got things to discuss."
   }
 }
