@@ -440075,5 +440075,212 @@
       "loft day –"
     ],
     "summary": "# Show HN: Loft Day – a wedding invitation turned point-and-click game I wanted to make a fun, wholesome experience for our wedding website. Before long, it had turned into Loft Day: a point-and-click browser game with ten rooms, a party, a road trip, and a lot of smaller games, apps, and hidden interactions.<p>Most of it lives in one 8.8 MB HTML file—roughly 138,000 lines of HTML, SVG, CSS, and JavaScript, with no framework or build step."
+  },
+  "86dc533e89effe6f": {
+    "file": "corpus/devto/dev_to_fibuladev_the-green-test-that-lied-29n7_876d759ac0.md",
+    "source": "devto",
+    "title": "The Green Test That Lied",
+    "url": "https://dev.to/fibuladev/the-green-test-that-lied-29n7",
+    "keywords": [
+      "53z episode 09",
+      "green test",
+      "green test",
+      "green across",
+      "visual",
+      "source",
+      "reactions",
+      "news",
+      "lied",
+      "lied"
+    ],
+    "summary": "# The Green Test That Lied Episode 09's visual-prompt file passed every automated check I had. Green across the board."
+  },
+  "491952f85c358089": {
+    "file": "corpus/devto/dev_to_mighty840_node-ubuntu-matched-two-machines-a-placemen_1098c523c2.md",
+    "source": "devto",
+    "title": "`node = 'ubuntu'` matched two machines: a placement split-brain",
+    "url": "https://dev.to/mighty840/node-ubuntu-matched-two-machines-a-placement-split-brain-954",
+    "keywords": [
+      "substring match",
+      "placement split",
+      "placement split",
+      "guess .'",
+      "two",
+      "story",
+      "source",
+      "refuse",
+      "reactions",
+      "node"
+    ],
+    "summary": "# `node = \"ubuntu\"` matched two machines: a placement split-brain A substring match in a node identity turned one pinned service into two - including two independent Postgres instances. A story about 'refuse, don't guess.'"
+  },
+  "2c7cfc19ea194ef3": {
+    "file": "corpus/devto/dev_to_anand_rathnas_d5b608cc3de_digitalocean-postgres-has-a_8fafa459d8.md",
+    "source": "devto",
+    "title": "DigitalOcean Postgres Has a Firewall Trap. We Walked Right Into It.",
+    "url": "https://dev.to/anand_rathnas_d5b608cc3de/digitalocean-postgres-has-a-firewall-trap-we-walked-right-into-it-3inf",
+    "keywords": [
+      "managed postgres flips",
+      "digitalocean postgres",
+      "digitalocean postgres",
+      "walked right",
+      "walked right",
+      "single trusted",
+      "hard way",
+      "firewall trap",
+      "firewall trap",
+      "entire db"
+    ],
+    "summary": "# DigitalOcean Postgres Has a Firewall Trap. Adding a single trusted-source rule to a previously-open DO managed Postgres flips the entire DB into enforcement mode. We learned this the hard way."
+  },
+  "08c9f0c2b95b9548": {
+    "file": "corpus/devto/dev_to_autor_tech_we-tested-4-text-to-speech-engines-on-1200_e55c9331f5.md",
+    "source": "devto",
+    "title": "We Tested 4 Text-to-Speech Engines on 12,000 Live Healthcare Calls — Here's Which One Patients Actually Trust",
+    "url": "https://dev.to/autor_tech/we-tested-4-text-to-speech-engines-on-12000-live-healthcare-calls-heres-which-one-patients-5b88",
+    "keywords": [
+      "one patients actually trust",
+      "one patients actually trust",
+      "tested 4 text",
+      "tested 4 text",
+      "52z last quarter",
+      "speech engines",
+      "speech engines",
+      "source",
+      "reactions",
+      "ran"
+    ],
+    "summary": "# We Tested 4 Text-to-Speech Engines on 12,000 Live Healthcare Calls — Here's Which One Patients Actually Trust > Source: devto | Category: news | 2026-08-19T02:44:52Z Last quarter, we ran our production voice AI receptionist — Loquent — across four different TTS..."
+  },
+  "966ae7faafb7e66c": {
+    "file": "corpus/devto/dev_to_juancarlosguti_ask-workdays-public-api-for-100-jobs-a_2eb1119daf.md",
+    "source": "devto",
+    "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+    "url": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+    "keywords": [
+      "get zero —",
+      "get zero —",
+      "public json endpoint",
+      "public api",
+      "public api",
+      "job board",
+      "ask workday",
+      "ask workday",
+      "100 jobs",
+      "100 jobs"
+    ],
+    "summary": "# Ask Workday's public API for 100 jobs and you get zero — with no error > Source: devto | Category: news | 2026-08-19T02:44:52Z Every major applicant tracking system publishes its job board as a public JSON endpoint."
+  },
+  "22af81f7311d0b4f": {
+    "file": "corpus/devto/dev_to_v4nd1t_a-load-balancer-is-200-lines-of-go-and-five-bu_47f1cb3f6e.md",
+    "source": "devto",
+    "title": "A Load Balancer Is 200 Lines of Go, and Five Bugs You Won't See Coming",
+    "url": "https://dev.to/v4nd1t/a-load-balancer-is-200-lines-of-go-and-five-bugs-you-wont-see-coming-5cm3",
+    "keywords": [
+      "real load balancing actually",
+      "robin http load balancer",
+      "five quiet bugs",
+      "go vet screams",
+      "load balancer",
+      "load balancer",
+      "five bugs",
+      "five bugs",
+      "see coming",
+      "see coming"
+    ],
+    "summary": "# A Load Balancer Is 200 Lines of Go, and Five Bugs You Won't See Coming > Source: devto | Category: news | 2026-08-19T02:44:53Z Building a round-robin HTTP load balancer in ~200 lines of Go, and the five quiet bugs (one of which go vet screams about) that reveal what real load balancing actually is."
+  },
+  "78caf307e06c7137": {
+    "file": "corpus/devto/dev_to_epilot_we-locked-ourselves-out-of-production-1n22_6a5eedd2f9.md",
+    "source": "devto",
+    "title": "We Locked Ourselves Out of Production",
+    "url": "https://dev.to/epilot/we-locked-ourselves-out-of-production-1n22",
+    "keywords": [
+      "ai coding agent",
+      "agent held ...",
+      "months back",
+      "build pipeline",
+      "source",
+      "setting",
+      "reactions",
+      "production",
+      "production",
+      "news"
+    ],
+    "summary": "# We Locked Ourselves Out of Production > Source: devto | Category: news | 2026-08-19T02:44:52Z A few months back an engineer was setting up a build pipeline with an AI coding agent."
+  },
+  "93ffacf7aec10f24": {
+    "file": "corpus/devto/dev_to_erkin_khidirov_e1a1d8dc51_how-i-wrote-a-go-message-br_2eddecec32.md",
+    "source": "devto",
+    "title": "How I wrote a Go message broker with a throughput of a million messages per second",
+    "url": "https://dev.to/erkin_khidirov_e1a1d8dc51/how-i-wrote-a-go-message-broker-with-a-throughput-of-a-million-messages-per-second-o86",
+    "keywords": [
+      "million messages per second",
+      "million messages per second",
+      "built hermitmq entirely",
+      "go message broker",
+      "go message broker",
+      "main feature",
+      "wrote",
+      "wrote",
+      "throughput"
+    ],
+    "summary": "# How I wrote a Go message broker with a throughput of a million messages per second I built HermitMQ entirely in Go. The main feature is ditching heavy wrappers like JSON in favor of a..."
+  },
+  "45f4c343cd71fbb6": {
+    "file": "corpus/hackernews/gist_github_com_17twenty_1f230ab8256f42d4cd3ba931b9bd440b_f5ae086de6.md",
+    "source": "hackernews",
+    "title": "The Integer",
+    "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+    "keywords": [
+      "48z score",
+      "source",
+      "news",
+      "integer",
+      "integer",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# The Integer > Source: hackernews | Category: news | 2026-08-19T02:44:48Z Score: 17 | Comments: 1"
+  },
+  "49c61e5b862eebd9": {
+    "file": "corpus/hackernews/lithub_com_on-that-disgraceful-disreputable-wonderful-form-o_ac28b1c17a.md",
+    "source": "hackernews",
+    "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+    "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+    "keywords": [
+      "46z score",
+      "wonderful",
+      "wonderful",
+      "source",
+      "punctuation",
+      "punctuation",
+      "parenthesis",
+      "parenthesis",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis > Source: hackernews | Category: news | 2026-08-19T02:44:46Z Score: 11 | Comments: 0"
+  },
+  "9bca9b61b15b51bc": {
+    "file": "corpus/hackernews/teadriven_com_blog_why-i-stopped-caring-about-terminology_98d35017f2.md",
+    "source": "hackernews",
+    "title": "I stopped caring about programming terms",
+    "url": "https://teadriven.com/blog/why-i-stopped-caring-about-terminology/",
+    "keywords": [
+      "stopped caring",
+      "stopped caring",
+      "programming terms",
+      "programming terms",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I stopped caring about programming terms > Source: hackernews | Category: news | 2026-08-19T02:44:48Z Score: 11 | Comments: 10"
   }
 }
