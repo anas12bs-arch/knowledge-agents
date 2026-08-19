@@ -441854,5 +441854,81 @@
       "hackernews"
     ],
     "summary": "# Peter Thiel-Linked Race Science Network That Penetrated Cambridge University > Source: hackernews | Category: news | 2026-08-19T10:48:06Z Score: 4 | Comments: 0"
+  },
+  "6e13e66ebf05cd8e": {
+    "file": "corpus/github-releases/github_com_huggingface_transformers_releases_tag_v5_15_1_7df98f84a4.md",
+    "source": "github-releases",
+    "title": "huggingface/transformers v5.15.1 released",
+    "url": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
+    "keywords": [
+      "mtp candidate generators",
+      "images could sometimes",
+      "fix mtp config",
+      "fix gemma4 video",
+      "device_map =\" auto",
+      "align logit distributions",
+      "device (# 47896",
+      "cuda (# 48026",
+      "absent (# 48015",
+      "using lanczos filter"
+    ],
+    "summary": "This patch most notably solves a few issues with DFlash and MTP candidate generators, as well as an issue where images could sometimes not be processed on accelerator if using Lanczos filter. It contains the following commits: - Fix DFlash candidate token device mismatch with device_map=\"auto\" (#47877) by @sywangyi and @Cyrilvallez - Align logit distributions for CandidateGenerators using sampling  (#48007) by @Cyrilvallez - Fix MTP config when mlp_layer_types is absent (#48015) by @Cyrilvallez "
+  },
+  "9bc2854c2dee1cd8": {
+    "file": "corpus/podcast/syntax_fm_1031_1770cee168.md",
+    "source": "podcast",
+    "title": "[syntax-fm] 1031: My Coding Skills Are Atrophying",
+    "url": "https://syntax.fm/1031",
+    "keywords": [
+      "sharge icemag3 hit us",
+      "decentralized web approaches 24",
+      "x instagram youtube threads",
+      "hosted ai assistants 49",
+      "19 hitting flow state",
+      "chasing flow state",
+      "still works 40",
+      "27 sick picks",
+      "14 using hermes",
+      "protocol vs solid"
+    ],
+    "summary": "Scott and Wes answer your questions about coding in the AI era, atrophying skills from too much autocomplete, whether it’s finally time to leave VS Code, chasing flow state with agents, and which single AI subscription is worth your money. Plus: AT Protocol vs Solid, making your AI config portable across tools, and bringing Shadcn-level UX to server-rendered frameworks. 06:03 Is It Time to Move On from VS Code?"
+  },
+  "ca4285b843c2a10f": {
+    "file": "corpus/finance/news_crunchbase_com_venture_unicorn-investors-ai-robotics-20_aaa1e08fa9.md",
+    "source": "finance",
+    "title": "[crunchbase] Which Investors Have Backed The Most 2026 Unicorns?",
+    "url": "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/",
+    "keywords": [
+      "leading sectors included robotics",
+      "2026 funding surge",
+      "unicorn ranks",
+      "financial services",
+      "among others",
+      "ai labs",
+      "ai infrastructure",
+      "ai deployment",
+      "250 companies",
+      "2026 unicorns"
+    ],
+    "summary": "# [crunchbase] Which Investors Have Backed The Most 2026 Unicorns? Which Investors Have Backed The Most 2026 Unicorns? But which investors are winning the 2026 funding surge?"
+  },
+  "a7981f7dc70b6ca8": {
+    "file": "corpus/engineering/www_infoq_com_presentations_progressive-collapse-system-resi_55a485e5ba.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+    "url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "prevent catastrophic cascades",
+      "understanding progressive collapse",
+      "understanding progressive collapse",
+      "understanding progressive collapse",
+      "progressive collapse",
+      "world examples",
+      "using real",
+      "strengthen components",
+      "software leaders",
+      "sam newman"
+    ],
+    "summary": "# [infoq] Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders."
   }
 }
