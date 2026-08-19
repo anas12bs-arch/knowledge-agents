@@ -445049,5 +445049,195 @@
       "affordability"
     ],
     "summary": "# What the $20 Burrito Debate Gets Wrong About Affordability > Source: hackernews | Category: news | 2026-08-19T19:41:21Z Score: 6 | Comments: 2"
+  },
+  "6183440171b17676": {
+    "file": "corpus/devto/dev_to_ramya_sree_6a3c49d3579239_canada-pr-process-a-complet_dc6c934f4c.md",
+    "source": "devto",
+    "title": "Canada PR Process: A Complete Guide to Canadian Permanent Residency",
+    "url": "https://dev.to/ramya_sree_6a3c49d3579239/canada-pr-process-a-complete-guide-to-canadian-permanent-residency-5goe",
+    "keywords": [
+      "canadian permanent residency",
+      "canadian permanent residency",
+      "canada pr process",
+      "canada pr process",
+      "49z canada",
+      "skilled professionals",
+      "popular destinations",
+      "entrepreneurs ,...",
+      "complete guide",
+      "complete guide"
+    ],
+    "summary": "# Canada PR Process: A Complete Guide to Canadian Permanent Residency > Source: devto | Category: news | 2026-08-19T19:57:49Z Canada is one of the most popular destinations for skilled professionals, graduates, entrepreneurs,..."
+  },
+  "f7fa2c180aee2061": {
+    "file": "corpus/devto/dev_to_jflu_what-geo-work-actually-moves-ai-crawlers-our-dat_baf5ecd4f4.md",
+    "source": "devto",
+    "title": "What GEO Work Actually Moves AI Crawlers? Our Data, and a New-Site Launch Checklist",
+    "url": "https://dev.to/jflu/what-geo-work-actually-moves-ai-crawlers-our-data-and-a-new-site-launch-checklist-4021",
+    "keywords": [
+      "advice keeps multiplying",
+      "site launch checklist",
+      "site launch checklist",
+      "new site",
+      "launch",
+      "new",
+      "new",
+      "wire",
+      "summary",
+      "source"
+    ],
+    "summary": "# What GEO Work Actually Moves AI Crawlers? Our Data, and a New-Site Launch Checklist You are about to launch a new site and the advice keeps multiplying: add /ai/summary.json, wire up..."
+  },
+  "a6c8ab3712cea016": {
+    "file": "corpus/devto/dev_to_sgadde08_zero-trust-for-ai-outputs-why-model-response_68db3f32cf.md",
+    "source": "devto",
+    "title": "Zero Trust for AI Outputs: Why Model Responses Need Sanitization",
+    "url": "https://dev.to/sgadde08/zero-trust-for-ai-outputs-why-model-responses-need-sanitization-3155",
+    "keywords": [
+      "model responses need sanitization",
+      "model responses need sanitization",
+      "zero trust",
+      "zero trust",
+      "software engineers",
+      "security architects",
+      "practical guide",
+      "ai outputs",
+      "ai outputs",
+      "source"
+    ],
+    "summary": "# Zero Trust for AI Outputs: Why Model Responses Need Sanitization > Source: devto | Category: news | 2026-08-19T19:57:48Z A practical guide for software engineers, security architects, and tech leads shipping LLM features..."
+  },
+  "28840c06c31dfaaf": {
+    "file": "corpus/ai-research/openai_com_index_offering-zero-data-retention-for-frontier-m_df8f12302a.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "keywords": [
+      "previews private safety processing",
+      "offering zero data retention",
+      "offering zero data retention",
+      "eligible api customers",
+      "frontier models",
+      "frontier models",
+      "source",
+      "research",
+      "research",
+      "openai"
+    ],
+    "summary": "# [openai-blog] Offering Zero Data Retention for frontier models Offering Zero Data Retention for frontier models OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  "38368d564b54a656": {
+    "file": "corpus/security/thehackernews_com_2026_08_openai-pauses-frontier-rl-training_542c6d33a2.md",
+    "source": "security",
+    "title": "[hacker-news-sec] OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "keywords": [
+      "internally also grow ,\"",
+      "avert another hugging face",
+      "unsafe ai behavior openai",
+      "unsafe ai behavior",
+      "unsafe ai behavior",
+      "paused reinforcement learning",
+      "latest artificial intelligence",
+      "ai company",
+      "two weeks",
+      "tuesday revealed"
+    ],
+    "summary": "# [hacker-news-sec] OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident."
+  },
+  "6cacfc67b4f9d23f": {
+    "file": "corpus/security/thehackernews_com_2026_08_cloudflare-workers-spectre-attack-_ef4c1d5e9e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+    "keywords": [
+      "12 bits per second",
+      "remote spectre attack",
+      "json web token",
+      "earlier attack demonstrated",
+      "victim worker controlled",
+      "end experiment used",
+      "second cybersecurity researchers",
+      "12 bits",
+      "12 bits",
+      "12 bits"
+    ],
+    "summary": "# [hacker-news-sec] Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021."
+  },
+  "3088b207b8e7a73d": {
+    "file": "corpus/hackernews/sprocketfox_io_xssfox_2026_07_01_cricut-unlock_960cbbee1b.md",
+    "source": "hackernews",
+    "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "keywords": [
+      "waste cricut maker",
+      "waste cricut maker",
+      "deactivated e",
+      "deactivated e",
+      "42z score",
+      "unlocking",
+      "unlocking",
+      "source",
+      "news",
+      "locked"
+    ],
+    "summary": "# Unlocking a locked/deactivated e-waste Cricut Maker > Source: hackernews | Category: news | 2026-08-19T19:57:42Z Score: 7 | Comments: 0"
+  },
+  "db6155892dab2590": {
+    "file": "corpus/hackernews/router_com_9240867232.md",
+    "source": "hackernews",
+    "title": "Ramp Launches a Model Router",
+    "url": "https://router.com",
+    "keywords": [
+      "ramp launches",
+      "ramp launches",
+      "model router",
+      "model router",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Ramp Launches a Model Router > Source: hackernews | Category: news | 2026-08-19T19:57:43Z Score: 8 | Comments: 2"
+  },
+  "03984d6dcc99a614": {
+    "file": "corpus/hackernews/www_theverge_com_tech_981956_google-pixel-11-pro-fold-review_54e54f8bde.md",
+    "source": "hackernews",
+    "title": "Pixel 11 Pro Fold feels like the end of an era",
+    "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+    "keywords": [
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "era",
+      "era",
+      "end",
+      "end",
+      "comments",
+      "category"
+    ],
+    "summary": "# Pixel 11 Pro Fold feels like the end of an era > Source: hackernews | Category: news | 2026-08-19T19:57:42Z Score: 6 | Comments: 4"
+  },
+  "69aa01bd6b958cd4": {
+    "file": "corpus/hackernews/arxiv_org_abs_2510_24491_70b93442a4.md",
+    "source": "hackernews",
+    "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+    "url": "https://arxiv.org/abs/2510.24491",
+    "keywords": [
+      "semiclassical einstein equations",
+      "semiclassical einstein equations",
+      "quantum relative entropy",
+      "quantum relative entropy",
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# From Quantum Relative Entropy to the Semiclassical Einstein Equations > Source: hackernews | Category: news | 2026-08-19T19:57:42Z Score: 5 | Comments: 0"
   }
 }
