@@ -452216,5 +452216,357 @@
       "might"
     ],
     "summary": "# Why It Might Be Time to Rethink the Human Family Tree > Source: hackernews | Category: news | 2026-08-20T18:51:58Z Score: 5 | Comments: 1"
+  },
+  "77fda0fc88dd1438": {
+    "file": "corpus/github-releases/github_com_sveltejs_svelte_releases_tag_svelte_405_56_10_8526d9039a.md",
+    "source": "github-releases",
+    "title": "sveltejs/svelte svelte@5.56.10 released",
+    "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%405.56.10",
+    "keywords": [
+      "increment private state fields",
+      "apply css custom properties",
+      "removed capture event handlers",
+      "preserve css escape sequences",
+      "10 ### patch changes",
+      "allow custom elements",
+      "reliably resolve append_style",
+      "parse `: nth",
+      "give effect teardowns",
+      "event propagation settles"
+    ],
+    "summary": "-   docs: clarify that context lookup includes the current component and all ancestors ([#18581](https://github.com/sveltejs/svelte/pull/18581)) -   fix: don't corrupt renderer type during SSR's legacy `bind:` retry loop ([#18616](https://github.com/sveltejs/svelte/pull/18616)) -   perf: make async blocker analysis scale linearly with the number of top-level references ([#18549](https://github.com/sveltejs/svelte/pull/18549))"
+  },
+  "785cc37766bbbfc6": {
+    "file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_35_8_cd93312882.md",
+    "source": "github-releases",
+    "title": "kubernetes/kubernetes v1.35.8 released",
+    "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8",
+    "keywords": [
+      "forum /#! forum",
+      "additional binary downloads",
+      "15z ## kubernetes",
+      "kubernetes — v1",
+      "announce ).",
+      "8 released",
+      "8 released",
+      "kubernetes v1",
+      "kubernetes v1",
+      "md )."
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T19:25:15Z Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.35.md). See the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.35.md) for more details."
+  },
+  "cbb7616a31cf9109": {
+    "file": "corpus/devops/devops_com_ai-agents-are-writing-code-faster-than-anyone-can_2cdd7ca08c.md",
+    "source": "devops",
+    "title": "[devops-com] AI Agents Are Writing Code Faster Than Anyone Can Review It. Tessl Is Betting On Standards To Close That Gap",
+    "url": "https://devops.com/ai-agents-are-writing-code-faster-than-anyone-can-review-it-tessl-is-betting-on-standards-to-close-that-gap/",
+    "keywords": [
+      "code start falling behind",
+      "turned coding agents loose",
+      "writing code faster",
+      "writing code faster",
+      "writing code faster",
+      "twentieth pull request",
+      "57z ai agents",
+      "agents write fast",
+      "gap every team",
+      "ai agents"
+    ],
+    "summary": "# [devops-com] AI Agents Are Writing Code Faster Than Anyone Can Review It. Tessl Is Betting On Standards To Close That Gap AI Agents Are Writing Code Faster Than Anyone Can Review It."
+  },
+  "638a31e8cdef311c": {
+    "file": "corpus/devops/devops_com_npm-v12-shuts-down-a-popular-malware-trick-but-th_d9e954916d.md",
+    "source": "devops",
+    "title": "[devops-com] npm v12 Shuts Down a Popular Malware Trick — But the Threat Isn’t Going Away",
+    "url": "https://devops.com/npm-v12-shuts-down-a-popular-malware-trick-but-the-threat-isnt-going-away/",
+    "keywords": [
+      "popular malware trick —",
+      "popular malware trick —",
+      "popular malware trick —",
+      "57z npm v12 shuts",
+      "sneak malware onto",
+      "runs automatically —",
+      "npm v12 shuts",
+      "npm v12 shuts",
+      "lifecycle script bundled",
+      "[&# 8230 ;]"
+    ],
+    "summary": "# [devops-com] npm v12 Shuts Down a Popular Malware Trick — But the Threat Isn’t Going Away npm v12 Shuts Down a Popular Malware Trick — But the Threat Isn’t Going Away Attackers have known this for a long time, and they&#8217;ve used it [&#8230;]"
+  },
+  "cd7f54fb54be1edd": {
+    "file": "corpus/product/techcrunch_com_2026_08_20_castelion-hits-13b-valuation-to-ma_3f3d7cf4d8.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Castelion hits $13B valuation to mass-produce hypersonic missiles",
+    "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
+    "keywords": [
+      "1 billion series c",
+      "produce hypersonic missiles",
+      "produce hypersonic missiles",
+      "produce hypersonic missiles",
+      "jp morgan chase",
+      "58z castelion hits",
+      "castelion hits",
+      "castelion hits",
+      "andreessen horowitz",
+      "13b valuation"
+    ],
+    "summary": "# [techcrunch-startups] Castelion hits $13B valuation to mass-produce hypersonic missiles Castelion hits $13B valuation to mass-produce hypersonic missiles The $1 billion Series C was co-led by Andreessen Horowitz, Carlyle, and JP Morgan Chase."
+  },
+  "f20c57912bf5aedf": {
+    "file": "corpus/product/techcrunch_com_2026_08_20_runlayer-rippling-drop-lawsuits-bu_4065cdd41c.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "keywords": [
+      "rippling drop lawsuits",
+      "rippling drop lawsuits",
+      "rippling drop lawsuits",
+      "rippling celebrated",
+      "cautionary tale",
+      "cautionary tale",
+      "cautionary tale",
+      "competing product",
+      "58z runlayer",
+      "lawsuits"
+    ],
+    "summary": "But the brouhaha is still a cautionary tale for founders. But the brouhaha is still a cautionary tale for founders. Runlayer and Rippling have dropped their lawsuits."
+  },
+  "3b6d9db13bf21582": {
+    "file": "corpus/devto/dev_to_yashksaini_the-test-was-green-every-real-connection-w_7ac60ba10c.md",
+    "source": "devto",
+    "title": "The test was green. Every real connection would have failed.",
+    "url": "https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37",
+    "keywords": [
+      "every real connection would",
+      "every real connection would",
+      "summer bug smash",
+      "smash stories powered",
+      "test",
+      "test",
+      "submission",
+      "source",
+      "sentry",
+      "reactions"
+    ],
+    "summary": "# The test was green. Every real connection would have failed. This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry."
+  },
+  "351e83d0c404c406": {
+    "file": "corpus/devto/dev_to_yashksaini_one-rented-24-could-eclipse-a-kademlia-nod_f62f0eff9e.md",
+    "source": "devto",
+    "title": "One rented /24 could eclipse a Kademlia node. Now it takes ten.",
+    "url": "https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p",
+    "keywords": [
+      "summer bug smash",
+      "smash stories powered",
+      "24 could eclipse",
+      "24 could eclipse",
+      "takes ten",
+      "takes ten",
+      "one rented",
+      "one rented",
+      "kademlia node",
+      "kademlia node"
+    ],
+    "summary": "# One rented /24 could eclipse a Kademlia node. Now it takes ten. This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry."
+  },
+  "69f3548f8562f891": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_manage-vercel-container-registry-with-v_7202220b07.md",
+    "source": "vercel-blog",
+    "title": "Manage Vercel Container Registry with Vercel CLI",
+    "url": "https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
+    "keywords": [
+      "manage vercel container registry",
+      "manage vercel container registry",
+      "vercel cli",
+      "vercel cli",
+      "vercel cli",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog"
+    ],
+    "summary": "# Manage Vercel Container Registry with Vercel CLI > Source: vercel-blog | Category: news | 2026-08-20T19:24:08Z Manage Vercel Container Registry with Vercel CLI"
+  },
+  "d354e8fba4ce8efd": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_calling-on-cyber-pros-to-help_fdc0a385d4.md",
+    "source": "security",
+    "title": "[dark-reading] Calling on Cyber Pros to Help Defend City Hall",
+    "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+    "keywords": [
+      "help defend city hall",
+      "help defend city hall",
+      "cyber pros",
+      "cyber pros",
+      "cyber pros",
+      "57z calling",
+      "help",
+      "calling",
+      "calling",
+      "source"
+    ],
+    "summary": "# [dark-reading] Calling on Cyber Pros to Help Defend City Hall Calling on Cyber Pros to Help Defend City Hall Government agencies with smaller budgets need support — and here's how you can help."
+  },
+  "2fa6d157e93cc131": {
+    "file": "corpus/hackernews/wavehouse_dev_84c8dc2977.md",
+    "source": "hackernews",
+    "title": "Show HN: WaveHouse – Supabase for ClickHouse",
+    "url": "https://wavehouse.dev",
+    "keywords": [
+      "parts together – fast",
+      "wavehouse – supabase",
+      "wavehouse – supabase",
+      "realtime streaming –",
+      "whole backend api",
+      "wavehouse .< p",
+      "something like kafka",
+      "single go binary",
+      "quick projects wanting",
+      "permissions .< p"
+    ],
+    "summary": "While building an IoT telemetry solution, we ran into hurdles with Clickhouse. For one, you can&#x27;t insert quickly AND durably into Clickhouse without setting up something like Kafka, which gets complicated for quick projects wanting to make use of Clickhouse&#x27;s powerful features. Then, trying to actually query Clickhouse and show data in a UI required a whole backend API to handle auth and permissions.<p>We figured that all these parts together – fast, durable ingest, row-level and colum"
+  },
+  "6d38763ec889b881": {
+    "file": "corpus/hackernews/github_com_truefoundry_trueforge_da9d91cfb8.md",
+    "source": "hackernews",
+    "title": "TrueForge – The open-source agent harness",
+    "url": "https://github.com/truefoundry/trueforge",
+    "keywords": [
+      "source agent harness",
+      "source agent harness",
+      "trueforge –",
+      "trueforge –",
+      "01z score",
+      "source",
+      "open",
+      "open",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# TrueForge – The open-source agent harness > Source: hackernews | Category: news | 2026-08-20T19:24:01Z Score: 7 | Comments: 1"
+  },
+  "5a1f7ae9dbc2b3d7": {
+    "file": "corpus/hackernews/consumerrights_wiki_w_Main_Page_d592fa5918.md",
+    "source": "hackernews",
+    "title": "Consumer Rights Wiki",
+    "url": "https://consumerrights.wiki/w/Main_Page",
+    "keywords": [
+      "consumer rights wiki",
+      "consumer rights wiki",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Consumer Rights Wiki > Source: hackernews | Category: news | 2026-08-20T19:23:58Z Score: 9 | Comments: 0"
+  },
+  "6291a69acb14f4a0": {
+    "file": "corpus/hackernews/lucumr_pocoo_org_2026_8_19_what-is-reasoning_5719d0e304.md",
+    "source": "hackernews",
+    "title": "What Is Reasoning",
+    "url": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
+    "keywords": [
+      "01z score",
+      "source",
+      "reasoning",
+      "reasoning",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What Is Reasoning > Source: hackernews | Category: news | 2026-08-20T19:24:01Z Score: 5 | Comments: 0"
+  },
+  "2fc02c24e4d964e8": {
+    "file": "corpus/hackernews/birchtree_me_blog_subscriber-rot_a65154fa58.md",
+    "source": "hackernews",
+    "title": "Subscriber Rot",
+    "url": "https://birchtree.me/blog/subscriber-rot/",
+    "keywords": [
+      "subscriber rot",
+      "subscriber rot",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Subscriber Rot > Source: hackernews | Category: news | 2026-08-20T19:24:01Z Score: 4 | Comments: 0"
+  },
+  "f594ff07819e65ce": {
+    "file": "corpus/hackernews/www_rathbiotaclan_com_tiktok-videos-deactivate-key-cognitive_1277da21f4.md",
+    "source": "hackernews",
+    "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+    "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+    "keywords": [
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "20t19"
+    ],
+    "summary": "# Scientific study reveals TikTok videos deactivate key cognitive brain regions > Source: hackernews | Category: news | 2026-08-20T19:23:56Z Score: 26 | Comments: 3"
+  },
+  "e04644a5e96883c4": {
+    "file": "corpus/hackernews/kandelo_dev_20260819-demo_b40c08e3ef.md",
+    "source": "hackernews",
+    "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+    "url": "https://kandelo.dev/20260819-demo/",
+    "keywords": [
+      "offer many different ways",
+      "minimal hacks .< p",
+      "boot initially .< p",
+      "kandelo also looks promising",
+      "compromise default posix behavior",
+      "love &# x2f ;</",
+      "demo &# x2f ;</",
+      "dev &# x2f",
+      "dev &# x2f",
+      "dev &# x2f"
+    ],
+    "summary": "Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js.<p>Kandelo is still experimental, but it already runs a substantial range of existing software.<p><i>Do you have use cases for this?</i><p>We are trying Kandelo as a new foundation for WordPress Playground which runs server-side WordPress entirely in the browser. But after weeks of fighting agents, insisting on genuine POSIX compatibility as the default, I was surprised at how well the sys"
+  },
+  "f9b92bca2ba27bf6": {
+    "file": "corpus/hackernews/dl_acm_org_doi_10_1145_3759429_3762631_8bb40a8ab8.md",
+    "source": "hackernews",
+    "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
+    "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
+    "keywords": [
+      "diurnal golem",
+      "diurnal golem",
+      "58z score",
+      "source",
+      "news",
+      "hackernews",
+      "gauguin",
+      "gauguin",
+      "descartes",
+      "descartes"
+    ],
+    "summary": "# Gauguin, Descartes, Bayes: A Diurnal Golem's Brain > Source: hackernews | Category: news | 2026-08-20T19:23:58Z Score: 5 | Comments: 1"
+  },
+  "2750da84b1b88e69": {
+    "file": "corpus/hackernews/www_danielvaughn_dev_posts_huzzah_48bb2bd117.md",
+    "source": "hackernews",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "keywords": [
+      "coding agents since january",
+      "</ code ></ pre",
+      "real source code 3",
+      "feel utterly exhausted",
+      "agent begins confusing",
+      "0 hello everyone",
+      "write full sentences",
+      "whatever way makes",
+      "status &# x2f",
+      "status &# x2f"
+    ],
+    "summary": "# Show HN: Huzzah – a novel approach to coding with AI I&#x27;ve been working on this experimental editor called Huzzah.<p>I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. </code></pre> It may not work for every use case, but in my initial playthroughs I&#x27;ve found it very enjoyable.<p>Right now it&#x27;s just a proof of concept - installation instructions are here in the readme: <a"
   }
 }
