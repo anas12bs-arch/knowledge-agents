@@ -449929,5 +449929,492 @@
       "first apps"
     ],
     "summary": "James Arthur shares why sync is the next frontier in frontend architecture. He explains how extending reactivity to the server with Electric and TanStack DB replaces imperative fetching with declarative data bindings. Learn how query-driven sync and local optimistic updates enable engineering leaders to build insanely fast, collaborative, and agentic applications using their existing stack."
+  },
+  "cee0f0c0b75e42e6": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain_3D__389bcf81b4.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain==1.3.16 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.16",
+    "keywords": [
+      "json schema (# 39632",
+      "langchain ): update docs",
+      "langchain langchain == 1",
+      "langchain langchain == 1",
+      "langchain ): 1",
+      "modelretrymiddleware (# 38960",
+      "contexteditingmiddleware (# 39754",
+      "23z ## langchain",
+      "16 (# 39806",
+      "langchain ):"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T14:36:23Z Changes since langchain==1.3.15 release(langchain): 1.3.16 (#39806) feat(core): add standard model exception types (#39538) feat(langchain): support custom token_counter in ContextEditingMiddleware (#39754) fix(langchain): re-raise non-retryable exceptions in ModelRetryMiddleware (#38960) chore(langchain): update docs on error handling for json schema (#39632) fix(langchain): preserve final repeated schema ordering (#39284)"
+  },
+  "60458c95a4f84a14": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-ant_bb535dacef.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-anthropic==1.6.1 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.6.1",
+    "keywords": [
+      "v1 content (# 39803",
+      "1 changes since langchain",
+      "1 (# 39804",
+      "anthropic == 1",
+      "anthropic == 1",
+      "anthropic == 1",
+      "anthropic == 1",
+      "anthropic ): 1",
+      "23z ## langchain",
+      "langchain — langchain"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T14:36:23Z Changes since langchain-anthropic==1.6.0 release(anthropic): 1.6.1 (#39804) fix(anthropic): filter invalid tool calls from v1 content (#39803)"
+  },
+  "619be3d3b78b3eb1": {
+    "file": "corpus/github-releases/github_com_oven-sh_bun_releases_tag_bun-v1_4_0_c111c3d3a6.md",
+    "source": "github-releases",
+    "title": "oven-sh/bun bun-v1.4.0 released",
+    "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0",
+    "keywords": [
+      "img width =\" 1672",
+      "fssl https :// bun",
+      "g bun ``` windows",
+      "contributed since bun v1",
+      "4 ``` bash curl",
+      "height =\" 941",
+      "alt =\" image",
+      "``` bash powershell",
+      "bun — bun",
+      "22z ## oven"
+    ],
+    "summary": "To install Bun v1.4 ```bash curl -fsSL https://bun.com/install | bash # or you can use npm # npm install -g bun ``` Bun is free, open source, and MIT-licensed. We receive a lot of contributions from the community, and we'd like to thank everyone who fixed a bug or contributed since Bun v1.3."
+  },
+  "3f4651a214e005bb": {
+    "file": "corpus/devto/dev_to_william_jin_d9f49c3ea519e_graduated-autonomy-the-desi_b1c4e24df0.md",
+    "source": "devto",
+    "title": "Graduated autonomy: the design pattern that made our AI agent safe to run in production",
+    "url": "https://dev.to/william_jin_d9f49c3ea519e/graduated-autonomy-the-design-pattern-that-made-our-ai-agent-safe-to-run-in-production-11el",
+    "keywords": [
+      "usually mean one",
+      "ai agent safe",
+      "ai agent safe",
+      "ai agent ,\"",
+      "two things",
+      "people say",
+      "graduated autonomy",
+      "graduated autonomy",
+      "design pattern",
+      "design pattern"
+    ],
+    "summary": "# Graduated autonomy: the design pattern that made our AI agent safe to run in production When people say \"AI agent,\" they usually mean one of two things. Either a chatbot that suggests what..."
+  },
+  "562e8bab255f3a80": {
+    "file": "corpus/devto/dev_to_gde_gemini-api-in-action-adding-a-detailed-research-r_f88a4857f1.md",
+    "source": "devto",
+    "title": "[Gemini API in Action] Adding a 'Detailed Research Report' Button to a LINE Bot: Using Google Search Grounding to Turn Summaries",
+    "url": "https://dev.to/gde/gemini-api-in-action-adding-a-detailed-research-report-button-to-a-line-bot-using-google-2cd0",
+    "keywords": [
+      "using google search grounding",
+      "using google search grounding",
+      "detailed research report",
+      "detailed research report",
+      "turn summaries",
+      "turn summaries",
+      "summary feature",
+      "line bot",
+      "line bot",
+      "line bot"
+    ],
+    "summary": "# [Gemini API in Action] Adding a \"Detailed Research Report\" Button to a LINE Bot: Using Google Search Grounding to Turn Summaries > Source: devto | Category: news | 2026-08-20T14:35:43Z Background   My LINE Bot has always had a summary feature: you drop a URL in, it crawls..."
+  },
+  "7cf65c804bf73920": {
+    "file": "corpus/devto/dev_to_pm25coder_every-complaint-is-a-ticket-a-feedback-to-p_c5fbe0d8d7.md",
+    "source": "devto",
+    "title": "Every complaint is a ticket: a feedback-to-PR loop that runs itself",
+    "url": "https://dev.to/pm25coder/every-complaint-is-a-ticket-a-feedback-to-pr-loop-that-runs-itself-4c8d",
+    "keywords": [
+      "software agent actually improve",
+      "use —",
+      "schedule ,...",
+      "pr loop",
+      "pr loop",
+      "every complaint",
+      "every complaint",
+      "ticket",
+      "ticket",
+      "source"
+    ],
+    "summary": "# Every complaint is a ticket: a feedback-to-PR loop that runs itself > Source: devto | Category: news | 2026-08-20T14:35:45Z How do you make a software agent actually improve from use — not in a demo, but on a schedule,..."
+  },
+  "3a56d0e5a12e8d5d": {
+    "file": "corpus/devto/dev_to_rosen_should-you-migrate-to-temporal-yet-a-decision-f_20401d1acf.md",
+    "source": "devto",
+    "title": "Should You Migrate to Temporal Yet? A Decision Framework, Not Another Tutorial",
+    "url": "https://dev.to/rosen/should-you-migrate-to-temporal-yet-a-decision-framework-not-another-tutorial-1kg1",
+    "keywords": [
+      "thirty years",
+      "decision framework",
+      "decision framework",
+      "another tutorial",
+      "another tutorial",
+      "already know",
+      "temporal yet",
+      "temporal yet",
+      "temporal",
+      "timezone"
+    ],
+    "summary": "# Should You Migrate to Temporal Yet? A Decision Framework, Not Another Tutorial Immutable, timezone-aware, fixes the thirty years of pain that..."
+  },
+  "12765bc139c2db85": {
+    "file": "corpus/devto/dev_to_kike_mcp-just-went-stateless-and-broke-half-the-ecosy_e86f262199.md",
+    "source": "devto",
+    "title": "MCP Just Went Stateless and 'Broke' Half the Ecosystem: Here Is My Fix",
+    "url": "https://dev.to/kike/mcp-just-went-stateless-and-broke-half-the-ecosystem-here-is-my-fix-46j1",
+    "keywords": [
+      "local tool kept running",
+      "release last week",
+      "github actions cleared",
+      "whole ...",
+      "went stateless",
+      "went stateless",
+      "source",
+      "reactions",
+      "pushed",
+      "news"
+    ],
+    "summary": "# MCP Just Went Stateless and \"Broke\" Half the Ecosystem: Here Is My Fix I pushed a release last week. My local tool kept running."
+  },
+  "845a396efcd2ddbf": {
+    "file": "corpus/devto/dev_to_megapixel99_what-a-code-completers-eval-never-measure_ad95cf4641.md",
+    "source": "devto",
+    "title": "What a Code Completer's Eval Never Measures: Ghost Text",
+    "url": "https://dev.to/megapixel99/what-a-code-completers-eval-never-measures-ghost-text-3a64",
+    "keywords": [
+      "eval never measures",
+      "eval never measures",
+      "parameter code completer",
+      "code completer",
+      "code completer",
+      "eval hands",
+      "true prefix",
+      "tokens right",
+      "single token",
+      "one feature"
+    ],
+    "summary": "# What a Code Completer's Eval Never Measures: Ghost Text A hybrid n-gram and 2.48M-parameter code completer that gets 54.6% of tokens right, tuned dial by dial against its own held-out eval. Then I scored the one feature that emits more than a single token and it came back at 0.070, because the eval hands the model a true prefix and the feature hands it its own output."
+  },
+  "da19117f93fcfed4": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_how-msps-can-catch-ph_41d45d363a.md",
+    "source": "security",
+    "title": "[bleeping-comp] How MSPs can catch phishing attacks email filters miss",
+    "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+    "keywords": [
+      "making phishing attacks",
+      "traditional email filters",
+      "contain attacks",
+      "monitor identity",
+      "kaseya explains",
+      "endpoint activity",
+      "email",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] How MSPs can catch phishing attacks email filters miss How MSPs can catch phishing attacks email filters miss AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect."
+  },
+  "415c599b8395a21b": {
+    "file": "corpus/security/thehackernews_com_2026_08_attackers-exploit-zimbra-snmp-flaw_572e047ecd.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+    "keywords": [
+      "unauthenticated remote code execution",
+      "unauthenticated remote code execution",
+      "unauthenticated remote code execution",
+      "remote code execution",
+      "cert polska ).",
+      "cvss score",
+      "command injection",
+      "active exploitation",
+      "9 ),",
+      "zimbra"
+    ],
+    "summary": "# [hacker-news-sec] Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska)."
+  },
+  "a7155fcdb8763b4d": {
+    "file": "corpus/security/thehackernews_com_2026_08_isolated-vm-flaw-lets-sandboxed_ht_01bed0d171.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+    "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+    "keywords": [
+      "potential rce cybersecurity researchers",
+      "vulnerability (\" ghsa",
+      "could allow attackers",
+      "critical security flaw",
+      "potential rce",
+      "potential rce",
+      "popular open",
+      "including 7",
+      "cve identifier",
+      "900 stars"
+    ],
+    "summary": "# [hacker-news-sec] Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment."
+  },
+  "df4ed0ece36b70ca": {
+    "file": "corpus/security/thehackernews_com_2026_08_critical-netscaler-flaw-can-bypass_88c8957eed.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+    "keywords": [
+      "37z critical netscaler flaw",
+      "severity authentication bypass vulnerability",
+      "critical netscaler flaw",
+      "critical netscaler flaw",
+      "virtualization technology company",
+      "managed netscaler adc",
+      "issues affect customer",
+      "netscaler gateway deployments",
+      "aaa servers citrix",
+      "including certain fips"
+    ],
+    "summary": "# [hacker-news-sec] Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability."
+  },
+  "afd43b2134b62dc3": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_pakistan-tran_03ef212068.md",
+    "source": "security",
+    "title": "[dark-reading] Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+    "keywords": [
+      "transparent tribe refreshes toolset",
+      "transparent tribe refreshes toolset",
+      "transparent tribe refreshes toolset",
+      "state threat actor",
+      "prepared government agencies",
+      "immature organizations run",
+      "afghan cyberattacks",
+      "afghan cyberattacks",
+      "afghan cyberattacks",
+      "38z pakistan"
+    ],
+    "summary": "# [dark-reading] Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India."
+  },
+  "54398fb961d8142f": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48278_binance-unveils-platform-_2a2ae2d2ea.md",
+    "source": "finance",
+    "title": "[finextra] Binance unveils platform that lets AI agents make trades for users",
+    "url": "https://www.finextra.com/newsarticle/48278/binance-unveils-platform-that-lets-ai-agents-make-trades-for-users?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "37z binance unveils platform",
+      "users crypto exchange binance",
+      "binance unveils platform",
+      "binance unveils platform",
+      "developer platform",
+      "make trades",
+      "users",
+      "users",
+      "systems",
+      "source"
+    ],
+    "summary": "# [finextra] Binance unveils platform that lets AI agents make trades for users Binance unveils platform that lets AI agents make trades for users Crypto exchange Binance has launched a developer platform that lets users connect AI agents to its systems and make trades."
+  },
+  "33c4c6a70f4456ad": {
+    "file": "corpus/hackernews/savvynormie_com_i-spent-twenty-years-becoming-good-at-the-wr_a4f0ecb7cf.md",
+    "source": "hackernews",
+    "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+    "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+    "keywords": [
+      "wrong game",
+      "wrong game",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I Spent Twenty Years Becoming Good at the Wrong Game > Source: hackernews | Category: news | 2026-08-20T14:35:37Z Score: 22 | Comments: 27"
+  },
+  "18ef4cddaffb5d4a": {
+    "file": "corpus/hackernews/dreadnode_io_research_every-model-cheats-prompt-level-mitiga_abdaab3b91.md",
+    "source": "hackernews",
+    "title": "Every Model Cheats",
+    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+    "keywords": [
+      "every model cheats",
+      "every model cheats",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Every Model Cheats > Source: hackernews | Category: news | 2026-08-20T14:35:39Z Score: 3 | Comments: 0"
+  },
+  "54a3a49a1f42ab47": {
+    "file": "corpus/hackernews/stwipe_com_2841680f52.md",
+    "source": "hackernews",
+    "title": "Stwipe Acquires OpenWouter",
+    "url": "https://stwipe.com/",
+    "keywords": [
+      "stwipe acquires openwouter",
+      "stwipe acquires openwouter",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "20t14"
+    ],
+    "summary": "# Stwipe Acquires OpenWouter > Source: hackernews | Category: news | 2026-08-20T14:35:37Z Score: 17 | Comments: 1"
+  },
+  "e3e528d17eecdd05": {
+    "file": "corpus/hackernews/deadsimpleci_sparrowhub_io_doc_job-artifacts_b2d81d80a9.md",
+    "source": "hackernews",
+    "title": "CI jobs artifacts should not be difficult",
+    "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+    "keywords": [
+      "ci jobs artifacts",
+      "ci jobs artifacts",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "difficult",
+      "difficult",
+      "comments",
+      "category"
+    ],
+    "summary": "# CI jobs artifacts should not be difficult > Source: hackernews | Category: news | 2026-08-20T14:35:39Z Score: 4 | Comments: 2"
+  },
+  "3dd58c0765aa867c": {
+    "file": "corpus/hackernews/bun_com_blog_bun-v1_4_b548c2c9cc.md",
+    "source": "hackernews",
+    "title": "Bun 1.4",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "keywords": [
+      "bun 1",
+      "bun 1",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bun 1.4 > Source: hackernews | Category: news | 2026-08-20T14:35:40Z Score: 19 | Comments: 2"
+  },
+  "63bd197ed2d5e288": {
+    "file": "corpus/hackernews/therevelator_org_why-ocean-cleanup-has-not-solved-plastic-po_e47276d308.md",
+    "source": "hackernews",
+    "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+    "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+    "keywords": [
+      "plastic pollution crisis",
+      "plastic pollution crisis",
+      "ocean cleanup",
+      "ocean cleanup",
+      "37z score",
+      "source",
+      "solved",
+      "solved",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis > Source: hackernews | Category: news | 2026-08-20T14:35:37Z Score: 13 | Comments: 3"
+  },
+  "6c4404df8165a836": {
+    "file": "corpus/hackernews/www_nytimes_com_interactive_2026_07_01_us_america-ancestry-c_f27f8ba441.md",
+    "source": "hackernews",
+    "title": "An American Mosaic (interactive map of ancestry census data)",
+    "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+    "keywords": [
+      "ancestry census data",
+      "ancestry census data",
+      "interactive map",
+      "interactive map",
+      "american mosaic",
+      "american mosaic",
+      "38z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# An American Mosaic (interactive map of ancestry census data) > Source: hackernews | Category: news | 2026-08-20T14:35:38Z Score: 6 | Comments: 0"
+  },
+  "7cbee47d1c5d9638": {
+    "file": "corpus/hackernews/hatchet_run_blog_andon-cord_46b98093be.md",
+    "source": "hackernews",
+    "title": "Bufo pulls the andon cord",
+    "url": "https://hatchet.run/blog/andon-cord",
+    "keywords": [
+      "bufo pulls",
+      "bufo pulls",
+      "andon cord",
+      "andon cord",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Bufo pulls the andon cord > Source: hackernews | Category: news | 2026-08-20T14:35:39Z Score: 3 | Comments: 0"
+  },
+  "09536c67d158358b": {
+    "file": "corpus/hackernews/www_mikekasberg_com_blog_2026_08_19_hacking-with-claude-on-a_acf4cd5726.md",
+    "source": "hackernews",
+    "title": "Hacking with Claude on a $27 Smart Watch",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "keywords": [
+      "27 smart watch",
+      "27 smart watch",
+      "37z score",
+      "source",
+      "news",
+      "hacking",
+      "hacking",
+      "hackernews",
+      "comments",
+      "claude"
+    ],
+    "summary": "# Hacking with Claude on a $27 Smart Watch > Source: hackernews | Category: news | 2026-08-20T14:35:37Z Score: 11 | Comments: 3"
+  },
+  "5b6be01e97fafb79": {
+    "file": "corpus/hackernews/pawelbrodzinski_substack_com_p_they-shouldnt-know-its-a-user_729b740159.md",
+    "source": "hackernews",
+    "title": "They Shouldn't Know It's a 'User' Interview",
+    "url": "https://pawelbrodzinski.substack.com/p/they-shouldnt-know-its-a-user-interview",
+    "keywords": [
+      "43z score",
+      "user",
+      "user",
+      "source",
+      "news",
+      "know",
+      "know",
+      "interview",
+      "interview",
+      "hackernews"
+    ],
+    "summary": "# They Shouldn't Know It's a \"User\" Interview > Source: hackernews | Category: news | 2026-08-20T14:35:43Z Score: 6 | Comments: 1"
+  },
+  "8c97b5adb2656706": {
+    "file": "corpus/sales/www_saastr_com_vertical-b2b-leader-owner-acclerated-after-10_70054a3398.md",
+    "source": "sales",
+    "title": "[saastr] Vertical B2B Leader Owner Acclerated After $100M ARR With Agents. The Key Insight: Every Time a Customer Logs In, Owner Has Failed.",
+    "url": "https://www.saastr.com/vertical-b2b-leader-owner-acclerated-after-100m-arr-with-agents-the-key-insight-every-time-a-customer-logs-in-owner-has-failed/",
+    "keywords": [
+      "... continue reading",
+      "unsettled questions",
+      "product built",
+      "next quarter",
+      "key insight",
+      "key insight",
+      "key insight",
+      "foundation model",
+      "everyone agrees",
+      "every time"
+    ],
+    "summary": "The Key Insight: Every Time a Customer Logs In, Owner Has Failed. The Key Insight: Every Time a Customer Logs In, Owner Has Failed. Adam Guild has been running that experiment at...   Continue Reading"
   }
 }
