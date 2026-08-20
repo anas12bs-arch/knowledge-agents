@@ -446683,5 +446683,212 @@
       "hackernews"
     ],
     "summary": "# Why travellers are obsessed with foreign supermarkets > Source: hackernews | Category: news | 2026-08-20T00:26:04Z Score: 12 | Comments: 2"
+  },
+  "6412e345427ef4c3": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_32_15_edb16a698c.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.32.15 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.15",
+    "keywords": [
+      "model metadata cache",
+      "14 ... v0",
+      "https :// github",
+      "reduce ollama ’",
+      "40z ## ollama",
+      "ollama — v0",
+      "15 ##",
+      "nv made",
+      "first contribution",
+      "ollama v0"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T01:58:40Z ## What's Changed * Add a model metadata cache to reduce Ollama’s per-request overhead ## New Contributors * @gaugarg-nv made their first contribution in https://github.com/ollama/ollama/pull/17752"
+  },
+  "de0d1bbc818b557c": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_17_e7d3332687.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.17 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.17",
+    "keywords": [
+      "handle oversized single messages",
+      "chunking ### bug fixes",
+      "native tool calls broken",
+      "changed ### features",
+      "pin ssrf checks",
+      "make conversational opt",
+      "drive conversational mode",
+      "attribute tool errors",
+      "16 ## contributors",
+      "every failed attempt"
+    ],
+    "summary": "### Features - Add declarative conversational flows documentation - Synthesize built-in conversational methods for declarations - Enable declarations to drive conversational mode - Make conversational opt-in unmistakable - Carry the AMP slug on tools resolved from a slug reference - Handle oversized single messages during chunking ### Bug Fixes - Fix usage of the URL hostname as MCP HTTP and SSE server_name - Close the agent scope on every failed attempt - Attribute tool errors to the tool that "
+  },
+  "a4271b96c4cf9934": {
+    "file": "corpus/devto/dev_to_daniel_possiblekwabi_b57_is-your-rest-api-really-a-re_4e3e09d11a.md",
+    "source": "devto",
+    "title": "Is Your REST API really a REST API?",
+    "url": "https://dev.to/daniel_possiblekwabi_b57/is-your-rest-api-really-a-rest-api-3bbj",
+    "keywords": [
+      "richardson maturity model",
+      "6 rest constraints",
+      "rest api really",
+      "rest api really",
+      "rest api",
+      "rest api",
+      "practical walk",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Is Your REST API really a REST API? > Source: devto | Category: news | 2026-08-20T01:57:56Z A practical walk through the Richardson Maturity Model and the 6 REST constraints."
+  },
+  "1d0ac1c9161a24fb": {
+    "file": "corpus/devto/dev_to_uhlighpstack_i-built-an-app-whose-only-success-metric_86955ff7ac.md",
+    "source": "devto",
+    "title": "I built an app whose only success metric is how fast you close it",
+    "url": "https://dev.to/uhlighpstack/i-built-an-app-whose-only-success-metric-is-how-fast-you-close-it-42m3",
+    "keywords": [
+      "success metric",
+      "success metric",
+      "measure success",
+      "app whose",
+      "app whose",
+      "app",
+      "worked",
+      "time",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I built an app whose only success metric is how fast you close it Most products I've worked on measure success by time-in-app. Fiamo is my attempt at the opposite: a..."
+  },
+  "ec5db04f74d2952f": {
+    "file": "corpus/devto/dev_to_amansoomro062_add-google-authenticator-2fa-to-your-no_e222649681.md",
+    "source": "devto",
+    "title": "Add Google Authenticator 2FA to your Node app in two steps",
+    "url": "https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n",
+    "keywords": [
+      "side projects never get",
+      "add google authenticator 2fa",
+      "add google authenticator 2fa",
+      "54z adding 2fa",
+      "app sounds like",
+      "node app",
+      "node app",
+      "two steps",
+      "two steps",
+      "reading rfcs"
+    ],
+    "summary": "# Add Google Authenticator 2FA to your Node app in two steps > Source: devto | Category: news | 2026-08-20T01:57:54Z Adding 2FA to an app sounds like a weekend of reading RFCs, so most side projects never get it."
+  },
+  "066a5e2ab8db3e2a": {
+    "file": "corpus/devto/dev_to_hammad4june1999_i-made-twenty-tools-take-twenty-files_6297d1ccfc.md",
+    "source": "devto",
+    "title": "I made twenty tools take twenty files. Every bug was state that outlived one file.",
+    "url": "https://dev.to/hammad4june1999/i-made-twenty-tools-take-twenty-files-every-bug-was-state-that-outlived-one-file-4898",
+    "keywords": [
+      "took exactly one file",
+      "outlived one file",
+      "outlived one file",
+      "every bug",
+      "every bug",
+      "based tools",
+      "state",
+      "state",
+      "source",
+      "reactions"
+    ],
+    "summary": "Every bug was state that outlived one file. > Source: devto | Category: news | 2026-08-20T01:57:54Z My browser-based tools each took exactly one file."
+  },
+  "22e7b41f0f3a7911": {
+    "file": "corpus/devto/dev_to_alicalimli_dev_css-clamp-for-fluid-typography-explain_e68894749a.md",
+    "source": "devto",
+    "title": "CSS clamp() for Fluid Typography Explained",
+    "url": "https://dev.to/alicalimli_dev/css-clamp-for-fluid-typography-explained-740",
+    "keywords": [
+      "css clamp ()",
+      "css clamp ()",
+      "fluid typography explained",
+      "fluid typography explained",
+      "fluid typography",
+      "source",
+      "reactions",
+      "news",
+      "learn",
+      "devto"
+    ],
+    "summary": "# CSS clamp() for Fluid Typography Explained > Source: devto | Category: news | 2026-08-20T01:57:54Z Use CSS clamp() for fluid typography that scales smoothly without media queries."
+  },
+  "fa0c4ebeae3b2457": {
+    "file": "corpus/devto/dev_to_gilneto8_my-agent-had-two-rules-and-obeyed-neither-49_6f822ccde7.md",
+    "source": "devto",
+    "title": "My agent had two rules and obeyed neither",
+    "url": "https://dev.to/gilneto8/my-agent-had-two-rules-and-obeyed-neither-4940",
+    "keywords": [
+      "well written",
+      "obeyed neither",
+      "obeyed neither",
+      "two rules",
+      "two rules",
+      "rules",
+      "writing",
+      "source",
+      "reactions",
+      "noticed"
+    ],
+    "summary": "# My agent had two rules and obeyed neither Both rules were well written. They contradicted each other and I hadn't noticed, because writing a..."
+  },
+  "c51ab0fc390d3568": {
+    "file": "corpus/hackernews/en_wikipedia_org_wiki_Simulacra_and_Simulation_f5fa55d86c.md",
+    "source": "hackernews",
+    "title": "Simulacra and Simulation",
+    "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+    "keywords": [
+      "49z score",
+      "source",
+      "simulation",
+      "simulation",
+      "simulacra",
+      "simulacra",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Simulacra and Simulation > Source: hackernews | Category: news | 2026-08-20T01:57:49Z Score: 14 | Comments: 3"
+  },
+  "ddb9218b66c13381": {
+    "file": "corpus/hackernews/fetzu_ch_blog_20260819_claudevsdrobo_2a4e1591e8.md",
+    "source": "hackernews",
+    "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+    "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+    "keywords": [
+      "orphaned drobo",
+      "orphaned drobo",
+      "macos driver",
+      "macos driver",
+      "lost array",
+      "lost array",
+      "50z score",
+      "vibe",
+      "vibe",
+      "source"
+    ],
+    "summary": "# Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo > Source: hackernews | Category: news | 2026-08-20T01:57:50Z Score: 11 | Comments: 1"
+  },
+  "f7e859eea1a12348": {
+    "file": "corpus/hackernews/arxiv_org_abs_2007_13664_449eb5097b.md",
+    "source": "hackernews",
+    "title": "Universality of Gradient Descent Neural Network Training",
+    "url": "https://arxiv.org/abs/2007.13664",
+    "keywords": [
+      "48z score",
+      "universality",
+      "universality",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Universality of Gradient Descent Neural Network Training > Source: hackernews | Category: news | 2026-08-20T01:57:48Z Score: 7 | Comments: 1"
   }
 }
