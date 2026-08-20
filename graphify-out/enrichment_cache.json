@@ -448793,5 +448793,155 @@
       "hackernews"
     ],
     "summary": "# If this is true, the hyperscalers are toast > Source: hackernews | Category: news | 2026-08-20T11:03:12Z Score: 5 | Comments: 2"
+  },
+  "98007e87770b4de1": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_agentic-ai-ne_546d00ca05.md",
+    "source": "security",
+    "title": "[dark-reading] Agentic AI Presents New Insider Threat Model for Orgs",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
+    "keywords": [
+      "recent hugging face attack",
+      "dark reading news desk",
+      "monitor risks posed",
+      "orgs katie moussouris",
+      "luta security talks",
+      "reading",
+      "reading",
+      "dark",
+      "dark",
+      "security"
+    ],
+    "summary": "# [dark-reading] Agentic AI Presents New Insider Threat Model for Orgs Agentic AI Presents New Insider Threat Model for Orgs Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack."
+  },
+  "140692820b144ed6": {
+    "file": "corpus/security/thehackernews_com_2026_08_40-malicious-firefox-extensions-po_84c29f9c4c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+    "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+    "keywords": [
+      "socket threat research team",
+      "40 mozilla firefox extensions",
+      "77 browser add",
+      "steal wallet secrets",
+      "steal wallet secrets",
+      "steal wallet secrets",
+      "cryptocurrency wallet theft",
+      "share source code",
+      "rabby wallet",
+      "web3 products"
+    ],
+    "summary": "# [hacker-news-sec] 40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps."
+  },
+  "a02380ae7c00c38f": {
+    "file": "corpus/security/thehackernews_com_2026_08_nasa-ait-gui-flaws-could-let_html_0d465eec63.md",
+    "source": "security",
+    "title": "[hacker-news-sec] NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+    "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+    "keywords": [
+      "source ammos instrument toolkit",
+      "instrument command bus",
+      "issue arbitrary commands",
+      "based operator console",
+      "1 scoring system",
+      "54z nasa ait",
+      "unauthenticated attacker",
+      "rated 9",
+      "nasa ait",
+      "nasa ait"
+    ],
+    "summary": "# [hacker-news-sec] NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus."
+  },
+  "4bce65c5efc5453f": {
+    "file": "corpus/security/thehackernews_com_2026_08_toxicpanda-20-and-golddigger-expan_237d26e3f1.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+    "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+    "keywords": [
+      "significant enhancements ,\" including",
+      "android malware also features",
+      "pin harvesting workflow targeting",
+      "device fraud cybersecurity researchers",
+      "targeting footprint globally",
+      "167 remote commands",
+      "54z toxicpanda 2",
+      "device fraud",
+      "device fraud",
+      "toxicpanda 2"
+    ],
+    "summary": "# [hacker-news-sec] ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally."
+  },
+  "a7059ff254a568e2": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cisa-warns-of-hackers_e9af320d90.md",
+    "source": "security",
+    "title": "[bleeping-comp] CISA warns of hackers exploiting critical MLflow vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+    "keywords": [
+      "source ai engineering platform",
+      "warned federal agencies",
+      "infrastructure security agency",
+      "55z cisa warns",
+      "cisa warns",
+      "cisa warns",
+      "threat actors",
+      "mlflow open",
+      "critical vulnerability",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] CISA warns of hackers exploiting critical MLflow vulnerability CISA warns of hackers exploiting critical MLflow vulnerability The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform."
+  },
+  "6c652d95ee05212d": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48276_starling-launches-ai-tool_e23f81b7d5.md",
+    "source": "finance",
+    "title": "[finextra] Starling launches AI tools for customised services",
+    "url": "https://www.finextra.com/newsarticle/48276/starling-launches-ai-tools-for-customised-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "starling launches ai tools",
+      "starling launches ai tools",
+      "based neobank starling",
+      "customised services uk",
+      "ai tools",
+      "made tools",
+      "customised services",
+      "customised services",
+      "services",
+      "suite"
+    ],
+    "summary": "# [finextra] Starling launches AI tools for customised services Starling launches AI tools for customised services UK-based neobank Starling has released a suite of AI tools for clients to design their own custom-made tools and services."
+  },
+  "852b1be0de10d754": {
+    "file": "corpus/hackernews/satadorus_eu_x_ite_yacs_2_0_yacs_2_0_html_a8dcdf7c23.md",
+    "source": "hackernews",
+    "title": "YACS 2.0 – Yet Another Curta Simulator",
+    "url": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html",
+    "keywords": [
+      "yacs 2",
+      "yacs 2",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# YACS 2.0 – Yet Another Curta Simulator > Source: hackernews | Category: news | 2026-08-20T11:32:56Z Score: 3 | Comments: 0"
+  },
+  "1d10b028dd601083": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_code-AI-write-only-disposable_utm_8ad30df41b.md",
+    "source": "engineering",
+    "title": "[infoq] How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable",
+    "url": "https://www.infoq.com/news/2026/08/code-AI-write-only-disposable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "artificial intelligence becomes write",
+      "artificial intelligence becomes write",
+      "artificial intelligence becomes write",
+      "disposable artificial intelligence",
+      "becomes easier",
+      "code write",
+      "tests define",
+      "intent decouples",
+      "ben linders",
+      "also disposable"
+    ],
+    "summary": "# [infoq] How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable Intent decouples from implementation; developers should focus on creativity."
   }
 }
