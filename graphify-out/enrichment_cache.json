@@ -448286,5 +448286,62 @@
       "hackernews"
     ],
     "summary": "# RAPx: A static analysis tool for Rust programs > Source: hackernews | Category: news | 2026-08-20T09:36:45Z Score: 3 | Comments: 1"
+  },
+  "1997a67796917159": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-manic-android-mal_7aa10154e2.md",
+    "source": "security",
+    "title": "[bleeping-comp] New Manic Android malware can exfiltrate data through nearby devices",
+    "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+    "keywords": [
+      "new manic android malware",
+      "new manic android malware",
+      "fallback data exfiltration mechanism",
+      "uses nearby infected devices",
+      "multiple european countries",
+      "nearby devices",
+      "nearby devices",
+      "nearby devices",
+      "exfiltrate data",
+      "exfiltrate data"
+    ],
+    "summary": "# [bleeping-comp] New Manic Android malware can exfiltrate data through nearby devices New Manic Android malware can exfiltrate data through nearby devices A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices."
+  },
+  "73e2f58fdafb6ef9": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_police-are-hiding-the_0ae9084809.md",
+    "source": "security",
+    "title": "[schneier] Police Are Hiding Their Use of Flock Surveillance Cameras",
+    "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
+    "keywords": [
+      "vehicle ,&# 8221",
+      "flock surveillance cameras",
+      "flock surveillance cameras",
+      "flock surveillance cameras",
+      "mention alpr usage",
+      "mention alpr usage",
+      "policy document reads",
+      "police would go",
+      "county tells police",
+      "cops use flock"
+    ],
+    "summary": "# [schneier] Police Are Hiding Their Use of Flock Surveillance Cameras Police Are Hiding Their Use of Flock Surveillance Cameras &#8220;DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY.&#8221; This reminds me of IMSI-catchers (Stingray was the most popular) a couple of decades ago."
+  },
+  "4f61c49f59d5e412": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_critical-zimbra-rce-f_3a6e383149.md",
+    "source": "security",
+    "title": "[bleeping-comp] Critical Zimbra RCE flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+    "keywords": [
+      "critical zimbra rce flaw",
+      "critical zimbra rce flaw",
+      "zimbra collaboration suite",
+      "cert ), warned",
+      "attacks cert polska",
+      "critical vulnerability",
+      "zcs ).",
+      "begun exploiting",
+      "actively exploited",
+      "actively exploited"
+    ],
+    "summary": "# [bleeping-comp] Critical Zimbra RCE flaw now actively exploited in attacks Critical Zimbra RCE flaw now actively exploited in attacks CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS)."
   }
 }
