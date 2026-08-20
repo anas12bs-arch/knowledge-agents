@@ -447814,5 +447814,62 @@
       "system stack"
     ],
     "summary": "# [infoq] Harper Argues Against the Multi-System Stack and Releases 5.2 The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node."
+  },
+  "e1af4ff668427877": {
+    "file": "corpus/devto/dev_to_alexandersstudi_css-variables-are-the-only-design-tok_5608b47f3f.md",
+    "source": "devto",
+    "title": "CSS variables are the only design token format that matters",
+    "url": "https://dev.to/alexandersstudi/css-variables-are-the-only-design-token-format-that-matters-34bk",
+    "keywords": [
+      "json parsing nightmare",
+      "frontend channel ...",
+      "design token format",
+      "design token format",
+      "slack thread",
+      "css variables",
+      "css variables",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# CSS variables are the only design token format that matters > Source: devto | Category: news | 2026-08-20T07:54:28Z The JSON parsing nightmare   I was looking at a Slack thread in our frontend channel..."
+  },
+  "789143f968e164a5": {
+    "file": "corpus/devto/dev_to_vedaforge_eng_a-green-pipeline-that-deployed-nothing-_a56033c437.md",
+    "source": "devto",
+    "title": "A green pipeline that deployed nothing",
+    "url": "https://dev.to/vedaforge_eng/a-green-pipeline-that-deployed-nothing-2npj",
+    "keywords": [
+      "worst ci outcome",
+      "passing build",
+      "looked ...",
+      "green pipeline",
+      "green pipeline",
+      "failing build",
+      "deployed nothing",
+      "deployed nothing",
+      "nothing",
+      "source"
+    ],
+    "summary": "# A green pipeline that deployed nothing The worst CI outcome is not a failing build. It is a passing build that did nothing and looked..."
+  },
+  "35b57163e65b3d88": {
+    "file": "corpus/hackernews/github_com_ofdryads_miniageOS_a9ca56e98c.md",
+    "source": "hackernews",
+    "title": "MiniageOS: 'Dumbphone' Version of LineageOS",
+    "url": "https://github.com/ofdryads/miniageOS",
+    "keywords": [
+      "26z score",
+      "version",
+      "version",
+      "source",
+      "news",
+      "miniageos",
+      "miniageos",
+      "lineageos",
+      "lineageos",
+      "hackernews"
+    ],
+    "summary": "# MiniageOS: \"Dumbphone\" Version of LineageOS > Source: hackernews | Category: news | 2026-08-20T07:54:26Z Score: 6 | Comments: 0"
   }
 }
