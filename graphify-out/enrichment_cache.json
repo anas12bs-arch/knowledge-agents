@@ -447871,5 +447871,79 @@
       "hackernews"
     ],
     "summary": "# MiniageOS: \"Dumbphone\" Version of LineageOS > Source: hackernews | Category: news | 2026-08-20T07:54:26Z Score: 6 | Comments: 0"
+  },
+  "841d356f0d78bf2f": {
+    "file": "corpus/devops/devops_com_how-to-avoid-repeating-the-automate-everything-mi_199c5ec2ee.md",
+    "source": "devops",
+    "title": "[devops-com] How to Avoid Repeating the “Automate Everything” Mistake Due to AI FOMO",
+    "url": "https://devops.com/how-to-avoid-repeating-the-automate-everything-mistake-due-to-ai-fomo/",
+    "keywords": [
+      "already experienced technological extremes",
+      "possible engineering issues",
+      "might recall",
+      "industry came",
+      "important conclusion",
+      "end goal",
+      "avoid repeating",
+      "avoid repeating",
+      "avoid repeating",
+      "ai fomo"
+    ],
+    "summary": "The DevOps community has already experienced technological extremes. You might recall the time when automation was thought of as a panacea for all possible engineering issues, and the slogan “Automate Everything” was ringing out everywhere. Over time, the industry came to an important conclusion: Automation should not become the end goal."
+  },
+  "85b3dc442d916c1e": {
+    "file": "corpus/devto/dev_to_parsajiravand_stop-writing-regex-to-match-urls-the-br_453950cd43.md",
+    "source": "devto",
+    "title": "Stop Writing Regex to Match URLs — The Browser Already Can",
+    "url": "https://dev.to/parsajiravand/stop-writing-regex-to-match-urls-the-browser-already-can-1e3e",
+    "keywords": [
+      "stop writing regex",
+      "stop writing regex",
+      "match urls —",
+      "match urls —",
+      "three paragraphs",
+      "support ticket",
+      "page flashed",
+      "draft ...",
+      "browser already",
+      "browser already"
+    ],
+    "summary": "# Stop Writing Regex to Match URLs — The Browser Already Can > Source: devto | Category: news | 2026-08-20T08:21:53Z Priya was three paragraphs into rewriting a support ticket when the page flashed and her draft..."
+  },
+  "d00317486ed1ca4a": {
+    "file": "corpus/hackernews/engines_egr_uh_edu_episode_1495_7af587f321.md",
+    "source": "hackernews",
+    "title": "The Chauffeur Problem",
+    "url": "https://engines.egr.uh.edu/episode/1495",
+    "keywords": [
+      "chauffeur problem",
+      "chauffeur problem",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Chauffeur Problem > Source: hackernews | Category: news | 2026-08-20T08:21:49Z Score: 4 | Comments: 2"
+  },
+  "4f37167931daaf03": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_flux-mirror-gitless-gitops_utm_ca_a21cd9a7bf.md",
+    "source": "engineering",
+    "title": "[infoq] Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control",
+    "url": "https://www.infoq.com/news/2026/08/flux-mirror-gitless-gitops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "keep software supply chain",
+      "keep software supply chain",
+      "keep software supply chain",
+      "keep kubernetes clusters reconciling",
+      "9 cli plugin system",
+      "mirrors container images",
+      "introduced flux mirror",
+      "cli plugin",
+      "flux v2",
+      "teams operate"
+    ],
+    "summary": "# [infoq] Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control The plugin is part of the Flux v2.9 CLI plugin system and is presented as a way to keep Kubernetes clusters reconciling only from registries that teams operate themselves."
   }
 }
