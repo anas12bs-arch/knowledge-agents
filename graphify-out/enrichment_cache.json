@@ -451996,5 +451996,225 @@
       "talk"
     ],
     "summary": "# [pragmatic-engineer] The Pulse: We need to talk about migrations with AI The Pulse: We need to talk about migrations with AI Also: AI startups could make Gartner much less relevant, and more"
+  },
+  "7d1cd2947a1eac89": {
+    "file": "corpus/github-releases/github_com_kubernetes_kubernetes_releases_tag_v1_34_11_40e7666ffa.md",
+    "source": "github-releases",
+    "title": "kubernetes/kubernetes v1.34.11 released",
+    "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.34.11",
+    "keywords": [
+      "forum /#! forum",
+      "additional binary downloads",
+      "44z ## kubernetes",
+      "kubernetes — v1",
+      "announce ).",
+      "11 released",
+      "11 released",
+      "kubernetes v1",
+      "kubernetes v1",
+      "md )."
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T18:52:44Z Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.34.md). See the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.34.md) for more details."
+  },
+  "20cb6b41cd7601a0": {
+    "file": "corpus/github-releases/github_com_microsoft_TypeScript_releases_tag_v7_0_2_4145f88bfc.md",
+    "source": "github-releases",
+    "title": "microsoft/TypeScript v7.0.2 released",
+    "url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+    "keywords": [
+      "2 https :// devblogs",
+      "https :// github",
+      "37z ## microsoft",
+      "typescript — v7",
+      "2 released",
+      "2 released",
+      "originally released",
+      "typescript v7",
+      "typescript v7"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T18:52:37Z https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/ This tag was originally released at: https://github.com/microsoft/typescript-go/releases/tag/typescript%2Fv7.0.2"
+  },
+  "c686f7a951091117": {
+    "file": "corpus/devops/devops_com_critical-flaw-in-isolated-vm-can-lead-to-sandbox-_b8c7163dfa.md",
+    "source": "devops",
+    "title": "[devops-com] Critical Flaw in isolated-vm Can Lead to Sandbox Escape, RCE Threat",
+    "url": "https://devops.com/critical-flaw-in-isolated-vm-can-lead-to-sandbox-escape-rce-threat/",
+    "keywords": [
+      "safely [&# 8230 ;]",
+      "run untrusted javascript inside",
+      "54z critical flaw",
+      "rce threat developers",
+      "isolated sandbox environment",
+      "javascript proxies",
+      "rce threat",
+      "rce threat",
+      "critical flaw",
+      "critical flaw"
+    ],
+    "summary": "# [devops-com] Critical Flaw in isolated-vm Can Lead to Sandbox Escape, RCE Threat Critical Flaw in isolated-vm Can Lead to Sandbox Escape, RCE Threat Developers for years have been using vm2, an open-source Node.js library, to run untrusted JavaScript inside a secure and isolated sandbox environment."
+  },
+  "011389ed7ec70de8": {
+    "file": "corpus/devto/dev_to_p311_keyword-queries-were-where-keyword-search-lost-5_d2a30f0943.md",
+    "source": "devto",
+    "title": "Keyword queries were where keyword search lost",
+    "url": "https://dev.to/p311/keyword-queries-were-where-keyword-search-lost-55l8",
+    "keywords": [
+      "needs lexical matching",
+      "keyword search lost",
+      "keyword search lost",
+      "keyword queries",
+      "keyword queries",
+      "retrieval ...",
+      "lexical query",
+      "query",
+      "thing",
+      "source"
+    ],
+    "summary": "# Keyword queries were where keyword search lost > Source: devto | Category: news | 2026-08-20T18:51:59Z A \"lexical query\" is not the same thing as a query that needs lexical matching."
+  },
+  "496f4b8e81a78775": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_money-and-minds_434d13dce6.md",
+    "source": "security",
+    "title": "[dark-reading] Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+    "url": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+    "keywords": [
+      "two biggest roadblocks",
+      "two biggest roadblocks",
+      "two biggest roadblocks",
+      "though officers really",
+      "budgets hinder progress",
+      "rapid evolution",
+      "keeping pace",
+      "cyber policing",
+      "cyber policing",
+      "54z money"
+    ],
+    "summary": "# [dark-reading] Money and Mindset: The Two Biggest Roadblocks to Cyber Policing Money and Mindset: The Two Biggest Roadblocks to Cyber Policing Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress."
+  },
+  "98f54b4e5d1ea476": {
+    "file": "corpus/security/thehackernews_com_2026_08_threatsday-gogs-100-rce-n8n-workfl_50bcfcb681.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+    "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+    "keywords": [
+      "weak header check opens",
+      "signed drivers get turned",
+      "odd hiding tricks",
+      "3 ai exploit",
+      "3 ai exploit",
+      "3 ai exploit",
+      "week ’",
+      "trouble starts",
+      "something trusted",
+      "old bugs"
+    ],
+    "summary": "# [hacker-news-sec] ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage."
+  },
+  "34f0db115e2a25da": {
+    "file": "corpus/hackernews/github_com_volution_simple-console-editor_740a3bed73.md",
+    "source": "hackernews",
+    "title": "Show HN: sce (Simple Console Editor)",
+    "url": "https://github.com/volution/simple-console-editor",
+    "keywords": [
+      "simple console editor",
+      "simple console editor",
+      "show hn",
+      "show hn",
+      "56z score",
+      "source",
+      "sce",
+      "sce",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: sce (Simple Console Editor) > Source: hackernews | Category: news | 2026-08-20T18:51:56Z Score: 5 | Comments: 0"
+  },
+  "a8397bea0047f347": {
+    "file": "corpus/hackernews/bitflash_network_c60c860c1c.md",
+    "source": "hackernews",
+    "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+    "url": "https://bitflash.network/",
+    "keywords": [
+      "native revival",
+      "native revival",
+      "55z score",
+      "bitcoin 0",
+      "bitcoin 0",
+      "tor",
+      "tor"
+    ],
+    "summary": "# Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX > Source: hackernews | Category: news | 2026-08-20T18:51:55Z Score: 17 | Comments: 0"
+  },
+  "5abcae1969901fef": {
+    "file": "corpus/hackernews/chris-said_io_2016_05_11_optimizing-things-in-the-ussr_5c790f860f.md",
+    "source": "hackernews",
+    "title": "Optimizing things in the USSR (2016)",
+    "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+    "keywords": [
+      "optimizing things",
+      "optimizing things",
+      "54z score",
+      "ussr",
+      "ussr",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Optimizing things in the USSR (2016) > Source: hackernews | Category: news | 2026-08-20T18:51:54Z Score: 13 | Comments: 4"
+  },
+  "5616fe1b5c9bc35a": {
+    "file": "corpus/hackernews/jsomers_net_i-should-have-loved-biology_c2ebcd3e65.md",
+    "source": "hackernews",
+    "title": "I should have loved biology",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "keywords": [
+      "loved biology",
+      "loved biology",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I should have loved biology > Source: hackernews | Category: news | 2026-08-20T18:51:53Z Score: 42 | Comments: 16"
+  },
+  "0f88f48dcf63a266": {
+    "file": "corpus/hackernews/bactra_org_notebooks_cybersyn_html_98dca0c75e.md",
+    "source": "hackernews",
+    "title": "Project Cybersyn",
+    "url": "https://bactra.org/notebooks/cybersyn.html",
+    "keywords": [
+      "project cybersyn",
+      "project cybersyn",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Project Cybersyn > Source: hackernews | Category: news | 2026-08-20T18:51:54Z Score: 9 | Comments: 3"
+  },
+  "5027deaea8e78ca9": {
+    "file": "corpus/hackernews/nautil_us_why-it-might-be-time-to-rethink-the-human-family-t_a417963ff5.md",
+    "source": "hackernews",
+    "title": "Why It Might Be Time to Rethink the Human Family Tree",
+    "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+    "keywords": [
+      "human family tree",
+      "human family tree",
+      "58z score",
+      "time",
+      "time",
+      "source",
+      "rethink",
+      "rethink",
+      "news",
+      "might"
+    ],
+    "summary": "# Why It Might Be Time to Rethink the Human Family Tree > Source: hackernews | Category: news | 2026-08-20T18:51:58Z Score: 5 | Comments: 1"
   }
 }
