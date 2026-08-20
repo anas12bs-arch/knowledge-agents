@@ -453411,5 +453411,115 @@
       "hackernews"
     ],
     "summary": "# I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It > Source: hackernews | Category: news | 2026-08-20T21:38:35Z"
+  },
+  "791af4e3a70ab551": {
+    "file": "corpus/security/thehackernews_com_2026_08_rust-supply-chain-attack-puts-buil_41850b0dea.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+    "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+    "keywords": [
+      "deleted malicious versions",
+      "245 million downloads",
+      "245 million downloads",
+      "245 million downloads",
+      "vec 0",
+      "time malware",
+      "time malware",
+      "time malware",
+      "rust project",
+      "remote payload"
+    ],
+    "summary": "# [hacker-news-sec] Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation."
+  },
+  "aede2ae559c5581a": {
+    "file": "corpus/hackernews/nautil_us_the-wonders-of-the-male-human-pelvis-1283947_7e6fb35e8a.md",
+    "source": "hackernews",
+    "title": "The Wonders of the Male Human Pelvis",
+    "url": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+    "keywords": [
+      "male human pelvis",
+      "male human pelvis",
+      "44z score",
+      "wonders",
+      "wonders",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Wonders of the Male Human Pelvis > Source: hackernews | Category: news | 2026-08-20T21:58:44Z Score: 4 | Comments: 0"
+  },
+  "211cd84bd7084573": {
+    "file": "corpus/hackernews/pradeeproark_com_posts_code-as-an-artifact-means-to-an-end_a913489d87.md",
+    "source": "hackernews",
+    "title": "Code as an Artifact",
+    "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+    "keywords": [
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "code",
+      "code",
+      "category",
+      "artifact",
+      "artifact"
+    ],
+    "summary": "# Code as an Artifact > Source: hackernews | Category: news | 2026-08-20T21:58:39Z Score: 8 | Comments: 1"
+  },
+  "7cd6afaa0ff72a34": {
+    "file": "corpus/hackernews/www_massdriver_cloud_blogs_the-citizen-developer_565f029707.md",
+    "source": "hackernews",
+    "title": "Citizen Devs: Everyone is an engineer now",
+    "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "keywords": [
+      "citizen devs",
+      "citizen devs",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "everyone",
+      "everyone",
+      "engineer",
+      "engineer"
+    ],
+    "summary": "# Citizen Devs: Everyone is an engineer now > Source: hackernews | Category: news | 2026-08-20T21:58:41Z Score: 7 | Comments: 2"
+  },
+  "5ac6717c91b466ae": {
+    "file": "corpus/hackernews/newscenter_lbl_gov_2026_08_10_scientists-release-biggest-2d-_46b6a85169.md",
+    "source": "hackernews",
+    "title": "Scientists Release Biggest 2D Map of the Universe",
+    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "keywords": [
+      "41z score",
+      "universe",
+      "universe",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Scientists Release Biggest 2D Map of the Universe > Source: hackernews | Category: news | 2026-08-20T21:58:41Z Score: 4 | Comments: 0"
+  },
+  "a8af2b0e7070d4ee": {
+    "file": "corpus/hackernews/ameliorate_app_fdd199ce7f.md",
+    "source": "hackernews",
+    "title": "Ameliorate",
+    "url": "https://ameliorate.app/",
+    "keywords": [
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "ameliorate",
+      "ameliorate"
+    ],
+    "summary": "# Ameliorate > Source: hackernews | Category: news | 2026-08-20T21:58:44Z Score: 3 | Comments: 0"
   }
 }
