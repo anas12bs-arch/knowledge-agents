@@ -451751,5 +451751,250 @@
       "defense"
     ],
     "summary": "# The Defense-Tech Bubble Is Headed for Consolidation > Source: hackernews | Category: news | 2026-08-20T17:45:23Z Score: 5 | Comments: 0"
+  },
+  "7fafab2765f33ef9": {
+    "file": "corpus/github-releases/github_com_rust-lang_rust_releases_tag_1_98_0_714dec12c5.md",
+    "source": "github-releases",
+    "title": "rust-lang/rust 1.98.0 released",
+    "url": "https://github.com/rust-lang/rust/releases/tag/1.98.0",
+    "keywords": [
+      "lints currently specifically targets",
+      "]( https :// github",
+      "]( https :// github",
+      "std }:: derive `.",
+      "runtime symbols like",
+      "std }:: derive",
+      "allow shortening lifetime",
+      "strlen `, ...",
+      "id =\" 1",
+      "id =\" 1"
+    ],
+    "summary": "- [Allow shortening lifetime of `&mut` when unsize-coercing, even in an invariant position. - [Add deny-by-default `invalid_runtime_symbol_definitions` lint and warn-by-default `suspicious_runtime_symbol_definitions` lint](https://github.com/rust-lang/rust/pull/155521) - The lints currently specifically targets `core` runtime symbols like `memcmp`, `memset`, `strlen`, ... and is planned to be expanded in the next few releases. - Please note that the MSRV for `{core,std}::derive` will be 1.96, an"
+  },
+  "e342dafa34b1ce0d": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-fir_4c4209b9a4.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-fireworks==1.6.0 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.6.0",
+    "keywords": [
+      "v1 content (# 39805",
+      "fireworks ): avoid repeated",
+      "0 changes since langchain",
+      "fireworks ): 1",
+      "fireworks (# 39279",
+      "fireworks (# 39236",
+      "fireworks == 1",
+      "fireworks == 1",
+      "fireworks == 1",
+      "fireworks == 1"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T18:06:40Z Changes since langchain-fireworks==1.5.2 release(fireworks): 1.6.0 (#39810) feat(fireworks): add document reranking (#39732) fix(fireworks): filter invalid tool calls from v1 content (#39805) feat(core): add standard model exception types (#39538) chore(model-profiles): refresh model profile data (#39646) fix(fireworks): avoid repeated `service_tier` [closes #39619] (#39620) chore: bump langsmith from 0.10.6 to 0.10.16 in /li"
+  },
+  "4d40e607f3acab53": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_20_daily-deal-iphotography-training_59132e4a6b.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: iPhotography Training Course",
+    "url": "https://www.techdirt.com/2026/08/20/daily-deal-iphotography-training-course/",
+    "keywords": [
+      "iphotography training course sure",
+      "iphotography training course",
+      "iphotography training course",
+      "winning training walks",
+      "46z daily deal",
+      "daily deal",
+      "daily deal",
+      "worth sharing",
+      "true expert",
+      "shutter speed"
+    ],
+    "summary": "# [techdirt] Daily Deal: iPhotography Training Course Sure, just about anyone can point and shoot with a camera, but only a true expert can snap a photo that&#8217;s worth sharing with the world. From exposure to shutter speed and everything in between, this award-winning training walks you through the nuts and bolts behind capturing truly stunning photos."
+  },
+  "55722532c579e359": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_20_the-eu-wanted-a-deepfake-detecto_e9c7b3f456.md",
+    "source": "legal",
+    "title": "[techdirt] The EU Wanted A Deepfake Detector. It Got An AI Scarlet Letter.",
+    "url": "https://www.techdirt.com/2026/08/20/the-eu-wanted-a-deepfake-detector-it-got-an-ai-scarlet-letter/",
+    "keywords": [
+      "last week &# 8217",
+      "text watermarking works",
+      "ai scarlet letter",
+      "ai scarlet letter",
+      "ai scarlet letter",
+      "[&# 8230 ;]",
+      "something similar",
+      "many people",
+      "even though",
+      "eu wanted"
+    ],
+    "summary": "# [techdirt] The EU Wanted A Deepfake Detector. I spoke a little about this on last week&#8217;s Ctrl-Alt-Speech, but now that Anthropic has come out with more details about how its text watermarking works, the debate has shifted into overdrive. Many people are upset about it, even though it appears that Google has already been doing something similar with the output from Gemini."
+  },
+  "42eef0d072defb89": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_manage-vercel-toolbar-comments-from-the_da09492549.md",
+    "source": "vercel-blog",
+    "title": "Manage Vercel Toolbar comments from the CLI",
+    "url": "https://vercel.com/changelog/manage-vercel-toolbar-comments-from-the-cli",
+    "keywords": [
+      "manage vercel toolbar comments",
+      "manage vercel toolbar comments",
+      "vercel",
+      "source",
+      "news",
+      "cli",
+      "cli",
+      "cli",
+      "category",
+      "blog"
+    ],
+    "summary": "# Manage Vercel Toolbar comments from the CLI > Source: vercel-blog | Category: news | 2026-08-20T18:05:57Z Manage Vercel Toolbar comments from the CLI"
+  },
+  "f129131b8d5414f0": {
+    "file": "corpus/vercel-blog/vercel_com_blog_how-v0-authenticates-to-snowflake-without-ex_b47abbd1bd.md",
+    "source": "vercel-blog",
+    "title": "How v0 authenticates to Snowflake without exposing the user's OAuth token",
+    "url": "https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token",
+    "keywords": [
+      "snowflake without exposing",
+      "snowflake without exposing",
+      "snowflake without exposing",
+      "v0 authenticates",
+      "v0 authenticates",
+      "v0 authenticates",
+      "oauth token",
+      "oauth token",
+      "oauth token",
+      "vercel"
+    ],
+    "summary": "# How v0 authenticates to Snowflake without exposing the user's OAuth token > Source: vercel-blog | Category: news | 2026-08-20T18:05:57Z How v0 authenticates to Snowflake without exposing the user's OAuth token"
+  },
+  "387f937353ba6a27": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-poison-arrayr_000b292e53.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers poison arrayref Rust crate to push infostealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+    "keywords": [
+      "maintainer account behind",
+      "push infostealer malware",
+      "push infostealer malware",
+      "introduce malware",
+      "systems",
+      "source",
+      "security",
+      "security",
+      "executed",
+      "developers"
+    ],
+    "summary": "# [bleeping-comp] Hackers poison arrayref Rust crate to push infostealer malware Hackers poison arrayref Rust crate to push infostealer malware Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation."
+  },
+  "453fb073ed9a968f": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_xBByvFrqmWU_947a0d0033.md",
+    "source": "youtube",
+    "title": "[fireship] DeepSeek just cooked again... Big AI is big scared",
+    "url": "https://www.youtube.com/watch?v=xBByvFrqmWU",
+    "keywords": [
+      "big scared take bluedot",
+      "https :// bluedot",
+      "🗞 ️ newsletter",
+      "https :// bytes",
+      "biggest training run",
+      "... big ai",
+      "... big ai",
+      "... big ai",
+      "dev 🧠 courses",
+      "https :// fireship"
+    ],
+    "summary": "# [fireship] DeepSeek just cooked again... Big AI is big scared Take BlueDot's Future of AI course for free - https://bluedot.org/fireship OpenAI just paused its biggest training run in history just as things were getting interesting."
+  },
+  "1444a7206d995bbb": {
+    "file": "corpus/hackernews/www_astralcodexten_com_p_the-foothills-of-bay-area-house-par_a5ab83577f.md",
+    "source": "hackernews",
+    "title": "The Foothills of Bay Area House Party – By Scott Alexander",
+    "url": "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
+    "keywords": [
+      "scott alexander",
+      "scott alexander",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "foothills",
+      "foothills",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Foothills of Bay Area House Party – By Scott Alexander > Source: hackernews | Category: news | 2026-08-20T18:05:52Z Score: 5 | Comments: 0"
+  },
+  "17ccf0b53337f937": {
+    "file": "corpus/hackernews/github_com_paulsp94_omacosy_cc62628440.md",
+    "source": "hackernews",
+    "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+    "url": "https://github.com/paulsp94/omacosy",
+    "keywords": [
+      "focus rings around windwos",
+      "custom mission control overview",
+      "still doesnt feel smooth",
+      "setup runs around 157mb",
+      "keyboard first like omarchy",
+      "focus follows mouse",
+      "custom menu bar",
+      "workspaces .< p",
+      "uninstall script takes",
+      "tower since nearly"
+    ],
+    "summary": "I have been using omarchy on my tower since nearly a year now, shortly after it was released first. It is supposed to be keyboard first like omarchy to move windows organize workspaces etc The setup runs around 157mb of ram and consists of AeroSpace, Karabiner (for the super key), and five small self build swift binaries.<p>I am running it daily on my M1 max macbook, currently on macOS26. Mostly about what still doesnt feel smooth in the experience or if you find any performance issues."
+  },
+  "3b8de475fe47b848": {
+    "file": "corpus/hackernews/jdagostino_github_io_ai-pt2-multi-gpu-drifting_index_html_f2c41c03f2.md",
+    "source": "hackernews",
+    "title": "AI at Home Part 2: Multi-GPU Drifting",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "keywords": [
+      "home part 2",
+      "home part 2",
+      "gpu drifting",
+      "gpu drifting",
+      "50z score",
+      "source",
+      "news",
+      "multi",
+      "multi",
+      "hackernews"
+    ],
+    "summary": "# AI at Home Part 2: Multi-GPU Drifting > Source: hackernews | Category: news | 2026-08-20T18:05:50Z Score: 3 | Comments: 0"
+  },
+  "c0ea3c1517d77057": {
+    "file": "corpus/hackernews/github_com_jordanhubbard_webmux_16ee5e3e57.md",
+    "source": "hackernews",
+    "title": "Webmux: Like Tmux, but for the Browser",
+    "url": "https://github.com/jordanhubbard/webmux",
+    "keywords": [
+      "like tmux",
+      "like tmux",
+      "51z score",
+      "webmux",
+      "webmux",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Webmux: Like Tmux, but for the Browser > Source: hackernews | Category: news | 2026-08-20T18:05:51Z Score: 3 | Comments: 0"
+  },
+  "c436bc407d8d57d2": {
+    "file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-we-need-to-talk_eca88545b0.md",
+    "source": "engineering",
+    "title": "[pragmatic-engineer] The Pulse: We need to talk about migrations with AI",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
+    "keywords": [
+      "testing framework migration",
+      "ai asana completed",
+      "two weeks",
+      "&# 8217",
+      "years",
+      "would",
+      "talk",
+      "talk"
+    ],
+    "summary": "# [pragmatic-engineer] The Pulse: We need to talk about migrations with AI The Pulse: We need to talk about migrations with AI Also: AI startups could make Gartner much less relevant, and more"
   }
 }
