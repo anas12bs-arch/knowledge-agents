@@ -450416,5 +450416,399 @@
       "every time"
     ],
     "summary": "The Key Insight: Every Time a Customer Logs In, Owner Has Failed. The Key Insight: Every Time a Customer Logs In, Owner Has Failed. Adam Guild has been running that experiment at...   Continue Reading"
+  },
+  "1f3d8d5adf28a57f": {
+    "file": "corpus/devto/dev_to_mashhadi_money-as-a-data-type-14pk_abd1b1508b.md",
+    "source": "devto",
+    "title": "Money as a data type",
+    "url": "https://dev.to/mashhadi/money-as-a-data-type-14pk",
+    "keywords": [
+      "plain float costs",
+      "alternative looks like",
+      "data type",
+      "data type",
+      "currency code",
+      "modelling money",
+      "money",
+      "money",
+      "money",
+      "thing"
+    ],
+    "summary": "# Money as a data type A number and a currency code are not the same thing as an amount of money. What modelling money as a plain float costs, and what the alternative looks like."
+  },
+  "22b344d56d74aeea": {
+    "file": "corpus/devto/dev_to_kenwalger_the-reasoning-ledger-remembering-decisions-_64d5744a77.md",
+    "source": "devto",
+    "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+    "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
+    "keywords": [
+      "ai memory stack series",
+      "08z part 4",
+      "remembering decisions",
+      "remembering decisions",
+      "reasoning ledger",
+      "reasoning ledger",
+      "previous article",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Reasoning Ledger: Remembering Decisions, Not Just Data > Source: devto | Category: news | 2026-08-20T15:09:08Z Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at..."
+  },
+  "0fce6cbc5af66c26": {
+    "file": "corpus/devto/dev_to_henry_dan_81513dd35a2f540_the-audit-became-a-build-st_d90e7580ec.md",
+    "source": "devto",
+    "title": "The Audit Became a Build Step",
+    "url": "https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je",
+    "keywords": [
+      "status dataset twice",
+      "third audit became",
+      "audit became",
+      "audit became",
+      "travel site",
+      "static copies",
+      "runs first",
+      "reachable contradiction",
+      "nothing held",
+      "every build"
+    ],
+    "summary": "# The Audit Became a Build Step I audited my travel site's legal-status dataset twice and the drift came back anyway — because an audit is a snapshot, and nothing held the agreement after the auditor left. So the third audit became a script that runs first in every build and fails on any reader-reachable contradiction between the database and the static copies."
+  },
+  "a8306f757bf5d679": {
+    "file": "corpus/devto/dev_to_petr_savenok_making-a-screenshot-pdf-searchable-no-oc_d866398b94.md",
+    "source": "devto",
+    "title": "Making a screenshot PDF searchable — no OCR, because we rendered the page",
+    "url": "https://dev.to/petr_savenok/making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page-2poi",
+    "keywords": [
+      "screenshot pdf searchable —",
+      "screenshot pdf searchable —",
+      "searchable text layer",
+      "fontkit —",
+      "text trap",
+      "gave image",
+      "based web",
+      "page pdfs",
+      "pdf",
+      "page"
+    ],
+    "summary": "# Making a screenshot PDF searchable — no OCR, because we rendered the page > Source: devto | Category: news | 2026-08-20T15:09:08Z How we gave image-based web-page PDFs a real, invisible, searchable text layer with pdf-lib + fontkit — and the hidden-text trap that made it hard."
+  },
+  "fba28842a2a90edb": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_critical-elementor-pr_541e0309d1.md",
+    "source": "security",
+    "title": "[bleeping-comp] Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "keywords": [
+      "upload executable files",
+      "remote code execution",
+      "rce attacks",
+      "rce attacks",
+      "rce attacks",
+      "critical vulnerability",
+      "source",
+      "server",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Critical Elementor Pro bug exposes WordPress sites to RCE attacks Critical Elementor Pro bug exposes WordPress sites to RCE attacks A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server."
+  },
+  "6dfad3630ff078c8": {
+    "file": "corpus/hackernews/pub_doub_ly_07b1b8e015.md",
+    "source": "hackernews",
+    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "url": "https://pub.doub.ly/",
+    "keywords": [
+      "two separate royalty streams",
+      "2018 music modernization act",
+      "rough range .< p",
+      "january 2027 .< p",
+      "work side &# x27",
+      "us .< p",
+      "leftovers .< p",
+      "january .< p",
+      "exists :< p",
+      "pulls every release"
+    ],
+    "summary": "Quick background on why it exists:<p>When music is streamed on digital streaming platforms (think Spotify, Apple Music, Pandora), there are two separate royalty streams: one for the recording, paid through your distributor (DistroKid, TuneCore, CDBaby), and one for the underlying work (generally known as publishing). If you haven&#x27;t registered your songs with The MLC, there are issues with your metadata, or about half a dozen other reasons, that money will never reach you, it just collects i"
+  },
+  "d53cdc2ebbf363e0": {
+    "file": "corpus/hackernews/cursor_com_blog_git-at-any-scale_3e6d22f2b7.md",
+    "source": "hackernews",
+    "title": "Git at any scale",
+    "url": "https://cursor.com/blog/git-at-any-scale",
+    "keywords": [
+      "01z score",
+      "source",
+      "scale",
+      "scale",
+      "news",
+      "hackernews",
+      "git",
+      "git",
+      "comments",
+      "category"
+    ],
+    "summary": "# Git at any scale > Source: hackernews | Category: news | 2026-08-20T15:09:01Z Score: 63 | Comments: 5"
+  },
+  "b082e7f3d00c29cd": {
+    "file": "corpus/hackernews/tomaytotomato_github_io_sitmap_ea62cfdab9.md",
+    "source": "hackernews",
+    "title": "Show HN: Sitmap – a World in Conflict inspired map maker for Cold War scenarios",
+    "url": "https://tomaytotomato.github.io/sitmap/",
+    "keywords": [
+      "get something quite useable",
+      "conflict inspired map maker",
+      "conflict inspired map maker",
+      "people shipped .< p",
+      "immersive .< p",
+      "2007 )< p",
+      "using claude fable",
+      "cold war scenarios",
+      "cold war scenarios",
+      "strategy etc"
+    ],
+    "summary": "# Show HN: Sitmap – a World in Conflict inspired map maker for Cold War scenarios I loved the game World in Conflict (2007)<p>One of those aspects I enjoyed was the maps shown during the loading screens. I managed to get something quite useable and probably useless to most people shipped.<p>If you enjoy maps, military, strategy etc, hopefully it is of interest to you."
+  },
+  "83c95fee52806a1c": {
+    "file": "corpus/hackernews/zoneless_com_deee4cc2fe.md",
+    "source": "hackernews",
+    "title": "Show HN: Open-source Stripe Connect alternative",
+    "url": "https://zoneless.com",
+    "keywords": [
+      "sending global payouts cheaply",
+      "source stripe connect alternative",
+      "source stripe connect alternative",
+      "use stripe connect",
+      "stripe .< p",
+      "perfect .< p",
+      "almost identical api",
+      "account getting flagged",
+      "6 .< p",
+      "000 per month"
+    ],
+    "summary": "Using Zoneless, that cost goes down to around $6.<p>I&#x27;ve been using it personally for the past few months, and onboarded 5,000+ sellers and done 3,000+ payouts. 74% of new sellers on my marketplace choose Zoneless over Stripe, which is really interesting. I appreciate crypto and stablecoins are a bit of a touchy subject, but for this use case of sending global payouts cheaply, it&#x27;s perfect.<p>The project is open source with an Apache 2.0 licence, which means there&#x27;s the benefit of"
+  },
+  "9600a07a14e03098": {
+    "file": "corpus/hackernews/zellij_dev_news_nested-sessions-kitty-graphics-new-ui_4b4c55a2c5.md",
+    "source": "hackernews",
+    "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+    "url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+    "keywords": [
+      "nested sessions",
+      "nested sessions",
+      "kitty graphics",
+      "kitty graphics",
+      "fresh ui",
+      "fresh ui",
+      "05z score",
+      "zellij 0",
+      "zellij 0"
+    ],
+    "summary": "# Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI > Source: hackernews | Category: news | 2026-08-20T15:09:05Z Score: 14 | Comments: 3"
+  },
+  "1e761aedb6b290f0": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_clyq011414eo_ad375fd86a.md",
+    "source": "hackernews",
+    "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+    "url": "https://www.bbc.com/news/articles/clyq011414eo",
+    "keywords": [
+      "harvest hikes bills",
+      "harvest hikes bills",
+      "bending spoons",
+      "bending spoons",
+      "03z score",
+      "source",
+      "purchased",
+      "purchased",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Harvest hikes bills by 1500% after purchased by Bending Spoons > Source: hackernews | Category: news | 2026-08-20T15:09:03Z Score: 60 | Comments: 38"
+  },
+  "8376f8f86f56b1cd": {
+    "file": "corpus/hackernews/elliptic-rank_icarm_cloud_curve_273_3f1ef0e65a.md",
+    "source": "hackernews",
+    "title": "An elliptic curve of rank ≥ 30",
+    "url": "https://elliptic-rank.icarm.cloud/curve/273",
+    "keywords": [
+      "rank ≥ 30",
+      "rank ≥ 30",
+      "elliptic curve",
+      "elliptic curve",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# An elliptic curve of rank ≥ 30 > Source: hackernews | Category: news | 2026-08-20T15:09:02Z Score: 12 | Comments: 3"
+  },
+  "4569d807617b6e90": {
+    "file": "corpus/hackernews/chrisburnell_com_html-can-do-that_f336163aa7.md",
+    "source": "hackernews",
+    "title": "HTML Can Do That",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "keywords": [
+      "01z score",
+      "source",
+      "news",
+      "html",
+      "html",
+      "hackernews",
+      "comments",
+      "category",
+      "20t15"
+    ],
+    "summary": "# HTML Can Do That > Source: hackernews | Category: news | 2026-08-20T15:09:01Z Score: 49 | Comments: 1"
+  },
+  "59abd55668043315": {
+    "file": "corpus/hackernews/sentrint_com_84094e0b79.md",
+    "source": "hackernews",
+    "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
+    "url": "https://sentrint.com/",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "security scanner",
+      "security scanner",
+      "projects build",
+      "projects build",
+      "07z score",
+      "source",
+      "sentrint",
+      "sentrint"
+    ],
+    "summary": "# Show HN: Sentrint, a security scanner for projects build with LLMs > Source: hackernews | Category: news | 2026-08-20T15:09:07Z Score: 4 | Comments: 2"
+  },
+  "ea5541a0cfb6a579": {
+    "file": "corpus/hackernews/mathenchant_wordpress_com_2026_08_19_solving-the-flat-cube_13a05871fe.md",
+    "source": "hackernews",
+    "title": "Solving the Flat Cube",
+    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "keywords": [
+      "flat cube",
+      "flat cube",
+      "07z score",
+      "source",
+      "solving",
+      "solving",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Solving the Flat Cube > Source: hackernews | Category: news | 2026-08-20T15:09:07Z Score: 4 | Comments: 0"
+  },
+  "f6b114a8517fb627": {
+    "file": "corpus/hackernews/river_com_content_we-replaced-our-ledger-with-two-functions_9e58b1b0e1.md",
+    "source": "hackernews",
+    "title": "We replaced our ledger with two functions",
+    "url": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
+    "keywords": [
+      "two functions",
+      "two functions",
+      "07z score",
+      "source",
+      "replaced",
+      "replaced",
+      "news",
+      "ledger",
+      "ledger",
+      "hackernews"
+    ],
+    "summary": "# We replaced our ledger with two functions > Source: hackernews | Category: news | 2026-08-20T15:09:07Z Score: 9 | Comments: 0"
+  },
+  "1d9262fbd76d1551": {
+    "file": "corpus/hackernews/lists_x_org_archives_xorg-announce_2026-August_003741_html_dc9fcaafe4.md",
+    "source": "hackernews",
+    "title": "Xorg-Server 26.0.99.901",
+    "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+    "keywords": [
+      "server 26",
+      "server 26",
+      "02z score",
+      "xorg",
+      "xorg",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Xorg-Server 26.0.99.901 > Source: hackernews | Category: news | 2026-08-20T15:09:02Z Score: 19 | Comments: 0"
+  },
+  "56bf2e6adecd4702": {
+    "file": "corpus/hackernews/www_salesforce_com_introducing-slack-code_bc_HL_6cf8e88624.md",
+    "source": "hackernews",
+    "title": "Slack Code",
+    "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+    "keywords": [
+      "slack code",
+      "slack code",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "20t15",
+      "2026"
+    ],
+    "summary": "# Slack Code > Source: hackernews | Category: news | 2026-08-20T15:09:01Z Score: 12 | Comments: 2"
+  },
+  "8a7a7fd18a95497b": {
+    "file": "corpus/hackernews/arxiv_org_abs_2603_27017_65a270c2f8.md",
+    "source": "hackernews",
+    "title": "Google's AI photoscanner can determine body fat through selfies",
+    "url": "https://arxiv.org/abs/2603.27017",
+    "keywords": [
+      "determine body fat",
+      "determine body fat",
+      "ai photoscanner",
+      "ai photoscanner",
+      "06z score",
+      "source",
+      "selfies",
+      "selfies",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Google's AI photoscanner can determine body fat through selfies > Source: hackernews | Category: news | 2026-08-20T15:09:06Z Score: 6 | Comments: 2"
+  },
+  "8cf321a53aba9b34": {
+    "file": "corpus/hackernews/xcancel_com_antibot_captcha_a3236df6f8.md",
+    "source": "hackernews",
+    "title": "Rivian OS 2",
+    "url": "https://xcancel.com/antibot/captcha",
+    "keywords": [
+      "rivian os 2",
+      "rivian os 2",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Rivian OS 2 > Source: hackernews | Category: news | 2026-08-20T15:09:05Z Score: 3 | Comments: 9"
+  },
+  "66fd101532d05800": {
+    "file": "corpus/hackernews/arxiv_org_abs_2601_00624_8897df1b1b.md",
+    "source": "hackernews",
+    "title": "Do Chatbot LLMs Talk Too Much?",
+    "url": "https://arxiv.org/abs/2601.00624",
+    "keywords": [
+      "chatbot llms talk",
+      "chatbot llms talk",
+      "06z score",
+      "source",
+      "news",
+      "much",
+      "much",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Do Chatbot LLMs Talk Too Much? > Source: hackernews | Category: news | 2026-08-20T15:09:06Z Score: 3 | Comments: 2"
   }
 }
