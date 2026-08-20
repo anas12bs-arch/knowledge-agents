@@ -452940,5 +452940,213 @@
       "category"
     ],
     "summary": "# The August 17 outage, and the work ahead > Source: hackernews | Category: news | 2026-08-20T19:51:01Z Score: 22 | Comments: 22"
+  },
+  "42ecddf051c53c14": {
+    "file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v1_0_75ebd81635.md",
+    "source": "github-releases",
+    "title": "anthropics/anthropic-sdk-python v1.0.0 released",
+    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0",
+    "keywords": [
+      "** client :** upgrade",
+      "** client :** upgrade",
+      "87e9e0157c08ad4b9bb4c44081171285499b1aa3 )) ### documentation",
+      "59bf26106d3d66cef54b926aeae4268846bf13f2 )) ### chores",
+      "** streaming :** restore",
+      "### ⚠ breaking changes",
+      "details ### features",
+      "minor breaking changes",
+      "minor breaking changes",
+      "original event imports"
+    ],
+    "summary": "* **client:** upgrade to httpx2 and some minor breaking changes. * **beta:** stop warning about `output_format=` on the parse/stream/tool_runner helpers ([59bf261](https://github.com/anthropics/anthropic-sdk-python/commit/59bf26106d3d66cef54b926aeae4268846bf13f2)) * **streaming:** restore the original event imports in lib/streaming/_types.py ([87e9e01](https://github.com/anthropics/anthropic-sdk-python/commit/87e9e0157c08ad4b9bb4c44081171285499b1aa3))"
+  },
+  "b8b781089546b410": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_20_ice-says-it-will-fit-every-offic_51c2dec37a.md",
+    "source": "legal",
+    "title": "[techdirt] ICE Says It Will Fit Every Officer With A Body Cam, Restrict Public Access To Recordings",
+    "url": "https://www.techdirt.com/2026/08/20/ice-says-it-will-fit-every-officer-with-a-body-cam-restrict-public-access-to-recordings/",
+    "keywords": [
+      "talking [&# 8230 ;]",
+      "restrict public access",
+      "restrict public access",
+      "restrict public access",
+      "owned recording devices",
+      "nearly every officer",
+      "fit every officer",
+      "fit every officer",
+      "fit every officer",
+      "killings &# 8212"
+    ],
+    "summary": "# [techdirt] ICE Says It Will Fit Every Officer With A Body Cam, Restrict Public Access To Recordings ICE Says It Will Fit Every Officer With A Body Cam, Restrict Public Access To Recordings Six months later &#8212; and following even more killings &#8212; nearly every officer was still bereft of state-owned recording devices."
+  },
+  "418e7f98635d3714": {
+    "file": "corpus/devto/dev_to_lukeocodes_when-ai-agents-started-reading-your-docs-2_8709f5ca3e.md",
+    "source": "devto",
+    "title": "When AI agents started reading your docs",
+    "url": "https://dev.to/lukeocodes/when-ai-agents-started-reading-your-docs-253b",
+    "keywords": [
+      "ai agents started reading",
+      "ai agents started reading",
+      "spent years arguing",
+      "first dev docs",
+      "pages built",
+      "code ...",
+      "docs",
+      "docs",
+      "docs",
+      "source"
+    ],
+    "summary": "# When AI agents started reading your docs My first dev docs were pages built for a browser and a human. I spent years arguing that docs-as-code..."
+  },
+  "7d36994ea8625f3e": {
+    "file": "corpus/devto/dev_to_rbas_i-built-a-local-dev-proxy-six-months-later-its-d_cd0e0aa4f2.md",
+    "source": "devto",
+    "title": "I Built a Local Dev Proxy. Six Months Later, Its Daemon No Longer Runs as Root",
+    "url": "https://dev.to/rbas/i-built-a-local-dev-proxy-six-months-later-its-daemon-no-longer-runs-as-root-36on",
+    "keywords": [
+      "09z six months ago",
+      "six months later",
+      "six months later",
+      "local dev proxy",
+      "local dev proxy",
+      "longer runs",
+      "longer runs",
+      "wrote",
+      "tired",
+      "source"
+    ],
+    "summary": "# I Built a Local Dev Proxy. Six Months Later, Its Daemon No Longer Runs as Root Six months ago, I wrote about why I was tired of developing on URLs like http://localhost:3000 and..."
+  },
+  "2a65ecd8baf5ccd8": {
+    "file": "corpus/devto/dev_to_hilmib_kubernetes-dns-was-failing-33-of-the-time-core_b999e887e9.md",
+    "source": "devto",
+    "title": "Kubernetes DNS was failing 33% of the time. CoreDNS was fine.",
+    "url": "https://dev.to/hilmib/kubernetes-dns-was-failing-33-of-the-time-coredns-was-fine-221e",
+    "keywords": [
+      "wordpress site",
+      "kubernetes dns",
+      "kubernetes dns",
+      "failing 33",
+      "failing 33",
+      "database connection",
+      "time",
+      "time",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Kubernetes DNS was failing 33% of the time. > Source: devto | Category: news | 2026-08-20T20:13:07Z A WordPress site on our platform started throwing Error establishing a database connection."
+  },
+  "3dc0bb1795ff73b8": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_4wVNFaFDIn8_a2323ca8be.md",
+    "source": "youtube",
+    "title": "[theo] Your Mac is slowing you down (a rant about file systems)",
+    "url": "https://www.youtube.com/watch?v=4wVNFaFDIn8",
+    "keywords": [
+      "linux machine took",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "file systems thank",
+      "file systems",
+      "file systems",
+      "file systems",
+      "30 seconds"
+    ],
+    "summary": "# [theo] Your Mac is slowing you down (a rant about file systems) Your Mac is slowing you down (a rant about file systems) The same install that finished in under 10 seconds on my Linux machine took over 30 seconds on my Mac, so we need to talk about File Systems"
+  },
+  "19bf589b2a98e8cf": {
+    "file": "corpus/hackernews/surfingcomplexity_blog_2026_08_19_github-autoscaling-and-the_6b1d29d2e0.md",
+    "source": "hackernews",
+    "title": "GitHub, autoscaling, and the component substitution fallacy",
+    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "keywords": [
+      "component substitution fallacy",
+      "component substitution fallacy",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "github",
+      "github",
+      "comments",
+      "category"
+    ],
+    "summary": "# GitHub, autoscaling, and the component substitution fallacy > Source: hackernews | Category: news | 2026-08-20T20:13:00Z Score: 7 | Comments: 0"
+  },
+  "a6c78ac26f433d92": {
+    "file": "corpus/hackernews/www_experimental-history_com_p_stop-eating-lady-gagas-oreos_1da38fd399.md",
+    "source": "hackernews",
+    "title": "Stop Eating Lady Gaga's Oreos",
+    "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+    "keywords": [
+      "stop eating lady gaga",
+      "stop eating lady gaga",
+      "57z score",
+      "source",
+      "oreos",
+      "oreos",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Stop Eating Lady Gaga's Oreos > Source: hackernews | Category: news | 2026-08-20T20:12:57Z Score: 18 | Comments: 1"
+  },
+  "a8a0a2993befd9ad": {
+    "file": "corpus/hackernews/www_gingerbill_org_article_2026_08_20_designing-odins-inline_b00e968753.md",
+    "source": "hackernews",
+    "title": "Everyone Says Assembly Is Untyped–Everyone Is Wrong",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "keywords": [
+      "untyped – everyone",
+      "untyped – everyone",
+      "everyone says assembly",
+      "everyone says assembly",
+      "04z score",
+      "wrong",
+      "wrong",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Everyone Says Assembly Is Untyped–Everyone Is Wrong > Source: hackernews | Category: news | 2026-08-20T20:13:04Z Score: 15 | Comments: 2"
+  },
+  "93960f8aeece6bed": {
+    "file": "corpus/hackernews/tidalcycles_org_66d61bf192.md",
+    "source": "hackernews",
+    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+    "url": "https://tidalcycles.org/",
+    "keywords": [
+      "algorithmic patterns",
+      "algorithmic patterns",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "20t20"
+    ],
+    "summary": "# Tidal Cycles – Live coding music with Algorithmic patterns > Source: hackernews | Category: news | 2026-08-20T20:12:59Z Score: 7 | Comments: 1"
+  },
+  "928ecbd8efb2ea3a": {
+    "file": "corpus/hackernews/strn_cat_posts_spacetime_20211d5446.md",
+    "source": "hackernews",
+    "title": "SpacetimeDB: A Short Technical Review",
+    "url": "https://strn.cat/posts/spacetime/",
+    "keywords": [
+      "short technical review",
+      "short technical review",
+      "59z score",
+      "spacetimedb",
+      "spacetimedb",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# SpacetimeDB: A Short Technical Review > Source: hackernews | Category: news | 2026-08-20T20:12:59Z Score: 8 | Comments: 0"
   }
 }
