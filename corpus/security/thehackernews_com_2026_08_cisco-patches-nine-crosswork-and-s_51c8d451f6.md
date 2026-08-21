@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0"
+url: "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-08-21T11:33:07Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0
+
+> Source: security | Category: security | 2026-08-21T11:33:07Z
+
+Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0
+
+Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.
+
+Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -
