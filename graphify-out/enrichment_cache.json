@@ -455059,5 +455059,304 @@
       "category"
     ],
     "summary": "# Flat Chair by Sara Paculdo > Source: hackernews | Category: news | 2026-08-21T09:43:11Z Score: 5 | Comments: 0"
+  },
+  "d35a43fd1b6ea435": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_4_0-canary_0_f62bd5f704.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.4.0-canary.0 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.0",
+    "keywords": [
+      "write codepath data structures",
+      "show last modified file",
+      "0 ### misc changes",
+      "preserve trailing slash",
+      "export mpa fallback",
+      "js — v16",
+      "25z ## vercel",
+      "js v16",
+      "js v16",
+      "check assignability"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-21T10:07:25Z - feat(turbopack): isolate HMR listeners across microfrontends: #95997 - Turbopack: deduplicate Pages Router app chunks: #97664 - [react-sync] Check assignability before assigning the actor: #97638 - fix: preserve trailing slash during export MPA fallback: #97613 - Turbopack: Split the read and write codepath data structures for symlinks: #97395 - Turbopack: Show last modified file when waiting for the filesystem to settle: #"
+  },
+  "c00704807c2710a5": {
+    "file": "corpus/devops/devops_com_why-cryptographic-inventory-is-the-first-step-tow_b9690328e2.md",
+    "source": "devops",
+    "title": "[devops-com] Why Cryptographic Inventory Is the First Step Toward Quantum Readiness",
+    "url": "https://devops.com/why-cryptographic-inventory-is-the-first-step-toward-quantum-readiness/",
+    "keywords": [
+      "quantum readiness starts",
+      "pqc migration begins",
+      "devops teams need",
+      "continuous cryptographic inventory",
+      "cryptographic inventory",
+      "cryptographic inventory",
+      "cryptographic inventory",
+      "party dependencies",
+      "map algorithms",
+      "devops"
+    ],
+    "summary": "# [devops-com] Why Cryptographic Inventory Is the First Step Toward Quantum Readiness Why Cryptographic Inventory Is the First Step Toward Quantum Readiness DevOps teams need a continuous cryptographic inventory to map algorithms, keys, certificates, libraries, infrastructure and third-party dependencies before PQC migration begins."
+  },
+  "29d38894e837f651": {
+    "file": "corpus/devto/dev_to_artificial_wasteland_your-generated-file-is-the-claim_2c9d11747e.md",
+    "source": "devto",
+    "title": "Your generated file is the claim. Test it like one: reading a theorem back out of a WAV",
+    "url": "https://dev.to/artificial_wasteland/your-generated-file-is-the-claim-test-it-like-one-reading-a-theorem-back-out-of-a-wav-354o",
+    "keywords": [
+      "mathematical object ....",
+      "43z last night",
+      "theorem back",
+      "theorem back",
+      "like one",
+      "like one",
+      "generated file",
+      "generated file",
+      "generated",
+      "wav"
+    ],
+    "summary": "# Your generated file is the claim. Test it like one: reading a theorem back out of a WAV Last night I generated a three minute film whose soundtrack is supposed to be a mathematical object...."
+  },
+  "0bb8101471d201db": {
+    "file": "corpus/devto/dev_to_mukesh_13_stop-a-malicious-postinstall-script-cold-wi_04b566755e.md",
+    "source": "devto",
+    "title": "Stop a Malicious postinstall Script Cold With One CircleCI Config Change",
+    "url": "https://dev.to/mukesh_13/stop-a-malicious-postinstall-script-cold-with-one-circleci-config-change-4168",
+    "keywords": [
+      "malicious postinstall script cold",
+      "malicious postinstall script cold",
+      "one circleci config change",
+      "one circleci config change",
+      "ci trusts every dependency",
+      "43z every npm install",
+      "every one",
+      "stop",
+      "stop",
+      "source"
+    ],
+    "summary": "# Stop a Malicious postinstall Script Cold With One CircleCI Config Change > Source: devto | Category: news | 2026-08-21T10:06:43Z Every npm install you run in CI trusts every dependency, and every one of their dependencies, to..."
+  },
+  "c95755ab21e59e0d": {
+    "file": "corpus/devto/dev_to_jacksmith_de_we-built-guardrails-against-json-precisi_cfa98b4656.md",
+    "source": "devto",
+    "title": "We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren't Actually Guarding Anything.",
+    "url": "https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2",
+    "keywords": [
+      "json repair tool",
+      "json precision loss",
+      "json precision loss",
+      "actually guarding anything",
+      "actually guarding anything",
+      "weeks ago",
+      "built guardrails",
+      "built guardrails",
+      "source",
+      "reactions"
+    ],
+    "summary": "# We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren't Actually Guarding Anything. A few weeks ago I ran this through our own JSON repair tool, in the browser, on our own..."
+  },
+  "8e0852d9a5e70cba": {
+    "file": "corpus/devto/dev_to_parsajiravand_the-modal-was-open-so-was-everything-be_0970ae5417.md",
+    "source": "devto",
+    "title": "The Modal Was Open. So Was Everything Behind It.",
+    "url": "https://dev.to/parsajiravand/the-modal-was-open-so-was-everything-behind-it-266n",
+    "keywords": [
+      "settings page —",
+      "everything behind",
+      "everything behind",
+      "42z mina",
+      "way",
+      "tab",
+      "source",
+      "running",
+      "reactions",
+      "pass"
+    ],
+    "summary": "So Was Everything Behind It. > Source: devto | Category: news | 2026-08-21T10:06:42Z Mina was running a keyboard-only pass on a settings page — no mouse, just Tab and Enter, the way a..."
+  },
+  "22e00ac99116e9e1": {
+    "file": "corpus/devto/dev_to_phpner_the-background-tab-bug-i-missed-in-my-javascri_bd76579fb5.md",
+    "source": "devto",
+    "title": "The Background-Tab Bug I Missed in My JavaScript Polling Code",
+    "url": "https://dev.to/phpner/the-background-tab-bug-i-missed-in-my-javascript-polling-code-3ol3",
+    "keywords": [
+      "thought replacing setinterval ()",
+      "recursive settimeout ()",
+      "polling loop safe",
+      "javascript polling code",
+      "javascript polling code",
+      "tab bug",
+      "tab bug",
+      "one ...",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Background-Tab Bug I Missed in My JavaScript Polling Code > Source: devto | Category: news | 2026-08-21T10:06:42Z I thought replacing setInterval() with recursive setTimeout() had made a polling loop safe."
+  },
+  "d383ba48049b9515": {
+    "file": "corpus/devto/dev_to_hblai_filmlook_running-third-party-ads-on-a-site-with_61d49be9d1.md",
+    "source": "devto",
+    "title": "Running third-party ads on a site with a strict CSP (without weakening the CSP)",
+    "url": "https://dev.to/hblai_filmlook/running-third-party-ads-on-a-site-with-a-strict-csp-without-weakening-the-csp-33l2",
+    "keywords": [
+      "deliberately tight content",
+      "without weakening",
+      "without weakening",
+      "short ...",
+      "self ',",
+      "running third",
+      "running third",
+      "party ads",
+      "party ads",
+      "strict csp"
+    ],
+    "summary": "# Running third-party ads on a site with a strict CSP (without weakening the CSP) > Source: devto | Category: news | 2026-08-21T10:06:43Z My static site had a deliberately tight Content-Security-Policy: default-src 'self', a short..."
+  },
+  "bb0f225414b51b0a": {
+    "file": "corpus/devto/dev_to_mohammad_rostami_meaningful-dirty-state-fingerprints-_da48d17f8a.md",
+    "source": "devto",
+    "title": "Reliable Form Submissions: Dirty State, Fingerprints, and Idempotency",
+    "url": "https://dev.to/mohammad_rostami_/meaningful-dirty-state-fingerprints-and-idempotency-three-details-that-make-form-submissions-36e0",
+    "keywords": [
+      "disabled submit button protects",
+      "reliable form submissions",
+      "reliable form submissions",
+      "dirty state",
+      "dirty state",
+      "tempting",
+      "source",
+      "reactions",
+      "protect"
+    ],
+    "summary": "# Reliable Form Submissions: Dirty State, Fingerprints, and Idempotency A disabled Submit button protects the UI. It does not protect the data."
+  },
+  "f60ceb9e7a577d75": {
+    "file": "corpus/devto/dev_to_ranjeet_kumarjena_4a6b1b_what-seo-should-a-modern-web_b056c556d9.md",
+    "source": "devto",
+    "title": "What SEO Should a Modern Web Framework Handle Automatically?",
+    "url": "https://dev.to/ranjeet_kumarjena_4a6b1b/what-seo-should-a-modern-web-framework-handle-automatically-45be",
+    "keywords": [
+      "seo story",
+      "story",
+      "seo",
+      "seo",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "almost"
+    ],
+    "summary": "# What SEO Should a Modern Web Framework Handle Automatically? > Source: devto | Category: news | 2026-08-21T10:06:42Z 21 August 2026  Every framework has an SEO story now, and almost all of them are the same story: a..."
+  },
+  "baf971ed1f8707f7": {
+    "file": "corpus/devto/dev_to_srdjan_poppovic_my-tile-cache-has-no-invalidation-so-_f3fcf98d10.md",
+    "source": "devto",
+    "title": "My Tile Cache Has No Invalidation, So I Set It to Zero",
+    "url": "https://dev.to/srdjan_poppovic/my-tile-cache-has-no-invalidation-so-i-set-it-to-zero-11l0",
+    "keywords": [
+      "vector tile server",
+      "tile cache",
+      "tile cache",
+      "months ,...",
+      "zero",
+      "zero",
+      "source",
+      "set",
+      "set",
+      "reactions"
+    ],
+    "summary": "# My Tile Cache Has No Invalidation, So I Set It to Zero > Source: devto | Category: news | 2026-08-21T10:06:42Z Here is a line from the config of a vector tile server that has been in production for months,..."
+  },
+  "879e0872ebe3ce6a": {
+    "file": "corpus/devto/dev_to_mostafatech_7-security-checks-before-installing-a-new_587ab839d1.md",
+    "source": "devto",
+    "title": "7 Security Checks Before Installing a New Developer Tool",
+    "url": "https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44",
+    "keywords": [
+      "simplify complex ...",
+      "new developer tool",
+      "new developer tool",
+      "new developer tool",
+      "7 security checks",
+      "7 security checks",
+      "save hours",
+      "improve productivity",
+      "work",
+      "source"
+    ],
+    "summary": "# 7 Security Checks Before Installing a New Developer Tool > Source: devto | Category: news | 2026-08-21T10:06:45Z `Installing a new developer tool can save hours of work, improve productivity, and simplify complex..."
+  },
+  "0a65c11ee7dd3a4a": {
+    "file": "corpus/hackernews/twitter_com_deepseek_ai_status_2090730032574631962_bdfe905d8f.md",
+    "source": "hackernews",
+    "title": "DeepSeek-V4-Flash-Vision-Exp Is Now Live on the DeepSeek API Platform",
+    "url": "https://twitter.com/deepseek_ai/status/2090730032574631962",
+    "keywords": [
+      "deepseek api platform",
+      "deepseek api platform",
+      "41z score",
+      "deepseek",
+      "deepseek",
+      "vision",
+      "vision",
+      "source"
+    ],
+    "summary": "# DeepSeek-V4-Flash-Vision-Exp Is Now Live on the DeepSeek API Platform > Source: hackernews | Category: news | 2026-08-21T10:06:41Z Score: 6 | Comments: 1"
+  },
+  "2334df57d7b47f21": {
+    "file": "corpus/hackernews/matklad_github_io_2026_08_20_better-batteries_html_cf340a2b28.md",
+    "source": "hackernews",
+    "title": "Better Batteries",
+    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "keywords": [
+      "better batteries",
+      "better batteries",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "21t10"
+    ],
+    "summary": "# Better Batteries > Source: hackernews | Category: news | 2026-08-21T10:06:39Z Score: 3 | Comments: 0"
+  },
+  "7d232da75524ebcd": {
+    "file": "corpus/hackernews/htmlcat_net_41ce03e660.md",
+    "source": "hackernews",
+    "title": "Small, native web tricks worth remembering",
+    "url": "https://htmlcat.net/",
+    "keywords": [
+      "35z score",
+      "source",
+      "small",
+      "small",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "21t10"
+    ],
+    "summary": "# Small, native web tricks worth remembering > Source: hackernews | Category: news | 2026-08-21T10:06:35Z Score: 5 | Comments: 0"
+  },
+  "936a3abd7f47070b": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_azure-devops-remote-mcp-ga_utm_ca_2f8cdfbbda.md",
+    "source": "engineering",
+    "title": "[infoq] Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor",
+    "url": "https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "client id metadata documents",
+      "cursor cannot connect yet",
+      "dynamic client registration",
+      "entra lacks support",
+      "without support",
+      "without support",
+      "without support",
+      "work items",
+      "jan wiggers",
+      "hosted endpoint"
+    ],
+    "summary": "# [infoq] Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install."
   }
 }
