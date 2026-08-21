@@ -458147,5 +458147,155 @@
       "hackernews"
     ],
     "summary": "# Three ways to smuggle SQLite into Nix > Source: hackernews | Category: news | 2026-08-21T17:07:53Z Score: 3 | Comments: 0"
+  },
+  "f280c9ea5a0d502a": {
+    "file": "corpus/github-releases/github_com_shadcn-ui_ui_releases_tag_shadcn_404_19_0_b716b25fca.md",
+    "source": "github-releases",
+    "title": "shadcn-ui/ui shadcn@4.19.0 released",
+    "url": "https://github.com/shadcn-ui/ui/releases/tag/shadcn%404.19.0",
+    "keywords": [
+      "0 ### minor changes",
+      "add private repository support",
+      "npx shadcn migrate base",
+      "03z ## shadcn",
+      "ui — shadcn",
+      "0 released",
+      "0 released",
+      "base color",
+      "rbadillap )!",
+      "shadcn )!"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-21T17:41:03Z - add private repository support to GitHub registries via GitHub CLI credentials or GH_TOKEN. - add `npx shadcn migrate base-color` to switch a project's base color."
+  },
+  "ec96846f9dd05826": {
+    "file": "corpus/hackernews/github_com_proliferate-ai_proliferate_11ac83b5c0.md",
+    "source": "hackernews",
+    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+    "url": "https://github.com/proliferate-ai/proliferate",
+    "keywords": [
+      "without becoming increasingly dependent",
+      "main interface every company",
+      "model chosen per step",
+      "started automating work closer",
+      "one place .< p",
+      "using computer use instead",
+      "building toward codex ’",
+      "breadth .< p",
+      "quick 2m demo",
+      "human approval gates"
+    ],
+    "summary": "* Inter-agent communication and management: a parent agent can spawn and communicate with another supported agent as a subagent (I personally like to have Fable delegate to Codex, with OpenCode models reviewing PRs). I use this to automate code review, QA, and my PR construction process.<p>All of Proliferate is 100% open source under AGPL-3.0. There are still definitely some rough spots, but we’re building fast and I’d really love any feedback!"
+  },
+  "1a7f1fc1ee1d132e": {
+    "file": "corpus/hackernews/apps_apple_com_us_app_gramola-music-dock_id6801078031_mt_12_a6031356a2.md",
+    "source": "hackernews",
+    "title": "Show HN: Gramola, a CoverFlow-style music dock for macOS",
+    "url": "https://apps.apple.com/us/app/gramola-music-dock/id6801078031?mt=12",
+    "keywords": [
+      "instantly searched .< p",
+      "music app .< p",
+      "explain .< p",
+      "think :)< p",
+      "local tracks via",
+      "app store page",
+      "23yo solo dev",
+      "apple music support",
+      "ui &# x2f",
+      "style music dock"
+    ],
+    "summary": "# Show HN: Gramola, a CoverFlow-style music dock for macOS No more opening a music app to change what you&#x27;re listening to; just move your mouse to the edge of the screen, and all your music is there in a gorgeous CoverFlow style, or ready to be instantly searched.<p>Fully usable with a mouse, but also fully usable with keyboard, accessibility built in, and both Spotify and Apple Music support as well as local tracks via the Music app.<p>Free to try for 7 days! I would love to explain.<p>Dem"
+  },
+  "9d15c738f4fa0e28": {
+    "file": "corpus/hackernews/circleback_ai_blog_how-we-rebuilt-our-electron-recording-eng_9023ee3428.md",
+    "source": "hackernews",
+    "title": "Rebuilding our Electron meeting-recording engine in Swift",
+    "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+    "keywords": [
+      "recording engine",
+      "recording engine",
+      "electron meeting",
+      "electron meeting",
+      "00z score",
+      "swift",
+      "swift",
+      "source",
+      "rebuilding",
+      "rebuilding"
+    ],
+    "summary": "# Rebuilding our Electron meeting-recording engine in Swift > Source: hackernews | Category: news | 2026-08-21T17:40:00Z Score: 3 | Comments: 0"
+  },
+  "d84fde90f5f54e05": {
+    "file": "corpus/hackernews/gus-massa_blogspot_com_2026_08_another-better-lower-bound-fo_3aee0ddae2.md",
+    "source": "hackernews",
+    "title": "Another Better Lower Bound for N=17 Square Packing",
+    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+    "keywords": [
+      "another better lower bound",
+      "another better lower bound",
+      "17 square packing",
+      "17 square packing",
+      "00z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Another Better Lower Bound for N=17 Square Packing > Source: hackernews | Category: news | 2026-08-21T17:40:00Z Score: 5 | Comments: 0"
+  },
+  "9cc6ed5806b405c0": {
+    "file": "corpus/hackernews/bastian_rieck_me_blog_2026_unix_67e94e677a.md",
+    "source": "hackernews",
+    "title": "LLMs Are Proof That Unix Won",
+    "url": "https://bastian.rieck.me/blog/2026/unix/",
+    "keywords": [
+      "04z score",
+      "unix",
+      "unix",
+      "source",
+      "proof",
+      "proof",
+      "news",
+      "llms",
+      "llms",
+      "hackernews"
+    ],
+    "summary": "# LLMs Are Proof That Unix Won > Source: hackernews | Category: news | 2026-08-21T17:40:04Z Score: 3 | Comments: 0"
+  },
+  "fd53ae39d97a3fdb": {
+    "file": "corpus/hackernews/www_warpstream_com_blog_orbit-kafka-auto-migration_9b4d895438.md",
+    "source": "hackernews",
+    "title": "How we built a proxy to migrate Kafka producers with zero downtime",
+    "url": "https://www.warpstream.com/blog/orbit-kafka-auto-migration",
+    "keywords": [
+      "migrate kafka producers",
+      "migrate kafka producers",
+      "zero downtime",
+      "zero downtime",
+      "05z score",
+      "source",
+      "proxy",
+      "proxy",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# How we built a proxy to migrate Kafka producers with zero downtime > Source: hackernews | Category: news | 2026-08-21T17:40:05Z Score: 10 | Comments: 1"
+  },
+  "8ac0ba66d04d1848": {
+    "file": "corpus/hackernews/www_pianoify_net_95e9ab7534.md",
+    "source": "hackernews",
+    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+    "url": "https://www.pianoify.net/",
+    "keywords": [
+      "0 gpu powered models",
+      "public muscriptor instance",
+      "public muscriptor instance",
+      "show hn",
+      "show hn",
+      "powerful audio",
+      "powerful audio",
+      "midi model",
+      "midi model",
+      "03z score"
+    ],
+    "summary": "# Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model) > Source: hackernews | Category: news | 2026-08-21T17:40:03Z GPU powered models to convert any song to piano"
   }
 }
