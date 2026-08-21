@@ -455755,5 +455755,96 @@
       "technical craft architecture"
     ],
     "summary": "Architecture is not a fixed choice made once; fitness is a moving target driven by changing regulations, tech, and markets. Even a sound design can silently stop fitting over time without bad calls. Spanning seven articles on context stores, gateways, and topologies, this collection treats architecture as an evolving sociotechnical craft where teams deliberately shape friction, fitness, and flow."
+  },
+  "f2b42ff53f349a75": {
+    "file": "corpus/devops/devops_com_production-grade-ai-eval-systems_08bb5a7426.md",
+    "source": "devops",
+    "title": "[devops-com] Production-Grade AI Eval Systems. What I Learned Putting LLMs on Call",
+    "url": "https://devops.com/production-grade-ai-eval-systems/",
+    "keywords": [
+      "grade ai reliability requires",
+      "grade ai eval systems",
+      "grade ai eval systems",
+      "grade ai eval systems",
+      "learned putting llms",
+      "learned putting llms",
+      "learned putting llms",
+      "rag failures",
+      "quality regressions",
+      "15z production"
+    ],
+    "summary": "What I Learned Putting LLMs on Call Production-grade AI reliability requires more than uptime and latency. A layered eval system helps teams detect hallucinations, RAG failures and quality regressions before customers do."
+  },
+  "98cd2eea8327b52e": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_08_meta-ai-glasses-may-get-_b7c780b779.md",
+    "source": "legal",
+    "title": "[ars-policy] As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "keywords": [
+      "meta ai glasses explodes",
+      "meta ai glasses explodes",
+      "meta ai glasses explodes",
+      "avoid creepy recordings",
+      "avoid creepy recordings",
+      "zuckoff",
+      "source"
+    ],
+    "summary": "# [ars-policy] As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
+  },
+  "221158d0636e4b35": {
+    "file": "corpus/hackernews/github_com_yaroslav_kino_a50df963ba.md",
+    "source": "hackernews",
+    "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+    "url": "https://github.com/yaroslav/kino",
+    "keywords": [
+      "performance ractor web server",
+      "performance ractor web server",
+      "15z score",
+      "ruby 4",
+      "ruby 4",
+      "source",
+      "news",
+      "kino",
+      "kino"
+    ],
+    "summary": "# Kino: A high-performance Ractor web server for Ruby 4.0 > Source: hackernews | Category: news | 2026-08-21T12:19:15Z Score: 4 | Comments: 1"
+  },
+  "7df6fc960fb6f7e3": {
+    "file": "corpus/hackernews/ixuvo_com_blog_tigerbeetle-core-system-architecture-performa_025bf22b7d.md",
+    "source": "hackernews",
+    "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+    "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+    "keywords": [
+      "tigerbeetle core system architecture",
+      "tigerbeetle core system architecture",
+      "deconstructing performance engineering",
+      "deconstructing performance engineering",
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# TigerBeetle Core System Architecture: Deconstructing Performance Engineering > Source: hackernews | Category: news | 2026-08-21T12:19:13Z Score: 17 | Comments: 1"
+  },
+  "698aac769b22fbe9": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-ai-enforcement_utm_cam_fdcace356f.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "transform internal engineering standards",
+      "cloudflare turns engineering standards",
+      "cloudflare turns engineering standards",
+      "enforced control system cloudflare",
+      "enforced control system",
+      "enforced control system",
+      "software development lifecycle",
+      "recently detailed",
+      "passive documentation",
+      "craig risi"
+    ],
+    "summary": "# [infoq] Cloudflare Turns Engineering Standards Into an AI-Enforced Control System Cloudflare Turns Engineering Standards Into an AI-Enforced Control System Cloudflare has recently detailed how it is using AI to transform internal engineering standards from passive documentation into an actively enforced control system across the software development lifecycle."
   }
 }
