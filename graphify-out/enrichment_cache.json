@@ -453749,5 +453749,43 @@
       "hackernews"
     ],
     "summary": "# In Which I Lose My Mind over Embeddings (HPLM Chapter 2) > Source: hackernews | Category: news | 2026-08-20T23:38:23Z Score: 5 | Comments: 0"
+  },
+  "2ce7b4343e1fad2c": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_1-canary_26_6c612c0f0a.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.1-canary.26 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1-canary.26",
+    "keywords": [
+      "keep hmr instructions typed",
+      "explicit cache output description",
+      "authenticate turborepo remote caching",
+      "26 ### misc changes",
+      "server externals list test",
+      "serialize frozen collections",
+      "reduce snapshot churn",
+      "pages router skew",
+      "local fixture packages",
+      "scaffold unstable_navigation ():"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-20T23:57:29Z - docs: document deploymentId build ID override and Pages Router skew in 16.2: #97645 - Upgrade React from `eb8feb71-20260814` to `eafeac09-20260819`: #97636 - Turbopack: rename to use turbopack: no side effects: #94427 - refactor: move useDynamic{Route,Search}Params to reduce snapshot churn: #97360 - [PPF] unstable_navigation(): #96908 - [PPF] Scaffold unstable_navigation(): #97236 - docs: Explicit cache output description: "
+  },
+  "410f2d01bd9aba91": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-agent-is-now-available-in-slack-_18b4e0d0bf.md",
+    "source": "vercel-blog",
+    "title": "Vercel Agent is now available in Slack code channels",
+    "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+    "keywords": [
+      "slack code channels",
+      "slack code channels",
+      "slack code channels",
+      "52z vercel agent",
+      "vercel agent",
+      "vercel agent",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Vercel Agent is now available in Slack code channels > Source: vercel-blog | Category: news | 2026-08-20T23:56:52Z Vercel Agent is now available in Slack code channels"
   }
 }
