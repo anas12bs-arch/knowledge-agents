@@ -456298,5 +456298,635 @@
       "hackernews"
     ],
     "summary": "# Grand jury declines to indict Ohio man charged with destroying Flock camera > Source: hackernews | Category: news | 2026-08-21T13:59:23Z Score: 99 | Comments: 26"
+  },
+  "37759524e2800d35": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-per_812cf17432.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-perplexity==1.4.1 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-perplexity%3D%3D1.4.1",
+    "keywords": [
+      "tracing metadata (# 35295",
+      "perplexity ): preserve caller",
+      "infra ): bump mypy",
+      "1 changes since langchain",
+      "perplexity (# 38991",
+      "perplexity (# 38290",
+      "perplexity (# 38289",
+      "streaming (# 34707",
+      "resources (# 38119",
+      "monorepo (# 36470"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-21T14:31:54Z Changes since langchain-perplexity==1.4.0 release(perplexity): 1.4.1 (#39826) fix(perplexity): include type=\"message\" on Responses input items (#39774) fix(perplexity): preserve caller `extra_body` (#39203) chore: bump pillow from 12.2.0 to 12.3.0 in /libs/partners/perplexity (#38991) chore(deps): refresh lockfiles (#38746) fix(perplexity): use supported Responses API model (#38337) chore: bump vcrpy from 8.1.1 to 8.2.1 in /l"
+  },
+  "2a77607b898ec85f": {
+    "file": "corpus/devto/dev_to_ivan_kulkin_1522025957eee_i-built-a-browser-chess-cli_590b89e1b1.md",
+    "source": "devto",
+    "title": "I built a browser chess client that can play Lichess games without becoming another chess server",
+    "url": "https://dev.to/ivan_kulkin_1522025957eee/i-built-a-browser-chess-client-that-can-play-lichess-games-without-becoming-another-chess-server-2k2i",
+    "keywords": [
+      "something useful ...",
+      "browser chess client",
+      "browser chess client",
+      "chess board",
+      "opened without",
+      "felt precise",
+      "wanted",
+      "told",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I built a browser chess client that can play Lichess games without becoming another chess server > Source: devto | Category: news | 2026-08-21T14:30:54Z I wanted a chess board that felt precise, opened without an account, and told me something useful..."
+  },
+  "6ef679309ef5b8d4": {
+    "file": "corpus/devto/dev_to_mcsee_code-smell-321-getter-piggybacking-2b4i_4d9a930541.md",
+    "source": "devto",
+    "title": "Code Smell 321 - Getter Piggybacking",
+    "url": "https://dev.to/mcsee/code-smell-321-getter-piggybacking-2b4i",
+    "keywords": [
+      "new business ...",
+      "code smell 321",
+      "code smell 321",
+      "getter piggybacking",
+      "getter piggybacking",
+      "existing getter",
+      "source",
+      "reuse",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Code Smell 321 - Getter Piggybacking > Source: devto | Category: news | 2026-08-21T14:30:53Z One broken window invites another   TL;DR: Don't reuse an existing getter to bolt on new business..."
+  },
+  "e7a0cb5cb3539daf": {
+    "file": "corpus/devto/dev_to_johnrushwrs_whats-an-event-loop-anyways-1n6o_5500883720.md",
+    "source": "devto",
+    "title": "What's an event loop anyways?",
+    "url": "https://dev.to/johnrushwrs/whats-an-event-loop-anyways-1n6o",
+    "keywords": [
+      "processing events different",
+      "event loop anyways",
+      "event loop anyways",
+      "53z event loops",
+      "typical single",
+      "threaded",
+      "source",
+      "reactions",
+      "paradigm",
+      "news"
+    ],
+    "summary": "# What's an event loop anyways? > Source: devto | Category: news | 2026-08-21T14:30:53Z Event loops are a paradigm for processing events different than your typical single-threaded or..."
+  },
+  "6a4021fae725a2df": {
+    "file": "corpus/devto/dev_to_ethan_5b3022150e2c07a4030_your-skillmd-works-fine-loc_1eb01703f3.md",
+    "source": "devto",
+    "title": "Your SKILL.md Works Fine Locally and Fails the Instant You Try to Share It",
+    "url": "https://dev.to/ethan_5b3022150e2c07a4030/your-skillmd-works-fine-locally-and-fails-the-instant-you-try-to-share-it-3e53",
+    "keywords": [
+      "md works fine locally",
+      "md works fine locally",
+      "md works fine locally",
+      "agent skills —...",
+      "try",
+      "try",
+      "try",
+      "source",
+      "skill",
+      "skill"
+    ],
+    "summary": "# Your SKILL.md Works Fine Locally and Fails the Instant You Try to Share It > Source: devto | Category: news | 2026-08-21T14:30:54Z Your SKILL.md Works Fine Locally and Fails the Instant You Try to Share It   Agent Skills —..."
+  },
+  "1be90fa0e186cd66": {
+    "file": "corpus/devto/dev_to_codeatlas_designing-functions-that-compound-299f_d7b3e3beac.md",
+    "source": "devto",
+    "title": "Designing Functions That Compound",
+    "url": "https://dev.to/codeatlas/designing-functions-that-compound-299f",
+    "keywords": [
+      "designing functions",
+      "designing functions",
+      "composable functions",
+      "source",
+      "small",
+      "reactions",
+      "power",
+      "news",
+      "devto",
+      "compound"
+    ],
+    "summary": "# Designing Functions That Compound > Source: devto | Category: news | 2026-08-21T14:30:54Z The Power of Small, Composable Functions   I've spent years refactoring messy codebases."
+  },
+  "a43d4798db8329d6": {
+    "file": "corpus/devto/dev_to_nagaraju_debbb9d_integrating-an-e-invoice-api-in-indi_cea09e0bdc.md",
+    "source": "devto",
+    "title": "Integrating an e-Invoice API in India",
+    "url": "https://dev.to/nagaraju_debbb9d/integrating-an-e-invoice-api-in-india-3b19",
+    "keywords": [
+      "zero context",
+      "invoice api",
+      "invoice api",
+      "integrate e",
+      "ticket",
+      "source",
+      "says",
+      "reactions"
+    ],
+    "summary": "# Integrating an e-Invoice API in India > Source: devto | Category: news | 2026-08-21T14:30:56Z If you've ever been handed a ticket that says \"integrate e-Invoicing\" with zero context, you know the..."
+  },
+  "1c768018b0ec2af1": {
+    "file": "corpus/devto/dev_to_kyungju_leebenjie_519b_image-codecs-in-the-browser-wi_522fbd3fc6.md",
+    "source": "devto",
+    "title": "Image codecs in the browser with jSquash: seven decisions the README doesn't make for you",
+    "url": "https://dev.to/kyungju_leebenjie_519b/image-codecs-in-the-browser-with-jsquash-seven-decisions-the-readme-doesnt-make-for-you-4bid",
+    "keywords": [
+      "standalone npm packages",
+      "basic usage ...",
+      "seven decisions",
+      "seven decisions",
+      "54z squoosh",
+      "image codecs",
+      "image codecs",
+      "jsquash /*,",
+      "codecs",
+      "jsquash"
+    ],
+    "summary": "# Image codecs in the browser with jSquash: seven decisions the README doesn't make for you > Source: devto | Category: news | 2026-08-21T14:30:54Z Squoosh's codecs are published as standalone npm packages under @jsquash/*, and the basic usage..."
+  },
+  "d69caac31f470dae": {
+    "file": "corpus/devto/dev_to_igwefran6_i-built-truden-altshake-your-mouse-to-snip-_4fb530d62f.md",
+    "source": "devto",
+    "title": "I built truden | alt+shake your mouse to snip UI for AI assistants",
+    "url": "https://dev.to/igwefran6/i-built-truden-altshake-your-mouse-to-snip-ui-for-ai-assistants-1bf3",
+    "keywords": [
+      "instantly capture ui context",
+      "snip ui",
+      "snip ui",
+      "personal project",
+      "currently working",
+      "built truden",
+      "built truden",
+      "ai assistants",
+      "ai assistants",
+      "way"
+    ],
+    "summary": "# I built truden | alt+shake your mouse to snip UI for AI assistants > Source: devto | Category: news | 2026-08-21T14:30:54Z I'm currently working on a personal project that needed a way to instantly capture UI context from a..."
+  },
+  "fa15b30155a293d0": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_deployment-storage-keeps-your-deploymen_749fa1c494.md",
+    "source": "vercel-blog",
+    "title": "Deployment Storage keeps your deployments rollback-ready",
+    "url": "https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready",
+    "keywords": [
+      "58z deployment storage keeps",
+      "deployment storage keeps",
+      "deployment storage keeps",
+      "deployments rollback",
+      "deployments rollback",
+      "deployments rollback",
+      "vercel",
+      "source",
+      "ready",
+      "ready"
+    ],
+    "summary": "# Deployment Storage keeps your deployments rollback-ready > Source: vercel-blog | Category: news | 2026-08-21T14:30:58Z Deployment Storage keeps your deployments rollback-ready"
+  },
+  "e8b27cefec5f45cd": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_is-online-privacy-pos_6b617776fd.md",
+    "source": "security",
+    "title": "[bleeping-comp] Is Online Privacy Possible? How Digital Identities Can Help",
+    "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+    "keywords": [
+      "online privacy possible",
+      "online privacy possible",
+      "online privacy possible",
+      "anonyome labs explains",
+      "separate digital personas",
+      "digital identities",
+      "digital identities",
+      "digital identities",
+      "reduce correlation",
+      "phone number"
+    ],
+    "summary": "# [bleeping-comp] Is Online Privacy Possible? Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft."
+  },
+  "a698cc86e80b8a8a": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_cyber-pros-help-city-hall_1771315afd.md",
+    "source": "security",
+    "title": "[dark-reading] Calling on Cyber Pros to Help Defend City Hall",
+    "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+    "keywords": [
+      "help defend city hall",
+      "help defend city hall",
+      "cyber pros",
+      "cyber pros",
+      "cyber pros",
+      "49z calling",
+      "help",
+      "calling",
+      "calling",
+      "source"
+    ],
+    "summary": "# [dark-reading] Calling on Cyber Pros to Help Defend City Hall Calling on Cyber Pros to Help Defend City Hall Government agencies with smaller budgets need support — and here's how you can help."
+  },
+  "ae405083e513ea44": {
+    "file": "corpus/hackernews/www_guidavid_com_writing_convite_b89b4d884a.md",
+    "source": "hackernews",
+    "title": "Convite",
+    "url": "https://www.guidavid.com/writing/convite",
+    "keywords": [
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "convite",
+      "convite",
+      "comments",
+      "category"
+    ],
+    "summary": "# Convite > Source: hackernews | Category: news | 2026-08-21T14:30:48Z Score: 6 | Comments: 0"
+  },
+  "a94eaec6cf0dd340": {
+    "file": "corpus/hackernews/arxiv_org_abs_2608_20290_dc93d89424.md",
+    "source": "hackernews",
+    "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+    "url": "https://arxiv.org/abs/2608.20290",
+    "keywords": [
+      "phantom gains",
+      "phantom gains",
+      "measured null",
+      "measured null",
+      "auditing self",
+      "auditing self",
+      "52z score",
+      "source",
+      "news",
+      "improvement"
+    ],
+    "summary": "# Phantom Gains: Auditing Self-Improvement Against a Measured Null > Source: hackernews | Category: news | 2026-08-21T14:30:52Z Score: 3 | Comments: 0"
+  },
+  "6c7574fa7963e879": {
+    "file": "corpus/hackernews/theaspiringnerd_com_aidr-or-dont-be-a-meat-proxy_6aeefb0112.md",
+    "source": "hackernews",
+    "title": "AI;DR or Don't be a meat proxy",
+    "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
+    "keywords": [
+      "meat proxy",
+      "meat proxy",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI;DR or Don't be a meat proxy > Source: hackernews | Category: news | 2026-08-21T14:30:49Z Score: 5 | Comments: 0"
+  },
+  "b878ec49909f7894": {
+    "file": "corpus/hackernews/precastreinforced_co_uk_2026_08_16_new-worlds_e4fca15e2e.md",
+    "source": "hackernews",
+    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "keywords": [
+      "william gibson",
+      "william gibson",
+      "47z score",
+      "version",
+      "version",
+      "source",
+      "news",
+      "living",
+      "living"
+    ],
+    "summary": "# We are living in a version of the future out of J.G. Ballard or William Gibson > Source: hackernews | Category: news | 2026-08-21T14:30:47Z"
+  },
+  "0b3a6f2cb5b6e47c": {
+    "file": "corpus/hackernews/lina_sh_blog_hijacking-e164-arpa_4671a34b71.md",
+    "source": "hackernews",
+    "title": "I accidentally logged phone calls to military bases",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "keywords": [
+      "accidentally logged phone calls",
+      "accidentally logged phone calls",
+      "military bases",
+      "military bases",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I accidentally logged phone calls to military bases > Source: hackernews | Category: news | 2026-08-21T14:30:49Z Score: 12 | Comments: 0"
+  },
+  "07e7f9a5ece1fe11": {
+    "file": "corpus/hackernews/plabayo_tech_blog_rama-0-4_e8551b705a.md",
+    "source": "hackernews",
+    "title": "Rama 0.4: System proxy and PAC support",
+    "url": "https://plabayo.tech/blog/rama-0-4",
+    "keywords": [
+      "system proxy",
+      "system proxy",
+      "rama 0",
+      "rama 0",
+      "pac support",
+      "pac support",
+      "47z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Rama 0.4: System proxy and PAC support > Source: hackernews | Category: news | 2026-08-21T14:30:47Z Score: 5 | Comments: 2"
+  },
+  "c8adcb26c5107f47": {
+    "file": "corpus/hackernews/martin_kleppmann_com_2007_07_19_yes-no-cancel-causes-aspirin_f60c206e28.md",
+    "source": "hackernews",
+    "title": "Yes/No/Cancel causes Aspirin sales to soar",
+    "url": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
+    "keywords": [
+      "cancel causes aspirin sales",
+      "cancel causes aspirin sales",
+      "49z score",
+      "yes",
+      "yes",
+      "source",
+      "soar",
+      "soar",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Yes/No/Cancel causes Aspirin sales to soar > Source: hackernews | Category: news | 2026-08-21T14:30:49Z Score: 4 | Comments: 1"
+  },
+  "889e54d55d8c3d2a": {
+    "file": "corpus/hackernews/coyotetracks_org_blog_new-people-on-x_d6e6300562.md",
+    "source": "hackernews",
+    "title": "If Your New People Are on X, Maybe Your New People Suck",
+    "url": "https://coyotetracks.org/blog/new-people-on-x/",
+    "keywords": [
+      "new people suck",
+      "new people suck",
+      "new people",
+      "new people",
+      "51z score",
+      "source",
+      "news",
+      "maybe"
+    ],
+    "summary": "# If Your New People Are on X, Maybe Your New People Suck > Source: hackernews | Category: news | 2026-08-21T14:30:51Z Score: 5 | Comments: 0"
+  },
+  "7190afcf122b58a7": {
+    "file": "corpus/hackernews/www_runnersworld_com_news_a73487839_jenny-simpson-running-ca_968488f179.md",
+    "source": "hackernews",
+    "title": "Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
+    "url": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
+    "keywords": [
+      "olympian jenny simpson says",
+      "olympian jenny simpson says",
+      "running career",
+      "running career",
+      "cardiac arrest",
+      "cardiac arrest",
+      "48z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest > Source: hackernews | Category: news | 2026-08-21T14:30:48Z Score: 3 | Comments: 1"
+  },
+  "4315e374a1b7a566": {
+    "file": "corpus/hackernews/duckdb_org_2026_08_20_duckdb-20-peg-parser_d45be44955.md",
+    "source": "hackernews",
+    "title": "DuckDB V2 PEG-based SQL parser",
+    "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+    "keywords": [
+      "duckdb v2 peg",
+      "duckdb v2 peg",
+      "based sql parser",
+      "based sql parser",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# DuckDB V2 PEG-based SQL parser > Source: hackernews | Category: news | 2026-08-21T14:30:48Z Score: 8 | Comments: 0"
+  },
+  "01cdad0c059c5a33": {
+    "file": "corpus/hackernews/www_aikido_dev_blog_ai-model-benchmarks-aug-21-2026_7c5c3421e0.md",
+    "source": "hackernews",
+    "title": "We burned 11.7B tokens to find the best cyber AI model",
+    "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+    "keywords": [
+      "best cyber ai model",
+      "best cyber ai model",
+      "burned 11",
+      "burned 11",
+      "7b tokens",
+      "7b tokens",
+      "51z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# We burned 11.7B tokens to find the best cyber AI model > Source: hackernews | Category: news | 2026-08-21T14:30:51Z Score: 4 | Comments: 0"
+  },
+  "1b48b37c3ccd0ea9": {
+    "file": "corpus/hackernews/ersei_net_en_blog_no-ip-no-problem_a69908931c.md",
+    "source": "hackernews",
+    "title": "No IP? No Problem",
+    "url": "https://ersei.net/en/blog/no-ip-no-problem",
+    "keywords": [
+      "51z score",
+      "source",
+      "problem",
+      "problem",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# No IP? > Source: hackernews | Category: news | 2026-08-21T14:30:51Z Score: 4 | Comments: 0"
+  },
+  "ac514dc693a707e5": {
+    "file": "corpus/hackernews/kagi_com_changelog_11296_dc6f0a5929.md",
+    "source": "hackernews",
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "url": "https://kagi.com/changelog#11296",
+    "keywords": [
+      "removing paywalled links",
+      "removing paywalled links",
+      "search results",
+      "search results",
+      "kagi added",
+      "kagi added",
+      "45z score",
+      "source",
+      "setting",
+      "setting"
+    ],
+    "summary": "# Kagi added a setting for removing paywalled links from search results > Source: hackernews | Category: news | 2026-08-21T14:30:45Z Score: 104 | Comments: 34"
+  },
+  "6c8667526a2dcafd": {
+    "file": "corpus/hackernews/www_futilitycloset_com_2026_08_10_nothing-doing-12_4bb415b779.md",
+    "source": "hackernews",
+    "title": "Nothing Doing",
+    "url": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
+    "keywords": [
+      "51z score",
+      "source",
+      "nothing",
+      "nothing",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Nothing Doing > Source: hackernews | Category: news | 2026-08-21T14:30:51Z Score: 3 | Comments: 0"
+  },
+  "c6e01916d5e1a1b7": {
+    "file": "corpus/hackernews/theconsensus_dev_p_2026_08_16_transactions-in-cassandra_html_0e214310e3.md",
+    "source": "hackernews",
+    "title": "The road to ACID transactions in Cassandra 6",
+    "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+    "keywords": [
+      "acid transactions",
+      "acid transactions",
+      "49z score",
+      "cassandra 6",
+      "cassandra 6",
+      "source",
+      "road",
+      "road",
+      "news"
+    ],
+    "summary": "# The road to ACID transactions in Cassandra 6 > Source: hackernews | Category: news | 2026-08-21T14:30:49Z Score: 6 | Comments: 0"
+  },
+  "b82bfc6291ccd9a6": {
+    "file": "corpus/hackernews/www_killscreen_com_disjointed-prague-deus-ex-mankind-divided_130a2886ee.md",
+    "source": "hackernews",
+    "title": "The Prague of Deus Ex: Mankind Divided",
+    "url": "https://www.killscreen.com/disjointed-prague-deus-ex-mankind-divided/",
+    "keywords": [
+      "mankind divided",
+      "mankind divided",
+      "deus ex",
+      "deus ex",
+      "51z score",
+      "source",
+      "prague",
+      "prague",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Prague of Deus Ex: Mankind Divided > Source: hackernews | Category: news | 2026-08-21T14:30:51Z Score: 3 | Comments: 0"
+  },
+  "a37e4be507e01a38": {
+    "file": "corpus/hackernews/invertingvision_com_2026_08_10_kodaks-pre-invented-lunar-orb_452a676234.md",
+    "source": "hackernews",
+    "title": "Kodak's 'Pre-Invented' Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+    "keywords": [
+      "lunar orbiter camera",
+      "lunar orbiter camera",
+      "samos readout",
+      "samos readout",
+      "46z score",
+      "source",
+      "pre",
+      "pre",
+      "news",
+      "kodak"
+    ],
+    "summary": "# Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout > Source: hackernews | Category: news | 2026-08-21T14:30:46Z Score: 7 | Comments: 0"
+  },
+  "278a94d4297a58f6": {
+    "file": "corpus/hackernews/catalystneuro_com_blog_cost-of-intelligence-drops-100x_099954dc3e.md",
+    "source": "hackernews",
+    "title": "What Happens When the Cost of Intelligence Drops 100x",
+    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+    "keywords": [
+      "intelligence drops 100x",
+      "intelligence drops 100x",
+      "47z score",
+      "source",
+      "news",
+      "happens",
+      "happens",
+      "hackernews",
+      "cost",
+      "cost"
+    ],
+    "summary": "# What Happens When the Cost of Intelligence Drops 100x > Source: hackernews | Category: news | 2026-08-21T14:30:47Z Score: 9 | Comments: 3"
+  },
+  "71821743a7824323": {
+    "file": "corpus/hackernews/github_com_baturyilmaz_agent-office_b161809010.md",
+    "source": "hackernews",
+    "title": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+    "url": "https://github.com/baturyilmaz/agent-office",
+    "keywords": [
+      "– similar",
+      "– similar",
+      "show hn",
+      "show hn",
+      "grok bot",
+      "grok bot",
+      "ai agents",
+      "ai agents",
+      "agent office",
+      "agent office"
+    ],
+    "summary": "# Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older > Source: hackernews | Category: news | 2026-08-21T14:30:50Z Score: 5 | Comments: 1"
+  },
+  "a960c5fe13d44d9c": {
+    "file": "corpus/hackernews/blog_8ball_space_what-we-lost-when-search_a439eb24a8.md",
+    "source": "hackernews",
+    "title": "What We Lost When Search Stopped Making Us Think",
+    "url": "https://blog.8ball.space/what-we-lost-when-search/",
+    "keywords": [
+      "47z score",
+      "source",
+      "news",
+      "lost",
+      "lost",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What We Lost When Search Stopped Making Us Think > Source: hackernews | Category: news | 2026-08-21T14:30:47Z Score: 3 | Comments: 0"
+  },
+  "094db33380e3d529": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-astro-ai-agents_utm_ca_b5884d9b57.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Cuts Astro Github Issues by 85% with AI Agents",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "ai software development",
+      "ai agents cloudflare",
+      "cloudflare workers",
+      "ai agents",
+      "ai agents",
+      "ai agents",
+      "software architecture",
+      "ai coding",
+      "ai automation",
+      "agentic ai"
+    ],
+    "summary": "# [infoq] Cloudflare Cuts Astro Github Issues by 85% with AI Agents Cloudflare Cuts Astro Github Issues by 85% with AI Agents Cloudflare, Astro, AI agents, GitHub Actions, issue triage, agentic AI, software architecture, open source, developer tools, AI automation, automated testing, human in the loop, agent workflows, GitHub, software engineering, AI software development, bug triage, continuous integration, developer productivity, autonomous agents, AI coding, Cloudflare Workers, Flue, triagebo"
+  },
+  "2736a649a0f11123": {
+    "file": "corpus/sales/www_saastr_com_servicetitan-just-shut-off-podiums-integratio_7692f8b0f9.md",
+    "source": "sales",
+    "title": "[saastr] ServiceTitan Just Shut Off Podium’s Integration for ~1,000 Shared Customers. Why? Agents Turned a 9-Year Partner Into a Direct Competitor.",
+    "url": "https://www.saastr.com/servicetitan-just-shut-off-podiums-integration-for-1000-shared-customers-agents-turned-a-9-year-partner-into-a-direct-competitor/",
+    "keywords": [
+      "30 days &# 8217",
+      "servicetitan gave roughly 1",
+      "peak hvac season",
+      "000 shared customers",
+      "000 shared customers",
+      "000 shared customers",
+      "000 shared customers",
+      "podium ’",
+      "podium ’",
+      "podium ’"
+    ],
+    "summary": "# [saastr] ServiceTitan Just Shut Off Podium’s Integration for ~1,000 Shared Customers. ServiceTitan Just Shut Off Podium’s Integration for ~1,000 Shared Customers. Podium co-founder and CEO Eric Rea posted last week that ServiceTitan gave roughly 1,000 shared customers about 30 days&#8217; notice that the Podium integration was being switched off, in the middle of peak HVAC season, after nine years as a partner."
   }
 }
