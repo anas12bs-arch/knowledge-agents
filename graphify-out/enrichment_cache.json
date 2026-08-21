@@ -455358,5 +455358,119 @@
       "hosted endpoint"
     ],
     "summary": "# [infoq] Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install."
+  },
+  "21bc196388566261": {
+    "file": "corpus/devops/devops_com_why-api-test-generation-is-a-judgment-problem-not_90d243ea88.md",
+    "source": "devops",
+    "title": "[devops-com] Why API Test Generation Is a Judgment Problem, Not a Code Generation Problem",
+    "url": "https://devops.com/why-api-test-generation-is-a-judgment-problem-not-a-code-generation-problem/",
+    "keywords": [
+      "model generated 26 tests",
+      "coverage breadth went",
+      "api test generation",
+      "api test generation",
+      "api test generation",
+      "api test generation",
+      "code generation problem",
+      "code generation problem",
+      "code generation problem",
+      "tests appeared"
+    ],
+    "summary": "When we started using large language models for API test generation at KushoAI, the results were impressive on the surface. Then we looked more carefully at what was being produced. On one endpoint, the model generated 26 tests where a senior QA engineer [&#8230;]"
+  },
+  "87c658ca6a45c111": {
+    "file": "corpus/devto/dev_to_arthursecc_from-idea-to-prototype-my-experience-build_9dd052ad44.md",
+    "source": "devto",
+    "title": "From Idea to Prototype: My Experience Building UNIFIT Through Prompt Engineering and Systems Prototyping",
+    "url": "https://dev.to/arthursecc/from-idea-to-prototype-my-experience-building-unifit-through-prompt-engineering-and-systems-295a",
+    "keywords": [
+      "experience building unifit",
+      "experience building unifit",
+      "take part",
+      "systems prototyping",
+      "systems prototyping",
+      "prompt engineering",
+      "prompt engineering",
+      "58z introduction",
+      "source",
+      "reactions"
+    ],
+    "summary": "# From Idea to Prototype: My Experience Building UNIFIT Through Prompt Engineering and Systems Prototyping > Source: devto | Category: news | 2026-08-21T10:41:58Z Introduction   Over the past few months, I had the opportunity to take part in the development of..."
+  },
+  "345483bb82131fcf": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_sickkids-data-breach-_c28837178a.md",
+    "source": "security",
+    "title": "[bleeping-comp] SickKids data breach exposes employee and job applicant info",
+    "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "keywords": [
+      "job applicant info toronto",
+      "job applicant info",
+      "job applicant info",
+      "cybersecurity incident exposed",
+      "job applicants",
+      "sick children",
+      "personal information",
+      "patient records",
+      "party software",
+      "former employees"
+    ],
+    "summary": "# [bleeping-comp] SickKids data breach exposes employee and job applicant info SickKids data breach exposes employee and job applicant info Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software."
+  },
+  "d7ab2e130afda309": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48282_sec-proposes-regulation-c_68e7c1c83a.md",
+    "source": "finance",
+    "title": "[finextra] SEC proposes Regulation Crypto Assets",
+    "url": "https://www.finextra.com/newsarticle/48282/sec-proposes-regulation-crypto-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "new crypto asset rules",
+      "us securities",
+      "exchange commission",
+      "wednesday",
+      "source",
+      "sec",
+      "provide",
+      "proposal",
+      "framework",
+      "finextra"
+    ],
+    "summary": "# [finextra] SEC proposes Regulation Crypto Assets SEC proposes Regulation Crypto Assets The US Securities and Exchange Commission (SEC) announced its proposal of new crypto asset rules to provide a framework for investment contracts involving digital assets on Wednesday."
+  },
+  "326a15642bc411f3": {
+    "file": "corpus/hackernews/changyi_fun_posts_attention-arithmetic-intensity_748adfccbf.md",
+    "source": "hackernews",
+    "title": "Attention Through Arithmetic Intensity",
+    "url": "https://changyi.fun/posts/attention-arithmetic-intensity/",
+    "keywords": [
+      "arithmetic intensity",
+      "arithmetic intensity",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "attention",
+      "attention"
+    ],
+    "summary": "# Attention Through Arithmetic Intensity > Source: hackernews | Category: news | 2026-08-21T10:41:49Z Score: 4 | Comments: 0"
+  },
+  "3f567f217fea5fa8": {
+    "file": "corpus/hackernews/www_csiro_au_en_news_All_Articles_2015_March_the-smell-of-ra_9cdafcf915.md",
+    "source": "hackernews",
+    "title": "The smell of rain: how Aussie scientists invented a new word in 1964",
+    "url": "https://www.csiro.au/en/news/All/Articles/2015/March/the-smell-of-rain-how-our-scientists-invented-a-new-word",
+    "keywords": [
+      "aussie scientists invented",
+      "aussie scientists invented",
+      "new word",
+      "new word",
+      "54z score",
+      "source",
+      "smell",
+      "smell",
+      "rain",
+      "rain"
+    ],
+    "summary": "# The smell of rain: how Aussie scientists invented a new word in 1964 > Source: hackernews | Category: news | 2026-08-21T10:41:54Z Score: 8 | Comments: 0"
   }
 }
