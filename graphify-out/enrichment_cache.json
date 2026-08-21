@@ -455472,5 +455472,79 @@
       "rain"
     ],
     "summary": "# The smell of rain: how Aussie scientists invented a new word in 1964 > Source: hackernews | Category: news | 2026-08-21T10:41:54Z Score: 8 | Comments: 0"
+  },
+  "564d327a3e182178": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-abuse-ftp-ser_24de1cffcb.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers abuse FTP server banners to deliver new Windows malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+    "keywords": [
+      "deliver new windows malware",
+      "deliver new windows malware",
+      "abusing ftp banners",
+      "hide commands",
+      "source",
+      "security",
+      "security",
+      "pinhole",
+      "comp",
+      "comp"
+    ],
+    "summary": "# [bleeping-comp] Hackers abuse FTP server banners to deliver new Windows malware Hackers abuse FTP server banners to deliver new Windows malware Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE."
+  },
+  "534e916c0f60bd44": {
+    "file": "corpus/finance/news_crunchbase_com_ai_interesting-startup-deals-ai-recyclin_362febe80a.md",
+    "source": "finance",
+    "title": "[crunchbase] 5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
+    "url": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
+    "keywords": [
+      "builders spot commercial projects",
+      "5 interesting startup deals",
+      "5 interesting startup deals",
+      "winning construction bids",
+      "winning construction bids",
+      "winning construction bids",
+      "technology range widely",
+      "help people breathe",
+      "help architects",
+      "two startups"
+    ],
+    "summary": "# [crunchbase] 5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids 5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids This month’s installment of this column is all AI, though applications for the technology range widely, from two startups that apply AI to trash or recycling, to another that promises to help people breathe and sleep better, to a company"
+  },
+  "4d2637ebaa5f65b6": {
+    "file": "corpus/hackernews/api-docs_deepseek_com_guides_vision_074ef87072.md",
+    "source": "hackernews",
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "keywords": [
+      "15z score",
+      "vision",
+      "vision",
+      "source",
+      "news",
+      "hackernews",
+      "flash",
+      "flash"
+    ],
+    "summary": "# DeepSeek-v4-flash-vision-exp > Source: hackernews | Category: news | 2026-08-21T11:03:15Z Score: 42 | Comments: 1"
+  },
+  "db5c12cb7d5dbde0": {
+    "file": "corpus/engineering/www_infoq_com_presentations_ebpf-ai-gateway-kubernetes-secur_545358afb4.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Enchant Your AI and APIs with eBPF Magic 🪄",
+    "url": "https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "control ai api traffic",
+      "ebpf magic 🪄",
+      "ebpf magic 🪄",
+      "token limits",
+      "syscall restrictions",
+      "restarting containers",
+      "model swapping",
+      "generated code",
+      "dan finneran",
+      "unowned ai"
+    ],
+    "summary": "# [infoq] Presentation: Enchant Your AI and APIs with eBPF Magic 🪄 Dan Finneran discusses the risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and control AI API traffic in Kubernetes. He explains how kernel-level socket hooks enable transparent prompt filtering, model swapping, token limits, and syscall restrictions to secure AI agents without modifying application source code or restarting containers."
   }
 }
