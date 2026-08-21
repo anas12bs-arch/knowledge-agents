@@ -454756,5 +454756,100 @@
       "source"
     ],
     "summary": "# Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents > Source: hackernews | Category: news | 2026-08-21T07:46:54Z Score: 5 | Comments: 1"
+  },
+  "99e794535573234f": {
+    "file": "corpus/devto/dev_to_sachinpk_a-package-you-use-was-just-compromised-now-w_cfc55ca631.md",
+    "source": "devto",
+    "title": "A Package You Use Was Just Compromised. Now What?",
+    "url": "https://dev.to/sachinpk/a-package-you-use-was-just-compromised-now-what-41n1",
+    "keywords": [
+      "true ,...",
+      "preventing supply",
+      "good posts",
+      "chain attacks",
+      "** ignore",
+      "use",
+      "use",
+      "source",
+      "scripts",
+      "reactions"
+    ],
+    "summary": "# A Package You Use Was Just Compromised. > Source: devto | Category: news | 2026-08-21T08:21:30Z There are plenty of good posts about preventing supply-chain attacks: **ignore-scripts=true,..."
+  },
+  "4b5ef56fd22673e4": {
+    "file": "corpus/devto/dev_to_javadinteger_advanced-gpu-optimization-how-to-tech-an_0770a7e60f.md",
+    "source": "devto",
+    "title": "Advanced GPU Optimization: How to tech an LLM with CUDA and ROCm? - Part 4",
+    "url": "https://dev.to/javadinteger/advanced-gpu-optimization-how-to-tech-an-llm-with-cuda-and-rocm-part-4-be1",
+    "keywords": [
+      "advanced gpu optimization",
+      "advanced gpu optimization",
+      "part 4",
+      "part 4",
+      "part 2",
+      "part 1",
+      "grand finale",
+      "gemm ).",
+      "40z welcome",
+      "walk"
+    ],
+    "summary": "# Advanced GPU Optimization: How to tech an LLM with CUDA and ROCm? In Part 1, we learned how to walk (GEMM). In Part 2, we learned how to..."
+  },
+  "ba1233dc3ac527b1": {
+    "file": "corpus/devto/dev_to_dexterlung_the-antivirus-said-no-malware-detected-it-_c965d2734c.md",
+    "source": "devto",
+    "title": "The antivirus said 'no malware detected'. It was sitting right there on the disk.",
+    "url": "https://dev.to/dexterlung/the-antivirus-said-no-malware-detected-it-was-sitting-right-there-on-the-disk-4fl8",
+    "keywords": [
+      "malware detected '.",
+      "malware detected '.",
+      "every command output",
+      "cve id ...",
+      "version number",
+      "sitting right",
+      "sitting right",
+      "real incident",
+      "green lights",
+      "antivirus said"
+    ],
+    "summary": "# The antivirus said 'no malware detected'. It was sitting right there on the disk. Every command output, version number and CVE ID..."
+  },
+  "4a5c180a2e94213a": {
+    "file": "corpus/devto/dev_to_maroneta_postgres-as-a-default-is-a-discipline-dbk_26a5b9a636.md",
+    "source": "devto",
+    "title": "Postgres as a Default Is a Discipline",
+    "url": "https://dev.to/maroneta/postgres-as-a-default-is-a-discipline-dbk",
+    "keywords": [
+      "slightly stubborn essay",
+      "months someone writes",
+      "30z every",
+      "source",
+      "reactions",
+      "postgres",
+      "postgres",
+      "news",
+      "discipline",
+      "discipline"
+    ],
+    "summary": "# Postgres as a Default Is a Discipline > Source: devto | Category: news | 2026-08-21T08:21:30Z Every few months someone writes a clean, slightly stubborn essay that amounts to: what if we just..."
+  },
+  "7ad3b16a18fe0d23": {
+    "file": "corpus/security/thehackernews_com_2026_08_gitlab-cve-2026-19478-comes-under__7850fb5291.md",
+    "source": "security",
+    "title": "[hacker-news-sec] GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "keywords": [
+      "certain conditions without requiring",
+      "active exploitation within days",
+      "active exploitation within days",
+      "active exploitation within days",
+      "active exploitation within days",
+      "newly disclosed security flaw",
+      "24z gitlab cve",
+      "unauthenticated attacker",
+      "gitlab cve",
+      "gitlab cve"
+    ],
+    "summary": "# [hacker-news-sec] GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring"
   }
 }
