@@ -459989,5 +459989,24 @@
       "getting"
     ],
     "summary": "# 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them > Source: hackernews | Category: news | 2026-08-21T22:39:47Z Score: 9 | Comments: 0"
+  },
+  "791f5f95984e8097": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_33_0-rc0_d17ef008a9.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.33.0-rc0 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc0",
+    "keywords": [
+      "add claude desktop app",
+      "claude model management",
+      "polish onboarding layout",
+      "fix mac assumptions",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "https :// github"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-21T22:59:50Z ## What's Changed * mlx: fix mac assumptions on linux/windows by @dhiltgen in https://github.com/ollama/ollama/pull/17898 * mlx update by @dhiltgen in https://github.com/ollama/ollama/pull/17886 * lint fixes by @dhiltgen in https://github.com/ollama/ollama/pull/17897 * app: add claude desktop app by @ParthSareen in https://github.com/ollama/ollama/pull/17899 * app: polish onboarding layout and disable zoom by @hoyyeva in http"
   }
 }
