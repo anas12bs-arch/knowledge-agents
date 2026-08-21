@@ -454945,5 +454945,119 @@
       "s3 compatibility"
     ],
     "summary": "# [infoq] S3 Compatibility Doesn't Guarantee S3-Level Security Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3. While S3 has become the de facto standard for object storage, most services lack several of AWS's security protections."
+  },
+  "fd117fa16e847318": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_3_2_68c0c0f457.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.3.2 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.2",
+    "keywords": [
+      "authenticate turborepo remote caching",
+      "### credits huge thanks",
+      "static pat (# 97603",
+      "asset prefix (# 97419",
+      "app directory (# 97357",
+      "slug (# 97416",
+      "entry export validation",
+      "backporting bug fixes",
+      "### core changes",
+      "js — v16"
+    ],
+    "summary": "It does **not** include all pending features/changes on canary. - [backport] Scope app-entry export validation to files inside the app directory (#97357) - [backport] Fix catch-all index page being served for every other slug (#97416) - [16.3] Turbopack: don't trace embedded WASM loader helpers (#97353) (#97463) - [16.3] Turbopack: retain conditions when replacing resolve request keys (#97453) - [16.3.x] Fix Turbopack worker chunk loading with asset prefix (#97419) - [16.3.x] Authenticate Turbor"
+  },
+  "aaec9e565e6367c1": {
+    "file": "corpus/devto/dev_to_ilya_mozerov_867dbdd91feb_the-auth-check-i-decided-no_6194b2339b.md",
+    "source": "devto",
+    "title": "The auth check I decided not to write, and the test that keeps it unwritten",
+    "url": "https://dev.to/ilya_mozerov_867dbdd91feb/the-auth-check-i-decided-not-to-write-and-the-test-that-keeps-it-unwritten-4nai",
+    "keywords": [
+      "mints unforgeable capability tokens",
+      "way subset ratchet",
+      "auth check",
+      "auth check",
+      "write",
+      "write",
+      "unwritten",
+      "unwritten",
+      "tool",
+      "test"
+    ],
+    "summary": "# The auth check I decided not to write, and the test that keeps it unwritten I have a tool that mints unforgeable capability tokens. HMAC-SHA256, a one-way subset ratchet on the..."
+  },
+  "79eb83704edf52c7": {
+    "file": "corpus/devto/dev_to_rhuturaj_takle_system-design-building-scalable-system_fa402e45cc.md",
+    "source": "devto",
+    "title": "System Design: Building Scalable Systems",
+    "url": "https://dev.to/rhuturaj_takle/system-design-building-scalable-systems-1mhe",
+    "keywords": [
+      "building scalable systems",
+      "building scalable systems",
+      "building scalable systems",
+      "system design ...",
+      "15z system design",
+      "system design",
+      "system design",
+      "capstone guide",
+      "source",
+      "reactions"
+    ],
+    "summary": "# System Design: Building Scalable Systems > Source: devto | Category: news | 2026-08-21T09:43:15Z System Design: Building Scalable Systems   A practical, capstone guide to system design..."
+  },
+  "e6f4e354074bd752": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_08_more-incidents-of-ais_b070736894.md",
+    "source": "security",
+    "title": "[schneier] More Incidents of AIs Going Rogue in Cybersecurity Challenges",
+    "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
+    "keywords": [
+      "creating fake online identities",
+      "social engineering &# 8212",
+      "genie behavior &# 8212",
+      "ai agent took autonomous",
+      "ai systems engaging",
+      "anthropic &# 8217",
+      "targeting real people",
+      "ais going rogue",
+      "ais going rogue",
+      "ais going rogue"
+    ],
+    "summary": "The AI Security Institute has a  new report  of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220; genie behavior &#8212;while being tested on their cybersecurity capabilities. Our investigation found that in 10 of those runs, an AI agent took autonomous, unsanctioned action on the live internet, targeting real people and organisations. Almost all of this behaviour (17 actions) came from a single model, Anthropic&#8217;s Mythos 5, with 2 actions inv"
+  },
+  "58d1dfd632ee3f1d": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48281_singapores-dbs-deploys-sp_1192d608bf.md",
+    "source": "finance",
+    "title": "[finextra] Singapore’s DBS deploys specialist AI agents for 1,500 employees",
+    "url": "https://www.finextra.com/newsarticle/48281/singapores-dbs-deploys-specialist-ai-agents-for-1500-employees?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "corporate credit assessments",
+      "agentic ai services",
+      "500 bankers globally",
+      "500 employees dbs",
+      "13z singapore ’",
+      "500 employees",
+      "500 employees",
+      "singapore ’",
+      "singapore ’",
+      "roughly 1"
+    ],
+    "summary": "# [finextra] Singapore’s DBS deploys specialist AI agents for 1,500 employees Singapore’s DBS deploys specialist AI agents for 1,500 employees DBS will roll out agentic AI services for roughly 1,500 bankers globally to support with corporate credit assessments."
+  },
+  "306cfe56ae9d4a3e": {
+    "file": "corpus/hackernews/www_toxel_com_tech_2026_08_07_flat-chair-by-sara-paculdo_5042e96e76.md",
+    "source": "hackernews",
+    "title": "Flat Chair by Sara Paculdo",
+    "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+    "keywords": [
+      "sara paculdo",
+      "sara paculdo",
+      "flat chair",
+      "flat chair",
+      "11z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Flat Chair by Sara Paculdo > Source: hackernews | Category: news | 2026-08-21T09:43:11Z Score: 5 | Comments: 0"
   }
 }
