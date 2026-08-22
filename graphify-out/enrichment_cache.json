@@ -462949,5 +462949,98 @@
       "source engine"
     ],
     "summary": "A Bigger Model Didn't Fix It. > Source: devto | Category: news | 2026-08-22T18:00:49Z This is article 3 in a series about building PlannerCritic, an open-source engine where one LLM..."
+  },
+  "78718a71922108e4": {
+    "file": "corpus/devto/dev_to_neronx_410-one-link-two-people-gone-32ag_744e636ff6.md",
+    "source": "devto",
+    "title": "410 - One link. Two people. Gone.",
+    "url": "https://dev.to/neronx/410-one-link-two-people-gone-32ag",
+    "keywords": [
+      "two people —",
+      "two people",
+      "two people",
+      "one link",
+      "one link",
+      "disposable chat",
+      "anyone else",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# 410 - One link. > Source: devto | Category: news | 2026-08-22T18:26:48Z I built a disposable chat for two people — does “temporary contact” make sense to anyone else?"
+  },
+  "b41dafabc8518cf6": {
+    "file": "corpus/hackernews/perimeterinstitute_ca_news_dynamical-dark-energy-and-week-br_85dd4c598c.md",
+    "source": "hackernews",
+    "title": "Dynamical dark energy and the week that broke cosmology",
+    "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+    "keywords": [
+      "dynamical dark energy",
+      "dynamical dark energy",
+      "broke cosmology",
+      "broke cosmology",
+      "42z score",
+      "week",
+      "week",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Dynamical dark energy and the week that broke cosmology > Source: hackernews | Category: news | 2026-08-22T18:26:42Z Score: 18 | Comments: 1"
+  },
+  "7fc8f11477ef06d8": {
+    "file": "corpus/hackernews/hister_org_7ea3027630.md",
+    "source": "hackernews",
+    "title": "Hister – A private, full content search index that you control",
+    "url": "https://hister.org/",
+    "keywords": [
+      "full content search index",
+      "full content search index",
+      "hister –",
+      "hister –",
+      "41z score",
+      "source",
+      "private",
+      "private",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Hister – A private, full content search index that you control > Source: hackernews | Category: news | 2026-08-22T18:26:41Z Score: 19 | Comments: 0"
+  },
+  "a22ddd04500fec19": {
+    "file": "corpus/hackernews/loginwithone_com_8d0598a8da.md",
+    "source": "hackernews",
+    "title": "Show HN: Anonymous age verification with passkey-powered encryption",
+    "url": "https://loginwithone.com/",
+    "keywords": [
+      "held encryption key derived",
+      "unlock button .< p",
+      "sensitive user data prior",
+      "without requiring users",
+      "webauthn prf extension",
+      "slowly chipped away",
+      "preserving age proofs",
+      "fun parental leave",
+      "finally got things",
+      "anonymous age verification"
+    ],
+    "summary": "I&#x27;ve slowly chipped away at it since, and finally got things to a shareable state over the summer thanks to a very fun parental leave. Headed back to work tomorrow, so I figure there&#x27;s no time like the present.<p>tldr: A client-held encryption key derived during passkey authentication encrypts all sensitive user data prior to persistence so that only the user is able to decrypt and reuse that data on their device. I plan to pull the client-side encryption functionality into an open-sou"
+  },
+  "9e315220fa174dc2": {
+    "file": "corpus/hackernews/twitter_com_moxie_status_2091218652133732491_068c7e8ae3.md",
+    "source": "hackernews",
+    "title": "Scrap",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "keywords": [
+      "45z score",
+      "source",
+      "scrap",
+      "scrap",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Scrap > Source: hackernews | Category: news | 2026-08-22T18:26:45Z Score: 3 | Comments: 0"
   }
 }
