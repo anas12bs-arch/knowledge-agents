@@ -461499,5 +461499,62 @@
       "worth using"
     ],
     "summary": "We're ranking each model currently out by AI labs, and nearly model you'd reasonably use today goes on the board, so lets break it down Check them out below: Cloud Sinfrastructure for AI agents: https://soydev.link/browserbase Hire great engineers in days instead of weeks: https://soydev.link/g2i Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "35baab39bd6ec833": {
+    "file": "corpus/github-releases/github_com_prisma_prisma_releases_tag_v8_0_0-rc_5_ca0692945f.md",
+    "source": "github-releases",
+    "title": "prisma/prisma v8.0.0-rc.5 released",
+    "url": "https://github.com/prisma/prisma/releases/tag/v8.0.0-rc.5",
+    "keywords": [
+      "uses directly still need",
+      "hardcoded binary name ).",
+      "cli nothing moves —",
+      "30075 )) ## fixes",
+      "orm init `) instead",
+      "## breaking changes",
+      "listener — see",
+      "typed return columns",
+      "raw lane lets",
+      "error remediation names"
+    ],
+    "summary": "([#30067](https://github.com/prisma/prisma/pull/30067)) - `groupBy()` now scopes pre-group pagination to the rows it groups instead of dropping it, and `GroupedCollection` gained `take` / `skip` / `orderBy` to page the groups themselves. ([#30092](https://github.com/prisma/prisma/pull/30092)) - The Postgres runtime attaches `'error'` listeners to every pool and client it creates or receives, so a dropped idle connection (database restart, pooler timeout, network blip) no longer crashes the proce"
+  },
+  "1c3a60f4fb5a3486": {
+    "file": "corpus/hackernews/www_computer_org_csdl_magazine_mi_2021_06_09623402_1yJTvlRLm_e1a317553b.md",
+    "source": "hackernews",
+    "title": "Z80–The 1970s Microprocessor Still Alive",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "keywords": [
+      "1970s microprocessor still alive",
+      "1970s microprocessor still alive",
+      "z80 –",
+      "z80 –",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Z80–The 1970s Microprocessor Still Alive > Source: hackernews | Category: news | 2026-08-22T10:55:54Z Score: 9 | Comments: 1"
+  },
+  "406b72901546ed05": {
+    "file": "corpus/hackernews/www_pm_gc_ca_en_news_statements_2026_08_21_statement-prime-m_f837b8be02.md",
+    "source": "hackernews",
+    "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+    "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+    "keywords": [
+      "canada suspends trade negotiations",
+      "canada suspends trade negotiations",
+      "match tariffs dollar",
+      "match tariffs dollar",
+      "54z score",
+      "dollar",
+      "dollar",
+      "usa",
+      "usa",
+      "source"
+    ],
+    "summary": "# Canada suspends trade negotiations with USA and match tariffs dollar for dollar > Source: hackernews | Category: news | 2026-08-22T10:55:54Z Score: 26 | Comments: 4"
   }
 }
