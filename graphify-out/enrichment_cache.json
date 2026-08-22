@@ -461310,5 +461310,99 @@
       "relying solely"
     ],
     "summary": "# [infoq] AI Code Review at Scale: LinkedIn's Multi-Agent Approach At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organizationâ€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback."
+  },
+  "0e2ba5eddac0e5bd": {
+    "file": "corpus/devto/dev_to_devshefali_19-chrome-devtools-tricks-every-developer-_ecc1e0a328.md",
+    "source": "devto",
+    "title": "19 Chrome DevTools Tricks Every Developer Should Know",
+    "url": "https://dev.to/devshefali/19-chrome-devtools-tricks-every-developer-should-know-3o6f",
+    "keywords": [
+      "small part",
+      "use",
+      "source",
+      "reactions",
+      "news",
+      "know",
+      "know",
+      "devto",
+      "category"
+    ],
+    "summary": "# 19 Chrome DevTools Tricks Every Developer Should Know Most developers use Chrome DevTools every day. But most of us only use a small part of what it can..."
+  },
+  "f4fb10feea75faa3": {
+    "file": "corpus/devto/dev_to_gde03_i-gave-claude-code-a-brain-its-mistake-rate-wen_65847838f7.md",
+    "source": "devto",
+    "title": "I Gave Claude Code a Brain. Its Mistake Rate Went to Zero.",
+    "url": "https://dev.to/gde03/i-gave-claude-code-a-brain-its-mistake-rate-went-to-zero-3d8l",
+    "keywords": [
+      "mistake rate went",
+      "mistake rate went",
+      "gave claude code",
+      "gave claude code",
+      "fewer mistakes \"....",
+      "07z 40 tasks",
+      "wrong 52",
+      "0 %.",
+      "without memory",
+      "memory"
+    ],
+    "summary": "# I Gave Claude Code a Brain. Its Mistake Rate Went to Zero. Without memory it got them wrong 52.5% of the time."
+  },
+  "162e49f1eb8cccd6": {
+    "file": "corpus/devto/dev_to_dj29_the-optimization-that-was-too-good-why-our-push-_e77e21b028.md",
+    "source": "devto",
+    "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
+    "url": "https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d",
+    "keywords": [
+      "summer bug smash",
+      "smash stories powered",
+      "push notifications",
+      "push notifications",
+      "worked",
+      "worked",
+      "submission",
+      "source",
+      "sentry",
+      "reactions"
+    ],
+    "summary": "# The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking > Source: devto | Category: news | 2026-08-22T09:33:05Z This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry."
+  },
+  "006665dcdbb5dff1": {
+    "file": "corpus/devto/dev_to_parsajiravand_your-fetch-in-beforeunload-is-silently-_321af7b78e.md",
+    "source": "devto",
+    "title": "Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery.",
+    "url": "https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery-17pn",
+    "keywords": [
+      "sendbeacon guarantees delivery",
+      "sendbeacon guarantees delivery",
+      "browser may cancel",
+      "sendbeacon sends",
+      "browser commits",
+      "silently killed",
+      "silently killed",
+      "page unloads",
+      "flight fetch",
+      "fetch"
+    ],
+    "summary": "# Your fetch in beforeunload is silently killed. When the page unloads, the browser may cancel any in-flight fetch or XHR before it completes. navigator.sendBeacon sends a POST the browser commits to delivering, even after the document is gone."
+  },
+  "9d5551e10671b986": {
+    "file": "corpus/devto/dev_to_vijaya_bollu_i-deployed-googles-online-boutique-on-aw_e1da7cdf21.md",
+    "source": "devto",
+    "title": "I Deployed Google's Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes",
+    "url": "https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal",
+    "keywords": [
+      "zero app code changes",
+      "zero app code changes",
+      "setup google",
+      "service e",
+      "online boutique",
+      "online boutique",
+      "online boutique",
+      "deployed google",
+      "deployed google",
+      "source 11"
+    ],
+    "summary": "# I Deployed Google's Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes > Source: devto | Category: news | 2026-08-22T09:33:06Z The Setup   Google's Online Boutique is an open-source 11-service e-commerce demo — Go,..."
   }
 }
