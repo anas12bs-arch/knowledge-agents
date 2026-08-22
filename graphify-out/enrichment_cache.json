@@ -462609,5 +462609,119 @@
       "2026"
     ],
     "summary": "# Wildfires across Europe detonate forgotten World War bombs > Source: hackernews | Category: news | 2026-08-22T16:31:06Z Score: 4 | Comments: 0"
+  },
+  "71dfd63c6ea36541": {
+    "file": "corpus/devto/dev_to_sachin_meru_i-benchmarked-cognodb-against-four-other-_78acabc3b4.md",
+    "source": "devto",
+    "title": "I benchmarked CognoDB against four other graph databases. The most interesting result had nothing to do with CognoDB.",
+    "url": "https://dev.to/sachin_meru/i-benchmarked-cognodb-against-four-other-graph-databases-the-most-interesting-result-had-nothing-4ha6",
+    "keywords": [
+      "managed graph database",
+      "graph platforms ...",
+      "benchmark cognodb cloud",
+      "graph databases",
+      "graph databases",
+      "interesting result",
+      "interesting result",
+      "benchmarked cognodb",
+      "benchmarked cognodb",
+      "cognodb"
+    ],
+    "summary": "# I benchmarked CognoDB against four other graph databases. The most interesting result had nothing to do with CognoDB. I was asked to benchmark CognoDB Cloud, a managed graph database, against four other graph platforms..."
+  },
+  "5d474bed83b8004a": {
+    "file": "corpus/devto/dev_to_sara_mo_did-the-model-upgrade-break-your-ai-agent-4og_4afac0125a.md",
+    "source": "devto",
+    "title": "Did the Model Upgrade Break Your AI Agent?",
+    "url": "https://dev.to/sara_mo/did-the-model-upgrade-break-your-ai-agent-4ogp",
+    "keywords": [
+      "model upgrade break",
+      "model upgrade break",
+      "46z nothing happened",
+      "strange part",
+      "pull request",
+      "prompt ....",
+      "nobody touched",
+      "ai agent",
+      "ai agent",
+      "source"
+    ],
+    "summary": "# Did the Model Upgrade Break Your AI Agent? That is the strange part. Nobody touched the prompt...."
+  },
+  "04ee0161e1ff4e67": {
+    "file": "corpus/devto/dev_to_srivatsa_kamballa_the-only-thing-my-kubernetes-agent-_9e24f70729.md",
+    "source": "devto",
+    "title": "The only thing my Kubernetes agent can do is write a git commit",
+    "url": "https://dev.to/srivatsa_kamballa/the-only-thing-my-kubernetes-agent-can-do-is-write-a-git-commit-ma4",
+    "keywords": [
+      "trusted ...",
+      "kubernetes agent",
+      "kubernetes agent",
+      "git commit",
+      "git commit",
+      "almost none",
+      "wrong",
+      "write",
+      "write",
+      "thing"
+    ],
+    "summary": "# The only thing my Kubernetes agent can do is write a git commit Every AI SRE tool will read your cluster and tell you what is wrong. Almost none of them are trusted..."
+  },
+  "773f971a8da7c479": {
+    "file": "corpus/devto/dev_to_devops_oasis_jenkins-versus-github-actions-after-our-_0433023cf8.md",
+    "source": "devto",
+    "title": "Jenkins Versus GitHub Actions After Our 43-Minute Queue",
+    "url": "https://dev.to/devops_oasis/jenkins-versus-github-actions-after-our-43-minute-queue-3p48",
+    "keywords": [
+      "jenkins versus github actions",
+      "jenkins versus github actions",
+      "gitlab ci compared",
+      "minute build queue",
+      "github actions",
+      "48z jenkins",
+      "minute queue",
+      "minute queue",
+      "platform teams",
+      "concrete picks"
+    ],
+    "summary": "# Jenkins Versus GitHub Actions After Our 43-Minute Queue > Source: devto | Category: news | 2026-08-22T16:51:48Z Jenkins, GitHub Actions, and GitLab CI compared after a 43-minute build queue, with concrete picks for small, growing, and platform teams."
+  },
+  "69b6c7e2e6dba2b2": {
+    "file": "corpus/devto/dev_to_sangyeonpark_your-ai-assistant-ships-insecure-code-al_9695317e79.md",
+    "source": "devto",
+    "title": "Your AI Assistant Ships Insecure Code Almost Half the Time. Catching It in Review Is Too Late.",
+    "url": "https://dev.to/sangyeonpark/your-ai-assistant-ships-insecure-code-almost-half-the-time-catching-it-in-review-is-too-late-4ml",
+    "keywords": [
+      "sangyeon park — creator",
+      "llm coding agents",
+      "source security gateway",
+      "source",
+      "time",
+      "time",
+      "review",
+      "review",
+      "reactions",
+      "open"
+    ],
+    "summary": "# Your AI Assistant Ships Insecure Code Almost Half the Time. Catching It in Review Is Too Late. By Sangyeon Park — creator of Cencurity, an open-source security gateway for LLM coding agents  In..."
+  },
+  "79e2b7d2cec876f1": {
+    "file": "corpus/devto/dev_to_shipyourpythonapp_shipping-a-python-desktop-app-to-re_2d4c39c29d.md",
+    "source": "devto",
+    "title": "Shipping a Python desktop app to real users: everything that breaks after PyInstaller succeeds",
+    "url": "https://dev.to/shipyourpythonapp/shipping-a-python-desktop-app-to-real-users-everything-that-breaks-after-pyinstaller-succeeds-118f",
+    "keywords": [
+      "real beta ...",
+      "python desktop app",
+      "python desktop app",
+      "desktop app",
+      "real users",
+      "real users",
+      "pyinstaller succeeds",
+      "pyinstaller succeeds",
+      "33k lines",
+      "python"
+    ],
+    "summary": "# Shipping a Python desktop app to real users: everything that breaks after PyInstaller succeeds > Source: devto | Category: news | 2026-08-22T16:51:48Z I built a desktop app in Python (PySide6 + MediaPipe + ONNX, ~33k lines) and shipped it to real beta..."
   }
 }
