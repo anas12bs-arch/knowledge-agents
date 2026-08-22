@@ -460122,5 +460122,79 @@
       "interference"
     ],
     "summary": "# Pentagon dismisses Stars and Stripes leadership after opposition to interference > Source: hackernews | Category: news | 2026-08-21T23:40:59Z Score: 7 | Comments: 0"
+  },
+  "b3f4d3061cf090b8": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_4_0-canary_1_c5a3442793.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.4.0-canary.1 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.1",
+    "keywords": [
+      "adapters entry page lists",
+      "remove generated error codes",
+      "1 ### misc changes",
+      "fix parallelroutekey parameter name",
+      "turbopack ): give eager",
+      "upper stale bound",
+      "scoped execution primitive",
+      "clarify beforeinteractive placement",
+      "children pages twice",
+      "avoid cloning paths"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-21T23:58:32Z - docs: fix parallelRouteKey parameter name in useSelectedLayoutSegment(s): #97710 - Turbopack: Avoid cloning paths in fs watcher if the path is already in a map: #97655 - Remove generated error codes: #97687 - [PPF] Instant validation for unstable_navigation(): #97309 - Turbopack: trace graceful-fs calls: #97694 - Migrate some async blocks to async closures: #97666 - turbo-tasks: add scope_unbounded, a scoped execution primi"
+  },
+  "323514554a5d1134": {
+    "file": "corpus/hackernews/sites_duke_edu_thefinregblog_2026_08_03_paul-atkins-misreads_73ea59b67b.md",
+    "source": "hackernews",
+    "title": "Paul Atkins Misreads Adam Smith and the American Founding",
+    "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+    "keywords": [
+      "american founding",
+      "american founding",
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Paul Atkins Misreads Adam Smith and the American Founding > Source: hackernews | Category: news | 2026-08-21T23:57:35Z Score: 3 | Comments: 0"
+  },
+  "2b32766b5383256d": {
+    "file": "corpus/hackernews/dev_profullstack_com_anthony_blog_016-post_html_e924931fc2.md",
+    "source": "hackernews",
+    "title": "A retired tire engineer and 48,933 other feeds",
+    "url": "https://dev.profullstack.com/~anthony/blog/016-post.html",
+    "keywords": [
+      "retired tire engineer",
+      "retired tire engineer",
+      "37z score",
+      "source",
+      "news",
+      "hackernews",
+      "feeds",
+      "feeds",
+      "comments",
+      "category"
+    ],
+    "summary": "# A retired tire engineer and 48,933 other feeds > Source: hackernews | Category: news | 2026-08-21T23:57:37Z Score: 12 | Comments: 0"
+  },
+  "de0bc90864d9da6d": {
+    "file": "corpus/hackernews/www_ams_org_journals_notices_202608_noti3386_noti3386_html_f9a22c631d.md",
+    "source": "hackernews",
+    "title": "A Call for Action: The 'Leiden Declaration on AI and Math",
+    "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
+    "keywords": [
+      "leiden declaration",
+      "leiden declaration",
+      "40z score",
+      "source",
+      "news",
+      "math",
+      "math",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Call for Action: The \"Leiden Declaration on AI and Math\" > Source: hackernews | Category: news | 2026-08-21T23:57:40Z Score: 7 | Comments: 1"
   }
 }
