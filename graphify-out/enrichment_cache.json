@@ -461272,5 +461272,43 @@
       "training"
     ],
     "summary": "# Training Is an Evil Concept. This post was originally published on the main website on Apr 16 2026. I am reposting it here for..."
+  },
+  "67e7014baebc3daa": {
+    "file": "corpus/devto/dev_to_wiseai_i-miss-the-pre-ai-mossad-agents-1ka1_58ddd0a647.md",
+    "source": "devto",
+    "title": "I miss the pre-AI Mossad agents.",
+    "url": "https://dev.to/wiseai/i-miss-the-pre-ai-mossad-agents-1ka1",
+    "keywords": [
+      "ai mossad agents",
+      "ai mossad agents",
+      "jul 16 2026",
+      "originally published",
+      "main website",
+      "2026",
+      "source",
+      "reposting",
+      "reactions",
+      "pre"
+    ],
+    "summary": "# I miss the pre-AI Mossad agents. This post was originally published on the main website on Jul 16 2026. I am reposting it here for..."
+  },
+  "afabbe2590ce24ba": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_linkedin-ai-code-review_utm_campa_d3e8483fdd.md",
+    "source": "engineering",
+    "title": "[infoq] AI Code Review at Scale: LinkedIn's Multi-Agent Approach",
+    "url": "https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "13z ai code review",
+      "ai code review",
+      "ai code review",
+      "treats code review",
+      "shelf ai reviewer",
+      "sergio de simone",
+      "linkedin engineers built",
+      "simply putting",
+      "signal feedback",
+      "relying solely"
+    ],
+    "summary": "# [infoq] AI Code Review at Scale: LinkedIn's Multi-Agent Approach At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organizationâ€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback."
   }
 }
