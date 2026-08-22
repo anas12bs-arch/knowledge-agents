@@ -461801,5 +461801,81 @@
       "hook"
     ],
     "summary": "# Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week > Source: hackernews | Category: news | 2026-08-22T12:45:04Z Score: 9 | Comments: 1"
+  },
+  "3478d45474241982": {
+    "file": "corpus/devto/dev_to_hexisteme_the-proxy-i-added-to-measure-tokens-tripled_50f02f6e8c.md",
+    "source": "devto",
+    "title": "The Proxy I Added to Measure Tokens Tripled Them",
+    "url": "https://dev.to/hexisteme/the-proxy-i-added-to-measure-tokens-tripled-them-4jk6",
+    "keywords": [
+      "textbook observer effect",
+      "requests small —",
+      "llm cost instrumentation",
+      "measure tokens tripled",
+      "measure tokens tripled",
+      "local capture proxy",
+      "measure exactly",
+      "silently disabled",
+      "proxy",
+      "proxy"
+    ],
+    "summary": "# The Proxy I Added to Measure Tokens Tripled Them > Source: devto | Category: news | 2026-08-22T13:20:25Z I built a local capture proxy to measure exactly what my coding-agent CLI sends per request, and the proxy itself silently disabled the lazy-loading that keeps those requests small — a textbook observer effect in LLM cost instrumentation."
+  },
+  "cc5c17cdb8203592": {
+    "file": "corpus/devto/dev_to_kristinz_your-llm-app-is-wasting-money-what-happens-w_fc1bed0624.md",
+    "source": "devto",
+    "title": "Your LLM App Is Wasting Money: What Happens When Users Close the Tab?",
+    "url": "https://dev.to/kristinz/your-llm-app-is-wasting-money-what-happens-when-users-close-the-tab-4k01",
+    "keywords": [
+      "distributed systems work .\"",
+      "ai chat application",
+      "wasting money",
+      "wasting money",
+      "users close",
+      "users close",
+      "user sends",
+      "llm app",
+      "llm app",
+      "tab"
+    ],
+    "summary": "# Your LLM App Is Wasting Money: What Happens When Users Close the Tab? You build an AI chat application. A user sends:   \"Explain how distributed systems work.\""
+  },
+  "fe8abd2e355a742a": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_named-pipes-under-att_018a1d09bc.md",
+    "source": "security",
+    "title": "[bleeping-comp] Named Pipes Under Attack: Securing Windows Interprocess Communication",
+    "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "keywords": [
+      "securing windows interprocess communication",
+      "securing windows interprocess communication",
+      "weak access controls",
+      "strict input validation",
+      "narrowly scoped privileges",
+      "expose privileged services",
+      "help secure named",
+      "19z named pipes",
+      "pipe communication",
+      "named pipes"
+    ],
+    "summary": "# [bleeping-comp] Named Pipes Under Attack: Securing Windows Interprocess Communication Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication."
+  },
+  "7c79ec0a926b32cf": {
+    "file": "corpus/sales/www_saastr_com_a-simple-4-part-test-to-know-if-youve-hired-t_b7a79935cb.md",
+    "source": "sales",
+    "title": "[saastr] A Simple 4 Part Test to Know If You’ve Hired the Right VP",
+    "url": "https://www.saastr.com/a-simple-4-part-test-to-know-if-youve-hired-the-right-vp/",
+    "keywords": [
+      "jason ... continue reading",
+      "simple 4 part test",
+      "simple 4 part test",
+      "simple 4 part test",
+      "good enough &# 8212",
+      "4 part test",
+      "4 part test",
+      "good enough vp",
+      "plate ?&# 8211",
+      "take part"
+    ],
+    "summary": "# [saastr] A Simple 4 Part Test to Know If You’ve Hired the Right VP A Simple 4 Part Test to Know If You’ve Hired the Right VP 4 part test: &#8211; who great did they hire in the first 60 days?&#8211; did their #1 key metric improve?&#8211; did they take part of the job off your plate?&#8211; does the team believe?"
   }
 }
