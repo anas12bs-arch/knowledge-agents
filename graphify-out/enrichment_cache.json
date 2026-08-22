@@ -463460,5 +463460,116 @@
       "hdr screens"
     ],
     "summary": "# Show HN: Make your logo extra bright on HDR screens Certain logos started standing out to me on LinkedIn as brighter&#x2F;whiter than everything else around them.<p>I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I&#x27;ve found that isn&#x27;t stripping them out, but of course you serve them up on your own site.<p>I worked with Claude Code to turn it into a little br"
+  },
+  "1bcb3ff53823d99b": {
+    "file": "corpus/devto/dev_to_bibekkakati_9-rag-techniques-that-actually-improve-re_cbe494723f.md",
+    "source": "devto",
+    "title": "9 RAG Techniques That Actually Improve Retrieval Quality",
+    "url": "https://dev.to/bibekkakati/9-rag-techniques-that-actually-improve-retrieval-quality-36jh",
+    "keywords": [
+      "query → retrieve ...",
+      "actually improve retrieval quality",
+      "actually improve retrieval quality",
+      "9 rag techniques",
+      "9 rag techniques",
+      "28z retrieval",
+      "simple pipeline",
+      "often described",
+      "augmented generation",
+      "rag"
+    ],
+    "summary": "# 9 RAG Techniques That Actually Improve Retrieval Quality > Source: devto | Category: news | 2026-08-22T20:25:28Z Retrieval-Augmented Generation (RAG) is often described as a simple pipeline:   Query → Retrieve..."
+  },
+  "0bdf8fdda81211d3": {
+    "file": "corpus/devto/dev_to_bibekkakati_engineering-reliable-ai-document-scanning_909400dc4f.md",
+    "source": "devto",
+    "title": "Engineering Reliable AI Document Scanning: Prompts and Schemas",
+    "url": "https://dev.to/bibekkakati/engineering-reliable-ai-document-scanning-prompts-and-schemas-16a6",
+    "keywords": [
+      "homestays usually involves",
+      "28z managing short",
+      "whatsapp ...",
+      "term rentals",
+      "chaotic mix",
+      "spreadsheets",
+      "source",
+      "schemas",
+      "schemas",
+      "reactions"
+    ],
+    "summary": "# Engineering Reliable AI Document Scanning: Prompts and Schemas > Source: devto | Category: news | 2026-08-22T20:25:28Z Managing short-term rentals and homestays usually involves a chaotic mix of spreadsheets, WhatsApp..."
+  },
+  "c138a284049ff76e": {
+    "file": "corpus/devto/dev_to_bibekkakati_building-a-multi-agent-ai-pipeline-with-m_62b8b6e392.md",
+    "source": "devto",
+    "title": "Building a Multi-Agent AI Pipeline with Mastra and TypeScript",
+    "url": "https://dev.to/bibekkakati/building-a-multi-agent-ai-pipeline-with-mastra-and-typescript-1fjk",
+    "keywords": [
+      "coordinates four ...",
+      "agent ai pipeline",
+      "agent ai pipeline",
+      "agent pipeline",
+      "ai feature",
+      "reliable multi",
+      "28z building",
+      "multi",
+      "multi",
+      "building"
+    ],
+    "summary": "# Building a Multi-Agent AI Pipeline with Mastra and TypeScript Building an AI feature is easy. Building a reliable multi-agent pipeline that coordinates four..."
+  },
+  "eda8942b6949ceb9": {
+    "file": "corpus/finance/techcrunch_com_2026_08_22_will-the-dojs-investigation-into-a_7df972bbb6.md",
+    "source": "finance",
+    "title": "[tc-venture] Will the DOJ’s investigation into a16z spook other VCs?",
+    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+    "keywords": [
+      "investigating startup board seats",
+      "latest episode",
+      "a16z spook",
+      "a16z spook",
+      "a16z spook",
+      "doj ’",
+      "doj ’",
+      "doj ’",
+      "doj",
+      "wonder"
+    ],
+    "summary": "# [tc-venture] Will the DOJ’s investigation into a16z spook other VCs? Will the DOJ’s investigation into a16z spook other VCs? On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats."
+  },
+  "433fb3cc468e971e": {
+    "file": "corpus/hackernews/programasweights_com_claudish_82bff146e2.md",
+    "source": "hackernews",
+    "title": "English ↔ Claudish Translator",
+    "url": "https://programasweights.com/claudish",
+    "keywords": [
+      "english ↔ claudish translator",
+      "english ↔ claudish translator",
+      "22z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# English ↔ Claudish Translator > Source: hackernews | Category: news | 2026-08-22T20:25:22Z Score: 5 | Comments: 1"
+  },
+  "a6501b3e9f64a16d": {
+    "file": "corpus/hackernews/forum_level1techs_com_t_why-your-local-llm-feels-dumber-than_53de3fca82.md",
+    "source": "hackernews",
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "keywords": [
+      "local llm feels dumber",
+      "local llm feels dumber",
+      "22z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "22t20"
+    ],
+    "summary": "# Why your local LLM feels dumber than it is > Source: hackernews | Category: news | 2026-08-22T20:25:22Z Score: 14 | Comments: 1"
   }
 }
