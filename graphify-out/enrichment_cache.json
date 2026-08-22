@@ -463930,5 +463930,119 @@
       "hackernews"
     ],
     "summary": "# AI Made Me Faster. I'm Not Sure It Made Me Better > Source: hackernews | Category: news | 2026-08-22T22:38:22Z"
+  },
+  "c803b61dbd4c1ed9": {
+    "file": "corpus/devto/dev_to_ilya_mozerov_867dbdd91feb_never-key-anything-on-a-red_e7845b859a.md",
+    "source": "devto",
+    "title": "Never key anything on a redaction placeholder",
+    "url": "https://dev.to/ilya_mozerov_867dbdd91feb/never-key-anything-on-a-redaction-placeholder-5e30",
+    "keywords": [
+      "never key anything",
+      "never key anything",
+      "log scrubber sits",
+      "shared log",
+      "redaction placeholder",
+      "redaction placeholder",
+      "last week",
+      "job ...",
+      "every writer",
+      "source"
+    ],
+    "summary": "# Never key anything on a redaction placeholder A log scrubber sits between every writer and the shared log on my machine. Last week it did its job..."
+  },
+  "52cc887573a30b17": {
+    "file": "corpus/devto/dev_to_mohit_modi_e86a932fb11e61_correlation-is-pairwise-mul_4ba332cd7e.md",
+    "source": "devto",
+    "title": "Correlation Is Pairwise. Multicollinearity Isn't.",
+    "url": "https://dev.to/mohit_modi_e86a932fb11e61/correlation-is-pairwise-multicollinearity-isnt-2970",
+    "keywords": [
+      "line example showing",
+      "three",
+      "source",
+      "reactions",
+      "pairwise",
+      "pairwise",
+      "news",
+      "multicollinearity",
+      "multicollinearity",
+      "devto"
+    ],
+    "summary": "# Correlation Is Pairwise. > Source: devto | Category: news | 2026-08-22T22:55:39Z A three-line example showing why the 0.8 heatmap rule misses real multicollinearity."
+  },
+  "da2ed05795f73d95": {
+    "file": "corpus/devto/dev_to_amishkumar1211_the-docker-layer-duplication-penalty-w_0354575e34.md",
+    "source": "devto",
+    "title": "The Docker Layer Duplication Penalty: Why Modifying Files in Old Layers Costs You Twice",
+    "url": "https://dev.to/amishkumar1211/the-docker-layer-duplication-penalty-why-modifying-files-in-old-layers-costs-you-twice-2bli",
+    "keywords": [
+      "docker layer duplication penalty",
+      "docker layer duplication penalty",
+      "old layers costs",
+      "old layers costs",
+      "39z ever noticed",
+      "engineer docker",
+      "modifying files",
+      "modifying files",
+      "container footprint",
+      "twice"
+    ],
+    "summary": "# The Docker Layer Duplication Penalty: Why Modifying Files in Old Layers Costs You Twice Ever noticed how a simple RUN chown command blows up your container footprint? Let's reverse-engineer Docker's layer engine using live terminal metrics."
+  },
+  "443febe5ee2f524b": {
+    "file": "corpus/devto/dev_to_priyasundaram_your-django-haystack-whoosh-backend-bre_4daa504d65.md",
+    "source": "devto",
+    "title": "Your django-haystack Whoosh backend breaks on Python 3.13 — here's the one-line fix",
+    "url": "https://dev.to/priyasundaram/your-django-haystack-whoosh-backend-breaks-on-python-313-heres-the-one-line-fix-7gg",
+    "keywords": [
+      "whoosh package haystack installs",
+      "haystack whoosh backend breaks",
+      "haystack whoosh backend breaks",
+      "python 3",
+      "python 3",
+      "line fix",
+      "line fix",
+      "cgi module",
+      "calls cgi",
+      "39z tl"
+    ],
+    "summary": "# Your django-haystack Whoosh backend breaks on Python 3.13 — here's the one-line fix TL;DR: The Whoosh package Haystack installs is from 2016 and calls cgi.escape. The cgi module was..."
+  },
+  "eeb4abb3182ac03a": {
+    "file": "corpus/devto/dev_to_zain_nadeem_dev_cve-2026-73228-request-parsing-size-l_3106e2efa9.md",
+    "source": "devto",
+    "title": "CVE-2026-73228: Request Parsing Size-Limit Bypass in Django REST Framework",
+    "url": "https://dev.to/zain_nadeem_dev/cve-2026-73228-request-parsing-size-limit-bypass-in-django-rest-framework-1ll",
+    "keywords": [
+      "request parsing size",
+      "request parsing size",
+      "django rest framework",
+      "django rest framework",
+      "much request",
+      "39z django",
+      "data_upload_max_memory_size setting",
+      "body data",
+      "limit bypass",
+      "limit bypass"
+    ],
+    "summary": "# CVE-2026-73228: Request Parsing Size-Limit Bypass in Django REST Framework > Source: devto | Category: news | 2026-08-22T22:55:39Z Django's DATA_UPLOAD_MAX_MEMORY_SIZE setting is designed to limit how much request-body data is..."
+  },
+  "c78a91c44936917e": {
+    "file": "corpus/hackernews/github_com_blanham_qemu-NeXT_906d717c8a.md",
+    "source": "hackernews",
+    "title": "QEMU, now with almost full NeXT Black/M68K hardware support",
+    "url": "https://github.com/blanham/qemu-NeXT",
+    "keywords": [
+      "almost full next black",
+      "almost full next black",
+      "m68k hardware support",
+      "m68k hardware support",
+      "37z score",
+      "source",
+      "qemu",
+      "qemu",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# QEMU, now with almost full NeXT Black/M68K hardware support > Source: hackernews | Category: news | 2026-08-22T22:55:37Z Score: 5 | Comments: 0"
   }
 }
