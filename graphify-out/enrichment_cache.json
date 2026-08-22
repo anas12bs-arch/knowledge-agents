@@ -464156,5 +464156,62 @@
       "category"
     ],
     "summary": "# NanoGPT Speedrun Frontier > Source: hackernews | Category: news | 2026-08-22T23:33:47Z Score: 6 | Comments: 0"
+  },
+  "99ffc88be27e224c": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_4_0-canary_2_35038b0c2c.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.4.0-canary.2 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.2",
+    "keywords": [
+      "2 ### misc changes",
+      "constructing backend storage",
+      "js — v16",
+      "12z ## vercel",
+      "js v16",
+      "js v16",
+      "2 released",
+      "2 released",
+      "options struct",
+      "vercel"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-22T23:51:12Z - introduce an options struct for constructing backend storage: #97284 Huge thanks to @lukesandberg for helping!"
+  },
+  "d291c1088bc9e47f": {
+    "file": "corpus/devto/dev_to_booyaka101_eslint-plugin-jsx-a11y-says-it-doesnt-supp_f7454c8fe5.md",
+    "source": "devto",
+    "title": "eslint-plugin-jsx-a11y says it doesn't support ESLint 10. It does.",
+    "url": "https://dev.to/booyaka101/eslint-plugin-jsx-a11y-says-it-doesnt-support-eslint-10-it-does-380f",
+    "keywords": [
+      "support eslint 10",
+      "support eslint 10",
+      "peerdependencies \":",
+      "5 ||",
+      "4 ||",
+      "29z eslint",
+      "2 declares",
+      "a11y says",
+      "a11y says",
+      "6 ..."
+    ],
+    "summary": "# eslint-plugin-jsx-a11y says it doesn't support ESLint 10. > Source: devto | Category: news | 2026-08-22T23:50:29Z eslint-plugin-jsx-a11y@6.10.2 declares this:    \"peerDependencies\": { \"eslint\": \"^3 || ^4 || ^5 || ^6..."
+  },
+  "94f8c8a4a446ea50": {
+    "file": "corpus/hackernews/bactra_org_reviews_wolfram_bef61c7f29.md",
+    "source": "hackernews",
+    "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+    "url": "https://bactra.org/reviews/wolfram/",
+    "keywords": [
+      "monster raving egomania",
+      "monster raving egomania",
+      "stephen wolfram",
+      "stephen wolfram",
+      "new kind",
+      "new kind",
+      "24z score",
+      "source",
+      "science",
+      "science"
+    ],
+    "summary": "# A New Kind of Science by Stephen Wolfram: Monster Raving Egomania > Source: hackernews | Category: news | 2026-08-22T23:50:24Z Score: 13 | Comments: 6"
   }
 }
