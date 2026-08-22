@@ -461215,5 +461215,43 @@
       "hackernews"
     ],
     "summary": "# Silicon Valley Executives Are Tech Fans. Just Not for Their Kids > Source: hackernews | Category: news | 2026-08-22T07:19:37Z"
+  },
+  "8fb19f185f4264cd": {
+    "file": "corpus/hackernews/www_docker_com_blog_reproducible-esp32-firmware-development-_8d6bdc0b84.md",
+    "source": "hackernews",
+    "title": "ESP32 Firmware Development with Docker Sandboxes",
+    "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+    "keywords": [
+      "esp32 firmware development",
+      "esp32 firmware development",
+      "docker sandboxes",
+      "docker sandboxes",
+      "39z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# ESP32 Firmware Development with Docker Sandboxes > Source: hackernews | Category: news | 2026-08-22T08:04:39Z Score: 8 | Comments: 2"
+  },
+  "bf8c91093de16b54": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_aws-bench-agent-evaluation_utm_ca_77b09803d8.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks",
+    "url": "https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "37z aws releases aws",
+      "aws releases aws",
+      "aws releases aws",
+      "disposable aws accounts",
+      "uses real resources",
+      "unlike traditional benchmarks",
+      "scoring agent performance",
+      "real aws tasks",
+      "evaluating ai agents",
+      "cloud tasks aws"
+    ],
+    "summary": "# [infoq] AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks Unlike traditional benchmarks, it uses real resources in disposable AWS accounts, scoring agent performance through automated verifiers."
   }
 }
