@@ -462348,5 +462348,100 @@
       "browser engine"
     ],
     "summary": "# [infoq] Cloudflare Announces Kitesurf, a Browser Engine for Agents Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads. Kitesurf runs browser components in isolated WebAssembly/Rust environments on Cloudflare Workers and supports the Chrome DevTools Protocol, allowing tools such as Playwright and Puppeteer to drive it with lower resource overhead than a full Chromium browser."
+  },
+  "e523538e5d7d241d": {
+    "file": "corpus/devto/dev_to_dehemi_fabio_the-devops-roadmap-i-wish-someone-had-ha_cd2533e07d.md",
+    "source": "devto",
+    "title": "The DevOps Roadmap I Wish Someone Had Handed Me on Day One",
+    "url": "https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m",
+    "keywords": [
+      "software engineering student",
+      "wish someone",
+      "wish someone",
+      "last ...",
+      "devops roadmap",
+      "devops roadmap",
+      "day one",
+      "day one",
+      "16 months",
+      "source"
+    ],
+    "summary": "# The DevOps Roadmap I Wish Someone Had Handed Me on Day One > Source: devto | Category: news | 2026-08-22T15:38:08Z I'm a software engineering student, about 16 months out from graduation, and somewhere in the last..."
+  },
+  "2fb078235124e9b6": {
+    "file": "corpus/devto/dev_to_hexisteme_same-bytes-20-fewer-tokens-token-counts-are_b0eddfe505.md",
+    "source": "devto",
+    "title": "Same Bytes, 20% Fewer Tokens: Token Counts Are Model-Scoped",
+    "url": "https://dev.to/hexisteme/same-bytes-20-fewer-tokens-token-counts-are-model-scoped-4bof",
+    "keywords": [
+      "agent requests differed",
+      "08z two sub",
+      "fewer input tokens",
+      "fewer tokens",
+      "fewer tokens",
+      "token counts",
+      "token counts",
+      "token count",
+      "request —",
+      "billed 20"
+    ],
+    "summary": "# Same Bytes, 20% Fewer Tokens: Token Counts Are Model-Scoped > Source: devto | Category: news | 2026-08-22T15:38:08Z Two sub-agent requests differed by 0.3% in bytes but were billed 20.1% fewer input tokens on the smaller model, which means a token count isn't a property of a request — it's a property of the (request, model) pair."
+  },
+  "694857243a972d43": {
+    "file": "corpus/devto/dev_to_davorg_why-i-built-amazon-store-so-i-dont-have-to-pic_e64d07ecc0.md",
+    "source": "devto",
+    "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
+    "url": "https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95",
+    "keywords": [
+      "built amazon store",
+      "built amazon store",
+      "mercurial albums",
+      "source",
+      "run",
+      "readabooker",
+      "reactions",
+      "pick",
+      "pick",
+      "news"
+    ],
+    "summary": "# Why I Built Amazon Store (So I Don't Have to Pick a Country) > Source: devto | Category: news | 2026-08-22T15:38:09Z I run a handful of small content sites — Perl School, Readabooker, Mercurial Albums, and a few..."
+  },
+  "57beb55e3e9df67a": {
+    "file": "corpus/devto/dev_to_kyungju_leebenjie_519b_two-versions-of-pdfjs-in-one-b_3ead3216be.md",
+    "source": "devto",
+    "title": "Two versions of pdf.js in one bundle: what SVG export actually costs",
+    "url": "https://dev.to/kyungju_leebenjie_519b/two-versions-of-pdfjs-in-one-bundle-what-svg-export-actually-costs-56j2",
+    "keywords": [
+      "svg export actually costs",
+      "svg export actually costs",
+      "two versions",
+      "two versions",
+      "one bundle",
+      "one bundle",
+      "ai file",
+      "pdf container",
+      "pdf",
+      "pdf"
+    ],
+    "summary": "# Two versions of pdf.js in one bundle: what SVG export actually costs A PDF-compatible .ai file is a PDF container, so pdf.js can open it. I use it for exactly that:..."
+  },
+  "800aca86e1b81ee7": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_ep223-ollama-vs-vllm-vs-sglang_74316c70dd.md",
+    "source": "engineering",
+    "title": "[bytebytego] EP223: Ollama vs vLLM vs SGLang",
+    "url": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
+    "keywords": [
+      "engine handles requests differently",
+      "three main options",
+      "weight models",
+      "use open",
+      "02z ep223",
+      "ep223",
+      "ep223",
+      "vllm",
+      "source",
+      "sglang"
+    ],
+    "summary": "# [bytebytego] EP223: Ollama vs vLLM vs SGLang To use open-weight models on your machine, you have three main options: Ollama, vLLM, and SGLang. But each engine handles requests differently."
   }
 }
