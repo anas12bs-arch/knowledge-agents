@@ -468402,5 +468402,62 @@
       "securing"
     ],
     "summary": "# MCP in practice: building, securing, and serving Model Context Protocol servers > Source: devto | Category: news | 2026-08-23T22:43:18Z Three real projects on what it takes to build an MCP server, scope it per client, and scan it before an agent finds the holes."
+  },
+  "750d85a4eb881f18": {
+    "file": "corpus/hackernews/schlarp_com_posts_everything-i-own-owned_a895c739bf.md",
+    "source": "hackernews",
+    "title": "Everything I own, owned",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "keywords": [
+      "05z score",
+      "source",
+      "owned",
+      "owned",
+      "news",
+      "hackernews",
+      "everything",
+      "everything",
+      "comments",
+      "category"
+    ],
+    "summary": "# Everything I own, owned > Source: hackernews | Category: news | 2026-08-23T22:59:05Z Score: 8 | Comments: 1"
+  },
+  "953983929eb3c89d": {
+    "file": "corpus/hackernews/hugodaniel_com_posts_declarative-webgpu-with-s-expressions_ac4e51d0ef.md",
+    "source": "hackernews",
+    "title": "Declarative WebGPU with S-Expressions",
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "keywords": [
+      "declarative webgpu",
+      "declarative webgpu",
+      "09z score",
+      "source",
+      "news",
+      "hackernews",
+      "expressions",
+      "expressions",
+      "comments",
+      "category"
+    ],
+    "summary": "# Declarative WebGPU with S-Expressions > Source: hackernews | Category: news | 2026-08-23T22:59:09Z Score: 3 | Comments: 0"
+  },
+  "590f48622eb3fc89": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cloudflare-os-ai-platform-secure__10bb63e02a.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "complex use cases within",
+      "output work artifacts grounded",
+      "customizable work software",
+      "optimized token cost",
+      "automate repetitive workflows",
+      "allows enterprise teams",
+      "secure sandboxed model",
+      "sourced cloudflare os",
+      "06z cloudflare os",
+      "enterprise knowledge"
+    ],
+    "summary": "# [infoq] Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model It allows enterprise teams to output work artifacts grounded in enterprise knowledge, know-how, and provisioned connectors, automate repetitive workflows with optimized token cost (with AI assistance only where needed), and build personal, shareable, customizable work software that caters to speci"
   }
 }
