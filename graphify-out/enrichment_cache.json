@@ -464665,5 +464665,172 @@
       "vulnerability"
     ],
     "summary": "# [infoq] DRAM Controller Register Manipulation Breaks CPU Memory Isolation Security researcher Christopher Domas developed skitter-creek-bath-salts, an open-source hardware security tool that disrupts CPU privilege boundaries by manipulating memory controller translation registers. This allows unprivileged software to access protected memory regions, revealing a vulnerability in modern processor architectures that could affect cloud and confidential computing security."
+  },
+  "9753a1d05e6a10c3": {
+    "file": "corpus/hackernews/www_cnbc_com_2026_08_03_palantir-karp-open-ai-anthropic-open_79fa8d49ef.md",
+    "source": "hackernews",
+    "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "keywords": [
+      "drug addict us",
+      "drug addict us",
+      "12z score",
+      "trying",
+      "trying",
+      "source",
+      "palantir",
+      "palantir",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Palantir's Karp – frontier AI labs that are 'trying to drug addict us' > Source: hackernews | Category: news | 2026-08-23T04:52:12Z Score: 6 | Comments: 1"
+  },
+  "e2c0aecb436b1d42": {
+    "file": "corpus/hackernews/henry_codes_writing_i-dream-of-quieter-computing_7f6c265bb8.md",
+    "source": "hackernews",
+    "title": "I Dream of Quieter Computing",
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "keywords": [
+      "quieter computing",
+      "quieter computing",
+      "08z score",
+      "source",
+      "news",
+      "hackernews",
+      "dream",
+      "dream",
+      "comments",
+      "category"
+    ],
+    "summary": "# I Dream of Quieter Computing > Source: hackernews | Category: news | 2026-08-23T04:52:08Z Score: 10 | Comments: 0"
+  },
+  "44cac5bd15cfe3eb": {
+    "file": "corpus/hackernews/www_bleepingcomputer_com_news_microsoft_microsoft-blames-win_68f7c56418.md",
+    "source": "hackernews",
+    "title": "Microsoft Blames Windows Gaming Issues on RGB Lighting Devices",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+    "keywords": [
+      "rgb lighting devices",
+      "rgb lighting devices",
+      "11z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Microsoft Blames Windows Gaming Issues on RGB Lighting Devices > Source: hackernews | Category: news | 2026-08-23T04:52:11Z Score: 8 | Comments: 0"
+  },
+  "af2a045e72ac70fd": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_08_23_world_europe_poland-estonia-crypt_ee61f68cc0.md",
+    "source": "hackernews",
+    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+    "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "keywords": [
+      "crypto boss went missing",
+      "crypto boss went missing",
+      "four years ago",
+      "four years ago",
+      "11z score",
+      "successor",
+      "successor",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has > Source: hackernews | Category: news | 2026-08-23T04:52:11Z"
+  },
+  "9c748202253276a5": {
+    "file": "corpus/hackernews/nappertime_com_the-golden-rule-of-becoming-a-better-writer_7dc96f5725.md",
+    "source": "hackernews",
+    "title": "The Golden Rule for Becoming a Better Writer",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "keywords": [
+      "golden rule",
+      "golden rule",
+      "better writer",
+      "better writer",
+      "09z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Golden Rule for Becoming a Better Writer > Source: hackernews | Category: news | 2026-08-23T04:52:09Z Score: 5 | Comments: 1"
+  },
+  "c976471ea673d94f": {
+    "file": "corpus/hackernews/hnrss_github_io_e7a172dbbc.md",
+    "source": "hackernews",
+    "title": "Hacker News RSS",
+    "url": "https://hnrss.github.io/",
+    "keywords": [
+      "hacker news rss",
+      "hacker news rss",
+      "13z score",
+      "news",
+      "source",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Hacker News RSS > Source: hackernews | Category: news | 2026-08-23T04:52:13Z Score: 4 | Comments: 0"
+  },
+  "75454e8f44806ef5": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49405520_d82b7b553d.md",
+    "source": "hackernews",
+    "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+    "url": "https://news.ycombinator.com/item?id=49405520",
+    "keywords": [
+      "ai generate super mario",
+      "ai generate super mario",
+      "build geometry directly —",
+      "3d spatial reasoning llms",
+      "mesh vs b",
+      "turn 3d modeling",
+      "small engine —",
+      "agent write python",
+      "zhuchaokn &# x2f",
+      "print &# x2f"
+    ],
+    "summary": "# Why can AI generate Super Mario but not a wedge ramp for my robot vacuum? I tried having an agent write Python to build geometry directly — it tops out at simple primitives. I break a complex part into ordered, grouped steps, describe each as a small spec, and let an agent execute them in Blender (via blender-mcp)."
+  },
+  "2446f5d64d21231e": {
+    "file": "corpus/hackernews/martypc_net_b74e234518.md",
+    "source": "hackernews",
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "url": "https://martypc.net/",
+    "keywords": [
+      "early pcs written",
+      "early pcs written",
+      "platform emulator",
+      "platform emulator",
+      "08z score",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "martypc"
+    ],
+    "summary": "# MartyPC is a cross-platform emulator of early PCs written in Rust > Source: hackernews | Category: news | 2026-08-23T04:52:08Z Score: 21 | Comments: 0"
+  },
+  "0583084d0c0fb050": {
+    "file": "corpus/hackernews/www_economist_com_united-states_2026_08_20_the-real-covid-19_8e4c3826c2.md",
+    "source": "hackernews",
+    "title": "The Covid-19 scandal is still unfolding",
+    "url": "https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding",
+    "keywords": [
+      "still unfolding",
+      "still unfolding",
+      "19 scandal",
+      "19 scandal",
+      "10z score",
+      "source",
+      "news",
+      "hackernews",
+      "covid",
+      "covid"
+    ],
+    "summary": "# The Covid-19 scandal is still unfolding > Source: hackernews | Category: news | 2026-08-23T04:52:10Z Score: 6 | Comments: 0"
   }
 }
