@@ -464589,5 +464589,81 @@
       "12 languages"
     ],
     "summary": "# The multilingual bugs that never throw: hreflang, JSON-LD and a site in 12 languages > Source: devto | Category: news | 2026-08-23T03:35:05Z I run a search engine that publishes in twelve languages from one static site on Cloudflare Pages...."
+  },
+  "97ca99a482a63f50": {
+    "file": "corpus/devto/dev_to_aah20_i-found-a-confirmed-bug-in-the-official-mcp-sdk_516db8780a.md",
+    "source": "devto",
+    "title": "I found a confirmed bug in the official MCP SDK while building a red-team tool for it",
+    "url": "https://dev.to/aah20/i-found-a-confirmed-bug-in-the-official-mcp-sdk-while-building-a-red-team-tool-for-it-18om",
+    "keywords": [
+      "10z model context protocol",
+      "last fourteen months",
+      "official mcp sdk",
+      "official mcp sdk",
+      "team tool",
+      "team tool",
+      "rough year",
+      "cvss 9",
+      "confirmed bug",
+      "confirmed bug"
+    ],
+    "summary": "# I found a confirmed bug in the official MCP SDK while building a red-team tool for it > Source: devto | Category: news | 2026-08-23T04:13:10Z Model Context Protocol (MCP) is having a rough year."
+  },
+  "158cdcda3f106e3c": {
+    "file": "corpus/devto/dev_to_arqamwd_i-wrote-the-privacy-rule-enforced-it-commente_e95bdf18d5.md",
+    "source": "devto",
+    "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
+    "url": "https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g",
+    "keywords": [
+      "scrubbing policy ...",
+      "summer bug smash",
+      "smash stories",
+      "privacy rule",
+      "privacy rule",
+      "leak anyway",
+      "leak anyway",
+      "wrote",
+      "wrote",
+      "wrote"
+    ],
+    "summary": "# I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway This is a submission for DEV's Summer Bug Smash: Smash Stories. I wrote a scrubbing policy..."
+  },
+  "7edc4eac7871ce3a": {
+    "file": "corpus/hackernews/nappertime_com_the-art-of-and-beauty-of-blade-runner_01d473cac2.md",
+    "source": "hackernews",
+    "title": "The Art and Beauty of Blade Runner",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "keywords": [
+      "blade runner",
+      "blade runner",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "beauty",
+      "beauty"
+    ],
+    "summary": "# The Art and Beauty of Blade Runner > Source: hackernews | Category: news | 2026-08-23T04:13:01Z Score: 12 | Comments: 4"
+  },
+  "b27473ab4a60503f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_amd-memory-exploit_utm_campaign_i_bdbc0e34a8.md",
+    "source": "engineering",
+    "title": "[infoq] DRAM Controller Register Manipulation Breaks CPU Memory Isolation",
+    "url": "https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "disrupts cpu privilege boundaries",
+      "access protected memory regions",
+      "source hardware security tool",
+      "confidential computing security",
+      "modern processor architectures",
+      "could affect cloud",
+      "allows unprivileged software",
+      "olimpiu pop",
+      "source",
+      "vulnerability"
+    ],
+    "summary": "# [infoq] DRAM Controller Register Manipulation Breaks CPU Memory Isolation Security researcher Christopher Domas developed skitter-creek-bath-salts, an open-source hardware security tool that disrupts CPU privilege boundaries by manipulating memory controller translation registers. This allows unprivileged software to access protected memory regions, revealing a vulnerability in modern processor architectures that could affect cloud and confidential computing security."
   }
 }
