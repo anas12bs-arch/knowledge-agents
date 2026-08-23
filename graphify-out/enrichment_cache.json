@@ -466302,5 +466302,193 @@
       "row appears"
     ],
     "summary": "Your Contact Form Has Been Dead for Three Days. A lead form produced zero submissions for three days while the uptime monitor stayed green. Four ways a site can be broken and still answer 200, and the four checks I run now instead of pinging the homepage: walk every route, assert content, diff the error log across deploys, and round-trip the form until a row appears."
+  },
+  "1fe28bc72261b9ec": {
+    "file": "corpus/devto/dev_to_arbabyousaf_modern-chrome-extension-engineering-maste_d2dfd70381.md",
+    "source": "devto",
+    "title": "Modern Chrome Extension Engineering: Master Manifest V3, Isolated Contexts, and Zero-Crash Architecture",
+    "url": "https://dev.to/arbabyousaf/modern-chrome-extension-engineering-master-manifest-v3-isolated-contexts-and-zero-crash-455j",
+    "keywords": [
+      "software development today ....",
+      "modern chrome extension engineering",
+      "modern chrome extension engineering",
+      "master manifest v3",
+      "master manifest v3",
+      "56z browser extensions",
+      "saas channel",
+      "powerful micro",
+      "isolated contexts",
+      "isolated contexts"
+    ],
+    "summary": "# Modern Chrome Extension Engineering: Master Manifest V3, Isolated Contexts, and Zero-Crash Architecture > Source: devto | Category: news | 2026-08-23T14:40:56Z Browser extensions are arguably the most powerful micro-SaaS channel in software development today...."
+  },
+  "f497f0df78bd0acc": {
+    "file": "corpus/devto/dev_to_mashhadi_idempotency-is-not-a-key-its-a-contract-534h_d5d903d91e.md",
+    "source": "devto",
+    "title": "Idempotency is not a key, it's a contract",
+    "url": "https://dev.to/mashhadi/idempotency-is-not-a-key-its-a-contract-534h",
+    "keywords": [
+      "worth remembering",
+      "still running",
+      "retry gets",
+      "promise lasts",
+      "first attempt",
+      "easy part",
+      "56z adding",
+      "key header",
+      "key",
+      "key"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-23T14:40:56Z Adding an Idempotency-Key header is the easy part. The contract is what counts as the same request, how long the promise lasts, what a retry gets while the first attempt is still running, and which failures are worth remembering."
+  },
+  "91050f1acef362f9": {
+    "file": "corpus/devto/dev_to_mukesh_13_your-ai-agent-doesnt-need-a-bigger-context-_5ed08605b2.md",
+    "source": "devto",
+    "title": "Your AI Agent Doesn't Need a Bigger Context Window. It Needs an Eviction Policy.",
+    "url": "https://dev.to/mukesh_13/your-ai-agent-doesnt-need-a-bigger-context-window-it-needs-an-eviction-policy-25g5",
+    "keywords": [
+      "weeks another framework ships",
+      "bigger context window",
+      "bigger context window",
+      "bigger context window",
+      "eviction policy",
+      "eviction policy",
+      "ai agent",
+      "ai agent",
+      "56z every",
+      "source"
+    ],
+    "summary": "# Your AI Agent Doesn't Need a Bigger Context Window. It Needs an Eviction Policy. Every few weeks another framework ships a bigger context window and someone declares agent memory..."
+  },
+  "a5623f4f687096f4": {
+    "file": "corpus/devto/dev_to_annaraokoduri_offlinesossystem-2bdp_94ac3cc48a.md",
+    "source": "devto",
+    "title": "Offline_SOS_System",
+    "url": "https://dev.to/annaraokoduri/offlinesossystem-2bdp",
+    "keywords": [
+      "serious car crash",
+      "link imagine getting",
+      "link github repository",
+      "remote ...",
+      "dev package",
+      "56z pub",
+      "source",
+      "reactions",
+      "offline_sos_system",
+      "offline_sos_system"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-23T14:40:56Z Pub.dev Package: Link GitHub Repository: Link Imagine getting into a serious car crash in a remote... Reactions: 20"
+  },
+  "c85c275f5a815051": {
+    "file": "corpus/devto/dev_to_rhuturaj_takle_testcontainers-real-dependencies-in-di_9b29a3c99d.md",
+    "source": "devto",
+    "title": "Testcontainers: Real Dependencies in Disposable Docker Containers",
+    "url": "https://dev.to/rhuturaj_takle/testcontainers-real-dependencies-in-disposable-docker-containers-49dg",
+    "keywords": [
+      "disposable docker containers",
+      "disposable docker containers",
+      "disposable docker containers",
+      "real dependencies",
+      "real dependencies",
+      "real dependencies",
+      "focused ,...",
+      "56z testcontainers",
+      "testcontainers",
+      "testcontainers"
+    ],
+    "summary": "# Testcontainers: Real Dependencies in Disposable Docker Containers > Source: devto | Category: news | 2026-08-23T14:40:56Z Testcontainers: Real Dependencies in Disposable Docker Containers   A focused,..."
+  },
+  "d81696e6f9e49d99": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_toxicpanda-android-ma_b423251955.md",
+    "source": "security",
+    "title": "[bleeping-comp] ToxicPanda Android malware uses VPN permissions to block Google Play",
+    "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "keywords": [
+      "toxicpanda android malware",
+      "new malicious functionality",
+      "block google play",
+      "block google play",
+      "block google play",
+      "167 remote commands",
+      "adding support",
+      "349 applications",
+      "targeting",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] ToxicPanda Android malware uses VPN permissions to block Google Play ToxicPanda Android malware uses VPN permissions to block Google Play The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands."
+  },
+  "f086dd537b631006": {
+    "file": "corpus/hackernews/www_theguardian_com_business_2026_aug_21_airbus-bows-remote-_056012f083.md",
+    "source": "hackernews",
+    "title": "Airbus bows to remote working demands after series of strikes",
+    "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
+    "keywords": [
+      "remote working demands",
+      "remote working demands",
+      "airbus bows",
+      "airbus bows",
+      "53z score",
+      "strikes",
+      "strikes",
+      "source",
+      "series",
+      "series"
+    ],
+    "summary": "# Airbus bows to remote working demands after series of strikes > Source: hackernews | Category: news | 2026-08-23T14:40:53Z Score: 4 | Comments: 1"
+  },
+  "fa6c542f0b0cdeb0": {
+    "file": "corpus/hackernews/sporks_space_2026_08_19_things-i-want-in-a-modern-relational_309c67c0a6.md",
+    "source": "hackernews",
+    "title": "Things I want in a modern relational query language",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "keywords": [
+      "modern relational query language",
+      "modern relational query language",
+      "48z score",
+      "want",
+      "want",
+      "things",
+      "things",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Things I want in a modern relational query language > Source: hackernews | Category: news | 2026-08-23T14:40:48Z Score: 5 | Comments: 0"
+  },
+  "e8b25e42b5546968": {
+    "file": "corpus/hackernews/bookdna_com_best-books_nonfiction-about-cults-scams-and-sche_c6404fb58b.md",
+    "source": "hackernews",
+    "title": "My favorite nonfiction books about cults, scams, and schemes",
+    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+    "keywords": [
+      "favorite nonfiction books",
+      "favorite nonfiction books",
+      "47z score",
+      "source",
+      "schemes",
+      "schemes",
+      "scams",
+      "scams",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# My favorite nonfiction books about cults, scams, and schemes > Source: hackernews | Category: news | 2026-08-23T14:40:47Z Score: 20 | Comments: 1"
+  },
+  "1627a46671a62783": {
+    "file": "corpus/hackernews/shkspr_mobi_blog_2026_08_death-to-px-long-live-ch_869ec081dd.md",
+    "source": "hackernews",
+    "title": "Death to px, long live ch",
+    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+    "keywords": [
+      "long live ch",
+      "long live ch",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "death",
+      "death"
+    ],
+    "summary": "# Death to px, long live ch > Source: hackernews | Category: news | 2026-08-23T14:40:49Z Score: 14 | Comments: 2"
   }
 }
