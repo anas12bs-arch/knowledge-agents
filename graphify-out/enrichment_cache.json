@@ -468345,5 +468345,62 @@
       "poor"
     ],
     "summary": "# Fixable Things That Make Life Harder for the Elderly, the Sick, and the Poor > Source: hackernews | Category: news | 2026-08-23T22:22:00Z Score: 11 | Comments: 0"
+  },
+  "3216c1fa5a9f10c2": {
+    "file": "corpus/devto/dev_to_bryanw_we-fixed-the-eval-platform-were-competing-on-a_799bcf620a.md",
+    "source": "devto",
+    "title": "We fixed the eval platform we're competing on: a TypeError that crashed three benchmark pipelines",
+    "url": "https://dev.to/bryanw/we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-three-benchmark-pipelines-35oj",
+    "keywords": [
+      "crashed three benchmark pipelines",
+      "crashed three benchmark pipelines",
+      "summer bug smash",
+      "pr :...",
+      "lineup powered",
+      "eval platform",
+      "eval platform",
+      "typeerror",
+      "typeerror",
+      "submission"
+    ],
+    "summary": "# We fixed the eval platform we're competing on: a TypeError that crashed three benchmark pipelines > Source: devto | Category: news | 2026-08-23T22:43:16Z This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry."
+  },
+  "986e8328e3f0e005": {
+    "file": "corpus/devto/dev_to_pagewright_your-amazon-scraper-is-returning-mixed-cur_194a3f3358.md",
+    "source": "devto",
+    "title": "Your Amazon scraper is returning mixed currencies and won't tell you",
+    "url": "https://dev.to/pagewright/your-amazon-scraper-is-returning-mixed-currencies-and-wont-tell-you-ohc",
+    "keywords": [
+      "fast one ip burns",
+      "16z amazon returns prices",
+      "returning mixed currencies",
+      "returning mixed currencies",
+      "four measured traps",
+      "amazon scraper",
+      "amazon scraper",
+      "never labels",
+      "tell",
+      "tell"
+    ],
+    "summary": "# Your Amazon scraper is returning mixed currencies and won't tell you Amazon returns prices in the currency of your proxy's country and never labels them. Four measured traps, including how fast one IP burns out."
+  },
+  "4d10d6c5831ab70a": {
+    "file": "corpus/devto/dev_to_royalpinto007_mcp-in-practice-building-securing-and-s_10c6769cd2.md",
+    "source": "devto",
+    "title": "MCP in practice: building, securing, and serving Model Context Protocol servers",
+    "url": "https://dev.to/royalpinto007/mcp-in-practice-building-securing-and-serving-model-context-protocol-servers-i36",
+    "keywords": [
+      "18z three real projects",
+      "per client",
+      "agent finds",
+      "mcp server",
+      "mcp",
+      "mcp",
+      "takes",
+      "source",
+      "securing",
+      "securing"
+    ],
+    "summary": "# MCP in practice: building, securing, and serving Model Context Protocol servers > Source: devto | Category: news | 2026-08-23T22:43:18Z Three real projects on what it takes to build an MCP server, scope it per client, and scan it before an agent finds the holes."
   }
 }
