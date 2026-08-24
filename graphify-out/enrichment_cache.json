@@ -473502,5 +473502,232 @@
       "hackernews"
     ],
     "summary": "# LLMs could control their host machines by exploiting inference engines > Source: hackernews | Category: news | 2026-08-24T19:37:36Z Score: 9 | Comments: 2"
+  },
+  "db7a1891503e2d01": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_4_0-canary_5_e34b6fe997.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.4.0-canary.5 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.5",
+    "keywords": [
+      "record fallback cache lifetime",
+      "allow needless late init",
+      "5 ### misc changes",
+      "response headers must",
+      "calling handle ()",
+      "blocking ppr routes",
+      "js — v16",
+      "56z ## vercel",
+      "js v16",
+      "js v16"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-24T20:01:56Z - Record fallback cache lifetime for blocking PPR routes: #97821 - Document catchError for the Pages Router: #97748 - clippy: allow needless late init where it makes sense: #96410 - Turbopack: emit/collect: #96631 - docs: note that response headers must be set before calling handle() in a custom server: #97693 - Deduplicate the regress, wat/wasmparser and base64 dependencies: #97762 - perf: split cold TurboMalloc accounting p"
+  },
+  "c15b4d9c96f0cacc": {
+    "file": "corpus/product/techcrunch_com_2026_08_24_amjad-masad-ceo-and-co-founder-of-_878545275d.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "keywords": [
+      "replit ceo amjad masad",
+      "55z amjad masad",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "amjad masad",
+      "amjad masad",
+      "disrupt stage",
+      "disrupt stage"
+    ],
+    "summary": "# [techcrunch-startups] Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+  },
+  "4206f4cd8d3e8030": {
+    "file": "corpus/product/techcrunch_com_2026_08_24_apply-now-to-host-a-side-event-at-_7e17e8f017.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Apply now to host a Side Event at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "keywords": [
+      "techcrunch disrupt 2026 apply",
+      "techcrunch disrupt 2026",
+      "techcrunch disrupt 2026",
+      "disrupt community",
+      "side event",
+      "side event",
+      "side event",
+      "side event",
+      "september 4",
+      "55z apply"
+    ],
+    "summary": "# [techcrunch-startups] Apply now to host a Side Event at TechCrunch Disrupt 2026 Apply now to host a Side Event at TechCrunch Disrupt 2026 Apply before September 4 to be a part of the Disrupt community by hosting your own Side Event."
+  },
+  "d4b33a8c0e37ca94": {
+    "file": "corpus/devto/dev_to_merlonix_ssl-certificate-name-mismatch-neterrcertcomm_89f9d6842c.md",
+    "source": "devto",
+    "title": "SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID",
+    "url": "https://dev.to/merlonix/ssl-certificate-name-mismatch-neterrcertcommonnameinvalid-5ak4",
+    "keywords": [
+      "ssl certificate name mismatch",
+      "ssl certificate name mismatch",
+      "server actually presents",
+      "net :: err_cert_common_name_invalid",
+      "net :: err_cert_common_name_invalid",
+      "net :: err_cert_common_name_invalid",
+      "browser still refuses",
+      "common name",
+      "signed —",
+      "san list"
+    ],
+    "summary": "# SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID The certificate is valid, unexpired, and CA-signed — and the browser still refuses it with NET::ERR_CERT_COMMON_NAME_INVALID, because it was issued for a different hostname than the one you typed. Why the Common Name no longer counts, the causes in the order they bite, and how to read the SAN list your server actually presents."
+  },
+  "7e77887a9f5705a0": {
+    "file": "corpus/devto/dev_to_brettryan_the-software-craftsmans-day-one-why-my-firs_136d931e04.md",
+    "source": "devto",
+    "title": "The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic",
+    "url": "https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g",
+    "keywords": [
+      "software craftsman ’",
+      "software craftsman ’",
+      "startup life",
+      "startup life",
+      "performance ...",
+      "made redundant",
+      "first week",
+      "first week",
+      "defined patterns",
+      "day one"
+    ],
+    "summary": "# The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic > Source: devto | Category: news | 2026-08-24T20:01:07Z Being made redundant from a position where I defined patterns and practices for a high-performance..."
+  },
+  "124eb3357e3be92e": {
+    "file": "corpus/devto/dev_to_merlonix_ssl-certificate-problem-unable-to-get-local-_77a8d09455.md",
+    "source": "devto",
+    "title": "SSL Certificate Problem: Unable to Get Local Issuer Certificate",
+    "url": "https://dev.to/merlonix/ssl-certificate-problem-unable-to-get-local-issuer-certificate-40ak",
+    "keywords": [
+      "get local issuer certificate",
+      "get local issuer certificate",
+      "incomplete certificate chain —",
+      "ssl certificate problem",
+      "ssl certificate problem",
+      "almost always means",
+      "server actually serves",
+      "chain",
+      "server",
+      "works"
+    ],
+    "summary": "It works in your browser and fails in curl, Node, or Python with \"unable to get local issuer certificate.\" That almost always means your server is sending an incomplete certificate chain — and the browser is hiding it. Why, the causes in the order they bite, and how to read the chain your server actually serves."
+  },
+  "76dd14f54dab6e05": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_environment-variables-now-use-config-an_72db16f554.md",
+    "source": "vercel-blog",
+    "title": "Environment variables now use Config and Secret types",
+    "url": "https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types",
+    "keywords": [
+      "10z environment variables",
+      "environment variables",
+      "environment variables",
+      "use config",
+      "use config",
+      "use config",
+      "secret types",
+      "secret types",
+      "secret types",
+      "vercel"
+    ],
+    "summary": "# Environment variables now use Config and Secret types > Source: vercel-blog | Category: news | 2026-08-24T20:01:10Z Environment variables now use Config and Secret types"
+  },
+  "a87913e89b0b0ec5": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_c62m4gpnp78o_53d975e083.md",
+    "source": "hackernews",
+    "title": "Oceans hit highest temperature on record",
+    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "keywords": [
+      "oceans hit highest temperature",
+      "oceans hit highest temperature",
+      "54z score",
+      "source",
+      "record",
+      "record",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Oceans hit highest temperature on record > Source: hackernews | Category: news | 2026-08-24T20:00:54Z Score: 43 | Comments: 8"
+  },
+  "9c21a9f95db50698": {
+    "file": "corpus/hackernews/www_neowin_net_news_qwen-36-is-now-much-easier-to-run-locall_b355a7d12f.md",
+    "source": "hackernews",
+    "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
+    "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
+    "keywords": [
+      "run locally",
+      "run locally",
+      "qwen 3",
+      "qwen 3",
+      "much easier",
+      "much easier",
+      "01z score",
+      "thanks",
+      "thanks",
+      "source"
+    ],
+    "summary": "# Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains > Source: hackernews | Category: news | 2026-08-24T20:01:01Z Score: 4 | Comments: 0"
+  },
+  "083ca8266fb4f322": {
+    "file": "corpus/hackernews/www_businessinsider_com_greg-abbott-texas-data-centers-backl_20ab36ab04.md",
+    "source": "hackernews",
+    "title": "Greg Abbott says data centers:'basically dug their own grave",
+    "url": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
+    "keywords": [
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "grave",
+      "grave",
+      "comments",
+      "category",
+      "24t20"
+    ],
+    "summary": "# Greg Abbott says data centers:'basically dug their own grave' > Source: hackernews | Category: news | 2026-08-24T20:01:05Z Score: 5 | Comments: 0"
+  },
+  "49976e96827bdb2e": {
+    "file": "corpus/hackernews/skimmiq_com_pt_756cabad51.md",
+    "source": "hackernews",
+    "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
+    "url": "https://skimmiq.com/pt/",
+    "keywords": [
+      "12 stickers slide around",
+      "year – cubers cracked",
+      "year – cubers cracked",
+      "240 moves using mostly",
+      "1vrq8zk &# x2f ;</",
+      "method &# x2f ;</",
+      "teachable method yet",
+      "r &# x2f",
+      "r &# x2f",
+      "r &# x2f"
+    ],
+    "summary": "I created a puzzle that looks like Rubik&#x27;s cube but works differently. Until this Tuesday when I showed it to r&#x2F;Cubers. It took them about an hour to find a solution."
+  },
+  "19b9915435052239": {
+    "file": "corpus/hackernews/github_com_l3a0_claude-plugins_89b2d0cc5d.md",
+    "source": "hackernews",
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "url": "https://github.com/l3a0/claude-plugins",
+    "keywords": [
+      "claude code skill",
+      "claude code skill",
+      "blocked kindle highlights",
+      "blocked kindle highlights",
+      "recovers export",
+      "recovers export",
+      "55z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A Claude Code skill that recovers export-blocked Kindle highlights > Source: hackernews | Category: news | 2026-08-24T20:00:55Z Score: 8 | Comments: 0"
   }
 }
