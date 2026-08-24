@@ -470920,5 +470920,288 @@
       "24t12"
     ],
     "summary": "# Omakase Computing > Source: hackernews | Category: news | 2026-08-24T12:00:32Z Score: 6 | Comments: 2"
+  },
+  "1aa75c222ec373fd": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_4_0-canary_4_fb9594b99d.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.4.0-canary.4 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.4",
+    "keywords": [
+      "remove unused return values",
+      "deflake basepath external navigation",
+      "adapters ): document assetshashes",
+      "compile conditional cell updates",
+      "migrate remaining async blocks",
+      "4 ### misc changes",
+      "add unit test coverage",
+      "per cell type",
+      "several param shapes",
+      "handlers types entrypoint"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-24T12:44:15Z - Add next/cache-handlers types entrypoint: #97592 - Remove unused return values from getPageStaticInfo: #97661 - [turbopack] defer NFT module content hashes: #97773 - test: deflake basePath external navigation: #97611 - docs(adapters): document assetsHashes and routing.middlewareMatchers: #96536 - Migrate remaining async blocks to async closures: #97701 - Turn off the adapter route collapses by default: #97774 - Serve a run "
+  },
+  "a8f5bab76c0d540b": {
+    "file": "corpus/legal/www_techdirt_com_2026_08_24_telecom-experts-say-elon-musks-w_09e5617539.md",
+    "source": "legal",
+    "title": "[techdirt] Telecom Experts Say Elon Musk’s Wireless Plan Is Historically Stupid",
+    "url": "https://www.techdirt.com/2026/08/24/telecom-experts-say-elon-musks-wireless-plan-is-historically-stupid/",
+    "keywords": [
+      "elon musk &# 8217",
+      "extremely high cost",
+      "[&# 8230 ;]",
+      "historically stupid earlier",
+      "&# 8217",
+      "&# 8217",
+      "historically stupid",
+      "historically stupid",
+      "wireless plan",
+      "wireless plan"
+    ],
+    "summary": "# [techdirt] Telecom Experts Say Elon Musk’s Wireless Plan Is Historically Stupid Telecom Experts Say Elon Musk’s Wireless Plan Is Historically Stupid I also noted that there&#8217;s a very long list of reasons why this isn&#8217;t likely to go well for him, ranging from the extremely high cost of network build-outs, to the [&#8230;]"
+  },
+  "46413bae15b66888": {
+    "file": "corpus/devto/dev_to_oceanviewgames_porting-a-20-year-old-game-to-mobile-l_76075ba856.md",
+    "source": "devto",
+    "title": "Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape",
+    "url": "https://dev.to/oceanviewgames/porting-a-20-year-old-game-to-mobile-lessons-from-runescape-1d1a",
+    "keywords": [
+      "running mmorpgs",
+      "old game",
+      "old game",
+      "first released",
+      "already ...",
+      "40z runescape",
+      "runescape",
+      "runescape",
+      "year",
+      "year"
+    ],
+    "summary": "# Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape RuneScape is one of the longest-running MMORPGs in history. First released in 2001, it had already..."
+  },
+  "98fb02614d5e4cf8": {
+    "file": "corpus/security/thehackernews_com_2026_08_operation-quicsilver-targets-myanm_647d7c3225.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+    "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+    "keywords": [
+      "quicagent backdoor cybersecurity researchers",
+      "go backdoor called quicagent",
+      "per seqrite labs",
+      "nexus threat actor",
+      "information technology sectors",
+      "codenamed operation quicsilver",
+      "quicagent backdoor",
+      "quicagent backdoor",
+      "target government",
+      "work"
+    ],
+    "summary": "# [hacker-news-sec] Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs."
+  },
+  "9b30d60e56804a6f": {
+    "file": "corpus/security/thehackernews_com_2026_08_critical-keycloak-password-reset-f_ecccd44f47.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+    "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+    "keywords": [
+      "unauthenticated remote attacker",
+      "cvss scoring system",
+      "access management server",
+      "critical security flaw",
+      "account red hat",
+      "red hat",
+      "released patches",
+      "rated 9",
+      "password reset",
+      "keycloak project"
+    ],
+    "summary": "# [hacker-news-sec] Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset."
+  },
+  "8249d88b5dff4463": {
+    "file": "corpus/security/thehackernews_com_2026_08_the-outsized-shadow-why-5-of-ai-us_88f21efe83.md",
+    "source": "security",
+    "title": "[hacker-news-sec] The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+    "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+    "keywords": [
+      "quietly hardcoding unvetted tools",
+      "enterprise security teams focus",
+      "quick drafting tasks",
+      "new research published",
+      "employees using chatgpt",
+      "critical business operations",
+      "biggest security risk",
+      "biggest security risk",
+      "enterprise power",
+      "urgent threat"
+    ],
+    "summary": "# [hacker-news-sec] The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations."
+  },
+  "78f0df3b6208bc9d": {
+    "file": "corpus/security/thehackernews_com_2026_08_shipping-more-ai-code-than-you-can_a17500170f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "keywords": [
+      "using ai coding tools",
+      "probably already seeing",
+      "less time spent",
+      "also introduce open",
+      "control remediation debt",
+      "control remediation debt",
+      "control remediation debt",
+      "remediation work",
+      "routine work",
+      "never built"
+    ],
+    "summary": "# [hacker-news-sec] Shipping More AI Code Than You Can Secure? If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. AI can also introduce open-source packages at a pace your security team was never built to handle."
+  },
+  "bd6970fcdf69e11f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-august-upd_a0a0d84fcc.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft: August updates break printing, PDF export in WPF apps",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+    "keywords": [
+      "net framework updates released",
+      "august updates break printing",
+      "august updates break printing",
+      "august updates break printing",
+      "august 2026 patch tuesday",
+      "wpf apps microsoft",
+      "breaking printing",
+      "wpf apps",
+      "wpf apps",
+      "wpf applications"
+    ],
+    "summary": "# [bleeping-comp] Microsoft: August updates break printing, PDF export in WPF apps Microsoft: August updates break printing, PDF export in WPF apps Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications."
+  },
+  "345ee04fbbbe95ef": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48290_india-set-to-tokenise-cor_f00b5fe32c.md",
+    "source": "finance",
+    "title": "[finextra] India set to tokenise corporate bond market - Reuters",
+    "url": "https://www.finextra.com/newsarticle/48290/india-set-to-tokenise-corporate-bond-market",
+    "keywords": [
+      "could enable instant settlement",
+      "tokenise corporate bond market",
+      "tokenise corporate bond market",
+      "tokenise corporate bond market",
+      "corporate bond market",
+      "finextra \"] date",
+      "[\" finance \",",
+      "33z india set",
+      "india set",
+      "india set"
+    ],
+    "summary": "# [finextra] India set to tokenise corporate bond market - Reuters India set to tokenise corporate bond market - Reuters India's corporate bond market is set to undergo its first use of tokenisation in a move that could enable instant settlement of transactions."
+  },
+  "ff85b8e22d589f7b": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49418675_f37dddc421.md",
+    "source": "hackernews",
+    "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
+    "url": "https://news.ycombinator.com/item?id=49418675",
+    "keywords": [
+      "corporate failures always seem",
+      "corporate failures always seem",
+      "good enough ).< p",
+      "always working .< p",
+      "also done .< p",
+      "15 years working tirelessly",
+      "certain people always manage",
+      "sac disaster .< p",
+      "new role .< p",
+      "caused yet another disaster"
+    ],
+    "summary": "My partner was let go after 15 years working tirelessly for one of the big five. She&#x27;s moved from IC to managing over 30 people and barely manages to use vacation days because she&#x27;s always working.<p>She was let go not because of her own incompetence, failure or not fitting in, but purely out of rushed budget cuts (budgets were finalized, finalized again, and then they realized it&#x27;s still not good enough).<p>The reason for those cuts, in this particular instance, was not the overw"
+  },
+  "3e410d5d0124cade": {
+    "file": "corpus/hackernews/proofcraft_systems_news-2026_2026-08-21_5d17f0f50a.md",
+    "source": "hackernews",
+    "title": "SeL4 security proofs now complete on AArch64",
+    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "keywords": [
+      "sel4 security proofs",
+      "sel4 security proofs",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "complete",
+      "complete",
+      "comments",
+      "category"
+    ],
+    "summary": "# SeL4 security proofs now complete on AArch64 > Source: hackernews | Category: news | 2026-08-24T12:43:32Z Score: 33 | Comments: 5"
+  },
+  "31cbd689d4788d2d": {
+    "file": "corpus/hackernews/code_joejag_com_2026_your-agent-is-not-the-model_html_2aa9703de3.md",
+    "source": "hackernews",
+    "title": "Agent Is Not the Model",
+    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "keywords": [
+      "34z score",
+      "source",
+      "news",
+      "model",
+      "model",
+      "hackernews",
+      "comments",
+      "category",
+      "agent",
+      "agent"
+    ],
+    "summary": "# Agent Is Not the Model > Source: hackernews | Category: news | 2026-08-24T12:43:34Z Score: 8 | Comments: 0"
+  },
+  "8742b05b2b60a0b1": {
+    "file": "corpus/hackernews/www_axios_com_2026_08_24_scoop-anthropic-candidates-face-blu_9246d1eab4.md",
+    "source": "hackernews",
+    "title": "Anthropic candidates face blunt money question",
+    "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+    "keywords": [
+      "35z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "24t12",
+      "2026"
+    ],
+    "summary": "# Anthropic candidates face blunt money question > Source: hackernews | Category: news | 2026-08-24T12:43:35Z Score: 12 | Comments: 11"
+  },
+  "1478022aa618f5f6": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_i-spent-20000-on-devin-in-a-month_efe5e0c536.md",
+    "source": "sales",
+    "title": "[lennys] I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+    "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+    "keywords": [
+      "&# 127897 ;&# 65039",
+      "solo founder",
+      "solo founder",
+      "solo founder",
+      "ryan carson",
+      "ryan carson",
+      "ryan carson",
+      "investor updates",
+      "handwritten list",
+      "handle engineering"
+    ],
+    "summary": "Here’s what I learned | Ryan Carson (solo founder) Here’s what I learned | Ryan Carson (solo founder) Watch now | &#127897;&#65039; Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight"
+  },
+  "047775dbe4021ffb": {
+    "file": "corpus/sales/www_saastr_com_the-top-reasons-i-saw-cros-flame-out-this-yea_476d5d0a71.md",
+    "source": "sales",
+    "title": "[saastr] The Top 5 Reasons I See CROs Flame Out",
+    "url": "https://www.saastr.com/the-top-reasons-i-saw-cros-flame-out-this-year/",
+    "keywords": [
+      "past 12 months across",
+      "top 5 reasons",
+      "top 5 reasons",
+      "top 5 reasons",
+      "see cros flame",
+      "see cros flame",
+      "see cros flame",
+      "10 cros leave",
+      "... continue reading",
+      "root cause"
+    ],
+    "summary": "# [saastr] The Top 5 Reasons I See CROs Flame Out The Top 5 Reasons I See CROs Flame Out I saw about 10 CROs leave or get fired the past 12 months across the startups I work with or have invested in at SaaStr Fund."
   }
 }
