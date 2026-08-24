@@ -474449,5 +474449,24 @@
       "runs"
     ],
     "summary": "# Bookshelf – Self-hosted eBook library that runs on object storage > Source: hackernews | Category: news | 2026-08-24T23:38:19Z Score: 4 | Comments: 0"
+  },
+  "e5e9364f14626538": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_4_0-canary_6_9587f8003a.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.4.0-canary.6 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.6",
+    "keywords": [
+      "record fallback cache lifetime",
+      "6 ### misc changes",
+      "sweep stale turbopack output",
+      "execute scheduled tasks inline",
+      "buffered synchronous io",
+      "js — v16",
+      "03z ## vercel",
+      "js v16",
+      "js v16",
+      "6 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-24T23:56:03Z - turbo-tasks: execute scheduled tasks inline when they are read: #96808 - Revert \"Record fallback cache lifetime for blocking PPR routes (#97821)\": #97835 - Sweep stale Turbopack output from distDir on dev startup: #97591 - Fix metadata prefetch cache key for search params: #97729 - Turbopack: Improve file existence error handling in realpath_with_links and in module resolution: #97717 - Write traces with buffered synchronou"
   }
 }
