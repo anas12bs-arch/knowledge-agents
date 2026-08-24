@@ -1,0 +1,18 @@
+---
+title: "[bleeping-comp] South Korean startup platform breach exposes key management failures"
+url: "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "bleeping-comp"]
+date: "2026-08-24T14:24:35Z"
+metadata:
+  {}
+---
+
+# [bleeping-comp] South Korean startup platform breach exposes key management failures
+
+> Source: security | Category: security | 2026-08-24T14:24:35Z
+
+South Korean startup platform breach exposes key management failures
+
+A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]
