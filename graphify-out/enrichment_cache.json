@@ -474241,5 +474241,137 @@
       "24t22"
     ],
     "summary": "# Moon > Source: hackernews | Category: news | 2026-08-24T22:58:31Z Score: 13 | Comments: 2"
+  },
+  "6c6a5eed0e8521f1": {
+    "file": "corpus/devto/dev_to_ahmed_mahmoud360_webhooks-in-the-nextjs-app-router-fi_8059194aab.md",
+    "source": "devto",
+    "title": "Webhooks in the Next.js App Router: Field Notes on Raw Bodies, Signature Verification, and Returning 200 Before the Work",
+    "url": "https://dev.to/ahmed_mahmoud360/webhooks-in-the-nextjs-app-router-field-notes-on-raw-bodies-signature-verification-and-1bc6",
+    "keywords": [
+      "js app router",
+      "js app router",
+      "raw request bytes",
+      "raw bodies",
+      "raw bodies",
+      "webhook signature",
+      "signature verification",
+      "signature verification",
+      "returning 200",
+      "returning 200"
+    ],
+    "summary": "# Webhooks in the Next.js App Router: Field Notes on Raw Bodies, Signature Verification, and Returning 200 Before the Work > Source: devto | Category: news | 2026-08-24T23:17:52Z Headline: A webhook signature is an HMAC computed over the raw request bytes, so a handler that..."
+  },
+  "26e1442bd258502f": {
+    "file": "corpus/devto/dev_to_saadahmad_my-4kb-react-package-was-installing-116-dep_784894e81f.md",
+    "source": "devto",
+    "title": "My 4KB React package was installing 116 dependencies. Here's what I found when I audited it.",
+    "url": "https://dev.to/saadahmad/my-4kb-react-package-was-installing-116-dependencies-heres-what-i-found-when-i-audited-it-47ig",
+    "keywords": [
+      "installing 116 dependencies",
+      "installing 116 dependencies",
+      "4kb react package",
+      "4kb react package",
+      "tiny scroll",
+      "stacking component",
+      "never knew",
+      "every person",
+      "entire bundler",
+      "actually read"
+    ],
+    "summary": "# My 4KB React package was installing 116 dependencies. I shipped a tiny scroll-stacking component to npm, then actually read my own package.json. It was shipping an entire bundler to every person who installed it — and four other bugs I never knew about."
+  },
+  "e4d96b17fc67de18": {
+    "file": "corpus/devto/dev_to_xiazai77_rendering-mp4-travel-videos-entirely-in-the-_4914e25b4a.md",
+    "source": "devto",
+    "title": "Rendering MP4 travel videos entirely in the browser with WebCodecs",
+    "url": "https://dev.to/xiazai77/rendering-mp4-travel-videos-entirely-in-the-browser-with-webcodecs-4cpl",
+    "keywords": [
+      "mp4 travel video —...",
+      "52z last month",
+      "web app",
+      "webcodecs",
+      "webcodecs",
+      "source",
+      "shipped",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Rendering MP4 travel videos entirely in the browser with WebCodecs > Source: devto | Category: news | 2026-08-24T23:17:52Z Last month I shipped a web app that turns Google Maps location history into an MP4 travel video —..."
+  },
+  "160e68ce2f45f98e": {
+    "file": "corpus/security/thehackernews_com_2026_08_weedhack-malware-spreads-via-fake__5b092ef633.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+    "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "keywords": [
+      "seo poisoning cybersecurity researchers",
+      "still actively distributing",
+      "mimic legitimate projects",
+      "mcafee labs said",
+      "malware family known",
+      "access malicious sites",
+      "seo poisoning",
+      "seo poisoning",
+      "several websites",
+      "minecraft clients"
+    ],
+    "summary": "# [hacker-news-sec] Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,"
+  },
+  "78c69f65e805d53b": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48291_natwest-partners-enterpri_b284022b21.md",
+    "source": "finance",
+    "title": "[finextra] NatWest partners Enterprise Nation to back small businesses",
+    "url": "https://www.finextra.com/newsarticle/48291/natwest-partners-enterprise-nation-to-back-small-businesses?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "natwest partners enterprise nation",
+      "natwest partners enterprise nation",
+      "back small businesses natwest",
+      "back small businesses",
+      "back small businesses",
+      "enterprise nation",
+      "funding opportunities",
+      "workspace",
+      "teamed",
+      "source"
+    ],
+    "summary": "# [finextra] NatWest partners Enterprise Nation to back small businesses NatWest partners Enterprise Nation to back small businesses NatWest has teamed up with Enterprise Nation to help small businesses find practical support, advice, workspace and funding opportunities."
+  },
+  "a7c4cf5ee7ef4854": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48292_ai-native-financial-servi_498e79952a.md",
+    "source": "finance",
+    "title": "[finextra] AI-native financial services startup Neno raises €6.6 million",
+    "url": "https://www.finextra.com/newsarticle/48292/ai-native-financial-services-startup-neno-raises-66-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "wider european market",
+      "raised € 6",
+      "6 million",
+      "6 million",
+      "6 million",
+      "tax offering",
+      "seed funding",
+      "native accounting",
+      "45z ai"
+    ],
+    "summary": "# [finextra] AI-native financial services startup Neno raises €6.6 million AI-native financial services startup Neno raises €6.6 million Dutch fintech Neno has raised €6.6 million in seed funding to bring its AI-native accounting and tax offering for SMEs to the wider European market."
+  },
+  "0d6e90ecf0dd94ce": {
+    "file": "corpus/hackernews/www_masteringemacs_org_article_whats-new-in-emacs-311_7c04b14547.md",
+    "source": "hackernews",
+    "title": "What's New in Emacs 31.1?",
+    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "keywords": [
+      "emacs 31",
+      "emacs 31",
+      "50z score",
+      "source",
+      "news",
+      "new",
+      "new",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# What's New in Emacs 31.1? > Source: hackernews | Category: news | 2026-08-24T23:17:50Z Score: 37 | Comments: 3"
   }
 }
