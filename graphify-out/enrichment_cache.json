@@ -470772,5 +470772,98 @@
       "rightsizing platform engineering"
     ],
     "summary": "# [infoq] Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs Shift-left and DevOps have impacted how we flow changes from inception to production, but at the cost of increased cognitive load and duplication of effort across testing, security, and maintenance. This article explores the real-world challenges of rightsizing developer platforms and finding a cultural match for engineering teams who use them to reduce cognitive load and deliver change fa"
+  },
+  "225987253b862a22": {
+    "file": "corpus/devto/dev_to_alkisyuv_everything-you-ever-committed-is-the-product_d37e309a7d.md",
+    "source": "devto",
+    "title": "Everything you ever committed is the product",
+    "url": "https://dev.to/alkisyuv/everything-you-ever-committed-is-the-product-3pao",
+    "keywords": [
+      "git check could catch",
+      "guard every exit",
+      "round leak audit",
+      "marketplace leak",
+      "four doors",
+      "ever committed",
+      "ever committed",
+      "source",
+      "reactions",
+      "product"
+    ],
+    "summary": "# Everything you ever committed is the product > Source: devto | Category: news | 2026-08-24T11:39:31Z A five-round leak audit, a marketplace leak no git check could catch, and the four doors that guard every exit now."
+  },
+  "be77238732ded42e": {
+    "file": "corpus/devto/dev_to_achiya-automation_i-audited-50669-n8n-runs-85-of-fail_92030274b1.md",
+    "source": "devto",
+    "title": "I Audited 50,669 n8n Runs. 85% of Failures Alerted Nobody.",
+    "url": "https://dev.to/achiya-automation/i-audited-50669-n8n-runs-85-of-failures-alerted-nobody-47pm",
+    "keywords": [
+      "handling audit looks like",
+      "failures alerted nobody",
+      "failures alerted nobody",
+      "broken whatsapp bot",
+      "669 n8n runs",
+      "669 n8n runs",
+      "31z three days",
+      "real n8n error",
+      "error handler",
+      "sql query"
+    ],
+    "summary": "85% of Failures Alerted Nobody. Three days of a broken WhatsApp bot, an error handler that was itself failing silently, and the SQL query that found both. What a real n8n error-handling audit looks like."
+  },
+  "bbfa7aeda2d205c6": {
+    "file": "corpus/devto/dev_to_alkisyuv_a-session-that-closes-has-to-prove-it-cleane_61615a9a97.md",
+    "source": "devto",
+    "title": "A session that closes has to prove it cleaned up",
+    "url": "https://dev.to/alkisyuv/a-session-that-closes-has-to-prove-it-cleaned-up-cij",
+    "keywords": [
+      "next session cannot skip",
+      "session closed",
+      "marker file",
+      "every session",
+      "check suite",
+      "audio daemon",
+      "session",
+      "session",
+      "source",
+      "reactions"
+    ],
+    "summary": "# A session that closes has to prove it cleaned up > Source: devto | Category: news | 2026-08-24T11:39:31Z An audio daemon at 340% CPU, hours after its session closed: every session now ends with a check suite, a marker file, and debt the next session cannot skip."
+  },
+  "619f74d7fd294195": {
+    "file": "corpus/devto/dev_to_alkisyuv_the-runner-deleted-what-it-told-me-to-rescue_b83db43078.md",
+    "source": "devto",
+    "title": "The runner deleted what it told me to rescue",
+    "url": "https://dev.to/alkisyuv/the-runner-deleted-what-it-told-me-to-rescue-5g96",
+    "keywords": [
+      "morning report said",
+      "manual push needed",
+      "push failed",
+      "six times",
+      "already deleted",
+      "runner deleted",
+      "runner deleted",
+      "runner",
+      "work",
+      "told"
+    ],
+    "summary": "# The runner deleted what it told me to rescue > Source: devto | Category: news | 2026-08-24T11:39:31Z The morning report said 'push failed, manual push needed' six times over; the runner had already deleted the only ref to the work it was asking me to save."
+  },
+  "31562efe37df754e": {
+    "file": "corpus/hackernews/www_theguardian_com_business_2026_aug_24_treasury-bonds-trum_aae0dda635.md",
+    "source": "hackernews",
+    "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+    "keywords": [
+      "treasury bond mess",
+      "treasury bond mess",
+      "22z score",
+      "source",
+      "safe",
+      "safe",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The treasury bond mess: is this the demise of the US as a safe haven? > Source: hackernews | Category: news | 2026-08-24T11:39:22Z Score: 18 | Comments: 4"
   }
 }
