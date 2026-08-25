@@ -475025,5 +475025,157 @@
       "category"
     ],
     "summary": "# 80% of developers find AI coding more addictive than helpful > Source: hackernews | Category: news | 2026-08-25T03:38:28Z Score: 7 | Comments: 0"
+  },
+  "01fc71d149ddef92": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_33_0-rc3_0e78ff5535.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.33.0-rc3 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc3",
+    "keywords": [
+      "specific assumptions affecting linux",
+      "global npm install fails",
+      "ctrl zoom shortcuts disabled",
+      "longer record restore points",
+      "changed ### claude desktop",
+      "turn individual ollama models",
+      "prefill restore points",
+      "every request ###",
+      "sidebar open transitions",
+      "request matching 46k"
+    ],
+    "summary": "* Turn individual Ollama models on or off for use in Claude, directly from the menu bar * Choose from your available Ollama models from within Claude; cloud models appear only when you're signed in * A new **Apps** view manages app integrations with copyable commands * Fixed a hang where agent clients that cancel long prefills * Prefill restore points are now trustworthy by construction: a cancelled prefill keeps every restore point it crossed, so retries resume where they stopped instead of res"
+  },
+  "d62b553784768f09": {
+    "file": "corpus/devto/dev_to_henry_dan_81513dd35a2f540_every-page-returned-200-the_c8454c8fce.md",
+    "source": "devto",
+    "title": "Every Page Returned 200. There Was No Database.",
+    "url": "https://dev.to/henry_dan_81513dd35a2f540/every-page-returned-200-there-was-no-database-jb3",
+    "keywords": [
+      "every page returned 200",
+      "every page returned 200",
+      "tier allowance ran",
+      "managed backend paused",
+      "site stayed",
+      "production project",
+      "n reactions",
+      "edge functions",
+      "taking",
+      "storage"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-08-25T04:22:09Z A managed backend paused a production project the moment its free-tier allowance ran out, taking the database, auth, storage and edge functions with it. The site stayed up the whole time — every route answered 200, the HTML was full of content, and n"
+  },
+  "346730a28bf788ac": {
+    "file": "corpus/devto/dev_to_tapadyutichatterjee_a-date-is-never-just-a-date-from-_f2fd46324a.md",
+    "source": "devto",
+    "title": "A Date Is Never Just a Date: From West Bengal's Panjika to a Bengali Calendar Library for Java 21",
+    "url": "https://dev.to/tapadyutichatterjee/a-date-is-never-just-a-date-from-west-bengals-panjika-to-a-bengali-calendar-library-4pe5",
+    "keywords": [
+      "bengali calendar library",
+      "bengali calendar library",
+      "west bengal",
+      "west bengal",
+      "west bengal",
+      "supporting conversion",
+      "practical introduction",
+      "modern java",
+      "java 21",
+      "java 21"
+    ],
+    "summary": "# A Date Is Never Just a Date: From West Bengal's Panjika to a Bengali Calendar Library for Java 21 > Source: devto | Category: news | 2026-08-25T04:22:07Z From West Bengal's panjika tradition to modern Java: a practical introduction to bengali-calendar, supporting conversion, formatting, parsing, arithmetic, and explicitly identified Bengali calendar rules."
+  },
+  "149033bd8721a893": {
+    "file": "corpus/devto/dev_to_ramses203_i-scraped-20000-youtube-comments-the-videos_2bad7d17e0.md",
+    "source": "devto",
+    "title": "I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.",
+    "url": "https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30",
+    "keywords": [
+      "ai coding tools ...",
+      "two different conversations",
+      "two different conversations",
+      "000 youtube comments",
+      "000 youtube comments",
+      "000 comments",
+      "scraped 20",
+      "scraped 20",
+      "comments",
+      "comments"
+    ],
+    "summary": "The Videos and the Comments Were Having Two Different Conversations. > Source: devto | Category: news | 2026-08-25T04:22:07Z I once collected about 22,000 comments from roughly 140 Korean YouTube videos about AI coding tools..."
+  },
+  "e4ed6e5f82201acc": {
+    "file": "corpus/hackernews/www_laude_org_updates_headlong-a-microharness-for-persistent_253f6697af.md",
+    "source": "hackernews",
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "keywords": [
+      "persistent agents",
+      "persistent agents",
+      "00z score",
+      "source",
+      "news",
+      "microharness",
+      "microharness",
+      "headlong",
+      "headlong",
+      "hackernews"
+    ],
+    "summary": "# Headlong: A Microharness for Persistent Agents > Source: hackernews | Category: news | 2026-08-25T04:22:00Z Score: 6 | Comments: 1"
+  },
+  "45b8ffb1fd6324ab": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_49428842_ec009c61bc.md",
+    "source": "hackernews",
+    "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+    "url": "https://news.ycombinator.com/item?id=49428842",
+    "keywords": [
+      "paper display options",
+      "paper display options",
+      "low power touchscreen",
+      "touchscreen e",
+      "touchscreen e",
+      "might work",
+      "calendar project",
+      "ask hn",
+      "ask hn",
+      "2 looking"
+    ],
+    "summary": "# Ask HN: Good large format (>20 inches) touchscreen E-Paper display options? > Source: hackernews | Category: news | 2026-08-25T04:22:03Z Looking for options that might work for a low power touchscreen for a calendar project."
+  },
+  "cde8e908ba4588fd": {
+    "file": "corpus/hackernews/github_com_ovenpasta_adi2_422d724d17.md",
+    "source": "hackernews",
+    "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+    "url": "https://github.com/ovenpasta/adi2",
+    "keywords": [
+      "modern gui library",
+      "modern gui library",
+      "xml ui",
+      "xml ui",
+      "show hn",
+      "show hn",
+      "css styling",
+      "css styling",
+      "02z score",
+      "source"
+    ],
+    "summary": "# Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3 > Source: hackernews | Category: news | 2026-08-25T04:22:02Z Score: 29 | Comments: 14"
+  },
+  "35cf681e5c7f406d": {
+    "file": "corpus/hackernews/nostr_org_23156485d9.md",
+    "source": "hackernews",
+    "title": "Nostr is an inclusive communication commons",
+    "url": "https://nostr.org/",
+    "keywords": [
+      "inclusive communication commons",
+      "inclusive communication commons",
+      "02z score",
+      "source",
+      "nostr",
+      "nostr",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Nostr is an inclusive communication commons > Source: hackernews | Category: news | 2026-08-25T04:22:02Z Score: 41 | Comments: 2"
   }
 }
