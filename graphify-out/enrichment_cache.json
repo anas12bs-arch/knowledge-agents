@@ -474617,5 +474617,338 @@
       "category"
     ],
     "summary": "# What languages are agent skills written in? > Source: hackernews | Category: news | 2026-08-25T01:59:30Z Score: 7 | Comments: 0"
+  },
+  "5f6ba424c4e9d2b5": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain_3D__7db757b9e7.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain==1.3.17 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.17",
+    "keywords": [
+      "patch dependencies (# 39869",
+      "deps ): bump minor",
+      "langchain langchain == 1",
+      "langchain langchain == 1",
+      "langchain ): 1",
+      "47z ## langchain",
+      "17 (# 39893",
+      "17 released",
+      "17 released",
+      "16 release"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-08-25T02:55:47Z Changes since langchain==1.3.16 release(langchain): 1.3.17 (#39893) fix(langchain): frame custom HITL rejection reasons (#39773) chore(deps): bump minor and patch dependencies (#39869)"
+  },
+  "09ab783e224cefed": {
+    "file": "corpus/devto/dev_to_ssukhpinder_net-10-nu1510-package-pruning-fix-ci-with_c048c64110.md",
+    "source": "devto",
+    "title": ".NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets",
+    "url": "https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd",
+    "keywords": [
+      "sdk upgrade",
+      "repository ...",
+      "failed restore",
+      "turn",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# .NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets > Source: devto | Category: news | 2026-08-25T02:55:02Z .NET 10 NU1510 package pruning can turn an SDK upgrade into a failed restore when a repository..."
+  },
+  "6c7d2041cbb87325": {
+    "file": "corpus/devto/dev_to_shawnfrost25_using-ai-for-boilerplates-question-g2g_b0d08f8f38.md",
+    "source": "devto",
+    "title": "Using AI for boilerplates question",
+    "url": "https://dev.to/shawnfrost25/using-ai-for-boilerplates-question-g2g",
+    "keywords": [
+      "04z ugh ...",
+      "using ai",
+      "using ai",
+      "learning ).",
+      "kinda new",
+      "boilerplates question",
+      "boilerplates question",
+      "6 months",
+      "...",
+      "well"
+    ],
+    "summary": "# Using AI for boilerplates question Ugh...I am kinda new to programming (6 months of learning). Well, starting with the fact that I..."
+  },
+  "3c4e3ea68b83a5f2": {
+    "file": "corpus/devto/dev_to_peculiarengineer_backing-up-a-homelab-with-restic-ldi_511d3a8b88.md",
+    "source": "devto",
+    "title": "Backing up a homelab with restic",
+    "url": "https://dev.to/peculiarengineer/backing-up-a-homelab-with-restic-ldi",
+    "keywords": [
+      "running things",
+      "almost nothing",
+      "written",
+      "source",
+      "restic",
+      "restic",
+      "reactions",
+      "news",
+      "lot",
+      "losing"
+    ],
+    "summary": "# Backing up a homelab with restic > Source: devto | Category: news | 2026-08-25T02:55:02Z I have written a lot here about running things at home and almost nothing about not losing them,..."
+  },
+  "2e56d2514a4972d1": {
+    "file": "corpus/devto/dev_to_canro91_the-joy-of-old-school-coding-after-a-stupid-m_79c9e083ec.md",
+    "source": "devto",
+    "title": "The Joy of Old-School Coding After a Stupid Mistake",
+    "url": "https://dev.to/canro91/the-joy-of-old-school-coding-after-a-stupid-mistake-36mb",
+    "keywords": [
+      "stupid mistake",
+      "stupid mistake",
+      "school coding",
+      "school coding",
+      "moment ,...",
+      "error message",
+      "source",
+      "scratch",
+      "reactions",
+      "old"
+    ],
+    "summary": "# The Joy of Old-School Coding After a Stupid Mistake The other day, it happened again. I had an error message that made me scratch my head."
+  },
+  "0a78c4eb326670e5": {
+    "file": "corpus/devto/dev_to_sabeekhann_i-built-a-local-usage-intelligence-dashboa_acb88f1b1c.md",
+    "source": "devto",
+    "title": "I Built a Local Usage Intelligence Dashboard for Claude Code",
+    "url": "https://dev.to/sabeekhann/i-built-a-local-usage-intelligence-dashboard-for-claude-code-4jh7",
+    "keywords": [
+      "local usage intelligence dashboard",
+      "local usage intelligence dashboard",
+      "claude code",
+      "claude code",
+      "token",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "cost"
+    ],
+    "summary": "# I Built a Local Usage Intelligence Dashboard for Claude Code > Source: devto | Category: news | 2026-08-25T02:55:04Z How CC Token Meter turns local Claude Code transcripts into token, cost, cache and..."
+  },
+  "2cf90f0816d7e105": {
+    "file": "corpus/devto/dev_to_wasifkhan111_how-to-convert-a-unix-timestamp-to-a-dat_c55a8cfda7.md",
+    "source": "devto",
+    "title": "How to Convert a Unix Timestamp to a Date in JavaScript",
+    "url": "https://dev.to/wasifkhan111/how-to-convert-a-unix-timestamp-to-a-date-in-javascript-59bj",
+    "keywords": [
+      "mistakes worth avoiding",
+      "unix timestamp",
+      "unix timestamp",
+      "silently turns",
+      "reverse conversion",
+      "milliseconds rule",
+      "2026 date",
+      "2026",
+      "date",
+      "date"
+    ],
+    "summary": "# How to Convert a Unix Timestamp to a Date in JavaScript > Source: devto | Category: news | 2026-08-25T02:55:04Z The seconds-vs-milliseconds rule that silently turns your 2026 date into January 1970 — plus time zone formatting, the reverse conversion, and the mistakes worth avoiding."
+  },
+  "9699d0db4229b7ec": {
+    "file": "corpus/devto/dev_to_npayyappilly_hpa-vs-keda-vs-vpa-a-quantitative-framew_1e4c77c1a8.md",
+    "source": "devto",
+    "title": "HPA vs KEDA vs VPA: A Quantitative Framework for Autoscaling Strategy Selection in Kubernetes",
+    "url": "https://dev.to/npayyappilly/hpa-vs-keda-vs-vpa-a-quantitative-framework-for-autoscaling-strategy-selection-in-kubernetes-5fch",
+    "keywords": [
+      "autoscaling strategy selection",
+      "autoscaling strategy selection",
+      "kubernetes autoscaling landscape",
+      "quantitative framework",
+      "quantitative framework",
+      "convention rather",
+      "kubernetes",
+      "kubernetes",
+      "source",
+      "reactions"
+    ],
+    "summary": "# HPA vs KEDA vs VPA: A Quantitative Framework for Autoscaling Strategy Selection in Kubernetes > Source: devto | Category: news | 2026-08-25T02:55:02Z The Kubernetes autoscaling landscape is one where most decisions are made by convention rather than..."
+  },
+  "63b94a83fa93355f": {
+    "file": "corpus/devto/dev_to_usama_gulzar_8b462983b2d0_the-journey-of-mantiq-from-_f82acd4587.md",
+    "source": "devto",
+    "title": "The Journey of Mantiq: From a Freshman Assignment to a Free Digital Logic Workbench",
+    "url": "https://dev.to/usama_gulzar_8b462983b2d0/the-journey-of-mantiq-from-a-freshman-assignment-to-a-free-digital-logic-workbench-d1g",
+    "keywords": [
+      "free digital logic workbench",
+      "free digital logic workbench",
+      "— richard feynman",
+      "understand .\"",
+      "particular kind",
+      "freshman assignment",
+      "freshman assignment",
+      "cannot create",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Journey of Mantiq: From a Freshman Assignment to a Free Digital Logic Workbench > Source: devto | Category: news | 2026-08-25T02:55:04Z — Richard Feynman   There is a particular kind of..."
+  },
+  "ed368a8eb85ba4c3": {
+    "file": "corpus/devto/dev_to_saqibameen86_mtools-does-not-parse-mongodb-44-json-lo_80d16f3884.md",
+    "source": "devto",
+    "title": "mtools does not parse MongoDB 4.4+ JSON logs. So I built mdbkit.",
+    "url": "https://dev.to/saqibameen86/mtools-does-not-parse-mongodb-44-json-logs-so-i-built-mdbkit-5a29",
+    "keywords": [
+      "parse mongodb 4",
+      "parse mongodb 4",
+      "operated mongodb",
+      "json logs",
+      "json logs",
+      "built mdbkit",
+      "built mdbkit",
+      "know mtools"
+    ],
+    "summary": "# mtools does not parse MongoDB 4.4+ JSON logs. If you have operated MongoDB for any length of time, you know mtools. For years it was how we all..."
+  },
+  "66d5169c1d10e8ae": {
+    "file": "corpus/devto/dev_to_omuniyal_i-built-a-terminal-sql-workspace-for-csv-fil_1fdd37fc09.md",
+    "source": "devto",
+    "title": "I built a terminal SQL workspace for CSV files — and made it catch bad data automatically",
+    "url": "https://dev.to/omuniyal/i-built-a-terminal-sql-workspace-for-csv-files-and-made-it-catch-bad-data-automatically-mpl",
+    "keywords": [
+      "catch bad data automatically",
+      "catch bad data automatically",
+      "new data file",
+      "terminal sql workspace",
+      "terminal sql workspace",
+      "csv files —",
+      "csv files —",
+      "04z every time",
+      "three things",
+      "source"
+    ],
+    "summary": "# I built a terminal SQL workspace for CSV files — and made it catch bad data automatically Every time I get a new data file, I do the same three things. Open it in Excel to get a feel for it...."
+  },
+  "324802b9d6e066b5": {
+    "file": "corpus/devto/dev_to_alexmanner_what-im-learning-while-exploring-telegram-_d9796821e5.md",
+    "source": "devto",
+    "title": "What I’m Learning While Exploring Telegram Bots with Python",
+    "url": "https://dev.to/alexmanner/what-im-learning-while-exploring-telegram-bots-with-python-4g2e",
+    "keywords": [
+      "04z hey dev community",
+      "exploring telegram bots",
+      "exploring telegram bots",
+      "telegram bots",
+      "still early",
+      "one thing",
+      "source"
+    ],
+    "summary": "# What I’m Learning While Exploring Telegram Bots with Python > Source: devto | Category: news | 2026-08-25T02:55:04Z I’m still early in my journey with Python and Telegram bots, but one thing has..."
+  },
+  "06737dee11a67ebd": {
+    "file": "corpus/devto/dev_to_abimanyu_p_9e75124634d2a4_primitive-vs-non-primitive-_d60b798649.md",
+    "source": "devto",
+    "title": "Primitive vs Non-Primitive Data Types in JavaScript",
+    "url": "https://dev.to/abimanyu_p_9e75124634d2a4/primitive-vs-non-primitive-data-types-in-javascript-4bnh",
+    "keywords": [
+      "primitive vs non",
+      "primitive vs non",
+      "data type specifies",
+      "primitive data types",
+      "primitive data types",
+      "data types",
+      "variable",
+      "value",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Primitive vs Non-Primitive Data Types in JavaScript > Source: devto | Category: news | 2026-08-25T02:55:04Z In JavaScript, a data type specifies the kind of value a variable can..."
+  },
+  "4d39a342d49f54c3": {
+    "file": "corpus/devto/dev_to_deepika_pusala_week-04day-1-oop-dunder-methods-5cc_fd7c6eb010.md",
+    "source": "devto",
+    "title": "Week-04,Task- 1: OOP & Dunder Methods",
+    "url": "https://dev.to/deepika_pusala/week-04day-1-oop-dunder-methods-5cc",
+    "keywords": [
+      "🧱 classes",
+      "dunder methods",
+      "dunder methods",
+      "amp ;...",
+      "week",
+      "week",
+      "task",
+      "task",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Week-04,Task- 1: OOP & Dunder Methods > Source: devto | Category: news | 2026-08-25T02:55:04Z 🐍 Python OOP — Simple Tutorial for Beginners   We'll cover:   🧱 Classes, Inheritance &amp;..."
+  },
+  "28e962c22a7515fd": {
+    "file": "corpus/devto/dev_to_jacob_miller_6a433a011a83_two-weeks-into-building-cub_3efb2fcc4e.md",
+    "source": "devto",
+    "title": "Two weeks into building Cube Engines — the small things that actually mattered",
+    "url": "https://dev.to/jacob_miller_6a433a011a83/two-weeks-into-building-cube-engines-the-small-things-that-actually-mattered-4hfg",
+    "keywords": [
+      "building cube engines —",
+      "building cube engines —",
+      "two weeks",
+      "two weeks",
+      "small things",
+      "small things",
+      "process ...",
+      "actually mattered",
+      "actually mattered",
+      "written"
+    ],
+    "summary": "# Two weeks into building Cube Engines — the small things that actually mattered I've written a bit here before about the games themselves. This time I want to talk about the process..."
+  },
+  "a935a53526bb4e7f": {
+    "file": "corpus/hackernews/www_servethehome_com_amd-helios-mi400-system-architecture-at_f088527a1b.md",
+    "source": "hackernews",
+    "title": "AMD Helios MI400 System Architecture at Hot Chips 2026",
+    "url": "https://www.servethehome.com/amd-helios-mi400-system-architecture-at-hot-chips-2026/",
+    "keywords": [
+      "hot chips 2026",
+      "hot chips 2026",
+      "00z score",
+      "2026",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AMD Helios MI400 System Architecture at Hot Chips 2026 > Source: hackernews | Category: news | 2026-08-25T02:55:00Z Score: 5 | Comments: 0"
+  },
+  "08816d5a91a4e2c0": {
+    "file": "corpus/hackernews/daily_jstor_org_was-modern-art-really-a-cia-psy-op_8563a02434.md",
+    "source": "hackernews",
+    "title": "Was Modern Art a CIA Psy-Op?",
+    "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "keywords": [
+      "modern art",
+      "modern art",
+      "cia psy",
+      "cia psy",
+      "55z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Was Modern Art a CIA Psy-Op? > Source: hackernews | Category: news | 2026-08-25T02:54:55Z Score: 10 | Comments: 4"
+  },
+  "7471e5d120d458b1": {
+    "file": "corpus/hackernews/www_thomsonreuters_com_en_press-releases_2026_august_thomson_33c6250f50.md",
+    "source": "hackernews",
+    "title": "Thomson Reuters Launches Its Own Frontier Model",
+    "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "keywords": [
+      "thomson reuters launches",
+      "thomson reuters launches",
+      "frontier model",
+      "frontier model",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Thomson Reuters Launches Its Own Frontier Model > Source: hackernews | Category: news | 2026-08-25T02:54:57Z Score: 9 | Comments: 0"
   }
 }
