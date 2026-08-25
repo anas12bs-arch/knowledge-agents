@@ -476520,5 +476520,79 @@
       "charging"
     ],
     "summary": "# Quantum battery upends the rules of charging > Source: hackernews | Category: news | 2026-08-25T11:16:33Z Score: 5 | Comments: 0"
+  },
+  "234b1064f60d40ab": {
+    "file": "corpus/devto/dev_to_newellpaul_real-programmers-dont-read-code-42dd_16c4798d04.md",
+    "source": "devto",
+    "title": "Real Programmers Don’t Read Code",
+    "url": "https://dev.to/newellpaul/real-programmers-dont-read-code-42dd",
+    "keywords": [
+      "roughly march 2025 —",
+      "good old days —",
+      "17z opening back",
+      "real programmers",
+      "real programmers",
+      "read code",
+      "read code",
+      "golden era"
+    ],
+    "summary": "# Real Programmers Don’t Read Code > Source: devto | Category: news | 2026-08-25T11:45:17Z OPENING   Back in the good old days — the Golden Era of computing, roughly March 2025 — it..."
+  },
+  "679dd1c88de839c6": {
+    "file": "corpus/ai-research/huggingface_co_blog_pwc-search_966123ef61.md",
+    "source": "ai-research",
+    "title": "[hf-blog] How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "keywords": [
+      "hugging face inference endpoints",
+      "hugging face inference endpoints",
+      "hugging face inference endpoints",
+      "buckets power search",
+      "buckets power search",
+      "buckets power search",
+      "source",
+      "research",
+      "research",
+      "papers"
+    ],
+    "summary": "# [hf-blog] How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code > Source: ai-research | Category: research | 2026-08-25T11:45:11Z How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code"
+  },
+  "8b42e305277d2af6": {
+    "file": "corpus/ai-research/huggingface_co_blog_MultiverseComputingCAI_quantization-awar_f1c76f23a7.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "keywords": [
+      "precision original",
+      "precision original",
+      "precision original",
+      "bit model",
+      "bit model",
+      "bit model",
+      "aware healing",
+      "aware healing",
+      "aware healing",
+      "11z quantization"
+    ],
+    "summary": "# [hf-blog] Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original > Source: ai-research | Category: research | 2026-08-25T11:45:11Z Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original"
+  },
+  "d5f277864c9629a2": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_nuxt-4-5-streaming_utm_campaign_i_b0e1aaa664.md",
+    "source": "engineering",
+    "title": "[infoq] Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder",
+    "url": "https://www.infoq.com/news/2026/08/nuxt-4-5-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "stable error code system",
+      "alongside important upgrade instructions",
+      "new rspack 2 builder",
+      "powered rspack builder nuxt",
+      "powered rspack builder",
+      "powered rspack builder",
+      "streaming enhances time",
+      "release also includes",
+      "html shell instantly",
+      "experimental ssr streaming"
+    ],
+    "summary": "# [infoq] Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder This streaming enhances Time to First Byte by flushing the HTML shell instantly. The release also includes a stable error code system and new composables, alongside important upgrade instructions for developers moving from earlier versions."
   }
 }
