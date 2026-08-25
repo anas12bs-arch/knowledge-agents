@@ -476159,5 +476159,81 @@
       "autonomous websites"
     ],
     "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way."
+  },
+  "a5eebd02067c5168": {
+    "file": "corpus/github-releases/github_com_prisma_prisma_releases_tag_v8_0_0-rc_7_76b192469b.md",
+    "source": "github-releases",
+    "title": "prisma/prisma v8.0.0-rc.7 released",
+    "url": "https://github.com/prisma/prisma/releases/tag/v8.0.0-rc.7",
+    "keywords": [
+      "``` ts await db",
+      "``` ts await db",
+      "limit `/` offset `,",
+      "limit `/` offset `,",
+      "cli resolve one engine",
+      "asc ()). offset",
+      "including relation refinements",
+      "## breaking changes",
+      "native `$ skip",
+      "asc ()). skip"
+    ],
+    "summary": "Mongo's lower-level query builder keeps `.skip(n)` — it names the native `$skip` pipeline stage, not the collection API. - **The engine peer moves to `@prisma/cli-engine@0.2.3`** — `@prisma/orm-toolchain` declares the unified CLI's engine as an exact peer, and this release peers 0.2.3 (up from 0.2.2). Installs assembled by the unified `prisma` CLI resolve one engine as before; a host that pins the engine itself must move to 0.2.3."
+  },
+  "85219e626d3cc601": {
+    "file": "corpus/devto/dev_to_raghavsharma_technically-right-organisationally-impos_cf7e20dca8.md",
+    "source": "devto",
+    "title": "Technically Right, Organisationally Impossible",
+    "url": "https://dev.to/raghavsharma_/technically-right-organisationally-impossible-1kfg",
+    "keywords": [
+      "technically right",
+      "technically right",
+      "technical reasons",
+      "organisationally impossible",
+      "organisationally impossible",
+      "cannot build",
+      "would",
+      "source",
+      "run",
+      "reactions"
+    ],
+    "summary": "# Technically Right, Organisationally Impossible You cannot build it. Not for technical reasons, but because of who would have to be awake at 3am to run it."
+  },
+  "6a83842709b98844": {
+    "file": "corpus/devto/dev_to_nhirschfeld_285-commits-opened-and-closed-in-one-minu_e01a8d06d9.md",
+    "source": "devto",
+    "title": "285 commits, opened and closed in one minute: what I do with forks that never upstream",
+    "url": "https://dev.to/nhirschfeld/285-commits-opened-and-closed-in-one-minute-what-i-do-with-forks-that-never-upstream-24k2",
+    "keywords": [
+      "59z building foss",
+      "one minute",
+      "one minute",
+      "occasionally aggravating",
+      "never upstream",
+      "never upstream",
+      "mostly rewarding",
+      "285 commits",
+      "285 commits",
+      "source"
+    ],
+    "summary": "# 285 commits, opened and closed in one minute: what I do with forks that never upstream Building FOSS is mostly rewarding and occasionally aggravating. Once in a while it requires some..."
+  },
+  "236c157d85164349": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_c4g36yze692o_2ef2943aa9.md",
+    "source": "hackernews",
+    "title": "Why some US restaurants are banning tips",
+    "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+    "keywords": [
+      "us restaurants",
+      "us restaurants",
+      "banning tips",
+      "banning tips",
+      "47z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why some US restaurants are banning tips > Source: hackernews | Category: news | 2026-08-25T10:21:47Z Score: 15 | Comments: 7"
   }
 }
