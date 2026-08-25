@@ -475665,5 +475665,62 @@
       "duckdb v2"
     ],
     "summary": "# [infoq] Beyond Embedded: How DuckDB v2.0 Shifts Architecture Toward Distributed Network Capabilities This release includes over 10000 commits and introduces a client/server mode, enabling network connections. Improvements also encompass extension portability, advanced data types, and a new parser."
+  },
+  "9aec33b9d085ba92": {
+    "file": "corpus/github-releases/github_com_prisma_prisma_releases_tag_v8_0_0-rc_6_ef59e6797b.md",
+    "source": "github-releases",
+    "title": "prisma/prisma v8.0.0-rc.6 released",
+    "url": "https://github.com/prisma/prisma/releases/tag/v8.0.0-rc.6",
+    "keywords": [
+      "previous codecs (` pg",
+      "orm init `: agent",
+      "ci detector ([ prisma",
+      "temporal `- backed one",
+      "cli resolve one engine",
+      "**` prisma orm init",
+      "pnpm symlink layouts",
+      "pnpm symlink layouts",
+      "install failure exit",
+      "emit every contract"
+    ],
+    "summary": "- **PostgreSQL temporal columns read as `Temporal` values or text, never `Date`** — each of `date`, `timestamp(p)`, `timestamptz(p)` and `time(p)` now has two representation-explicit codecs: a `Temporal`-backed one (the bare PSL spellings `Date`, `Timestamp`, `Timestamptz`, `Time` select it) and a text one (`DateString`, `TimestampString`, `TimestamptzString`, `TimeString`). ([#30097](https://github.com/prisma/prisma/pull/30097)) - **The engine peer moves to `@prisma/cli-engine@0.2.2`** — `@pris"
+  },
+  "cd7b6f0e31d85940": {
+    "file": "corpus/devto/dev_to_mishmanners_what-is-a-developer-community-3p0k_a7052930c5.md",
+    "source": "devto",
+    "title": "What is a developer community?",
+    "url": "https://dev.to/mishmanners/what-is-a-developer-community-3p0k",
+    "keywords": [
+      "28z ask ten people",
+      "glorified support ...",
+      "developer community ,\"",
+      "developer community",
+      "developer community",
+      "source",
+      "reactions",
+      "news",
+      "half",
+      "devto"
+    ],
+    "summary": "# What is a developer community? > Source: devto | Category: news | 2026-08-25T07:26:28Z Ask ten people to define a \"developer community,\" and half of them will describe a glorified support..."
+  },
+  "7fe444b61caa62b0": {
+    "file": "corpus/security/thehackernews_com_2026_08_actively-exploited-oracle-weblogic_62298a83d4.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+    "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+    "keywords": [
+      "network access via http",
+      "oracle weblogic server",
+      "known exploited vulnerabilities",
+      "0 ), allows",
+      "infrastructure security agency",
+      "unauthenticated attacker",
+      "monday added",
+      "cvss score",
+      "citing evidence",
+      "active exploitation"
+    ],
+    "summary": "# [hacker-news-sec] Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via "
   }
 }
