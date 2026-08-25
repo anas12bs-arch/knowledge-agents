@@ -475722,5 +475722,24 @@
       "active exploitation"
     ],
     "summary": "# [hacker-news-sec] Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via "
+  },
+  "a48fec5d7b719f69": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_08_cursor-origin-alternative-github__0a6a2bc925.md",
+    "source": "engineering",
+    "title": "[infoq] Cursor Releases Origin as an Agent-Native Alternative to GitHub",
+    "url": "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "new codebase tab within",
+      "56z cursor releases origin",
+      "cursor releases origin",
+      "cursor releases origin",
+      "launched origin",
+      "cursor application",
+      "powered editor",
+      "matt saunders",
+      "lives inside",
+      "enterprise plans"
+    ],
+    "summary": "# [infoq] Cursor Releases Origin as an Agent-Native Alternative to GitHub AI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for teams that already work in Cursor. Origin is rolling out in early beta on Pro, Teams and Enterprise plans, and lives inside a new Codebase tab within the Cursor application."
   }
 }
