@@ -475177,5 +475177,322 @@
       "category"
     ],
     "summary": "# Nostr is an inclusive communication commons > Source: hackernews | Category: news | 2026-08-25T04:22:02Z Score: 41 | Comments: 2"
+  },
+  "1d3ca269ca5860cb": {
+    "file": "corpus/devto/dev_to_zaydmulani09_my-secure-sandbox-detected-an-attack-and_82669ecd93.md",
+    "source": "devto",
+    "title": "My 'secure' sandbox detected an attack and reported success anyway. Here's the marshaling bug that caused it.",
+    "url": "https://dev.to/zaydmulani09/my-secure-sandbox-detected-an-attack-and-reported-success-anyway-heres-the-marshaling-bug-that-lap",
+    "keywords": [
+      "reported success anyway",
+      "reported success anyway",
+      "marshaling bug",
+      "marshaling bug",
+      "execution ...",
+      "sandbox detected",
+      "sandbox detected",
+      "sandbox",
+      "tool",
+      "source"
+    ],
+    "summary": "# My \"secure\" sandbox detected an attack and reported success anyway. Here's the marshaling bug that caused it. I built a tool (mri) that runs untrusted code snippets inside a sandbox, checked against an execution..."
+  },
+  "03cf36cb399652a0": {
+    "file": "corpus/devto/dev_to_straccia17_from-angularjs-to-fine-grained-reactivity-_c62f44b828.md",
+    "source": "devto",
+    "title": "From Angular.js to Fine-Grained Reactivity: Part 3 - How to Optimize the Render Phase",
+    "url": "https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-3-how-to-optimize-the-render-phase-1pp9",
+    "keywords": [
+      "render phase",
+      "render phase",
+      "proxy api",
+      "part 3",
+      "part 3",
+      "notify changes",
+      "last article",
+      "grained reactivity",
+      "grained reactivity",
+      "use"
+    ],
+    "summary": "# From Angular.js to Fine-Grained Reactivity: Part 3 - How to Optimize the Render Phase > Source: devto | Category: news | 2026-08-25T05:28:51Z In the last article of this series, we saw how to use the Proxy API to notify changes to the..."
+  },
+  "d94d592b82791efe": {
+    "file": "corpus/devto/dev_to_umersmx_how-i-built-an-in-browser-ai-workout-tracker-_f603294110.md",
+    "source": "devto",
+    "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
+    "url": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
+    "keywords": [
+      "runs entirely",
+      "client ...",
+      "51z tl",
+      "source",
+      "real",
+      "reactions",
+      "news",
+      "learn",
+      "devto"
+    ],
+    "summary": "# How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖 > Source: devto | Category: news | 2026-08-25T05:28:51Z TL;DR: Learn how to build a real-time computer vision fitness coach that runs entirely on the client..."
+  },
+  "e0c890de2cc60dc2": {
+    "file": "corpus/devto/dev_to_toddyholiday_localstack-went-paid-what-the-alternativ_ff419bf1c0.md",
+    "source": "devto",
+    "title": "LocalStack Went Paid: What the Alternatives Get Right, and What Still Comes Down to Production",
+    "url": "https://dev.to/toddyholiday/localstack-went-paid-what-the-alternatives-get-right-and-what-still-comes-down-to-production-5bnf",
+    "keywords": [
+      "right tool entirely",
+      "localstack went paid",
+      "localstack went paid",
+      "55z localstack archived",
+      "alternatives get right",
+      "alternatives get right",
+      "free alternatives",
+      "still comes",
+      "still comes",
+      "honest survey"
+    ],
+    "summary": "# LocalStack Went Paid: What the Alternatives Get Right, and What Still Comes Down to Production LocalStack archived its Community Edition in March 2026. Here's an honest survey of the free alternatives, and when an emulator stops being the right tool entirely."
+  },
+  "c8a3873beef75654": {
+    "file": "corpus/devto/dev_to_doaaa_04_blocking-millions-of-malicious-ips-in-o32-ti_1f22cbe178.md",
+    "source": "devto",
+    "title": "Blocking Millions of Malicious IPs in O(32) Time with Bitwise Tries",
+    "url": "https://dev.to/doaaa_04/blocking-millions-of-malicious-ips-in-o32-time-with-bitwise-tries-3eo3",
+    "keywords": [
+      "blocking malicious traffic",
+      "malicious ips",
+      "malicious ips",
+      "blocking millions",
+      "blocking millions",
+      "fintech service",
+      "bitwise tries",
+      "bitwise tries",
+      "baseline ...",
+      "api gateway"
+    ],
+    "summary": "# Blocking Millions of Malicious IPs in O(32) Time with Bitwise Tries > Source: devto | Category: news | 2026-08-25T05:28:51Z If you're running an API gateway or FinTech service, blocking malicious traffic is a baseline..."
+  },
+  "faf0729fad0daf4a": {
+    "file": "corpus/devto/dev_to_infoinlet1_your-bundlers-default-target-ships-a-blank_c533b433dd.md",
+    "source": "devto",
+    "title": "Your Bundler's Default Target Ships a Blank Screen to iOS 15",
+    "url": "https://dev.to/infoinlet1/your-bundlers-default-target-ships-a-blank-screen-to-ios-15-4hag",
+    "keywords": [
+      "started last week",
+      "default target ships",
+      "default target ships",
+      "51z four tests",
+      "mobile repo",
+      "ios 15",
+      "ios 15",
+      "blank screen",
+      "blank screen",
+      "work"
+    ],
+    "summary": "# Your Bundler's Default Target Ships a Blank Screen to iOS 15 Four tests were failing in our mobile repo before I started last week's work. I fixed the two that..."
+  },
+  "a313bc3e298867d8": {
+    "file": "corpus/devto/dev_to_vatsraj_parmar_17a32201fd_the-daily-habit-that-actual_e7ac4fd6f8.md",
+    "source": "devto",
+    "title": "The Daily Habit That Actually Fixed My Team Visibility Problem",
+    "url": "https://dev.to/vatsraj_parmar_17a32201fd/the-daily-habit-that-actually-fixed-my-team-visibility-problem-1l0k",
+    "keywords": [
+      "pure dev role",
+      "team visibility problem",
+      "team visibility problem",
+      "months ago",
+      "daily habit",
+      "daily habit",
+      "actually fixed",
+      "actually fixed",
+      "team",
+      "source"
+    ],
+    "summary": "# The Daily Habit That Actually Fixed My Team Visibility Problem > Source: devto | Category: news | 2026-08-25T05:28:53Z A few months ago I moved from a pure dev role into coordinating a team of 8 people — still writing..."
+  },
+  "4efe2920087c4de2": {
+    "file": "corpus/devto/dev_to_akashguptasky_jwt-authentication-in-nodejs-a-practica_0961da558d.md",
+    "source": "devto",
+    "title": "JWT Authentication in Node.js: A Practical Guide (with Express)",
+    "url": "https://dev.to/akashguptasky/jwt-authentication-in-nodejs-a-practical-guide-with-express-2341",
+    "keywords": [
+      "password needed ?...",
+      "51z ever logged",
+      "still logged",
+      "practical guide",
+      "practical guide",
+      "jwt authentication",
+      "jwt authentication",
+      "come back",
+      "tab"
+    ],
+    "summary": "# JWT Authentication in Node.js: A Practical Guide (with Express) > Source: devto | Category: news | 2026-08-25T05:28:51Z Ever logged into an app, closed the tab, come back, and you're still logged in — no password needed?..."
+  },
+  "f9d9f893508e27d8": {
+    "file": "corpus/devto/dev_to_nainikmehta_react-websocket-performance-buffer-dont-r_b49d6e77f2.md",
+    "source": "devto",
+    "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
+    "url": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+    "keywords": [
+      "render every msg",
+      "render every msg",
+      "react websocket performance",
+      "react websocket performance",
+      "common ...",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# React WebSocket Performance: Buffer, Don't Render Every Msg > Source: devto | Category: news | 2026-08-25T05:28:51Z Stop Feeding WebSocket Streams Directly to React State   Hot WebSocket streams are a common..."
+  },
+  "6d2edbd82bf80569": {
+    "file": "corpus/devto/dev_to_alex_gutscher_2ab0d3cf4c3_building-multi-region-conse_e3abc8756b.md",
+    "source": "devto",
+    "title": "Building Multi-Region Consensus Checks with Cloudflare Durable Objects",
+    "url": "https://dev.to/alex_gutscher_2ab0d3cf4c3/building-multi-region-consensus-checks-with-cloudflare-durable-objects-3381",
+    "keywords": [
+      "52z every uptime monitor",
+      "region consensus checks",
+      "region consensus checks",
+      "cloudflare durable objects",
+      "cloudflare durable objects",
+      "never happened",
+      "building multi",
+      "building multi",
+      "woken",
+      "used"
+    ],
+    "summary": "# Building Multi-Region Consensus Checks with Cloudflare Durable Objects > Source: devto | Category: news | 2026-08-25T05:28:52Z Every uptime monitor I've used has woken me up for an outage that never happened."
+  },
+  "a2211d7a46107f2a": {
+    "file": "corpus/hackernews/www_theguardian_com_politics_2026_aug_24_rupert-lowe-restore_d51f696992.md",
+    "source": "hackernews",
+    "title": "Rupert Lowe set to be paid as much for divisive posts on X as for being MP",
+    "url": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
+    "keywords": [
+      "rupert lowe set",
+      "rupert lowe set",
+      "divisive posts",
+      "divisive posts",
+      "42z score",
+      "source",
+      "paid",
+      "paid"
+    ],
+    "summary": "# Rupert Lowe set to be paid as much for divisive posts on X as for being MP > Source: hackernews | Category: news | 2026-08-25T05:28:42Z Score: 5 | Comments: 0"
+  },
+  "f9785fe45d7a33e1": {
+    "file": "corpus/hackernews/github_com_dragthelake_ambient-context_93cd3ee5c8.md",
+    "source": "hackernews",
+    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+    "url": "https://github.com/dragthelake/ambient-context",
+    "keywords": [
+      "macos menu bar app",
+      "one file per day",
+      "screen memory without screenshots",
+      "screen memory without screenshots",
+      "point claude code",
+      "model .< p",
+      "focused window every",
+      "choose .< p",
+      "tuesday ?& quot",
+      "writes plain markdown"
+    ],
+    "summary": "# Show HN: Screen memory without screenshots, just text to Markdown It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects."
+  },
+  "81aeac0a093fd647": {
+    "file": "corpus/hackernews/chipsandcheese_com_p_sifives-first-server-platform_ad0cd04714.md",
+    "source": "hackernews",
+    "title": "SiFive's First Server Platform",
+    "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+    "keywords": [
+      "first server platform",
+      "first server platform",
+      "45z score",
+      "source",
+      "sifive",
+      "sifive",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# SiFive's First Server Platform > Source: hackernews | Category: news | 2026-08-25T05:28:45Z Score: 7 | Comments: 1"
+  },
+  "b1d3bc69d8226be7": {
+    "file": "corpus/design/www_youtube_com_watch_v_YEvLKzsEwMw_10df02ed24.md",
+    "source": "design",
+    "title": "[sidebar-io] Susan Kare: Designing icons & graphics for the original Mac",
+    "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+    "keywords": [
+      "original mac stories behind",
+      "design lessons susan learned",
+      "43z susan kare",
+      "original mac",
+      "original mac",
+      "susan kare",
+      "susan kare",
+      "happy mac",
+      "steve jobs",
+      "designing icons"
+    ],
+    "summary": "# [sidebar-io] Susan Kare: Designing icons & graphics for the original Mac Susan Kare: Designing icons & graphics for the original Mac Stories behind the Happy Mac, Command key, Chicago font, and more, along with the design lessons Susan learned from Steve Jobs and others."
+  },
+  "530e78572573ae09": {
+    "file": "corpus/design/is-agentic_com_2790429dd3.md",
+    "source": "design",
+    "title": "[sidebar-io] Is Agentic",
+    "url": "https://is-agentic.com/",
+    "keywords": [
+      "get evidence",
+      "ai agents",
+      "agentic score",
+      "agentic",
+      "agentic",
+      "website",
+      "source",
+      "sidebar",
+      "sidebar",
+      "recommendations"
+    ],
+    "summary": "# [sidebar-io] Is Agentic Is Agentic Score how ready a website is for AI agents, then get evidence and recommendations to improve it."
+  },
+  "f81f77da8a7421b2": {
+    "file": "corpus/design/balsa-ui_com_5c377dc4c1.md",
+    "source": "design",
+    "title": "[sidebar-io] Balsa UI",
+    "url": "https://balsa-ui.com/",
+    "keywords": [
+      "code component system",
+      "balsa ui",
+      "balsa ui",
+      "vue",
+      "source",
+      "sidebar",
+      "sidebar",
+      "react",
+      "open",
+      "native"
+    ],
+    "summary": "# [sidebar-io] Balsa UI Balsa UI Balsa UI is an agent-native, open-code component system for Vue and React."
+  },
+  "87883fd9b59bf827": {
+    "file": "corpus/design/blog_murphytrueman_com_every-fork-looks-like-adoption_65c3e7516c.md",
+    "source": "design",
+    "title": "[sidebar-io] Every fork looks like adoption",
+    "url": "https://blog.murphytrueman.com/every-fork-looks-like-adoption/",
+    "keywords": [
+      "measure design system adoption",
+      "graph keeps going",
+      "design",
+      "design",
+      "source",
+      "sidebar",
+      "sidebar",
+      "category"
+    ],
+    "summary": "# [sidebar-io] Every fork looks like adoption Every fork looks like adoption How we measure design system adoption and how the graph keeps going up anyway."
   }
 }
