@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access"
+url: "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-08-28T12:18:55Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
+
+> Source: security | Category: security | 2026-08-28T12:18:55Z
+
+China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
+
+VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.
+
+The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.
