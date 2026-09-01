@@ -1,0 +1,18 @@
+---
+title: "[krebs] FBI Probes Service Selling 153M+ Drivers Licenses"
+url: "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "krebs"]
+date: "2026-09-01T23:26:28Z"
+metadata:
+  {}
+---
+
+# [krebs] FBI Probes Service Selling 153M+ Drivers Licenses
+
+> Source: security | Category: security | 2026-09-01T23:26:28Z
+
+FBI Probes Service Selling 153M+ Drivers Licenses
+
+A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.
