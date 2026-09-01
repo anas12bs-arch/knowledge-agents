@@ -1,0 +1,16 @@
+---
+title: "HN Hiring (Ask HN: Who is hiring? (September 2026))"
+url: "https://news.ycombinator.com/item?id=49524979"
+source: "hn-hiring"
+category: "job-skills"
+tags: ["hiring", "tech-stack", "skills", "market-demand"]
+date: "2026-09-01T18:49:09Z"
+metadata:
+  {}
+---
+
+# HN Hiring (Ask HN: Who is hiring? (September 2026))
+
+> Source: hn-hiring | Category: job-skills | 2026-09-01T18:49:09Z
+
+Great Question | Product Engineer | Remote (Canada) | Full-time | <a href="https:&#x2F;&#x2F;greatquestion.com" rel="nofollow">https:&#x2F;&#x2F;greatquestion.com</a><p>Great Question is the best way to understand your customers - whether it&#x27;s mining what they&#x27;ve already told you, or generating new research via interviews, surveys and prototype tests. We&#x27;re 2nd time founders, closed our Series A last year, with customers from Canva &amp; Brex to Intuit &amp; Amazon.<p>We&#x27;re hiring product engineers to help us push the envelope on what&#x27;s possible in AI engineering practices, while helping our customers bake customer insight into every product release.<p>You&#x27;ll do well here if you have a strong sense of what makes a quality product, you&#x27;re AI native, and you solve the problem of ambiguity with getting closer to customers.<p>We&#x27;re hiring product engineers!<p><a href="https:&#x2F;&#x2F;greatquestion.com&#x2F;careers" rel="nofollow">https:&#x2F;&#x2F;greatquestion.com&#x2F;careers</a>
