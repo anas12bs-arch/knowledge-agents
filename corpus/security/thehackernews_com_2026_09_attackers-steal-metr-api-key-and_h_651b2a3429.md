@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Attackers Steal METR API Key and Consume AI Credits Worth About $600,000"
+url: "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-01T11:46:04Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Attackers Steal METR API Key and Consume AI Credits Worth About $600,000
+
+> Source: security | Category: security | 2026-09-01T11:46:04Z
+
+Attackers Steal METR API Key and Consume AI Credits Worth About $600,000
+
+METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered "two notable security incidents" where external actors attempted to gain unauthorized access to its systems.
+
+No sensitive information is believed to
