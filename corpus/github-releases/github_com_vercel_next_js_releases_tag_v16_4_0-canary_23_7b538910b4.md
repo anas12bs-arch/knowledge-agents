@@ -1,0 +1,41 @@
+---
+title: "vercel/next.js v16.4.0-canary.23 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.23"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-09-09T17:22:29Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.4.0-canary.23"
+---
+
+# vercel/next.js v16.4.0-canary.23 released
+
+> Source: github-releases | Category: changelog | 2026-09-09T17:22:29Z
+
+## vercel/next.js — v16.4.0-canary.23
+
+### Misc Changes
+
+- Turbopack: fix require handling with alternative: #98258
+- docs: clarify ISR with Suspense params: #98210
+- [cd] Update `peerDependencies` in prereleases to accept the current prerelease: #98411
+- test: stabilize error recovery snapshot timing: #98414
+- example: Use a Redis cacheHandler w/o dependencies: #95346
+- Support durable use-cache entries with client components: #98140
+- Upgrade React from `f4e439e1-20260902` to `6c0e1047-20260908`: #98363
+- fix: preserve repeated --require/--import flags when forking workers: #96651
+- ci: check that Turbopack compiles for wasm: #97588
+- feat(next-napi-bindings): build Turbopack for wasm: #97586
+- Add CSP nonce to script tags of loading and template files: #98398
+- Turbopack: fix output tracing include glob traversal: #98382
+- test: support deploy exclusions with force gates: #98149
+- Fix: Turbopack CSS HMR error when editing an unmounted merged CSS chunk: #94551
+- Dev server: More aggresively scold users for deleting .next when we detect it while dev is running: #98253
+- turbo-persistence: add TURBO_PERSISTENCE_MMAP=0 to disable mmap: #97873
+- Fix dev route discovery startup race: #97920
+
+### Credits 
+
+Huge thanks to @mischnic, @aurorascharff, @eps1lon, @sokra, @icyJoseph, @anujbolewar, @gnoff, @spirosikmd, and @bgw for helping!
