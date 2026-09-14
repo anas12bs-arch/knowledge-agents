@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports"
+url: "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-14T22:05:37Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports
+
+> Source: security | Category: security | 2026-09-14T22:05:37Z
+
+Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports
+
+A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12.
+
+In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to
