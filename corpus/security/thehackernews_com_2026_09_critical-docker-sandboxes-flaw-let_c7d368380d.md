@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files"
+url: "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-18T06:18:58Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files
+
+> Source: security | Category: security | 2026-09-18T06:18:58Z
+
+Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files
+
+Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;security announcement&nbsp;on September 15.
+
+The escape runs with the rights of the host account that runs the virtual machine. The flaw,&nbsp;CVE-2026-77179, is rated Critical, affects versions
