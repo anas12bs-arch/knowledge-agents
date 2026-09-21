@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto"
+url: "https://thehackernews.com/2026/09/contagious-interview-campaign.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-21T18:41:28Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
+
+> Source: security | Category: security | 2026-09-21T18:41:28Z
+
+Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
+
+The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.
+
+The primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,
