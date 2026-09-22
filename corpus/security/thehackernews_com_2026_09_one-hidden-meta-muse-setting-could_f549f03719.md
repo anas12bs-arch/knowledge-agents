@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor"
+url: "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-22T10:12:39Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor
+
+> Source: security | Category: security | 2026-09-22T10:12:39Z
+
+One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor
+
+Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21.
+
+It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta.
+
+The flaw is in
