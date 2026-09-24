@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files"
+url: "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-24T10:22:28Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
+
+> Source: security | Category: security | 2026-09-24T10:22:28Z
+
+OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
+
+An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.
+
+The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal
