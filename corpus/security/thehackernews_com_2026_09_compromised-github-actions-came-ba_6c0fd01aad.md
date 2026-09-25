@@ -1,0 +1,26 @@
+---
+title: "[hacker-news-sec] Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware"
+url: "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-25T19:20:01Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+
+> Source: security | Category: security | 2026-09-25T19:20:01Z
+
+Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+
+Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.
+
+The affected GitHub Actions are listed below -
+
+
+  actions-cool/issues-helper
+  actions-cool/maintain-one-comment
+
+Visiting either of the repositories now shows the message: "Access to this
