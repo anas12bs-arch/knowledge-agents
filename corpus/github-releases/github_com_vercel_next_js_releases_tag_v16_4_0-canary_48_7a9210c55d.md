@@ -1,0 +1,41 @@
+---
+title: "vercel/next.js v16.4.0-canary.48 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.48"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-09-26T00:45:33Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.4.0-canary.48"
+---
+
+# vercel/next.js v16.4.0-canary.48 released
+
+> Source: github-releases | Category: changelog | 2026-09-26T00:45:33Z
+
+## vercel/next.js — v16.4.0-canary.48
+
+### Misc Changes
+
+- Hoist resolved pathname into app page route match: #99259
+- docs: papercuts in image API reference: #99256
+- test: run the TypeScript version warning suites in deploy: #99195
+- test: drop skipDeployment where another gate already excludes deploy: #99194
+- bundle-analyzer: suspend while loading analyzer data: #98535
+- Fix Server Actions hanging after navigation to PPR pages: #99252
+- Fix blurry bundle analyzer treemap on low-DPI displays: #99197
+- Rename bundle analyzer snapshot naming option: #99251
+- Reduce stacked PR gate polling and use ts-jest: #99215
+- Name the internal trace server process: #99257
+- test: enable deploy coverage for asset and compiler errors: #98850
+- test: consolidate duplicate mode branches in build error tests: #99135
+- test: snapshot the proxy-runtime build error output: #99136
+- Avoid obsolete pnpm overrides in pack-next: #99199
+- bundle-analyzer: move comparison state into URL: #98530
+- simplify `Transition` by removing dead members: #94467
+- fix: respect metadata streaming policy in Edge SSR: #99128
+
+### Credits 
+
+Huge thanks to @gnoff, @icyJoseph, @jamiboym, @wbinnssmith, @unstubbable, @sokra, and @lukesandberg for helping!
