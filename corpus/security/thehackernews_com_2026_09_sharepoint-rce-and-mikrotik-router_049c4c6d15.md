@@ -1,0 +1,23 @@
+---
+title: "[hacker-news-sec] SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild"
+url: "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-26T10:06:41Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild
+
+> Source: security | Category: security | 2026-09-26T10:06:41Z
+
+SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities in question are as follows -
+
+
+  CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint
