@@ -1,0 +1,32 @@
+---
+title: "vercel/next.js v16.3.8 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.3.8"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-09-30T23:46:31Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.3.8"
+---
+
+# vercel/next.js v16.3.8 released
+
+> Source: github-releases | Category: changelog | 2026-09-30T23:46:31Z
+
+## vercel/next.js — v16.3.8
+
+This release contains security fixes for the following advisories:
+
+High:
+- [Server-Side Request Forgery in Image Optimization](https://github.com/vercel/next.js/security/advisories/GHSA-cjq9-62q9-8jv4)
+
+Medium:
+- [Information disclosure in Next.js App Router metadata image routes via dynamicParams bypass](https://github.com/vercel/next.js/security/advisories/GHSA-f87g-xv8r-7p7x)
+- [Cache poisoning of SSG and ISR pages in self-hosted Next.js applications](https://github.com/vercel/next.js/security/advisories/GHSA-4jqv-mc3x-m676)
+- [Cache poisoning in Next.js SSG/ISR rendering leads to cross-user content substitution and persistent denial of service](https://github.com/vercel/next.js/security/advisories/GHSA-mcj8-r9mp-w47p)
+- [Pending `use cache` fill can leak Draft Mode content into regular responses and persisted pages](https://github.com/vercel/next.js/security/advisories/GHSA-3w37-wq28-93x7)
+- [Cache leak across root param values in nested 'use cache' functions](https://github.com/vercel/next.js/security/advisories/GHSA-h694-7cp9-m8p3)
+
+Low:
+- [Information disclosure in the Next.js development server's Model Context Protocol endpoint](https://github.com/vercel/next.js/security/advisories/GHSA-39w2-rjm5-chcv)

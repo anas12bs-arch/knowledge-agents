@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks"
+url: "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-09-30T23:45:36Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
+
+> Source: security | Category: security | 2026-09-30T23:45:36Z
+
+Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
+
+Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.
+
+"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected

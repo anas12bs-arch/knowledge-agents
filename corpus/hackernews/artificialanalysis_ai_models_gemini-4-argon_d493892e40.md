@@ -1,0 +1,18 @@
+---
+title: "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis"
+url: "https://artificialanalysis.ai/models/gemini-4-argon"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-09-30T23:45:42Z"
+metadata:
+  score: "73"
+---
+
+# Gemini 4 Argon (High): Intelligence, Performance and Price Analysis
+
+> Source: hackernews | Category: news | 2026-09-30T23:45:42Z
+
+Score: 73 | Comments: 31
+
+See also: <i>Gemini 4 Argon</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49913571">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49913571</a>
