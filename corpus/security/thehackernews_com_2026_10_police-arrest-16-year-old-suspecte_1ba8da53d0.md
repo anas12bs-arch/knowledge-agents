@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers"
+url: "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-01T21:09:41Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+
+> Source: security | Category: security | 2026-10-01T21:09:41Z
+
+Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+
+Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.
+
+The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.
+
+Investigators identified him as KillSec's suspected
