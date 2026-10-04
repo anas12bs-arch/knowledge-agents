@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members"
+url: "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-04T15:31:33Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+
+> Source: security | Category: security | 2026-10-04T15:31:33Z
+
+ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+
+A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.
+
+Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Federal Bureau of Investigation (FBI) and

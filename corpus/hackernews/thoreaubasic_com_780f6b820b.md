@@ -1,0 +1,33 @@
+---
+title: "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?"
+url: "https://thoreaubasic.com/"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-10-04T15:31:39Z"
+metadata:
+  score: "74"
+---
+
+# Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?
+
+> Source: hackernews | Category: news | 2026-10-04T15:31:39Z
+
+Score: 74 | Comments: 40
+
+Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like:<p><pre><code>  DIM A%(12000000000)
+</code></pre>
+…and have it actually work. Then I kept adding things. The result is Thoreau BASIC, a free x64 BASIC interpreter inspired by GW-BASIC, running both as a normal Windows program and directly on bare-metal UEFI without an operating system.<p>Version 3.2 has become considerably more ambitious than the little interpreter I originally intended to write. The language still deliberately looks and feels like old Microsoft BASIC. Line numbers, GOTO, GOSUB, PRINT, PSET, LINE, CIRCLE, DRAW, etc. are all there. But underneath that rather innocent-looking surface is now quite a lot of machinery.<p>Some of the current features:<p><pre><code>  native x64 JIT compilation, with automatic fallback to the interpreter
+  PARFOR for multithreaded numeric loops
+  SSE2 &#x2F; AVX2 acceleration where available
+  64-bit addressing and very large arrays
+  native complex, quaternion and other hypercomplex numbers
+  arbitrary-resolution 24-bit graphics
+  sprites, bitmap operations, polygon filling and mouse input
+  TCP&#x2F;IP networking on Windows and UEFI
+  an integrated profiler, debugger, tracing and program-analysis tools
+  CREATEEXE to turn a BASIC program into a standalone Windows executable
+  CREATEEFI to turn the same program into a directly bootable UEFI application
+</code></pre>
+The sound system has also grown rather out of proportion. Thoreau BASIC can now handle up to 32 live instrument channels plus 64 sound effect channels and 256 voices, with real-time pan and brightness control. NOTE and SOUNDKEY can be used more like playable synthesis primitives rather than just old-school BASIC beeps.<p>3.2 also expands the less glamorous but surprisingly useful parts of the environment. There is better file browsing and selection with GETFILES and SELECTBOX, longer case-preserving paths, recovery&#x2F;file-flush facilities, and considerably more detailed SYSTEMINFO$ diagnostics. The latter is useful for seeing things such as available CPU capabilities and the execution environment while debugging performance differences between machines.<p>One thing I&#x27;ve spent a lot of time on recently is making the BASIC programs themselves fast enough that they stop feeling like demonstrations of an interpreter. For example, the current Mandelbrot demo is a real-time interactive fractal explorer. Mouse movement pans the fractal, left-click zooms in and right-click zooms out, while the BASIC program continuously redraws and displays the frame rate.<p>There are also 3D and procedural demos, sprite programs, networking examples, hypercomplex fractals and games.
+An important design constraint throughout the project has been that Windows and UEFI should execute essentially the same BASIC language. A program shouldn&#x27;t suddenly become a different species just because there is no operating system underneath it.<p>And yes, I am fully aware of the absurdity of combining GOTO 100 with AVX2, multithreading, TCP&#x2F;IP and quaternion arithmetic. That is increasingly the point. I&#x27;m interested in the question: What would BASIC look like if it had never gone out of fashion? Thoreau BASIC 3.2 is my current answer.<p>I&#x27;d be especially interested in feedback from people who remember GW-BASIC&#x2F;QBasic, compiler&#x2F;interpreter people, and anyone sufficiently unreasonable to enjoy the idea of booting a modern x64 PC directly into a BASIC interpreter&#x2F;JIT compiler.
