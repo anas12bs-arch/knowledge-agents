@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes"
+url: "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-06T01:33:38Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+
+> Source: security | Category: security | 2026-10-06T01:33:38Z
+
+Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+
+Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.
+
+The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.
+
+"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a
