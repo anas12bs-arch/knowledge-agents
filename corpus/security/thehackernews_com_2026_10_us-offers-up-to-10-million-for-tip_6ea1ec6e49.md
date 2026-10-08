@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks"
+url: "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-08T14:38:43Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
+
+> Source: security | Category: security | 2026-10-08T14:38:43Z
+
+U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
+
+The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM.
+
+The reward is for information leading to his identification or location, the news outlet&nbsp;NTD reported&nbsp;this week, citing a notice
