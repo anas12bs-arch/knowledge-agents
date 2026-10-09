@@ -1,0 +1,19 @@
+---
+title: "Show HN: Jevman – AI decision models play Pac-Man"
+url: "https://opper.ai/jevman-benchmark/"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-10-09T06:13:52Z"
+metadata:
+  score: "53"
+---
+
+# Show HN: Jevman – AI decision models play Pac-Man
+
+> Source: hackernews | Category: news | 2026-10-09T06:13:52Z
+
+Score: 53 | Comments: 10
+
+Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.<p>We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.<p>So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts.<p>The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo:
+<a href="https:&#x2F;&#x2F;github.com&#x2F;opper-ai&#x2F;jevman-benchmark&#x2F;blob&#x2F;main&#x2F;CONTRIBUTING.md#benchmark-your-own-model" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;opper-ai&#x2F;jevman-benchmark&#x2F;blob&#x2F;main&#x2F;CONTR...</a><p>You can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try.<p>It&#x27;s pretty fun to play and surprisingly difficult to beat jev&#x27;s highscore. Any feedback is more than welcome!
