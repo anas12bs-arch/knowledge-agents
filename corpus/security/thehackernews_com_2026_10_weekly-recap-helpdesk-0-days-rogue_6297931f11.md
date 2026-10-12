@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] ⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More"
+url: "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-12T22:48:19Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] ⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More
+
+> Source: security | Category: security | 2026-10-12T22:48:19Z
+
+⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More
+
+Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it.
+
+But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.
