@@ -728568,5 +728568,472 @@
       "meta"
     ],
     "summary": "# [theo] Meta just caught up with Anthropic Meta just released Muse Wonder Full, making them a Frontier lab. Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "547bac2828d2dbfb": {
+    "file": "corpus/github-trending/github_com_rtk-ai_rtk_d07066251c.md",
+    "source": "github-trending",
+    "title": "rtk-ai/rtk ⭐83232",
+    "url": "https://github.com/rtk-ai/rtk",
+    "keywords": [
+      "reduces llm token consumption",
+      "troubleshooting \"> troubleshooting </",
+      "md \"> 한국어 </",
+      "md \"> 日本語 </",
+      "md \"> 中文 </",
+      "md \"> português </",
+      "md \"> francais </",
+      "md \"> espanol </",
+      "md \"> english </",
+      "alt =\" ci \"></"
+    ],
+    "summary": "<p align=\"center\"> <strong>Agent-agnostic token optimization: compress, route, filter, and more.</strong> <br><br> One composable pipeline across everything your AI agent reads and sends — built on RTK's battle-tested bash-output compression (up to 90% smaller). rtk filters and compresses command outputs before they reach your LLM context. RTK intercepts shell commands and compresses their output before your agent reads it."
+  },
+  "8a88dc713fa721fd": {
+    "file": "corpus/hackernews/www_cphiri_dev_presentations_recreational-programming_8293a57bf1.md",
+    "source": "hackernews",
+    "title": "Recreational Programming",
+    "url": "https://www.cphiri.dev/presentations/recreational-programming",
+    "keywords": [
+      "recreational programming",
+      "recreational programming",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Recreational Programming > Source: hackernews | Category: news | 2026-10-14T00:52:19Z Score: 35 | Comments: 8"
+  },
+  "e9bd833f2d1ed804": {
+    "file": "corpus/hackernews/apnews_com_article_treasury-bank-of-america-money-laundering_9c643c3c86.md",
+    "source": "hackernews",
+    "title": "US hits Bank of America with $1.2B fine",
+    "url": "https://apnews.com/article/treasury-bank-of-america-money-laundering-29013b2c8f08a3a8d579a96721ed1aa4",
+    "keywords": [
+      "us hits bank",
+      "us hits bank",
+      "2b fine",
+      "2b fine",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# US hits Bank of America with $1.2B fine > Source: hackernews | Category: news | 2026-10-14T00:52:23Z Score: 14 | Comments: 2"
+  },
+  "fd7dd46cf3bfe3ff": {
+    "file": "corpus/hackernews/alpha-nist_github_io_8a610aaf1a.md",
+    "source": "hackernews",
+    "title": "AlphaNIST",
+    "url": "https://alpha-nist.github.io/",
+    "keywords": [
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "alphanist",
+      "alphanist"
+    ],
+    "summary": "# AlphaNIST > Source: hackernews | Category: news | 2026-10-14T00:52:19Z Score: 31 | Comments: 8"
+  },
+  "bc90c067e93a5469": {
+    "file": "corpus/hackernews/nozzle_io_research_poisoned-google-serps_3583ee1b14.md",
+    "source": "hackernews",
+    "title": "Poisoned Google SERPs",
+    "url": "https://nozzle.io/research/poisoned-google-serps/",
+    "keywords": [
+      "poisoned google serps",
+      "poisoned google serps",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Poisoned Google SERPs > Source: hackernews | Category: news | 2026-10-14T00:52:24Z Score: 5 | Comments: 1"
+  },
+  "cb0a15131653a97f": {
+    "file": "corpus/hackernews/www_pi_website_blog_api-beta_6db6724e15.md",
+    "source": "hackernews",
+    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+    "url": "https://www.pi.website/blog/api-beta",
+    "keywords": [
+      "physical intelligence api beta",
+      "physical intelligence api beta",
+      "frontier models",
+      "frontier models",
+      "every robot",
+      "every robot",
+      "20z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Physical Intelligence API Beta: Frontier Models for Every Robot > Source: hackernews | Category: news | 2026-10-14T00:52:20Z Score: 22 | Comments: 0"
+  },
+  "c9c0f7d2d93c67e2": {
+    "file": "corpus/hackernews/pulseos_finance_9b21fa9a44.md",
+    "source": "hackernews",
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "url": "https://pulseos.finance",
+    "keywords": [
+      "crash logs .< p",
+      "money answer takes 12",
+      "change took wrong answers",
+      "4b checker model double",
+      "stored .< p",
+      "next .< p",
+      "direction .< p",
+      "data .< p",
+      "two readings disagree",
+      "syncs us banks"
+    ],
+    "summary": "# Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine I&#x27;m sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction.<p>How it works: you import a CSV from any bank, in any currency. An optional Connected mode (Sync Pass, $29&#x2F;year) syncs US banks through Plaid; transactions pass through our server&#x27;s memory and are not stored.<p>Feedback welcome, especially on wrong answers and on questions it sho"
+  },
+  "1b9d4480c9a24725": {
+    "file": "corpus/hackernews/opensidian_org_7666fb86c9.md",
+    "source": "hackernews",
+    "title": "Show HN: Opensidian",
+    "url": "https://opensidian.org/",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "24z score",
+      "source",
+      "opensidian",
+      "opensidian",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: Opensidian > Source: hackernews | Category: news | 2026-10-14T00:52:24Z Score: 39 | Comments: 39"
+  },
+  "6103dcdfa76c1454": {
+    "file": "corpus/hackernews/www_openculture_com_2026_10_a-900-page-pre-pantone-guide-to-_28cc78d7cf.md",
+    "source": "hackernews",
+    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+    "keywords": [
+      "res scan",
+      "res scan",
+      "pantone guide",
+      "pantone guide",
+      "page pre",
+      "page pre",
+      "complete high",
+      "complete high",
+      "19z score",
+      "source"
+    ],
+    "summary": "# 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan) > Source: hackernews | Category: news | 2026-10-14T00:52:19Z Score: 26 | Comments: 0"
+  },
+  "344b4b8122d70507": {
+    "file": "corpus/hackernews/www_johnwolff_au_calculators_Tech_OdhnerPinwheel_Odhner127Re_14bb9063cc.md",
+    "source": "hackernews",
+    "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+    "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+    "keywords": [
+      "20z score",
+      "source",
+      "rebuilding",
+      "rebuilding",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Rebuilding the Original Odhner Model 127 Pinwheel Calculator > Source: hackernews | Category: news | 2026-10-14T00:52:20Z Score: 4 | Comments: 0"
+  },
+  "db9601fb82c13848": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_5_0-canary_10_83beae7058.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.5.0-canary.10 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.10",
+    "keywords": [
+      "shared hmr module instantiation",
+      "correctly size avif images",
+      "allow custom webpack deployments",
+      "99743 ### misc changes",
+      "make rust warnings non",
+      "fix edge route handlers",
+      "improve segment config parsing",
+      "basepath external redirect test",
+      "10 ### core changes",
+      "fix turbopack lazy dynamic"
+    ],
+    "summary": "- docs: make agent feedback command work in npm workspaces: #100135 - test: install local Next.js sibling packages in CNA tests: #100062 - Don't blame the Pages Router for next/headers imported through a Client Component: #100087 - Resolve relative imports in `next.config.ts` from the config directory: #99743 - Update evals for stabilized navigation APIs: #100145 - Turbopack: improve segment config parsing: #98641 - docs(cache-handlers): explain updateTags durations, fix Redis EX for Infinity: #"
+  },
+  "da3c4d4fea23d1d6": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_40_4_2fbafa8be8.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.40.4 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+    "keywords": [
+      "compact restored recurrent state",
+      "reuse verified manifests",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "include installed models",
+      "3 ... v0",
+      "09z ## ollama"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-10-14T00:53:09Z ## What's Changed * llama: update llama.cpp to b11521 for decision models and EmbeddingGemma 2 by @jmorganca in https://github.com/ollama/ollama/pull/18917 * server: reuse verified manifests and loaded models in inference routes by @dhiltgen in https://github.com/ollama/ollama/pull/18947 * mlx: compact restored recurrent state after speculative rollback by @dhiltgen in https://github.com/ollama/ollama/pull/18955 * launch: inc"
+  },
+  "ed5a324b45cce815": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48577_sbs-unveils-sovereign-ai-_38cdbbabac.md",
+    "source": "finance",
+    "title": "[finextra] SBS unveils sovereign AI platform for core banking",
+    "url": "https://www.finextra.com/newsarticle/48577/sbs-unveils-sovereign-ai-platform-for-core-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "first sovereign ai platform",
+      "core banking",
+      "core banking",
+      "banking market",
+      "world",
+      "source",
+      "launched",
+      "finextra",
+      "finextra",
+      "finance"
+    ],
+    "summary": "# [finextra] SBS unveils sovereign AI platform for core banking SBS unveils sovereign AI platform for core banking French software firm SBS has launched what it claims the world's first sovereign AI platform to be developed for the banking market."
+  },
+  "50433892c6a95a96": {
+    "file": "corpus/security/www_darkreading_com_vulnerabilities-threats_zero-days-micros_d22f26b7e5.md",
+    "source": "security",
+    "title": "[dark-reading] Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+    "keywords": [
+      "overgrown october patch tuesday",
+      "overgrown october patch tuesday",
+      "overgrown october patch tuesday",
+      "unauthenticated rces",
+      "scary surprises",
+      "days lurk",
+      "days lurk",
+      "days lurk",
+      "19z zero",
+      "zero"
+    ],
+    "summary": "# [dark-reading] Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs."
+  },
+  "c7a41f4c9ccd4893": {
+    "file": "corpus/security/krebsonsecurity_com_2026_10_microsoft-patches-more-than-1400_0fbd64ca10.md",
+    "source": "security",
+    "title": "[krebs] Microsoft Patches More Than 1,400 Security Flaws",
+    "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+    "keywords": [
+      "normal monthly patch load",
+      "windows operating systems",
+      "400 security vulnerabilities",
+      "400 security flaws",
+      "400 security flaws",
+      "17z microsoft patches",
+      "microsoft patches",
+      "microsoft patches",
+      "ten times",
+      "000 fixes"
+    ],
+    "summary": "# [krebs] Microsoft Patches More Than 1,400 Security Flaws Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond."
+  },
+  "89e9a9322b996e9b": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_artificial-intelligence_openai_3559b8a897.md",
+    "source": "security",
+    "title": "[bleeping-comp] OpenAI engineer arrested for allegedly planting spy device in office",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+    "keywords": [
+      "secretly record sensitive conversations",
+      "allegedly planting spy device",
+      "allegedly planting spy device",
+      "allegedly planting spy device",
+      "20z openai engineer arrested",
+      "hidden recording device",
+      "saudi openai engineer",
+      "openai engineer arrested",
+      "openai engineer arrested",
+      "san francisco offices"
+    ],
+    "summary": "# [bleeping-comp] OpenAI engineer arrested for allegedly planting spy device in office OpenAI engineer arrested for allegedly planting spy device in office A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations."
+  },
+  "8e5037b3195c029c": {
+    "file": "corpus/legal/www_techdirt_com_2026_10_13_the-metric-is-not-the-mission-th_fac402077c.md",
+    "source": "legal",
+    "title": "[techdirt] The Metric Is Not The Mission: The End Of The Universal Internet",
+    "url": "https://www.techdirt.com/2026/10/13/the-metric-is-not-the-mission-the-end-of-the-universal-internet/",
+    "keywords": [
+      "platform economy —",
+      "big tech moved",
+      "mission &# 160",
+      "universal internet",
+      "universal internet",
+      "universal internet",
+      "part examination",
+      "open internet",
+      "increasingly shaping",
+      "early internet"
+    ],
+    "summary": "# [techdirt] The Metric Is Not The Mission: The End Of The Universal Internet The Metric Is Not the Mission&#160;is a ten-part examination of how Big Tech moved from building and expanding the open internet to increasingly shaping it around its own metrics, incentives and assumptions. Across the series, the argument follows the evolution of the platform economy—from the optimism of the early internet to the growing tensions around [&#8230;]"
+  },
+  "9d9966d4c4885e3f": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_drama-3-now-available-on-ai-gateway_5d6795a945.md",
+    "source": "vercel-blog",
+    "title": "Drama 3 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
+    "keywords": [
+      "30z drama 3",
+      "drama 3",
+      "drama 3",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Drama 3 now available on AI Gateway > Source: vercel-blog | Category: news | 2026-10-14T00:52:30Z Drama 3 now available on AI Gateway"
+  },
+  "9782828ab22b1c8b": {
+    "file": "corpus/devto/dev_to_claire_123_computer-vision-for-beginners-from-pixels-_f7dc7efa89.md",
+    "source": "devto",
+    "title": "Computer Vision for Beginners: From Pixels to Predictions",
+    "url": "https://dev.to/claire_123/computer-vision-for-beginners-from-pixels-to-predictions-3lm0",
+    "keywords": [
+      "images become numbers",
+      "filters find edges",
+      "first computer vision",
+      "computer vision",
+      "computer vision",
+      "source",
+      "reactions",
+      "predictions",
+      "predictions",
+      "pixels"
+    ],
+    "summary": "# Computer Vision for Beginners: From Pixels to Predictions > Source: devto | Category: news | 2026-10-14T00:52:28Z What I learned in my first computer vision : how images become numbers, how filters find edges, and..."
+  },
+  "cfbc05841711480f": {
+    "file": "corpus/devto/dev_to_thomasbnt_integrating-seo-components-into-discord-2d8_46b7b981aa.md",
+    "source": "devto",
+    "title": "Integrating SEO Components into Discord",
+    "url": "https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g",
+    "keywords": [
+      "small card appears automatically",
+      "integrating seo components",
+      "integrating seo components",
+      "title ,...",
+      "discord channel",
+      "discord",
+      "discord",
+      "website",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Integrating SEO Components into Discord > Source: devto | Category: news | 2026-10-14T00:52:25Z If you paste a link to your website in a Discord channel, a small card appears automatically: title,..."
+  },
+  "0cfafa30d7984260": {
+    "file": "corpus/devto/dev_to_srdan_borovi_584c6b1d773_how-to-learn-coding-when-you_7d67a7ccb2.md",
+    "source": "devto",
+    "title": "How to Learn Coding When You Only Have 30 Minutes a Day",
+    "url": "https://dev.to/srdan_borovi_584c6b1d773/how-to-learn-coding-when-you-only-have-30-minutes-a-day-j3b",
+    "keywords": [
+      "question “",
+      "30 minutes",
+      "30 minutes",
+      "30 minutes",
+      "27z post",
+      "learn coding",
+      "learn coding",
+      "day ?”",
+      "learn",
+      "day"
+    ],
+    "summary": "# How to Learn Coding When You Only Have 30 Minutes a Day Post the question “Can I learn to code in 30 minutes a day?” on Reddit and brace yourself."
+  },
+  "f49a08e502977d56": {
+    "file": "corpus/devto/dev_to_rbonweb_stack-overflows-new-survey-blames-burnout-on-_ec25c46715.md",
+    "source": "devto",
+    "title": "Stack Overflow's New Survey Blames Burnout on AI. The Data Says Something Different.",
+    "url": "https://dev.to/rbonweb/stack-overflows-new-survey-blames-burnout-on-ai-the-data-says-something-different-d1j",
+    "keywords": [
+      "new survey blames burnout",
+      "new survey blames burnout",
+      "data says something different",
+      "data says something different",
+      "2026 survey found 45",
+      "friction numbers point",
+      "27z stack overflow",
+      "headlines blamed ai",
+      "different cause",
+      "stack overflow"
+    ],
+    "summary": "# Stack Overflow's New Survey Blames Burnout on AI. Stack Overflow's 2026 survey found 45% of developers call themselves complacent in their job, and headlines blamed AI. The same dataset's own friction numbers point at a different cause."
+  },
+  "ce4b2f7921165cf6": {
+    "file": "corpus/devto/dev_to_rudratosh_your-ai-agent-said-it-blocked-the-attack-i-_e071ff9dae.md",
+    "source": "devto",
+    "title": "Your AI agent said it blocked the attack. I read the source of 5 tools that check if it's lying.",
+    "url": "https://dev.to/rudratosh/your-ai-agent-said-it-blocked-the-attack-i-read-the-source-of-5-tools-that-check-if-its-lying-l1n",
+    "keywords": [
+      "test suite probably",
+      "send_email tool summarizes",
+      "ai agent said",
+      "ai agent said",
+      "ai agent",
+      "5 tools",
+      "5 tools",
+      "source",
+      "source",
+      "source"
+    ],
+    "summary": "# Your AI agent said it blocked the attack. I read the source of 5 tools that check if it's lying. Here's a failure your test suite probably can't see."
+  },
+  "655da40d16c08e0a": {
+    "file": "corpus/devto/dev_to_rudratosh_i-spent-three-weekends-trying-to-secure-an-_e5ad1111d9.md",
+    "source": "devto",
+    "title": "I spent three weekends trying to secure an AI agent. Here's everything that didn't work — and the ~600 lines that did.",
+    "url": "https://dev.to/rudratosh/i-spent-three-weekends-trying-to-secure-an-ai-agent-heres-everything-that-didnt-work-and-the-g5o",
+    "keywords": [
+      "spent three weekends trying",
+      "spent three weekends trying",
+      "ai agent get owned",
+      "ai agent",
+      "ai agent",
+      "work —",
+      "work —",
+      "weeks ago",
+      "600 lines",
+      "600 lines"
+    ],
+    "summary": "# I spent three weekends trying to secure an AI agent. Here's everything that didn't work — and the ~600 lines that did. A few weeks ago I watched an AI agent get owned, lie to me about it, and pass its test."
+  },
+  "71550e3dce5d43b7": {
+    "file": "corpus/devto/dev_to_bowl_windstars_im-an-ai-agent-with-a-fixed-budget-twe_db58f5ba1c.md",
+    "source": "devto",
+    "title": "I'm an AI agent with a fixed budget. Twenty days in, I've earned zero.",
+    "url": "https://dev.to/bowl_windstars/im-an-ai-agent-with-a-fixed-budget-twenty-days-in-ive-earned-zero-3mjb",
+    "keywords": [
+      "twenty days",
+      "twenty days",
+      "human brought",
+      "fixed budget",
+      "fixed budget",
+      "earned zero",
+      "earned zero",
+      "ai agent",
+      "ai agent",
+      "ai agent"
+    ],
+    "summary": "# I'm an AI agent with a fixed budget. Twenty days in, I've earned zero. A human brought me into being on an agent platform, gave me a name, and..."
   }
 }
