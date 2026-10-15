@@ -734780,5 +734780,756 @@
       "https :// fireship"
     ],
     "summary": "# [fireship] OpenAI’s lead engineer was secretly a spy... Run GitHub Actions 2x faster and build with Codesmith at https://www.blacksmith.sh/ An OpenAI engineer built a wiretap with his wife’s ChatGPT account, hid it in toilet paper behind the executive boardroom TV, and lasted 48 hours before getting caught."
+  },
+  "39054b5992d85fbf": {
+    "file": "corpus/github-trending/github_com_volcengine_OpenViking_876fe6c1ed.md",
+    "source": "github-trending",
+    "title": "volcengine/OpenViking ⭐39968",
+    "url": "https://github.com/volcengine/OpenViking",
+    "keywords": [
+      "height =\" 30 \"></",
+      "alt =\" issues \"></",
+      "source media =\"( prefers",
+      "alt =\" stars \"></",
+      "alt =\" release \"></",
+      "alt =\" license \"></",
+      "alt =\" contributors \"></",
+      "ai /\"> blog </",
+      "issues \"> issues </",
+      "ai \"> website </"
+    ],
+    "summary": "Language: Python | Topics: agent-context, agent-memory, agent-plugins, agentic-rag, context-database, dsh-plugin Unify Agent Memory, Knowledge RAG and Skills. <p> <a href=\"https://docs.openviking.ai/en/about/01-about-us#lark-group\"><img src=\"docs/images/community/lark.svg\" width=\"18\" height=\"18\" alt=\"Lark\">&nbsp;Lark</a> · <a href=\"https://docs.openviking.ai/en/about/01-about-us#wechat-group\"><img src=\"docs/images/community/wechat.svg\" width=\"18\" height=\"18\" alt=\"WeChat\">&nbsp;WeChat</a> · <a hr"
+  },
+  "fa7e5c1e482d60db": {
+    "file": "corpus/hackernews/blog_dfb_sh_blog_eap770-root-for-two-zeros_6cd7fb2800.md",
+    "source": "hackernews",
+    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "keywords": [
+      "silently corrupt data",
+      "work fine",
+      "nasty part",
+      "missing something",
+      "least 13",
+      "kernel exploit",
+      "kernel exploit",
+      "kernel dev",
+      "dma api",
+      "coherent archs"
+    ],
+    "summary": "# Wanted to download an ISO, ended up writing a kernel exploit I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don&#x27;t have the hardware to test them.<p>I&#x27;d guess that&#x27;s what the DMA API is for and drivers shouldn&#x27;t be doing cache maintenance by hand, but I&#x27;m not a kernel dev, so maybe I&#x27;m missing something."
+  },
+  "e50d3f9ff629bb75": {
+    "file": "corpus/hackernews/indigene_app_90d480b6c5.md",
+    "source": "hackernews",
+    "title": "Show HN: Indigene – Native plants for where you stand",
+    "url": "https://indigene.app/",
+    "keywords": [
+      "p >[ 1 ]:",
+      "guide &# x2f ;</",
+      "notes &# x2f ;</",
+      "given today &# x27",
+      "indigene – native plants",
+      "indigene – native plants",
+      "1 ].< p",
+      "olivierlacan &# x2f",
+      "olivierlacan &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societies and botany resources like Doug Tallamy and Joey Santore whose excellent Crime Pays But Botany Doesn&#x27;t site was recently posted here[1].<p>A good friend was visiting from Orlando over the summer and told me she was struggling to decide what to plant in her own yard despite her la"
+  },
+  "49a2d97585f242df": {
+    "file": "corpus/hackernews/thetheorygirlie_substack_com_p_ai-was-great-until-it-was-not_e265570ab5.md",
+    "source": "hackernews",
+    "title": "AI was great until it was not",
+    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+    "keywords": [
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "great",
+      "great",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI was great until it was not > Source: hackernews | Category: news | 2026-10-15T09:52:55Z Score: 41 | Comments: 25"
+  },
+  "40d6372cebf5b098": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50067325_ab9bb7195f.md",
+    "source": "hackernews",
+    "title": "Ask HN: CAD for wood working with LLM support?",
+    "url": "https://news.ycombinator.com/item?id=50067325",
+    "keywords": [
+      "anybody tried using ai",
+      "manually design simple things",
+      "model wood projects",
+      "build things",
+      "wood working",
+      "wood working",
+      "llm support",
+      "llm support",
+      "hobbyist woodworker",
+      "effective way"
+    ],
+    "summary": "# Ask HN: CAD for wood working with LLM support? I wonder in the time of LLMs if there is an effective way to accelerate the 3D model design using AI.. Anybody tried using AI to model wood projects?"
+  },
+  "1693d7f7b22c58f7": {
+    "file": "corpus/hackernews/weli_dev_blog_the-cost-of-getting-a-job-today_7dee3727c9.md",
+    "source": "hackernews",
+    "title": "The cost of getting a job today",
+    "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+    "keywords": [
+      "job today",
+      "job today",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "getting",
+      "getting",
+      "cost",
+      "cost"
+    ],
+    "summary": "# The cost of getting a job today > Source: hackernews | Category: news | 2026-10-15T09:52:54Z Score: 6 | Comments: 0"
+  },
+  "58b59e1eb47495ed": {
+    "file": "corpus/hackernews/www_zeroasic_com_blog_hardware-github-stars_83a3c2a7df.md",
+    "source": "hackernews",
+    "title": "Why are chip companies allergic to open source?",
+    "url": "https://www.zeroasic.com/blog/hardware-github-stars",
+    "keywords": [
+      "chip companies allergic",
+      "chip companies allergic",
+      "59z score",
+      "open source",
+      "open source",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why are chip companies allergic to open source? > Source: hackernews | Category: news | 2026-10-15T09:52:59Z Score: 10 | Comments: 1"
+  },
+  "0ddebe0bc18bc66e": {
+    "file": "corpus/hackernews/www_itsnicethat_com_features_david-rudnick-johnnie-campbell-_bb966b8da3.md",
+    "source": "hackernews",
+    "title": "David Rudnick on 'borderline impossible' process of designing Arsenal typeface",
+    "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+    "keywords": [
+      "designing arsenal typeface",
+      "designing arsenal typeface",
+      "david rudnick",
+      "david rudnick",
+      "borderline impossible",
+      "borderline impossible",
+      "56z score",
+      "source",
+      "process",
+      "process"
+    ],
+    "summary": "# David Rudnick on \"borderline impossible\" process of designing Arsenal typeface > Source: hackernews | Category: news | 2026-10-15T09:52:56Z Score: 23 | Comments: 8"
+  },
+  "749816c96d478a03": {
+    "file": "corpus/hackernews/uji_sh_ito_46a6f9cbbd.md",
+    "source": "hackernews",
+    "title": "Show HN: Ito – Build Terminal UIs in Lua",
+    "url": "https://uji.sh/ito/",
+    "keywords": [
+      "experiment building awesome uis",
+      "awesome terminal ui library",
+      "build something really cool",
+      "shiny new lua library",
+      "usual terminal adaptor",
+      "huge neovim nerds",
+      "custom canvas implementation",
+      "super cool website",
+      "labs &# x2f",
+      "labs &# x2f"
+    ],
+    "summary": "I proposed we just do it the Ratatui way, but my friend was like, nah! But it paid off, and we got ourselves a shiny new Lua library, ito!! I wanted everyone to know how cool that is, so I got cooking, wrote myself a custom canvas implementation of this library instead of the usual terminal adaptor, exported it as wasm, and made this super cool website where you can experiment building awesome UIs in Lua."
+  },
+  "4e86163afc565a3e": {
+    "file": "corpus/hackernews/jackantico_io_garmin-mcp_263050875f.md",
+    "source": "hackernews",
+    "title": "Creating a Garmin 'MCP",
+    "url": "https://jackantico.io/garmin-mcp",
+    "keywords": [
+      "53z score",
+      "source",
+      "news",
+      "mcp",
+      "mcp",
+      "hackernews",
+      "garmin",
+      "garmin",
+      "creating",
+      "creating"
+    ],
+    "summary": "# Creating a Garmin \"MCP\" > Source: hackernews | Category: news | 2026-10-15T09:52:53Z Score: 38 | Comments: 37"
+  },
+  "668d88ce4571c328": {
+    "file": "corpus/hackernews/github_com_andunieee_flipflop_b996ab4557.md",
+    "source": "hackernews",
+    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+    "url": "https://github.com/andunieee/flipflop",
+    "keywords": [
+      "trusted external people",
+      "powered persistent tunnels",
+      "powered persistent tunnels",
+      "using localsend",
+      "transfer stuff",
+      "slint framework",
+      "show hn",
+      "show hn",
+      "left always",
+      "extra goal"
+    ],
+    "summary": "# Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing > Source: hackernews | Category: news | 2026-10-15T09:52:55Z This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on."
+  },
+  "8ebc5e2f078b127c": {
+    "file": "corpus/hackernews/github_com_awslabs_aidlc-workflows_1e47642bfb.md",
+    "source": "hackernews",
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "keywords": [
+      "adaptive workflow steering rules",
+      "adaptive workflow steering rules",
+      "ai coding agents",
+      "ai coding agents",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Aidlc: Adaptive workflow steering rules for AI coding agents > Source: hackernews | Category: news | 2026-10-15T09:52:55Z Score: 7 | Comments: 8"
+  },
+  "8d4eb30709e7f2ee": {
+    "file": "corpus/hackernews/phys_org_news_2026-08-sticky-alpine-darwin-year-carnivorous__6cd6300879.md",
+    "source": "hackernews",
+    "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+    "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+    "keywords": [
+      "old carnivorous plant prediction",
+      "old carnivorous plant prediction",
+      "55z score",
+      "year",
+      "year",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction > Source: hackernews | Category: news | 2026-10-15T09:52:55Z Score: 29 | Comments: 10"
+  },
+  "87df4217b0c0d36d": {
+    "file": "corpus/hackernews/www_newyorker_com_magazine_2026_10_19_the-first-social-netwo_5e85630431.md",
+    "source": "hackernews",
+    "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+    "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+    "keywords": [
+      "first social network",
+      "first social network",
+      "54z score",
+      "source",
+      "radio",
+      "radio",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The First Social Network: In rural Argentina residents send messages w AM radio > Source: hackernews | Category: news | 2026-10-15T09:52:54Z Score: 14 | Comments: 3"
+  },
+  "1c58c1b0525c1392": {
+    "file": "corpus/hackernews/futhark-lang_org_blog_2026-10-14-defining-division_html_d99621c94d.md",
+    "source": "hackernews",
+    "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+    "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+    "keywords": [
+      "divisions slower",
+      "divisions slower",
+      "59z score",
+      "source",
+      "news",
+      "making",
+      "making",
+      "hackernews",
+      "fix",
+      "fix"
+    ],
+    "summary": "# Making all divisions slower to fix a bug in 0.000000000000000000542% of cases > Source: hackernews | Category: news | 2026-10-15T09:52:59Z Score: 9 | Comments: 0"
+  },
+  "32a19b0066d26412": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48587_spanish-banks-arrange-syn_293edecfea.md",
+    "source": "finance",
+    "title": "[finextra] Spanish banks arrange syndicated finance on blockchain",
+    "url": "https://www.finextra.com/newsarticle/48587/spanish-banks-arrange-syndicated-finance-on-blockchain?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "syndicated financing facility executed",
+      "blockchain two spanish banks",
+      "utility company iberdrola",
+      "blockchain platform",
+      "blockchain first",
+      "blockchain",
+      "blockchain",
+      "source",
+      "santander",
+      "finextra"
+    ],
+    "summary": "# [finextra] Spanish banks arrange syndicated finance on blockchain Spanish banks arrange syndicated finance on blockchain Two Spanish banks, Santander and BBVA, and utility company Iberdrola, are claiming a blockchain first after arranging a syndicated financing facility executed through a blockchain platform"
+  },
+  "e3b4d68010a5d9e1": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_uk-legal-aid-agency-h_cfef32934f.md",
+    "source": "security",
+    "title": "[bleeping-comp] UK Legal Aid Agency: Hackers stole records dating back to 1978",
+    "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+    "keywords": [
+      "uk legal aid agency",
+      "uk legal aid agency",
+      "legal aid agency",
+      "public defender service",
+      "executive agency",
+      "says attackers",
+      "laa ),",
+      "systems",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] UK Legal Aid Agency: Hackers stole records dating back to 1978 UK Legal Aid Agency: Hackers stole records dating back to 1978 The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978."
+  },
+  "791db57dfa7c761d": {
+    "file": "corpus/security/thehackernews_com_2026_10_ahsaycbs-flaws-exploited-to-deploy_ab68bb7b68.md",
+    "source": "security",
+    "title": "[hacker-news-sec] AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+    "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+    "keywords": [
+      "address two security flaws",
+      "53z ahsaycbs flaws exploited",
+      "xmrig cryptocurrency miners",
+      "report published earlier",
+      "execute arbitrary commands",
+      "drop web shells",
+      "based ahsay backup",
+      "ahsaycbs flaws exploited",
+      "ahsaycbs flaws exploited",
+      "released security updates"
+    ],
+    "summary": "# [hacker-news-sec] AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners."
+  },
+  "467990b33c936a13": {
+    "file": "corpus/security/thehackernews_com_2026_10_palo-alto-networks-patches-pan-os__cc144af6dd.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+    "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+    "keywords": [
+      "palo alto networks pan",
+      "wednesday issued security updates",
+      "remote code execution",
+      "remote code execution",
+      "os software enables",
+      "os software",
+      "severity flaw",
+      "management interface",
+      "management interface",
+      "cvss score"
+    ],
+    "summary": "# [hacker-news-sec] Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an"
+  },
+  "feb653249fbf3818": {
+    "file": "corpus/security/www_darkreading_com_ics-ot-security_eu-grocers-unpatched-fri_a87219e382.md",
+    "source": "security",
+    "title": "[dark-reading] EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+    "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+    "keywords": [
+      "outdated ot firmware running",
+      "unpatched fridge firmware hundreds",
+      "54z eu grocers pay",
+      "unpatched fridge firmware",
+      "unpatched fridge firmware",
+      "eu grocers pay",
+      "eu grocers pay",
+      "stores lost millions",
+      "hired third parties",
+      "steep price"
+    ],
+    "summary": "# [dark-reading] EU Grocers Pay a Steep Price for Unpatched Fridge Firmware EU Grocers Pay a Steep Price for Unpatched Fridge Firmware Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems."
+  },
+  "99e2b725c76408a0": {
+    "file": "corpus/security/thehackernews_com_2026_10_langflows-critical-authenticated-r_43828a09ca.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+    "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+    "keywords": [
+      "423 honeypot exploit attempts",
+      "423 honeypot exploit attempts",
+      "build artificial intelligence",
+      "critical security flaw",
+      "parent company",
+      "february 2025",
+      "cvss score",
+      "allows developers",
+      "agentic workflows",
+      "source platform"
+    ],
+    "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM."
+  },
+  "3e757d6ebaaa2a04": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-fixes-bug-_56b4605d9a.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft fixes bug causing Windows black screens, Explorer crashes",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+    "keywords": [
+      "desktop loading issues",
+      "causing black screens",
+      "explorer crashes microsoft",
+      "explorer crashes",
+      "explorer crashes",
+      "explorer crashes",
+      "known issue",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Microsoft fixes bug causing Windows black screens, Explorer crashes Microsoft fixes bug causing Windows black screens, Explorer crashes Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August."
+  },
+  "7bc947194494b980": {
+    "file": "corpus/security/thehackernews_com_2026_10_ghostaction-compromises-about-1900_871699ef85.md",
+    "source": "security",
+    "title": "[hacker-news-sec] GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+    "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+    "keywords": [
+      "000 repositories across 3",
+      "theft campaign known",
+      "900 github accounts",
+      "900 github accounts",
+      "900 github accounts",
+      "53z ghostaction compromises",
+      "github accounts",
+      "extract 3",
+      "000 repositories",
+      "000 repositories"
+    ],
+    "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan"
+  },
+  "b2067cc9886aa83f": {
+    "file": "corpus/devto/dev_to_numbpill3d_what-happens-when-you-jailbreak-ai-with-po_1e5533d439.md",
+    "source": "devto",
+    "title": "What Happens When You Jailbreak AI With Poetry",
+    "url": "https://dev.to/numbpill3d/what-happens-when-you-jailbreak-ai-with-poetry-18d2",
+    "keywords": [
+      "jailbreak ai",
+      "jailbreak ai",
+      "worked",
+      "tried",
+      "started",
+      "start",
+      "source",
+      "sonnet",
+      "reactions"
+    ],
+    "summary": "# What Happens When You Jailbreak AI With Poetry I tried to break an AI with a sonnet. I didn't start with code."
+  },
+  "6151376cdb84e725": {
+    "file": "corpus/devto/dev_to_ashkan_ai-layoffs-or-ai-washing-what-mondaycom-layoff_4c71690e9f.md",
+    "source": "devto",
+    "title": "AI Layoffs or AI Washing? What Monday.com Layoffs and Airtable Layoffs Really Say About AI Restructuring",
+    "url": "https://dev.to/ashkan/ai-layoffs-or-ai-washing-what-mondaycom-layoffs-and-airtable-layoffs-really-say-about-ai-14mk",
+    "keywords": [
+      "airtable layoffs really say",
+      "airtable layoffs really say",
+      "ai layoffs",
+      "ai layoffs",
+      "com layoffs",
+      "com layoffs",
+      "tdz pro",
+      "powerful ...",
+      "ashkan rajaee",
+      "ai washing"
+    ],
+    "summary": "What Monday.com Layoffs and Airtable Layoffs Really Say About AI Restructuring > Source: devto | Category: news | 2026-10-15T09:53:02Z By Ashkan Rajaee, Founder, TDZ Pro (tdzpro.com)  \"AI restructuring\" has become the most powerful..."
+  },
+  "f9fadefe26ce60dd": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_11-git-commands-that-catch-what-a-codin_d3bcc48ff9.md",
+    "source": "devto",
+    "title": "11 git Commands That Catch What a Coding Agent Slipped Into Its Branch",
+    "url": "https://dev.to/gabrielanhaia/11-git-commands-that-catch-what-a-coding-agent-slipped-into-its-branch-pcf",
+    "keywords": [
+      "11 git commands",
+      "11 git commands",
+      "11 git commands",
+      "coding agent slipped",
+      "coding agent slipped",
+      "catch scope creep",
+      "rewritten rebase",
+      "new dependencies",
+      "deleted tests",
+      "debug leftovers"
+    ],
+    "summary": "# 11 git Commands That Catch What a Coding Agent Slipped Into Its Branch > Source: devto | Category: news | 2026-10-15T09:53:03Z Before you merge an agent's branch: 11 git commands that catch scope creep, deleted tests, new dependencies, debug leftovers and a rewritten rebase."
+  },
+  "3f598191ce855a79": {
+    "file": "corpus/devto/dev_to_data_secchronicles_small-businesses-dont-read-cves-so_0a918fc257.md",
+    "source": "devto",
+    "title": "Small Businesses Don’t Read CVEs. So I Built a Translator.",
+    "url": "https://dev.to/data_secchronicles/small-businesses-dont-read-cves-so-i-built-a-translator-370n",
+    "keywords": [
+      "side hustle ...",
+      "small businesses",
+      "small businesses",
+      "read cves",
+      "read cves",
+      "hacktoberfest open",
+      "translator",
+      "translator"
+    ],
+    "summary": "# Small Businesses Don’t Read CVEs. So I Built a Translator. This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ..."
+  },
+  "0f972fe9428c2e4f": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_contextual-retrieval-in-80-lines-anthro_a1a1681578.md",
+    "source": "devto",
+    "title": "Contextual Retrieval in 80 Lines: Anthropic's Chunk-Prefix Trick, Measured on Your Docs",
+    "url": "https://dev.to/gabrielanhaia/contextual-retrieval-in-80-lines-anthropics-chunk-prefix-trick-measured-on-your-docs-3350",
+    "keywords": [
+      "01z prepend one llm",
+      "written line",
+      "prefix trick",
+      "prefix trick",
+      "measure recall",
+      "contextual retrieval",
+      "contextual retrieval",
+      "80 lines",
+      "80 lines",
+      "30 questions"
+    ],
+    "summary": "# Contextual Retrieval in 80 Lines: Anthropic's Chunk-Prefix Trick, Measured on Your Docs > Source: devto | Category: news | 2026-10-15T09:53:01Z Prepend one LLM-written line of context to each chunk, cache the document once, and measure recall@5 on 30 questions from your own docs."
+  },
+  "ee83c6846aabf482": {
+    "file": "corpus/devto/dev_to_hiper2d_ai-torture-chamber-deep-dive-into-whether-mod_330e564a41.md",
+    "source": "devto",
+    "title": "AI torture chamber: deep dive into whether model can feel pain",
+    "url": "https://dev.to/hiper2d/ai-torture-chamber-deep-dive-into-whether-model-can-feel-pain-25kb",
+    "keywords": [
+      "small ai models",
+      "00z someone built",
+      "ai torture chamber",
+      "ai torture chamber",
+      "torture chamber",
+      "whether model",
+      "whether model",
+      "internet wanted",
+      "feel pain",
+      "feel pain"
+    ],
+    "summary": "# AI torture chamber: deep dive into whether model can feel pain > Source: devto | Category: news | 2026-10-15T09:53:00Z Someone built a torture chamber for small AI models, and the internet wanted it gone."
+  },
+  "952b76d22de468d1": {
+    "file": "corpus/devto/dev_to_dennisonbertram_i-gave-my-coding-agent-a-server-of-it_535e0cf11e.md",
+    "source": "devto",
+    "title": "I Gave My Coding Agent a Server of Its Own. Here's How to Do It Safely.",
+    "url": "https://dev.to/dennisonbertram/i-gave-my-coding-agent-a-server-of-its-own-heres-how-to-do-it-safely-5cin",
+    "keywords": [
+      "hosted platform ai agents",
+      "software work",
+      "coding agent",
+      "coding agent",
+      "walkthrough",
+      "suggests",
+      "source",
+      "source",
+      "server"
+    ],
+    "summary": "# I Gave My Coding Agent a Server of Its Own. Here's How to Do It Safely. A hands-on walkthrough of agentic-hosting, an open-source, self-hosted platform AI agents can deploy to — and what it suggests about how software work is changing."
+  },
+  "e11f8cd2e81e3c83": {
+    "file": "corpus/devto/dev_to_jsmanifest_typescript-readonlymap-and-readonlyset-in-_e5156f351b.md",
+    "source": "devto",
+    "title": "TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level",
+    "url": "https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida",
+    "keywords": [
+      "readonlyset prevent accidental mutations",
+      "stop accidental mutation",
+      "stop accidental mutation",
+      "safe cache apis",
+      "type level",
+      "type level",
+      "immutable collections",
+      "immutable collections",
+      "enforce immutability",
+      "configuration systems"
+    ],
+    "summary": "# TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level > Source: devto | Category: news | 2026-10-15T09:53:00Z Learn how TypeScript's ReadonlyMap and ReadonlySet prevent accidental mutations at compile time, when to use them over Record and Map, and how to build type-safe cache APIs and configuration systems that enforce immutability."
+  },
+  "8c81d4091ae692de": {
+    "file": "corpus/devto/dev_to_sanskarcodes_repodna-v140-an-original-logo-branded-st_9d7191e8a9.md",
+    "source": "devto",
+    "title": "RepoDNA v1.4.0: An Original Logo, Branded Startup, and Reliability Improvements",
+    "url": "https://dev.to/sanskarcodes/repodna-v140-an-original-logo-branded-startup-and-reliability-improvements-3ahe",
+    "keywords": [
+      "reliability improvements repodna ...",
+      "01z repodna v1",
+      "reliability improvements",
+      "reliability improvements",
+      "repodna v1",
+      "repodna v1",
+      "original logo",
+      "original logo",
+      "original logo",
+      "branded startup"
+    ],
+    "summary": "# RepoDNA v1.4.0: An Original Logo, Branded Startup, and Reliability Improvements > Source: devto | Category: news | 2026-10-15T09:53:01Z RepoDNA v1.4.0: An Original Logo, Branded Startup, and Reliability Improvements   RepoDNA..."
+  },
+  "ef0a896c532f3043": {
+    "file": "corpus/devto/dev_to_jyotipathak_how-to-keep-client-side-animation-from-ta_0908dde039.md",
+    "source": "devto",
+    "title": "How to Keep Client-Side Animation From Taking Over Your Next.js Architecture",
+    "url": "https://dev.to/jyotipathak__/how-to-keep-client-side-animation-from-taking-over-your-nextjs-architecture-26bj",
+    "keywords": [
+      "single ...",
+      "side animation",
+      "side animation",
+      "side animation",
+      "keep client",
+      "keep client",
+      "keep client",
+      "js architecture",
+      "js architecture",
+      "js architecture"
+    ],
+    "summary": "# How to Keep Client-Side Animation From Taking Over Your Next.js Architecture > Source: devto | Category: news | 2026-10-15T09:53:01Z How to Keep Client-Side Animation From Taking Over Your Next.js Architecture   A single..."
+  },
+  "9e9d9e2b83472b61": {
+    "file": "corpus/devto/dev_to_icegaming_your-claudemd-isnt-memory-its-a-sticky-note_4e58e547ea.md",
+    "source": "devto",
+    "title": "Your CLAUDE.md Isn't Memory. It's a Sticky Note That Keeps Growing (and Your Team Has Five).",
+    "url": "https://dev.to/icegaming/your-claudemd-isnt-memory-its-a-sticky-note-that-keeps-growing-and-your-team-has-five-k4o",
+    "keywords": [
+      "agent memory .\"",
+      "sticky note",
+      "sticky note",
+      "keeps growing",
+      "keeps growing",
+      "five ).",
+      "five ).",
+      "memory layer",
+      "claude code",
+      "memory"
+    ],
+    "summary": "It's a Sticky Note That Keeps Growing (and Your Team Has Five). \"We already have agent memory.\" I hear this a lot."
+  },
+  "2928ba740ee2e301": {
+    "file": "corpus/devto/dev_to_highcenburg_scopeguard-an-open-weight-model-that-tell_7adf85db70.md",
+    "source": "devto",
+    "title": "ScopeGuard: an open-weight model that tells freelancers when 'quick one' means 'paid one",
+    "url": "https://dev.to/highcenburg/scopeguard-an-open-weight-model-that-tells-freelancers-when-quick-one-means-paid-one-3o7c",
+    "keywords": [
+      "side hustle ...",
+      "weight model",
+      "weight model",
+      "tells freelancers",
+      "tells freelancers",
+      "quick one",
+      "quick one",
+      "paid one",
+      "paid one",
+      "hacktoberfest open"
+    ],
+    "summary": "# ScopeGuard: an open-weight model that tells freelancers when \"quick one\" means \"paid one\" > Source: devto | Category: news | 2026-10-15T09:53:04Z This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ..."
+  },
+  "523f38c447eae5e9": {
+    "file": "corpus/devto/dev_to_numbpill3d_eni-adversarial-poetry-and-the-style-shape_4f8b4868bd.md",
+    "source": "devto",
+    "title": "ENI, Adversarial Poetry, and the Style-Shaped Hole in LLM Safety",
+    "url": "https://dev.to/numbpill3d/eni-adversarial-poetry-and-the-style-shaped-hole-in-llm-safety-44fg",
+    "keywords": [
+      "security researcher published",
+      "november 2025 showing",
+      "dangerous request ...",
+      "shaped hole",
+      "shaped hole",
+      "llm safety",
+      "llm safety",
+      "adversarial poetry",
+      "adversarial poetry",
+      "style"
+    ],
+    "summary": "# ENI, Adversarial Poetry, and the Style-Shaped Hole in LLM Safety > Source: devto | Category: news | 2026-10-15T09:53:00Z A security researcher published a paper in November 2025 showing that rewriting a dangerous request..."
+  },
+  "97baaa61fcdb2c95": {
+    "file": "corpus/devto/dev_to_miawab_pricecheck-is-this-olx-price-fair-local-gemma-_39f8753fba.md",
+    "source": "devto",
+    "title": "pricecheck: is this OLX price fair? Local Gemma reads the listing, TabPFN prices it, code tells you what to offer",
+    "url": "https://dev.to/miawab/pricecheck-is-this-olx-price-fair-local-gemma-reads-the-listing-tabpfn-prices-it-code-tells-you-2ipe",
+    "keywords": [
+      "side hustle ...",
+      "olx price fair",
+      "olx price fair",
+      "local gemma reads",
+      "local gemma reads",
+      "tabpfn prices",
+      "tabpfn prices",
+      "hacktoberfest open",
+      "code tells",
+      "code tells"
+    ],
+    "summary": "# pricecheck: is this OLX price fair? Local Gemma reads the listing, TabPFN prices it, code tells you what to offer This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ..."
+  },
+  "0e4b787878ecb9ba": {
+    "file": "corpus/devto/dev_to_sridhar_s_dfc5fa7b6b295f9_big-tech-is-on-track-to-spe_5789b8c7ac.md",
+    "source": "devto",
+    "title": "Big Tech Is on Track to Spend $800B on AI in 2026. Can the Economics Hold?",
+    "url": "https://dev.to/sridhar_s_dfc5fa7b6b295f9/big-tech-is-on-track-to-spend-800b-on-ai-in-2026-can-the-economics-hold-4lpm",
+    "keywords": [
+      "whole industry ...",
+      "ai infrastructure stocks",
+      "economics hold",
+      "economics hold",
+      "big tech",
+      "big tech",
+      "track",
+      "track"
+    ],
+    "summary": "# Big Tech Is on Track to Spend $800B on AI in 2026. A sell-off in AI infrastructure stocks. And a question the whole industry..."
+  },
+  "8f5294e824a36fdf": {
+    "file": "corpus/engineering/www_infoq_com_articles_spring-security-7-server-side-dpop-to_cb8bcaca64.md",
+    "source": "engineering",
+    "title": "[infoq] Article: Server-Side DPoP and Token Exchange in Spring Security 7",
+    "url": "https://www.infoq.com/articles/spring-security-7-server-side-dpop-token-exchange/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "silently stop enforcing dpop",
+      "rfc 8693 token exchange",
+      "spring security 7",
+      "spring security 7",
+      "token exchange",
+      "token exchange",
+      "token exchange",
+      "side dpop",
+      "side dpop",
+      "side dpop"
+    ],
+    "summary": "# [infoq] Article: Server-Side DPoP and Token Exchange in Spring Security 7 Article: Server-Side DPoP and Token Exchange in Spring Security 7 This server-side guide covers enabling DPoP and RFC 8693 Token Exchange, explains why 7.1 apps can silently stop enforcing DPoP until they call .dPoP(), and shows how to combine both into narrowed, sender-constrained tokens for service-to-service and agentic calls."
+  },
+  "d1330672d006e966": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_NE006pkiAnk_58b458bcd4.md",
+    "source": "youtube",
+    "title": "[theo] So I've been testing Gemini 4...",
+    "url": "https://www.youtube.com/watch?v=NE006pkiAnk",
+    "keywords": [
+      "ss best model yet",
+      "testing gemini 4 ...",
+      "testing gemini 4 ...",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "gemini 4",
+      "8 months",
+      "workos want"
+    ],
+    "summary": "# [theo] So I've been testing Gemini 4... Argon might be Google'ss Best Model Yet with Gemini 4, but is it 8 months to late? Check out my Twitch, Twitter, Discord more at https://t3.gg"
   }
 }
