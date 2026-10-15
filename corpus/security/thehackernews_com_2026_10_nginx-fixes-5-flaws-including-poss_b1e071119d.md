@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks"
+url: "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-15T21:37:02Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks
+
+> Source: security | Category: security | 2026-10-15T21:37:02Z
+
+NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks
+
+NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.
+
+There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to exploit.
+
+A fourth lets an attacker forge a TLS session that could

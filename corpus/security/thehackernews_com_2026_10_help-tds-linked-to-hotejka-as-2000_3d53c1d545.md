@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams"
+url: "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-15T21:37:02Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams
+
+> Source: security | Category: security | 2026-10-15T21:37:02Z
+
+Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams
+
+A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.
+
+Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting
