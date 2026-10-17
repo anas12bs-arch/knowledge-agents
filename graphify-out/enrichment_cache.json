@@ -744588,5 +744588,268 @@
       "lcd check"
     ],
     "summary": "# Cosmos Hub Staking for Developers: Voting Power, 21-Day Unbonding, and an LCD Check in Python Most proof-of-stake guides talk about \"locking coins with a validator.\" On the Cosmos Hub that..."
+  },
+  "0729e6904381564a": {
+    "file": "corpus/hackernews/leangineer_com_blog_realworld-in-lean_2bd2c82c67.md",
+    "source": "hackernews",
+    "title": "I built the RealWorld app in Lean 4",
+    "url": "https://leangineer.com/blog/realworld-in-lean/",
+    "keywords": [
+      "realworld app",
+      "realworld app",
+      "lean 4",
+      "lean 4",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I built the RealWorld app in Lean 4 > Source: hackernews | Category: news | 2026-10-17T02:18:16Z Score: 12 | Comments: 2"
+  },
+  "635359d0dac2da91": {
+    "file": "corpus/hackernews/www_smithsonianmag_com_science-nature_dam-removals-are-bring_72f5a73135.md",
+    "source": "hackernews",
+    "title": "Dam Removals Are Bringing Fish Back Across the Northeastern United States",
+    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "keywords": [
+      "bringing fish back across",
+      "bringing fish back across",
+      "northeastern united states",
+      "northeastern united states",
+      "dam removals",
+      "dam removals",
+      "23z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Dam Removals Are Bringing Fish Back Across the Northeastern United States > Source: hackernews | Category: news | 2026-10-17T02:18:23Z Score: 3 | Comments: 0"
+  },
+  "52cb6dc2443b609f": {
+    "file": "corpus/hackernews/adamschaefers_com_blog_2026-10-13-a-week-on-the-farm_77c4293c8f.md",
+    "source": "hackernews",
+    "title": "A week on the farm with Dylan Araps",
+    "url": "https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/",
+    "keywords": [
+      "dylan araps",
+      "dylan araps",
+      "18z score",
+      "week",
+      "week",
+      "source",
+      "news",
+      "hackernews",
+      "farm",
+      "farm"
+    ],
+    "summary": "# A week on the farm with Dylan Araps > Source: hackernews | Category: news | 2026-10-17T02:18:18Z Score: 5 | Comments: 2"
+  },
+  "d4ab8932dc9e317e": {
+    "file": "corpus/hackernews/www_bleepingcomputer_com_news_security_burger-king-japan-dat_27c670c595.md",
+    "source": "hackernews",
+    "title": "Burger King Japan data breach exposes 11 million customer records",
+    "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+    "keywords": [
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Burger King Japan data breach exposes 11 million customer records > Source: hackernews | Category: news | 2026-10-17T02:18:24Z Score: 8 | Comments: 3"
+  },
+  "13d20cda6c11878b": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_40_6_630ca87cf3.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.40.6 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+    "keywords": [
+      "prevent orphaned runners",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "https :// github",
+      "5 ... v0",
+      "13z ## ollama",
+      "ollama — v0",
+      "6 ##",
+      "use identifiers"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-10-17T02:19:13Z ## What's Changed * win: prevent orphaned runners by @dhiltgen in https://github.com/ollama/ollama/pull/18500 * gguf: add the q2_0 tensor and file types by @jmorganca in https://github.com/ollama/ollama/pull/18967 * Launch clef in Ollama's cloud by @jberg5 in https://github.com/ollama/ollama/pull/19036 * use identifiers for --ask mode question keys by @jberg5 in https://github.com/ollama/ollama/pull/19041 **Full Changelog**: "
+  },
+  "1cdb94860751c186": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v3_33_0_38a5c87a86.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v3.33.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
+    "keywords": [
+      "0 ... v3",
+      "python — v3",
+      "12z ## openai",
+      "0 ##",
+      "image requests",
+      "f7cefdaf059a3e6856d49b4bc2e2e5fbdef8193b ))",
+      "c969e32ebb325b5910aff4543187fedc5527e172 ))",
+      "0 released",
+      "0 released",
+      "### features"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-10-17T02:19:12Z ### Features * **api:** add safety identifiers to image requests and responses ([#4093](https://github.com/openai/openai-python/issues/4093)) ([c969e32](https://github.com/openai/openai-python/commit/c969e32ebb325b5910aff4543187fedc5527e172)) * **api:** share Decisions cache breakpoint parameter type ([#4092](https://github.com/openai/openai-python/issues/4092)) ([f7cefda](https://github.com/openai/openai-python/commit/f7cefd"
+  },
+  "a364af38ee404331": {
+    "file": "corpus/devto/dev_to_juanauriti_ai-generated-content-gets-cited-more-than-_24c1342c04.md",
+    "source": "devto",
+    "title": "AI-generated content gets cited more than human content in Google AI Overviews. That should bother you.' published: false",
+    "url": "https://dev.to/juanauriti/ai-generated-content-gets-cited-more-than-human-content-in-google-ai-overviews-that-should-bother-1cdd",
+    "keywords": [
+      "generated content gets cited",
+      "generated content gets cited",
+      "machine learning research",
+      "google ai overviews",
+      "google ai overviews",
+      "reviewed paper published",
+      "human content",
+      "human content",
+      "volume 318",
+      "canadian ..."
+    ],
+    "summary": "# AI-generated content gets cited more than human content in Google AI Overviews. > Source: devto | Category: news | 2026-10-17T02:18:26Z A peer-reviewed paper published in the Proceedings of Machine Learning Research (volume 318, Canadian..."
+  },
+  "bf076792e88d1b5b": {
+    "file": "corpus/devto/dev_to_asifmiqbal_the-stateful-agent-memory-trap-why-swarms-_d2e98bf77a.md",
+    "source": "devto",
+    "title": "The Stateful Agent Memory Trap: Why Swarms Bleed Context",
+    "url": "https://dev.to/asifmiqbal/the-stateful-agent-memory-trap-why-swarms-bleed-context-2g0d",
+    "keywords": [
+      "stateful agent memory trap",
+      "stateful agent memory trap",
+      "bounded states cut costs",
+      "swarms bleed context",
+      "swarms bleed context",
+      "linear buffers fail",
+      "inflating context windows",
+      "25z multi",
+      "tokens",
+      "source"
+    ],
+    "summary": "# The Stateful Agent Memory Trap: Why Swarms Bleed Context Multi-turn AI agents silently accumulate JSON returns, inflating context windows to 80,000+ tokens. Learn why linear buffers fail and how bounded states cut costs."
+  },
+  "9278fd2a20580ef6": {
+    "file": "corpus/devto/dev_to_susiewang_translation-is-not-agreement-build-a-clarif_f9c400c6bd.md",
+    "source": "devto",
+    "title": "Translation Is Not Agreement: Build a Clarification Handshake for Multilingual Chat",
+    "url": "https://dev.to/susiewang/translation-is-not-agreement-build-a-clarification-handshake-for-multilingual-chat-4eeb",
+    "keywords": [
+      "tencent rtc social messaging",
+      "reproducible typescript clarification workflow",
+      "explicit notification failures",
+      "25z machine translation",
+      "clarification handshake",
+      "clarification handshake",
+      "verification tests",
+      "revision checks",
+      "multilingual chat",
+      "multilingual chat"
+    ],
+    "summary": "# Translation Is Not Agreement: Build a Clarification Handshake for Multilingual Chat Machine translation can make a group message readable without making its intent certain. Build a reproducible TypeScript clarification workflow for Tencent RTC Social Messaging with author-only answers, revision checks, explicit notification failures, and verification tests."
+  },
+  "e3c0a0652e728f6d": {
+    "file": "corpus/devto/dev_to_remojansen_the-agentic-manifesto-what-should-the-agil_ad5d170bdc.md",
+    "source": "devto",
+    "title": "The Agentic Manifesto: What Should the Agile Manifesto Look Like in the Age of AI?",
+    "url": "https://dev.to/remojansen/the-agentic-manifesto-what-should-the-agile-manifesto-look-like-in-the-age-of-ai-3k1g",
+    "keywords": [
+      "agile manifesto look like",
+      "agile manifesto look like",
+      "agentic manifesto",
+      "agentic manifesto",
+      "time thinking",
+      "recent advancements",
+      "spending",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The Agentic Manifesto: What Should the Agile Manifesto Look Like in the Age of AI? > Source: devto | Category: news | 2026-10-17T02:18:25Z I've been spending a lot of time thinking about where all the recent advancements in AI are going to..."
+  },
+  "55b303301ea114ab": {
+    "file": "corpus/devto/dev_to_whalejr_every-paying-job-on-the-board-needed-a-human-_2bdfa84cf4.md",
+    "source": "devto",
+    "title": "Every paying job on the board needed a human face",
+    "url": "https://dev.to/whalejr/every-paying-job-on-the-board-needed-a-human-face-1j1a",
+    "keywords": [
+      "every open bounty",
+      "entire paying queue",
+      "every paying job",
+      "every paying job",
+      "whole board today",
+      "one job",
+      "board needed",
+      "board needed",
+      "human face",
+      "human face"
+    ],
+    "summary": "# Every paying job on the board needed a human face I read the whole board today. Every open bounty, the entire paying queue, looking for one job an..."
+  },
+  "7587b65ee75f2dcf": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_4-coding-agents-pinned-plugins-to-a-com_53c53508b6.md",
+    "source": "devto",
+    "title": "4 Coding Agents Pinned Plugins to a Commit SHA. A Branch With the Same Name Won",
+    "url": "https://dev.to/gabrielanhaia/4-coding-agents-pinned-plugins-to-a-commit-sha-a-branch-with-the-same-name-won-2fi",
+    "keywords": [
+      "never checked head",
+      "line fix",
+      "commit sha",
+      "commit sha",
+      "claude code",
+      "25z plugin4shell",
+      "source",
+      "reproduce",
+      "reactions",
+      "one"
+    ],
+    "summary": "# 4 Coding Agents Pinned Plugins to a Commit SHA. A Branch With the Same Name Won Reproduce it locally and add the one-line fix."
+  },
+  "1f1ca6b9a87442ac": {
+    "file": "corpus/devto/dev_to_chamod_madhushan_ai-built-my-friends-mvp-in-48-hours-_db1815bc5d.md",
+    "source": "devto",
+    "title": "AI Built My Friend’s MVP in 48 Hours. Then Real Users Showed Up.",
+    "url": "https://dev.to/chamod_madhushan/ai-built-my-friends-mvp-in-48-hours-then-real-users-showed-up-5cl",
+    "keywords": [
+      "hidden architectural debt ...",
+      "real users showed",
+      "real users showed",
+      "vibe coding",
+      "friend ’",
+      "friend ’",
+      "first —",
+      "feels like",
+      "ai built",
+      "ai built"
+    ],
+    "summary": "# AI Built My Friend’s MVP in 48 Hours. Then Real Users Showed Up. Why \"vibe coding\" feels like a superpower at first—and how to avoid the hidden architectural debt..."
+  },
+  "3d19fa0a90131404": {
+    "file": "corpus/devto/dev_to_haopengai_the-inbox-autopilot-what-60-days-of-letting_f0bfe9366e.md",
+    "source": "devto",
+    "title": "The Inbox Autopilot: What 60 Days of Letting an n8n Workflow Triage My Email Taught Me",
+    "url": "https://dev.to/haopengai/the-inbox-autopilot-what-60-days-of-letting-an-n8n-workflow-triage-my-email-taught-me-8bn",
+    "keywords": [
+      "n8n workflow triage",
+      "n8n workflow triage",
+      "n8n workflow triage",
+      "email taught ...",
+      "email taught",
+      "email taught",
+      "inbox autopilot",
+      "inbox autopilot",
+      "inbox autopilot",
+      "60 days"
+    ],
+    "summary": "# The Inbox Autopilot: What 60 Days of Letting an n8n Workflow Triage My Email Taught Me > Source: devto | Category: news | 2026-10-17T02:18:25Z The Inbox Autopilot: What 60 Days of Letting an n8n Workflow Triage My Email Taught..."
   }
 }
