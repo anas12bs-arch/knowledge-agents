@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge"
+url: "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-20T11:59:55Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge
+
+> Source: security | Category: security | 2026-10-20T11:59:55Z
+
+Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge
+
+A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets.
+
+In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was "in frequent communications via WhatsApp
