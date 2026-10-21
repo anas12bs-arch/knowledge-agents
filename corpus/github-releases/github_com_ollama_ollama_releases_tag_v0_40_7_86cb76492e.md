@@ -1,0 +1,36 @@
+---
+title: "ollama/ollama v0.40.7 released"
+url: "https://github.com/ollama/ollama/releases/tag/v0.40.7"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "ollama"]
+date: "2026-10-21T11:43:53Z"
+metadata:
+  repo: "ollama/ollama"
+  version: "v0.40.7"
+---
+
+# ollama/ollama v0.40.7 released
+
+> Source: github-releases | Category: changelog | 2026-10-21T11:43:53Z
+
+## ollama/ollama — v0.40.7
+
+## What's Changed
+* [pplx-decider](https://ollama.com/library/pplx-decider) is a 27B decision model from Perplexity, fine-tuned from
+Qwen3.8-27B
+* Continuing an OpenAI-compatible Responses conversation no longer fails when switching between models with and without
+thinking, or when the history contains another provider's compaction items
+* Fixed streaming Responses requests where client tool calls (e.g. Codex with web search) could emit before open
+reasoning items, producing misordered/duplicate tool call events
+* Requests routed to remote models are now cancelled on ollama.com when the client disconnects, instead of continuing
+to run
+* `ollama show` now reports which renderer and parser a model uses and where its chat template comes from; the API
+exposes the same values in new `renderer`, `parser`, and `template_source` fields
+* More draft models now work with speculative decoding: llama-server infers the draft type automatically instead of
+requiring Ollama to identify it
+* `ollama launch claude` now clamps `CLAUDE_CODE_AUTO_COMPACT_WINDOW` to Claude Code's supported range, avoiding a
+"window too large" warning
+* Updated llama.cpp and MLX
+
+**Full Changelog**: https://github.com/ollama/ollama/compare/v0.40.6...v0.40.7

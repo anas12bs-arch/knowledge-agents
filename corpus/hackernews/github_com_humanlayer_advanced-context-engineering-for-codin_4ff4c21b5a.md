@@ -1,0 +1,18 @@
+---
+title: "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful"
+url: "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-10-21T11:42:43Z"
+metadata:
+  score: "272"
+---
+
+# SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful
+
+> Source: hackernews | Category: news | 2026-10-21T11:42:43Z
+
+Score: 272 | Comments: 109
+
+Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits in<p>Slop code bench is unique among benchmarks in that it makes a model work against a progressively disclosed list of features (checkpoints) that it doesn’t know it advance, inheriting the same codebase through the lifecycle of a single multi-checkpoint challenge<p>I like this because it much more mirrors how real software dev happens, rather than most benchmarks with one off tasks where slop code doesn’t hinder future progress<p>The original post[1] and the SOL&#x2F;fable follow up[2] went into a bit more detail on the benchmark and its challenges<p>1. <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49076391">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49076391</a><p>2. <a href="https:&#x2F;&#x2F;github.com&#x2F;humanlayer&#x2F;advanced-context-engineering-for-coding-agents&#x2F;blob&#x2F;main&#x2F;benchmarking-sol-fable-kimi-on-slop-code-bench.md" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;humanlayer&#x2F;advanced-context-engineering-f...</a>

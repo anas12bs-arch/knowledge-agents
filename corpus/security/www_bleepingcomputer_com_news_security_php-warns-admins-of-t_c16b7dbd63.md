@@ -1,0 +1,18 @@
+---
+title: "[bleeping-comp] PHP warns admins of two critical flaws, emergency patches coming tomorrow"
+url: "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "bleeping-comp"]
+date: "2026-10-21T11:42:41Z"
+metadata:
+  {}
+---
+
+# [bleeping-comp] PHP warns admins of two critical flaws, emergency patches coming tomorrow
+
+> Source: security | Category: security | 2026-10-21T11:42:41Z
+
+PHP warns admins of two critical flaws, emergency patches coming tomorrow
+
+The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]
