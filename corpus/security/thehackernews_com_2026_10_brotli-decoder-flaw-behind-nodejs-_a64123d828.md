@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
+url: "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-24T23:38:20Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
+
+> Source: security | Category: security | 2026-10-24T23:38:20Z
+
+Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
+
+A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli.
+
+Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially
