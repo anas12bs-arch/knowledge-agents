@@ -1,0 +1,18 @@
+---
+title: "[tc-venture] VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more"
+url: "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+source: "finance"
+category: "finance"
+tags: ["finance", "funding", "venture", "fintech", "tax", "tc-venture"]
+date: "2026-10-28T07:00:58Z"
+metadata:
+  {}
+---
+
+# [tc-venture] VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
+
+> Source: finance | Category: finance | 2026-10-28T07:00:58Z
+
+VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
+
+Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.
