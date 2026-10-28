@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach"
+url: "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-10-28T13:50:35Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach
+
+> Source: security | Category: security | 2026-10-28T13:50:35Z
+
+Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach
+
+Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.
+
+The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service&nbsp;hosts Windows desktops&nbsp;used for FX trading,
