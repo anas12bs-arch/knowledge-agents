@@ -1,0 +1,21 @@
+---
+title: "Show HN: Jointter – A daily word puzzle using dots and lines"
+url: "https://www.jointter.com/"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-10-31T17:27:00Z"
+metadata:
+  score: "4"
+---
+
+# Show HN: Jointter – A daily word puzzle using dots and lines
+
+> Source: hackernews | Category: news | 2026-10-31T17:27:00Z
+
+Score: 4 | Comments: 0
+
+Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games like Sudoku and Wordle, I decided to come up with an engaging game of my own.<p>As it turns out, that’s not so easy! I had a few ideas, but beyond the core mechanics, a game also needs to be interesting and easy to explain — after all, nobody (including me) wants to spend a long time reading through rules.<p>Let’s start with the concept, which came to me quite spontaneously: what if we represented letters like the digits on a digital clock — using lines, with dots at the points where those lines intersect? For instance, the letter &quot;E&quot; would consist of four lines and six dots — three at the intersections and three at the ends of the lines.<p>It turns out that every letter of the Latin alphabet can be represented this way (with a minor caveat) using three rows of dots connected by some lines. This immediately presented a challenge: how do you represent O-shaped parts, like those found in &quot;B&quot;, &quot;O&quot;, or &quot;R&quot;? I decided not to use O-shapes, an use onl rectangles&#x2F;squares. This &quot;alphabet&quot; is always displayed below the game board, so the player can see the letters.<p>The goal of the game is simple: you are presented with three rows of dots and a set of lines, and you have to figure out the word. A great feature of the game is that it’s possible to deduce the word in a single turn — all the necessary information is right there on the board, allowing you to arrive at the answer with certainty.
+And what if you can’t figure it out on the first try? You can enter a guess, much like in Wordle: if the lines from the entered word are part of the target word, they turn green; if not, they turn red. The same applies to the dots.
+As you play, more and more lines gradually appear...<p>Why provide some lines at the start? To uniquely identify a specific word — or a small set of words — from the dictionary. For example, you could select a configuration of lines that corresponds to only one word, like &quot;RADIO&quot;, or perhaps to just two possible words, such as &quot;WEIGH&quot; and &quot;WRONG&quot;.<p>The rules seem clear, but the mechanics — not so much.
+There are dots on the board; when I enter a word, I realize there aren&#x27;t enough dots. What should I do? Initially, if the target word had 5 letters, I allowed users to enter 4- or 5-letter guesses, but that just confused players. So, I came up with a different solution: adding red dots for dots that aren&#x27;t part of the target word.<p>Another drawback is that the game is somewhat skewed. Since letters are processed from left to right, the first letters are revealed more frequently than the last ones.<p>Then there’s the game design itself: should the target words be 5 letters long, or 6? Should a single board allow for multiple possible answers (like &quot;WEIGH&quot; and &quot;WRONG&quot;), or should it be limited to one — or perhaps more than two? Should the difficulty increase from Monday to Sunday? Currently, it’s set up this way: Monday is the easiest (a few 3-letter words), while Sunday is the hardest (more than two 7-letter words).<p>The tech stack is simple: I use Flask for the backend and Python for the algorithms; I wrote the algorithms myself. While the JS, HTML, and CSS were created with the help of AI.<p>I’d love for you to test the game and share what you like, what you don’t, and what could be improved.<p>Specifically, I’d like to know:<p>1. Is the game and its goal clear?<p>2. Is it fun to play, and what could be improved?<p>3. Would you share it with your friends?<p>I welcome any constructive criticism.<p>You can find the game at <a href="https:&#x2F;&#x2F;www.jointter.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.jointter.com&#x2F;</a><p>It’s free and requires no registration.<p>Thank you very much.
