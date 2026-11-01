@@ -1,0 +1,18 @@
+---
+title: "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust"
+url: "https://github.com/ivankovic/omnidiff"
+source: "hackernews"
+category: "news"
+tags: ["hackernews", "tech-news"]
+date: "2026-11-01T20:33:33Z"
+metadata:
+  score: "73"
+---
+
+# Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust
+
+> Source: hackernews | Category: news | 2026-11-01T20:33:33Z
+
+Score: 73 | Comments: 29
+
+I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.<p>OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...<p>It&#x27;s fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.<p>It&#x27;s open source. AGPLv3.<p>It&#x27;s based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high.<p>I&#x27;m still developing it. It&#x27;s v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well.<p>AI Disclosure: Yes, I do use AI. No, I do not vibecode.
