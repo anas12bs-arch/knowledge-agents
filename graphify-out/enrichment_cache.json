@@ -812573,5 +812573,345 @@
       "1 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-11-01T23:52:35Z * **api:** preserve Responses WebSocket connection behavior ([#4221](https://github.com/openai/openai-python/issues/4221)) ([38075d8](https://github.com/openai/openai-python/commit/38075d8c6d90ba03557e991eb75991e65cfee88b)) * **realtime:** validate beta WebSocket authentication profiles ([#4218](https://github.com/openai/openai-python/issues/4218)) ([3622a97](https://github.com/openai/openai-python/commit/3622a973d5db2adb26e6"
+  },
+  "89dc6d4ebc54b93d": {
+    "file": "corpus/hackernews/gardinerbryant_com_retro-gaming-has-a-port-slop-problem_0770bc8870.md",
+    "source": "hackernews",
+    "title": "Retro Gaming Has a Port-Slop Problem",
+    "url": "https://gardinerbryant.com/retro-gaming-has-a-port-slop-problem/",
+    "keywords": [
+      "slop problem",
+      "slop problem",
+      "retro gaming",
+      "retro gaming",
+      "00z score",
+      "source",
+      "port",
+      "port",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Retro Gaming Has a Port-Slop Problem > Source: hackernews | Category: news | 2026-11-02T02:49:00Z Score: 7 | Comments: 1"
+  },
+  "7415ddf68d8e5d20": {
+    "file": "corpus/hackernews/rhaas_blogspot_com_2026_10_postgres-19-is-late-and-its-ais-f_38937f7fd4.md",
+    "source": "hackernews",
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "keywords": [
+      "postgres 19",
+      "postgres 19",
+      "53z score",
+      "source",
+      "news",
+      "late",
+      "late",
+      "hackernews",
+      "fault",
+      "fault"
+    ],
+    "summary": "# Postgres 19 is late, and it's AI's fault > Source: hackernews | Category: news | 2026-11-02T02:48:53Z Score: 90 | Comments: 65"
+  },
+  "8ff5c9b58191e37e": {
+    "file": "corpus/hackernews/www_eurogamer_net_ai-fan-wikis-errors-complicating-games-cul_a95f0bfab7.md",
+    "source": "hackernews",
+    "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+    "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+    "keywords": [
+      "ai fan wikis riddled",
+      "ai fan wikis riddled",
+      "games culture",
+      "games culture",
+      "56z score",
+      "waters",
+      "waters",
+      "source",
+      "news",
+      "muddying"
+    ],
+    "summary": "# AI fan wikis riddled with errors are muddying the waters of games culture > Source: hackernews | Category: news | 2026-11-02T02:48:56Z Score: 11 | Comments: 1"
+  },
+  "6402d841520fe277": {
+    "file": "corpus/hackernews/www_nytimes_com_interactive_2026_08_28_us_politics_billionai_aa41d0388f.md",
+    "source": "hackernews",
+    "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+    "url": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+    "keywords": [
+      "59z score",
+      "source",
+      "poured",
+      "poured",
+      "news",
+      "midterms",
+      "midterms",
+      "megadonors",
+      "megadonors",
+      "hackernews"
+    ],
+    "summary": "# The Megadonors Who Have Poured $1.2B into the Midterms > Source: hackernews | Category: news | 2026-11-02T02:48:59Z Score: 6 | Comments: 0"
+  },
+  "517154fb24918622": {
+    "file": "corpus/hackernews/occupysaas_com_cd02d1c1e0.md",
+    "source": "hackernews",
+    "title": "OccupySaaS",
+    "url": "https://occupysaas.com/",
+    "keywords": [
+      "53z score",
+      "source",
+      "occupysaas",
+      "occupysaas",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# OccupySaaS > Source: hackernews | Category: news | 2026-11-02T02:48:53Z Score: 69 | Comments: 44"
+  },
+  "21b130c861be4ea8": {
+    "file": "corpus/hackernews/www_fz-juelich_de_en_news_archive_press-release_2026_mystery_b94497b035.md",
+    "source": "hackernews",
+    "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+    "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+    "keywords": [
+      "power grids solved",
+      "power grids solved",
+      "second fluctuations",
+      "second fluctuations",
+      "54z score",
+      "source",
+      "news",
+      "mystery",
+      "mystery",
+      "hackernews"
+    ],
+    "summary": "# Mystery of 60-Second Fluctuations in Power Grids Solved > Source: hackernews | Category: news | 2026-11-02T02:48:54Z Score: 12 | Comments: 4"
+  },
+  "be1124c125d0c3c3": {
+    "file": "corpus/hackernews/fosscomics_com_posts_13_20BSD_20Unix_20Part_203_20-_20The_20_6ee5567711.md",
+    "source": "hackernews",
+    "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+    "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+    "keywords": [
+      "part 3 –",
+      "part 3 –",
+      "oss comics",
+      "oss comics",
+      "bsd unix",
+      "bsd unix",
+      "bsd unix",
+      "bsd unix",
+      "52z score",
+      "source"
+    ],
+    "summary": "# F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix > Source: hackernews | Category: news | 2026-11-02T02:48:52Z Score: 6 | Comments: 0"
+  },
+  "5c43edb78d8f1962": {
+    "file": "corpus/hackernews/www_pnas_org_doi_10_1073_pnas_2620747123_304bf644fe.md",
+    "source": "hackernews",
+    "title": "Martian dust presents additional risks for future crewed missions to Mars",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2620747123",
+    "keywords": [
+      "future crewed missions",
+      "future crewed missions",
+      "00z score",
+      "source",
+      "news",
+      "mars",
+      "mars",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Martian dust presents additional risks for future crewed missions to Mars > Source: hackernews | Category: news | 2026-11-02T02:49:00Z Score: 6 | Comments: 6"
+  },
+  "3d0a26af42fd4bc9": {
+    "file": "corpus/hackernews/picon_dev_en_publications_ai-assisted-engineering_9cabf7200f.md",
+    "source": "hackernews",
+    "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+    "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+    "keywords": [
+      "52z score",
+      "write",
+      "write",
+      "system",
+      "system",
+      "still",
+      "still",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# AI Can Write More of the Code. We Still Have to Engineer the System > Source: hackernews | Category: news | 2026-11-02T02:48:52Z"
+  },
+  "f07cb887a5f7c1ed": {
+    "file": "corpus/devto/dev_to_firelinks_canada-stopped-falling-back-your-scheduler-_805cb56546.md",
+    "source": "devto",
+    "title": "Canada Stopped Falling Back. Your Scheduler Is Now in the On-Call Rotation.",
+    "url": "https://dev.to/_firelinks/canada-stopped-falling-back-your-scheduler-is-now-in-the-on-call-rotation-29g8",
+    "keywords": [
+      "canada stopped falling back",
+      "canada stopped falling back",
+      "abolished daylight saving time",
+      "zone support matrix",
+      "02z canada",
+      "call rotation",
+      "call rotation",
+      "time",
+      "source",
+      "scheduler"
+    ],
+    "summary": "Your Scheduler Is Now in the On-Call Rotation. Canada has not abolished Daylight Saving Time. It has made the time-zone support matrix more..."
+  },
+  "d440b2cf506f5a00": {
+    "file": "corpus/devto/dev_to_mashraf_aiman_how-to-make-link-to-saas-launch-video-s_c829ab6257.md",
+    "source": "devto",
+    "title": "How to make link to SaaS Launch Video system",
+    "url": "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
+    "keywords": [
+      "saas launch video system",
+      "saas launch video system",
+      "short ,...",
+      "screen recording",
+      "make link",
+      "make link",
+      "works",
+      "source",
+      "show",
+      "show"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-02T02:49:01Z A screenshot can show what you built. A screen recording can show how it works."
+  },
+  "36cc49b3a85ff105": {
+    "file": "corpus/devto/dev_to_alessio99xx_auditing-mcp-configurations-and-ai-agent-_5a44ba4b4f.md",
+    "source": "devto",
+    "title": "Auditing MCP Configurations and AI Agent Rules for Security Risks",
+    "url": "https://dev.to/alessio99xx/auditing-mcp-configurations-and-ai-agent-rules-for-security-risks-nc5",
+    "keywords": [
+      "model context protocol ...",
+      "auditing mcp configurations",
+      "auditing mcp configurations",
+      "ai agent rules",
+      "ai agent rules",
+      "ai agent configurations",
+      "security risks",
+      "security risks",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Auditing MCP Configurations and AI Agent Rules for Security Risks > Source: devto | Category: news | 2026-11-02T02:49:04Z Modern developer workflows increasingly rely on AI agent configurations and Model Context Protocol..."
+  },
+  "022fd519de514253": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_review-agent-code-in-a-github-pr-lazygi_a371dc38ab.md",
+    "source": "devto",
+    "title": "Review Agent Code in a GitHub PR, lazygit or Hermes? What Each One Can't See",
+    "url": "https://dev.to/gabrielanhaia/review-agent-code-in-a-github-pr-lazygit-or-hermes-what-each-one-cant-see-19g0",
+    "keywords": [
+      "review agent code",
+      "review agent code",
+      "review agent code",
+      "agent turn wrote",
+      "lazygit shows hunks",
+      "pr shows",
+      "three places",
+      "neither knows",
+      "github pr",
+      "github pr"
+    ],
+    "summary": "# Review Agent Code in a GitHub PR, lazygit or Hermes? A PR shows the branch, lazygit shows hunks, and neither knows which agent turn wrote a line. A fair look at three places to review agent code."
+  },
+  "6eb5915fe625c19d": {
+    "file": "corpus/devto/dev_to_kristinz_your-ai-agent-doesnt-belong-inside-an-http-r_6199b77e09.md",
+    "source": "devto",
+    "title": "Your AI Agent Doesn't Belong Inside an HTTP Request",
+    "url": "https://dev.to/kristinz/your-ai-agent-doesnt-belong-inside-an-http-request-399b",
+    "keywords": [
+      "chat enter ...",
+      "user sends",
+      "server receives",
+      "http request",
+      "http request",
+      "belong inside",
+      "belong inside",
+      "ai application",
+      "ai agent",
+      "ai agent"
+    ],
+    "summary": "# Your AI Agent Doesn't Belong Inside an HTTP Request > Source: devto | Category: news | 2026-11-02T02:49:01Z Your server receives:    POST /api/chat        Enter..."
+  },
+  "7230dfbdb03b700a": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_your-agent-never-committed-snapshot-eve_22cab40bab.md",
+    "source": "devto",
+    "title": "Your Agent Never Committed. Snapshot Every Turn to a Git Ref, Then Bisect",
+    "url": "https://dev.to/gabrielanhaia/your-agent-never-committed-snapshot-every-turn-to-a-git-ref-then-bisect-5hc9",
+    "keywords": [
+      "04z twenty agent turns",
+      "agent never committed",
+      "agent never committed",
+      "snapshot every turn",
+      "snapshot every turn",
+      "git bisect finds",
+      "turns /,",
+      "git ref",
+      "git ref",
+      "zero commits"
+    ],
+    "summary": "Snapshot Every Turn to a Git Ref, Then Bisect Twenty agent turns, zero commits, red tests. A Claude Code Stop hook snapshots each turn to refs/agent-turns/, then git bisect finds the turn that broke it."
+  },
+  "35a179d156e85755": {
+    "file": "corpus/devto/dev_to_supertoolkit_how-we-built-a-zero-upload-browser-audio_501cec43c2.md",
+    "source": "devto",
+    "title": "How We Built a Zero-Upload Browser Audio Studio: Convert MP4 to MP3, Split Vocal Stems & Master 8D Audio in WebAssembly",
+    "url": "https://dev.to/supertoolkit/how-we-built-a-zero-upload-browser-audio-studio-convert-mp4-to-mp3-split-vocal-stems-master-8d-5ei8",
+    "keywords": [
+      "upload browser audio studio",
+      "upload browser audio studio",
+      "master 8d audio",
+      "master 8d audio",
+      "split vocal stems",
+      "split vocal stems",
+      "mkv video ...",
+      "mp4 screen recording",
+      "convert mp4",
+      "convert mp4"
+    ],
+    "summary": "# How We Built a Zero-Upload Browser Audio Studio: Convert MP4 to MP3, Split Vocal Stems & Master 8D Audio in WebAssembly > Source: devto | Category: news | 2026-11-02T02:49:02Z If you have ever tried to extract an .mp3 soundtrack from a 1.5GB .mp4 screen recording or .mkv video..."
+  },
+  "632596b4de305988": {
+    "file": "corpus/devto/dev_to_programmerraja_i-let-ai-type-the-code-and-lost-the-ma_fbf3324e65.md",
+    "source": "devto",
+    "title": "I Let AI Type the Code and Lost the Map",
+    "url": "https://dev.to/programmerraja/i-let-ai-type-the-code-and-lost-the-map-1jie",
+    "keywords": [
+      "let ai type",
+      "let ai type",
+      "three years",
+      "still ...",
+      "could close",
+      "source",
+      "reactions",
+      "news",
+      "map",
+      "map"
+    ],
+    "summary": "# I Let AI Type the Code and Lost the Map I coded by hand for about three years. When a feature was done, I could close the file and still..."
+  },
+  "e182b7372e38d450": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48680_regulator-warns-australia_3c40a3d233.md",
+    "source": "finance",
+    "title": "[finextra] Regulator warns Australians about 'highly speculative' prediction markets",
+    "url": "https://www.finextra.com/newsarticle/48680/regulator-warns-australians-about-highly-speculative-prediction-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "53z regulator warns australians",
+      "regulator warns australians",
+      "regulator warns australians",
+      "access offshore platforms",
+      "retail clients",
+      "public interest",
+      "prediction markets",
+      "prediction markets",
+      "prediction markets",
+      "prediction markets"
+    ],
+    "summary": "# [finextra] Regulator warns Australians about 'highly speculative' prediction markets Regulator warns Australians about 'highly speculative' prediction markets The Australian Securities and Investments Commission (ASIC) says it is \"not currently convinced\" that prediction markets for retail clients are in the public interest, warning that people who access offshore platforms do not have legal protections."
   }
 }
