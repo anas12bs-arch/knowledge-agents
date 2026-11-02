@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers"
+url: "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-02T20:02:35Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+
+> Source: security | Category: security | 2026-11-02T20:02:35Z
+
+Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+
+Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.
+
+Langflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0.
+
+Neither flaw is in CISA's&nbsp;Known

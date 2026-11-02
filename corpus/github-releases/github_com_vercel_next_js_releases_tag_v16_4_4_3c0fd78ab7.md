@@ -1,0 +1,34 @@
+---
+title: "vercel/next.js v16.4.4 released"
+url: "https://github.com/vercel/next.js/releases/tag/v16.4.4"
+source: "github-releases"
+category: "changelog"
+tags: ["github", "release", "changelog", "next.js"]
+date: "2026-11-02T20:03:34Z"
+metadata:
+  repo: "vercel/next.js"
+  version: "v16.4.4"
+---
+
+# vercel/next.js v16.4.4 released
+
+> Source: github-releases | Category: changelog | 2026-11-02T20:03:34Z
+
+## vercel/next.js — v16.4.4
+
+> [!NOTE]
+> This release is backporting bug fixes. It does **not** include all pending features/changes on canary. The [announced security released for November](https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026) will be published tomorrow. 
+
+### Core Changes
+
+- [lts-active] test: disable the `reads fallback params after a client navigation` deployment test (#100668)
+- [lts-active] Reload on missed Turbopack startup CSS updates (#100619)
+- [lts-active] Revert "Optimize strict module factory chunks (#98421)" (#100866)
+- [lts-active] Emit the Turbopack shared-runtime bootstrap in the PPR resume so it gets the CSP nonce (#100907)
+- [lts-active] [ci] Pin deploy test deployments to Node.js 22.x (#100886)
+- [lts-active] fix(analyze): use route summaries as the analyzer route index (#100974)
+- [lts-active] Use fast-jwt instead of jsonwebtoken (#100885)
+
+### Credits
+
+Huge thanks to @icyJoseph, @mischnic, @wbinnssmith, @lukesandberg, and @eps1lon for helping!
