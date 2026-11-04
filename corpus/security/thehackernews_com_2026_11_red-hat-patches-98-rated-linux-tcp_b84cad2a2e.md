@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
+url: "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-04T02:24:32Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+
+> Source: security | Category: security | 2026-11-04T02:24:32Z
+
+Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+
+Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update.
+
+The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can
