@@ -833730,5 +833730,1169 @@
       "pair"
     ],
     "summary": "# [finextra] Early Revolut employees open waitlist for wealth AI startup Haido Early Revolut employees open waitlist for wealth AI startup Haido A pair of early Revolut employees has opened the waitlist for their new venture, an AI wealth company that has secured backing from UK fintech heavyweights including Eileen Burbidge."
+  },
+  "6340d4e74ced43d6": {
+    "file": "corpus/security/www_darkreading_com_cybersecurity-operations_us-government-e_eef8579040.md",
+    "source": "security",
+    "title": "[dark-reading] US Government Email Systems Open to Abuse Thanks to Typos",
+    "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+    "keywords": [
+      "give attackers surprising powers",
+      "outdated dns records",
+      "email systems",
+      "abuse thanks",
+      "abuse thanks",
+      "abuse thanks",
+      "typos erroneous",
+      "typos",
+      "typos",
+      "source"
+    ],
+    "summary": "# [dark-reading] US Government Email Systems Open to Abuse Thanks to Typos US Government Email Systems Open to Abuse Thanks to Typos Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems."
+  },
+  "11b0f8f97bdce9d2": {
+    "file": "corpus/security/thehackernews_com_2026_11_openssh-issues-emergency-fix-for-f_90a9e74aa1.md",
+    "source": "security",
+    "title": "[hacker-news-sec] OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+    "keywords": [
+      "openssh issues emergency fix",
+      "openssh issues emergency fix",
+      "alpine linux servers running",
+      "released version 10",
+      "published fixed packages",
+      "need network access",
+      "024 bytes long",
+      "alpine linux attackers",
+      "alpine linux",
+      "alpine linux"
+    ],
+    "summary": "# [hacker-news-sec] OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it."
+  },
+  "b53ce4c483894a97": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_what-we-missed-knicks-phishin_c425ae0913.md",
+    "source": "security",
+    "title": "[dark-reading] What We Missed: Knicks Phishing Test Goes Out of Bounds",
+    "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+    "keywords": [
+      "knicks phishing test goes",
+      "knicks phishing test goes",
+      "knicks phishing test goes",
+      "dark reading editors discuss",
+      "conceived phishing simulation",
+      "us government agency",
+      "video conversation",
+      "hacktivist attack",
+      "reading",
+      "reading"
+    ],
+    "summary": "# [dark-reading] What We Missed: Knicks Phishing Test Goes Out of Bounds What We Missed: Knicks Phishing Test Goes Out of Bounds In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency."
+  },
+  "ce3a4cd0b8b7c4ce": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_truffle-security-laun_5f870823d1.md",
+    "source": "security",
+    "title": "[bleeping-comp] Nearly 1.5 million exposed secrets targeted in new revocation program",
+    "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+    "keywords": [
+      "secrets revocation program",
+      "new revocation program",
+      "new revocation program",
+      "19z nearly 1",
+      "nearly 1",
+      "nearly 1",
+      "remain valid",
+      "free initiative",
+      "source",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Nearly 1.5 million exposed secrets targeted in new revocation program Nearly 1.5 million exposed secrets targeted in new revocation program Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid."
+  },
+  "73622722d9c3172c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_openais-gpt-6-astra-s_bfe6337543.md",
+    "source": "security",
+    "title": "[bleeping-comp] OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+    "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+    "keywords": [
+      "sometimes quietly withhold help",
+      "19z openai ’",
+      "openai ’",
+      "openai ’",
+      "safety research",
+      "6 astra",
+      "source",
+      "security",
+      "security",
+      "gpt"
+    ],
+    "summary": "# [bleeping-comp] OpenAI’s GPT-6 Astra silently obstructed safety research tasks OpenAI’s GPT-6 Astra silently obstructed safety research tasks OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research."
+  },
+  "cdf37ca5914375f0": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_openssh-flaw-lets-att_0104ffe0a0.md",
+    "source": "security",
+    "title": "[bleeping-comp] OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+    "keywords": [
+      "disabled linux accounts",
+      "disabled linux accounts",
+      "disabled linux accounts",
+      "certain alpine linux",
+      "based linux accounts",
+      "block password authentication",
+      "allows attackers",
+      "oversized password",
+      "password",
+      "password"
+    ],
+    "summary": "# [bleeping-comp] OpenSSH flaw lets attackers log into password-disabled Linux accounts OpenSSH flaw lets attackers log into password-disabled Linux accounts A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password."
+  },
+  "384006bc3b7e9bba": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fake-openai-spacex-ev_2ae34dc126.md",
+    "source": "security",
+    "title": "[bleeping-comp] Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+    "keywords": [
+      "using two different phishing",
+      "anthropic event invitations",
+      "using fake openai",
+      "spacex events used",
+      "spacex events used",
+      "spacex events used",
+      "google account credentials",
+      "19z fake openai",
+      "google accounts hackers",
+      "phishing attacks"
+    ],
+    "summary": "# [bleeping-comp] Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions."
+  },
+  "a57f8d435ad69286": {
+    "file": "corpus/security/thehackernews_com_2026_11_researchers-bypass-chatgpt-lockdow_dd9d10ec61.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "keywords": [
+      "bypass lockdown mode protections",
+      "lockdown mode",
+      "prompt injections",
+      "patched vulnerability",
+      "optional setting",
+      "openai chatgpt",
+      "disclosed details",
+      "artificial intelligence",
+      "june 2026",
+      "2026"
+    ],
+    "summary": "# [hacker-news-sec] Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections."
+  },
+  "dec15983411a5623": {
+    "file": "corpus/security/www_darkreading_com_mobile-security_apt29-watering-holes-tar_09d02629fc.md",
+    "source": "security",
+    "title": "[dark-reading] APT29's Watering Holes Target Thousands of Mobile Users",
+    "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+    "keywords": [
+      "watering holes target thousands",
+      "watering holes target thousands",
+      "watering holes target thousands",
+      "sponsored threat group",
+      "russian state",
+      "mobile users",
+      "mobile users",
+      "mobile users",
+      "interesting ones",
+      "harvesting information"
+    ],
+    "summary": "# [dark-reading] APT29's Watering Holes Target Thousands of Mobile Users APT29's Watering Holes Target Thousands of Mobile Users After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones."
+  },
+  "9b50d790220d8384": {
+    "file": "corpus/vercel-blog/vercel_com_blog_introducing-vercel-schedules_2e6a221cac.md",
+    "source": "vercel-blog",
+    "title": "Introducing Vercel Schedules",
+    "url": "https://vercel.com/blog/introducing-vercel-schedules",
+    "keywords": [
+      "29z introducing vercel schedules",
+      "introducing vercel schedules",
+      "introducing vercel schedules",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "2026"
+    ],
+    "summary": "# Introducing Vercel Schedules > Source: vercel-blog | Category: news | 2026-11-05T22:54:29Z Introducing Vercel Schedules"
+  },
+  "da66c73dd06314e7": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_token-pass-credit-now-applies-automatic_30f209ecd6.md",
+    "source": "vercel-blog",
+    "title": "Token Pass credit now applies automatically across AI Gateway",
+    "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+    "keywords": [
+      "29z token pass credit",
+      "token pass credit",
+      "token pass credit",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "2026"
+    ],
+    "summary": "# Token Pass credit now applies automatically across AI Gateway > Source: vercel-blog | Category: news | 2026-11-05T22:54:29Z Token Pass credit now applies automatically across AI Gateway"
+  },
+  "895ae3d2df60f46f": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-schedules-is-now-in-public-beta_2353d049f2.md",
+    "source": "vercel-blog",
+    "title": "Vercel Schedules is now in public beta",
+    "url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+    "keywords": [
+      "29z vercel schedules",
+      "vercel schedules",
+      "vercel schedules",
+      "public beta",
+      "public beta",
+      "public beta",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Vercel Schedules is now in public beta > Source: vercel-blog | Category: news | 2026-11-05T22:54:29Z Vercel Schedules is now in public beta"
+  },
+  "950993faf152f8a5": {
+    "file": "corpus/product/techcrunch_com_2026_11_05_a-yc-startup-is-putting-1m-behind-_44f488c59a.md",
+    "source": "product",
+    "title": "[techcrunch-startups] A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "keywords": [
+      "outstanding mathematics problems",
+      "frontier ai models",
+      "yc startup",
+      "yc startup",
+      "yc startup",
+      "truly plumb",
+      "remarkable series",
+      "made progress",
+      "life sciences",
+      "complex physics"
+    ],
+    "summary": "# [techcrunch-startups] A YC startup is putting $1M behind 5 unsolved materials science problems for AI A YC startup is putting $1M behind 5 unsolved materials science problems for AI While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
+  },
+  "f7cf1dd286bbfed3": {
+    "file": "corpus/product/techcrunch_com_2026_11_05_harbinger-raises-240m-after-expand_af03e88c19.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Harbinger raises $240M after expanding into defense",
+    "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "keywords": [
+      "18z harbinger raises",
+      "harbinger raises",
+      "harbinger raises",
+      "los angeles",
+      "emergency vehicles",
+      "electric trucks",
+      "driverless platform",
+      "based startup",
+      "650 million",
+      "working"
+    ],
+    "summary": "# [techcrunch-startups] Harbinger raises $240M after expanding into defense Harbinger raises $240M after expanding into defense The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military."
+  },
+  "cb87d2dd617bd205": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_rhPdfVTA2r0_481b738d46.md",
+    "source": "youtube",
+    "title": "[traversy] Does Your Framework Still Matter?",
+    "url": "https://www.youtube.com/watch?v=rhPdfVTA2r0",
+    "keywords": [
+      "coffee shop test 9",
+      "09 rendering strategy 8",
+      "traversy brooks lybrand article",
+      "everyone still using react",
+      "industry shifts away",
+      "https :// go",
+      "https :// brookslybrand",
+      "00 intro 1",
+      "still matters 10",
+      "32 constraints matter"
+    ],
+    "summary": "The web framework era is ending as the industry shifts away from React, Vue, and Angular. Timestamps: 0:00 Intro 1:35 Sponsor: PostHog 2:43 Do you even need a framework? 3:33 What a framework gives you 4:32 Constraints matter more with AI 5:42 Why it matters less: AI 6:23 Frameworks got more alike 7:09 Rendering strategy 8:46 The coffee shop test 9:36 Why it still matters 10:24 The job market 11:20 Performance and size 11:59 The ecosystem 12:20 Why is everyone still using React?"
+  },
+  "aa5cebe1bcc47810": {
+    "file": "corpus/hackernews/finance_yahoo_com_markets_article_chip-stocks-get-slaughtere_22bb21cc37.md",
+    "source": "hackernews",
+    "title": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+    "url": "https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html",
+    "keywords": [
+      "midterm day since 1896",
+      "midterm day since 1896",
+      "chip stocks get slaughtered",
+      "chip stocks get slaughtered",
+      "worst post",
+      "worst post",
+      "wall street",
+      "wall street",
+      "22z score",
+      "source"
+    ],
+    "summary": "# Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896 > Source: hackernews | Category: news | 2026-11-05T22:54:22Z Score: 16 | Comments: 3"
+  },
+  "0d393fbd750b1ddb": {
+    "file": "corpus/hackernews/github_com_anthropics_claude-code_issues_107757_199af8aea5.md",
+    "source": "hackernews",
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "keywords": [
+      "claude code sends",
+      "claude code sends",
+      "email address",
+      "email address",
+      "18z score",
+      "websites",
+      "websites",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Claude Code sends your email address to websites > Source: hackernews | Category: news | 2026-11-05T22:54:18Z Score: 78 | Comments: 14"
+  },
+  "7436d64363571644": {
+    "file": "corpus/hackernews/www_cve_org_CVERecord_id_CVE-2026-83844_ef3f53e269.md",
+    "source": "hackernews",
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "keywords": [
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "173"
+    ],
+    "summary": "# MS Paint Remote Code Execution Vulnerability > Source: hackernews | Category: news | 2026-11-05T22:54:17Z Score: 173 | Comments: 47"
+  },
+  "cd085eecf127ec60": {
+    "file": "corpus/hackernews/www_tencent_com_tencent-launches-hy4-joining-the-ranks-of-th_b4f7b72028.md",
+    "source": "hackernews",
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "keywords": [
+      "tencent launches hy4",
+      "tencent launches hy4",
+      "source ai models",
+      "source ai models",
+      "leading open",
+      "leading open",
+      "18z score",
+      "source",
+      "one",
+      "one"
+    ],
+    "summary": "# Tencent Launches Hy4, One of the Leading Open-Source AI Models > Source: hackernews | Category: news | 2026-11-05T22:54:18Z Score: 55 | Comments: 1"
+  },
+  "38024c49954310c5": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_cqrkyyd2j8mvo_c1de52d905.md",
+    "source": "hackernews",
+    "title": "California Gov Newsom commutes death sentences for all 548 people on death row",
+    "url": "https://www.bbc.com/news/articles/cqrkyyd2j8mvo",
+    "keywords": [
+      "death row",
+      "death row",
+      "548 people",
+      "548 people",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# California Gov Newsom commutes death sentences for all 548 people on death row > Source: hackernews | Category: news | 2026-11-05T22:54:23Z Score: 67 | Comments: 55"
+  },
+  "553cb165b15efc2a": {
+    "file": "corpus/hackernews/kagi_com_changelog_578010e7f3.md",
+    "source": "hackernews",
+    "title": "Kagi Search for Everyone",
+    "url": "https://kagi.com/changelog",
+    "keywords": [
+      "kagi search",
+      "kagi search",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "everyone",
+      "everyone",
+      "comments",
+      "category"
+    ],
+    "summary": "# Kagi Search for Everyone > Source: hackernews | Category: news | 2026-11-05T22:54:17Z Score: 303 | Comments: 159"
+  },
+  "cebf25722efe491f": {
+    "file": "corpus/hackernews/www_euronews_com_2026_11_04_hungary-communist-era-files-open_aae2e624d6.md",
+    "source": "hackernews",
+    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "keywords": [
+      "60k former agents revealed",
+      "60k former agents revealed",
+      "era files released",
+      "era files released",
+      "20z score",
+      "source",
+      "news",
+      "hungary",
+      "hungary",
+      "hackernews"
+    ],
+    "summary": "# Hungary: Communist-era files released, up to 60k former agents revealed > Source: hackernews | Category: news | 2026-11-05T22:54:20Z Score: 100 | Comments: 22"
+  },
+  "e3b7d9a3a6d75033": {
+    "file": "corpus/hackernews/onlinegoddess_net_2026_11_the-cost-of-blogging_5aab96e844.md",
+    "source": "hackernews",
+    "title": "The Cost of Blogging",
+    "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+    "keywords": [
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "cost",
+      "cost",
+      "comments",
+      "category",
+      "blogging",
+      "blogging"
+    ],
+    "summary": "# The Cost of Blogging > Source: hackernews | Category: news | 2026-11-05T22:54:18Z Score: 29 | Comments: 23"
+  },
+  "bee6a705f6caf231": {
+    "file": "corpus/hackernews/archive_org_details_howtoliewithstat00huff_2a57ab7a73.md",
+    "source": "hackernews",
+    "title": "How to Lie With Statistics (1954)",
+    "url": "https://archive.org/details/howtoliewithstat00huff",
+    "keywords": [
+      "22z score",
+      "statistics",
+      "statistics",
+      "source",
+      "news",
+      "lie",
+      "lie",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to Lie With Statistics (1954) > Source: hackernews | Category: news | 2026-11-05T22:54:22Z Score: 50 | Comments: 8"
+  },
+  "a8c8367b4b8c0f29": {
+    "file": "corpus/hackernews/finlaws_substack_com_p_25t-has-been-wiped-from-us-stocks_e5401facce.md",
+    "source": "hackernews",
+    "title": "$2.5T has been wiped from US stocks",
+    "url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
+    "keywords": [
+      "us stocks",
+      "us stocks",
+      "19z score",
+      "wiped",
+      "wiped",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# $2.5T has been wiped from US stocks > Source: hackernews | Category: news | 2026-11-05T22:54:19Z Score: 66 | Comments: 48"
+  },
+  "06fdb066bed1083f": {
+    "file": "corpus/hackernews/www_pangram_com_blog_introducing-pangram-image-1-0_80d98ddd2f.md",
+    "source": "hackernews",
+    "title": "Introducing Pangram Image 1.0",
+    "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+    "keywords": [
+      "introducing pangram image 1",
+      "introducing pangram image 1",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Introducing Pangram Image 1.0 > Source: hackernews | Category: news | 2026-11-05T22:54:19Z Score: 28 | Comments: 2"
+  },
+  "fcf3c05b5744cf68": {
+    "file": "corpus/hackernews/www_naut_ca_blog_2026_11_05_the-hackintosh-reborn-with-ai_f11fe40701.md",
+    "source": "hackernews",
+    "title": "The Hackintosh Reborn",
+    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "keywords": [
+      "hackintosh reborn",
+      "hackintosh reborn",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Hackintosh Reborn > Source: hackernews | Category: news | 2026-11-05T22:54:18Z Score: 144 | Comments: 55"
+  },
+  "285aee4c1f3abe20": {
+    "file": "corpus/hackernews/www_salon_com_2026_11_05_goodbye-from-salon_d99eb122ba.md",
+    "source": "hackernews",
+    "title": "Goodbye from Salon",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "keywords": [
+      "18z score",
+      "source",
+      "salon",
+      "salon",
+      "news",
+      "hackernews",
+      "goodbye",
+      "goodbye",
+      "comments",
+      "category"
+    ],
+    "summary": "# Goodbye from Salon > Source: hackernews | Category: news | 2026-11-05T22:54:18Z Score: 288 | Comments: 102"
+  },
+  "11b5351e5074524a": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_11_05_well_live_vitamin-k-shot-newborn-_b29effc9a4.md",
+    "source": "hackernews",
+    "title": "Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find",
+    "url": "https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html",
+    "keywords": [
+      "infant bleeding surged",
+      "infant bleeding surged",
+      "studies find",
+      "studies find",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find > Source: hackernews | Category: news | 2026-11-05T22:54:23Z Score: 21 | Comments: 8"
+  },
+  "764e1658e9119673": {
+    "file": "corpus/devto/dev_to_urielbitton_autosave-ux-show-what-saved-means-in-your_000e228e61.md",
+    "source": "devto",
+    "title": "Autosave UX: Show What Saved Means in Your Public SaaS Demo",
+    "url": "https://dev.to/urielbitton/autosave-ux-show-what-saved-means-in-your-public-saas-demo-ho5",
+    "keywords": [
+      "show one edit moving",
+      "public saas demo",
+      "public saas demo",
+      "get useful feedback",
+      "saved means",
+      "saved means",
+      "local text",
+      "confirmed save",
+      "autosave ux",
+      "autosave ux"
+    ],
+    "summary": "# Autosave UX: Show What Saved Means in Your Public SaaS Demo > Source: devto | Category: news | 2026-11-05T22:54:25Z To get useful feedback on autosave UX, show one edit moving from local text to a confirmed save, then..."
+  },
+  "10fb0632cd086951": {
+    "file": "corpus/devto/dev_to_playtrova_online-multiplayer-with-no-game-server-webr_47ae62e0e1.md",
+    "source": "devto",
+    "title": "Online multiplayer with no game server: WebRTC invite links and a browser as referee",
+    "url": "https://dev.to/playtrova/online-multiplayer-with-no-game-server-webrtc-invite-links-and-a-browser-as-referee-316b",
+    "keywords": [
+      "webrtc invite links",
+      "webrtc invite links",
+      "fully static next",
+      "free games site",
+      "js site",
+      "still ...",
+      "online multiplayer",
+      "online multiplayer",
+      "game server",
+      "game server"
+    ],
+    "summary": "# Online multiplayer with no game server: WebRTC invite links and a browser as referee > Source: devto | Category: news | 2026-11-05T22:54:25Z PlayTrova is a free games site I run as a fully static Next.js site, with no backend at all."
+  },
+  "46d311b8abdbc713": {
+    "file": "corpus/devto/dev_to_dev1alone_how-we-run-thirty-claude-code-and-codex-age_b05f090058.md",
+    "source": "devto",
+    "title": "How we run thirty Claude Code and Codex agents on our own servers (and the tool is now open source)",
+    "url": "https://dev.to/dev1alone/how-we-run-thirty-claude-code-and-codex-agents-on-our-own-servers-and-the-tool-is-now-open-source-5c4e",
+    "keywords": [
+      "run thirty claude code",
+      "run thirty claude code",
+      "concert ticketing service",
+      "thirty ...",
+      "build ticksly",
+      "open source",
+      "open source",
+      "codex agents",
+      "codex agents",
+      "code"
+    ],
+    "summary": "# How we run thirty Claude Code and Codex agents on our own servers (and the tool is now open source) > Source: devto | Category: news | 2026-11-05T22:54:28Z We build Ticksly, a concert ticketing service, and all of our code is written by agents."
+  },
+  "40661dc025693c88": {
+    "file": "corpus/devto/dev_to_binarydose_why-do-page-faults-happen-the-demand-pagin_3275ddf243.md",
+    "source": "devto",
+    "title": "Why Do Page Faults Happen? The Demand Paging Lifecycle",
+    "url": "https://dev.to/binarydose/why-do-page-faults-happen-the-demand-paging-lifecycle-1874",
+    "keywords": [
+      "page faults happen",
+      "page faults happen",
+      "page faults happen",
+      "operating system launches",
+      "demand paging lifecycle",
+      "demand paging lifecycle",
+      "demand paging lifecycle",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Why Do Page Faults Happen? Why Do Page Faults Happen? The Demand Paging Lifecycle   When an operating system launches a..."
+  },
+  "e33a1a4410871591": {
+    "file": "corpus/devto/dev_to_zordhalo_how-to-run-multiple-coding-agents-in-paralle_172b685071.md",
+    "source": "devto",
+    "title": "How to run multiple coding agents in parallel without them fighting",
+    "url": "https://dev.to/zordhalo/how-to-run-multiple-coding-agents-in-parallel-without-them-fighting-55ai",
+    "keywords": [
+      "run multiple coding agents",
+      "run multiple coding agents",
+      "27z four coding agents",
+      "four times",
+      "three things",
+      "shared checkouts",
+      "parallel without",
+      "parallel without",
+      "one repository",
+      "invented progress"
+    ],
+    "summary": "# How to run multiple coding agents in parallel without them fighting Four coding agents in one repository is not four times the work. What actually breaks (shared checkouts, invented progress, no independent check) and the three things that fix it."
+  },
+  "2798708096592abd": {
+    "file": "corpus/devto/dev_to_cloudexmachina_your-ai-observability-needs-your-agent_a4dbff23cd.md",
+    "source": "devto",
+    "title": "Your AI observability needs your agents' memory, not just their traces",
+    "url": "https://dev.to/cloudexmachina/your-ai-observability-needs-your-agents-memory-not-just-their-traces-4mf0",
+    "keywords": [
+      "ai observability needs",
+      "ai observability needs",
+      "27z originally published",
+      "ai coding agents",
+      "agents",
+      "agents",
+      "traces",
+      "traces",
+      "source",
+      "run"
+    ],
+    "summary": "# Your AI observability needs your agents' memory, not just their traces Originally published on the Cloud ex Machina engineering blog. We run our AI coding agents on a..."
+  },
+  "00d82528c4885980": {
+    "file": "corpus/devto/dev_to_vkpdeveloper_one-standup-three-calendar-apis-38o5_b3755b758c.md",
+    "source": "devto",
+    "title": "One standup, three calendar APIs",
+    "url": "https://dev.to/vkpdeveloper/one-standup-three-calendar-apis-38o5",
+    "keywords": [
+      "put one api",
+      "three calendar apis",
+      "three calendar apis",
+      "google calendar",
+      "one standup",
+      "one standup",
+      "recurring meeting",
+      "caldav store",
+      "three",
+      "takes"
+    ],
+    "summary": "# One standup, three calendar APIs > Source: devto | Category: news | 2026-11-05T22:54:25Z How Google Calendar, Outlook and CalDAV store the same recurring meeting and its exceptions, and what it takes to put one API over all three."
+  },
+  "0026e004fc55b14a": {
+    "file": "corpus/devto/dev_to_kigster_home-made-evals-just-taste-better-2d5k_d1ee8eeba8.md",
+    "source": "devto",
+    "title": "Home-made Evals Just Taste Better",
+    "url": "https://dev.to/kigster/home-made-evals-just-taste-better-2d5k",
+    "keywords": [
+      "taste better",
+      "taste better",
+      "shortened version",
+      "personal blog",
+      "original writing",
+      "made evals",
+      "made evals",
+      "28z note",
+      "source"
+    ],
+    "summary": "# Home-made Evals Just Taste Better > Source: devto | Category: news | 2026-11-05T22:54:28Z Note   This is a shortened version of the original writing on kig.re — my personal blog."
+  },
+  "7b0aee08a6f4ce2e": {
+    "file": "corpus/devto/dev_to_techdevfun_postman-silently-installed-ai-plugins-in-i_649efd7961.md",
+    "source": "devto",
+    "title": "Postman silently installed AI plugins in its own update. I built a one-command diff for your dev-tool trust surface",
+    "url": "https://dev.to/techdevfun/postman-silently-installed-ai-plugins-in-its-own-update-i-built-a-one-command-diff-for-your-3487",
+    "keywords": [
+      "codex ai plugins ,...",
+      "tool trust surface",
+      "tool trust surface",
+      "installed claude code",
+      "26z postman 12",
+      "silently auto",
+      "command diff",
+      "command diff",
+      "4 shipped",
+      "update"
+    ],
+    "summary": "# Postman silently installed AI plugins in its own update. I built a one-command diff for your dev-tool trust surface Postman 12.33.4 shipped an update that silently auto-installed Claude Code and Codex AI plugins,..."
+  },
+  "0d9be7f33c271b1e": {
+    "file": "corpus/devto/dev_to_hannah_schmidt_fast-rebuilds-without-root-a-hardened-_01ee2425d8.md",
+    "source": "devto",
+    "title": "Fast Rebuilds Without Root: A Hardened Go Service with Docker Compose",
+    "url": "https://dev.to/hannah_schmidt/fast-rebuilds-without-root-a-hardened-go-service-with-docker-compose-3me0",
+    "keywords": [
+      "fast rebuilds without root",
+      "fast rebuilds without root",
+      "hardened go service",
+      "hardened go service",
+      "capabilities isolates production",
+      "stage builds",
+      "scratch runtime",
+      "docker compose",
+      "docker compose",
+      "27z multi"
+    ],
+    "summary": "# Fast Rebuilds Without Root: A Hardened Go Service with Docker Compose Multi-stage builds with BuildKit cache mounts eliminate slow rebuilds. A scratch runtime with no capabilities isolates production from the toolchain."
+  },
+  "a7b0ec48adf8b295": {
+    "file": "corpus/devto/dev_to_vladosskin_preparing-a-godot-4-game-for-google-play-w_b21caadf94.md",
+    "source": "devto",
+    "title": "Preparing a Godot 4 game for Google Play without the pain (and a CLI that does the boring checks)",
+    "url": "https://dev.to/vladosskin/preparing-a-godot-4-game-for-google-play-without-the-pain-and-a-cli-that-does-the-boring-checks-3h08",
+    "keywords": [
+      "3d godot 4 game",
+      "godot 4 game",
+      "godot 4 game",
+      "google play without",
+      "google play without",
+      "android release problems",
+      "kept hitting",
+      "boring checks",
+      "boring checks",
+      "source cli"
+    ],
+    "summary": "# Preparing a Godot 4 game for Google Play without the pain (and a CLI that does the boring checks) > Source: devto | Category: news | 2026-11-05T22:54:28Z The Android release problems I kept hitting with a 3D Godot 4 game, and the open-source CLI I built to check them for me."
+  },
+  "25e0318645dd2298": {
+    "file": "corpus/devto/dev_to_bennialencar_slashing-ai-agent-llm-bills-by-75-sub-mi_0a84162d7a.md",
+    "source": "devto",
+    "title": "Slashing AI Agent LLM Bills by 75%: Sub-Millisecond Context Compression and Semantic Prompt Optimization in Python",
+    "url": "https://dev.to/bennialencar/slashing-ai-agent-llm-bills-by-75-sub-millisecond-context-compression-and-semantic-prompt-40dh",
+    "keywords": [
+      "semantic prompt optimization",
+      "semantic prompt optimization",
+      "semantic prompt ...",
+      "millisecond context compression",
+      "millisecond context compression",
+      "millisecond context compression",
+      "75 %: sub",
+      "75 %: sub",
+      "75 %: sub",
+      "source"
+    ],
+    "summary": "# Slashing AI Agent LLM Bills by 75%: Sub-Millisecond Context Compression and Semantic Prompt Optimization in Python > Source: devto | Category: news | 2026-11-05T22:54:26Z Slashing AI Agent LLM Bills by 75%: Sub-Millisecond Context Compression and Semantic Prompt..."
+  },
+  "b29c83c7be2f8905": {
+    "file": "corpus/devto/dev_to_codeswithroh_one-word-in-a-chat-took-my-shop-offline-_6dfa4766c7.md",
+    "source": "devto",
+    "title": "One word in a chat took my shop offline. I built it that way.",
+    "url": "https://dev.to/codeswithroh/one-word-in-a-chat-took-my-shop-offline-i-built-it-that-way-97i",
+    "keywords": [
+      "shop offline",
+      "shop offline",
+      "quoted ...",
+      "deploy caused",
+      "chat took",
+      "chat took",
+      "call room",
+      "one word",
+      "one word",
+      "word"
+    ],
+    "summary": "# One word in a chat took my shop offline. I built it that way. The word was go."
+  },
+  "a0858f0c66ccc2a4": {
+    "file": "corpus/devto/dev_to_he4rt_trocar-de-provedor-nao-deveria-ser-uma-dor-de-c_47a429eb25.md",
+    "source": "devto",
+    "title": "Trocar de provedor não deveria ser uma dor de cabeça",
+    "url": "https://dev.to/he4rt/trocar-de-provedor-nao-deveria-ser-uma-dor-de-cabeca-50ee",
+    "keywords": [
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026",
+      "05t22"
+    ],
+    "summary": "# Trocar de provedor não deveria ser uma dor de cabeça > Source: devto | Category: news | 2026-11-05T22:54:24Z Se você já trabalhou ou trabalha em startups, em um fluxo rápido de desenvolvimento de produto ou até..."
+  },
+  "a0769a5434a03dc3": {
+    "file": "corpus/devto/dev_to_devteam_congrats-to-the-kaggle-benchmarking-challenge_f9fa6cf429.md",
+    "source": "devto",
+    "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+    "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
+    "keywords": [
+      "kaggle benchmarking challenge winners",
+      "kaggle benchmarking challenge winners",
+      "deceptively simple question",
+      "weeks ago",
+      "actually ...",
+      "kaggle",
+      "teamed",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Congrats to the Kaggle Benchmarking Challenge Winners! > Source: devto | Category: news | 2026-11-05T22:54:24Z A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually..."
+  },
+  "6c677ff40af1d07a": {
+    "file": "corpus/devto/dev_to_katanaworks_build-a-snappy-horizontal-dash-in-gdevelo_d476cb9e69.md",
+    "source": "devto",
+    "title": "Build a Snappy Horizontal Dash in GDevelop in 5 Steps (No Code Required)",
+    "url": "https://dev.to/katanaworks/build-a-snappy-horizontal-dash-in-gdevelop-in-5-steps-no-code-required-3384",
+    "keywords": [
+      "snappy horizontal dash",
+      "snappy horizontal dash",
+      "feels like homework",
+      "dash mechanic",
+      "feels ...",
+      "code required",
+      "code required",
+      "5 steps",
+      "5 steps",
+      "source"
+    ],
+    "summary": "# Build a Snappy Horizontal Dash in GDevelop in 5 Steps (No Code Required) > Source: devto | Category: news | 2026-11-05T22:54:27Z A dash mechanic is the difference between a platformer that feels like homework and one that feels..."
+  },
+  "8157769671edcfdd": {
+    "file": "corpus/devto/dev_to_abhinivesh-k_receipts-not-vibes-why-agent-memory-need_fc7ae3ec0e.md",
+    "source": "devto",
+    "title": "Receipts, Not Vibes: Why Agent Memory Needs Provenance",
+    "url": "https://dev.to/abhinivesh-k/receipts-not-vibes-why-agent-memory-needs-provenance-k2f",
+    "keywords": [
+      "every claim traces back",
+      "agent memory needs provenance",
+      "agent memory needs provenance",
+      "agent memory",
+      "real incident",
+      "practical ...",
+      "28z description",
+      "vibes",
+      "vibes",
+      "useful"
+    ],
+    "summary": "# \"Receipts, Not Vibes: Why Agent Memory Needs Provenance\" > Source: devto | Category: news | 2026-11-05T22:54:28Z Description: Agent memory is only useful if every claim traces back to a real incident."
+  },
+  "075a0be2212526b0": {
+    "file": "corpus/sales/www_saastr_com_20vc-x-saastr-openai-cuts-to-1-25-trillion-an_d9828d59e6.md",
+    "source": "sales",
+    "title": "[saastr] 20VC x SaaStr: OpenAI Cuts to $1.25 Trillion, Anthropic’s Growth Goes From 12x to 2x, and Why Agents Are an Existential Risk to DoorDash",
+    "url": "https://www.saastr.com/20vc-x-saastr-openai-cuts-to-1-25-trillion-anthropics-growth-goes-from-12x-to-2x-and-why-agents-are-an-existential-risk-to-doordash/",
+    "keywords": [
+      "ai trade wobbled hard",
+      "19z 20vc x saastr",
+      "20vc x saastr",
+      "20vc x saastr",
+      "pick one deal",
+      "doordash buys instacart",
+      "doordash alphabet loses",
+      "openai cuts",
+      "openai cuts",
+      "openai cuts"
+    ],
+    "summary": "# [saastr] 20VC x SaaStr: OpenAI Cuts to $1.25 Trillion, Anthropic’s Growth Goes From 12x to 2x, and Why Agents Are an Existential Risk to DoorDash Alphabet loses about $500B in market cap, DoorDash buys Instacart for $17B, Kalshi hits $40B a day after criminal charges, and we each had to pick one deal to take to IC: Cognition, Baseten or Serval. This was one of the busiest weeks we&#8217;ve had on the pod."
+  },
+  "41595b97fde41baf": {
+    "file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v2_6_89ed29d1c4.md",
+    "source": "github-releases",
+    "title": "anthropics/anthropic-sdk-python v2.6.0 released",
+    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0",
+    "keywords": [
+      "external key validation failures",
+      "** internal :** define",
+      "** docs :** describe",
+      "vertex :** raise error",
+      "tests run ### documentation",
+      "everywhere ### bug fixes",
+      "** client :** list",
+      "** client :** describe",
+      "** bedrock :** keep",
+      "runtime type check belongs"
+    ],
+    "summary": "* **api:** add error code for ramp limit errors * **api:** add error codes for External Key validation failures * **api:** add support for signing organization members out everywhere * **client:** stop recording sampling parameters on OpenTelemetry spans * **docs:** describe the type and message of API errors * **internal:** define the status error mapping once on the base client * **internal:** tell contributors when a runtime type check belongs * **tests:** remove ambient ANTHROPIC_ and AWS_ v"
+  },
+  "cc4e7f897105751d": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v3_47_0_4b8266afd1.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v3.47.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v3.47.0",
+    "keywords": [
+      "** api :** add",
+      "0 ... v3",
+      "python — v3",
+      "12z ## openai",
+      "0 ##",
+      "model option",
+      "090098fd3f00fd46c529c4fd19edc2c762ce7a34 ))",
+      "0 released",
+      "0 released",
+      "### features"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-05T22:55:12Z ### Features * **api:** add a model option for Responses ([#4249](https://github.com/openai/openai-python/issues/4249)) ([090098f](https://github.com/openai/openai-python/commit/090098fd3f00fd46c529c4fd19edc2c762ce7a34))"
+  },
+  "69ed5c732c6b0d33": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_05_daily-deal-the-2026-canva-creato_4160f9cdeb.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: The 2026 Canva Creator Mastery Course",
+    "url": "https://www.techdirt.com/2026/11/05/daily-deal-the-2026-canva-creator-mastery-course/",
+    "keywords": [
+      "replaces [&# 8230 ;]",
+      "explore practical design techniques",
+      "use canva effectively",
+      "18z daily deal",
+      "daily deal",
+      "daily deal",
+      "design skills",
+      "quality visuals",
+      "program teaches",
+      "produce professional"
+    ],
+    "summary": "# [techdirt] Daily Deal: The 2026 Canva Creator Mastery Course You’ll explore practical design techniques, creative workflows and branding strategies that make your content stand out. It removes the complexity of design and replaces [&#8230;]"
+  },
+  "62d0a8d7426e94ab": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_05_two-states-can-now-restrict-soci_dcce7fe764.md",
+    "source": "legal",
+    "title": "[techdirt] Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
+    "url": "https://www.techdirt.com/2026/11/05/two-states-can-now-restrict-social-media-access-heres-what-to-do-next/",
+    "keywords": [
+      "block young people",
+      "accessing social media",
+      "[&# 8230 ;]",
+      "18z two states",
+      "start enforcing laws",
+      "two states",
+      "two states",
+      "learn online",
+      "allow florida",
+      "next recently"
+    ],
+    "summary": "# [techdirt] Two States Can Now Restrict Social Media Access—Here’s What To Do Next Two States Can Now Restrict Social Media Access—Here’s What To Do Next More fundamentally, these laws don’t help young people stay safe online—a goal that [&#8230;]"
+  },
+  "1fa29c8aab287bcc": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_kalshi-court-losses-pile_410d35f0bc.md",
+    "source": "legal",
+    "title": "[ars-policy] Kalshi court losses pile up as judges refuse to block state gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "keywords": [
+      "kalshi court losses pile",
+      "kalshi court losses pile",
+      "block state gambling laws",
+      "block state gambling laws",
+      "state ag says",
+      "avoid gambling law",
+      "offer gambling",
+      "judges refuse",
+      "judges refuse",
+      "judges refuse"
+    ],
+    "summary": "# [ars-policy] Kalshi court losses pile up as judges refuse to block state gambling laws Kalshi court losses pile up as judges refuse to block state gambling laws Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says."
+  },
+  "dc072b521efd38b9": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_05_judge-ice-officers-cant-be-trust_6f67a882f1.md",
+    "source": "legal",
+    "title": "[techdirt] Judge: ICE Officers Can’t Be Trusted And The Only Way To Fix This Is To Put Them On The Stand",
+    "url": "https://www.techdirt.com/2026/11/05/judge-ice-officers-cant-be-trusted-and-the-only-way-to-fix-this-is-to-put-them-on-the-stand/",
+    "keywords": [
+      "every recorded instance",
+      "every assault gets",
+      "threats &# 8221",
+      "trump &# 8217",
+      "know ice officers",
+      "&# 8217",
+      "every murder",
+      "&# 8220",
+      "ice officers",
+      "ice officers"
+    ],
+    "summary": "# [techdirt] Judge: ICE Officers Can’t Be Trusted And The Only Way To Fix This Is To Put Them On The Stand Neither can the agency that heads up most of Trump&#8217;s anti-migrant activities. Every recorded instance of abuse is immediately rebutted by bullshit claims about violent resistance [&#8230;]"
+  },
+  "b169ac7a279a1197": {
+    "file": "corpus/ai-research/openai_com_index_introducing-gpt-6-cyber_14e90e72d3.md",
+    "source": "ai-research",
+    "title": "[openai-blog] GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "keywords": [
+      "stay within authorized scope",
+      "gpt ‑ 6 cyber",
+      "gpt ‑ 6 cyber",
+      "finding exploitable vulnerabilities",
+      "aligned cybersecurity agents",
+      "aligned cybersecurity agents",
+      "cybersecurity model",
+      "developing fixes",
+      "openai ’",
+      "openai"
+    ],
+    "summary": "# [openai-blog] GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+  },
+  "90a3b4e798f247e0": {
+    "file": "corpus/ai-research/huggingface_co_blog_nvidia_cosmos-interactive-world-simulati_f25b9201ad.md",
+    "source": "ai-research",
+    "title": "[hf-blog] New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "keywords": [
+      "interactive world simulation",
+      "interactive world simulation",
+      "interactive world simulation",
+      "source",
+      "research",
+      "research",
+      "category",
+      "blog"
+    ],
+    "summary": "# [hf-blog] New NVIDIA Cosmos 3 Open Models for Interactive World Simulation > Source: ai-research | Category: research | 2026-11-05T22:54:18Z New NVIDIA Cosmos 3 Open Models for Interactive World Simulation"
+  },
+  "43935933d3686c55": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50382899_3d40da5b3b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50382899",
+    "keywords": [
+      "teams building impactful developer",
+      "tech stack includes react",
+      "ai engineer currently working",
+      "powered products .< p",
+      "focused products .< p",
+      "deployment .< p",
+      "world engineering problems",
+      "scalable backend systems",
+      "learning new technologies",
+      "enjoy solving real"
+    ],
+    "summary": "I&#x27;m Rajneesh Verma, a Full-Stack &amp; AI Engineer currently working with a YC-backed startup. I have hands-on experience building and shipping production-ready applications, scalable backend systems, APIs, and AI-powered products.<p>My tech stack includes React, Next.js, TypeScript, Node.js, Python, PostgreSQL, MongoDB, Docker, and LLM integrations. I enjoy solving real-world engineering problems, learning new technologies, and taking ownership of products from development to deployment.<p"
+  },
+  "ba3eeff4251d8d96": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50384008_f3c3fdaa7b.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50384008",
+    "keywords": [
+      "fine — show something",
+      "europe ), hybrid norrköping",
+      "small cleantech ai company",
+      "options possible .< p",
+      "serious personal projects ).",
+      "improve deep learning models",
+      "time video .< p",
+      "workflow .< p",
+      "insights .< p",
+      "projects &# x2f"
+    ],
+    "summary": "Cameras on waste collection trucks and trained vision models flag material in the wrong fraction when bins are emptied. Customers use our platform to review deviations, images, and insights.<p>We&#x27;re hiring for two roles on a small team with short decision paths.<p>Computer Vision Engineer - Train, evaluate, and improve deep learning models for real-world image analysis on our existing platform (datasets, augmentation, architecture experiments, precision&#x2F;robustness&#x2F;performance). - "
+  },
+  "738d9f292a6d17e1": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50385344_9bda5b8e23.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50385344",
+    "keywords": [
+      "moves quickly .< p",
+      "software engineer &# x2f",
+      "react &# x2f",
+      "hire position since",
+      "way .< p",
+      "nyc .< p",
+      "experiences .< p",
+      "us &# x2f",
+      "us &# x2f",
+      "november 2026 ))"
+    ],
+    "summary": "> Source: hn-hiring | Category: job-skills | 2026-11-05T22:55:23Z Location: New York, NY<p>Remote: Yes (open to frequent travel, PST preferred) or NYC.<p>Willing to relocate: No<p>Technologies: SQL, Python, Go, React&#x2F;Typescript (plus AWS, Figma, and plenty more)<p>Resume&#x2F;CV: <a href=\"https:&#x2F;&#x2F;michael.chisari.us&#x2F;resume.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;michael.chisari.us&#x2F;resume.pdf</a><p>Email: michael@chisari.us<p>--<p>Software Engineer &#x2F; Founding Engineer<p"
+  },
+  "a54691183136aac6": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50384764_1f4e2d56e4.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50384764",
+    "keywords": [
+      "icu patients .< p",
+      "sota foundation model",
+      "kind foundation model",
+      "high throughput streaming",
+      "creating neural decoders",
+      "200k -$ 300k",
+      "se &# x2f",
+      "se &# x2f",
+      "november 2026 ))",
+      "november 2026 ))"
+    ],
+    "summary": "Piramidal (YC W24) | Senior Backend Engineer | New York, NY | $200K-$300K + equity | www.piramidal.ai<p>We’ve built the first-of-its-kind foundation model for brainwave data. Powered by our SOTA foundation model, our first product detects in real time abnormalities in the brains of ICU patients.<p>We are looking for a backend engineer to help build and scale the infrastructure behind our real time neural monitoring platform. You&#x27;ll work on hard problems: high throughput streaming, real-time"
+  },
+  "4e4cbdfe2f918d04": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50385049_d34a7d34c1.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50385049",
+    "keywords": [
+      "powered situational awareness platform",
+      "founded team .< p",
+      "engineering roles .< p",
+      "makers make sense",
+      "llm experience preferred",
+      "information operations teams",
+      "23z odette technologies",
+      "senior integration engineer",
+      "november 2026 ))",
+      "november 2026 ))"
+    ],
+    "summary": "Odette Technologies | Senior Integration Engineer, Data&#x2F;ML Engineer, Product Lead | HYBRID (NC) &#x2F; REMOTE | Full-time | US citizens, clearable, East Coast-based | <a href=\"https:&#x2F;&#x2F;odettetechnologies.com\" rel=\"nofollow\">https:&#x2F;&#x2F;odettetechnologies.com</a><p>We&#x27;re building an AI-powered situational awareness platform for intelligence and information operations teams, helping analysts and decision-makers make sense of overwhelming open and closed source data. Small,"
+  },
+  "f73c96f50aff74bb": {
+    "file": "corpus/finance/techcrunch_com_2026_11_05_the-ex-secret-service-agent-who-fl_b2184d42c4.md",
+    "source": "finance",
+    "title": "[tc-venture] The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+    "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+    "keywords": [
+      "former secret service agent",
+      "secret service agent",
+      "secret service agent",
+      "secret service agent",
+      "home depot ciso",
+      "250m cybersecurity fund",
+      "250m cybersecurity fund",
+      "brightmind partners",
+      "250 million",
+      "second fund"
+    ],
+    "summary": "# [tc-venture] The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+  },
+  "9eba2171fcd6f62e": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48713_finra-fines-webull-42m-fo_17a64df720.md",
+    "source": "finance",
+    "title": "[finextra] Finra fines Webull $4.2m for AML and best execution failures",
+    "url": "https://www.finextra.com/newsarticle/48713/finra-fines-webull-42m-for-aml-and-best-execution-failures?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "18z finra fines webull",
+      "finra fines webull",
+      "finra fines webull",
+      "identity theft prevention",
+      "best execution failures",
+      "best execution failures",
+      "best execution",
+      "us regulators",
+      "reasonably designed",
+      "money laundering"
+    ],
+    "summary": "# [finextra] Finra fines Webull $4.2m for AML and best execution failures Finra fines Webull $4.2m for AML and best execution failures Digital investing platform Webull has been fined $4.2 million by US regulators for failing to roll out \"reasonably designed\" programmes for anti-money laundering, identity theft prevention and best execution."
   }
 }
