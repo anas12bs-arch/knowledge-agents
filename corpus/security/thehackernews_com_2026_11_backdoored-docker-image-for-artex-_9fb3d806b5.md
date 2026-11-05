@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access"
+url: "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-05T09:55:35Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access
+
+> Source: security | Category: security | 2026-11-05T09:55:35Z
+
+CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access
+
+The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.
+
+Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools
