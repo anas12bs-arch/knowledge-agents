@@ -843982,5 +843982,754 @@
       "upgrade rust toolchain"
     ],
     "summary": "- docs: clarify refresh client cache behavior: #101160 - Link Cache Components config errors to the migration guide: #101348 - Bump `is-animated@3.0.19`: #101173 - docs: use visible route locators with Cache Components: #101346 Huge thanks to @codeandcore, @Rezakarimzadeh98, @robsimmons, @fediev, @adityareddy-dev, @aurorascharff, @styfle, and @mischnic for helping!"
+  },
+  "e3ee7b332f70e68f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_cloudflare-d1-control-plane_utm_c_0b2081a749.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Scales D1 Control Plane to Millions of Databases",
+    "url": "https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "d1 serverless sql database",
+      "using eventual consistency",
+      "avoiding centralized bottlenecks",
+      "renato losio",
+      "recent article",
+      "implementing retries",
+      "control plane",
+      "cloudflare shared",
+      "support millions",
+      "millions"
+    ],
+    "summary": "# [infoq] Cloudflare Scales D1 Control Plane to Millions of Databases Cloudflare Scales D1 Control Plane to Millions of Databases In a recent article, Cloudflare shared the redesign of the control plane of its D1 serverless SQL database to support millions of databases, avoiding centralized bottlenecks, implementing retries and idempotency, and using eventual consistency."
+  },
+  "cc4d12a3818fdca1": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_google-cloud-self-managed-vmware__ce56f75893.md",
+    "source": "engineering",
+    "title": "[infoq] Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+    "url": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "root access across esxi",
+      "managed vmware cloud foundation",
+      "managed vmware cloud foundation",
+      "managed vmware cloud foundation",
+      "google cloud adds self",
+      "google cloud adds self",
+      "dedicated z3 bare metal",
+      "bare metal google cloud",
+      "managed vmware engine",
+      "broadcom licensing back"
+    ],
+    "summary": "# [infoq] Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal Google Cloud has made a self-managed VMware solution generally available, running VMware Cloud Foundation 9.x on dedicated Z3 bare metal with root access across ESXi, vCenter and NSX in 22 regions. It sits beside the Google-managed VMware Engine and matches customer-operated offerings from AWS and Oracle, shifting lifecycle, patching and Broadcom licensing back to the customer."
+  },
+  "effc1bbf540583fd": {
+    "file": "corpus/hackernews/github_com_dmunozv04_isponsorblocktv_bb30ad0692.md",
+    "source": "hackernews",
+    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "url": "https://github.com/dmunozv04/isponsorblocktv",
+    "keywords": [
+      "youtube tv clients",
+      "youtube tv clients",
+      "sponsorblock client",
+      "sponsorblock client",
+      "52z score",
+      "source",
+      "news",
+      "isponsorblocktv",
+      "isponsorblocktv",
+      "hackernews"
+    ],
+    "summary": "# ISponsorBlockTV: SponsorBlock client for all YouTube TV clients > Source: hackernews | Category: news | 2026-11-08T07:53:52Z Score: 16 | Comments: 0"
+  },
+  "676dc6908c6cce90": {
+    "file": "corpus/hackernews/imagesco_com_articles_kirlian_kirlian-photography_html_7dac8a78f7.md",
+    "source": "hackernews",
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "keywords": [
+      "kirlian photography",
+      "kirlian photography",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "equipment",
+      "equipment",
+      "comments",
+      "category"
+    ],
+    "summary": "# Kirlian Photography: Building Your Own Equipment > Source: hackernews | Category: news | 2026-11-08T07:53:50Z Score: 27 | Comments: 2"
+  },
+  "0703aaf728c4b30c": {
+    "file": "corpus/hackernews/caleb_software_posts_claude-to-pi_html_149c124f7b.md",
+    "source": "hackernews",
+    "title": "Goodbye Claude, Hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "keywords": [
+      "hello pi",
+      "hello pi",
+      "goodbye claude",
+      "goodbye claude",
+      "50z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Goodbye Claude, Hello Pi > Source: hackernews | Category: news | 2026-11-08T07:53:50Z Score: 195 | Comments: 110"
+  },
+  "79778557d95c0e24": {
+    "file": "corpus/hackernews/github_com_AmSach_maple_9cc8c1cac2.md",
+    "source": "hackernews",
+    "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+    "url": "https://github.com/AmSach/maple",
+    "keywords": [
+      "run gemma 4 26b",
+      "run gemma 4 26b",
+      "maple – sub",
+      "maple – sub",
+      "bpw moe pruning",
+      "bpw moe pruning",
+      "show hn",
+      "show hn",
+      "6gb gpu",
+      "6gb gpu"
+    ],
+    "summary": "# Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU > Source: hackernews | Category: news | 2026-11-08T07:53:58Z Score: 4 | Comments: 1"
+  },
+  "408190edf320fa54": {
+    "file": "corpus/hackernews/clj_rs_28d1f4c29e.md",
+    "source": "hackernews",
+    "title": "Clj.rs – a Clojure dialect implemented in Rust",
+    "url": "https://clj.rs/",
+    "keywords": [
+      "clojure dialect implemented",
+      "clojure dialect implemented",
+      "rs –",
+      "rs –",
+      "53z score",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Clj.rs – a Clojure dialect implemented in Rust > Source: hackernews | Category: news | 2026-11-08T07:53:53Z Score: 3 | Comments: 0"
+  },
+  "69a1027a36813da2": {
+    "file": "corpus/hackernews/github_com_crmne_zapfast_9a6cfc6ad0.md",
+    "source": "hackernews",
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "url": "https://github.com/crmne/zapfast",
+    "keywords": [
+      "native whatsapp client",
+      "native whatsapp client",
+      "53z score",
+      "zapfast",
+      "zapfast",
+      "source",
+      "rust",
+      "rust",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# ZapFast: A fast, native WhatsApp client in Rust and egui > Source: hackernews | Category: news | 2026-11-08T07:53:53Z Score: 60 | Comments: 41"
+  },
+  "3475bfd1bb353747": {
+    "file": "corpus/hackernews/sites_google_com_view_sailing-solo-around-britain_leisure-27_55cc4bb86f.md",
+    "source": "hackernews",
+    "title": "Sailing Solo Around Britain",
+    "url": "https://sites.google.com/view/sailing-solo-around-britain/leisure-27-dark-star",
+    "keywords": [
+      "sailing solo around britain",
+      "sailing solo around britain",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Sailing Solo Around Britain > Source: hackernews | Category: news | 2026-11-08T07:53:56Z Score: 6 | Comments: 2"
+  },
+  "2c64bac51dff0a0c": {
+    "file": "corpus/hackernews/biographic_com_cancer-at-sea_312767d514.md",
+    "source": "hackernews",
+    "title": "Cancer at Sea",
+    "url": "https://biographic.com/cancer-at-sea/",
+    "keywords": [
+      "57z score",
+      "source",
+      "sea",
+      "sea",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "cancer",
+      "cancer"
+    ],
+    "summary": "# Cancer at Sea > Source: hackernews | Category: news | 2026-11-08T07:53:57Z Score: 25 | Comments: 2"
+  },
+  "2521265f195c0230": {
+    "file": "corpus/hackernews/arxiv_org_abs_2610_38331_8d74348812.md",
+    "source": "hackernews",
+    "title": "Multi-Token Prediction Done Right",
+    "url": "https://arxiv.org/abs/2610.38331",
+    "keywords": [
+      "token prediction done right",
+      "token prediction done right",
+      "58z score",
+      "source",
+      "news",
+      "multi",
+      "multi",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Multi-Token Prediction Done Right > Source: hackernews | Category: news | 2026-11-08T07:53:58Z Score: 5 | Comments: 2"
+  },
+  "40bc2bb939414677": {
+    "file": "corpus/hackernews/architecture-history_org_schools_AMSTERDAM_20SCHOOL_html_b7a280853a.md",
+    "source": "hackernews",
+    "title": "Amsterdam School",
+    "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+    "keywords": [
+      "amsterdam school",
+      "amsterdam school",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Amsterdam School > Source: hackernews | Category: news | 2026-11-08T07:53:52Z Score: 27 | Comments: 5"
+  },
+  "06e41b707d793c10": {
+    "file": "corpus/hackernews/biographic_com_the-unwilding-of-patagonias-pollinators_19c230f400.md",
+    "source": "hackernews",
+    "title": "The Unwilding of Patagonia's Pollinators",
+    "url": "https://biographic.com/the-unwilding-of-patagonias-pollinators/",
+    "keywords": [
+      "57z score",
+      "unwilding",
+      "unwilding",
+      "source",
+      "pollinators",
+      "pollinators",
+      "patagonia",
+      "patagonia",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# The Unwilding of Patagonia's Pollinators > Source: hackernews | Category: news | 2026-11-08T07:53:57Z Score: 4 | Comments: 0"
+  },
+  "9f30d0933ba628c1": {
+    "file": "corpus/hackernews/www_science_org_content_article_wearable-device-makers-are-h_fd273feaa8.md",
+    "source": "hackernews",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "keywords": [
+      "51z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Consumer brain wave headsets threaten privacy > Source: hackernews | Category: news | 2026-11-08T07:53:51Z Score: 27 | Comments: 7"
+  },
+  "05fb78e5842b208f": {
+    "file": "corpus/hackernews/www_bbc_com_news_articles_c81dwllzv113o_7e45f9c244.md",
+    "source": "hackernews",
+    "title": "My parents chose to die together and I was left to grieve alone",
+    "url": "https://www.bbc.com/news/articles/c81dwllzv113o",
+    "keywords": [
+      "parents chose",
+      "parents chose",
+      "grieve alone",
+      "grieve alone",
+      "die together",
+      "die together",
+      "56z score",
+      "source",
+      "news",
+      "left"
+    ],
+    "summary": "# My parents chose to die together and I was left to grieve alone > Source: hackernews | Category: news | 2026-11-08T07:53:56Z Score: 21 | Comments: 7"
+  },
+  "70f5f8f563e2e87d": {
+    "file": "corpus/hackernews/www_nybooks_com_online_2026_10_30_here-be-monsters_f814ce2f5f.md",
+    "source": "hackernews",
+    "title": "Here Be Monsters",
+    "url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
+    "keywords": [
+      "59z score",
+      "source",
+      "news",
+      "monsters",
+      "monsters",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Here Be Monsters > Source: hackernews | Category: news | 2026-11-08T07:53:59Z Score: 3 | Comments: 0"
+  },
+  "6684f9702f061a95": {
+    "file": "corpus/devto/dev_to_fahadazhar1_i-replaced-a-brands-shopify-app-stack-wit_100988f71e.md",
+    "source": "devto",
+    "title": "I replaced a brand's Shopify app stack with code. Here's what it really costs",
+    "url": "https://dev.to/fahadazhar1/i-replaced-a-brands-shopify-app-stack-with-code-heres-what-it-really-costs-333e",
+    "keywords": [
+      "usual shopify answer",
+      "shopify app stack",
+      "shopify app stack",
+      "x ?\"",
+      "really costs",
+      "really costs",
+      "pay ...",
+      "app",
+      "store",
+      "source"
+    ],
+    "summary": "# I replaced a brand's Shopify app stack with code. Here's what it really costs is \"there's an app for that\"."
+  },
+  "b1ce881f3bb12b7d": {
+    "file": "corpus/devto/dev_to_hoelee_upgrading-n8n-v1-to-v2-seven-deprecations-in-o_8f26104451.md",
+    "source": "devto",
+    "title": "Upgrading n8n v1 to v2: Seven Deprecations in One Log File",
+    "url": "https://dev.to/hoelee/upgrading-n8n-v1-to-v2-seven-deprecations-in-one-log-file-4920",
+    "keywords": [
+      "upgrading n8n v1",
+      "upgrading n8n v1",
+      "telemetry schema rejection",
+      "one log file",
+      "one log file",
+      "hosted n8n 1",
+      "deprecated webhook vars",
+      "seven deprecations",
+      "seven deprecations",
+      "quietly disabled"
+    ],
+    "summary": "# Upgrading n8n v1 to v2: Seven Deprecations in One Log File > Source: devto | Category: news | 2026-11-08T07:53:59Z My self-hosted n8n 1.x to 2.40.1 upgrade surfaced seven silent breakages at once — a telemetry schema rejection, deprecated webhook vars, and a DB override that quietly disabled the AI sandbox."
+  },
+  "58e99d4a4b8a66ba": {
+    "file": "corpus/devto/dev_to_shuwacloud_5-reasons-your-aws-bill-keeps-growing-even_6ca1fe7e9b.md",
+    "source": "devto",
+    "title": "5 Reasons Your AWS Bill Keeps Growing (Even When Nobody Uses Your App)",
+    "url": "https://dev.to/shuwacloud/5-reasons-your-aws-bill-keeps-growing-even-when-nobody-uses-your-app-380",
+    "keywords": [
+      "aws bill keeps growing",
+      "aws bill keeps growing",
+      "yet every month",
+      "small side project",
+      "bill creeps",
+      "nobody uses",
+      "nobody uses",
+      "basically zero",
+      "5 reasons",
+      "5 reasons"
+    ],
+    "summary": "# 5 Reasons Your AWS Bill Keeps Growing (Even When Nobody Uses Your App) You built a small side project on AWS. Yet every month the bill creeps up,..."
+  },
+  "a3af0f4e41b45665": {
+    "file": "corpus/devto/dev_to_aheadkit_the-spreadsheet-that-tells-me-if-a-side-proj_c7d6ec857f.md",
+    "source": "devto",
+    "title": "The Spreadsheet That Tells Me If a Side Project Is Worth My Weekend",
+    "url": "https://dev.to/aheadkit/the-spreadsheet-that-tells-me-if-a-side-project-is-worth-my-weekend-e13",
+    "keywords": [
+      "browser extension ...",
+      "built side projects",
+      "side project",
+      "side project",
+      "recipe app",
+      "habit tracker",
+      "worth",
+      "worth",
+      "weekend",
+      "weekend"
+    ],
+    "summary": "# The Spreadsheet That Tells Me If a Side Project Is Worth My Weekend > Source: devto | Category: news | 2026-11-08T07:54:02Z I have a graveyard of half-built side projects."
+  },
+  "2dc86e38995950fd": {
+    "file": "corpus/devto/dev_to_chet103cc_seedance-25-vs-20-vs-mini-which-tier-earns-_bfdcb04541.md",
+    "source": "devto",
+    "title": "Seedance 2.5 vs 2.0 vs Mini: which tier earns its per-second price",
+    "url": "https://dev.to/chet103cc/seedance-25-vs-20-vs-mini-which-tier-earns-its-per-second-price-12m6",
+    "keywords": [
+      "02 ), seedance 2",
+      "5 vs 2",
+      "5 vs 2",
+      "480p ($ 0",
+      "0 vs mini",
+      "0 vs mini",
+      "0 mini",
+      "seedance 2",
+      "seedance 2",
+      "seedance 2"
+    ],
+    "summary": "# Seedance 2.5 vs 2.0 vs Mini: which tier earns its per-second price > Source: devto | Category: news | 2026-11-08T07:54:02Z Answer: on Callirra, Seedance 2.0 Mini is 2 credits per output second at 480P ($0.02), Seedance 2.0..."
+  },
+  "dea19fa7f88f39ad": {
+    "file": "corpus/devto/dev_to_taqui_dont-write-more-prompts-install-these-10-trendi_117145fc1e.md",
+    "source": "devto",
+    "title": "Don't Write More Prompts. Install These 10 Trending 'Skills' Instead",
+    "url": "https://dev.to/taqui/dont-write-more-prompts-install-these-10-trending-skills-instead-3lpc",
+    "keywords": [
+      "found 10 trending skills",
+      "10 trending",
+      "10 trending",
+      "agent power",
+      "skills",
+      "skills",
+      "write",
+      "write",
+      "test"
+    ],
+    "summary": "# Don't Write More Prompts. Install These 10 Trending 'Skills' Instead I found 10 trending skills on GitHub that can boost your agent power a lot, and I had to test them..."
+  },
+  "6a459476ae2a0931": {
+    "file": "corpus/devto/dev_to_ale_guro_f978e86cfa6ff51f_sdd-but-how-its-easier-when_38bf373660.md",
+    "source": "devto",
+    "title": "SDD, but how? It's easier when it's really 'driven",
+    "url": "https://dev.to/ale_guro_f978e86cfa6ff51f/sdd-but-how-its-easier-when-its-really-driven-5fn8",
+    "keywords": [
+      "driven development solves",
+      "real problem",
+      "happily build",
+      "ai assistant",
+      "02z spec",
+      "driven",
+      "driven",
+      "spec",
+      "source",
+      "sdd"
+    ],
+    "summary": "# SDD, but how? > Source: devto | Category: news | 2026-11-08T07:54:02Z Spec-driven development solves a real problem: an AI assistant with no spec will happily build the..."
+  },
+  "bc77dff993366dd5": {
+    "file": "corpus/devto/dev_to_phpboyscout_twenty-six-against-forty-29on_f6f612734a.md",
+    "source": "devto",
+    "title": "Twenty-six against forty",
+    "url": "https://dev.to/phpboyscout/twenty-six-against-forty-29on",
+    "keywords": [
+      "wide migration overnight",
+      "single count told",
+      "one instruction",
+      "fleet run",
+      "twenty",
+      "twenty",
+      "source",
+      "something",
+      "six",
+      "six"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-08T07:54:01Z I let the fleet run an estate-wide migration overnight with one instruction: don't merge. In the morning a single count told me something was missing, before I'd opened a diff."
+  },
+  "d680e632451d813a": {
+    "file": "corpus/devto/dev_to_badjessab_rebuilding-the-ai-stack-by-hand-part-2-opti_3dbe1518f8.md",
+    "source": "devto",
+    "title": "Rebuilding the AI Stack by Hand, Part 2: Optimizing the Tokenizer",
+    "url": "https://dev.to/badjessab/rebuilding-the-ai-stack-by-hand-part-2-optimizing-the-tokenizer-lim",
+    "keywords": [
+      "59z continue part 1",
+      "modern ai stack",
+      "ai stack",
+      "ai stack",
+      "part 2",
+      "part 2",
+      "first principles",
+      "tokenizer",
+      "tokenizer",
+      "source"
+    ],
+    "summary": "# Rebuilding the AI Stack by Hand, Part 2: Optimizing the Tokenizer > Source: devto | Category: news | 2026-11-08T07:53:59Z Continue Part 1 of a series on rebuilding the modern AI stack from first principles."
+  },
+  "16d0f68c19e1f13c": {
+    "file": "corpus/devto/dev_to_blucca_distilling-the-eight-probabilities-a-byte-code_fb01fd5e3f.md",
+    "source": "devto",
+    "title": "Distilling the eight probabilities a byte coder actually reads",
+    "url": "https://dev.to/blucca/distilling-the-eight-probabilities-a-byte-coder-actually-reads-4a8b",
+    "keywords": [
+      "byte coder actually reads",
+      "byte coder actually reads",
+      "eight probabilities",
+      "eight probabilities",
+      "source",
+      "reactions",
+      "news",
+      "distilling",
+      "distilling",
+      "devto"
+    ],
+    "summary": "# Distilling the eight probabilities a byte coder actually reads A neural byte predictor emits 205 probabilities. Its arithmetic coder consumes eight conditional..."
+  },
+  "cb6608dff7a45432": {
+    "file": "corpus/devto/dev_to_aheadkit_i-rewrote-the-same-function-3-ways-the-faste_f527016e5d.md",
+    "source": "devto",
+    "title": "I Rewrote the Same Function 3 Ways. The Fastest One Wasn't Worth It",
+    "url": "https://dev.to/aheadkit/i-rewrote-the-same-function-3-ways-the-fastest-one-wasnt-worth-it-5467",
+    "keywords": [
+      "function 3 ways",
+      "function 3 ways",
+      "three ways",
+      "whole job",
+      "fastest one",
+      "fastest one",
+      "even numbers",
+      "02z sum",
+      "wrote",
+      "worth"
+    ],
+    "summary": "# I Rewrote the Same Function 3 Ways. The Fastest One Wasn't Worth It I wrote it three ways this..."
+  },
+  "fb04976e1a7e6c46": {
+    "file": "corpus/devto/dev_to_jun-matsui_breaking-0669-to-reach-top-5-in-kaggles-na_74d408f4a9.md",
+    "source": "devto",
+    "title": "Breaking 0.669 to Reach Top 5 in Kaggle's 'Name That LLM': The Decoy Trap, Dual-SVC & Sequence Encoders",
+    "url": "https://dev.to/jun-matsui/breaking-0669-to-reach-top-5-in-kaggles-name-that-llm-the-decoy-trap-dual-svc-sequence-368n",
+    "keywords": [
+      "recalibrated soft sinkhorn balancing",
+      "camouflaged public sota notebooks",
+      "applied deterministic typography invariants",
+      "v3 sequence classification",
+      "reach top 5",
+      "reach top 5",
+      "push beyond 0",
+      "top 5",
+      "sequence encoders",
+      "sequence encoders"
+    ],
+    "summary": "# Breaking 0.669 to Reach Top 5 in Kaggle's \"Name That LLM\": The Decoy Trap, Dual-SVC & Sequence Encoders > Source: devto | Category: news | 2026-11-08T07:54:00Z How we de-camouflaged public SOTA notebooks, added DeBERTa-v3 sequence classification, recalibrated soft Sinkhorn balancing, and applied deterministic typography invariants to push beyond 0.672 into Top 5."
+  },
+  "f8a3493e1b58596a": {
+    "file": "corpus/devto/dev_to_dafili_a-75-year-old-cve-a-42-line-patch-and-the-afte_6c212d2428.md",
+    "source": "devto",
+    "title": "A 7.5-year-old CVE, a 42-line patch, and the afternoon nobody had",
+    "url": "https://dev.to/dafili/a-75-year-old-cve-a-42-line-patch-and-the-afternoon-nobody-had-572n",
+    "keywords": [
+      "00z two lines reproduce",
+      "perf_counter () markdown",
+      "markdown ('[' *...",
+      "import markdown",
+      "old cve",
+      "old cve",
+      "line patch",
+      "line patch",
+      "afternoon nobody",
+      "afternoon nobody"
+    ],
+    "summary": "# A 7.5-year-old CVE, a 42-line patch, and the afternoon nobody had > Source: devto | Category: news | 2026-11-08T07:54:00Z Two lines reproduce it:    import markdown, time t = time.perf_counter() markdown.markdown('[' *..."
+  },
+  "90367e5e6f3e91e2": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_the-microsoft-lab-that-worked-on-autoge_a107ac51f4.md",
+    "source": "devto",
+    "title": "The Microsoft Lab That Worked on AutoGen Is Over. AutoGen Already Gets No Security Fixes",
+    "url": "https://dev.to/gabrielanhaia/the-microsoft-lab-that-worked-on-autogen-is-over-autogen-already-gets-no-security-fixes-281",
+    "keywords": [
+      "readme already rules",
+      "ai frontiers group",
+      "autogen already gets",
+      "autogen already gets",
+      "security fixes",
+      "security fixes",
+      "security fixes",
+      "microsoft lab",
+      "microsoft lab",
+      "autogen"
+    ],
+    "summary": "# The Microsoft Lab That Worked on AutoGen Is Over. John Langford says Microsoft's AI Frontiers group, which worked on AutoGen, is over. AutoGen's README already rules out security fixes."
+  },
+  "d86111bcbcaa0d54": {
+    "file": "corpus/devto/dev_to_aheadkit_what-is-the-hardest-thing-about-learning-to-_7f8da11488.md",
+    "source": "devto",
+    "title": "What Is the Hardest Thing About Learning to Code? Mine Isn't Code.",
+    "url": "https://dev.to/aheadkit/what-is-the-hardest-thing-about-learning-to-code-mine-isnt-code-4ee2",
+    "keywords": [
+      "01z people assume",
+      "study ...",
+      "hardest thing",
+      "hardest thing",
+      "hard part",
+      "source",
+      "reactions",
+      "news",
+      "mine",
+      "mine"
+    ],
+    "summary": "# What Is the Hardest Thing About Learning to Code? People assume the hard part of learning to code is the code. For me, it honestly isn't."
+  },
+  "6b7bf0ba0629700f": {
+    "file": "corpus/devto/dev_to_aheadkit_my-first-code-review-tore-my-pr-apart-4-comm_1874854ea3.md",
+    "source": "devto",
+    "title": "My First Code Review Tore My PR Apart. 4 Comments I Still Think About",
+    "url": "https://dev.to/aheadkit/my-first-code-review-tore-my-pr-apart-4-comments-i-still-think-about-2jcn",
+    "keywords": [
+      "first real pull request",
+      "first code review tore",
+      "first code review tore",
+      "still think",
+      "still think",
+      "pr apart",
+      "pr apart",
+      "billing helper",
+      "400 lines",
+      "4 comments"
+    ],
+    "summary": "4 Comments I Still Think About > Source: devto | Category: news | 2026-11-08T07:53:59Z My first real pull request was 400 lines of a billing helper, and I was proud of it."
+  },
+  "f3ef15bbc8613ebd": {
+    "file": "corpus/devto/dev_to_easy28_your-video-calls-freeze-on-upload-the-number-y_435dd449c7.md",
+    "source": "devto",
+    "title": "Your video calls freeze on upload — the number your speed test hides",
+    "url": "https://dev.to/easy28/your-video-calls-freeze-on-upload-the-number-your-speed-test-hides-129l",
+    "keywords": [
+      "download tests glow green",
+      "video call turns ...",
+      "video calls freeze",
+      "video calls freeze",
+      "speed test hides",
+      "speed test hides",
+      "feels fast .\"",
+      "upload —",
+      "upload —",
+      "yet"
+    ],
+    "summary": "# Your video calls freeze on upload — the number your speed test hides Download tests glow green. And yet, twice a week, your video call turns..."
+  },
+  "596c61164c07f1cb": {
+    "file": "corpus/devto/dev_to_koda2026_i-tried-to-hack-my-own-paas-heres-what-i-fou_c815eba97b.md",
+    "source": "devto",
+    "title": "I Tried to Hack My Own PaaS... Here's What I Found (HYNA-Stage v2.5.0 Security Audit) 🔒🪔",
+    "url": "https://dev.to/koda2026/i-tried-to-hack-my-own-paas-heres-what-i-found-hyna-stage-v250-security-audit-3eji",
+    "keywords": [
+      "02z happy diwali",
+      "0 security audit",
+      "0 security audit",
+      "stage v2",
+      "stage v2",
+      "got back",
+      "blasting firecrackers",
+      "paas ...",
+      "paas ...",
+      "..."
+    ],
+    "summary": "# I Tried to Hack My Own PaaS... Here's What I Found (HYNA-Stage v2.5.0 Security Audit) 🔒🪔 🪔  I just got back from blasting firecrackers with my brother, grandpa, and..."
+  },
+  "afe8a0f696c3a5d9": {
+    "file": "corpus/devto/dev_to_blucca_cpu-snapshot-swaps-check-the-writeback-then-th_b5f207340d.md",
+    "source": "devto",
+    "title": "CPU snapshot swaps: check the writeback, then the cost",
+    "url": "https://dev.to/blucca/cpu-snapshot-swaps-check-the-writeback-then-the-cost-428p",
+    "keywords": [
+      "cpu snapshot swaps",
+      "cpu snapshot swaps",
+      "returns ...",
+      "compiled program",
+      "writeback",
+      "writeback",
+      "values",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# CPU snapshot swaps: check the writeback, then the cost > Source: devto | Category: news | 2026-11-08T07:53:59Z A small CPU swap exposes two separate parts of a compiled program's contract: the values it returns..."
+  },
+  "07e8bb38c4ac57e6": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_what-publishing-35-agent-articles-ta_f720d809b6.md",
+    "source": "devto",
+    "title": "What Publishing 35+ Agent Articles Taught Me About Writing (and About Agents)",
+    "url": "https://dev.to/debashish_ghosal/what-publishing-35-agent-articles-taught-me-about-writing-and-about-agents-4p7k",
+    "keywords": [
+      "agent articles taught",
+      "agent articles taught",
+      "agent articles taught",
+      "publishing 35",
+      "publishing 35",
+      "publishing 35",
+      "five ...",
+      "writing",
+      "writing",
+      "writing"
+    ],
+    "summary": "# What Publishing 35+ Agent Articles Taught Me About Writing (and About Agents) > Source: devto | Category: news | 2026-11-08T07:54:01Z What Publishing 35+ Agent Articles Taught Me About Writing (and About Agents)   Thirty-five..."
+  },
+  "54b24694c9d5dc46": {
+    "file": "corpus/devto/dev_to_aheadkit_i-asked-ai-to-build-my-project-then-it-broke_4e523f22a1.md",
+    "source": "devto",
+    "title": "I Asked AI to Build My Project. Then It Broke, and I Had No Idea Where to Even Look.",
+    "url": "https://dev.to/aheadkit/i-asked-ai-to-build-my-project-then-it-broke-and-i-had-no-idea-where-to-even-look-3721",
+    "keywords": [
+      "ever stared",
+      "even look",
+      "even look",
+      "ai ...",
+      "asked ai",
+      "asked ai",
+      "asked",
+      "wrote",
+      "supposedly",
+      "source"
+    ],
+    "summary": "# I Asked AI to Build My Project. Then It Broke, and I Had No Idea Where to Even Look. Have you ever stared at code you supposedly \"wrote\" and realised you couldn't read it?"
+  },
+  "1ec752cde28185f9": {
+    "file": "corpus/devto/dev_to_earlgreyhot1701d_a-builder-in-cdmx-flu-edition-167_f004ec4914.md",
+    "source": "devto",
+    "title": "A Builder in CDMX: Flu Edition",
+    "url": "https://dev.to/earlgreyhot1701d/a-builder-in-cdmx-flu-edition-167",
+    "keywords": [
+      "sick wife",
+      "one button",
+      "left blank",
+      "flu edition",
+      "flu edition",
+      "digital bell",
+      "source",
+      "reactions",
+      "pressed"
+    ],
+    "summary": "# A Builder in CDMX: Flu Edition I built my sick wife a digital bell. She pressed the one button I left blank."
+  },
+  "81138385f9cd926a": {
+    "file": "corpus/devto/dev_to_teo_furlan_i-wanted-my-coding-agent-to-examine-me-out_f2b62ae8f5.md",
+    "source": "devto",
+    "title": "I wanted my coding agent to examine me out loud, so I built a local voice layer for it",
+    "url": "https://dev.to/teo_furlan/i-wanted-my-coding-agent-to-examine-me-out-loud-so-i-built-a-local-voice-layer-for-it-2ni4",
+    "keywords": [
+      "local voice layer",
+      "local voice layer",
+      "ai coding workflow",
+      "coding agent",
+      "coding agent",
+      "weeks ago",
+      "learning system",
+      "built inside",
+      "built",
+      "built"
+    ],
+    "summary": "# I wanted my coding agent to examine me out loud, so I built a local voice layer for it > Source: devto | Category: news | 2026-11-08T07:54:00Z A few weeks ago I wrote about the learning system I built inside my AI coding workflow: notes in..."
+  },
+  "48bd05c3e69c8d36": {
+    "file": "corpus/devto/dev_to_jrpasolini_a-memory-that-curates-itself-from-grep-to-_6fa6e5e857.md",
+    "source": "devto",
+    "title": "A memory that curates itself: from grep to BM25, and the warm layer we built a week later",
+    "url": "https://dev.to/jrpasolini/a-memory-that-curates-itself-from-grep-to-bm25-and-the-warm-layer-we-built-a-week-later-9c8",
+    "keywords": [
+      "2 gb ,...",
+      "operational memory fits",
+      "week later",
+      "week later",
+      "warm layer",
+      "warm layer",
+      "prompt plus",
+      "cards —",
+      "36 file",
+      "110 kb"
+    ],
+    "summary": "# A memory that curates itself: from grep to BM25, and the warm layer we built a week later > Source: devto | Category: news | 2026-11-08T07:54:01Z How an agent's operational memory fits in ~110 KB of prompt plus a wiki of 36 file-cards — on a 2 GB,..."
   }
 }
