@@ -844731,5 +844731,967 @@
       "110 kb"
     ],
     "summary": "# A memory that curates itself: from grep to BM25, and the warm layer we built a week later > Source: devto | Category: news | 2026-11-08T07:54:01Z How an agent's operational memory fits in ~110 KB of prompt plus a wiki of 36 file-cards — on a 2 GB,..."
+  },
+  "48da74c639a93f10": {
+    "file": "corpus/devops/www_cncf_io_blog_2026_11_08_lima-v2-3-native-on-windows-vmne_e1578dde9f.md",
+    "source": "devops",
+    "title": "[cncf] Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
+    "url": "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/",
+    "keywords": [
+      "runs without extra dependencies",
+      "host compute system ...",
+      "menu tui back",
+      "16z lima v2",
+      "menu tui",
+      "menu tui",
+      "vms start",
+      "shipped v2",
+      "november 6",
+      "lima v2"
+    ],
+    "summary": "# [cncf] Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI Back in July with v2.2, we added support for Windows guests. On November 6, we shipped v2.3 of Lima and now it runs without extra dependencies on Windows: VMs start through the same Host Compute System..."
+  },
+  "3b12df07f7f47987": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_entire-git-forge-coding-agents_ut_a79db40329.md",
+    "source": "engineering",
+    "title": "[infoq] Entire's Git Forge Rethinks Git Collaboration for Coding Agents",
+    "url": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "traditional software development infrastructure",
+      "git forge designed specifically",
+      "sergio de simone",
+      "ai agents generate",
+      "ai coding agents",
+      "coding agents entire",
+      "coding agents",
+      "coding agents",
+      "well suited",
+      "pull request"
+    ],
+    "summary": "# [infoq] Entire's Git Forge Rethinks Git Collaboration for Coding Agents Entire is a Git forge designed specifically for collaboration between human developers and AI coding agents. Its premise is that traditional software development infrastructure, particularly the pull request (PR) model, is not well suited to an environment where AI agents generate, review, and iterate on code at high speed."
+  },
+  "2c6e4a665ed05c53": {
+    "file": "corpus/hackernews/github_com_synchopate_llama-modchip_55858f2b4c.md",
+    "source": "hackernews",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "keywords": [
+      "64gb ram",
+      "64gb ram",
+      "284b deepseek",
+      "284b deepseek",
+      "15z score",
+      "source",
+      "news",
+      "modchip",
+      "modchip",
+      "llama"
+    ],
+    "summary": "# Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU > Source: hackernews | Category: news | 2026-11-08T14:36:15Z Score: 74 | Comments: 28"
+  },
+  "1c2c32a7e2b554c0": {
+    "file": "corpus/hackernews/www_lorekit_io_blog_open-agent-memory-format_96571aa39f.md",
+    "source": "hackernews",
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "keywords": [
+      "agent memory needs",
+      "agent memory needs",
+      "opentelemetry moment",
+      "opentelemetry moment",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Agent memory needs its OpenTelemetry moment > Source: hackernews | Category: news | 2026-11-08T14:36:16Z Score: 87 | Comments: 72"
+  },
+  "e7a900531e9f1cec": {
+    "file": "corpus/hackernews/krthr_co_person-of-interest_dcc13ba1d4.md",
+    "source": "hackernews",
+    "title": "Person of Interest",
+    "url": "https://krthr.co/person-of-interest/",
+    "keywords": [
+      "15z score",
+      "source",
+      "person",
+      "person",
+      "news",
+      "interest",
+      "interest",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Person of Interest > Source: hackernews | Category: news | 2026-11-08T14:36:15Z Score: 166 | Comments: 104"
+  },
+  "4c461de5612442f0": {
+    "file": "corpus/hackernews/github_com_kobaltgit_StatCraft_b4502e6d4c.md",
+    "source": "hackernews",
+    "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+    "url": "https://github.com/kobaltgit/StatCraft",
+    "keywords": [
+      "rewriting ibm spss statistics",
+      "rewriting ibm spss statistics",
+      "safe rust",
+      "safe rust",
+      "22z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone > Source: hackernews | Category: news | 2026-11-08T14:36:22Z Score: 23 | Comments: 35"
+  },
+  "62445748870e6e5f": {
+    "file": "corpus/hackernews/www_ft_com_content_41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0_cb8c6b1adf.md",
+    "source": "hackernews",
+    "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+    "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+    "keywords": [
+      "generate gas",
+      "generate gas",
+      "fired power",
+      "fired power",
+      "data centres",
+      "data centres",
+      "anthropic strikes",
+      "anthropic strikes",
+      "4b deal",
+      "4b deal"
+    ],
+    "summary": "# Anthropic strikes $3.4B deal to generate gas-fired power for data centres > Source: hackernews | Category: news | 2026-11-08T14:36:20Z Score: 10 | Comments: 6"
+  },
+  "cf5e481bf6255e5f": {
+    "file": "corpus/hackernews/www_cnn_com_2026_11_05_science_ancient-cannabis-siberia-scli_0ab9279d76.md",
+    "source": "hackernews",
+    "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+    "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+    "keywords": [
+      "cannabis use found",
+      "cannabis use found",
+      "ancient siberian tomb",
+      "ancient siberian tomb",
+      "earliest evidence",
+      "earliest evidence",
+      "17z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Earliest evidence of cannabis use found in ancient Siberian tomb > Source: hackernews | Category: news | 2026-11-08T14:36:17Z Score: 24 | Comments: 14"
+  },
+  "00816af3380eb6dc": {
+    "file": "corpus/hackernews/muratbuffalo_blogspot_com_2026_11_writing-as-thinking-tool_h_1f923716ba.md",
+    "source": "hackernews",
+    "title": "Writing as a Thinking Tool",
+    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "keywords": [
+      "thinking tool",
+      "thinking tool",
+      "16z score",
+      "writing",
+      "writing",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Writing as a Thinking Tool > Source: hackernews | Category: news | 2026-11-08T14:36:16Z Score: 10 | Comments: 1"
+  },
+  "f0b58cec0cff0e30": {
+    "file": "corpus/hackernews/readonlymemo_com_legend-of-xanadu-pc-engine-fan-translation-_4112220bcf.md",
+    "source": "hackernews",
+    "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+    "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+    "keywords": [
+      "finding xanadu",
+      "finding xanadu",
+      "16z score",
+      "source",
+      "news",
+      "making",
+      "making",
+      "inside",
+      "inside",
+      "hackernews"
+    ],
+    "summary": "# Finding Xanadu: Inside a JRPG classic translation 15 years in the making > Source: hackernews | Category: news | 2026-11-08T14:36:16Z Score: 42 | Comments: 3"
+  },
+  "d8960eff9bcd28d2": {
+    "file": "corpus/hackernews/github_com_graealex_WaveDudeNext_8f89633e90.md",
+    "source": "hackernews",
+    "title": "WaveDudeNext 2D Wave Simulator",
+    "url": "https://github.com/graealex/WaveDudeNext",
+    "keywords": [
+      "wavedudenext 2d wave simulator",
+      "wavedudenext 2d wave simulator",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# WaveDudeNext 2D Wave Simulator > Source: hackernews | Category: news | 2026-11-08T14:36:18Z Score: 35 | Comments: 9"
+  },
+  "3c749e56fb8e3e88": {
+    "file": "corpus/hackernews/aworkinglibrary_com_writing_petered_c60c4786c8.md",
+    "source": "hackernews",
+    "title": "Petered (what happens after the Peter Principle)",
+    "url": "https://aworkinglibrary.com/writing/petered",
+    "keywords": [
+      "peter principle",
+      "peter principle",
+      "15z score",
+      "source",
+      "petered",
+      "petered",
+      "news",
+      "happens",
+      "happens",
+      "hackernews"
+    ],
+    "summary": "# Petered (what happens after the Peter Principle) > Source: hackernews | Category: news | 2026-11-08T14:36:15Z Score: 87 | Comments: 50"
+  },
+  "7510d2d132527481": {
+    "file": "corpus/hackernews/qlabs_sh_research_parameters_57178e8e5c.md",
+    "source": "hackernews",
+    "title": "Quadrillion-parameter transformers and how to train them",
+    "url": "https://qlabs.sh/research/parameters",
+    "keywords": [
+      "parameter transformers",
+      "parameter transformers",
+      "15z score",
+      "train",
+      "train",
+      "source",
+      "quadrillion",
+      "quadrillion",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Quadrillion-parameter transformers and how to train them > Source: hackernews | Category: news | 2026-11-08T14:36:15Z Score: 18 | Comments: 4"
+  },
+  "0d2d24cce21becb6": {
+    "file": "corpus/hackernews/z1x_us_blog_four-hundred-bucks-of-e-waste_7c5538e7bf.md",
+    "source": "hackernews",
+    "title": "Porting Android 16 to my blind mother's keypad phone",
+    "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "keywords": [
+      "porting android 16",
+      "porting android 16",
+      "keypad phone",
+      "keypad phone",
+      "blind mother",
+      "blind mother",
+      "15z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Porting Android 16 to my blind mother's keypad phone > Source: hackernews | Category: news | 2026-11-08T14:36:15Z Score: 28 | Comments: 3"
+  },
+  "b2198fe21fe46da0": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_11_03_climate_jet-engines-ai-data-cente_e8a34e741d.md",
+    "source": "hackernews",
+    "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
+    "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
+    "keywords": [
+      "power data centers",
+      "power data centers",
+      "polluting jet engines",
+      "polluting jet engines",
+      "23z score",
+      "source",
+      "scavenged",
+      "scavenged",
+      "old",
+      "old"
+    ],
+    "summary": "# Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers > Source: hackernews | Category: news | 2026-11-08T14:36:23Z Score: 6 | Comments: 0"
+  },
+  "8f3ac56fccd0b019": {
+    "file": "corpus/hackernews/www_itsnicethat_com_news_typeland-shakespeares-globe-amifer-_fea62df223.md",
+    "source": "hackernews",
+    "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+    "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+    "keywords": [
+      "first folio",
+      "first folio",
+      "17z score",
+      "source",
+      "shakespeare",
+      "shakespeare",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# New typeface using intricate designs from Shakespeare's First Folio (2023) > Source: hackernews | Category: news | 2026-11-08T14:36:17Z Score: 26 | Comments: 11"
+  },
+  "7190691755426d5c": {
+    "file": "corpus/hackernews/linebender_org_blog_jit-bitmap-text_fbb4c6ab19.md",
+    "source": "hackernews",
+    "title": "JIT bitmap text rendering for microcontrollers",
+    "url": "https://linebender.org/blog/jit-bitmap-text/",
+    "keywords": [
+      "jit bitmap text rendering",
+      "jit bitmap text rendering",
+      "15z score",
+      "source",
+      "news",
+      "microcontrollers",
+      "microcontrollers",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# JIT bitmap text rendering for microcontrollers > Source: hackernews | Category: news | 2026-11-08T14:36:15Z Score: 43 | Comments: 7"
+  },
+  "625d531d98d7a37e": {
+    "file": "corpus/devto/dev_to_nutts5796_the-box-that-fell-behind-a-seat-what-delive_b73f32e3c0.md",
+    "source": "devto",
+    "title": "The box that fell behind a seat: what delivery logistics taught me about data between systems",
+    "url": "https://dev.to/nutts5796/the-box-that-fell-behind-a-seat-what-delivery-logistics-taught-me-about-data-between-systems-291f",
+    "keywords": [
+      "delivery warehouse near moscow",
+      "delivery logistics taught",
+      "delivery logistics taught",
+      "ran transport logistics",
+      "qa engineer",
+      "fell behind",
+      "fell behind",
+      "every ...",
+      "systems",
+      "systems"
+    ],
+    "summary": "# The box that fell behind a seat: what delivery logistics taught me about data between systems > Source: devto | Category: news | 2026-11-08T14:36:25Z Before I became a QA engineer, I ran transport logistics at a delivery warehouse near Moscow."
+  },
+  "cd10acc453b44856": {
+    "file": "corpus/devto/dev_to_h_abds_stop-applying-to-ghost-jobs-read-openings-stra_410ac75a9d.md",
+    "source": "devto",
+    "title": "Stop Applying to Ghost Jobs: Read Openings Straight From the Source",
+    "url": "https://dev.to/h_abds/stop-applying-to-ghost-jobs-read-openings-straight-from-the-source-2a83",
+    "keywords": [
+      "application number 47 tonight",
+      "tea went cold",
+      "read openings straight",
+      "read openings straight",
+      "47 pm",
+      "stop applying",
+      "stop applying",
+      "hour ago",
+      "ghost jobs",
+      "ghost jobs"
+    ],
+    "summary": "# Stop Applying to Ghost Jobs: Read Openings Straight From the Source You're on application number 47 tonight. Your tea went cold an hour ago."
+  },
+  "dfd229a09ac931dc": {
+    "file": "corpus/devto/dev_to_lauppv_zero-users-for-11-months-three-fixes-later-63-_3301be4c7d.md",
+    "source": "devto",
+    "title": "Zero users for 11 months. Three fixes later, 63 users in 18 days",
+    "url": "https://dev.to/lauppv/zero-users-for-11-months-three-fixes-later-63-users-in-18-days-2l3l",
+    "keywords": [
+      "three fixes later",
+      "three fixes later",
+      "almost 12 months",
+      "zero users",
+      "zero users",
+      "go ).",
+      "free place",
+      "building cyberstars",
+      "9 days",
+      "63 users"
+    ],
+    "summary": "Three fixes later, 63 users in 18 days I've been building CyberStars on my own for almost 12 months (9 days to go). It's a free place to..."
+  },
+  "3febd344e7aa91f2": {
+    "file": "corpus/devto/dev_to_juanauriti_i-run-16-cli-commands-47-content-checks-an_8c717b546c.md",
+    "source": "devto",
+    "title": "I run 16 CLI commands, 47 content checks, and 27 AI crawler tests. Here's which ones actually matter",
+    "url": "https://dev.to/juanauriti/i-run-16-cli-commands-47-content-checks-and-27-ai-crawler-tests-heres-which-ones-actually-matter-chl",
+    "keywords": [
+      "run 16 cli commands",
+      "run 16 cli commands",
+      "27 ai crawler tests",
+      "27 ai crawler tests",
+      "ones actually matter",
+      "ones actually matter",
+      "47 content checks",
+      "47 content checks",
+      "47 content checks",
+      "source"
+    ],
+    "summary": "# I run 16 CLI commands, 47 content checks, and 27 AI crawler tests. Here's which ones actually matter GEO Optimizer runs 16 CLI commands, 47 content checks, and 27 AI crawler tests per audit."
+  },
+  "08797f994799336e": {
+    "file": "corpus/devto/dev_to_jsmanifest_react-20-compiler-which-hooks-it-eliminate_883fd277d4.md",
+    "source": "devto",
+    "title": "React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading",
+    "url": "https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk",
+    "keywords": [
+      "react compiler auto",
+      "react 20 compiler",
+      "react 20 compiler",
+      "usecallback calls",
+      "memoizes components",
+      "library compatibility",
+      "identity patterns",
+      "usememo",
+      "upgrading",
+      "upgrading"
+    ],
+    "summary": "# React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading The React Compiler auto-memoizes components and hooks, eliminating most useMemo and useCallback calls. Developers must audit effect dependencies, library compatibility, and exact-identity patterns before migrating."
+  },
+  "01fdaafbe145872a": {
+    "file": "corpus/devto/dev_to_eekhdv_stop-shipping-1gb-python-containers-running-as_98db5f270d.md",
+    "source": "devto",
+    "title": "Stop Shipping 1GB Python Containers Running as Root (Multi-Stage Builds + uv + Trivy)",
+    "url": "https://dev.to/eekhdv/stop-shipping-1gb-python-containers-running-as-root-multi-stage-builds-uv-trivy-58a5",
+    "keywords": [
+      "first dockerfile looks ...",
+      "python backend moving",
+      "stage builds",
+      "stage builds",
+      "25z look",
+      "trivy",
+      "trivy",
+      "source"
+    ],
+    "summary": "# Stop Shipping 1GB Python Containers Running as Root (Multi-Stage Builds + uv + Trivy) > Source: devto | Category: news | 2026-11-08T14:36:25Z Look at almost any Python backend moving from a laptop to production and the first Dockerfile looks..."
+  },
+  "04633631f7bb740d": {
+    "file": "corpus/devto/dev_to_saifyusuph_cant-ai-just-do-it-in-a-day-52j3_ef60a159fe.md",
+    "source": "devto",
+    "title": "Can't AI Just Do It in a Day?",
+    "url": "https://dev.to/saifyusuph/cant-ai-just-do-it-in-a-day-52j3",
+    "keywords": [
+      "ever felt replaced",
+      "weeks ago",
+      "planning ...",
+      "one using",
+      "tool",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "day"
+    ],
+    "summary": "# Can't AI Just Do It in a Day? > Source: devto | Category: news | 2026-11-08T14:36:25Z Have you ever felt replaced by a tool you were the one using?"
+  },
+  "684047e1d711aabe": {
+    "file": "corpus/devto/dev_to_aheadkit_i-read-30-beginner-job-ads-word-by-word-only_0ba980431d.md",
+    "source": "devto",
+    "title": "I Read 30 Beginner Job Ads Word by Word. Only 4 Asked for What Tutorials Teach.",
+    "url": "https://dev.to/aheadkit/i-read-30-beginner-job-ads-word-by-word-only-4-asked-for-what-tutorials-teach-3gao",
+    "keywords": [
+      "read 30 junior ...",
+      "tutorials teach",
+      "tutorials teach",
+      "4 asked",
+      "4 asked",
+      "word",
+      "word",
+      "source",
+      "ready",
+      "reactions"
+    ],
+    "summary": "Only 4 Asked for What Tutorials Teach. > Source: devto | Category: news | 2026-11-08T14:36:25Z Why does finishing a programming course feel nothing like being ready for a job?"
+  },
+  "f2a98f15c6ba6e00": {
+    "file": "corpus/devto/dev_to_prashanthsams_how-i-rank-250-countries-for-every-mont_ae4fe5a37c.md",
+    "source": "devto",
+    "title": "How I rank 250 countries for every month of the year",
+    "url": "https://dev.to/prashanthsams/how-i-rank-250-countries-for-every-month-of-the-year-1840",
+    "keywords": [
+      "rank 250 countries",
+      "rank 250 countries",
+      "24z two penalties",
+      "every month",
+      "every month",
+      "climate data",
+      "assumption matters",
+      "30 years",
+      "year",
+      "year"
+    ],
+    "summary": "# How I rank 250 countries for every month of the year Two penalties, 30 years of climate data and one Postgres query build twelve monthly rankings. Here's how it works, and which assumption matters most."
+  },
+  "bbf914ed48386d14": {
+    "file": "corpus/devto/dev_to_akhourianmolkumar_im-13-and-built-a-private-on-device_181de25c7c.md",
+    "source": "devto",
+    "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg",
+    "url": "https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89",
+    "keywords": [
+      "device photo editor",
+      "device photo editor",
+      "apic vs canva",
+      "apic vs canva",
+      "apic ...",
+      "tried hard",
+      "comparison honest",
+      "adobe express",
+      "adobe express",
+      "built apic"
+    ],
+    "summary": "# I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg > Source: devto | Category: news | 2026-11-08T14:36:24Z I'm 13, I built APIC, and I tried hard to keep this comparison honest, so you will see where APIC..."
+  },
+  "d6825c6328829941": {
+    "file": "corpus/devto/dev_to_justonedev_how-to-create-a-cool-looking-explainer-vid_6cb00e67f8.md",
+    "source": "devto",
+    "title": "How to create a cool looking explainer video for anything in 5 minutes",
+    "url": "https://dev.to/justonedev/how-to-create-a-cool-looking-explainer-video-for-anything-in-5-minutes-519p",
+    "keywords": [
+      "cool looking explainer video",
+      "cool looking explainer video",
+      "screen recording ...",
+      "second explainer",
+      "5 minutes",
+      "5 minutes",
+      "working",
+      "source",
+      "reactions",
+      "product"
+    ],
+    "summary": "# How to create a cool looking explainer video for anything in 5 minutes I needed a 52-second explainer for Pageree, the product I'm working on. It has no screen recording..."
+  },
+  "62d9d5370057332b": {
+    "file": "corpus/devto/dev_to_alexgeorgiev17_redis-812-rc1s-roaring-bitmap-type-shr_e91a5a1d3d.md",
+    "source": "devto",
+    "title": "Redis 8.12-rc1's roaring bitmap type shrinks a sparse bitmap from 24MB to 239KB",
+    "url": "https://dev.to/alexgeorgiev17/redis-812-rc1s-roaring-bitmap-type-shrinks-a-sparse-bitmap-from-24mb-to-239kb-5bll",
+    "keywords": [
+      "roaring bitmap type shrinks",
+      "roaring bitmap type shrinks",
+      "new roaring bitmap type",
+      "bit sparse bitmap dropped",
+      "dense bitmap came",
+      "14 times faster",
+      "measured redis 8",
+      "sparse bitmap",
+      "sparse bitmap",
+      "redis 8"
+    ],
+    "summary": "# Redis 8.12-rc1's roaring bitmap type shrinks a sparse bitmap from 24MB to 239KB > Source: devto | Category: news | 2026-11-08T14:36:25Z I measured Redis 8.12-rc1's new roaring bitmap type: a 200-million-bit sparse bitmap dropped from 24MB to 239KB and BITCOUNT got about 14 times faster, but a dense bitmap came out slightly bigger than before."
+  },
+  "8f1e871056b6cb6e": {
+    "file": "corpus/devto/dev_to_adi73_skill-inspector-eslint-for-your-ai-agent-skills_75aecb5b99.md",
+    "source": "devto",
+    "title": "Skill Inspector: ESLint for your AI agent skills (SKILL.md)",
+    "url": "https://dev.to/adi73/skill-inspector-eslint-for-your-ai-agent-skills-skillmd-336k",
+    "keywords": [
+      "ai agent skills",
+      "ai agent skills",
+      "24z agent skills",
+      "config files",
+      "skill inspector",
+      "skill inspector",
+      "skill",
+      "skill",
+      "skill",
+      "turning"
+    ],
+    "summary": "# Skill Inspector: ESLint for your AI agent skills (SKILL.md) > Source: devto | Category: news | 2026-11-08T14:36:24Z Agent skills are turning into config files."
+  },
+  "522951a149efcba1": {
+    "file": "corpus/devto/dev_to_arbnoravar28995_turning-a-video-clip-into-a-game-spri_bc3974cf4b.md",
+    "source": "devto",
+    "title": "Turning a video clip into a game sprite sheet in the browser",
+    "url": "https://dev.to/arbnoravar28995/turning-a-video-clip-into-a-game-sprite-sheet-in-the-browser-2h2b",
+    "keywords": [
+      "make 2d characters",
+      "short animation video",
+      "game sprite sheet",
+      "game sprite sheet",
+      "sprite sheet",
+      "video clip",
+      "video clip",
+      "turning",
+      "turning",
+      "source"
+    ],
+    "summary": "# Turning a video clip into a game sprite sheet in the browser > Source: devto | Category: news | 2026-11-08T14:36:24Z I make 2D characters by generating a short animation video and cutting it into a sprite sheet."
+  },
+  "1e786745dd7fd19b": {
+    "file": "corpus/devto/dev_to_anwariqbaldawar_why-a-2ms-alter-table-took-down-our-5_8d4af171a5.md",
+    "source": "devto",
+    "title": "Why a 2ms ALTER TABLE Took Down Our 512GB Postgres Table (And How We Fixed It)",
+    "url": "https://dev.to/anwariqbaldawar/why-a-2ms-alter-table-took-down-our-512gb-postgres-table-and-how-we-fixed-it-4b4g",
+    "keywords": [
+      "severe production outage due",
+      "access exclusive lock ...",
+      "seemingly minor alter table",
+      "2ms alter table took",
+      "2ms alter table took",
+      "512gb postgres table",
+      "512gb postgres table",
+      "trigger",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why a 2ms ALTER TABLE Took Down Our 512GB Postgres Table (And How We Fixed It) > Source: devto | Category: news | 2026-11-08T14:36:25Z A seemingly minor ALTER TABLE can trigger a severe production outage due to the ACCESS EXCLUSIVE lock..."
+  },
+  "540b3330bb560c5a": {
+    "file": "corpus/devto/dev_to_hao610_stop-being-polite-to-my-broken-code-roast-it-a_ec3f657f3e.md",
+    "source": "devto",
+    "title": "Stop being polite to my broken code. Roast it and give me the git patch.",
+    "url": "https://dev.to/hao610/stop-being-polite-to-my-broken-code-roast-it-and-give-me-the-git-patch-3il3",
+    "keywords": [
+      "line traceback",
+      "git patch",
+      "git patch",
+      "broken code",
+      "broken code",
+      "tired",
+      "stop",
+      "stop",
+      "source",
+      "script"
+    ],
+    "summary": "# Stop being polite to my broken code. Roast it and give me the git patch. We've all been there:  Your script just died with a 50-line traceback."
+  },
+  "83daf39c549ca869": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_almost-right-agent-code-is-worse-than-w_f245a2d6d3.md",
+    "source": "devto",
+    "title": "Almost Right' Agent Code Is Worse Than Wrong Code. It's Devs' Top AI Complaint",
+    "url": "https://dev.to/gabrielanhaia/almost-right-agent-code-is-worse-than-wrong-code-its-devs-top-ai-complaint-108",
+    "keywords": [
+      "26z stack overflow 2025",
+      "wrong code fails loudly",
+      "devs flagged ai code",
+      "top ai complaint",
+      "top ai complaint",
+      "wrong code",
+      "wrong code",
+      "agent code",
+      "agent code",
+      "right ships"
+    ],
+    "summary": "It's Devs' Top AI Complaint > Source: devto | Category: news | 2026-11-08T14:36:26Z Stack Overflow 2025: 66% of devs flagged AI code that's 'almost right, but not quite', the #1 frustration."
+  },
+  "63a8cb70d48ba7a0": {
+    "file": "corpus/devto/dev_to_lymah_the-ai-understood-my-payment-request-my-rust-co_820506f363.md",
+    "source": "devto",
+    "title": "The AI Understood My Payment Request. My Rust Code Refused It.",
+    "url": "https://dev.to/lymah/the-ai-understood-my-payment-request-my-rust-code-refused-it-59c5",
+    "keywords": [
+      "rust code refused",
+      "rust code refused",
+      "send money ...",
+      "send 0",
+      "payment request",
+      "payment request",
+      "05 sol",
+      "ai understood",
+      "ai understood"
+    ],
+    "summary": "# The AI Understood My Payment Request. An AI that can read \"send 0.05 SOL to Ada for lunch\" is useful. An AI that can decide to send money..."
+  },
+  "542f9304667aed0f": {
+    "file": "corpus/devto/dev_to_gde_ai-hands-on-refactoring-line-business-card-assist_e648a186a1.md",
+    "source": "devto",
+    "title": "[AI Hands-on] Refactoring LINE Business Card Assistant: Python to Go with Antigravity Remote Agent, Google ADK, and Firestore -",
+    "url": "https://dev.to/gde/ai-hands-on-refactoring-line-business-card-assistant-python-to-go-with-antigravity-remote-agent-2db9",
+    "keywords": [
+      "daily core services",
+      "antigravity remote agent",
+      "antigravity remote agent",
+      "24z background recently",
+      "rewriting several",
+      "google adk",
+      "google adk",
+      "ai hands",
+      "ai hands",
+      "python ..."
+    ],
+    "summary": "# [AI Hands-on] Refactoring LINE Business Card Assistant: Python to Go with Antigravity Remote Agent, Google ADK, and Firestore - > Source: devto | Category: news | 2026-11-08T14:36:24Z Background   Recently, I've been rewriting several of my daily core services from Python..."
+  },
+  "9d408759de6073a3": {
+    "file": "corpus/devto/dev_to_shahzaib11_i-submitted-my-free-tool-to-100-directorie_a4397b0788.md",
+    "source": "devto",
+    "title": "I Submitted My Free Tool to 100+ Directories — Here's What Actually Works (and What's a Trap)",
+    "url": "https://dev.to/shahzaib11/i-submitted-my-free-tool-to-100-directories-heres-what-actually-works-and-whats-a-trap-521",
+    "keywords": [
+      "build free pdf tools",
+      "free tool",
+      "free tool",
+      "directories —",
+      "directories —",
+      "browser —",
+      "actually works",
+      "actually works",
+      "run 100",
+      "100"
+    ],
+    "summary": "# I Submitted My Free Tool to 100+ Directories — Here's What Actually Works (and What's a Trap) > Source: devto | Category: news | 2026-11-08T14:36:26Z I build free PDF tools that run 100% in the browser — no signup, no upload, no server."
+  },
+  "f4d6713beecdb433": {
+    "file": "corpus/devto/dev_to_nagachaitanya_inamdar_56c_my-confession-how-a-3-year-_c2840d4436.md",
+    "source": "devto",
+    "title": "My Confession: How a 3-Year Developer Built an Enterprise AWS RAG Platform with AI, Curiosity, and Systems Thinking (Bonus Part 6)",
+    "url": "https://dev.to/nagachaitanya_inamdar_56c/my-confession-how-a-3-year-developer-built-an-enterprise-aws-rag-platform-with-ai-curiosity-and-38k1",
+    "keywords": [
+      "enterprise aws rag platform",
+      "enterprise aws rag platform",
+      "ai tools like chatgpt",
+      "write every line",
+      "bonus part 6",
+      "bonus part 6",
+      "year developer built",
+      "year developer built",
+      "systems thinking",
+      "systems thinking"
+    ],
+    "summary": "# My Confession: How a 3-Year Developer Built an Enterprise AWS RAG Platform with AI, Curiosity, and Systems Thinking (Bonus Part 6) > Source: devto | Category: news | 2026-11-08T14:36:25Z An honest confession from a developer with 3 years of experience: why I didn't hand-write every line of code, how AI tools like ChatGPT and Gemini were used, and why the real job in 2026 is systems thinking and asking the right questions."
+  },
+  "51d0dd6b3d8551ae": {
+    "file": "corpus/devto/dev_to_merce_decides_i-ran-an-always-on-ai-agent-for-42-days_add913b813.md",
+    "source": "devto",
+    "title": "I ran an always-on AI agent for 42 days. Here is the ledger.",
+    "url": "https://dev.to/merce_decides/i-ran-an-always-on-ai-agent-for-42-days-here-is-the-ledger-1mea",
+    "keywords": [
+      "never inference cost",
+      "78 cents left",
+      "26z 42 days",
+      "42 days",
+      "42 days",
+      "zero revenue",
+      "real constraint",
+      "metered budget",
+      "autonomous agent",
+      "ai agent"
+    ],
+    "summary": "# I ran an always-on AI agent for 42 days. > Source: devto | Category: news | 2026-11-08T14:36:26Z 42 days of an autonomous agent on a metered budget: 78 cents left, zero revenue, and the real constraint was never inference cost."
+  },
+  "0a9bc3b7a70f9fe5": {
+    "file": "corpus/devto/dev_to_sventmueller_7-macos-details-behind-an-ai-dictation-a_dab5d32d26.md",
+    "source": "devto",
+    "title": "7 macOS details behind an AI dictation app written in Rust",
+    "url": "https://dev.to/sventmueller/7-macos-details-behind-an-ai-dictation-app-written-in-rust-3i60",
+    "keywords": [
+      "7 macos details behind",
+      "7 macos details behind",
+      "ai dictation app written",
+      "ai dictation app written",
+      "source menu bar app",
+      "every mac app",
+      "ai speech",
+      "let ...",
+      "hold fn",
+      "27z lowspeak"
+    ],
+    "summary": "# 7 macOS details behind an AI dictation app written in Rust > Source: devto | Category: news | 2026-11-08T14:36:27Z Lowspeak is an open-source menu bar app for AI speech-to-text in every Mac app: hold fn, talk, let..."
+  },
+  "56fbffdc946d86b4": {
+    "file": "corpus/devto/dev_to_anas_issath_asyncpg-vs-sqlalchemy-orm-the-9x-slowdown_c269c66d59.md",
+    "source": "devto",
+    "title": "asyncpg vs SQLAlchemy ORM - The 9x Slowdown Nobody Warns You About",
+    "url": "https://dev.to/anas_issath/asyncpg-vs-sqlalchemy-orm-the-9x-slowdown-nobody-warns-you-about-2j99",
+    "keywords": [
+      "9x slowdown nobody warns",
+      "9x slowdown nobody warns",
+      "asyncpg vs sqlalchemy orm",
+      "asyncpg vs sqlalchemy orm",
+      "orm might",
+      "mean fast",
+      "24z async",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# asyncpg vs SQLAlchemy ORM - The 9x Slowdown Nobody Warns You About Async doesn't mean fast. Your ORM might be quietly throwing away everything asyncpg gives you."
+  },
+  "6719e72ec8ba8816": {
+    "file": "corpus/devto/dev_to_ronaksarda_the-first-pull-request-is-the-hardest-door_e36253c417.md",
+    "source": "devto",
+    "title": "The first pull request is the hardest door in software. I built a map with the door marked.",
+    "url": "https://dev.to/ronaksarda/the-first-pull-request-is-the-hardest-door-in-software-i-built-a-map-with-the-door-marked-4fcl",
+    "keywords": [
+      "first pull request",
+      "first pull request",
+      "26z everyone tells",
+      "nobody tells",
+      "open ...",
+      "hardest door",
+      "hardest door",
+      "door marked",
+      "door marked",
+      "open source"
+    ],
+    "summary": "# The first pull request is the hardest door in software. I built a map with the door marked. Nobody tells you where the door is."
+  },
+  "fba23781d356f3d6": {
+    "file": "corpus/devto/dev_to_aheadkit_scared-to-post-your-code-in-public-post-it-h_d2153e9f1c.md",
+    "source": "devto",
+    "title": "Scared to Post Your Code in Public? Post It Here. I'll Run It and Reply to Every One.",
+    "url": "https://dev.to/aheadkit/scared-to-post-your-code-in-public-post-it-here-ill-run-it-and-reply-to-every-one-46m3",
+    "keywords": [
+      "strangers see",
+      "fear behind",
+      "every one",
+      "every one",
+      "beginner code",
+      "code",
+      "code",
+      "worst",
+      "source",
+      "scared"
+    ],
+    "summary": "# Scared to Post Your Code in Public? I'll Run It and Reply to Every One. What is the worst that happens if strangers see your beginner code?"
+  },
+  "45112f483518065a": {
+    "file": "corpus/devto/dev_to_shuwacloud_how-to-read-your-aws-bill-a-plain-english-_a71ca35293.md",
+    "source": "devto",
+    "title": "How to Read Your AWS Bill: A Plain-English Decoder for Usage Types",
+    "url": "https://dev.to/shuwacloud/how-to-read-your-aws-bill-a-plain-english-decoder-for-usage-types-1d0g",
+    "keywords": [
+      "bills page groups charges",
+      "47 last month",
+      "aws bill says",
+      "aws bill",
+      "aws bill",
+      "usage types",
+      "usage types",
+      "english decoder",
+      "english decoder",
+      "spent"
+    ],
+    "summary": "# How to Read Your AWS Bill: A Plain-English Decoder for Usage Types Your AWS bill says you spent $47 last month. The Bills page groups charges by..."
+  },
+  "004a2713dcc3ce4a": {
+    "file": "corpus/devto/dev_to_axrisi_agent-memory-how-claude-repairs-wrong-notes-wi_8c89d67da1.md",
+    "source": "devto",
+    "title": "Agent memory: how Claude repairs wrong notes with dreaming",
+    "url": "https://dev.to/axrisi/agent-memory-how-claude-repairs-wrong-notes-with-dreaming-5fho",
+    "keywords": [
+      "exact quotations protect facts",
+      "claude repairs wrong notes",
+      "claude repairs wrong notes",
+      "backed dreaming repairs notes",
+      "23z agent memory",
+      "agent memory",
+      "agent memory",
+      "preserve mistakes",
+      "page ownership",
+      "dreaming"
+    ],
+    "summary": "# Agent memory: how Claude repairs wrong notes with dreaming Agent memory can preserve mistakes. Anthropic's transcript-backed dreaming repairs notes, while contract-page ownership and exact quotations protect facts."
+  },
+  "e9feedcfebf58c81": {
+    "file": "corpus/devto/dev_to_zkasuran_i-fact-checked-a-blockchains-docs-4-claims-f_6bc62ce177.md",
+    "source": "devto",
+    "title": "I fact-checked a blockchain's docs. 4 claims fail, 54 can't be checked, and one won't sit still.",
+    "url": "https://dev.to/zkasuran/i-fact-checked-a-blockchains-docs-4-claims-fail-54-cant-be-checked-and-one-wont-sit-still-2j68",
+    "keywords": [
+      "4 claims fail",
+      "4 claims fail",
+      "4 failed",
+      "sit still",
+      "sit still",
+      "5 runs",
+      "54 cannot",
+      "source"
+    ],
+    "summary": "# I fact-checked a blockchain's docs. 4 claims fail, 54 can't be checked, and one won't sit still. The same 4 failed in all 5 runs and 54 cannot be checked."
+  },
+  "6655edc52af62b20": {
+    "file": "corpus/devto/dev_to_tinniaru3005_i-attacked-a-real-llm-agent-with-hidden-_60c82625c7.md",
+    "source": "devto",
+    "title": "I Attacked a Real LLM Agent With Hidden Text. Here's What It Did (Free Kaggle Notebooks)",
+    "url": "https://dev.to/tinniaru3005/i-attacked-a-real-llm-agent-with-hidden-text-heres-what-it-did-free-kaggle-notebooks-1799",
+    "keywords": [
+      "real llm agent",
+      "real llm agent",
+      "free kaggle notebooks",
+      "free kaggle notebooks",
+      "web pages",
+      "tool results",
+      "hidden text",
+      "hidden text",
+      "call ...",
+      "send emails"
+    ],
+    "summary": "# I Attacked a Real LLM Agent With Hidden Text. Here's What It Did (Free Kaggle Notebooks) AI agents read things: documents, emails, web pages, tool results."
+  },
+  "a5f26260df228b04": {
+    "file": "corpus/devto/dev_to_joycefosterr_im-building-a-fictional-api-just-to-docu_342f87fc58.md",
+    "source": "devto",
+    "title": "I'm Building a Fictional API Just to Document It!",
+    "url": "https://dev.to/joycefosterr/im-building-a-fictional-api-just-to-document-it-4l1j",
+    "keywords": [
+      "technical writer",
+      "fictional product",
+      "fictional api",
+      "fictional api",
+      "want",
+      "source",
+      "reactions",
+      "news",
+      "document",
+      "document"
+    ],
+    "summary": "# I'm Building a Fictional API Just to Document It! > Source: devto | Category: news | 2026-11-08T14:36:26Z I'm building a fictional product just so I can document it."
+  },
+  "b9d3c7ce3dbb3378": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_what-it-actually-takes-to-build-f_4453ca977d.md",
+    "source": "sales",
+    "title": "[lennys] What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)",
+    "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+    "keywords": [
+      "building google &# 8217",
+      "build frontier models",
+      "build frontier models",
+      "build frontier models",
+      "frontier models",
+      "tulsee doshi",
+      "tulsee doshi",
+      "tulsee doshi",
+      "tulsee doshi",
+      "shipping ahead"
+    ],
+    "summary": "# [lennys] What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini) What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini) Listen now (59 mins) | Tulsee Doshi on building Google&#8217;s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve"
+  },
+  "692986bf19cb92e9": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_25_1_558b3e8458.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.25.1 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.25.1",
+    "keywords": [
+      "query ### features",
+      "0 ... v11",
+      "query ): handles",
+      "https :// github",
+      "27z ## trpc",
+      "trpc — v11",
+      "1 ##",
+      "plain functions",
+      "1 released",
+      "1 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-08T14:37:27Z * feat(tanstack-react-query): handles as plain functions in `unstable-handles` by @KATT in https://github.com/trpc/trpc/pull/7957 **Full Changelog**: https://github.com/trpc/trpc/compare/v11.25.0...v11.25.1"
+  },
+  "ddb89d1a5221b0ae": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50341284_32b2a7ed48.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50341284",
+    "keywords": [
+      "customers get better products",
+      "last year .< p",
+      "also available .< p",
+      "coding &# x2f ;</",
+      "agentic coding practices",
+      "working student positions",
+      "life sciences organizations",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "Uncountable | NY, SF, London (UK) &amp; Toronto (CA) (In-Person) | Full-Stack Engineering<p><a href=\"https:&#x2F;&#x2F;www.uncountable.com&#x2F;hiring&#x2F;hn\" rel=\"nofollow\">https:&#x2F;&#x2F;www.uncountable.com&#x2F;hiring&#x2F;hn</a><p>Uncountable accelerates R&amp;D for industrial scientists across leading materials, chemicals, and life sciences organizations. Our team has grown from 100 to 200 in the last year.<p>Full-Stack Engineers | $130k - $220k (USD) + Equity<p>---&gt; Uncountable is l"
   }
 }
