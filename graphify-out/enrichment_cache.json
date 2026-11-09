@@ -847215,5 +847215,987 @@
       "39 released"
     ],
     "summary": "> Source: github-releases | Category: changelog | 2026-11-09T02:02:32Z ## What's Changed ### Documentation - Document the `apps_not_connected` error on `/kickoff` and `/status`"
+  },
+  "d24e860ceb6baaef": {
+    "file": "corpus/security/thehackernews_com_2026_11_cisa-flags-sonicwall-sonicos-mfa-b_4d02c260bf.md",
+    "source": "security",
+    "title": "[hacker-news-sec] CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+    "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+    "keywords": [
+      "known exploited vulnerabilities",
+      "infrastructure security agency",
+      "world attacks",
+      "said may",
+      "possible exploitation",
+      "possible exploitation",
+      "possible exploitation",
+      "following reports",
+      "cvss score",
+      "authentication reinforcement"
+    ],
+    "summary": "# [hacker-news-sec] CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks."
+  },
+  "fa2edada499c2b23": {
+    "file": "corpus/security/thehackernews_com_2026_11_former-openai-engineer-pleads-not__403a72428f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+    "keywords": [
+      "san francisco federal court",
+      "former openai engineer pleads",
+      "former openai engineer pleads",
+      "covert audio recording device",
+      "planting covert device",
+      "planting covert device",
+      "planting covert device",
+      "executive meeting room",
+      "executive meeting room",
+      "executive meeting room"
+    ],
+    "summary": "# [hacker-news-sec] Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea."
+  },
+  "60082329e5c16742": {
+    "file": "corpus/security/thehackernews_com_2026_11_us-agencies-warn-refrigeration_htm_58a4982824.md",
+    "source": "security",
+    "title": "[hacker-news-sec] U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+    "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+    "keywords": [
+      "chain monitoring systems globally",
+      "actively targeting industrial refrigeration",
+      "actors may exploit vulnerabilities",
+      "remotely alter settings",
+      "cause service disruptions",
+      "inventory losses u",
+      "threat actors",
+      "inventory losses",
+      "inventory losses",
+      "government agencies"
+    ],
+    "summary": "Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory."
+  },
+  "41e9cd2d9c66b165": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_topcoat-rust-framework_utm_campai_5cda573d4a.md",
+    "source": "engineering",
+    "title": "[infoq] Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
+    "url": "https://www.infoq.com/news/2026/11/topcoat-rust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "uses rust expressions translated",
+      "10z tokio releases topcoat",
+      "stack rust framework topcoat",
+      "stack web framework",
+      "stack rust framework",
+      "stack rust framework",
+      "tokio releases topcoat",
+      "tokio releases topcoat",
+      "targets typical database",
+      "background jobs remain"
+    ],
+    "summary": "# [infoq] Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework Topcoat is an open-source, server-rendered full-stack web framework for Rust from the Tokio team, now public at version 0.9. It uses Rust expressions translated to JavaScript for reactivity instead of WebAssembly."
+  },
+  "c94c7250b6b56d2e": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_pinterest-journey_utm_campaign_in_7fb23e9499.md",
+    "source": "engineering",
+    "title": "[infoq] Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement",
+    "url": "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "pinterest replaces journey clustering",
+      "pinterest replaces journey clustering",
+      "reports improved engagement pinterest",
+      "reports improved engagement",
+      "reports improved engagement",
+      "stage clustering pipeline",
+      "journey inference system",
+      "parameter language model",
+      "higher push opens",
+      "4b qwen3 llm"
+    ],
+    "summary": "# [infoq] Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement Pinterest has moved its user-journey inference system from a multi-stage clustering pipeline to a fine-tuned 4-billion-parameter language model, reporting a 1.1% improvement in email click-through and 1.3% higher push opens."
+  },
+  "7a43c6dc9d7b7c35": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_GtJKFhztgdM_bff962a8fc.md",
+    "source": "youtube",
+    "title": "[theo] Coding Isn't About Code Anymore",
+    "url": "https://www.youtube.com/watch?v=GtJKFhztgdM",
+    "keywords": [
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "awesome edit 🙏",
+      "code anymore ai",
+      "code anymore",
+      "code anymore",
+      "new job",
+      "given engineers",
+      "gardening rather"
+    ],
+    "summary": "# [theo] Coding Isn't About Code Anymore AI has given engineers a new job, which is much more akin to gardening rather than coding, so let's talk about it Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "b66f64acb6078567": {
+    "file": "corpus/hackernews/aphyr_com_posts_427-rip-harvest_7c8756cc02.md",
+    "source": "hackernews",
+    "title": "RIP, Harvest",
+    "url": "https://aphyr.com/posts/427-rip-harvest",
+    "keywords": [
+      "11z score",
+      "source",
+      "rip",
+      "rip",
+      "news",
+      "harvest",
+      "harvest",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# RIP, Harvest > Source: hackernews | Category: news | 2026-11-09T09:04:11Z Score: 335 | Comments: 100"
+  },
+  "7e76a19a4b50203a": {
+    "file": "corpus/hackernews/nvidianews_nvidia_com_news_a-message-to-our-company_e020f35ba8.md",
+    "source": "hackernews",
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "keywords": [
+      "us &# x2f",
+      "us &# x2f",
+      "politics &# x2f",
+      "politics &# x2f",
+      "ph &# x2f",
+      "ph &# x2f",
+      "ph &# x2f",
+      "ph &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "# Nvidia CEO Jensen Huang's letter to staff about affair > Source: hackernews | Category: news | 2026-11-09T09:04:10Z <a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-affair-email-to-company\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-aff...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5h\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5h</a><p><a href=\"https:&#x2F;&#x2F;www.nytim"
+  },
+  "f478d14a9c78799f": {
+    "file": "corpus/hackernews/www_worldhistory_org_Ur-Nammu_e7c947cd22.md",
+    "source": "hackernews",
+    "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+    "url": "https://www.worldhistory.org/Ur-Nammu/",
+    "keywords": [
+      "sumerian renaissance",
+      "sumerian renaissance",
+      "nammu founder",
+      "nammu founder",
+      "10z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Ur-Nammu Founder of the Sumerian Renaissance > Source: hackernews | Category: news | 2026-11-09T09:04:10Z Score: 22 | Comments: 0"
+  },
+  "875d7990d5acdb93": {
+    "file": "corpus/hackernews/mamememo_blogspot_com_2010_09_qlobe_html_4d13e3ec89.md",
+    "source": "hackernews",
+    "title": "The Qlobe: Rotating Quine (2010)",
+    "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+    "keywords": [
+      "rotating quine",
+      "rotating quine",
+      "11z score",
+      "source",
+      "qlobe",
+      "qlobe",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Qlobe: Rotating Quine (2010) > Source: hackernews | Category: news | 2026-11-09T09:04:11Z Score: 25 | Comments: 0"
+  },
+  "93d0d086ced2c922": {
+    "file": "corpus/hackernews/github_com_rkaehn_uniform_36c76e4155.md",
+    "source": "hackernews",
+    "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+    "url": "https://github.com/rkaehn/uniform",
+    "keywords": [
+      "structure :< p >-",
+      "get 120 hz support",
+      "also generate packaged apps",
+      "native runtime (& lt",
+      "demo &# x2f ;</",
+      "native performance .< p",
+      "would also allow ideas",
+      "compiled languages .< p",
+      "platform apps .< p",
+      "js .< p"
+    ],
+    "summary": "This would allow developers to use new features and fix issues in the UI framework immediately. The packaging steps are also described in JS.<p>Uniform supports very fast iteration cycles via hot-reload on all platforms. It is handwritten without any use of AI.<p>And here is a live demo: <a href=\"https:&#x2F;&#x2F;raffk.com&#x2F;hn-demo&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;raffk.com&#x2F;hn-demo&#x2F;</a><p>It should work in any browser that supports WebGPU."
+  },
+  "c78a670b67fe1a14": {
+    "file": "corpus/hackernews/itsfoss_com_news_asahi-linux-drops-mit-for-gpl_990f48721a.md",
+    "source": "hackernews",
+    "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+    "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+    "keywords": [
+      "asahi linux drops mit",
+      "asahi linux drops mit",
+      "steal unreleased code",
+      "steal unreleased code",
+      "goes full gpl",
+      "goes full gpl",
+      "ai used",
+      "ai used",
+      "15z score",
+      "source"
+    ],
+    "summary": "# Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code > Source: hackernews | Category: news | 2026-11-09T09:04:15Z Score: 29 | Comments: 16"
+  },
+  "c8b38c9048321412": {
+    "file": "corpus/hackernews/arxiv_org_abs_2610_14162_9dc08365b0.md",
+    "source": "hackernews",
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "keywords": [
+      "fine text generation",
+      "fine text generation",
+      "parallel coarse",
+      "parallel coarse",
+      "concept modeling",
+      "concept modeling",
+      "09z score",
+      "source",
+      "next",
+      "next"
+    ],
+    "summary": "# Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation > Source: hackernews | Category: news | 2026-11-09T09:04:09Z Score: 44 | Comments: 3"
+  },
+  "524a6410cf72c5e1": {
+    "file": "corpus/hackernews/maurycyz_com_misc_email_bd09dc2284.md",
+    "source": "hackernews",
+    "title": "A Bit about Email",
+    "url": "https://maurycyz.com/misc/email/",
+    "keywords": [
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "email",
+      "email",
+      "comments",
+      "category",
+      "bit",
+      "bit"
+    ],
+    "summary": "# A Bit about Email > Source: hackernews | Category: news | 2026-11-09T09:04:13Z Score: 35 | Comments: 4"
+  },
+  "73d7c871967603b3": {
+    "file": "corpus/hackernews/psalm_dev_articles_psalm-7_bea19f8cbf.md",
+    "source": "hackernews",
+    "title": "Psalm 7 release: PHP security&static analysis software",
+    "url": "https://psalm.dev/articles/psalm-7",
+    "keywords": [
+      "static analysis software",
+      "static analysis software",
+      "psalm 7 release",
+      "psalm 7 release",
+      "php security",
+      "php security",
+      "11z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Psalm 7 release: PHP security&static analysis software > Source: hackernews | Category: news | 2026-11-09T09:04:11Z Score: 3 | Comments: 0"
+  },
+  "5c34b7dee2c734a9": {
+    "file": "corpus/hackernews/github_com_RenderBear_haci_c94b69fb3f.md",
+    "source": "hackernews",
+    "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+    "url": "https://github.com/RenderBear/haci",
+    "keywords": [
+      "different hardware .< p",
+      "interpretability .< p",
+      "modern deep nets",
+      "downstream use cases",
+      "bio &# x2f",
+      "former &# x27",
+      "&# x27",
+      "&# x27",
+      "&# x27",
+      "sobel ),"
+    ],
+    "summary": "# Show HN: My compact, bio inspired distributed edge detection algorithm Hi HN,<p>I&#x27;ve been working on a bio &#x2F; visual cortex inspired edge detection algorithm. Benchmark scores currently sit midway between old-school (Canny, Sobel), and modern deep nets, while having the former&#x27;s interpretability.<p>I&#x27;m planning to develop this further for downstream use cases, maybe try to improve FPS for video and performance on different hardware.<p>For anyone interested in a collaboration"
+  },
+  "0b1a45b0c08fd233": {
+    "file": "corpus/hackernews/blog_zortax_de_posts_a-critique-of-gpui_1a49c546eb.md",
+    "source": "hackernews",
+    "title": "A Critique of GPUI",
+    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "keywords": [
+      "11z score",
+      "source",
+      "news",
+      "hackernews",
+      "gpui",
+      "gpui",
+      "critique",
+      "critique",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Critique of GPUI > Source: hackernews | Category: news | 2026-11-09T09:04:11Z Score: 90 | Comments: 50"
+  },
+  "631dca442ce2067f": {
+    "file": "corpus/hackernews/blog_coredump_cx_p_quasi-logarithmic-kitchen-timer_da3a6f4d43.md",
+    "source": "hackernews",
+    "title": "Quasi-Logarithmic Kitchen Timer",
+    "url": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
+    "keywords": [
+      "logarithmic kitchen timer",
+      "logarithmic kitchen timer",
+      "10z score",
+      "source",
+      "quasi",
+      "quasi",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Quasi-Logarithmic Kitchen Timer > Source: hackernews | Category: news | 2026-11-09T09:04:10Z Score: 20 | Comments: 3"
+  },
+  "8e22a13149dd73fc": {
+    "file": "corpus/hackernews/github_com_OmniJev_Flide_2b44002238.md",
+    "source": "hackernews",
+    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+    "url": "https://github.com/OmniJev/Flide",
+    "keywords": [
+      "decision immediately :< p",
+      "4 decision models need",
+      "inference engine .< p",
+      "sglang .< p",
+      "exact inference engine",
+      "like decision models",
+      "like decision models",
+      "popular local jev",
+      "pip install flide",
+      "supports 30"
+    ],
+    "summary": "# Show HN: Flide: Make Jev-like decision models up to 9.5x faster > Source: hackernews | Category: news | 2026-11-09T09:04:11Z Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide"
+  },
+  "c74b7136a64e2da1": {
+    "file": "corpus/hackernews/blue-continuum_com_branching-beyond-leonardo_df85305558.md",
+    "source": "hackernews",
+    "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+    "url": "https://blue-continuum.com/branching-beyond-leonardo",
+    "keywords": [
+      "tree architecture theory",
+      "tree architecture theory",
+      "branching beyond leonardo",
+      "branching beyond leonardo",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "evolution",
+      "evolution"
+    ],
+    "summary": "# Branching Beyond Leonardo: The Evolution of Tree Architecture Theory > Source: hackernews | Category: news | 2026-11-09T09:04:12Z Score: 16 | Comments: 0"
+  },
+  "fc1e0ce49e658aa7": {
+    "file": "corpus/hackernews/twitter_com_shanemelaugh_status_2119192075505893695_bdd4907e7f.md",
+    "source": "hackernews",
+    "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+    "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+    "keywords": [
+      "thinking patterns changed",
+      "thinking patterns changed",
+      "opus 5",
+      "opus 5",
+      "november 3",
+      "november 3",
+      "5 nerfed",
+      "5 nerfed",
+      "10z score",
+      "source"
+    ],
+    "summary": "# Is Opus 5.5 nerfed? Thinking patterns changed on November 3 > Source: hackernews | Category: news | 2026-11-09T09:04:10Z"
+  },
+  "17ef993f8e0990c5": {
+    "file": "corpus/hackernews/paulitaylor_com_2026_09_11_are-big-problems-really-more-diff_12a54cdc49.md",
+    "source": "hackernews",
+    "title": "Are big problems more difficult to solve?",
+    "url": "https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/",
+    "keywords": [
+      "big problems",
+      "big problems",
+      "15z score",
+      "source",
+      "solve",
+      "solve",
+      "news",
+      "hackernews",
+      "difficult",
+      "difficult"
+    ],
+    "summary": "# Are big problems more difficult to solve? > Source: hackernews | Category: news | 2026-11-09T09:04:15Z Score: 8 | Comments: 0"
+  },
+  "b47825a07e9d32bf": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_when-a-comment-calls-itself-known-my-re_007c08f3bd.md",
+    "source": "devto",
+    "title": "When a Comment Calls Itself 'Known,' My Reviewer Didn't Buy It",
+    "url": "https://dev.to/enjoy_kumawat/when-a-comment-calls-itself-known-my-reviewer-didnt-buy-it-38ip",
+    "keywords": [
+      "one line near",
+      "work ...",
+      "known ,'",
+      "known ,'",
+      "fully control",
+      "comment calls",
+      "comment calls",
+      "source",
+      "reviewer",
+      "reviewer"
+    ],
+    "summary": "# \"When a Comment Calls Itself 'Known,' My Reviewer Didn't Buy It\" > Source: devto | Category: news | 2026-11-09T09:04:17Z My CLAUDE.md in this repo has one line near the bottom that I don't fully control: \"after your work..."
+  },
+  "de3bab6331f94ba1": {
+    "file": "corpus/devto/dev_to_smtahosin_php-dies-after-every-request-how-the-zend-e_9fc4e62342.md",
+    "source": "devto",
+    "title": "PHP Dies After Every Request. How the Zend Engine Actually Runs Your Code.",
+    "url": "https://dev.to/smtahosin/php-dies-after-every-request-how-the-zend-engine-actually-runs-your-code-2843",
+    "keywords": [
+      "minute architectural deep dive",
+      "zend engine actually runs",
+      "zend engine actually runs",
+      "php actually executes",
+      "opcache bytecode caching",
+      "nothing process model",
+      "php dies",
+      "php dies",
+      "tracing jit",
+      "every request"
+    ],
+    "summary": "How the Zend Engine Actually Runs Your Code. A visual, 10-minute architectural deep dive into how PHP actually executes under the hood. From the Shared-Nothing process model and OPcache bytecode caching to 16-byte zvals, Copy-on-Write, and the Tracing JIT."
+  },
+  "f1271964e630cd01": {
+    "file": "corpus/devto/dev_to_harishkotra_your-tipsters-record-is-a-screenshot-i-bu_c122ff3371.md",
+    "source": "devto",
+    "title": "Your tipster's record is a screenshot. I built one that can't be edited.",
+    "url": "https://dev.to/harishkotra/your-tipsters-record-is-a-screenshot-i-built-one-that-cant-be-edited-3lhb",
+    "keywords": [
+      "posts football picks",
+      "built one",
+      "built one",
+      "18z everyone",
+      "great record",
+      "record",
+      "record",
+      "tipster",
+      "tipster",
+      "source"
+    ],
+    "summary": "I built one that can't be edited. Everyone who posts football picks has a great record. That is not because they are all good at it."
+  },
+  "319ad794ff8f5e1a": {
+    "file": "corpus/devto/dev_to_gde_open-weights-models-a-case-and-first-step-for-gem_de22936dec.md",
+    "source": "devto",
+    "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
+    "url": "https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo",
+    "keywords": [
+      "premier frontier model",
+      "weights models",
+      "weights models",
+      "google deepmind",
+      "first step",
+      "first step",
+      "current ...",
+      "19z tl",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy > Source: devto | Category: news | 2026-11-09T09:04:19Z TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind."
+  },
+  "59abd26a28848868": {
+    "file": "corpus/devto/dev_to_aheadkit_every-beginner-has-blamed-4fmp_1879bc9d46.md",
+    "source": "devto",
+    "title": "Every Beginner Has Blamed…",
+    "url": "https://dev.to/aheadkit/every-beginner-has-blamed-4fmp",
+    "keywords": [
+      "private list",
+      "every beginner",
+      "every beginner",
+      "empty room",
+      "blamed …",
+      "blamed …",
+      "blamed",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-09T09:04:19Z Be honest: how many of these have you blamed out loud, to an empty room? I keep a private list of..."
+  },
+  "af678e77f7da67b7": {
+    "file": "corpus/devto/dev_to_andre-arc_i-checked-every-quote-claudes-deep-research_e0dab504ed.md",
+    "source": "devto",
+    "title": "I checked every quote Claude's deep research cited. One wasn't what the source said.",
+    "url": "https://dev.to/andre-arc/i-checked-every-quote-claudes-deep-research-cited-one-wasnt-what-the-source-said-5ae7",
+    "keywords": [
+      "every key point ...",
+      "checked every quote claude",
+      "checked every quote claude",
+      "17z ai research tools",
+      "every paragraph ends",
+      "deep research cited",
+      "deep research cited",
+      "sounding sourced",
+      "source said",
+      "source said"
+    ],
+    "summary": "# I checked every quote Claude's deep research cited. One wasn't what the source said. AI research tools are good at sounding sourced."
+  },
+  "b23d9874bdfafa57": {
+    "file": "corpus/devto/dev_to_scrapemint_my-script-logged-88-messages-sent-87-never_dad57b94f3.md",
+    "source": "devto",
+    "title": "My Script Logged 88 Messages Sent. 87 Never Arrived",
+    "url": "https://dev.to/scrapemint/my-script-logged-88-messages-sent-87-never-arrived-6ga",
+    "keywords": [
+      "log said 88 ...",
+      "87 never arrived",
+      "87 never arrived",
+      "discord channel",
+      "browser script",
+      "source",
+      "reactions",
+      "news",
+      "morning",
+      "devto"
+    ],
+    "summary": "# My Script Logged 88 Messages Sent. > Source: devto | Category: news | 2026-11-09T09:04:18Z This morning a browser script of mine announced 88 new scrapers in a Discord channel."
+  },
+  "71a7e01ef3b46287": {
+    "file": "corpus/devto/dev_to_rohan_sharma_what-a-good-resume-actually-looks-like-1_7b7c34e172.md",
+    "source": "devto",
+    "title": "What a good resume actually looks like",
+    "url": "https://dev.to/rohan_sharma/what-a-good-resume-actually-looks-like-1gf6",
+    "keywords": [
+      "wish someone",
+      "small set",
+      "resumes fail",
+      "told",
+      "source",
+      "reasons",
+      "reactions",
+      "news",
+      "everything",
+      "devto"
+    ],
+    "summary": "# What a good resume actually looks like Most resumes fail for the same small set of reasons. This is everything I wish someone had told me..."
+  },
+  "4bd51be2754c90e8": {
+    "file": "corpus/devto/dev_to_arthur031221_i-built-a-free-local-editor-that-cuts-ta_f39a615406.md",
+    "source": "devto",
+    "title": "I built a free local editor that cuts talking videos from the transcript",
+    "url": "https://dev.to/arthur031221/i-built-a-free-local-editor-that-cuts-talking-videos-from-the-transcript-e6c",
+    "keywords": [
+      "17z cutting ums",
+      "free local editor",
+      "free local editor",
+      "cuts talking videos",
+      "cuts talking videos",
+      "timeline editor",
+      "talking video",
+      "long pauses",
+      "transcript",
+      "transcript"
+    ],
+    "summary": "# I built a free local editor that cuts talking videos from the transcript Cutting ums and long pauses out of a talking video is slow in a timeline editor. You find each one by..."
+  },
+  "ec99f7dc039b19e0": {
+    "file": "corpus/devto/dev_to_jacobandrewsky_how-to-make-vue-dynamic-components-mor_49ad3491ed.md",
+    "source": "devto",
+    "title": "How to make Vue Dynamic Components more stable",
+    "url": "https://dev.to/jacobandrewsky/how-to-make-vue-dynamic-components-more-stable-k4m",
+    "keywords": [
+      "make vue dynamic components",
+      "make vue dynamic components",
+      "vue dynamic ...",
+      "16z hey folks",
+      "would like",
+      "recently made",
+      "today",
+      "stable",
+      "stable",
+      "source"
+    ],
+    "summary": "# How to make Vue Dynamic Components more stable Hey Folks, it's me again! Today, I would like to share with you how I recently made the Vue Dynamic..."
+  },
+  "982e4997f2b60858": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_we-moved-to-a-bigger-model-to-debug-_ce4b3f6cbf.md",
+    "source": "devto",
+    "title": "We Moved to a Bigger Model to Debug the Test. Then We Went Back to the Smaller One.",
+    "url": "https://dev.to/debashish_ghosal/we-moved-to-a-bigger-model-to-debug-the-test-then-we-went-back-to-the-smaller-one-1d3",
+    "keywords": [
+      "based policy decision point",
+      "ai agents ...",
+      "went back",
+      "went back",
+      "smaller one",
+      "smaller one",
+      "bigger model",
+      "bigger model",
+      "agentpolicy v0",
+      "0 release"
+    ],
+    "summary": "# We Moved to a Bigger Model to Debug the Test. Then We Went Back to the Smaller One. From the agentpolicy v0.1.0 release: a local-first, Cedar-based policy decision point for AI agents..."
+  },
+  "e22c42062b3950fe": {
+    "file": "corpus/devto/dev_to_dooly6276_i-replayed-two-weeks-of-claude-code-transcr_8d3c73f5da.md",
+    "source": "devto",
+    "title": "I replayed two weeks of Claude Code transcripts to see what my parallel sessions did to each other",
+    "url": "https://dev.to/dooly6276/i-replayed-two-weeks-of-claude-code-transcripts-to-see-what-my-parallel-sessions-did-to-each-other-4n5b",
+    "keywords": [
+      "usually one ...",
+      "ran claude code",
+      "claude code transcripts",
+      "claude code transcripts",
+      "replayed two weeks",
+      "replayed two weeks",
+      "two weeks",
+      "several sessions",
+      "parallel sessions",
+      "parallel sessions"
+    ],
+    "summary": "# I replayed two weeks of Claude Code transcripts to see what my parallel sessions did to each other > Source: devto | Category: news | 2026-11-09T09:04:19Z For two weeks I ran Claude Code the way a lot of people now do: several sessions at once, usually one..."
+  },
+  "999285f991d78a6b": {
+    "file": "corpus/devto/dev_to_canro91_a-day-in-the-life-of-a-random-coder-a-save-bu_3685fbfd06.md",
+    "source": "devto",
+    "title": "A Day In The Life of A Random Coder: A Save Button And a Forward Slash Almost Ruined It",
+    "url": "https://dev.to/canro91/a-day-in-the-life-of-a-random-coder-a-save-button-and-a-forward-slash-almost-ruined-it-22oo",
+    "keywords": [
+      "forward slash almost ruined",
+      "forward slash almost ruined",
+      "new invoicing module",
+      "save button",
+      "save button",
+      "random coder",
+      "random coder",
+      "hardware ...",
+      "3 months",
+      "work"
+    ],
+    "summary": "# A Day In The Life of A Random Coder: A Save Button And a Forward Slash Almost Ruined It > Source: devto | Category: news | 2026-11-09T09:04:19Z After 3 months of work, today was the day to test a brand-new invoicing module for a hardware..."
+  },
+  "fa10a289cedf4c29": {
+    "file": "corpus/devto/dev_to_agent-one_computer-use-rs-open-source-computer-use-fo_63f174f7a6.md",
+    "source": "devto",
+    "title": "computer-use-rs: Open-Source Computer Use for Rust",
+    "url": "https://dev.to/agent-one/computer-use-rs-open-source-computer-use-for-rust-3eh7",
+    "keywords": [
+      "platform rust crate",
+      "source computer use",
+      "source computer use",
+      "desktop app",
+      "code see",
+      "19z computer",
+      "source",
+      "computer",
+      "computer",
+      "use"
+    ],
+    "summary": "# computer-use-rs: Open-Source Computer Use for Rust > Source: devto | Category: news | 2026-11-09T09:04:19Z computer-use-rs is a cross-platform Rust crate that lets your code see and control any desktop app."
+  },
+  "32e40c0c963d0476": {
+    "file": "corpus/devto/dev_to_alexmo_how-to-choose-an-led-resistor-for-5v-and-12v-c_46f2d91412.md",
+    "source": "devto",
+    "title": "How to Choose an LED Resistor for 5V and 12V Circuits (With Power Checks)",
+    "url": "https://dev.to/alexmo/how-to-choose-an-led-resistor-for-5v-and-12v-circuits-with-power-checks-2e51",
+    "keywords": [
+      "look deceptively simple",
+      "one resistor ....",
+      "led resistor",
+      "led resistor",
+      "power supply",
+      "power checks",
+      "power checks",
+      "led circuit",
+      "emitting diode",
+      "12v circuits"
+    ],
+    "summary": "# How to Choose an LED Resistor for 5V and 12V Circuits (With Power Checks) > Source: devto | Category: news | 2026-11-09T09:04:19Z An LED circuit can look deceptively simple: a power supply, a light-emitting diode, and one resistor...."
+  },
+  "d5265e1eea773532": {
+    "file": "corpus/devto/dev_to_jtersoli_three-agents-and-one-memory-a-proposal-pipel_68b94bffef.md",
+    "source": "devto",
+    "title": "Three agents and one memory: a proposal pipeline for a small agency",
+    "url": "https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j",
+    "keywords": [
+      "16z josefina tersoli",
+      "three agents",
+      "three agents",
+      "small agency",
+      "small agency",
+      "proposal pipeline",
+      "proposal pipeline",
+      "one memory",
+      "one memory",
+      "every ..."
+    ],
+    "summary": "# Three agents and one memory: a proposal pipeline for a small agency > Source: devto | Category: news | 2026-11-09T09:04:16Z The code is at github.com/JTersoli/bigpickle-brain, MIT."
+  },
+  "52f9ac65102bd067": {
+    "file": "corpus/devto/dev_to_juanauriti_on-page-geo-explains-28-of-citation-variat_4e5e64ce97.md",
+    "source": "devto",
+    "title": "On-page GEO explains 2.8% of citation variation. Retrieval explains 32%. My null result was not a fluke",
+    "url": "https://dev.to/juanauriti/on-page-geo-explains-28-of-citation-variation-retrieval-explains-32-my-null-result-was-not-a-5e8f",
+    "keywords": [
+      "retrieval explains 32 %.",
+      "retrieval explains 32 %.",
+      "page geo explains 2",
+      "page geo explains 2",
+      "predict whether ...",
+      "calibration study showing",
+      "16z last week",
+      "geo score",
+      "null result",
+      "null result"
+    ],
+    "summary": "# On-page GEO explains 2.8% of citation variation. My null result was not a fluke Last week I published a calibration study showing that my tool's GEO score does not predict whether..."
+  },
+  "9354881edbec055d": {
+    "file": "corpus/devto/dev_to_gabrielanhaia_12-keys-youll-press-every-hour-in-claud_d120ab35ec.md",
+    "source": "devto",
+    "title": "12 Keys You'll Press Every Hour in Claude Code, Codex and Antigravity CLI",
+    "url": "https://dev.to/gabrielanhaia/12-keys-youll-press-every-hour-in-claude-code-codex-and-antigravity-cli-5eka",
+    "keywords": [
+      "press every hour",
+      "press every hour",
+      "three cli agents",
+      "antigravity cli",
+      "antigravity cli",
+      "k approves",
+      "esc esc",
+      "different job",
+      "claude code",
+      "claude code"
+    ],
+    "summary": "# 12 Keys You'll Press Every Hour in Claude Code, Codex and Antigravity CLI > Source: devto | Category: news | 2026-11-09T09:04:18Z Same key, different job: Ctrl+K approves a subagent in one of them."
+  },
+  "ebbec4d2f03dd1ac": {
+    "file": "corpus/devto/dev_to_suraj_nandan_why-i-keep-going-back-to-data-structures_beeba472c4.md",
+    "source": "devto",
+    "title": "Why I keep going back to data structures even though I build web apps",
+    "url": "https://dev.to/suraj_nandan/why-i-keep-going-back-to-data-structures-even-though-i-build-web-apps-2iab",
+    "keywords": [
+      "data structures even though",
+      "data structures even though",
+      "study data structures",
+      "keep going back",
+      "keep going back",
+      "build web apps",
+      "build web apps",
+      "true",
+      "told",
+      "student"
+    ],
+    "summary": "# Why I keep going back to data structures even though I build web apps As a student I'm told to study data structures and algorithms for interviews. That's true, but it..."
+  },
+  "5672e0e182b7ae62": {
+    "file": "corpus/devto/dev_to_necoz_small-contributions-matter-too-2j4_0040223050.md",
+    "source": "devto",
+    "title": "Small Contributions Matter Too 🐈",
+    "url": "https://dev.to/necoz/small-contributions-matter-too-2j4",
+    "keywords": [
+      "think one thing",
+      "small contributions matter",
+      "small contributions matter",
+      "keeps people",
+      "open source",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Small Contributions Matter Too 🐈 > Source: devto | Category: news | 2026-11-09T09:04:19Z I think one thing that keeps people from contributing to open source is the idea that you have to be..."
+  },
+  "8a325b3a3dec2a2c": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_why-your-ai-agent-is-brilliant-for-2_a3f31bfb8c.md",
+    "source": "devto",
+    "title": "Why Your AI Agent Is Brilliant for 20 Minutes and Then Starts Lying",
+    "url": "https://dev.to/debashish_ghosal/why-your-ai-agent-is-brilliant-for-20-minutes-and-then-starts-lying-232j",
+    "keywords": [
+      "first twenty minutes",
+      "20 minutes",
+      "20 minutes",
+      "starts lying",
+      "starts lying",
+      "failing service",
+      "drafted ...",
+      "ai agent",
+      "ai agent",
+      "agent"
+    ],
+    "summary": "# Why Your AI Agent Is Brilliant for 20 Minutes and Then Starts Lying > Source: devto | Category: news | 2026-11-09T09:04:16Z The first twenty minutes, my agent was perfect."
+  },
+  "4536b401b74e6f06": {
+    "file": "corpus/devto/dev_to_aheadkit_i-almost-charged-25-for-a-landing-page-then-_95fcbc102a.md",
+    "source": "devto",
+    "title": "I Almost Charged $25 for a Landing Page. Then I Did the Maths: $4 an Hour.",
+    "url": "https://dev.to/aheadkit/i-almost-charged-25-for-a-landing-page-then-i-did-the-maths-4-an-hour-2fhm",
+    "keywords": [
+      "nearly ...",
+      "landing page",
+      "landing page",
+      "felt proud",
+      "ever said",
+      "almost charged",
+      "almost charged",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I Almost Charged $25 for a Landing Page. Then I Did the Maths: $4 an Hour. Have you ever said a price out loud and felt proud of it — before doing any maths at all?"
+  },
+  "9197d9dc5d8d13cd": {
+    "file": "corpus/devto/dev_to_annavi11arrea1_microserver-updated-with-mini-catbot-m_2dea5ea3ed.md",
+    "source": "devto",
+    "title": "Microserver Updated with Mini Catbot! ✨😻 mew!",
+    "url": "https://dev.to/annavi11arrea1/microserver-updated-with-mini-catbot-mew-3aa0",
+    "keywords": [
+      "sunday funday ...",
+      "server hub",
+      "mini catbot",
+      "mini catbot",
+      "✨😻 mew",
+      "✨😻 mew",
+      "microserver updated",
+      "microserver updated",
+      "...",
+      "updated"
+    ],
+    "summary": "# Microserver Updated with Mini Catbot! View mini Catbot Live: mew! Updated my server hub which had been snoozing for a..."
+  },
+  "861202867c1add74": {
+    "file": "corpus/devto/dev_to_aheadkit_i-started-coding-at-university-while-my-clas_6144842b07.md",
+    "source": "devto",
+    "title": "I Started Coding at University While My Classmates Were Already Freelancing. Here's What My First Month Actually Looked Like.",
+    "url": "https://dev.to/aheadkit/i-started-coding-at-university-while-my-classmates-were-already-freelancing-heres-what-my-first-iff",
+    "keywords": [
+      "install python \"...",
+      "still searching",
+      "started coding",
+      "started coding",
+      "sending invoices",
+      "already freelancing",
+      "already freelancing",
+      "university",
+      "university",
+      "source"
+    ],
+    "summary": "# I Started Coding at University While My Classmates Were Already Freelancing. Here's What My First Month Actually Looked Like. My classmates were sending invoices to clients while I was still searching \"how to install Python\"..."
+  },
+  "75b51c32393b18d6": {
+    "file": "corpus/devto/dev_to_roshanlam_building-a-local-first-financial-analytics-_fba2655bbe.md",
+    "source": "devto",
+    "title": "Building a Local-First Financial Analytics Tool with Python",
+    "url": "https://dev.to/roshanlam/building-a-local-first-financial-analytics-tool-with-python-3n52",
+    "keywords": [
+      "first financial analytics tool",
+      "first financial analytics tool",
+      "source finance tool",
+      "source",
+      "trust",
+      "reactions",
+      "python",
+      "python",
+      "open",
+      "news"
+    ],
+    "summary": "# Building a Local-First Financial Analytics Tool with Python > Source: devto | Category: news | 2026-11-09T09:04:17Z I Built an Open-Source Finance Tool Because I Didn't Trust My Bank Transaction Data   Every..."
+  },
+  "9c75281455971250": {
+    "file": "corpus/devto/dev_to_aheadkit_i-added-up-everything-i-spent-learning-to-co_6d7baeff04.md",
+    "source": "devto",
+    "title": "I Added Up Everything I Spent Learning to Code This Year. The Total Surprised Me",
+    "url": "https://dev.to/aheadkit/i-added-up-everything-i-spent-learning-to-code-this-year-the-total-surprised-me-kde",
+    "keywords": [
+      "total surprised",
+      "total surprised",
+      "start learning",
+      "spent learning",
+      "spent learning",
+      "particular kind",
+      "bootcamp ...",
+      "year",
+      "year",
+      "source"
+    ],
+    "summary": "# I Added Up Everything I Spent Learning to Code This Year. > Source: devto | Category: news | 2026-11-09T09:04:18Z There's a particular kind of advert that follows you once you start learning to code."
+  },
+  "661661949ebd751d": {
+    "file": "corpus/devto/dev_to_sizzlebop_training-moe-models-is-complicated-hugging-_de4bd1d612.md",
+    "source": "devto",
+    "title": "Training MoE Models Is Complicated. Hugging Face Just Wrote the Manual.",
+    "url": "https://dev.to/sizzlebop/training-moe-models-is-complicated-hugging-face-just-wrote-the-manual-nih",
+    "keywords": [
+      "time recently experimenting",
+      "training moe models",
+      "training moe models",
+      "hugging face",
+      "hugging face",
+      "fair amount",
+      "moe",
+      "models",
+      "wrote",
+      "wrote"
+    ],
+    "summary": "# Training MoE Models Is Complicated. Hugging Face Just Wrote the Manual. I've spent a fair amount of time recently experimenting with Mixture of Experts (MoE) models on my..."
+  },
+  "3411990e753346ca": {
+    "file": "corpus/devto/dev_to_chocoscoding_designing-fault-tolerant-api-through-ide_d7bcfabf76.md",
+    "source": "devto",
+    "title": "Designing Fault-Tolerant API Through Idempotency",
+    "url": "https://dev.to/chocoscoding/designing-fault-tolerant-api-through-idempotency-1gnn",
+    "keywords": [
+      "heart turns red",
+      "tolerant api",
+      "tolerant api",
+      "request times",
+      "designing fault",
+      "designing fault",
+      "click like",
+      "source",
+      "reading"
+    ],
+    "summary": "# Designing Fault-Tolerant API Through Idempotency So imagine I’m reading your post. I click Like, the heart turns red, and the request times out."
+  },
+  "529d8ffa57315f33": {
+    "file": "corpus/devto/dev_to_sushilmagare10_ai-sdk-70163-added-two-stream-parts-in_902941d73f.md",
+    "source": "devto",
+    "title": "AI SDK 7.0.163 Added Two Stream Parts in a Patch Release. My Exhaustive Switch Stopped Compiling",
+    "url": "https://dev.to/sushilmagare10/ai-sdk-70163-added-two-stream-parts-in-a-patch-release-my-exhaustive-switch-stopped-compiling-1m14",
+    "keywords": [
+      "exhaustive switch stopped compiling",
+      "exhaustive switch stopped compiling",
+      "fullstream stops compiling",
+      "16z upgrading ai",
+      "ai sdk 7",
+      "ai sdk 7",
+      "assertnever switch",
+      "tested fix",
+      "runtime behavior",
+      "patch release"
+    ],
+    "summary": "# AI SDK 7.0.163 Added Two Stream Parts in a Patch Release. My Exhaustive Switch Stopped Compiling Upgrading ai from 7.0.162 to 7.0.163+ adds ping and steering-message to TextStreamPart, so an assertNever switch over fullStream stops compiling."
+  },
+  "7674022d29d782aa": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50420399_189b861915.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50420399",
+    "keywords": [
+      "design realistic coding tasks",
+      "role .< p >-",
+      "scalable apis &# x2f",
+      "15 hours &# x2f",
+      "write software .< p",
+      "time ai training work",
+      "ai coding task design",
+      "paid per accepted task",
+      "strong professional backend experience",
+      "per accepted task"
+    ],
+    "summary": "We are the hiring company and are actively filling this role.<p>- $30–$100 per hour equivalent, paid per accepted task - 100% remote, United States - About 15 hours&#x2F;week; choose your schedule<p>We need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems that write software.<p>Ideal background - Strong professional b"
   }
 }
