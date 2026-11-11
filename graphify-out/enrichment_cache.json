@@ -858034,5 +858034,1131 @@
       "{} ---"
     ],
     "summary": "# [finextra] Banking giants commit $270m to stablecoin venture - Bloomberg Banking giants commit $270m to stablecoin venture - Bloomberg Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg."
+  },
+  "4d3ef9c161c98629": {
+    "file": "corpus/security/thehackernews_com_2026_11_microsoft-patches-1259-flaws-inclu_b4b549aacb.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "keywords": [
+      "may expose ntlmv2 hashes",
+      "may expose ntlmv2 hashes",
+      "including exploited outlook bug",
+      "including exploited outlook bug",
+      "including exploited outlook bug",
+      "26z microsoft patches 1",
+      "tuesday released patches",
+      "second consecutive month",
+      "issued cve identifiers",
+      "microsoft patches 1"
+    ],
+    "summary": "# [hacker-news-sec] Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws."
+  },
+  "270ef4aeb1c792f3": {
+    "file": "corpus/security/thehackernews_com_2026_11_railway-says-stolen-customer-ai-ke_74289a15fb.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+    "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+    "keywords": [
+      "service provider said yesterday",
+      "estimated unauthorized usage charges",
+      "estimated unauthorized usage charges",
+      "unauthorized spending",
+      "ai provider",
+      "runs apps",
+      "october breach",
+      "company builds",
+      "api keys",
+      "customers stored"
+    ],
+    "summary": "# [hacker-news-sec] Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges It has promised to pay those charges itself when an AI provider will not refund them."
+  },
+  "197426dec42b9c8d": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-fixes-exch_84fe717a7f.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+    "keywords": [
+      "microsoft fixes exchange sign",
+      "microsoft fixes exchange sign",
+      "windows server updates microsoft",
+      "windows server updates",
+      "windows server updates",
+      "exchange server systems",
+      "fixed outlook sign",
+      "mail delivery issues",
+      "ins broken",
+      "ins broken"
+    ],
+    "summary": "# [bleeping-comp] Microsoft fixes Exchange sign-ins broken by Windows Server updates Microsoft fixes Exchange sign-ins broken by Windows Server updates Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates."
+  },
+  "8c359f32370b42a7": {
+    "file": "corpus/security/thehackernews_com_2026_11_cisco-broadworks-and-openwave-flaw_85ce9be08e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+    "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+    "keywords": [
+      "xml external entity",
+      "known exploited vulnerabilities",
+      "26z cisco broadworks",
+      "infrastructure security agency",
+      "cisco broadworks",
+      "cisco broadworks",
+      "improper restriction",
+      "cvss score",
+      "citing evidence",
+      "active exploitation"
+    ],
+    "summary": "# [hacker-news-sec] Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation."
+  },
+  "3ada795244447ca6": {
+    "file": "corpus/security/thehackernews_com_2026_11_microsoft-researchers-show-ai-agen_aa7a33eee6.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+    "keywords": [
+      "chosen trigger appears",
+      "rarely used neurons",
+      "model would run",
+      "without retraining",
+      "team tested",
+      "microsoft researchers",
+      "hidden backdoor",
+      "editing fewer",
+      "editing fewer",
+      "editing fewer"
+    ],
+    "summary": "# [hacker-news-sec] Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown."
+  },
+  "f3cf84b161261d6c": {
+    "file": "corpus/design/www_anthropic_com_research_components-of-agent-memory_f0247d2be6.md",
+    "source": "design",
+    "title": "[sidebar-io] The components of agent memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "keywords": [
+      "worth remembering",
+      "agent memory",
+      "agent memory",
+      "agent memory",
+      "source",
+      "sidebar",
+      "sidebar",
+      "next"
+    ],
+    "summary": "# [sidebar-io] The components of agent memory The components of agent memory For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next."
+  },
+  "5dfa1b390fd6526f": {
+    "file": "corpus/design/zwischenzugs_com_2026_11_03_a-family-tree-of-software-job-ti_a21cc81501.md",
+    "source": "design",
+    "title": "[sidebar-io] A family tree of software job titles",
+    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "keywords": [
+      "software job titles",
+      "software job titles",
+      "software job titles",
+      "seen titles come",
+      "family tree",
+      "family tree",
+      "family tree",
+      "wondered"
+    ],
+    "summary": "# [sidebar-io] A family tree of software job titles A family tree of software job titles If you’ve been in this industry for any length of time you’ll have seen titles come and go, and you might have wondered where they all came from."
+  },
+  "9c68823ae7941689": {
+    "file": "corpus/design/www_johnnunemaker_com_dont-make-a-human-do-what-ai-is-amazin_b59422587d.md",
+    "source": "design",
+    "title": "[sidebar-io] Don’t make a human do what AI is amazing at",
+    "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
+    "keywords": [
+      "tedious parts",
+      "nunebot makes",
+      "source",
+      "sidebar",
+      "sidebar",
+      "make",
+      "make"
+    ],
+    "summary": "# [sidebar-io] Don’t make a human do what AI is amazing at Don’t make a human do what AI is amazing at How Nunebot makes my apps a little better every day without me doing the tedious parts."
+  },
+  "46c1d9228c522dba": {
+    "file": "corpus/design/karolinaszczur_com_journal_translation-not-rebranding_6d7ca10a41.md",
+    "source": "design",
+    "title": "[sidebar-io] There’s no better name for design systems",
+    "url": "https://karolinaszczur.com/journal/translation-not-rebranding/",
+    "keywords": [
+      "design systems across functions",
+      "design systems",
+      "design systems",
+      "design systems",
+      "better name",
+      "better name",
+      "better name",
+      "design",
+      "design"
+    ],
+    "summary": "# [sidebar-io] There’s no better name for design systems There’s no better name for design systems How to talk about design systems across functions."
+  },
+  "69d4eb0774b7a743": {
+    "file": "corpus/design/1in8b_life_en_a679538716.md",
+    "source": "design",
+    "title": "[sidebar-io] 1 in 8 billion",
+    "url": "https://1in8b.life/en/",
+    "keywords": [
+      "8 billion become one",
+      "whole life inside",
+      "8 billion",
+      "8 billion",
+      "real statistics",
+      "born right",
+      "172 countries",
+      "27z 1"
+    ],
+    "summary": "# [sidebar-io] 1 in 8 billion 1 in 8 billion Become one of the babies being born right now and live their whole life inside the real statistics of 172 countries and territories."
+  },
+  "b2e8b3b97c155c6e": {
+    "file": "corpus/engineering/www_infoq_com_articles_ios-crash-sigbus-debugging-experiment_d751108161.md",
+    "source": "engineering",
+    "title": "[infoq] Article: The iOS Crash We Could Not Reproduce",
+    "url": "https://www.infoq.com/articles/ios-crash-sigbus-debugging-experiment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "scale ios consumer app",
+      "root cause required turning",
+      "vague sigbus report",
+      "final code change",
+      "clean stack trace",
+      "abhishek gang deb",
+      "crash occurred intermittently",
+      "root cause",
+      "ios crash",
+      "ios crash"
+    ],
+    "summary": "This article describes the investigation to find the root cause of a production crash in a large-scale iOS consumer app that had no clean stack trace. The crash occurred intermittently and resisted every local reproduction attempt. The final code change was small, but identifying the root cause required turning a vague SIGBUS report into a controlled set of experiments."
+  },
+  "eb3577c8d5d90e7f": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_angular-compiler-rust-typescript__86b738bea2.md",
+    "source": "engineering",
+    "title": "[infoq] Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor",
+    "url": "https://www.infoq.com/news/2026/11/angular-compiler-rust-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "early benchmark showed 2x",
+      "powered compiler enters beta",
+      "powered compiler enters beta",
+      "powered compiler enters beta",
+      "3x faster cold builds",
+      "angular 22 minor release",
+      "rust using oxc",
+      "compiler preprocessor",
+      "production builds",
+      "typescript 7"
+    ],
+    "summary": "# [infoq] Angular's TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor It replaces ngc's dependence on the Transformer API, which TypeScript 7.0 removed. Adoption is expected in an Angular 22 minor release; production builds should stay on ngc until then."
+  },
+  "18cc91f3d00907e6": {
+    "file": "corpus/hackernews/www_uni-muenster_de_news_view_php_cmdid_15659_utm_source_joi_5e4bef7306.md",
+    "source": "hackernews",
+    "title": "Jumping genes' helped ants evolve after the extinction of the dinosaurs",
+    "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+    "keywords": [
+      "helped ants evolve",
+      "helped ants evolve",
+      "jumping genes",
+      "jumping genes",
+      "28z score",
+      "source",
+      "news",
+      "hackernews",
+      "extinction",
+      "extinction"
+    ],
+    "summary": "# \"Jumping genes\" helped ants evolve after the extinction of the dinosaurs > Source: hackernews | Category: news | 2026-11-11T09:18:28Z Score: 6 | Comments: 0"
+  },
+  "3a866ad210563f99": {
+    "file": "corpus/hackernews/devblogs_microsoft_com_dotnet_announcing-dotnet-11_a1c64da99a.md",
+    "source": "hackernews",
+    "title": "Announcing .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "keywords": [
+      "us &# x2f",
+      "us &# x2f",
+      "new &# x2f",
+      "new &# x2f",
+      "core &# x2f",
+      "core &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "dotnet &# x2f",
+      "dotnet &# x2f"
+    ],
+    "summary": "> Source: hackernews | Category: news | 2026-11-11T09:18:29Z Score: 180 | Comments: 230 <a href=\"https:&#x2F;&#x2F;learn.microsoft.com&#x2F;en-us&#x2F;dotnet&#x2F;core&#x2F;whats-new&#x2F;dotnet-11&#x2F;runtime\" rel=\"nofollow\">https:&#x2F;&#x2F;learn.microsoft.com&#x2F;en-us&#x2F;dotnet&#x2F;core&#x2F;whats-new&#x2F;dotn...</a>"
+  },
+  "6122072079fc3ded": {
+    "file": "corpus/hackernews/www_science_org_content_article_deter-bioterrorism-u-s-impos_5c34de2cac.md",
+    "source": "hackernews",
+    "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "keywords": [
+      "ordering synthetic dna",
+      "ordering synthetic dna",
+      "imposes new rules",
+      "imposes new rules",
+      "deter bioterrorism",
+      "deter bioterrorism",
+      "26z score",
+      "source"
+    ],
+    "summary": "# To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA > Source: hackernews | Category: news | 2026-11-11T09:18:26Z Score: 86 | Comments: 52"
+  },
+  "b79d13eded18b46f": {
+    "file": "corpus/hackernews/policy-wire_com_ukraine-pivots-to-israeli-italian-satellite-_6fa28985fb.md",
+    "source": "hackernews",
+    "title": "Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions",
+    "url": "https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/",
+    "keywords": [
+      "italian satellite tech",
+      "italian satellite tech",
+      "bypass starlink restrictions",
+      "bypass starlink restrictions",
+      "ukraine pivots",
+      "ukraine pivots",
+      "30z score",
+      "source",
+      "news",
+      "israeli"
+    ],
+    "summary": "# Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions > Source: hackernews | Category: news | 2026-11-11T09:18:30Z Score: 8 | Comments: 0"
+  },
+  "b9656aaa36d7e772": {
+    "file": "corpus/hackernews/9to5mac_com_2026_11_10_apple-has-new-mac-app-coming-to-make-_601b394039.md",
+    "source": "hackernews",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "keywords": [
+      "new mac app coming",
+      "new mac app coming",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "apple",
+      "apple"
+    ],
+    "summary": "# Apple has new Mac app coming to make running local AI models easy > Source: hackernews | Category: news | 2026-11-11T09:18:26Z Score: 217 | Comments: 182"
+  },
+  "223c0e15bb481506": {
+    "file": "corpus/hackernews/github_com_gmkurtzer_ginux_d515cb9829.md",
+    "source": "hackernews",
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "keywords": [
+      "userspace kernel",
+      "userspace kernel",
+      "greg kurtzer",
+      "greg kurtzer",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "ginux",
+      "ginux"
+    ],
+    "summary": "# Greg Kurtzer's Ginux is now a userspace kernel > Source: hackernews | Category: news | 2026-11-11T09:18:26Z Score: 57 | Comments: 26"
+  },
+  "27e8ae6fc4cd473a": {
+    "file": "corpus/hackernews/happihacking_com_blog_posts_2025_why_I_wrote_theBEAMBook_f325bd76e7.md",
+    "source": "hackernews",
+    "title": "Why I wrote the BEAM book (2025)",
+    "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+    "keywords": [
+      "beam book",
+      "beam book",
+      "27z score",
+      "wrote",
+      "wrote",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why I wrote the BEAM book (2025) > Source: hackernews | Category: news | 2026-11-11T09:18:27Z Score: 78 | Comments: 10"
+  },
+  "fc9b182aeff3a39d": {
+    "file": "corpus/hackernews/osssaysno_com_e492ab3c46.md",
+    "source": "hackernews",
+    "title": "OSS projects banning AI-generated contributions",
+    "url": "https://osssaysno.com",
+    "keywords": [
+      "oss projects banning ai",
+      "oss projects banning ai",
+      "generated contributions",
+      "generated contributions",
+      "27z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# OSS projects banning AI-generated contributions > Source: hackernews | Category: news | 2026-11-11T09:18:27Z Score: 4 | Comments: 1"
+  },
+  "d8e4492a38621664": {
+    "file": "corpus/hackernews/github_com_adrbn_bo2-mac_d7608f1b23.md",
+    "source": "hackernews",
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "keywords": [
+      "native arm64 mac app",
+      "used claude opus 5",
+      "native arm64 macos",
+      "native arm64 macos",
+      "statically recompilated ahead",
+      "black ops 2",
+      "2020 macbook pro",
+      "steam library obviously",
+      "whole campaign",
+      "show hn"
+    ],
+    "summary": "So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps."
+  },
+  "47d09b4dc1d06388": {
+    "file": "corpus/hackernews/www_messynessychic_com_2015_01_15_a-compendium-of-abandoned-_c09097da06.md",
+    "source": "hackernews",
+    "title": "A Compendium of Abandoned Greenhouses",
+    "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+    "keywords": [
+      "abandoned greenhouses",
+      "abandoned greenhouses",
+      "26z score",
+      "source",
+      "news",
+      "hackernews",
+      "compendium",
+      "compendium",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Compendium of Abandoned Greenhouses > Source: hackernews | Category: news | 2026-11-11T09:18:26Z Score: 38 | Comments: 2"
+  },
+  "1d688939fb48fac3": {
+    "file": "corpus/hackernews/theconversation_com_hooked-on-tuna-people-have-been-harvesti_e881a1339f.md",
+    "source": "hackernews",
+    "title": "Hooked on Tuna",
+    "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+    "keywords": [
+      "com &# x2f",
+      "com &# x2f",
+      "29z score",
+      "tuna </",
+      "tuna",
+      "tuna",
+      "tuna",
+      "source",
+      "news",
+      "hooked"
+    ],
+    "summary": "# Hooked on Tuna > Source: hackernews | Category: news | 2026-11-11T09:18:29Z <a href=\"https:&#x2F;&#x2F;blue-continuum.com&#x2F;hooked-on-tuna\" rel=\"nofollow\">https:&#x2F;&#x2F;blue-continuum.com&#x2F;hooked-on-tuna</a>"
+  },
+  "a0442a963b5f706b": {
+    "file": "corpus/hackernews/www_neilchen_co_blog_things2026_1193804478.md",
+    "source": "hackernews",
+    "title": "Unremarkable things we made in 2026",
+    "url": "https://www.neilchen.co/blog/things2026",
+    "keywords": [
+      "unremarkable things",
+      "unremarkable things",
+      "31z score",
+      "source",
+      "news",
+      "made",
+      "made",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Unremarkable things we made in 2026 > Source: hackernews | Category: news | 2026-11-11T09:18:31Z Score: 30 | Comments: 1"
+  },
+  "1daf2e2a1549ec16": {
+    "file": "corpus/hackernews/gatezh_com_posts_macos-secure-enclave-ssh-keys_c758f11662.md",
+    "source": "hackernews",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "keywords": [
+      "protecting ssh keys",
+      "protecting ssh keys",
+      "macos secure enclave",
+      "macos secure enclave",
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Protecting SSH Keys with macOS Secure Enclave > Source: hackernews | Category: news | 2026-11-11T09:18:25Z Score: 174 | Comments: 62"
+  },
+  "6dee114da9f9d786": {
+    "file": "corpus/hackernews/github_com_no382001_zipc_d87c7df167.md",
+    "source": "hackernews",
+    "title": "A ZIP-style Prolog VM for trilog",
+    "url": "https://github.com/no382001/zipc",
+    "keywords": [
+      "style prolog vm",
+      "style prolog vm",
+      "27z score",
+      "zip",
+      "zip",
+      "trilog",
+      "trilog",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A ZIP-style Prolog VM for trilog > Source: hackernews | Category: news | 2026-11-11T09:18:27Z Score: 10 | Comments: 2"
+  },
+  "5ae7c1e0cb7b57c8": {
+    "file": "corpus/devto/dev_to_anas_issath_type-257-characters-of-anything-youre-in-_522909b0cf.md",
+    "source": "devto",
+    "title": "Type 257 Characters of Anything. You're In.",
+    "url": "https://dev.to/anas_issath/type-257-characters-of-anything-youre-in-13ic",
+    "keywords": [
+      "made four years apart",
+      "type 257 characters",
+      "type 257 characters",
+      "two sensible decisions",
+      "two different projects",
+      "probably hiding",
+      "password bypass",
+      "alpine linux",
+      "turned",
+      "source"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-11T09:18:33Z How two sensible decisions, made four years apart in two different projects, turned into a password bypass on Alpine Linux. And why the same bug is probably hiding in your code."
+  },
+  "775a1849a0d35622": {
+    "file": "corpus/devto/dev_to_akhouri-systems_how-a-privacy-first-online-image-edit_8a2cbe322a.md",
+    "source": "devto",
+    "title": "How a Privacy-First Online Image Editor Works Without Uploading Your Photos (WebAssembly + On-Device AI)",
+    "url": "https://dev.to/akhouri-systems/how-a-privacy-first-online-image-editor-works-without-uploading-your-photos-webassembly--ae8",
+    "keywords": [
+      "online image editors follow",
+      "server ...",
+      "device ai",
+      "device ai",
+      "browser uploads",
+      "webassembly",
+      "webassembly",
+      "source",
+      "reactions",
+      "privacy"
+    ],
+    "summary": "# How a Privacy-First Online Image Editor Works Without Uploading Your Photos (WebAssembly + On-Device AI) Most online image editors follow the same pattern. You pick a file, the browser uploads it, a server..."
+  },
+  "b836fe30471a4e30": {
+    "file": "corpus/devto/dev_to_aheadkit_plan-stamping-is-right-about-the-signature-i_d9149c67d8.md",
+    "source": "devto",
+    "title": "Plan Stamping Is Right About the Signature. It's Missing the Invoice.",
+    "url": "https://dev.to/aheadkit/plan-stamping-is-right-about-the-signature-its-missing-the-invoice-1j0e",
+    "keywords": [
+      "read ken walger",
+      "stopped turning",
+      "plan stamping",
+      "plan stamping",
+      "plan stamping",
+      "week",
+      "source",
+      "software",
+      "signature",
+      "signature"
+    ],
+    "summary": "# Plan Stamping Is Right About the Signature. > Source: devto | Category: news | 2026-11-11T09:18:33Z I read Ken Walger's \"Plan Stamping, for Software\" this week, and I have not stopped turning it over..."
+  },
+  "ca0daa095921f979": {
+    "file": "corpus/devto/dev_to_alexr_slayer-a-semantic-layer-that-stops-agents-guess_72fbab1b6b.md",
+    "source": "devto",
+    "title": "SLayer: a semantic layer that stops agents guessing SQL",
+    "url": "https://dev.to/alexr/slayer-a-semantic-layer-that-stops-agents-guessing-sql-3gia",
+    "keywords": [
+      "stops agents guessing sql",
+      "stops agents guessing sql",
+      "sql fails quietly",
+      "revenue definition ,...",
+      "33z slayer text",
+      "semantic layer",
+      "semantic layer",
+      "model guesses",
+      "slayer",
+      "slayer"
+    ],
+    "summary": "# SLayer: a semantic layer that stops agents guessing SQL > Source: devto | Category: news | 2026-11-11T09:18:33Z SLayer   Text to SQL fails quietly."
+  },
+  "ecf169fae6bfe8a7": {
+    "file": "corpus/devto/dev_to_smtahosin_youre-still-optimizing-re-renders-wrong-the_ea01ab724a.md",
+    "source": "devto",
+    "title": "You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM",
+    "url": "https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1",
+    "keywords": [
+      "vapor mode compiles directly",
+      "vue 3 internal architecture",
+      "vue 3 architecture",
+      "vue 3 architecture",
+      "minute deep dive",
+      "javascript proxies coordinate",
+      "force vdom diffing",
+      "still optimizing",
+      "still optimizing",
+      "renders wrong"
+    ],
+    "summary": "# You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM A visual, 10-minute deep dive into Vue 3 internal architecture. Learn how JavaScript Proxies coordinate with the global targetMap, why Compiler-Informed Block Trees crush traditional brute-force VDOM diffing, how to avoid the destructuring trap, and how Vapor Mode compiles directly to the DOM."
+  },
+  "88e023b547061d06": {
+    "file": "corpus/devto/dev_to_jsmanifest_typescript-keyof-typeof-in-2026-practical-_d983dcdf3e.md",
+    "source": "devto",
+    "title": "TypeScript `keyof typeof` in 2026: Practical Patterns for Enum-Like Objects and Config Maps",
+    "url": "https://dev.to/jsmanifest/typescript-keyof-typeof-in-2026-practical-patterns-for-enum-like-objects-and-config-maps-3f0o",
+    "keywords": [
+      "32z master keyof typeof",
+      "runtime validation takes",
+      "pattern beats enums",
+      "safe config objects",
+      "keyof typeof",
+      "keyof typeof",
+      "like objects",
+      "like objects",
+      "config maps",
+      "config maps"
+    ],
+    "summary": "# TypeScript `keyof typeof` in 2026: Practical Patterns for Enum-Like Objects and Config Maps Master keyof typeof to build type-safe config objects, route maps, and registries. Learn when this pattern beats enums and where runtime validation takes over."
+  },
+  "8e2a17d5001daac2": {
+    "file": "corpus/devto/dev_to_qwerta_your-readme-proves-the-work-it-doesnt-prove-wh_1248601e11.md",
+    "source": "devto",
+    "title": "Your README proves the work. It doesn't prove what it felt like before it worked.",
+    "url": "https://dev.to/qwerta/your-readme-proves-the-work-it-doesnt-prove-what-it-felt-like-before-it-worked-3930",
+    "keywords": [
+      "stopped turning ...",
+      "josaphatstar said something",
+      "readme proves",
+      "readme proves",
+      "felt like",
+      "felt like",
+      "comment thread",
+      "worked",
+      "worked",
+      "work"
+    ],
+    "summary": "# Your README proves the work. > Source: devto | Category: news | 2026-11-11T09:18:33Z @josaphatstar said something in a comment thread here this week that I have not stopped turning..."
+  },
+  "a22af3a941c491ab": {
+    "file": "corpus/devto/dev_to_earlgreyhot1701d_a-small-laptop-is-a-full-build-kit-b_e0e58c2e5e.md",
+    "source": "devto",
+    "title": "A Small Laptop Is a Full Build Kit: Bootstrapping with a Chromebook, Claude, and GitHub",
+    "url": "https://dev.to/earlgreyhot1701d/a-small-laptop-is-a-full-build-kit-bootstrapping-with-a-chromebook-claude-and-github-4j16",
+    "keywords": [
+      "full build kit",
+      "full build kit",
+      "full build kit",
+      "far mine went",
+      "small laptop",
+      "small laptop",
+      "small laptop",
+      "reader suggested",
+      "publish ..."
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-11T09:18:32Z Here's how far mine went. TL;DR: A reader suggested I publish..."
+  },
+  "70df274b99fe150f": {
+    "file": "corpus/devto/dev_to_begoodtool_modeling-retirement-withdrawals-without-hi_9b50b6d33b.md",
+    "source": "devto",
+    "title": "Modeling Retirement Withdrawals Without Hiding Cash-Flow Timing",
+    "url": "https://dev.to/begoodtool/modeling-retirement-withdrawals-without-hiding-cash-flow-timing-2kn0",
+    "keywords": [
+      "withdrawal amount",
+      "starting balance",
+      "retirement projection",
+      "flow timing",
+      "flow timing",
+      "change even",
+      "source",
+      "reactions",
+      "news",
+      "keep"
+    ],
+    "summary": "# Modeling Retirement Withdrawals Without Hiding Cash-Flow Timing > Source: devto | Category: news | 2026-11-11T09:18:32Z A retirement projection can change even when you keep the starting balance, withdrawal amount, and..."
+  },
+  "3cfce5997777cb30": {
+    "file": "corpus/devto/dev_to_xulingfeng_we-keep-hearing-about-ai-productivity-the-_61e06b5ebd.md",
+    "source": "devto",
+    "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+    "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+    "keywords": [
+      "qa group chat told",
+      "qa group chat told",
+      "uncomfortable questions",
+      "multimodal testing",
+      "keep hearing",
+      "keep hearing",
+      "different story",
+      "different story",
+      "anonymous poll",
+      "ai productivity"
+    ],
+    "summary": "# We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story. An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who..."
+  },
+  "af8212980ba6631d": {
+    "file": "corpus/devto/dev_to_startupcafe_pbj-the-story-of-the-three-people-behind-_63617a02e8.md",
+    "source": "devto",
+    "title": "PB&J: The Story of the Three People Behind DEV",
+    "url": "https://dev.to/startupcafe/pbj-the-story-of-the-three-people-behind-dev-34l3",
+    "keywords": [
+      "three people behind dev",
+      "three people behind dev",
+      "sandwich 🥪 open",
+      "find ...",
+      "33z let",
+      "dev",
+      "tell",
+      "story",
+      "story",
+      "story"
+    ],
+    "summary": "# PB&J: The Story of the Three People Behind DEV > Source: devto | Category: news | 2026-11-11T09:18:33Z Let me tell you a story about a sandwich 🥪   Open the About page on DEV and you will find..."
+  },
+  "e603c63292ce63f0": {
+    "file": "corpus/devto/dev_to_yukioikeda_how-to-build-an-ai-agent-that-fixes-bugs-r_cae137e934.md",
+    "source": "devto",
+    "title": "How to Build an AI Agent That Fixes Bugs Reliably: Practice in Sharkly",
+    "url": "https://dev.to/yukioikeda/how-to-build-an-ai-agent-that-fixes-bugs-reliably-practice-in-sharkly-o63",
+    "keywords": [
+      "fixes bugs reliably",
+      "fixes bugs reliably",
+      "bugs go directly",
+      "ai agent",
+      "ai agent",
+      "ai agent",
+      "source",
+      "sharkly",
+      "sharkly",
+      "sharkly"
+    ],
+    "summary": "# How to Build an AI Agent That Fixes Bugs Reliably: Practice in Sharkly At Sharkly, people rarely fix routine bugs by hand. Most bugs go directly to an AI agent."
+  },
+  "72daa48320c89672": {
+    "file": "corpus/devto/dev_to_startupcafe_does-sharing-devlogs-put-your-game-ideas-_f37e1d7ebe.md",
+    "source": "devto",
+    "title": "Does Sharing Devlogs Put Your Game Ideas at Risk?",
+    "url": "https://dev.to/startupcafe/does-sharing-devlogs-put-your-game-ideas-at-risk-ba1",
+    "keywords": [
+      "sharing devlogs put",
+      "sharing devlogs put",
+      "solo game developer",
+      "enjoy sharing",
+      "game ideas",
+      "game ideas",
+      "something satisfying",
+      "source",
+      "risk"
+    ],
+    "summary": "# Does Sharing Devlogs Put Your Game Ideas at Risk? As a solo game developer, I enjoy sharing what I’m building. There is something satisfying about..."
+  },
+  "aa7f5066a44cc498": {
+    "file": "corpus/devto/dev_to_xreep_i-built-a-tool-that-finds-unclaimed-good-first-_c8130f37c4.md",
+    "source": "devto",
+    "title": "I built a tool that finds unclaimed 'good first issues' on GitHub, and helps you finish one",
+    "url": "https://dev.to/xreep/i-built-a-tool-that-finds-unclaimed-good-first-issues-on-github-and-helps-you-finish-one-3i6p",
+    "keywords": [
+      "two hard parts",
+      "good first issues",
+      "good first issues",
+      "first open",
+      "finish one",
+      "finish one",
+      "finds unclaimed",
+      "finds unclaimed",
+      "34z making",
+      "source contribution"
+    ],
+    "summary": "# I built a tool that finds unclaimed \"good first issues\" on GitHub, and helps you finish one Making your first open-source contribution has two hard parts. The first is finding an issue."
+  },
+  "dbf4e660db4856ae": {
+    "file": "corpus/devto/dev_to_khrystyna_dzhus_jira-time-in-status-field-3-ways-to-c_e33b0fd7ba.md",
+    "source": "devto",
+    "title": "Jira time in status field: 3 ways to create one and their limits",
+    "url": "https://dev.to/khrystyna_dzhus/jira-time-in-status-field-3-ways-to-create-one-and-their-limits-30hl",
+    "keywords": [
+      "longest last ...",
+      "tickets sat",
+      "status field",
+      "status field",
+      "simple question",
+      "lead asks",
+      "jira time",
+      "jira time",
+      "create one",
+      "create one"
+    ],
+    "summary": "# Jira time in status field: 3 ways to create one and their limits > Source: devto | Category: news | 2026-11-11T09:18:33Z Say your lead asks a simple question in retro: which tickets sat in code review the longest last..."
+  },
+  "47bbda56e12bf64b": {
+    "file": "corpus/devto/dev_to_vadimtoptunov_i-audited-100-third-party-vs-code-exten_aefa28f22f.md",
+    "source": "devto",
+    "title": "I audited 100 third-party VS Code extensions. 19 ship known-CVE deps",
+    "url": "https://dev.to/vadimtoptunov/i-audited-100-third-party-vs-code-extensions-19-ship-known-cve-deps-4mmo",
+    "keywords": [
+      "party vs code extensions",
+      "party vs code extensions",
+      "— bundles websocket",
+      "audited 100 third",
+      "audited 100 third",
+      "19 ship known",
+      "19 ship known",
+      "top row",
+      "driver 0",
+      "cve deps"
+    ],
+    "summary": "# I audited 100 third-party VS Code extensions. > Source: devto | Category: news | 2026-11-11T09:18:32Z Live Server — 84 million installs, the top row of the results below — bundles websocket-driver 0.7.4..."
+  },
+  "623ce7553fa6f839": {
+    "file": "corpus/devto/dev_to_8b9f989e3bd077f5726863_how-i-built-a-browser-gomoku-g_2c20ce4a4d.md",
+    "source": "devto",
+    "title": "How I Built a Browser Gomoku Game with AI and Multiplayer Support",
+    "url": "https://dev.to/_8b9f989e3bd077f5726863/how-i-built-a-browser-gomoku-game-with-ai-and-multiplayer-support-12lh",
+    "keywords": [
+      "row \") looks simple",
+      "browser gomoku game",
+      "browser gomoku game",
+      "32z gomoku",
+      "place stones",
+      "multiplayer support",
+      "multiplayer support",
+      "also known",
+      "surface",
+      "source"
+    ],
+    "summary": "# How I Built a Browser Gomoku Game with AI and Multiplayer Support > Source: devto | Category: news | 2026-11-11T09:18:32Z Gomoku (also known as \"five in a row\") looks simple on the surface: place stones on a grid, and the..."
+  },
+  "8fefe3e1d5999d97": {
+    "file": "corpus/devto/dev_to_om_shree_0709_reverse-engineering-nvidia-53i3_89beee5894.md",
+    "source": "devto",
+    "title": "Reverse Engineering Nvidia",
+    "url": "https://dev.to/om_shree_0709/reverse-engineering-nvidia-53i3",
+    "keywords": [
+      "reverse engineering ...",
+      "reverse engineering nvidia",
+      "reverse engineering nvidia",
+      "31z nvidia",
+      "compiler inside",
+      "closed hardware",
+      "source",
+      "reactions",
+      "news",
+      "gpu"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-11T09:18:31Z NVIDIA's GPU Is Closed Hardware With a Compiler Inside It. Here's What Reverse Engineering..."
+  },
+  "ae1c5968c75687c7": {
+    "file": "corpus/devto/dev_to_therealmrmumba_best-tool-calling-platforms-for-ai-age_12cdb7f1f9.md",
+    "source": "devto",
+    "title": "Best Tool Calling Platforms for AI Agents",
+    "url": "https://dev.to/therealmrmumba/best-tool-calling-platforms-for-ai-agents-2j3f",
+    "keywords": [
+      "best tool calling platforms",
+      "best tool calling platforms",
+      "tool takes",
+      "real users",
+      "ai agents",
+      "ai agents",
+      "32z wiring",
+      "source",
+      "running",
+      "reactions"
+    ],
+    "summary": "# Best Tool Calling Platforms for AI Agents Wiring a tool takes an afternoon. Running it for real users doesn't."
+  },
+  "9347bf706e89d367": {
+    "file": "corpus/devto/dev_to_parsajiravand_your-settimeoutfn-0-doesnt-run-next-que_4c0dac7609.md",
+    "source": "devto",
+    "title": "Your `setTimeout(fn, 0)` Doesn't Run Next. `queueMicrotask` Does.",
+    "url": "https://dev.to/parsajiravand/your-settimeoutfn-0-doesnt-run-next-queuemicrotask-does-423n",
+    "keywords": [
+      "current code .'",
+      "line first",
+      "feels like",
+      "fast lane",
+      "run next",
+      "run next",
+      "0 )`",
+      "0 )`",
+      "queuemicrotask puts",
+      "31z settimeout"
+    ],
+    "summary": "setTimeout(fn, 0) feels like 'run this right after the current code.' It isn't — every pending promise cuts in line first. queueMicrotask puts your callback in that same fast lane, on purpose."
+  },
+  "b739ac56e5e77f6b": {
+    "file": "corpus/devto/dev_to_0xstoic_bit_my-bot-detector-was-blocking-most-real-us_f998778ffb.md",
+    "source": "devto",
+    "title": "My bot detector was blocking most real users, and my tests never noticed",
+    "url": "https://dev.to/0xstoic_bit/my-bot-detector-was-blocking-most-real-users-and-my-tests-never-noticed-3ea6",
+    "keywords": [
+      "source bot detection engine",
+      "tests never noticed",
+      "tests never noticed",
+      "native rust core",
+      "maintain synapse shield",
+      "bot detector",
+      "bot detector",
+      "real users",
+      "real users",
+      "js ..."
+    ],
+    "summary": "# My bot detector was blocking most real users, and my tests never noticed > Source: devto | Category: news | 2026-11-11T09:18:33Z I maintain Synapse Shield, an open-source bot detection engine (Python with a native Rust core and JS..."
+  },
+  "936b453ad6daf00d": {
+    "file": "corpus/devto/dev_to_jsmanifest_claude-code-output-validation-hooks-in-202_36a1aa97b8.md",
+    "source": "devto",
+    "title": "Claude Code Output Validation Hooks in 2026: Linting Agent-Written Code Before It Touches Your Repo",
+    "url": "https://dev.to/jsmanifest/claude-code-output-validation-hooks-in-2026-linting-agent-written-code-before-it-touches-your-repo-g09",
+    "keywords": [
+      "32z deterministic validation hooks",
+      "stop type errors",
+      "written code",
+      "written code",
+      "test failures",
+      "security holes",
+      "linting agent",
+      "linting agent",
+      "generated code",
+      "claude commits"
+    ],
+    "summary": "# Claude Code Output Validation Hooks in 2026: Linting Agent-Written Code Before It Touches Your Repo Deterministic validation hooks for AI-generated code. Stop type errors, security holes, and test failures before Claude commits them to your repository."
+  },
+  "cef4cd44f9382cba": {
+    "file": "corpus/devto/dev_to_gde_google-ai-classroom-part-10-green-ai-finops-self-_89d05c55c8.md",
+    "source": "devto",
+    "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
+    "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
+    "keywords": [
+      "automated storage lifecycle policies",
+      "33z green ai finops",
+      "green ai finops",
+      "green ai finops",
+      "cleaning storage lifecycles",
+      "cleaning storage lifecycles",
+      "proctored exam deployments",
+      "command terraform iac",
+      "command terraform iac",
+      "command terraform iac"
+    ],
+    "summary": "# Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment > Source: devto | Category: news | 2026-11-11T09:18:33Z Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments."
+  },
+  "7427657f8d47ed10": {
+    "file": "corpus/devto/dev_to_ingevision_five-days-of-an-autoresearch-loop-on-a-car_df7b2b7485.md",
+    "source": "devto",
+    "title": "Five days of an autoresearch loop on a card-game bot: the trained network added nothing",
+    "url": "https://dev.to/ingevision/five-days-of-an-autoresearch-loop-on-a-card-game-bot-the-trained-network-added-nothing-m4a",
+    "keywords": [
+      "trained network added nothing",
+      "trained network added nothing",
+      "shipped one setting",
+      "runnable loop included",
+      "game bot stronger",
+      "game bot",
+      "game bot",
+      "autoresearch loop",
+      "autoresearch loop",
+      "negative result"
+    ],
+    "summary": "# Five days of an autoresearch loop on a card-game bot: the trained network added nothing An agent tried to make a trick-taking card-game bot stronger against a fixed meter. It shipped one setting and a negative result."
+  },
+  "8f234552fe6310cc": {
+    "file": "corpus/devto/dev_to_adilbenmoussa_claude-security-your-secrets-in-a-setti_bf845fccf6.md",
+    "source": "devto",
+    "title": "Claude security: your secrets in a settings file, and an extension that runs code",
+    "url": "https://dev.to/adilbenmoussa/claude-security-your-secrets-in-a-settings-file-and-an-extension-that-runs-code-5cid",
+    "keywords": [
+      "runs code",
+      "runs code",
+      "reached github",
+      "claude security",
+      "claude security",
+      "settings file",
+      "settings file",
+      "secrets included",
+      "file",
+      "secrets"
+    ],
+    "summary": "# Claude security: your secrets in a settings file, and an extension that runs code Claude Code saved approved commands, secrets included, in a file that reached GitHub. A browser extension could drive Claude on your desktop."
+  },
+  "be8119ae924b3783": {
+    "file": "corpus/devto/dev_to_ndcodes_part-5-the-control-that-protected-an-empty-bu_a02b2c280c.md",
+    "source": "devto",
+    "title": "Part 5: The Control That Protected an Empty Bucket",
+    "url": "https://dev.to/ndcodes/part-5-the-control-that-protected-an-empty-bucket-e1j",
+    "keywords": [
+      "fhir r4 interoperability service",
+      "series building",
+      "part 5",
+      "part 5",
+      "part 5",
+      "hl7 v2",
+      "empty bucket",
+      "empty bucket",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Part 5: The Control That Protected an Empty Bucket > Source: devto | Category: news | 2026-11-11T09:18:31Z This is Part 5 of a series building an HL7 v2 to FHIR R4 interoperability service in public."
+  },
+  "e6a80dde9dfb7a79": {
+    "file": "corpus/devto/dev_to_pm_22_siftwise-v03-riskiest-tests-first-time-budgets-_f5aeb29618.md",
+    "source": "devto",
+    "title": "siftwise v0.3: riskiest tests first, time budgets, Jest and Java selection, and live dogfooding numbers",
+    "url": "https://dev.to/pm_22/siftwise-v03-riskiest-tests-first-time-budgets-jest-and-java-selection-and-live-dogfooding-2b0c",
+    "keywords": [
+      "live dogfooding numbers",
+      "live dogfooding numbers",
+      "riskiest tests first",
+      "riskiest tests first",
+      "33z siftwise v0",
+      "siftwise v0",
+      "siftwise v0",
+      "real numbers",
+      "fail first",
+      "gradle tests"
+    ],
+    "summary": "# siftwise v0.3: riskiest tests first, time budgets, Jest and Java selection, and live dogfooding numbers siftwise v0.3 runs the tests most likely to fail first, fits a selection into a time budget, selects Jest, Maven and Gradle tests, and runs on its own CI. Setup guide and real numbers."
+  },
+  "83ca154fcd9208c1": {
+    "file": "corpus/github-releases/github_com_docker_compose_releases_tag_v5_7_1_302901a538.md",
+    "source": "github-releases",
+    "title": "docker/compose v5.7.1 released",
+    "url": "https://github.com/docker/compose/releases/tag/v5.7.1",
+    "keywords": [
+      "changed ### fixes 🐛",
+      "events ): treat io",
+      "deps ): bump google",
+      "14451 ## new contributors",
+      "first legacy icmd tests",
+      "deps ): bump go",
+      "deps ): bump github",
+      "compose ): report network",
+      "compose ): move logs",
+      "14444 ### internal 🔧"
+    ],
+    "summary": "### Fixes 🐛 * fix(oci): verify the manifests fetched against their digest, and take only complete cache entries by @ndeloof in https://github.com/docker/compose/pull/14490 * fix(oci): keep the cache of extracted projects consistent on interruption and concurrent access by @ndeloof in https://github.com/docker/compose/pull/14462 * fix(git): check a commit out aside, and keep the cache of remote resources in a directory for each kind by @ndeloof in https://github.com/docker/compose/pull/14475 * fi"
+  },
+  "481cfe357cf304e1": {
+    "file": "corpus/github-releases/github_com_vitejs_vite_releases_tag_v8_3_8_8fdfafd362.md",
+    "source": "github-releases",
+    "title": "vitejs/vite v8.3.8 released",
+    "url": "https://github.com/vitejs/vite/releases/tag/v8.3.8",
+    "keywords": [
+      "** deps :** update",
+      "enable vitest style rules",
+      "8 ### bug fixes",
+      "ef2343355b29a3f389e4af51147b767331bd7a5b )) ### tests",
+      "** build :** keep",
+      "enable vitest plugin",
+      "build ): keep",
+      "yarn config get",
+      "hide console window",
+      "14z ## vitejs"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-11T09:19:14Z * **css:** import sass once instead of per file ([#24041](https://github.com/vitejs/vite/issues/24041)) ([db8b119](https://github.com/vitejs/vite/commit/db8b1190abbb7e30aad0055f97dde02d7ed504c7)) * defer `net use` until a UNC path is resolved on Windows ([#24014](https://github.com/vitejs/vite/issues/24014)) ([b643046](https://github.com/vitejs/vite/commit/b6430466c57f4783b707fd14a43c237082094081)) * **optimizer:** use non-ca"
+  },
+  "a3da5d1e23a2e6f6": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_10_chinese-govt-stacks-charges-on-j_770b8bd58d.md",
+    "source": "legal",
+    "title": "[techdirt] Chinese Govt. Stacks Charges On Jailed Joshua Wong To Keep Him Imprisoned Another Decade",
+    "url": "https://www.techdirt.com/2026/11/10/chinese-govt-stacks-charges-on-jailed-joshua-wong-to-keep-him-imprisoned-another-decade/",
+    "keywords": [
+      "shiver [&# 8230 ;]",
+      "called national security law",
+      "jailed joshua wong",
+      "jailed joshua wong",
+      "jailed joshua wong",
+      "imprisoned another decade",
+      "imprisoned another decade",
+      "imprisoned another decade",
+      "26z chinese govt",
+      "chinese govt"
+    ],
+    "summary": "Stacks Charges On Jailed Joshua Wong To Keep Him Imprisoned Another Decade Stacks Charges On Jailed Joshua Wong To Keep Him Imprisoned Another Decade This law, which broke the agreement made when the UK handed Hong Kong back to the Chinese government three decades ago, has since been used to jail and silence all kinds of pro-democracy voices that cause communists to shiver [&#8230;]"
+  },
+  "96f7632a6988abde": {
+    "file": "corpus/ai-research/openai_com_index_chatgpt-plus-for-veterans_ac94b61a25.md",
+    "source": "ai-research",
+    "title": "[openai-blog] ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "keywords": [
+      "transitioning service members",
+      "25z chatgpt plus",
+      "chatgpt plus",
+      "chatgpt plus",
+      "chatgpt plus",
+      "free year",
+      "civilian careers",
+      "000 veterans",
+      "veterans",
+      "veterans"
+    ],
+    "summary": "# [openai-blog] ChatGPT Plus for veterans and servicemembers More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  "607166fc3ad4d5a7": {
+    "file": "corpus/ai-research/huggingface_co_blog_qvac_botpsy_19b4fcb1fa.md",
+    "source": "ai-research",
+    "title": "[hf-blog] BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "keywords": [
+      "parameter agentic language model",
+      "parameter agentic language model",
+      "parameter agentic language model",
+      "device personal assistant",
+      "device personal assistant",
+      "device personal assistant",
+      "26z botpsy",
+      "botpsy",
+      "botpsy",
+      "sub"
+    ],
+    "summary": "# [hf-blog] BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model > Source: ai-research | Category: research | 2026-11-11T09:18:26Z BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+  },
+  "899baf0ffc833ab6": {
+    "file": "corpus/ai-research/openai_com_index_singapore-airlines-travel-work_9092d5eb66.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Singapore Airlines elevates travel & work with OpenAI technology",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "keywords": [
+      "singapore airlines elevates travel",
+      "singapore airlines elevates travel",
+      "enhance customer support",
+      "openai technology discover",
+      "travel discovery",
+      "openai technology",
+      "openai technology",
+      "kris chatbot",
+      "employee productivity",
+      "doubling csat"
+    ],
+    "summary": "# [openai-blog] Singapore Airlines elevates travel & work with OpenAI technology Singapore Airlines elevates travel & work with OpenAI technology Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+  },
+  "75f5e19e1218718a": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50449027_86d5efd44f.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50449027",
+    "keywords": [
+      "29z nevral forensics intelligence",
+      "company owns .< p",
+      "method runs .< p",
+      "worldwide )< p",
+      "public claims stay",
+      "laboratory &# x27",
+      "fixed proof standard",
+      "digital forensics platform",
+      "operator first records",
+      "validate shared research"
+    ],
+    "summary": "Nevral Forensics Intelligence (NFI) | Research Partner Program | REMOTE (worldwide)<p>NFI is a digital forensics platform for laboratories that keep evidence on their own premises, under their own law. In return, partners share the device-access research they produce on owned devices: methods, findings, and limits. We validate shared research on our own reference devices to a fixed proof standard, write proven methods into our coverage matrix with the contributor credited, and only then producti"
   }
 }
