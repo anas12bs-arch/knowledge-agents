@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
+url: "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-12T12:10:02Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely
+
+> Source: security | Category: security | 2026-11-12T12:10:02Z
+
+Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely
+
+A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday.
+
+Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships the server as part of Red Hat Enterprise Linux.
+
+An attacker who can reach the

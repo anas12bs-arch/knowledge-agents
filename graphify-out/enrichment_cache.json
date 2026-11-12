@@ -863323,5 +863323,1448 @@
       "bonny &# x27"
     ],
     "summary": "This means our AIs hammer the nails (repetitive, boring tasks) so our customers can focus on what&#x27;s really important at a high level.<p>Our niche is self-storage, and we have the best AIs for self-storage in the world. We&#x27;re funded, growing crazy fast, and are looking for an engineer to work alongside our CTO in Oregon. The role is in person in Beaverton.<p>Watch a customer talk about our AI (James Bonny, Bonny&#x27;s Self Storage): <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch"
+  },
+  "77a80e4271175a9f": {
+    "file": "corpus/security/thehackernews_com_2026_11_critical-pre-auth-mongodb-flaw-cve_c776eb51cb.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+    "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+    "keywords": [
+      "released fixed versions earlier",
+      "send two requests",
+      "auth mongodb flaw",
+      "auth mongodb flaw",
+      "auth mongodb flaw",
+      "crash lagging servers",
+      "crash lagging servers",
+      "crash lagging servers",
+      "mongodb server allows",
+      "02z critical pre"
+    ],
+    "summary": "# [hacker-news-sec] Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes."
+  },
+  "b64d6de8d5d09cf2": {
+    "file": "corpus/security/thehackernews_com_2026_11_critical-apache-http2-flaw-could-l_b92486adb8.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+    "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+    "keywords": [
+      "remote attacker run code",
+      "red hat enterprise linux",
+      "02z critical apache http",
+      "critical apache http",
+      "critical apache http",
+      "affects versions 2",
+      "apache http server",
+      "red hat",
+      "critical flaw",
+      "version 2"
+    ],
+    "summary": "# [hacker-news-sec] Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday."
+  },
+  "32802f392042b838": {
+    "file": "corpus/security/thehackernews_com_2026_11_nodejs-fixes-16-flaws-including-ht_6ee015b627.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+    "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+    "keywords": [
+      "js fixes 16 flaws",
+      "js fixes 16 flaws",
+      "js fixes 16 flaws",
+      "three supported lines",
+      "including responses intended",
+      "x release lines",
+      "including http",
+      "including http",
+      "including http",
+      "flaw fixed"
+    ],
+    "summary": "# [hacker-news-sec] Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data Fixed versions were released for all three supported lines: 22.23.5, 24.22.3, and 26.13.1."
+  },
+  "bbbd2798b4a98f24": {
+    "file": "corpus/security/thehackernews_com_2026_11_screenconnect-attacks-target-at-le_0a7fd303a4.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+    "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+    "keywords": [
+      "partner environments following reports",
+      "02z screenconnect attacks target",
+      "screenconnect attacks target",
+      "screenconnect attacks target",
+      "initial assessment suggests",
+      "disabling five third",
+      "activity may involve",
+      "rogue clients connectwise",
+      "screenconnect software",
+      "rogue clients"
+    ],
+    "summary": "# [hacker-news-sec] ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients \"Our initial assessment suggests the activity may involve"
+  },
+  "b42016b741755c33": {
+    "file": "corpus/security/www_schneier_com_blog_archives_2026_11_another-way-police-ar_089a25d350.md",
+    "source": "security",
+    "title": "[schneier] Another Way Police Are Locating People from Their Smartphones",
+    "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
+    "keywords": [
+      "tool collects vast quantities",
+      "locates people using information",
+      "02z another way police",
+      "smartphones penlink &# 8217",
+      "another way police",
+      "another way police",
+      "past 12 months",
+      "law enforcement officers",
+      "company documents reviewed",
+      "analyzing &# 8220"
+    ],
+    "summary": "Penlink&#8217;s Webloc is an application that  locates  people using information from the weather, gaming, email, and religious apps on their phone. The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and religious apps. Law enforcement officers can use Webloc to zero in on a map and look at all phones that were present at a specific place and time, analyzing &#8220;billions of location data points,&#8221; according to company documents re"
+  },
+  "957a12a817db237e": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-confirms-k_56bf5f6cde.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft confirms Windows security updates installation issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+    "keywords": [
+      "november 2026 security updates",
+      "october preview update",
+      "windows 11 systems",
+      "confirmed reports",
+      "2026",
+      "security",
+      "security",
+      "source",
+      "install"
+    ],
+    "summary": "# [bleeping-comp] Microsoft confirms Windows security updates installation issues Microsoft confirms Windows security updates installation issues Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update."
+  },
+  "36649bac9c7fbd29": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_hackers-plant-gsocket_5af37a8a05.md",
+    "source": "security",
+    "title": "[bleeping-comp] Hackers plant GSocket on Linux servers for persistent access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+    "keywords": [
+      "04z hackers plant gsocket",
+      "source remote access tool",
+      "hackers plant gsocket",
+      "hackers plant gsocket",
+      "gain initial access",
+      "linux servers even",
+      "abusing gsocket",
+      "persistent access",
+      "persistent access",
+      "maintain access"
+    ],
+    "summary": "# [bleeping-comp] Hackers plant GSocket on Linux servers for persistent access Hackers plant GSocket on Linux servers for persistent access Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access."
+  },
+  "54bbc751c5190c64": {
+    "file": "corpus/security/thehackernews_com_2026_11_4837-hijacked-github-accounts-ran-_b1fc427f51.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+    "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+    "keywords": [
+      "837 hijacked github accounts",
+      "837 hijacked github accounts",
+      "837 hijacked github accounts",
+      "attacker used stolen credentials",
+      "02z attacker used 4",
+      "837 github accounts",
+      "accounts could write",
+      "attacker used 4",
+      "attacker used 4",
+      "ci secret stealer"
+    ],
+    "summary": "# [hacker-news-sec] Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories It ran in at least 1,806 repositories, where the attacker has likely collected"
+  },
+  "68d724c6f0d62cb4": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_inside-ai-att_e5581e88af.md",
+    "source": "security",
+    "title": "[dark-reading] Inside an AI Attack Against a US Retailer",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+    "keywords": [
+      "typed commands failed",
+      "achieving lateral movement",
+      "us retailer",
+      "us retailer",
+      "us retailer",
+      "us retailer",
+      "generated scripts",
+      "attacker turned",
+      "ai attack",
+      "ai attack"
+    ],
+    "summary": "# [dark-reading] Inside an AI Attack Against a US Retailer Inside an AI Attack Against a US Retailer When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes."
+  },
+  "61de791f6a83ab7b": {
+    "file": "corpus/design/haydenbleasel_com_taking-away_bc6949496d.md",
+    "source": "design",
+    "title": "[sidebar-io] By taking away",
+    "url": "https://haydenbleasel.com/taking-away",
+    "keywords": [
+      "taking away software used",
+      "taking away",
+      "taking away",
+      "one layer",
+      "made like",
+      "hard part",
+      "time",
+      "source",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] By taking away Software used to be made like a painting, one layer at a time. With agents, it’s closer to sculpture, and the hard part is seeing what to keep."
+  },
+  "699a70cabe5f95a6": {
+    "file": "corpus/design/www_logohistories_com_p_airline-logos_2b1a98016d.md",
+    "source": "design",
+    "title": "[sidebar-io] Airline Logos",
+    "url": "https://www.logohistories.com/p/airline-logos",
+    "keywords": [
+      "03z airline logos",
+      "airline logos",
+      "airline logos",
+      "united ’",
+      "lufthansa ’",
+      "jet age",
+      "tulip",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Airline Logos Airline Logos From Lufthansa’s crane to United’s tulip, the stories behind twelve airline logos designed for the jet age."
+  },
+  "4d1836245733986a": {
+    "file": "corpus/design/www_youtube_com_watch_v_sz_vI8V_k1E_243c2d8a1f.md",
+    "source": "design",
+    "title": "[sidebar-io] I made a film in Excel",
+    "url": "https://www.youtube.com/watch?v=sz_vI8V_k1E",
+    "keywords": [
+      "making something",
+      "inescapable pull",
+      "testament",
+      "source",
+      "sidebar",
+      "sidebar",
+      "nothing",
+      "made",
+      "made",
+      "made"
+    ],
+    "summary": "# [sidebar-io] I made a film in Excel I made a film in Excel A testament to the inescapable pull of making something out of nothing."
+  },
+  "5bb413d8a70c1bb3": {
+    "file": "corpus/design/mattstromawn_com_writing_design-is-a-search-problem_c56278b8ee.md",
+    "source": "design",
+    "title": "[sidebar-io] Design is a search problem",
+    "url": "https://mattstromawn.com/writing/design-is-a-search-problem/",
+    "keywords": [
+      "call ‘ design ’",
+      "dark room looking",
+      "search problem",
+      "search problem",
+      "search problem",
+      "groping around",
+      "black cat",
+      "03z design",
+      "design",
+      "design"
+    ],
+    "summary": "# [sidebar-io] Design is a search problem Design is a search problem Most of what we call ‘design’ is groping around a dark room looking for a black cat."
+  },
+  "85877220bb7eb554": {
+    "file": "corpus/design/survey_devographics_com_en-US_survey_state-of-js_2026_364dae3cd3.md",
+    "source": "design",
+    "title": "[sidebar-io] State of JavaScript 2026",
+    "url": "https://survey.devographics.com/en-US/survey/state-of-js/2026",
+    "keywords": [
+      "anybody ever anticipated",
+      "javascript 2026 take",
+      "javascript survey",
+      "javascript 2026",
+      "javascript 2026",
+      "programming language",
+      "much bigger",
+      "03z state",
+      "2026",
+      "much"
+    ],
+    "summary": "# [sidebar-io] State of JavaScript 2026 State of JavaScript 2026 Take the State of JavaScript survey: a programming language that grew up much, much bigger than anybody ever anticipated."
+  },
+  "574b6600572d45b7": {
+    "file": "corpus/devops/www_cncf_io_blog_2026_11_12_gang-scheduling-and-topology-awa_9bdc664a4e.md",
+    "source": "devops",
+    "title": "[cncf] Gang scheduling and topology-aware placement for AI training in Kubernetes",
+    "url": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
+    "keywords": [
+      "kubernetes schedules pods individually",
+      "pods must land",
+      "03z gang scheduling",
+      "kubernetes &# 8217",
+      "&# 8217",
+      "gang scheduling",
+      "gang scheduling",
+      "aware placement",
+      "aware placement",
+      "aware placement"
+    ],
+    "summary": "# [cncf] Gang scheduling and topology-aware placement for AI training in Kubernetes Gang scheduling and topology-aware placement for AI training in Kubernetes Distributed AI training workloads impose complex scheduling requirements that Kubernetes&#8217;s built-in scheduler can&#8217;t meet."
+  },
+  "ff730c5080262b88": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_google-tpu-sync_utm_campaign_info_fef010d5cb.md",
+    "source": "engineering",
+    "title": "[infoq] Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+    "url": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "native c ++ library",
+      "moves kv cache blocks",
+      "data center network",
+      "sources tpu sync",
+      "sources tpu sync",
+      "sources tpu sync",
+      "sourced tpu sync",
+      "02z google open",
+      "tpus google cloud",
+      "kv cache"
+    ],
+    "summary": "# [infoq] Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs Google Cloud has open-sourced TPU Sync, a native C++ library that moves KV cache blocks and model weights between TPU HBM, host DRAM, shared storage, and the data center network."
+  },
+  "b9cec66414dddc61": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_kubernetes-argocd-linkedin_utm_ca_22a9ffdb28.md",
+    "source": "engineering",
+    "title": "[infoq] LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments",
+    "url": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "linkedin replaces argo cd",
+      "linkedin replaces argo cd",
+      "replaced argo cd",
+      "custom gitops engine",
+      "custom gitops engine",
+      "custom gitops engine",
+      "250 kubernetes clusters",
+      "gitops engine",
+      "linkedin revealed",
+      "kubernetes deployments"
+    ],
+    "summary": "# [infoq] LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments In a recent post, LinkedIn revealed it has replaced Argo CD with its own GitOps engine."
+  },
+  "754db4989c63369c": {
+    "file": "corpus/engineering/www_infoq_com_presentations_explainable-ai-llm-agent-decisio_175e8503d3.md",
+    "source": "engineering",
+    "title": "[infoq] Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
+    "url": "https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "moving past superficial chain",
+      "ai agent tool selection",
+      "ai agent tool selection",
+      "ai agent tool selection",
+      "agents pick specific tools",
+      "production monitoring workflows",
+      "discusses causal ablation",
+      "senior engineering leaders",
+      "thought narratives",
+      "software architects"
+    ],
+    "summary": "# [infoq] Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector Moving past superficial chain-of-thought narratives, he discusses causal ablation, layer activation extraction via patched vLLM engines, and production monitoring workflows for software architects and senior engineering leaders."
+  },
+  "05076ead67d18520": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_tech-debt-learning-doing_utm_camp_157413b864.md",
+    "source": "engineering",
+    "title": "[infoq] Technical Debt is Social; it is the Price of Learning by Doing",
+    "url": "https://www.infoq.com/news/2026/11/tech-debt-learning-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "technical debt increasingly becomes",
+      "02z technical debt",
+      "technical debt",
+      "technical debt",
+      "technical debt",
+      "understand code",
+      "sociotechnical challenge",
+      "ben linders",
+      "poor engineering",
+      "engineering"
+    ],
+    "summary": "Technical debt is not necessarily a sign of poor engineering. It can be the price of learning through software in use. As AI accelerates code production beyond our capacity to understand code and context, technical debt increasingly becomes a sociotechnical challenge."
+  },
+  "4ef844372b806d7b": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_logic-apps-local-cli_utm_campaign_6f56437957.md",
+    "source": "engineering",
+    "title": "[infoq] Azure Logic Apps Standard Gets a Local CLI in Preview",
+    "url": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "adding local project creation",
+      "product team pitches",
+      "logic apps standard",
+      "vs code extension",
+      "logicapp extension",
+      "local cli",
+      "local cli",
+      "local cli",
+      "workflow authoring",
+      "test scaffolding"
+    ],
+    "summary": "# [infoq] Azure Logic Apps Standard Gets a Local CLI in Preview Azure Logic Apps Standard Gets a Local CLI in Preview Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run inspection, and test scaffolding for Logic Apps Standard, work that previously required the VS Code extension."
+  },
+  "3046479c42040259": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_finprim-validation-qanda_utm_camp_8a1db92956.md",
+    "source": "engineering",
+    "title": "[infoq] Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript",
+    "url": "https://www.infoq.com/news/2026/11/finprim-validation-qanda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "one financial validation library",
+      "one financial validation library",
+      "one financial validation library",
+      "ach file generation",
+      "licensed typescript library",
+      "02z author q",
+      "one api",
+      "author q",
+      "author q",
+      "author built"
+    ],
+    "summary": "# [infoq] Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript finprim is an MIT-licensed TypeScript library that offers IBAN, BIC, card, sort code, VAT, routing number and loan functions through one API with no runtime dependencies. Its author built it after duplicated validators drifted apart across web and mobile."
+  },
+  "fe711eb0f8e6a36c": {
+    "file": "corpus/hackernews/blog_nozomi_space_posts_sw2_dock_9bd07f1454.md",
+    "source": "hackernews",
+    "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+    "url": "http://blog.nozomi.space/posts/sw2_dock/",
+    "keywords": [
+      "nintendo switch 2 dock",
+      "nintendo switch 2 dock",
+      "€ 40 usb",
+      "€ 40 usb",
+      "c hub work",
+      "c hub work",
+      "05z score",
+      "source",
+      "news"
+    ],
+    "summary": "# Making a €40 USB-C hub work as a Nintendo Switch 2 dock > Source: hackernews | Category: news | 2026-11-12T12:10:05Z Score: 25 | Comments: 2"
+  },
+  "1c4898fef8270003": {
+    "file": "corpus/hackernews/www_wheresyoured_at_jensens-bizarre-adventure_b1018be5a2.md",
+    "source": "hackernews",
+    "title": "Jensen's (Nvidia) Adventure",
+    "url": "https://www.wheresyoured.at/jensens-bizarre-adventure/",
+    "keywords": [
+      "13z score",
+      "source",
+      "nvidia",
+      "nvidia",
+      "news",
+      "jensen",
+      "jensen",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Jensen's (Nvidia) Adventure > Source: hackernews | Category: news | 2026-11-12T12:10:13Z Score: 4 | Comments: 0"
+  },
+  "a272d0178353fda2": {
+    "file": "corpus/hackernews/blog_darlinghq_org_2026_11_08_development-update-q4-2026_271f5d0fa3.md",
+    "source": "hackernews",
+    "title": "Darling Development Update – Q4 2026",
+    "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+    "keywords": [
+      "08z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "12t12"
+    ],
+    "summary": "# Darling Development Update – Q4 2026 > Source: hackernews | Category: news | 2026-11-12T12:10:08Z Score: 28 | Comments: 6"
+  },
+  "9b3fc06f05ef9ea7": {
+    "file": "corpus/hackernews/www_theguardian_com_education_2026_nov_11_ai-close-to-imposs_062f08284c.md",
+    "source": "hackernews",
+    "title": "AI makes it 'close to impossible' to assess university coursework,regulator says",
+    "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+    "keywords": [
+      "assess university coursework",
+      "assess university coursework",
+      "regulator says",
+      "regulator says",
+      "ai makes",
+      "ai makes",
+      "11z score",
+      "source",
+      "news",
+      "impossible"
+    ],
+    "summary": "# AI makes it 'close to impossible' to assess university coursework,regulator says > Source: hackernews | Category: news | 2026-11-12T12:10:11Z Score: 7 | Comments: 2"
+  },
+  "d3f7b197ee60aea0": {
+    "file": "corpus/hackernews/ipo_anthropic_com_us_a16cf66c04.md",
+    "source": "hackernews",
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "keywords": [
+      "anthropic ipo",
+      "anthropic ipo",
+      "02z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Anthropic IPO > Source: hackernews | Category: news | 2026-11-12T12:10:02Z Score: 35 | Comments: 25"
+  },
+  "a678a0fc964d0689": {
+    "file": "corpus/hackernews/blog_benjamin_ie_legocam_92ecd9859f.md",
+    "source": "hackernews",
+    "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+    "url": "https://blog.benjamin.ie/legocam",
+    "keywords": [
+      "modern mac",
+      "modern mac",
+      "lego webcam",
+      "lego webcam",
+      "07z score",
+      "working",
+      "working",
+      "source",
+      "news",
+      "legocam"
+    ],
+    "summary": "# Legocam: My Lego webcam from 2000, working on a modern Mac > Source: hackernews | Category: news | 2026-11-12T12:10:07Z Score: 26 | Comments: 21"
+  },
+  "b41aea761ea4ff0c": {
+    "file": "corpus/hackernews/www_getlazarus_org_forums_topic_17_255479a9c4.md",
+    "source": "hackernews",
+    "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+    "url": "https://www.getlazarus.org/forums/topic/17/",
+    "keywords": [
+      "05z score",
+      "working",
+      "working",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I'm Working on a FOSS Linux Pinbal Simulation Engine > Source: hackernews | Category: news | 2026-11-12T12:10:05Z Score: 59 | Comments: 24"
+  },
+  "205e425439e6b819": {
+    "file": "corpus/hackernews/pron_github_io_posts_correctness-and-complexity_e233aeb3be.md",
+    "source": "hackernews",
+    "title": "Why Writing Correct Software Is Hard",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "keywords": [
+      "writing correct software",
+      "writing correct software",
+      "02z score",
+      "source",
+      "news",
+      "hard",
+      "hard",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why Writing Correct Software Is Hard > Source: hackernews | Category: news | 2026-11-12T12:10:02Z Score: 55 | Comments: 14"
+  },
+  "0adb1eea86c7710e": {
+    "file": "corpus/hackernews/publicdomainreview_org_collection_marian-wawrzeniecki_cdfa3ad3c5.md",
+    "source": "hackernews",
+    "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+    "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+    "keywords": [
+      "1891 – 1923",
+      "1891 – 1923",
+      "slavdom unearthed",
+      "slavdom unearthed",
+      "neopagan paintings",
+      "neopagan paintings",
+      "marian wawrzeniecki",
+      "marian wawrzeniecki",
+      "10z score",
+      "source"
+    ],
+    "summary": "# Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923) > Source: hackernews | Category: news | 2026-11-12T12:10:10Z Score: 38 | Comments: 9"
+  },
+  "afe2b71a14f4d8d3": {
+    "file": "corpus/hackernews/developers_googleblog_com_a2ui-10-build-delightful-fast-reli_670d80cdae.md",
+    "source": "hackernews",
+    "title": "A2UI 1.0",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "keywords": [
+      "a2ui 1",
+      "a2ui 1",
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "> Source: hackernews | Category: news | 2026-11-12T12:10:13Z Score: 28 | Comments: 6"
+  },
+  "767139479ca45347": {
+    "file": "corpus/hackernews/github_com_janestreet_agent_skills_blob_master_socratic-tuto_462970016d.md",
+    "source": "hackernews",
+    "title": "Jane Street: Socratic Tutor",
+    "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "keywords": [
+      "socratic tutor",
+      "socratic tutor",
+      "jane street",
+      "jane street",
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Jane Street: Socratic Tutor > Source: hackernews | Category: news | 2026-11-12T12:10:03Z Score: 308 | Comments: 73"
+  },
+  "5a8ac90c304afa7e": {
+    "file": "corpus/hackernews/www_os2museum_com_wp_this-code-smells-of-desperation_a5ecc76182.md",
+    "source": "hackernews",
+    "title": "Code Smells of Desperation (2023)",
+    "url": "https://www.os2museum.com/wp/this-code-smells-of-desperation/",
+    "keywords": [
+      "code smells",
+      "code smells",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "desperation",
+      "desperation",
+      "comments",
+      "category"
+    ],
+    "summary": "# Code Smells of Desperation (2023) > Source: hackernews | Category: news | 2026-11-12T12:10:07Z Score: 3 | Comments: 0"
+  },
+  "5d205e401443ef1b": {
+    "file": "corpus/hackernews/codeberg_org_wvhulle_bootvine_540a56c30d.md",
+    "source": "hackernews",
+    "title": "A live tree of systemd jobs on the boot console",
+    "url": "https://codeberg.org/wvhulle/bootvine",
+    "keywords": [
+      "systemd jobs",
+      "systemd jobs",
+      "live tree",
+      "live tree",
+      "boot console",
+      "boot console",
+      "03z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A live tree of systemd jobs on the boot console > Source: hackernews | Category: news | 2026-11-12T12:10:03Z Score: 133 | Comments: 50"
+  },
+  "efaec460c824acb3": {
+    "file": "corpus/hackernews/www_researchgate_net_publication_319702287_THE_HISTORY_OF_EA_9ee9cdb7e2.md",
+    "source": "hackernews",
+    "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+    "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+    "keywords": [
+      "square kilometre array",
+      "square kilometre array",
+      "near bothwell",
+      "near bothwell",
+      "grote reber",
+      "grote reber",
+      "06z score",
+      "tasmania",
+      "tasmania",
+      "source"
+    ],
+    "summary": "# Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017) > Source: hackernews | Category: news | 2026-11-12T12:10:06Z Score: 9 | Comments: 0"
+  },
+  "9b4aa670afc93d4c": {
+    "file": "corpus/hackernews/jatorre_github_io_garden_36862b6ab5.md",
+    "source": "hackernews",
+    "title": "I gave an agent a lakehouse and control of my garden",
+    "url": "https://jatorre.github.io/garden/",
+    "keywords": [
+      "06z score",
+      "source",
+      "news",
+      "lakehouse",
+      "lakehouse",
+      "hackernews",
+      "gave",
+      "gave",
+      "garden",
+      "garden"
+    ],
+    "summary": "# I gave an agent a lakehouse and control of my garden > Source: hackernews | Category: news | 2026-11-12T12:10:06Z Score: 109 | Comments: 49"
+  },
+  "2f0503dedc54e42c": {
+    "file": "corpus/devto/dev_to_jrpasolini_rebuilding-my-childhood-bringing-an-msx-co_828e6223ea.md",
+    "source": "devto",
+    "title": "Rebuilding My Childhood: Bringing an MSX Computer Back to the Browser",
+    "url": "https://dev.to/jrpasolini/rebuilding-my-childhood-bringing-an-msx-computer-back-to-the-browser-366l",
+    "keywords": [
+      "surprisingly modern set",
+      "small home server",
+      "msx computer back",
+      "msx computer back",
+      "15z one computer",
+      "source",
+      "rebuilding",
+      "rebuilding",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Rebuilding My Childhood: Bringing an MSX Computer Back to the Browser One computer from the 1980s. And a surprisingly modern set of..."
+  },
+  "e33c8af801141ca3": {
+    "file": "corpus/devto/dev_to_ssukhpinder_the-array-hiding-in-every-params-call-4hf_5feefa981a.md",
+    "source": "devto",
+    "title": "The Array Hiding in Every params Call",
+    "url": "https://dev.to/ssukhpinder/the-array-hiding-in-every-params-call-4hf9",
+    "keywords": [
+      "call sites unchanged",
+      "every params call",
+      "every params call",
+      "every call",
+      "params readonlyspan",
+      "quietly allocating",
+      "name helper",
+      "line display",
+      "107 mb",
+      "array hiding"
+    ],
+    "summary": "# The Array Hiding in Every params Call A four-line display-name helper was quietly allocating an array on every call through params T[]. Switching to C# 13's params ReadOnlySpan<T> took it from 107 MB to zero, with the call sites unchanged."
+  },
+  "6c190c4f686ff1be": {
+    "file": "corpus/devto/dev_to_anas_issath_python-just-got-a-new-kind-of-string-it-c_8054bbe4aa.md",
+    "source": "devto",
+    "title": "Python Just Got a New Kind of String. It Could End a Whole Class of Security Bugs.",
+    "url": "https://dev.to/anas_issath/python-just-got-a-new-kind-of-string-it-could-end-a-whole-class-of-security-bugs-247h",
+    "keywords": [
+      "whole class",
+      "whole class",
+      "security bugs",
+      "security bugs",
+      "pep 750",
+      "one reason",
+      "new kind",
+      "new kind",
+      "made safe",
+      "could end"
+    ],
+    "summary": "# Python Just Got a New Kind of String. It Could End a Whole Class of Security Bugs. t-strings (PEP 750) are the biggest change to Python string formatting since f-strings, and they exist for one reason."
+  },
+  "7a8d79329207dbe6": {
+    "file": "corpus/devto/dev_to_fantomiald_i-run-all-my-claude-code-sessions-from-a-p_5ef204561a.md",
+    "source": "devto",
+    "title": "I run all my Claude Code sessions from a pixel art office",
+    "url": "https://dev.to/fantomiald/i-run-all-my-claude-code-sessions-from-a-pixel-art-office-1mgn",
+    "keywords": [
+      "writing tests ,...",
+      "pixel art office",
+      "pixel art office",
+      "claude code sessions",
+      "claude code sessions",
+      "source",
+      "six",
+      "run",
+      "run",
+      "reactions"
+    ],
+    "summary": "# I run all my Claude Code sessions from a pixel art office > Source: devto | Category: news | 2026-11-12T12:10:17Z Most days I have six to ten Claude Code sessions open."
+  },
+  "41ea45dca2b9e9f3": {
+    "file": "corpus/devto/dev_to_ogurexxx_an-ssh-honeypot-on-my-own-server-24000-sessi_bdc517ccae.md",
+    "source": "devto",
+    "title": "An SSH honeypot on my own server: 24,000 sessions in five days and one very stubborn bot",
+    "url": "https://dev.to/ogurexxx/an-ssh-honeypot-on-my-own-server-24000-sessions-in-five-days-and-one-very-stubborn-bot-174n",
+    "keywords": [
+      "single bot making 88",
+      "stubborn bot",
+      "stubborn bot",
+      "stole 2",
+      "ssh keys",
+      "ssh honeypot",
+      "ssh honeypot",
+      "second firewall",
+      "five days",
+      "five days"
+    ],
+    "summary": "# An SSH honeypot on my own server: 24,000 sessions in five days and one very stubborn bot > Source: devto | Category: news | 2026-11-12T12:10:15Z What bots do after they log in: passwords, a single bot making 88% of the noise, SSH keys, miners, a tarpit that stole 2,000 hours, and a second firewall I did not know about."
+  },
+  "68e5d6f715cff24a": {
+    "file": "corpus/devto/dev_to_t1m4lc_how-i-built-a-multi-country-price-comparator-a_171d7ec6ba.md",
+    "source": "devto",
+    "title": "How I built a multi-country price comparator as a solo dev: static-first, Workers, D1 and a lot of feed matching",
+    "url": "https://dev.to/t1m4lc/how-i-built-a-multi-country-price-comparator-as-a-solo-dev-static-first-workers-d1-and-a-lot-of-1ff8",
+    "keywords": [
+      "country price comparator",
+      "country price comparator",
+      "solo dev",
+      "solo dev",
+      "feed matching",
+      "feed matching",
+      "14z architecture",
+      "workers",
+      "workers",
+      "static"
+    ],
+    "summary": "# How I built a multi-country price comparator as a solo dev: static-first, Workers, D1 and a lot of feed matching > Source: devto | Category: news | 2026-11-12T12:10:14Z Architecture and lessons from building a sports gear price comparator across 15 countries"
+  },
+  "3e3636fe2b0c7577": {
+    "file": "corpus/devto/dev_to_kkhdevs_a-pod-that-ran-for-six-months-crash-looped-on_bdbebc30b5.md",
+    "source": "devto",
+    "title": "A pod that ran for six months crash-looped on its first restart",
+    "url": "https://dev.to/kkhdevs/a-pod-that-ran-for-six-months-crash-looped-on-its-first-restart-2cii",
+    "keywords": [
+      "late september pulled 4",
+      "six months crash",
+      "six months crash",
+      "alert fired unread",
+      "removed --",
+      "one restart",
+      "imagepullpolicy always",
+      "first restart",
+      "first restart",
+      "45 days"
+    ],
+    "summary": "# A pod that ran for six months crash-looped on its first restart coturn:latest with imagePullPolicy Always: one restart in late September pulled 4.18.0, which had removed --no-dtls. 280 restarts a day for 45 days while the alert fired unread."
+  },
+  "9916ba3b5809be46": {
+    "file": "corpus/devto/dev_to_asad_ilyas_1be51af4b361df_lessons-from-building-30-sm_eb09289aa9.md",
+    "source": "devto",
+    "title": "Lessons from building 30 small web tools in a week",
+    "url": "https://dev.to/asad_ilyas_1be51af4b361df/lessons-from-building-30-small-web-tools-in-a-week-29f",
+    "keywords": [
+      "quick base64 encoder",
+      "first online tool",
+      "week ago",
+      "week",
+      "week",
+      "token",
+      "source",
+      "reactions",
+      "news",
+      "needed"
+    ],
+    "summary": "# Lessons from building 30 small web tools in a week > Source: devto | Category: news | 2026-11-12T12:10:14Z The first online tool I..."
+  },
+  "cc0e0c2af73b8ab4": {
+    "file": "corpus/devto/dev_to_aheadkit_standing-out-in-tech-is-the-wrong-goal-being_2c548bfef2.md",
+    "source": "devto",
+    "title": "Standing Out in Tech Is the Wrong Goal. Being Findable Is.",
+    "url": "https://dev.to/aheadkit/standing-out-in-tech-is-the-wrong-goal-being-findable-is-5g46",
+    "keywords": [
+      "wrong goal",
+      "wrong goal",
+      "week —...",
+      "truly stand",
+      "16z francis",
+      "commented post",
+      "tech ?\"",
+      "post",
+      "tech",
+      "tech"
+    ],
+    "summary": "# Standing Out in Tech Is the Wrong Goal. Francis's post \"How do you truly stand out in Tech?\" is the most-commented post on DEV this week —..."
+  },
+  "3b6da086a26db27a": {
+    "file": "corpus/devto/dev_to_qwerta_the-project-stops-at-80-the-moment-you-stop-do_9ee701034b.md",
+    "source": "devto",
+    "title": "The project stops at 80% the moment you stop doubting you can finish it",
+    "url": "https://dev.to/qwerta/the-project-stops-at-80-the-moment-you-stop-doubting-you-can-finish-it-2ii8",
+    "keywords": [
+      "stop doubting",
+      "stop doubting",
+      "seen written",
+      "project stops",
+      "project stops",
+      "last post",
+      "csm18 answered",
+      "source",
+      "something",
+      "reactions"
+    ],
+    "summary": "# The project stops at 80% the moment you stop doubting you can finish it > Source: devto | Category: news | 2026-11-12T12:10:16Z @csm18 answered the question at the end of my last post with something I have not seen written down..."
+  },
+  "80f41b07aab0b6fc": {
+    "file": "corpus/devto/dev_to_mohameedelsaeid_aletheia-020-what-a-full-gap-scan-fou_70adb6ebbc.md",
+    "source": "devto",
+    "title": "Aletheia 0.2.0: what a full gap scan found in a local memory hub for AI coding tools",
+    "url": "https://dev.to/mohameedelsaeid/aletheia-020-what-a-full-gap-scan-found-in-a-local-memory-hub-for-ai-coding-tools-54po",
+    "keywords": [
+      "full gap scan found",
+      "full gap scan found",
+      "one ai coding agent",
+      "ai coding tools",
+      "ai coding tools",
+      "local memory hub",
+      "local memory hub",
+      "aletheia 0",
+      "aletheia 0"
+    ],
+    "summary": "# Aletheia 0.2.0: what a full gap scan found in a local memory hub for AI coding tools > Source: devto | Category: news | 2026-11-12T12:10:17Z If you use more than one AI coding agent, you have probably re-explained the same project to each of..."
+  },
+  "e57982fb3c9a5bb5": {
+    "file": "corpus/devto/dev_to_dumebii_6-n8n-alternatives-for-teams-outgrowing-manua_1a1fe01ff7.md",
+    "source": "devto",
+    "title": "6 n8n Alternatives For Teams Outgrowing Manual Flow-building",
+    "url": "https://dev.to/dumebii/6-n8n-alternatives-for-teams-outgrowing-manual-flow-building-3g9l",
+    "keywords": [
+      "teams outgrowing manual flow",
+      "teams outgrowing manual flow",
+      "raise different questions",
+      "6 n8n alternatives",
+      "6 n8n alternatives",
+      "n8n",
+      "source",
+      "reactions",
+      "quick",
+      "news"
+    ],
+    "summary": "# 6 n8n Alternatives For Teams Outgrowing Manual Flow-building A handful of flows are quick to build in n8n. A few of them, however, raise different questions: who..."
+  },
+  "a6aea8c745adc46a": {
+    "file": "corpus/devto/dev_to_alexr_cortexdb-agent-memory-and-a-knowledge-graph-in-_86986e6c85.md",
+    "source": "devto",
+    "title": "CortexDB: agent memory and a knowledge graph in one SQLite file",
+    "url": "https://dev.to/alexr/cortexdb-agent-memory-and-a-knowledge-graph-in-one-sqlite-file-1p5n",
+    "keywords": [
+      "one sqlite file",
+      "one sqlite file",
+      "vector store",
+      "knowledge graph",
+      "knowledge graph",
+      "facts ...",
+      "agent memory",
+      "agent memory",
+      "source",
+      "service"
+    ],
+    "summary": "# CortexDB: agent memory and a knowledge graph in one SQLite file > Source: devto | Category: news | 2026-11-12T12:10:17Z CortexDB   Agent memory usually means a service to run, a vector store to pay for, and facts..."
+  },
+  "b96f4c5f161d3846": {
+    "file": "corpus/devto/dev_to_medusa_08005_lost-3jag_717119de9c.md",
+    "source": "devto",
+    "title": "LOST",
+    "url": "https://dev.to/medusa_08005/lost-3jag",
+    "keywords": [
+      "public learning",
+      "first blog",
+      "feel accountable",
+      "want",
+      "thingy",
+      "source",
+      "reactions",
+      "news",
+      "lost",
+      "lost"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-12T12:10:16Z This is my first blog, and i just want to do this \"public learning\" thingy so i feel accountable to... Reactions: 0"
+  },
+  "350c11eeb861c3a8": {
+    "file": "corpus/devto/dev_to_wst2002rk_i-asked-for-one-more-way-ai-code-is-almost-_8562e10a0c.md",
+    "source": "devto",
+    "title": "I asked for one more way AI code is 'almost right'. You gave me seven.",
+    "url": "https://dev.to/wst2002rk/i-asked-for-one-more-way-ai-code-is-almost-right-you-gave-me-seven-3ien",
+    "keywords": [
+      "7 ways ai code",
+      "way ai code",
+      "way ai code",
+      "almost right '.",
+      "almost right \".",
+      "almost right \".",
+      "13z last week",
+      "8th way",
+      "wrote",
+      "source"
+    ],
+    "summary": "# I asked for one more way AI code is \"almost right\". Last week I wrote about 7 ways AI code is \"almost right\". At the end I asked you for an 8th way and..."
+  },
+  "20328467e47ca8f2": {
+    "file": "corpus/devto/dev_to_equinusocio_paradox-of-choice-in-design-systems-167a_df7c64f63d.md",
+    "source": "devto",
+    "title": "Paradox of choice in design systems.",
+    "url": "https://dev.to/equinusocio/paradox-of-choice-in-design-systems-167a",
+    "keywords": [
+      "minimize unnecessary decisions",
+      "good design system",
+      "design systems",
+      "design systems",
+      "maximize choices",
+      "source",
+      "reactions",
+      "paradox",
+      "paradox",
+      "news"
+    ],
+    "summary": "# Paradox of choice in design systems. A good design system shouldn't maximize choices. It should minimize unnecessary decisions."
+  },
+  "029a17e3de702e42": {
+    "file": "corpus/devto/dev_to_annavi11arrea1_ultimate-ai-roast-168b_6eed021ca3.md",
+    "source": "devto",
+    "title": "Ultimate AI Roast! 😂😹",
+    "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
+    "keywords": [
+      "ultimate ai roast",
+      "ultimate ai roast",
+      "favorite ai",
+      "roast",
+      "try",
+      "trickell",
+      "thanks",
+      "source"
+    ],
+    "summary": "I asked my favorite AI to Roast me. Thanks @trickell for this idea. You need to try this with your..."
+  },
+  "d24d6bd4334bb012": {
+    "file": "corpus/devto/dev_to_robbie_cox_i-built-a-search-engine-from-scratch-to-sh_26d6851410.md",
+    "source": "devto",
+    "title": "I built a search engine from scratch to show my kids how Google finds things so fast",
+    "url": "https://dev.to/robbie_cox/i-built-a-search-engine-from-scratch-to-show-my-kids-how-google-finds-things-so-fast-oa6",
+    "keywords": [
+      "google finds things",
+      "google finds things",
+      "search engine",
+      "search engine",
+      "million pages",
+      "source",
+      "show",
+      "show",
+      "scratch",
+      "scratch"
+    ],
+    "summary": "# I built a search engine from scratch to show my kids how Google finds things so fast How does a search box find one word in a million pages in the blink of an eye? It certainly isn't..."
+  },
+  "9342f6dc48aeb870": {
+    "file": "corpus/devto/dev_to_lymah_hacktoberfest-2026-four-years-in-five-projects-_acb95e3760.md",
+    "source": "devto",
+    "title": "Hacktoberfest 2026: Four Years In, Five Projects Built, and a Different Kind of October",
+    "url": "https://dev.to/lymah/hacktoberfest-2026-four-years-in-five-projects-built-and-a-different-kind-of-october-4o50",
+    "keywords": [
+      "five projects built",
+      "five projects built",
+      "17z every october",
+      "hacktoberfest gives",
+      "four years",
+      "four years",
+      "different kind",
+      "different kind",
+      "another reason",
+      "october ..."
+    ],
+    "summary": "# Hacktoberfest 2026: Four Years In, Five Projects Built, and a Different Kind of October > Source: devto | Category: news | 2026-11-12T12:10:17Z Every October, Hacktoberfest gives me another reason to show up for open source."
+  },
+  "9d278054ad995dd1": {
+    "file": "corpus/devto/dev_to_ofri-peretz_three-of-my-planned-articles-cited-number_24290c9ee4.md",
+    "source": "devto",
+    "title": "Three of My Planned Articles Cited Numbers That Do Not Exist",
+    "url": "https://dev.to/ofri-peretz/three-of-my-planned-articles-cited-numbers-that-do-not-exist-3n00",
+    "keywords": [
+      "planned articles cited numbers",
+      "planned articles cited numbers",
+      "audited twelve planned pieces",
+      "two figures appear",
+      "result file anywhere",
+      "one real number",
+      "nothing recomputes prose",
+      "one contradicts",
+      "nothing caught",
+      "wrong set"
+    ],
+    "summary": "# Three of My Planned Articles Cited Numbers That Do Not Exist I audited twelve planned pieces against the benchmark JSON they cite. Two figures appear in no result file anywhere, one contradicts the source it names, and one real number is attached to the wrong set."
+  },
+  "816fd4ce44e77198": {
+    "file": "corpus/devto/dev_to_6b3fdee77666d47a6be3_how-to-quote-freelance-work-with_300ecce9c8.md",
+    "source": "devto",
+    "title": "How to Quote Freelance Work Without Guessing: Find Your Floor Rate, Then Send a Quote in 10 Minutes",
+    "url": "https://dev.to/_6b3fdee77666d47a6be3/how-to-quote-freelance-work-without-guessing-find-your-floor-rate-then-send-a-quote-in-10-minutes-2aae",
+    "keywords": [
+      "hardest part",
+      "floor rate",
+      "floor rate",
+      "10 minutes",
+      "10 minutes",
+      "work",
+      "work",
+      "source",
+      "send"
+    ],
+    "summary": "# How to Quote Freelance Work Without Guessing: Find Your Floor Rate, Then Send a Quote in 10 Minutes > Source: devto | Category: news | 2026-11-12T12:10:16Z The hardest part of freelancing is rarely the work."
+  },
+  "35c285b69730c36d": {
+    "file": "corpus/devto/dev_to_nadaboulaares_why-fuzzy-matching-fails-eu-verificatio_7b12c5adc4.md",
+    "source": "devto",
+    "title": "Why fuzzy matching fails EU Verification of Payee, and what to do about Greek, Cyrillic and Arabic names",
+    "url": "https://dev.to/nadaboulaares/why-fuzzy-matching-fails-eu-verification-of-payee-and-what-to-do-about-greek-cyrillic-and-arabic-29aa",
+    "keywords": [
+      "euro credit ...",
+      "euro area",
+      "every bank",
+      "arabic names",
+      "arabic names",
+      "source",
+      "reactions",
+      "payee",
+      "payee",
+      "payee"
+    ],
+    "summary": "# Why fuzzy matching fails EU Verification of Payee, and what to do about Greek, Cyrillic and Arabic names > Source: devto | Category: news | 2026-11-12T12:10:15Z Since 9 October 2025, every bank in the euro area has to check the payee's name before a euro credit..."
+  },
+  "e99a270370917949": {
+    "file": "corpus/devto/dev_to_hadil_enterprise-sso-for-b2b-saas-how-to-prepare-befo_33bb2273df.md",
+    "source": "devto",
+    "title": "Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks",
+    "url": "https://dev.to/hadil/enterprise-sso-for-b2b-saas-how-to-prepare-before-your-first-big-customer-asks-50p6",
+    "keywords": [
+      "product attracts larger customers",
+      "first big customer asks",
+      "first big customer asks",
+      "b2b saas often becomes",
+      "14z enterprise sso",
+      "b2b saas",
+      "b2b saas",
+      "enterprise sso",
+      "enterprise sso",
+      "source"
+    ],
+    "summary": "# Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks > Source: devto | Category: news | 2026-11-12T12:10:14Z Enterprise SSO for B2B SaaS often becomes a requirement as your product attracts larger customers."
+  },
+  "ac4aee81d09635c7": {
+    "file": "corpus/devto/dev_to_aheadkit_i-cloned-a-repo-and-it-ran-code-before-i-rea_b63ce19da9.md",
+    "source": "devto",
+    "title": "I Cloned a Repo and It Ran Code Before I Read a Single Line",
+    "url": "https://dev.to/aheadkit/i-cloned-a-repo-and-it-ran-code-before-i-read-a-single-line-1530",
+    "keywords": [
+      "typed exactly ...",
+      "single line",
+      "single line",
+      "ran code",
+      "ran code",
+      "never asked",
+      "file appeared",
+      "14z 03",
+      "source"
+    ],
+    "summary": "# I Cloned a Repo and It Ran Code Before I Read a Single Line > Source: devto | Category: news | 2026-11-12T12:10:14Z 03:03 in the morning, and a file appeared on my machine that I never asked for."
+  },
+  "99bc5acbf4f96568": {
+    "file": "corpus/devto/dev_to_motionmind2007_can-you-render-jsx-on-windows-without-_893b353445.md",
+    "source": "devto",
+    "title": "Can You Render JSX on Windows Without a Browser? I Built an Engine to Find Out.",
+    "url": "https://dev.to/motionmind2007/can-you-render-jsx-on-windows-without-a-browser-i-built-an-engine-to-find-out-5a3p",
+    "keywords": [
+      "windows without",
+      "windows without",
+      "windows without",
+      "render jsx",
+      "render jsx",
+      "render jsx",
+      "source",
+      "reactions",
+      "news",
+      "find"
+    ],
+    "summary": "# Can You Render JSX on Windows Without a Browser? Can You Render JSX on Windows Without a Browser? I Built an Engine to Find Out."
+  },
+  "a40e7e00eaf87d7c": {
+    "file": "corpus/devto/dev_to_antonioprosperi2svg_bugaidev-writing-docs-at-night-ma_eb144cb116.md",
+    "source": "devto",
+    "title": "bug.ai.dev: writing docs at night made me find 11 real bugs in my own library",
+    "url": "https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c",
+    "keywords": [
+      "find 11 real bugs",
+      "find 11 real bugs",
+      "14z hi everyone",
+      "writing docs",
+      "writing docs",
+      "night made",
+      "night made",
+      "factory worker",
+      "work"
+    ],
+    "summary": "# bug.ai.dev: writing docs at night made me find 11 real bugs in my own library > Source: devto | Category: news | 2026-11-12T12:10:14Z Hi everyone, I'm Antonio."
+  },
+  "3e864d49d223c6a0": {
+    "file": "corpus/devto/dev_to_giftclub_why-a-free-telegram-stars-generator-cant-exi_4c7f9f9f42.md",
+    "source": "devto",
+    "title": "Why a 'free Telegram Stars generator' can't exist: a look at the Bot API",
+    "url": "https://dev.to/giftclub/why-a-free-telegram-stars-generator-cant-exist-a-look-at-the-bot-api-1a8b",
+    "keywords": [
+      "find bots promising 5",
+      "free telegram stars generator",
+      "free telegram stars generator",
+      "17z search telegram",
+      "free stars",
+      "000 stars",
+      "channel ,...",
+      "bot api",
+      "bot api",
+      "source"
+    ],
+    "summary": "# Why a \"free Telegram Stars generator\" can't exist: a look at the Bot API > Source: devto | Category: news | 2026-11-12T12:10:17Z Search Telegram for \"free Stars\" and you'll find bots promising 5,000 Stars for joining a channel,..."
+  },
+  "9315891d6f212a5c": {
+    "file": "corpus/devto/dev_to_sylwia-lask_mcp-is-dead-simple-and-thats-exactly-the-_9ff6b9cc4f.md",
+    "source": "devto",
+    "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+    "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+    "keywords": [
+      "requires secret knowledge",
+      "mysterious technology",
+      "implement ?...",
+      "dead simple",
+      "dead simple",
+      "source",
+      "reactions",
+      "problem",
+      "problem",
+      "news"
+    ],
+    "summary": "And That's Exactly the Problem What exactly is MCP? Is it some mysterious technology that requires secret knowledge to implement?..."
+  },
+  "8fc84eb8483cf020": {
+    "file": "corpus/devto/dev_to_mehar_usama_6_building-a-pdf-signer-that-never-upload_e19729f335.md",
+    "source": "devto",
+    "title": "Building a PDF signer that never uploads your file",
+    "url": "https://dev.to/mehar_usama_6/building-a-pdf-signer-that-never-uploads-your-file-4mba",
+    "keywords": [
+      "taking feedback without exposing",
+      "pdf signing tool",
+      "never uploads",
+      "never uploads",
+      "mapping clicks",
+      "latin text",
+      "handling non",
+      "pdf signer",
+      "pdf signer",
+      "pdf coordinates"
+    ],
+    "summary": "# Building a PDF signer that never uploads your file A free, browser-only PDF signing tool with pdf.js and pdf-lib. Mapping clicks to PDF coordinates, handling non-Latin text, and taking feedback without exposing a token."
+  },
+  "1a078ba47b4aba18": {
+    "file": "corpus/devto/dev_to_seankerwin_care-about-the-input-not-the-code-2i6o_9f9b03a7aa.md",
+    "source": "devto",
+    "title": "Care About the Input, Not the Code",
+    "url": "https://dev.to/seankerwin/care-about-the-input-not-the-code-2i6o",
+    "keywords": [
+      "weeks ago ...",
+      "read every change",
+      "every time",
+      "wrote",
+      "source",
+      "reactions",
+      "news",
+      "meant",
+      "lands",
+      "january"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-12T12:10:16Z In January I wrote that I read every change before it lands, every time. A few weeks ago..."
+  },
+  "d10fa507bd16c41d": {
+    "file": "corpus/devto/dev_to_alexgeorgiev17_clickhouse-2610s-string-filter-during-_f458300081.md",
+    "source": "devto",
+    "title": "ClickHouse 26.10's string filter during scan cuts a selective LIKE query's memory 25-fold",
+    "url": "https://dev.to/alexgeorgiev17/clickhouse-2610s-string-filter-during-scan-cuts-a-selective-like-querys-memory-25-fold-228j",
+    "keywords": [
+      "selective like query",
+      "selective like query",
+      "selective like query",
+      "new apply_string_filters_during_scan setting",
+      "equality got none",
+      "peak memory dropped",
+      "benchmarked clickhouse 26",
+      "memory 25",
+      "memory 25",
+      "clickhouse 26"
+    ],
+    "summary": "# ClickHouse 26.10's string filter during scan cuts a selective LIKE query's memory 25-fold > Source: devto | Category: news | 2026-11-12T12:10:15Z I benchmarked ClickHouse 26.10's new apply_string_filters_during_scan setting against 26.9: a selective LIKE query's peak memory dropped from 37.6MB to 1.5MB, but a plain WHERE equality got none of it until I rewrote it as PREWHERE."
+  },
+  "a8fb3ad88864b046": {
+    "file": "corpus/devto/dev_to_manishpatel00_designing-rolling-deploy-safe-async-res_368961af57.md",
+    "source": "devto",
+    "title": "Designing Rolling-Deploy-Safe Async REST APIs: Returning Release Evidence IDs in GitLab",
+    "url": "https://dev.to/manishpatel00/designing-rolling-deploy-safe-async-rest-apis-returning-release-evidence-ids-in-gitlab-30f3",
+    "keywords": [
+      "safe async rest apis",
+      "safe async rest apis",
+      "returning release evidence ids",
+      "returning release evidence ids",
+      "asynchronous api endpoint",
+      "give clients",
+      "designing rolling",
+      "designing rolling",
+      "way",
+      "track"
+    ],
+    "summary": "# Designing Rolling-Deploy-Safe Async REST APIs: Returning Release Evidence IDs in GitLab > Source: devto | Category: news | 2026-11-12T12:10:15Z An asynchronous API endpoint should give clients a way to identify and track the resource being..."
+  },
+  "6a21f0ae8d81b11a": {
+    "file": "corpus/devto/dev_to_amananandrai_what-got-more-real-in-101-indian-monumen_d1c09c86e1.md",
+    "source": "devto",
+    "title": "Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js",
+    "url": "https://dev.to/amananandrai/what-got-more-real-in-101-indian-monuments-built-from-code-3edn",
+    "keywords": [
+      "14z last time",
+      "realistic stone",
+      "realistic stone",
+      "proudly showed",
+      "part 2",
+      "part 2",
+      "finer details",
+      "finer details",
+      "time",
+      "three"
+    ],
+    "summary": "# Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js Last time, I proudly showed you 101 Indian monuments built entirely from code. This time I have to..."
+  },
+  "55b1c6884813dc97": {
+    "file": "corpus/devto/dev_to_necoz_a-10-years-old-developer-who-has-become-a-devto_bee8e0ef63.md",
+    "source": "devto",
+    "title": "A 10 years old developer who has become a DEV.to Trusted Member! 😱",
+    "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
+    "keywords": [
+      "10 years old developer",
+      "10 years old developer",
+      "trusted member badge",
+      "trusted member",
+      "trusted member",
+      "still",
+      "source"
+    ],
+    "summary": "# A 10 years old developer who has become a DEV.to Trusted Member! I still can't believe it! I just noticed the Trusted Member badge on my DEV.to profile, and I'm..."
+  },
+  "e6bde7a8beb23181": {
+    "file": "corpus/devto/dev_to_cedric_bonjour_why-spreadsheets-corrupt-csv-files-and_8341434680.md",
+    "source": "devto",
+    "title": "Why Spreadsheets Corrupt CSV Files (And Why Plain-Text Matters)",
+    "url": "https://dev.to/cedric_bonjour/why-spreadsheets-corrupt-csv-files-and-why-plain-text-matters-1k9e",
+    "keywords": [
+      "data exchange — simple",
+      "spreadsheets corrupt csv files",
+      "spreadsheets corrupt csv files",
+      "16z csv files",
+      "text matters",
+      "text matters",
+      "incredibly versatile",
+      "universal",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Why Spreadsheets Corrupt CSV Files (And Why Plain-Text Matters) > Source: devto | Category: news | 2026-11-12T12:10:16Z CSV files are the backbone of data exchange—simple, universal, and incredibly versatile."
+  },
+  "c8cc63ca6f64ac86": {
+    "file": "corpus/devto/dev_to_suraj_nandan_impostor-syndrome-minus-the-pep-talk-24m_6f8c06c08e.md",
+    "source": "devto",
+    "title": "Impostor syndrome, minus the pep talk",
+    "url": "https://dev.to/suraj_nandan/impostor-syndrome-minus-the-pep-talk-24mc",
+    "keywords": [
+      "everyone feels like",
+      "telling ...",
+      "pep talk",
+      "pep talk",
+      "impostor syndrome",
+      "impostor syndrome",
+      "impostor .\"",
+      "true",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Impostor syndrome, minus the pep talk You've heard \"everyone feels like an impostor.\" That's true, and it isn't very helpful."
+  },
+  "5d43e979bc864d40": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-how-do-you-become-successful-at-e_70cbdc357f.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr: How Do You Become Successful at Enterprise Sales? What Are the Biggest Challenges People Experience?",
+    "url": "https://www.saastr.com/dear-saastr-how-do-you-become-successful-at-enterprise-sales-what-are-the-biggest-challenges-people-experience/",
+    "keywords": [
+      "biggest challenges people experience",
+      "biggest challenges people experience",
+      "biggest challenges people experience",
+      "... continue reading",
+      "many founders want",
+      "03z dear saastr",
+      "done enterprise sales",
+      "biggest thing",
+      "dear saastr",
+      "dear saastr"
+    ],
+    "summary": "Dear SaaStr: How Do You Become Successful at Enterprise Sales? If you haven&#8217;t done enterprise sales yourself before, the biggest thing to understand: you can do it. They want to focus then on the funnel, A/B testing, optimization, SEO, SEM, etc."
+  },
+  "cca62095583168bf": {
+    "file": "corpus/ai-research/openai_com_business_customer-stories_holidays-extras-codex_4922ca6fb0.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "keywords": [
+      "turning customer expertise",
+      "higher booking conversion",
+      "01z holiday extras",
+      "holiday extras",
+      "holiday extras",
+      "holiday extras",
+      "new possibilities",
+      "better apps",
+      "source",
+      "rethinking"
+    ],
+    "summary": "# [openai-blog] Holiday Extras is rethinking what it can build with Codex Holiday Extras is rethinking what it can build with Codex With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+  },
+  "1f1143e5e20ea804": {
+    "file": "corpus/ai-research/openai_com_index_children-first-declaration_d7c1da8cb7.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "keywords": [
+      "work supports shared tools",
+      "01z supporting research",
+      "safety openai commits",
+      "young people",
+      "supporting research",
+      "supporting research",
+      "measure risks",
+      "children ’",
+      "children ’",
+      "children ’"
+    ],
+    "summary": "# [openai-blog] Supporting research on AI and children’s safety OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+  },
+  "842eb3ba842f0bc1": {
+    "file": "corpus/finance/news_crunchbase_com_ai_startup-founders-reduce-platform-risk_e93eed49af.md",
+    "source": "finance",
+    "title": "[crunchbase] How Founders Can Reduce Platform Risk Before It Threatens Growth",
+    "url": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
+    "keywords": [
+      "testing alternative access",
+      "disrupt customer access",
+      "reduce platform risk",
+      "reduce platform risk",
+      "reduce platform risk",
+      "threatens growth founders",
+      "infrastructure risk",
+      "threatens growth",
+      "threatens growth",
+      "yakov filippenko"
+    ],
+    "summary": "# [crunchbase] How Founders Can Reduce Platform Risk Before It Threatens Growth How Founders Can Reduce Platform Risk Before It Threatens Growth Founders should treat dependence on app stores as infrastructure risk, since a sudden removal can disrupt customer access, subscriptions and revenue with no reliable path to reinstatement."
+  },
+  "87466614b01ed352": {
+    "file": "corpus/finance/news_crunchbase_com_venture_protein-startups-raise-funding-m_83174f812d.md",
+    "source": "finance",
+    "title": "[crunchbase] VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
+    "url": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
+    "keywords": [
+      "favor recent startup investment",
+      "fake meat falls",
+      "fake meat falls",
+      "fake meat falls",
+      "still chasing protein",
+      "still chasing protein",
+      "still chasing protein",
+      "meat substitutes",
+      "added protein",
+      "toward stuffing"
+    ],
+    "summary": "# [crunchbase] VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor It’s a fad that’s obvious on supermarket shelves, where startups and established brands alike relentlessly tout the added protein in their noodles, pancakes, cereals, energy bars, popcorn and so on."
   }
 }
