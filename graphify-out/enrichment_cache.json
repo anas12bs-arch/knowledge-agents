@@ -864766,5 +864766,2453 @@
       "toward stuffing"
     ],
     "summary": "# [crunchbase] VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor It’s a fad that’s obvious on supermarket shelves, where startups and established brands alike relentlessly tout the added protein in their noodles, pancakes, cereals, energy bars, popcorn and so on."
+  },
+  "87f26390fcd11c0e": {
+    "file": "corpus/security/thehackernews_com_2026_11_threatsday-59-linux-kernel-bugs-fa_897c1c6b0f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+    "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+    "keywords": [
+      "59 linux kernel bugs",
+      "59 linux kernel bugs",
+      "59 linux kernel bugs",
+      "trouble starts right",
+      "build attacks faster",
+      "using fake websites",
+      "trusted tools",
+      "surprising amount",
+      "stolen access",
+      "simple things"
+    ],
+    "summary": "# [hacker-news-sec] ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be."
+  },
+  "0e08a89bf5bc9c1f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_apify-rotates-api-tok_92e20603fc.md",
+    "source": "security",
+    "title": "[bleeping-comp] Apify rotates API tokens, prompts 2FA resets after breach",
+    "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+    "keywords": [
+      "apify rotates api tokens",
+      "apify rotates api tokens",
+      "rotated critical internal secrets",
+      "prompts 2fa resets",
+      "prompts 2fa resets",
+      "prompts 2fa resets",
+      "party oauth connections",
+      "detecting unauthorized access",
+      "internal systems",
+      "breach apify"
+    ],
+    "summary": "# [bleeping-comp] Apify rotates API tokens, prompts 2FA resets after breach Apify rotates API tokens, prompts 2FA resets after breach Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems."
+  },
+  "e0149eccac6c0e0c": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_police-dismantles-goo_438aee7111.md",
+    "source": "security",
+    "title": "[bleeping-comp] Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+    "keywords": [
+      "stealc malware infrastructure europol",
+      "43z police dismantle gootloader",
+      "stealc malware infrastructure",
+      "stealc malware infrastructure",
+      "stealc malware operations",
+      "police dismantle gootloader",
+      "police dismantle gootloader",
+      "law enforcement partners",
+      "seized hundreds",
+      "nine countries"
+    ],
+    "summary": "# [bleeping-comp] Police dismantle Gootloader, CastleRAT, StealC malware infrastructure Police dismantle Gootloader, CastleRAT, StealC malware infrastructure Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations."
+  },
+  "10d7f8d6888ae6fc": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_microsoft-recent-win_52b2d8e10b.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+    "keywords": [
+      "windows updates released since",
+      "causing sql server performance",
+      "october 2026 patch tuesday",
+      "stability issues",
+      "43z microsoft",
+      "2026",
+      "microsoft",
+      "microsoft",
+      "source",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Microsoft: Recent Windows updates cause SQL Server performance issues Microsoft: Recent Windows updates cause SQL Server performance issues Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues."
+  },
+  "b8e7a3f76b0d398a": {
+    "file": "corpus/security/thehackernews_com_2026_11_sckit-malware-targets-screenconnec_0c7b196fe2.md",
+    "source": "security",
+    "title": "[hacker-news-sec] SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+    "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+    "keywords": [
+      "potential msp attack paths",
+      "potential msp attack paths",
+      "potential msp attack paths",
+      "patched critical security flaw",
+      "remote access software",
+      "adversary pursuit group",
+      "new vulnerability",
+      "cvss score",
+      "blackpoint cyber",
+      "apg ),"
+    ],
+    "summary": "# [hacker-news-sec] SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged."
+  },
+  "2043a88ffd73adb4": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_apache-http-server-pa_e1501a330e.md",
+    "source": "security",
+    "title": "[bleeping-comp] Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+    "keywords": [
+      "obtain remote code execution",
+      "apache http server could",
+      "unauthenticated attacker",
+      "rce ).",
+      "critical vulnerability",
+      "2 module",
+      "http",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Apache HTTP Server patches critical HTTP/2 remote code execution flaw Apache HTTP Server patches critical HTTP/2 remote code execution flaw A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE)."
+  },
+  "3dffa468c06bab8e": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-windows-signdrop-_1dc09f8d24.md",
+    "source": "security",
+    "title": "[bleeping-comp] New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+    "keywords": [
+      "new windows signdrop zero",
+      "new windows signdrop zero",
+      "new windows zero",
+      "nightmare eclipse",
+      "day exploit",
+      "also known",
+      "source",
+      "security",
+      "security",
+      "released"
+    ],
+    "summary": "# [bleeping-comp] New Windows SignDrop zero-day gives hackers SYSTEM privileges New Windows SignDrop zero-day gives hackers SYSTEM privileges Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges."
+  },
+  "db1632163742d413": {
+    "file": "corpus/security/thehackernews_com_2026_11_citrix-patches-12-netscaler-and-se_96d21dc534.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+    "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+    "keywords": [
+      "secure access client flaws",
+      "secure access client flaws",
+      "secure access client flaws",
+      "citrix patches 12 netscaler",
+      "citrix patches 12 netscaler",
+      "including authentication bypass citrix",
+      "including authentication bypass",
+      "including authentication bypass",
+      "citrix netscaler gateway",
+      "memory overflow vulnerability"
+    ],
+    "summary": "# [hacker-news-sec] Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet"
+  },
+  "eea5b69270922cee": {
+    "file": "corpus/security/thehackernews_com_2026_11_your-soc-sees-alert-but-does-it-kn_3842522201.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+    "keywords": [
+      "identity blind spots put",
+      "identity blind spots put",
+      "identity blind spots put",
+      "suspicious login might belong",
+      "ai agent might",
+      "one simple question",
+      "still take",
+      "monitoring tools",
+      "machine account",
+      "attack happens"
+    ],
+    "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? Or an AI agent might be accessing sensitive systems using permissions nobody"
+  },
+  "5850d8506cc62585": {
+    "file": "corpus/security/thehackernews_com_2026_11_critical-red-hat-quay-flaw-lets_ht_83f9d15e0e.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+    "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+    "keywords": [
+      "red hat said yesterday",
+      "red hat quay allows",
+      "quay enables anonymous access",
+      "overwrite private container images",
+      "private container images",
+      "private container images",
+      "private container images",
+      "released fixed builds",
+      "eight quay",
+      "quay registry"
+    ],
+    "summary": "# [hacker-news-sec] Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday."
+  },
+  "1bacad87bfd8462f": {
+    "file": "corpus/security/thehackernews_com_2026_11_new-signdrop-zero-day-exploit-turn_c892fb218f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+    "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+    "keywords": [
+      "sys creates companion files",
+      "41z new signdrop zero",
+      "new signdrop zero",
+      "new signdrop zero",
+      "using path redirection",
+      "privileged process opens",
+      "local windows user",
+      "driver last year",
+      "authentication feature added",
+      "gain system privileges"
+    ],
+    "summary": "# [hacker-news-sec] New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver."
+  },
+  "990801c3fe63398c": {
+    "file": "corpus/security/thehackernews_com_2026_11_google-cloud-warns-three-amd-turin_34b40f857b.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+    "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+    "keywords": [
+      "processor core infer data",
+      "amd turin chips need",
+      "vms google cloud vms",
+      "three cpu side",
+      "guest os patch",
+      "already applied mitigations",
+      "flaws may let",
+      "google said",
+      "channel flaws",
+      "vms"
+    ],
+    "summary": "# [hacker-news-sec] Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week."
+  },
+  "3babe31b4bc9025d": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-n-able-4everable2_7f23aad252.md",
+    "source": "security",
+    "title": "[bleeping-comp] New N-able '4EverAble2Shell' zero-day exploited hours after PoC released",
+    "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+    "keywords": [
+      "least 21 affected systems",
+      "including 19 running",
+      "deploy cryptocurrency miners",
+      "day vulnerability dubbed",
+      "day exploited hours",
+      "day exploited hours",
+      "day exploited hours",
+      "newly disclosed n",
+      "43z new n",
+      "poc released hackers"
+    ],
+    "summary": "# [bleeping-comp] New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update."
+  },
+  "aea9696cd97f1b1e": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_your-endpoint-managem_61d140645f.md",
+    "source": "security",
+    "title": "[bleeping-comp] Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+    "keywords": [
+      "endpoint management platform could",
+      "endpoint management platform could",
+      "endpoint management platform could",
+      "become powerful attack tools",
+      "abusing sensitive endpoint operations",
+      "controlled cryptographic authorization",
+      "biggest security risk",
+      "biggest security risk",
+      "prevent attackers",
+      "execute commands"
+    ],
+    "summary": "# [bleeping-comp] Your Endpoint Management Platform Could Be Your Biggest Security Risk Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations."
+  },
+  "d8f10ae74b4844b2": {
+    "file": "corpus/security/thehackernews_com_2026_11_186-fake-ai-domains-redirect-users_9d96703e23.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+    "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+    "keywords": [
+      "search hijackers cybersecurity researchers",
+      "lookalike domains masquerading",
+      "hijack user searches",
+      "search hijackers",
+      "search hijackers",
+      "style lures",
+      "serve clickfix",
+      "hijacking malware",
+      "familiar tool",
+      "delivery pattern"
+    ],
+    "summary": "# [hacker-news-sec] 186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers 186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches."
+  },
+  "18e4616e5dd2e84a": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_gemini-4-hydrogen-now-available-on-ai-g_06b62e6ecd.md",
+    "source": "vercel-blog",
+    "title": "Gemini 4 Hydrogen now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+    "keywords": [
+      "54z gemini 4 hydrogen",
+      "gemini 4 hydrogen",
+      "gemini 4 hydrogen",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Gemini 4 Hydrogen now available on AI Gateway > Source: vercel-blog | Category: news | 2026-11-12T19:53:54Z Gemini 4 Hydrogen now available on AI Gateway"
+  },
+  "998ea245823184bc": {
+    "file": "corpus/vercel-blog/vercel_com_blog_wtf-are-evals_ab0142444d.md",
+    "source": "vercel-blog",
+    "title": "WTF are evals? How to test agents and the software they use",
+    "url": "https://vercel.com/blog/wtf-are-evals",
+    "keywords": [
+      "test agents",
+      "test agents",
+      "test agents",
+      "54z wtf",
+      "wtf",
+      "wtf",
+      "vercel",
+      "use",
+      "use",
+      "use"
+    ],
+    "summary": "How to test agents and the software they use > Source: vercel-blog | Category: news | 2026-11-12T19:53:54Z How to test agents and the software they use"
+  },
+  "6e8f7efe215329c7": {
+    "file": "corpus/design/smashingmagazine_com_2026_11_should-you-add-ai-audit-product_9f66343711.md",
+    "source": "design",
+    "title": "[smashing-magazine] Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+    "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+    "keywords": [
+      "actually add ai",
+      "actually add ai",
+      "actually add ai",
+      "save users time",
+      "ai feature",
+      "ai earns",
+      "users need",
+      "question audit",
+      "question audit",
+      "question audit"
+    ],
+    "summary": "# [smashing-magazine] Should You Actually Add AI To That? An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output."
+  },
+  "3d2a765a880ddc1c": {
+    "file": "corpus/design/css-tricks_com_beyond-12-columns_6172294207.md",
+    "source": "design",
+    "title": "[css-tricks] Beyond 12 Columns: Designing Layouts With Personality",
+    "url": "https://css-tricks.com/beyond-12-columns/",
+    "keywords": [
+      "often leave little impression",
+      "many websites look alike",
+      "42z beyond 12 columns",
+      "beyond 12 columns",
+      "beyond 12 columns",
+      "beyond 12 columns",
+      "andy clarke explores",
+      "use familiar layouts",
+      "personality originally handwritten",
+      "designing layouts"
+    ],
+    "summary": "They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character. You should really  get the newsletter  as well."
+  },
+  "dacf818659638bf2": {
+    "file": "corpus/product/techcrunch_com_2026_11_12_nine-korean-startups-vie-for-a-spo_49ac9311c7.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+    "keywords": [
+      "startup battlefield 200 competition",
+      "startup battlefield 200 competition",
+      "startup battlefield 200 competition",
+      "nine korean startups vie",
+      "nine korean startups vie",
+      "disrupt 2027 ’",
+      "disrupt 2027 ’",
+      "disrupt 2027 ’",
+      "deep tech sector",
+      "startups work across"
+    ],
+    "summary": "# [techcrunch-startups] Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition All nine are looking to enter the U.S."
+  },
+  "6ec108e5cd427b92": {
+    "file": "corpus/product/techcrunch_com_2026_11_12_nectar-launches-an-ai-agent-to-aut_5e287749a0.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "keywords": [
+      "helping brands discover creators",
+      "track campaign results",
+      "automate creator discovery",
+      "automate creator discovery",
+      "automate creator discovery",
+      "42z nectar launches",
+      "nectar launches",
+      "nectar launches",
+      "brands nectar",
+      "ai agent"
+    ],
+    "summary": "# [techcrunch-startups] Nectar launches an AI agent to automate creator discovery and outreach for brands Nectar launches an AI agent to automate creator discovery and outreach for brands Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+  },
+  "5a607a528ebc413a": {
+    "file": "corpus/product/techcrunch_com_2026_11_12_phota-labs-uses-ai-to-turn-everyda_62853baff9.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "keywords": [
+      "phota labs uses ai",
+      "phota labs uses ai",
+      "phota labs aims",
+      "turn everyday moments",
+      "turn everyday photos",
+      "turn everyday photos",
+      "turn everyday photos",
+      "looking shots rather",
+      "better photos",
+      "looking shots"
+    ],
+    "summary": "# [techcrunch-startups] Phota Labs uses AI to turn everyday photos into professional-looking shots Phota Labs uses AI to turn everyday photos into professional-looking shots Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos."
+  },
+  "2e0a60f69791b122": {
+    "file": "corpus/engineering/newsletter_pragmaticengineer_com_p_the-pulse-what-can-we-lea_153fefdefb.md",
+    "source": "engineering",
+    "title": "[pragmatic-engineer] The Pulse: What can we learn from the Railway hack?",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+    "keywords": [
+      "carta starts selling",
+      "native &# 8221",
+      "native mobile",
+      "&# 8220",
+      "trust helps",
+      "railway hack",
+      "railway hack",
+      "railway hack",
+      "frontend jobs",
+      "coding harness"
+    ],
+    "summary": "# [pragmatic-engineer] The Pulse: What can we learn from the Railway hack? The Pulse: What can we learn from the Railway hack? Also: native mobile and frontend jobs are disappearing, how trust helps an &#8220;AI-native&#8221; engineering team to succeed, Carta starts selling a coding harness, and more"
+  },
+  "de85b4b577a92878": {
+    "file": "corpus/engineering/martinfowler_com_bliki_GeneratedGlossary_html_a339a89284.md",
+    "source": "engineering",
+    "title": "[martin-fowler] Bliki: Generated Glossary",
+    "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+    "keywords": [
+      "organizations generate enough text",
+      "also known terms",
+      "provide alternative definitions",
+      "cases getting transcripts",
+      "terms may",
+      "identify terms",
+      "wrong ends",
+      "video may",
+      "unfamiliar ways",
+      "specialized vocabulary"
+    ],
+    "summary": "Such words and specialized meanings will be foreign to an LLM because they aren't in its training set, making it harder for the LLM to be effective when doing tasks in that domain. In some cases getting transcripts of audio or video may be helpful, although most organizations generate enough text to do the job. We then put the glossary somewhere where any other LLM can use it."
+  },
+  "7a68806ef737f930": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_top-types-of-hidden-coupling-and_01251ae572.md",
+    "source": "engineering",
+    "title": "[bytebytego] Top Types of Hidden Coupling and How to Deal With Them",
+    "url": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+    "keywords": [
+      "42z top types",
+      "top types",
+      "top types",
+      "usually try",
+      "hidden coupling",
+      "hidden coupling",
+      "hidden coupling",
+      "different components",
+      "architecture diagram",
+      "source"
+    ],
+    "summary": "# [bytebytego] Top Types of Hidden Coupling and How to Deal With Them Top Types of Hidden Coupling and How to Deal With Them When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components."
+  },
+  "e9a722817d3f60ce": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_mogYbZ4CFB8_360ed63e78.md",
+    "source": "youtube",
+    "title": "[leerob] Agentic web development with Modern Web Guidance and Chrome DevTools for agents",
+    "url": "https://www.youtube.com/watch?v=mogYbZ4CFB8",
+    "keywords": [
+      "build working web apps",
+      "baseline browser compatibility data",
+      "modern web guidance gives",
+      "install modern web guidance",
+      "01z agentic web development",
+      "agents modern web guidance",
+      "modern web guidance",
+      "modern web guidance",
+      "modern web guidance",
+      "agentic web development"
+    ],
+    "summary": "Modern Web Guidance and Chrome DevTools for agents are essential tools in your workflow for agentic web development, bringing together platform best practices with real-browser testing. Modern Web Guidance gives your agent expert-vetted web platform best practices and Baseline browser compatibility data so it uses built-in browser features instead of heavy JavaScript, while DevTools for agents tests and verifies the result in a real Chrome browser. Spend less time manually debugging AI output an"
+  },
+  "e414163edc827604": {
+    "file": "corpus/hackernews/spectrum_ieee_org_electric-ship-batteries_21ea1f7dea.md",
+    "source": "hackernews",
+    "title": "Electric ship batteries promise compact, cooler power",
+    "url": "https://spectrum.ieee.org/electric-ship-batteries",
+    "keywords": [
+      "cooler power",
+      "cooler power",
+      "45z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Electric ship batteries promise compact, cooler power > Source: hackernews | Category: news | 2026-11-12T19:53:45Z Score: 47 | Comments: 52"
+  },
+  "8294ba3d4e0d62b4": {
+    "file": "corpus/hackernews/www_readfounded_com_p_baby-einstein_45352cf299.md",
+    "source": "hackernews",
+    "title": "A teacher that made $20M a year making videos for babies",
+    "url": "https://www.readfounded.com/p/baby-einstein",
+    "keywords": [
+      "year making videos",
+      "year making videos",
+      "48z score",
+      "teacher",
+      "teacher",
+      "source",
+      "news",
+      "made",
+      "made",
+      "hackernews"
+    ],
+    "summary": "# A teacher that made $20M a year making videos for babies > Source: hackernews | Category: news | 2026-11-12T19:53:48Z Score: 8 | Comments: 2"
+  },
+  "78530f388abd0e40": {
+    "file": "corpus/hackernews/stoppels_ch_2026_11_12_paths-in-pieces_html_888d05c61c.md",
+    "source": "hackernews",
+    "title": "Paths in Pieces",
+    "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+    "keywords": [
+      "45z score",
+      "source",
+      "pieces",
+      "pieces",
+      "paths",
+      "paths",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Paths in Pieces > Source: hackernews | Category: news | 2026-11-12T19:53:45Z Score: 17 | Comments: 0"
+  },
+  "9b684bc61da56b19": {
+    "file": "corpus/hackernews/tylerelton_com_posts_decoding-rexpaint-files-in-odin_d1474a211c.md",
+    "source": "hackernews",
+    "title": "Decoding REXPaint Files in Odin",
+    "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+    "keywords": [
+      "decoding rexpaint files",
+      "decoding rexpaint files",
+      "46z score",
+      "source",
+      "odin",
+      "odin",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Decoding REXPaint Files in Odin > Source: hackernews | Category: news | 2026-11-12T19:53:46Z Score: 14 | Comments: 1"
+  },
+  "0ea4ce34ff32bfdb": {
+    "file": "corpus/hackernews/www_easel_sh_blog_lambda-web-functions-idle-memory_62fd38e0d4.md",
+    "source": "hackernews",
+    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+    "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+    "keywords": [
+      "last request",
+      "last request",
+      "7 minutes",
+      "7 minutes",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AWS Lambda Web Functions keep billing memory ~7 minutes after the last request > Source: hackernews | Category: news | 2026-11-12T19:53:44Z Score: 50 | Comments: 18"
+  },
+  "f942ac68d5f48aab": {
+    "file": "corpus/hackernews/blog_google_innovation-and-ai_models-and-research_gemini-mod_80edea19d5.md",
+    "source": "hackernews",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "keywords": [
+      "gemini 4 hydrogen",
+      "gemini 4 hydrogen",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "292"
+    ],
+    "summary": "# Gemini 4 Hydrogen > Source: hackernews | Category: news | 2026-11-12T19:53:41Z Score: 292 | Comments: 184"
+  },
+  "f5236a7e869b050b": {
+    "file": "corpus/hackernews/iopscience_iop_org_article_10_1088_1361-6404_aeb51a_0a48e957af.md",
+    "source": "hackernews",
+    "title": "Hands-on fabrication of 2D material field-effect transistors for the classroom",
+    "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aeb51a",
+    "keywords": [
+      "2d material field",
+      "2d material field",
+      "effect transistors",
+      "effect transistors",
+      "47z score",
+      "source",
+      "news",
+      "hands",
+      "hands",
+      "hackernews"
+    ],
+    "summary": "# Hands-on fabrication of 2D material field-effect transistors for the classroom > Source: hackernews | Category: news | 2026-11-12T19:53:47Z Score: 4 | Comments: 0"
+  },
+  "2093b5e3725fabf0": {
+    "file": "corpus/hackernews/apnews_com_article_nvidia-megaspeed-china-singapore-huang-54_bc816e16a4.md",
+    "source": "hackernews",
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "keywords": [
+      "consumer &# x2f",
+      "consumer &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "# Jensen Huang resigns > Source: hackernews | Category: news | 2026-11-12T19:53:41Z <a href=\"https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-transition\" rel=\"nofollow\">https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business"
+  },
+  "862c51e14ccdc0fa": {
+    "file": "corpus/hackernews/www_jefftk_com_p_pulling-the-lever-in-a-subway-problem_5a08b04616.md",
+    "source": "hackernews",
+    "title": "Pulling the Lever in a Subway Problem",
+    "url": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
+    "keywords": [
+      "subway problem",
+      "subway problem",
+      "46z score",
+      "source",
+      "pulling",
+      "pulling",
+      "news",
+      "lever",
+      "lever",
+      "hackernews"
+    ],
+    "summary": "# Pulling the Lever in a Subway Problem > Source: hackernews | Category: news | 2026-11-12T19:53:46Z Score: 26 | Comments: 29"
+  },
+  "125838cd8a080a7d": {
+    "file": "corpus/hackernews/lowkey_party_running-web-sites-makes-me-not-want-to_6a2cd9cce8.md",
+    "source": "hackernews",
+    "title": "Running web sites makes me not want to",
+    "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+    "keywords": [
+      "running web sites makes",
+      "running web sites makes",
+      "47z score",
+      "want",
+      "want",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Running web sites makes me not want to > Source: hackernews | Category: news | 2026-11-12T19:53:47Z Score: 71 | Comments: 46"
+  },
+  "eee96aa723afd42e": {
+    "file": "corpus/hackernews/github_com_simpsoka_zigzag_e2d9e43fc9.md",
+    "source": "hackernews",
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "url": "https://github.com/simpsoka/zigzag",
+    "keywords": [
+      "300 embroidery machine needed",
+      "300 embroidery machine needed",
+      "show hn",
+      "show hn",
+      "42z score",
+      "subscription",
+      "subscription",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Show HN: My $300 embroidery machine needed a subscription, so I built my own app > Source: hackernews | Category: news | 2026-11-12T19:53:42Z Score: 89 | Comments: 27"
+  },
+  "719f7e049b7b6f1a": {
+    "file": "corpus/hackernews/makepad_github_io_relax_b763eadaf1.md",
+    "source": "hackernews",
+    "title": "Relax: JIT compiler for Rust to reduce build times",
+    "url": "https://makepad.github.io/relax/",
+    "keywords": [
+      "reduce build times",
+      "reduce build times",
+      "jit compiler",
+      "jit compiler",
+      "43z score",
+      "source",
+      "rust",
+      "rust",
+      "relax",
+      "relax"
+    ],
+    "summary": "# Relax: JIT compiler for Rust to reduce build times > Source: hackernews | Category: news | 2026-11-12T19:53:43Z Score: 36 | Comments: 13"
+  },
+  "7f7a6ccf65b0de48": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50471668_75f01f6552.md",
+    "source": "hackernews",
+    "title": "Ask HN: Microsoft/Azure Outage?",
+    "url": "https://news.ycombinator.com/item?id=50471668",
+    "keywords": [
+      "past 5 minutes",
+      "microsoft cloud connections",
+      "status page",
+      "even load",
+      "azure outage",
+      "azure outage",
+      "ask hn",
+      "ask hn",
+      "anyone else",
+      "42z score"
+    ],
+    "summary": "> Source: hackernews | Category: news | 2026-11-12T19:53:42Z For the past 5 minutes all of our Microsoft Cloud connections are down. The Status page won&#x27;t even load."
+  },
+  "c1f660c5fc763abf": {
+    "file": "corpus/hackernews/www_moddb_com_mods_openq4_downloads_openq4-0141-windows-x64_994086c945.md",
+    "source": "hackernews",
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "keywords": [
+      "42z score",
+      "source",
+      "playable",
+      "playable",
+      "news",
+      "modders",
+      "modders",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Abandoned Quake 4 expansion finished by modders and now playable > Source: hackernews | Category: news | 2026-11-12T19:53:42Z Score: 192 | Comments: 65"
+  },
+  "f1562a9c01acb855": {
+    "file": "corpus/hackernews/gvwire_com_2026_11_12_microsoft-outlook-down-for-thousands-o_7450dfabb8.md",
+    "source": "hackernews",
+    "title": "Outlook is down, and so is Microsoft's status page",
+    "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+    "keywords": [
+      "status page",
+      "status page",
+      "42z score",
+      "source",
+      "outlook",
+      "outlook",
+      "news",
+      "microsoft",
+      "microsoft",
+      "hackernews"
+    ],
+    "summary": "# Outlook is down, and so is Microsoft's status page > Source: hackernews | Category: news | 2026-11-12T19:53:42Z Score: 182 | Comments: 49"
+  },
+  "b4c3f15838b57b9c": {
+    "file": "corpus/hackernews/antigravity_google_blog_gemini-4-hydrogen-in-google-antigrav_226483c2eb.md",
+    "source": "hackernews",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "keywords": [
+      "gemini 4 hydrogen",
+      "gemini 4 hydrogen",
+      "42z score",
+      "source",
+      "orchestrator",
+      "orchestrator",
+      "news",
+      "hackernews",
+      "comments"
+    ],
+    "summary": "# Gemini 4 Hydrogen and Orchestrator > Source: hackernews | Category: news | 2026-11-12T19:53:42Z Score: 41 | Comments: 4"
+  },
+  "1685c8e0f44e948b": {
+    "file": "corpus/hackernews/chipsandcheese_com_p_talking-zen-6-with-mike-clark-at_0046a40989.md",
+    "source": "hackernews",
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "keywords": [
+      "talking zen 6",
+      "talking zen 6",
+      "mike clark",
+      "mike clark",
+      "43z score",
+      "source",
+      "news",
+      "hackernews",
+      "depth",
+      "depth"
+    ],
+    "summary": "# Talking Zen 6 with Mike Clark at AMD In-Depth > Source: hackernews | Category: news | 2026-11-12T19:53:43Z Score: 140 | Comments: 1"
+  },
+  "a9bb584e8d815756": {
+    "file": "corpus/hackernews/www_nature_com_articles_s40494-026-02958-x_f5ffcf6590.md",
+    "source": "hackernews",
+    "title": "Words of warning about radiocarbon dating medieval human bones",
+    "url": "https://www.nature.com/articles/s40494-026-02958-x",
+    "keywords": [
+      "43z score",
+      "words",
+      "words",
+      "warning",
+      "warning",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Words of warning about radiocarbon dating medieval human bones > Source: hackernews | Category: news | 2026-11-12T19:53:43Z Score: 13 | Comments: 3"
+  },
+  "4cb876508bf68996": {
+    "file": "corpus/hackernews/www_buildcores_com_935377019d.md",
+    "source": "hackernews",
+    "title": "Show HN: Build a PC in 3D in the Browser",
+    "url": "https://www.buildcores.com",
+    "keywords": [
+      "3d pc builder",
+      "never shared",
+      "job working",
+      "google earth",
+      "47z score",
+      "&# x27",
+      "&# x27",
+      "show hn",
+      "show hn"
+    ],
+    "summary": "I&#x27;ve been building this over the past few years. I left my job working on Google Earth to make a 3D PC builder. We have quite a few users so it&#x27;s able to fund our team but I realized I never shared on HN!"
+  },
+  "6e7ef33f4cc1b765": {
+    "file": "corpus/hackernews/github_com_hyperionaidev_smolmaxxing_cac5c7e590.md",
+    "source": "hackernews",
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "keywords": [
+      "making llms work",
+      "making llms work",
+      "old devices",
+      "old devices",
+      "42z score",
+      "source",
+      "small",
+      "small",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# I'm making LLMs work on small and old devices > Source: hackernews | Category: news | 2026-11-12T19:53:42Z Score: 170 | Comments: 64"
+  },
+  "8c73d87116b83c35": {
+    "file": "corpus/hackernews/blog_janestreet_com_software-engineering-interviews-are-chan_5ed5bf3c2c.md",
+    "source": "hackernews",
+    "title": "Our software engineering interviews are changing a little",
+    "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+    "keywords": [
+      "software engineering interviews",
+      "software engineering interviews",
+      "45z score",
+      "source",
+      "news",
+      "little",
+      "little",
+      "hackernews",
+      "comments",
+      "changing"
+    ],
+    "summary": "# Our software engineering interviews are changing a little > Source: hackernews | Category: news | 2026-11-12T19:53:45Z Score: 113 | Comments: 99"
+  },
+  "079004ef3bd0c414": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50471281_2b40b58535.md",
+    "source": "hackernews",
+    "title": "Show HN: Kapso – Iterative learning from enterprise data",
+    "url": "https://news.ycombinator.com/item?id=50471281",
+    "keywords": [
+      "deliver meaningful outcomes quickly",
+      "com &# x2f ;</",
+      "every run .< p",
+      "messy enterprise data environments",
+      "old data estate onto",
+      "majid building leeroo (<",
+      "kapso – iterative learning",
+      "kapso – iterative learning",
+      "com &# x2f",
+      "com &# x2f"
+    ],
+    "summary": "Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. This bottom-up process is the only way to deliver meaningful outcomes quickly in large, messy enterprise data environments. As we’ve found when building such systems, sometimes the success criteria and evaluation tests need to be evolved."
+  },
+  "8ffda356171ee32f": {
+    "file": "corpus/hackernews/doug_sh_posts_gpu-bars-behind-a-pcie-switch_47f2728722.md",
+    "source": "hackernews",
+    "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+    "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+    "keywords": [
+      "pcie switch",
+      "pcie switch",
+      "45z score",
+      "source",
+      "news",
+      "linux",
+      "linux",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux > Source: hackernews | Category: news | 2026-11-12T19:53:45Z Score: 59 | Comments: 23"
+  },
+  "7ee0429d056fc871": {
+    "file": "corpus/hackernews/www_ign_com_articles_nintendo-takes-down-switch-emulators-an_3f5497b8e2.md",
+    "source": "hackernews",
+    "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+    "keywords": [
+      "massive github dmca sweep",
+      "massive github dmca sweep",
+      "nintendo takes",
+      "nintendo takes",
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "firmware",
+      "firmware"
+    ],
+    "summary": "# Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep > Source: hackernews | Category: news | 2026-11-12T19:53:44Z Score: 172 | Comments: 104"
+  },
+  "f7bd42aacb63dfa7": {
+    "file": "corpus/hackernews/www_curtin_edu_au_news_media-release_researchers-discover-ra_ecb073c1ea.md",
+    "source": "hackernews",
+    "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+    "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+    "keywords": [
+      "45z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "12t19"
+    ],
+    "summary": "# Researchers discover rare star system that emits radio signals every 8 minutes > Source: hackernews | Category: news | 2026-11-12T19:53:45Z Score: 102 | Comments: 53"
+  },
+  "bb0ffe8b196644f3": {
+    "file": "corpus/hackernews/www_smithsonianmag_com_smart-news_astronomers-found-a-myster_4a54bd29bb.md",
+    "source": "hackernews",
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "keywords": [
+      "takes roughly 280 years",
+      "takes roughly 280 years",
+      "dwarf planet candidate appears",
+      "dwarf planet candidate appears",
+      "41z score",
+      "sun",
+      "sun",
+      "source",
+      "orbit",
+      "orbit"
+    ],
+    "summary": "# Dwarf planet candidate appears which takes roughly 280 years to orbit our sun > Source: hackernews | Category: news | 2026-11-12T19:53:41Z Score: 34 | Comments: 6"
+  },
+  "befa2459e53e913a": {
+    "file": "corpus/hackernews/github_com_chocoford_ExcalidrawZ_326a2e2bf3.md",
+    "source": "hackernews",
+    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "url": "https://github.com/chocoford/ExcalidrawZ",
+    "keywords": [
+      "local native excalidraw",
+      "local native excalidraw",
+      "43z score",
+      "source",
+      "news",
+      "macos",
+      "macos",
+      "ios",
+      "ios",
+      "hackernews"
+    ],
+    "summary": "# ExcalidrawZ: Local Native Excalidraw on macOS/iOS > Source: hackernews | Category: news | 2026-11-12T19:53:43Z Score: 74 | Comments: 18"
+  },
+  "980027fcc995695f": {
+    "file": "corpus/hackernews/www_postgresql_org_about_news_postgresql-187-1712-1616-1520-_8ff2925fdd.md",
+    "source": "hackernews",
+    "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+    "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+    "keywords": [
+      "19 rc 2 released",
+      "19 rc 2 released",
+      "postgresql 18",
+      "postgresql 18",
+      "47z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released > Source: hackernews | Category: news | 2026-11-12T19:53:47Z Score: 86 | Comments: 12"
+  },
+  "648b373f2e192c8b": {
+    "file": "corpus/hackernews/status_apify_com_incidents_sxd1dj5j6749_d446d5c457.md",
+    "source": "hackernews",
+    "title": "Apify Security Incident",
+    "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+    "keywords": [
+      "apify security incident",
+      "apify security incident",
+      "46z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Apify Security Incident > Source: hackernews | Category: news | 2026-11-12T19:53:46Z Score: 8 | Comments: 0"
+  },
+  "1c006ad097c177f1": {
+    "file": "corpus/hackernews/github_com_Parcha-ai_agentrun_blob_main_README_md_9f652a2c4d.md",
+    "source": "hackernews",
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "keywords": [
+      "supports acp .< p",
+      "full managed agents platform",
+      "blog &# x2f",
+      "blog &# x2f",
+      "see readme ),",
+      "ai .< p",
+      "ai &# x2f",
+      "ai &# x2f",
+      "improving managed agents",
+      "improving managed agents"
+    ],
+    "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: <a href=\"https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-agents-use-fewer-tokens\" rel=\"nofollow\">https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-ag...</a>.<p>It includes what we originally built for our own agent harness:<p>- Self-improving agents - Web-grounded workflows - A range of sandboxes and compute"
+  },
+  "275569f00578d7b5": {
+    "file": "corpus/hackernews/yourairedlines_com_760d847841.md",
+    "source": "hackernews",
+    "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+    "url": "https://yourairedlines.com",
+    "keywords": [
+      "would make",
+      "would make",
+      "show hn",
+      "show hn",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: AI Red Lines – write down what would make you act on AI > Source: hackernews | Category: news | 2026-11-12T19:53:48Z Score: 29 | Comments: 19"
+  },
+  "fdc0a66dae9b3705": {
+    "file": "corpus/hackernews/aistudio_google_com_docs_whats-new-gemini-4-hydrogen_a254e9bc0a.md",
+    "source": "hackernews",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen",
+    "keywords": [
+      "gemini 4 hydrogen",
+      "gemini 4 hydrogen",
+      "49z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Gemini 4 Hydrogen > Source: hackernews | Category: news | 2026-11-12T19:53:49Z Score: 15 | Comments: 2"
+  },
+  "561cc945e2f93543": {
+    "file": "corpus/hackernews/apps_apple_com_ph_app_daily-planner-tasks-zesfy_id6479947874_c50850b225.md",
+    "source": "hackernews",
+    "title": "Show HN: I built a calendar app that gives each event its own to-do list",
+    "url": "https://apps.apple.com/ph/app/daily-planner-tasks-zesfy/id6479947874",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "calendar app",
+      "calendar app",
+      "48z score",
+      "source",
+      "news",
+      "list",
+      "list",
+      "hackernews"
+    ],
+    "summary": "# Show HN: I built a calendar app that gives each event its own to-do list > Source: hackernews | Category: news | 2026-11-12T19:53:48Z Score: 6 | Comments: 0"
+  },
+  "6e20a45ec16ad713": {
+    "file": "corpus/hackernews/github_com_rust-lang_rust_releases_tag_1_100_0_199b6ae7d4.md",
+    "source": "hackernews",
+    "title": "Rust 1.100.0",
+    "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+    "keywords": [
+      "rust 1",
+      "rust 1",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Rust 1.100.0 > Source: hackernews | Category: news | 2026-11-12T19:53:41Z Score: 254 | Comments: 55"
+  },
+  "42dda8ab337a12c0": {
+    "file": "corpus/hackernews/github_com_trizoza_dles_blob_main_assets_daily-games_DLES_md_26afbe844e.md",
+    "source": "hackernews",
+    "title": "The largest open-source DLE collection",
+    "url": "https://github.com/trizoza/dles/blob/main/assets/daily-games/DLES.md",
+    "keywords": [
+      "source dle collection",
+      "source dle collection",
+      "largest open",
+      "largest open",
+      "48z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The largest open-source DLE collection > Source: hackernews | Category: news | 2026-11-12T19:53:48Z Score: 11 | Comments: 2"
+  },
+  "cbb90a4eca0035b1": {
+    "file": "corpus/hackernews/libreagi_com_e1a63159b8.md",
+    "source": "hackernews",
+    "title": "Libreagi – Save OSS Models",
+    "url": "https://libreagi.com/",
+    "keywords": [
+      "44z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Libreagi – Save OSS Models > Source: hackernews | Category: news | 2026-11-12T19:53:44Z Score: 89 | Comments: 21"
+  },
+  "3cbab8138b283b77": {
+    "file": "corpus/hackernews/mehmetince_net_part-3-6-how-i-ended-up-turning-a-22-year-old_f0da36ba1b.md",
+    "source": "hackernews",
+    "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "keywords": [
+      "old postgresql bug turned",
+      "old postgresql bug turned",
+      "remote code execution",
+      "remote code execution",
+      "43z score",
+      "year",
+      "year",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# 22-Year-Old PostgreSQL Bug Turned into Remote Code Execution > Source: hackernews | Category: news | 2026-11-12T19:53:43Z Score: 25 | Comments: 0"
+  },
+  "ac5cb54ee3af887f": {
+    "file": "corpus/hackernews/techcrunch_com_2026_11_12_hugging-face-ceo-vows-to-keep-figh_cf8aede2b2.md",
+    "source": "hackernews",
+    "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "keywords": [
+      "hugging face ceo vows",
+      "hugging face ceo vows",
+      "keep fighting",
+      "keep fighting",
+      "49z score",
+      "source ai",
+      "source ai",
+      "source",
+      "open",
+      "open"
+    ],
+    "summary": "# Hugging Face CEO vows to keep fighting for open-source AI > Source: hackernews | Category: news | 2026-11-12T19:53:49Z Score: 9 | Comments: 0"
+  },
+  "3f695c218a99e945": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_11_12_business_nvidia-megaspeed-alice-h_d9713be1c8.md",
+    "source": "hackernews",
+    "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "keywords": [
+      "singapore says u",
+      "singapore says u",
+      "suspected spy",
+      "suspected spy",
+      "44z score",
+      "source",
+      "news",
+      "investigation",
+      "investigation",
+      "helpful"
+    ],
+    "summary": "# Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company > Source: hackernews | Category: news | 2026-11-12T19:53:44Z Score: 59 | Comments: 11"
+  },
+  "04e7d56c8f9fa16b": {
+    "file": "corpus/hackernews/www_fractalkitty_com_creating-worlds-runes-and-spells_5e173f6e59.md",
+    "source": "hackernews",
+    "title": "Creating Worlds: Runes and Spells Prototype",
+    "url": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
+    "keywords": [
+      "spells prototype",
+      "spells prototype",
+      "creating worlds",
+      "creating worlds",
+      "46z score",
+      "source",
+      "runes",
+      "runes",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Creating Worlds: Runes and Spells Prototype > Source: hackernews | Category: news | 2026-11-12T19:53:46Z Score: 20 | Comments: 4"
+  },
+  "a9002e40c768f4c0": {
+    "file": "corpus/devto/dev_to_aws-builders_como-escribir-skills-de-aws-devops-agent_f2d23afe2c.md",
+    "source": "devto",
+    "title": "Cómo escribir Skills de AWS DevOps Agent que el agente cargue y sepa seguir",
+    "url": "https://dev.to/aws-builders/como-escribir-skills-de-aws-devops-agent-que-el-agente-cargue-y-sepa-seguir-5hh3",
+    "keywords": [
+      "sepa seguir",
+      "sepa seguir",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026"
+    ],
+    "summary": "# Cómo escribir Skills de AWS DevOps Agent que el agente cargue y sepa seguir > Source: devto | Category: news | 2026-11-12T19:53:51Z Cuando una alarma salta a las dos de la mañana, la calidad de la investigación depende de quién esté..."
+  },
+  "6165c929bddd037a": {
+    "file": "corpus/devto/dev_to_chocoscoding_5-step-guide-to-getting-your-first-remot_0651ca17f3.md",
+    "source": "devto",
+    "title": "5-Step Guide to Getting Your First Remote Job With No Experience",
+    "url": "https://dev.to/chocoscoding/5-step-guide-to-getting-your-first-remote-job-with-no-experience-4e0b",
+    "keywords": [
+      "always worked remotely",
+      "freelance software engineer",
+      "first remote job",
+      "first remote job",
+      "building software",
+      "step guide",
+      "step guide",
+      "job",
+      "source"
+    ],
+    "summary": "# 5-Step Guide to Getting Your First Remote Job With No Experience I got the job! I’ve always worked remotely as a freelance software engineer, building software for..."
+  },
+  "e28bc2f1bf123cd8": {
+    "file": "corpus/devto/dev_to_joycefosterr_part-4-i-wrote-the-page-developers-read-_01066f15c0.md",
+    "source": "devto",
+    "title": "Part 4: I wrote the page developers read when something breaks, and set up a Jira board to track it all.",
+    "url": "https://dev.to/joycefosterr/part-4-i-wrote-the-page-developers-read-when-something-breaks-and-set-up-a-jira-board-to-track-it-1p62",
+    "keywords": [
+      "page developers read",
+      "page developers read",
+      "troyal api design",
+      "something breaks",
+      "something breaks",
+      "openapi spec",
+      "last post",
+      "jira board",
+      "jira board",
+      "part 4"
+    ],
+    "summary": "# Part 4: I wrote the page developers read when something breaks, and set up a Jira board to track it all. > Source: devto | Category: news | 2026-11-12T19:53:53Z In my last post, I talked about how I turned my Troyal API design into an OpenAPI spec."
+  },
+  "831fddf6acd1df23": {
+    "file": "corpus/devto/dev_to_datadriven_fivetran-owns-dbt-now-what-data-engineers-_db1d959eca.md",
+    "source": "devto",
+    "title": "Fivetran Owns dbt Now: What Data Engineers Should Do Next",
+    "url": "https://dev.to/datadriven/fivetran-owns-dbt-now-what-data-engineers-should-do-next-1f6p",
+    "keywords": [
+      "dbt labs closed",
+      "dbt core v2",
+      "fivetran owns dbt",
+      "fivetran owns dbt",
+      "52z fivetran",
+      "data engineers",
+      "data engineers",
+      "apache 2",
+      "stack",
+      "source"
+    ],
+    "summary": "# Fivetran Owns dbt Now: What Data Engineers Should Do Next Fivetran and dbt Labs closed their merger and dbt Core v2.0 is in alpha under Apache 2.0. Here is what is confirmed and what it means for your stack and career."
+  },
+  "cbb87f4d07773e3b": {
+    "file": "corpus/devto/dev_to_slima4_two-rejected-series-stalled-all-my-metrics-252_de655dc153.md",
+    "source": "devto",
+    "title": "Two rejected series stalled all my metrics",
+    "url": "https://dev.to/slima4/two-rejected-series-stalled-all-my-metrics-2523",
+    "keywords": [
+      "two rejected series stalled",
+      "two rejected series stalled",
+      "51z three alerts fired",
+      "metric labels",
+      "stall",
+      "source",
+      "retry",
+      "reactions",
+      "production",
+      "news"
+    ],
+    "summary": "# Two rejected series stalled all my metrics Three alerts fired while production was fine. A rate limiter put client addresses in metric labels, and a retry on 429 turned two rejected series into a stall."
+  },
+  "30697aba7d47e82c": {
+    "file": "corpus/devto/dev_to_thegdsks_your-deploy-box-is-the-target-supply-chain-d_756c18846a.md",
+    "source": "devto",
+    "title": "Your deploy box is the target: supply chain defenses after this week's attacks",
+    "url": "https://dev.to/thegdsks/your-deploy-box-is-the-target-supply-chain-defenses-after-this-weeks-attacks-1o3d",
+    "keywords": [
+      "supply chain defenses",
+      "supply chain defenses",
+      "supply chain defenses",
+      "deploy box",
+      "deploy box",
+      "deploy box",
+      "week",
+      "week",
+      "week",
+      "target"
+    ],
+    "summary": "# Your deploy box is the target: supply chain defenses after this week's attacks > Source: devto | Category: news | 2026-11-12T19:53:51Z Your deploy box is the target: supply chain defenses after this week's attacks   I read the..."
+  },
+  "3b87f04837173496": {
+    "file": "corpus/devto/dev_to_msertdev_i-measured-what-my-claude-code-setup-costs-o_2c76a2f10f.md",
+    "source": "devto",
+    "title": "I measured what my Claude Code setup costs on every request. Most of my skills had gone blank.",
+    "url": "https://dev.to/msertdev/i-measured-what-my-claude-code-setup-costs-on-every-request-most-of-my-skills-had-gone-blank-2eg3",
+    "keywords": [
+      "claude code setup costs",
+      "claude code setup costs",
+      "single word",
+      "gone blank",
+      "gone blank",
+      "first message",
+      "every request",
+      "every request",
+      "500 tokens",
+      "source"
+    ],
+    "summary": "# I measured what my Claude Code setup costs on every request. Most of my skills had gone blank. Claude Code sent 74,500 tokens with my first message of the day, before it had read a single word I..."
+  },
+  "3a5c59b73f1d5bbe": {
+    "file": "corpus/devto/dev_to_javz_ai-is-getting-better-here-is-my-plan-to-stay-ahe_7764ea74dc.md",
+    "source": "devto",
+    "title": "AI is getting better. Here is my plan to stay ahead.",
+    "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
+    "keywords": [
+      "getting better every day",
+      "getting better",
+      "getting better",
+      "stay ahead",
+      "stay ahead",
+      "software engineer",
+      "often top",
+      "mind ,...",
+      "49z ai"
+    ],
+    "summary": "Here is my plan to stay ahead. AI is getting better every day. As a software engineer, this is a topic that is often top of mind,..."
+  },
+  "f01ac899881163af": {
+    "file": "corpus/devto/dev_to_kaleman15_what-it-takes-to-prove-binary-search-works-_4e4140e87d.md",
+    "source": "devto",
+    "title": "What it takes to prove binary search works",
+    "url": "https://dev.to/kaleman15/what-it-takes-to-prove-binary-search-works-118f",
+    "keywords": [
+      "prove binary search works",
+      "prove binary search works",
+      "verify binary search",
+      "working version",
+      "used dafny",
+      "termination",
+      "takes",
+      "takes",
+      "source",
+      "reactions"
+    ],
+    "summary": "# What it takes to prove binary search works > Source: devto | Category: news | 2026-11-12T19:53:49Z I used Dafny to verify binary search, broke its termination, and compiled the working version to JavaScript."
+  },
+  "22446a72fbc5f482": {
+    "file": "corpus/devto/dev_to_varunvarde_the-kubernetes-upgrade-trap-a-practical-ro_82d882da9b.md",
+    "source": "devto",
+    "title": "The Kubernetes Upgrade Trap: A Practical Roadmap to Escape Deprecated APIs, Broken Add-ons, and Endless Delays",
+    "url": "https://dev.to/varunvarde/the-kubernetes-upgrade-trap-a-practical-roadmap-to-escape-deprecated-apis-broken-add-ons-and-3kfa",
+    "keywords": [
+      "kubernetes upgrade trap",
+      "kubernetes upgrade trap",
+      "escape deprecated apis",
+      "escape deprecated apis",
+      "practical roadmap",
+      "practical roadmap",
+      "endless delays",
+      "endless delays",
+      "broken add",
+      "broken add"
+    ],
+    "summary": "# The Kubernetes Upgrade Trap: A Practical Roadmap to Escape Deprecated APIs, Broken Add-ons, and Endless Delays Every Kubernetes platform team knows the situation. A new Kubernetes release becomes available,..."
+  },
+  "9ed9e76d5e239e2d": {
+    "file": "corpus/devto/dev_to_necoz_your-mcp-servers-are-silently-draining-your-con_2d098544a3.md",
+    "source": "devto",
+    "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+    "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
+    "keywords": [
+      "tools degrades llm reasoning",
+      "inflates api bills",
+      "heavy ai agents",
+      "heavy ai agents",
+      "focused typescript micro",
+      "model context protocol",
+      "tools fix",
+      "context window",
+      "context window",
+      "silently draining"
+    ],
+    "summary": "# Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents > Source: devto | Category: news | 2026-11-12T19:53:50Z Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem."
+  },
+  "3086d0d92b4fad44": {
+    "file": "corpus/devto/dev_to_cchinchilladev_serving-is-a-memory-problem-prefill-de_4382d4ed35.md",
+    "source": "devto",
+    "title": "Serving is a memory problem: prefill, decode and the KV cache",
+    "url": "https://dev.to/cchinchilladev/serving-is-a-memory-problem-prefill-decode-and-the-kv-cache-15ic",
+    "keywords": [
+      "53z originally published",
+      "part series",
+      "ml ...",
+      "memory problem",
+      "memory problem",
+      "kv cache",
+      "kv cache",
+      "part 11",
+      "weights"
+    ],
+    "summary": "# Serving is a memory problem: prefill, decode and the KV cache > Source: devto | Category: news | 2026-11-12T19:53:53Z Part 11 of From code to weights, a 12-part series on ML..."
+  },
+  "8111d1a8ec58027e": {
+    "file": "corpus/devto/dev_to_annest_reading-a-golf-swing-from-a-9-axis-imu-on-a-tv_4e621d5dd8.md",
+    "source": "devto",
+    "title": "Reading a golf swing from a 9-axis IMU on a TV box: the calibration notes that actually mattered",
+    "url": "https://dev.to/annest/reading-a-golf-swing-from-a-9-axis-imu-on-a-tv-box-the-calibration-notes-that-actually-mattered-14kg",
+    "keywords": [
+      "small sensor strapped near",
+      "tv box rendering",
+      "tv box",
+      "tv box",
+      "golf swing",
+      "golf swing",
+      "calibration notes",
+      "calibration notes",
+      "axis imu",
+      "axis imu"
+    ],
+    "summary": "# Reading a golf swing from a 9-axis IMU on a TV box: the calibration notes that actually mattered > Source: devto | Category: news | 2026-11-12T19:53:50Z A small sensor strapped near the shaft, a TV box rendering the shot, and a player who expects the..."
+  },
+  "858ca08b5e2fc4ae": {
+    "file": "corpus/devto/dev_to_elnar_zulfugarov_270b8f12_i-built-a-tool-that-films-w_c464d04fc1.md",
+    "source": "devto",
+    "title": "I built a tool that films websites being built, commit by commit",
+    "url": "https://dev.to/elnar_zulfugarov_270b8f12/i-built-a-tool-that-films-websites-being-built-commit-by-commit-3c0m",
+    "keywords": [
+      "code could enjoy",
+      "wanted coding videos",
+      "speed coding",
+      "films websites",
+      "films websites",
+      "videos",
+      "tool",
+      "tool",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I built a tool that films websites being built, commit by commit I wanted coding videos that people who don't code could enjoy too. Most \"speed coding\" videos are a..."
+  },
+  "5b6e8af65843333d": {
+    "file": "corpus/devto/dev_to_leichenbuilds_it-ran-fine-it-produced-nothing-what-19_71c46a0805.md",
+    "source": "devto",
+    "title": "It Ran Fine. It Produced Nothing: What 196 Silent Pine Scripts Taught Me",
+    "url": "https://dev.to/leichenbuilds/it-ran-fine-it-produced-nothing-what-196-silent-pine-scripts-taught-me-42nc",
+    "keywords": [
+      "pine script ...",
+      "ran fine",
+      "ran fine",
+      "ran fine",
+      "produced nothing",
+      "produced nothing",
+      "produced nothing",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "It Produced Nothing: What 196 Silent Pine Scripts Taught Me > Source: devto | Category: news | 2026-11-12T19:53:51Z It Produced Nothing: What 196 Silent Pine Scripts Taught Me    Your Pine script..."
+  },
+  "1b3bd6a11c0560b4": {
+    "file": "corpus/devto/dev_to_kunalgoesbyken_three-copies-of-the-same-http-code-and_62bad8dd04.md",
+    "source": "devto",
+    "title": "Three copies of the same HTTP code, and how one Go engine fixed it",
+    "url": "https://dev.to/kunalgoesbyken/three-copies-of-the-same-http-code-and-how-one-go-engine-fixed-it-i61",
+    "keywords": [
+      "one go engine fixed",
+      "one go engine fixed",
+      "free api client",
+      "three copies",
+      "three copies",
+      "ssrf ,...",
+      "http code",
+      "http code",
+      "websocket",
+      "taught"
+    ],
+    "summary": "# Three copies of the same HTTP code, and how one Go engine fixed it > Source: devto | Category: news | 2026-11-12T19:53:53Z A free API client for REST, GraphQL, gRPC and WebSocket, and what building it taught me about SSRF,..."
+  },
+  "cf0a847766e9dda4": {
+    "file": "corpus/devto/dev_to_ibrahimdans_but-we-had-mfa-a-coffee-a-phishing-story-_59dbdaf5a3.md",
+    "source": "devto",
+    "title": "But We Had MFA': A Coffee, a Phishing Story, and Why I'd Bet on Passkeys",
+    "url": "https://dev.to/ibrahimdans/but-we-had-mfa-a-coffee-a-phishing-story-and-why-id-bet-on-passkeys-5519",
+    "keywords": [
+      "sized company",
+      "phishing story",
+      "phishing story",
+      "mfa ':",
+      "mfa \":",
+      "50z every",
+      "works",
+      "usually",
+      "source",
+      "reactions"
+    ],
+    "summary": "# \"But We Had MFA\": A Coffee, a Phishing Story, and Why I'd Bet on Passkeys > Source: devto | Category: news | 2026-11-12T19:53:50Z Every other Friday, I have coffee with a friend who works in IT at a mid-sized company."
+  },
+  "016743ef5c89ea78": {
+    "file": "corpus/devto/dev_to_amananandrai_i-turned-my-github-profile-into-a-doctor_8b5584ce79.md",
+    "source": "devto",
+    "title": "I turned my GitHub profile into a Doctor Doom vs Avengers fight",
+    "url": "https://dev.to/amananandrai/i-turned-my-github-profile-into-a-doctor-doom-vs-avengers-fight-2b10",
+    "keywords": [
+      "look like every",
+      "giant bold ...",
+      "github profile used",
+      "github profile",
+      "github profile",
+      "profile",
+      "turned",
+      "turned",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I turned my GitHub profile into a Doctor Doom vs Avengers fight My GitHub profile used to look like every other profile on the internet. My name in giant bold..."
+  },
+  "2490083fa38985d1": {
+    "file": "corpus/devto/dev_to_coryntas_measure-ai-reporting-work-beyond-the-draft-5_46a2d20395.md",
+    "source": "devto",
+    "title": "Measure AI Reporting Work Beyond the Draft",
+    "url": "https://dev.to/coryntas/measure-ai-reporting-work-beyond-the-draft-564i",
+    "keywords": [
+      "weekly operations report",
+      "ai agent finishes",
+      "draft uses ...",
+      "manager opens",
+      "draft",
+      "draft",
+      "source",
+      "reactions",
+      "news",
+      "laptop"
+    ],
+    "summary": "# Measure AI Reporting Work Beyond the Draft > Source: devto | Category: news | 2026-11-12T19:53:52Z An AI agent finishes the weekly operations report before the manager opens her laptop."
+  },
+  "e4e69fe3fdde072f": {
+    "file": "corpus/devto/dev_to_jamilxt_nvidia-says-its-roadmap-will-continue-ai-team_c59db41752.md",
+    "source": "devto",
+    "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
+    "url": "https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d",
+    "keywords": [
+      "continue without interruption ....",
+      "nvidia says",
+      "nvidia says",
+      "ai teams",
+      "ai teams",
+      "product roadmap",
+      "continue",
+      "continue",
+      "roadmap",
+      "roadmap"
+    ],
+    "summary": "# Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies A company can announce that its operations and product roadmap will continue without interruption...."
+  },
+  "638b2cf6a5ad33b2": {
+    "file": "corpus/devto/dev_to_sammiihk_no-model-decides-whether-a-model-made-someth_07bc2d5f32.md",
+    "source": "devto",
+    "title": "No model decides whether a model made something up",
+    "url": "https://dev.to/sammiihk/no-model-decides-whether-a-model-made-something-up-2goe",
+    "keywords": [
+      "model made something",
+      "model made something",
+      "model decides whether",
+      "model decides whether",
+      "drafts replies ...",
+      "search system",
+      "llm tailors",
+      "cover letter",
+      "52z cast",
+      "source"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-12T19:53:52Z Cast is my job-search system. An LLM tailors each CV and cover letter to a role, and drafts replies..."
+  },
+  "e117128a71be65dd": {
+    "file": "corpus/devto/dev_to_necoz_a-day-in-the-life-of-someone-who-just-wanted-to_19f227f209.md",
+    "source": "devto",
+    "title": "A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace",
+    "url": "https://dev.to/necoz/a-day-in-the-life-of-someone-who-just-wanted-to-open-linkedin-in-peace-2be",
+    "keywords": [
+      "every morning",
+      "open linkedin",
+      "open linkedin",
+      "open linkedin",
+      "linkedin",
+      "wanted",
+      "wanted",
+      "wanted",
+      "source",
+      "someone"
+    ],
+    "summary": "# A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace All I wanted was a referral. Every morning, I open LinkedIn with a very..."
+  },
+  "830c2682be8f80c6": {
+    "file": "corpus/devto/blog_mlh_com_can-you-merge-at-agent-speed-4m67_344f2281df.md",
+    "source": "devto",
+    "title": "Can you merge at agent speed?",
+    "url": "https://blog.mlh.com/can-you-merge-at-agent-speed-4m67",
+    "keywords": [
+      "50z major league hacking",
+      "new ...",
+      "dev challenges",
+      "agent speed",
+      "agent speed",
+      "year",
+      "teaming",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Can you merge at agent speed? > Source: devto | Category: news | 2026-11-12T19:53:50Z Major League Hacking and Entire are teaming up for a year of hackathons, DEV Challenges, and a new..."
+  },
+  "1bda6fa9eb8355be": {
+    "file": "corpus/devto/dev_to_prasannavarshan_stop-reading-your-ai-agent-start-talk_284cb1a18b.md",
+    "source": "devto",
+    "title": "Stop Reading Your AI Agent. Start Talking to It.",
+    "url": "https://dev.to/prasannavarshan/stop-reading-your-ai-agent-start-talking-to-it-5495",
+    "keywords": [
+      "fully local voice",
+      "stop reading",
+      "stop reading",
+      "start talking",
+      "start talking",
+      "personal projects",
+      "coding agent",
+      "ai agent",
+      "ai agent",
+      "think"
+    ],
+    "summary": "# Stop Reading Your AI Agent. Start Talking to It. How I gave my coding agent a free, fully local voice for my personal projects, and why I think this..."
+  },
+  "baa86348f64d8339": {
+    "file": "corpus/devto/dev_to_cyclopt_dimitrisk_dont-reveal-it-is-not-an-access-con_936c2dcdcc.md",
+    "source": "devto",
+    "title": "Don't reveal it' is not an access control. RAG permissions belong in retrieval.",
+    "url": "https://dev.to/cyclopt_dimitrisk/dont-reveal-it-is-not-an-access-control-rag-permissions-belong-in-retrieval-3475",
+    "keywords": [
+      "rag permissions belong",
+      "rag permissions belong",
+      "tutorial version",
+      "every document",
+      "access control",
+      "access control",
+      "rag",
+      "source",
+      "reveal",
+      "reveal"
+    ],
+    "summary": "# \"Don't reveal it\" is not an access control. RAG permissions belong in retrieval. The gap between the demo and production   In the tutorial version of RAG, every document in..."
+  },
+  "fc32653f79c82a2c": {
+    "file": "corpus/devto/dev_to_spicrawl_what-is-an-ai-web-crawler-crawler-vs-scraper_30f6bef5b0.md",
+    "source": "devto",
+    "title": "What Is an AI Web Crawler? Crawler vs Scraper, Explained Simply",
+    "url": "https://dev.to/spicrawl/what-is-an-ai-web-crawler-crawler-vs-scraper-explained-simply-467",
+    "keywords": [
+      "mean two different things",
+      "crawler vs scraper",
+      "crawler vs scraper",
+      "ai web crawler",
+      "ai web crawler",
+      "ai web crawler",
+      "53z people say",
+      "wrong ...",
+      "explained simply",
+      "explained simply"
+    ],
+    "summary": "# What Is an AI Web Crawler? People say \"AI web crawler\" and mean two different things. Mixing them up leads to picking the wrong..."
+  },
+  "3238b042bf2b44d5": {
+    "file": "corpus/devto/dev_to_elliot_brenya_an-ai-security-audit-found-31-holes-in-_605a1b0eab.md",
+    "source": "devto",
+    "title": "An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.",
+    "url": "https://dev.to/elliot_brenya/an-ai-security-audit-found-31-holes-in-my-app-i-fixed-them-in-a-day-1717",
+    "keywords": [
+      "cloudflare security skill found",
+      "sms code verified",
+      "guest could talk",
+      "redirect check",
+      "email address",
+      "backslash beat",
+      "ai staff",
+      "laravel app",
+      "app",
+      "app"
+    ],
+    "summary": "# An AI Security Audit Found 31 Holes in My App. A guest could talk to my AI staff as me. What a Cloudflare security skill found in my Laravel app, and what I did about it."
+  },
+  "4b46336b39f3cd35": {
+    "file": "corpus/devto/dev_to_leomabuku_i-built-tongalang-an-educational-programmin_9bb7fefe3d.md",
+    "source": "devto",
+    "title": "I Built TongaLang: An Educational Programming Language Using Tonga-Derived Keywords",
+    "url": "https://dev.to/leomabuku/i-built-tongalang-an-educational-programming-language-using-tonga-derived-keywords-45pf",
+    "keywords": [
+      "programming language",
+      "journey building",
+      "derived keywords",
+      "derived keywords",
+      "built tongalang",
+      "built tongalang",
+      "tongalang",
+      "zambia",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I Built TongaLang: An Educational Programming Language Using Tonga-Derived Keywords > Source: devto | Category: news | 2026-11-12T19:53:53Z From an Idea to TongaLang: My Journey Building a Programming Language in Zambia   How a..."
+  },
+  "cecdbe37fd37976c": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_small-teams-giant-leverage-how-5-per_f09bc90b71.md",
+    "source": "devto",
+    "title": "Small Teams, Giant Leverage: How 5-Person IT Shops Are Out-Shipping Enterprise Divisions",
+    "url": "https://dev.to/debashish_ghosal/small-teams-giant-leverage-how-5-person-it-shops-are-out-shipping-enterprise-divisions-17f5",
+    "keywords": [
+      "9m per 500 devs",
+      "atlassian priced enterprise friction",
+      "small shops never paid",
+      "shipping enterprise divisions",
+      "shipping enterprise divisions",
+      "zero coordination tax",
+      "orgs shipping fastest",
+      "figure budgets —",
+      "small teams",
+      "small teams"
+    ],
+    "summary": "# Small Teams, Giant Leverage: How 5-Person IT Shops Are Out-Shipping Enterprise Divisions Atlassian priced enterprise friction at $7.9M per 500 devs. Small shops never paid it."
+  },
+  "53e582ceb8efef6d": {
+    "file": "corpus/devto/dev_to_gabi_ulianitski_531d04d75_how-to-stop-infinite-ai-age_62040d3196.md",
+    "source": "devto",
+    "title": "How to Stop Infinite AI Agent Loops and Reduce LLM API Costs in Python",
+    "url": "https://dev.to/gabi_ulianitski_531d04d75/how-to-stop-infinite-ai-agent-loops-and-reduce-llm-api-costs-in-python-16c1",
+    "keywords": [
+      "reduce llm api costs",
+      "reduce llm api costs",
+      "probably experienced —",
+      "source",
+      "reactions",
+      "python",
+      "python",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# How to Stop Infinite AI Agent Loops and Reduce LLM API Costs in Python > Source: devto | Category: news | 2026-11-12T19:53:51Z If you have deployed autonomous AI agents using tool calling, you have probably experienced—or..."
+  },
+  "4e1e543574417339": {
+    "file": "corpus/devto/dev_to_ben_long-live-rails-3p21_cb780fabaa.md",
+    "source": "devto",
+    "title": "Long Live Rails",
+    "url": "https://dev.to/ben/long-live-rails-3p21",
+    "keywords": [
+      "long live rails",
+      "long live rails",
+      "rails world 2026",
+      "talked openly",
+      "dhh took",
+      "2026",
+      "stage",
+      "source",
+      "reactions",
+      "pencils"
+    ],
+    "summary": "# Long Live Rails > Source: devto | Category: news | 2026-11-12T19:53:50Z When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on..."
+  },
+  "ddaa9d5437a3893a": {
+    "file": "corpus/devto/dev_to_amorizz_what-the-sentry-sdk-drops-after-a-429-quota-r_745b7d0ea5.md",
+    "source": "devto",
+    "title": "What the Sentry SDK drops after a 429 quota response",
+    "url": "https://dev.to/amorizz/what-the-sentry-sdk-drops-after-a-429-quota-response-36n2",
+    "keywords": [
+      "sentry sdk drops",
+      "sentry sdk drops",
+      "official sentry sdk",
+      "429 quota response",
+      "429 quota response",
+      "ingest ...",
+      "error tracker",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# What the Sentry SDK drops after a 429 quota response > Source: devto | Category: news | 2026-11-12T19:53:50Z I'm building an error tracker, and I needed to know what an official Sentry SDK does when my ingest..."
+  },
+  "d9a1f8a8ad32911e": {
+    "file": "corpus/devto/dev_to_koda2026_i-built-github-hot-reloading-in-3-seconds-wi_ac0de5831b.md",
+    "source": "devto",
+    "title": "I Built GitHub Hot-Reloading in 3 Seconds (Without Rebuilding the Sandbox) ⚡🧟‍♂️",
+    "url": "https://dev.to/koda2026/i-built-github-hot-reloading-in-3-seconds-without-rebuilding-the-sandbox-2p0",
+    "keywords": [
+      "⚡🧟 ‍ ♂ ️",
+      "⚡🧟 ‍ ♂ ️",
+      "cloud sandbox every time",
+      "terrible developer ...",
+      "built github hot",
+      "built github hot",
+      "without rebuilding",
+      "without rebuilding",
+      "single line",
+      "51z rebuilding"
+    ],
+    "summary": "# I Built GitHub Hot-Reloading in 3 Seconds (Without Rebuilding the Sandbox) ⚡🧟‍♂️ > Source: devto | Category: news | 2026-11-12T19:53:51Z Rebuilding a cloud sandbox every time you change a single line of code is a terrible developer..."
+  },
+  "181f559db6bb6269": {
+    "file": "corpus/devto/dev_to_kaleman15_ai-found-the-vulnerability-are-we-done-yet-_88f827907c.md",
+    "source": "devto",
+    "title": "AI found the vulnerability. Are we done yet?",
+    "url": "https://dev.to/kaleman15/ai-found-the-vulnerability-are-we-done-yet-39ab",
+    "keywords": [
+      "writing increasingly capable code",
+      "still hard work",
+      "finding serious vulnerabilities",
+      "firefox show",
+      "done yet",
+      "done yet",
+      "ai found",
+      "ai found",
+      "49z ai",
+      "vulnerability"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-12T19:53:49Z AI is finding serious vulnerabilities and writing increasingly capable code. PHP2Shell and Firefox show why proving, fixing and shipping those findings is still hard work."
+  },
+  "04f9c1bf08b58c6f": {
+    "file": "corpus/devto/dev_to_kaleman15_what-does-it-mean-to-formally-verify-softwa_12727713ee.md",
+    "source": "devto",
+    "title": "What does it mean to formally verify software?",
+    "url": "https://dev.to/kaleman15/what-does-it-mean-to-formally-verify-software-1o3b",
+    "keywords": [
+      "write code faster",
+      "formally verify software",
+      "formally verify software",
+      "precise properties",
+      "works",
+      "source",
+      "review",
+      "reactions",
+      "news",
+      "mean"
+    ],
+    "summary": "# What does it mean to formally verify software? Formal verification checks software against precise properties. Here's how that works and why it matters when AI can write code faster than we can review it."
+  },
+  "aaefba7d041cde68": {
+    "file": "corpus/devto/dev_to_hotragn_my-second-dance-with-hacktoberfest-2026-3h4a_25782f6a05.md",
+    "source": "devto",
+    "title": "My Second Dance with Hacktoberfest (2026)",
+    "url": "https://dev.to/hotragn/my-second-dance-with-hacktoberfest-2026-3h4a",
+    "keywords": [
+      "two years ago",
+      "laptop 💻, looked",
+      "second dance",
+      "second dance",
+      "mlh sticker",
+      "sticker",
+      "started",
+      "source",
+      "saw",
+      "reactions"
+    ],
+    "summary": "# My Second Dance with Hacktoberfest (2026) It all started with a sticker. Two years ago, I saw an MLH sticker on a friend's laptop 💻, looked up..."
+  },
+  "b41b257879d1b20a": {
+    "file": "corpus/devto/dev_to_ssukhpinder_i-re-encoded-the-same-eight-bytes-four-mi_b338cd5386.md",
+    "source": "devto",
+    "title": "I Re-Encoded the Same Eight Bytes Four Million Times",
+    "url": "https://dev.to/ssukhpinder/i-re-encoded-the-same-eight-bytes-four-million-times-f21",
+    "keywords": [
+      "garbage per pass",
+      "fresh byte []",
+      "every record",
+      "events writer",
+      "constant framing",
+      "c #'",
+      "3x faster",
+      "switching",
+      "source",
+      "server"
+    ],
+    "summary": "# I Re-Encoded the Same Eight Bytes Four Million Times A server-sent-events writer was allocating a fresh byte[] for its constant framing on every record. Switching to C#'s u8 literals cut 122 MB of garbage per pass and ran about 3x faster."
+  },
+  "ebf36f4888c2adb8": {
+    "file": "corpus/devto/dev_to_effessdev_a-vs-code-extension-to-turn-any-free-chatbo_79f6c69cfe.md",
+    "source": "devto",
+    "title": "A VS Code extension to turn ANY free chatbot website into an AI agent (kind of)",
+    "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1jfb",
+    "keywords": [
+      "vs code extension",
+      "vs code extension",
+      "free chatbot website",
+      "free chatbot website",
+      "free promo",
+      "officially ...",
+      "alibaba ’",
+      "ai ide",
+      "ai agent",
+      "ai agent"
+    ],
+    "summary": "# A VS Code extension to turn ANY free chatbot website into an AI agent (kind of) So, why should I bring this up again? Because Qoder (Alibaba’s AI IDE) free promo has officially..."
+  },
+  "3f086e4d2257e75c": {
+    "file": "corpus/devto/dev_to_sivaraman_ramaswami_e7cc2_i-built-a-travel-app-with-a_68053b4d5f.md",
+    "source": "devto",
+    "title": "I built a travel app with Abstract Factory + affiliate APIs — here's what actually worked",
+    "url": "https://dev.to/sivaraman_ramaswami_e7cc2/i-built-a-travel-app-with-abstract-factory-affiliate-apis-heres-what-actually-worked-41g3",
+    "keywords": [
+      "https :// packednbooked",
+      "affiliate apis —",
+      "affiliate apis —",
+      "building packednbooked",
+      "trip planner",
+      "travel app",
+      "travel app",
+      "actually worked",
+      "actually worked",
+      "abstract factory"
+    ],
+    "summary": "# I built a travel app with Abstract Factory + affiliate APIs — here's what actually worked > Source: devto | Category: news | 2026-11-12T19:53:53Z I've been building packedNbooked (https://packednbooked.com) — a trip planner that starts with your..."
+  },
+  "fc1093c91c798860": {
+    "file": "corpus/devto/dev_to_bitearcade_a-black-box-is-not-redaction-and-three-oth_f2e22a832f.md",
+    "source": "devto",
+    "title": "A black box is not redaction — and three other things I got wrong building local PDF tools",
+    "url": "https://dev.to/bitearcade/a-black-box-is-not-redaction-and-three-other-things-i-got-wrong-building-local-pdf-tools-1pdg",
+    "keywords": [
+      "redaction —",
+      "redaction —",
+      "black rectangle",
+      "black box",
+      "black box",
+      "50z take",
+      "viewer",
+      "three",
+      "three",
+      "things"
+    ],
+    "summary": "# A black box is not redaction — and three other things I got wrong building local PDF tools > Source: devto | Category: news | 2026-11-12T19:53:50Z Draw a black rectangle over a line of text in a viewer that lets you annotate."
+  },
+  "f0b4c18e9dde826f": {
+    "file": "corpus/devto/dev_to_altradits_8-shops-in-5-days-then-a-new-chapter-learni_909e8625df.md",
+    "source": "devto",
+    "title": "8 shops in 5 days, then a new chapter: learning Bitcoin open source in public",
+    "url": "https://dev.to/altradits/8-shops-in-5-days-then-a-new-chapter-learning-bitcoin-open-source-in-public-3dm0",
+    "keywords": [
+      "learning bitcoin open source",
+      "learning bitcoin open source",
+      "12 november 2026",
+      "new chapter",
+      "new chapter",
+      "eight ...",
+      "5 days",
+      "5 days",
+      "8 shops",
+      "8 shops"
+    ],
+    "summary": "# 8 shops in 5 days, then a new chapter: learning Bitcoin open source in public > Source: devto | Category: news | 2026-11-12T19:53:52Z I set out to bring one Kisumu merchant onto bitcoin every week."
+  },
+  "12f5e2450c59b96c": {
+    "file": "corpus/devto/dev_to_tokenmargindev_2026-frontier-token-economics-gpt-61-t_ea0b23492c.md",
+    "source": "devto",
+    "title": "2026 Frontier Token Economics: GPT-6.1 Terra Pro vs Claude Sonnet 5.5 vs DeepSeek V4.1 (And Why Deploys Bust Your Prefix Cache)",
+    "url": "https://dev.to/tokenmargindev/2026-frontier-token-economics-gpt-61-terra-pro-vs-claude-sonnet-55-vs-deepseek-v41-and-why-1g81",
+    "keywords": [
+      "5 vs deepseek v4",
+      "5 vs deepseek v4",
+      "2026 frontier token economics",
+      "2026 frontier token economics",
+      "weight models",
+      "raw ...",
+      "prefix cache",
+      "prefix cache",
+      "deploys bust",
+      "deploys bust"
+    ],
+    "summary": "# 2026 Frontier Token Economics: GPT-6.1 Terra Pro vs Claude Sonnet 5.5 vs DeepSeek V4.1 (And Why Deploys Bust Your Prefix Cache) > Source: devto | Category: news | 2026-11-12T19:53:50Z When 1M-token context windows became standard across frontier and open-weight models this year, raw..."
+  },
+  "032f6968b000fd5e": {
+    "file": "corpus/sales/www_saastr_com_a-great-b2b-agent-doubles-your-acv-most-ai-fe_e08d2deb03.md",
+    "source": "sales",
+    "title": "[saastr] A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.",
+    "url": "https://www.saastr.com/a-great-b2b-agent-doubles-your-acv-most-ai-features-dont-move-it-at-all/",
+    "keywords": [
+      "great b2b agent doubles",
+      "great b2b agent doubles",
+      "great b2b agent doubles",
+      "first real agent",
+      "vertical software company",
+      "portfolio companies launched",
+      "... continue reading",
+      "agent doubles acv",
+      "customer base bought",
+      "loyal base"
+    ],
+    "summary": "Most AI Features Don’t Move It at All. Most AI Features Don’t Move It at All. This week one of our portfolio companies launched its first real agent."
+  },
+  "be1d1614cab2589a": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-what-were-some-of-the-toughest-le_55e6f110fd.md",
+    "source": "sales",
+    "title": "[saastr] 10 of The Toughest Lessons in Building a B2B Startup.  Or Any Startup.",
+    "url": "https://www.saastr.com/dear-saastr-what-were-some-of-the-toughest-lessons-you-learned-about-how-to-build-a-successful-saas-business/",
+    "keywords": [
+      "founders may leave",
+      "also make sure",
+      "successful b2b business",
+      "... continue reading",
+      "toughest lessons",
+      "toughest lessons",
+      "toughest lessons",
+      "toughest lessons",
+      "toughest lessons",
+      "talented co"
+    ],
+    "summary": "# [saastr] 10 of The Toughest Lessons in Building a B2B Startup. Dear SaaStr: What Were Some of the Toughest Lessons You Learned About How to Build a Successful B2B Business? Some of the toughest lessons I’ve learned … and continue to re-learn: Even very talented co-founders may leave."
+  },
+  "5d7cefd3e1125a03": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v3_50_0_2d1d2b520b.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v3.50.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
+    "keywords": [
+      "734f75b5219da0fd74b24afefae81c71af81fcf6 )) ### chores",
+      "0ebd00647f6088fb100b03440c6c4554bbab549d )) ### documentation",
+      "0 ... v3",
+      "python — v3",
+      "47z ## openai",
+      "141a89aa7fbb7f13a979bda930831a5fe38bc3a4 ))",
+      "### features",
+      "0 ##",
+      "0 released",
+      "0 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-12T19:54:47Z * **api:** expose reasoning input transformations on responses ([#4268](https://github.com/openai/openai-python/issues/4268)) ([734f75b](https://github.com/openai/openai-python/commit/734f75b5219da0fd74b24afefae81c71af81fcf6)) * **deps:** bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ([#4261](https://github.com/openai/openai-python/issues/4261)) ([0ebd006](https://github.com/openai/openai-python/commit/0ebd00647f6088fb100b034"
+  },
+  "d87c219f611a1de6": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_41_84df5c1f19.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.41 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.41",
+    "keywords": [
+      "url read tests",
+      "strip cache_breakpoint marker",
+      "real storage url",
+      "changed ### features",
+      "### bug fixes",
+      "crewai — 1",
+      "58z ## crewaiinc",
+      "crewai 1",
+      "crewai 1",
+      "### documentation"
+    ],
+    "summary": "### Features - Allow approved private URL hosts. ### Bug Fixes - Fix projects to depend on PyMuPDF 2.x. - Keep earlier step outputs across a human-feedback resume."
+  },
+  "ebfb8577ccadbb87": {
+    "file": "corpus/github-releases/github_com_rust-lang_rust_releases_tag_1_100_0_199b6ae7d4.md",
+    "source": "github-releases",
+    "title": "rust-lang/rust 1.100.0 released",
+    "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+    "keywords": [
+      "dead_code )]` inside code",
+      "]`]( https :// doc",
+      "]`]( https :// doc",
+      ">`]( https :// doc",
+      "-% 26mut +% 5bt",
+      "packed )` type",
+      "fix soundness issues",
+      "enable next solver",
+      "align )` fields",
+      "id =\" 1"
+    ],
+    "summary": "- [Stabilize never type](https://github.com/rust-lang/rust/pull/155499) - [Lint against repeated `#[repr(..)]` attributes](https://github.com/rust-lang/rust/pull/157036) - [Stabilize `extern \"custom\"`](https://github.com/rust-lang/rust/pull/158504) - [Extend `dropping_references`, `dropping_copy_types` and `undropped_manually_drops` lints to `drop_in_place`](https://github.com/rust-lang/rust/pull/160229) - [`unfulfilled_lint_expectations` no longer fires on `#[expect(dead_code)]` inside code tha"
+  },
+  "8b640dca6b389a5b": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_12_judge-who-ruled-for-trump-while-_dcb6eae44f.md",
+    "source": "legal",
+    "title": "[techdirt] Judge Who Ruled For Trump While Angling For A Trump Appointment Lets Trump’s BBC Lawsuit Proceed",
+    "url": "https://www.techdirt.com/2026/11/12/judge-who-ruled-for-trump-while-angling-for-a-trump-appointment-lets-trumps-bbc-lawsuit-proceed/",
+    "keywords": [
+      "obvious bullshit slapp suit",
+      "donald trump &# 8217",
+      "many months later",
+      "bbc lawsuit proceed",
+      "bbc lawsuit proceed",
+      "bbc lawsuit proceed",
+      "trump said nothing",
+      "&# 8217",
+      "&# 8217",
+      "panorama documentary"
+    ],
+    "summary": "We&#8217;ve now written a few times about Donald Trump&#8217;s obvious bullshit SLAPP suit against the BBC. If you don&#8217;t recall, the BBC ran a Panorama documentary about January 6th. Many months later, some MAGA dipshits on social media start complaining [&#8230;]"
+  },
+  "5eb1e2eed888320e": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_families-fight-to-keep-g_bcd74023a9.md",
+    "source": "legal",
+    "title": "[ars-policy] Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "keywords": [
+      "“ suicide coach .”",
+      "42z google faces calls",
+      "google faces calls",
+      "google faces calls",
+      "lawsuit labels gemini",
+      "gemini pilot backlash",
+      "gemini pilot backlash",
+      "teen ’",
+      "ai moratoriums",
+      "ai moratoriums"
+    ],
+    "summary": "# [ars-policy] Google faces calls for AI moratoriums in schools after Gemini pilot backlash Google faces calls for AI moratoriums in schools after Gemini pilot backlash Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
+  },
+  "d8f99c77bf8dab72": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_12_daily-deal-the-windows-powershel_0acfc05285.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: The Windows PowerShell Bundle",
+    "url": "https://www.techdirt.com/2026/11/12/daily-deal-the-windows-powershell-bundle/",
+    "keywords": [
+      "active directory lab set",
+      "courses cover powershell basics",
+      "windows powershell bundle",
+      "windows powershell bundle",
+      "windows powershell bundle",
+      "windows powershell bundle",
+      "master powershell scripting",
+      "[&# 8230 ;]",
+      "41z daily deal",
+      "techdirt deals store"
+    ],
+    "summary": "# [techdirt] Daily Deal: The Windows PowerShell Bundle Courses cover PowerShell basics and command syntax, Active Directory lab set-up, remote administration, error handling, and more. Note: The Techdirt Deals Store is powered and curated by StackSocial."
+  },
+  "9bfe10ce56caacf1": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_12_foreign-intelligence-has-easy-ac_616b8d6cf4.md",
+    "source": "legal",
+    "title": "[techdirt] Foreign Intelligence Has Easy Access To White House IT Systems Thanks To Dodgy Russian Proxy Software",
+    "url": "https://www.techdirt.com/2026/11/12/foreign-intelligence-has-easy-access-to-white-house-it-systems-thanks-to-dodgy-russian-proxy-software/",
+    "keywords": [
+      "dodgy russian proxy software",
+      "dodgy russian proxy software",
+      "total cybersecurity failures",
+      "terrible opsec resulting",
+      "starlink terminals duct",
+      "[&# 8230 ;]",
+      "41z foreign intelligence",
+      "foreign intelligence",
+      "foreign intelligence",
+      "foreign actors"
+    ],
+    "summary": "# [techdirt] Foreign Intelligence Has Easy Access To White House IT Systems Thanks To Dodgy Russian Proxy Software Foreign Intelligence Has Easy Access To White House IT Systems Thanks To Dodgy Russian Proxy Software Whether it&#8217;s DOGE bros stealing massive datasets and uploading them god-knows-where from Starlink terminals duct-taped to the roof of the White House, to Trump officials and family members having terrible OpSec resulting in their phones being consistently compromised by foreig"
+  },
+  "97fc97b8c1c80d86": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_12_judge-orders-ice-official-to-tes_81bf3d8c33.md",
+    "source": "legal",
+    "title": "[techdirt] Judge Orders ICE Official To Testify About ICE’s RE-Arrests Of Migrants Released By Court Orders",
+    "url": "https://www.techdirt.com/2026/11/12/judge-orders-ice-official-to-testify-about-ices-re-arrests-of-migrants-released-by-court-orders/",
+    "keywords": [
+      "judge orders ice official",
+      "judge orders ice official",
+      "worth mentioning nonetheless",
+      "[&# 8230 ;]",
+      "federal immigration officers",
+      "colorado federal court",
+      "court orders",
+      "court orders",
+      "court orders",
+      "ice ’"
+    ],
+    "summary": "# [techdirt] Judge Orders ICE Official To Testify About ICE’s RE-Arrests Of Migrants Released By Court Orders The timing of this order by a Colorado federal court is so tight it may not be directly related to another federal court&#8217;s frustrated expression of its complete distrust of federal immigration officers, but it&#8217;s worth mentioning nonetheless. Pretty much ever since Trump took office for a second time, immigration enforcement has become little more [&#8230;]"
+  },
+  "d81e5c832c6bd91f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_ukraine-says-spacex-star_90fe3ddc7f.md",
+    "source": "legal",
+    "title": "[ars-policy] Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "keywords": [
+      "ukraine suspects speeds limits",
+      "stop russian strikes",
+      "stop russian strikes",
+      "stop russian strikes",
+      "42z ukraine says",
+      "ukraine says",
+      "ukraine says",
+      "peace talks",
+      "help russia"
+    ],
+    "summary": "# [ars-policy] Ukraine says it can’t stop Russian strikes because Starshield is limited again Ukraine says it can’t stop Russian strikes because Starshield is limited again Report: Ukraine suspects speeds limits are intended to help Russia in peace talks."
+  },
+  "a57bb352815a3ae4": {
+    "file": "corpus/ai-research/huggingface_co_blog_3d-lora-finetuning_cbda9238a3.md",
+    "source": "ai-research",
+    "title": "[hf-blog] The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "keywords": [
+      "3d generation models",
+      "3d generation models",
+      "3d generation models",
+      "tuning guide",
+      "tuning guide",
+      "tuning guide",
+      "definitive fine",
+      "definitive fine",
+      "definitive fine",
+      "source"
+    ],
+    "summary": "# [hf-blog] The Definitive Fine-Tuning Guide for 3D Generation Models > Source: ai-research | Category: research | 2026-11-12T19:53:42Z The Definitive Fine-Tuning Guide for 3D Generation Models"
+  },
+  "0ab4c8ebed6437b3": {
+    "file": "corpus/ai-research/huggingface_co_blog_ibm-granite_llmon-an-llm-native-markup-l_84ec87286c.md",
+    "source": "ai-research",
+    "title": "[hf-blog] LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "keywords": [
+      "native markup language",
+      "native markup language",
+      "native markup language",
+      "granite 4",
+      "granite 4",
+      "granite 4",
+      "1 3b",
+      "1 3b",
+      "1 3b",
+      "42z llmon"
+    ],
+    "summary": "# [hf-blog] LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B > Source: ai-research | Category: research | 2026-11-12T19:53:42Z LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+  },
+  "b9c86de7e1c6d570": {
+    "file": "corpus/hn-hiring/news_ycombinator_com_item_id_50466168_42736b3fe3.md",
+    "source": "hn-hiring",
+    "title": "HN Hiring (Ask HN: Who is hiring? (November 2026))",
+    "url": "https://news.ycombinator.com/item?id=50466168",
+    "keywords": [
+      "help early users get",
+      "plain markdown vault",
+      "find new ones",
+      "careers &# x2f",
+      "careers &# x2f",
+      "cv .< p",
+      "watch every one",
+      "november 2026 ))",
+      "november 2026 ))",
+      "ai &# x2f"
+    ],
+    "summary": "Native | Founding Builder-in-Residence | San Francisco (preferred) or London |REMOTE or ONSITE | 3-month contract, $3,000-6,000&#x2F;month | <a href=\"https:&#x2F;&#x2F;withnative.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;withnative.ai</a><p>We’re building an open-source workstation for teams that run on agents. It runs locally or in the cloud, and on our benchmark it’s 40x more token-efficient than a plain Markdown vault. The research behind it is done with the Stanford Digital Economy Lab.<p>You’d w"
+  },
+  "c3a9d43b4ba8b120": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48746_baas-bank-griffin-raises-_173bb2aa87.md",
+    "source": "finance",
+    "title": "[finextra] BaaS bank Griffin raises £20m to add cards and stablecoin capabilities",
+    "url": "https://www.finextra.com/newsarticle/48746/baas-bank-griffin-raises-20m-to-add-cards-and-stablecoin-capabilities?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "series b funding round",
+      "raised £ 20 million",
+      "stablecoin capabilities uk banking",
+      "£ 100 million",
+      "service bank griffin",
+      "stablecoin capabilities",
+      "stablecoin capabilities",
+      "add cards",
+      "add cards",
+      "add cards"
+    ],
+    "summary": "# [finextra] BaaS bank Griffin raises £20m to add cards and stablecoin capabilities BaaS bank Griffin raises £20m to add cards and stablecoin capabilities UK Banking-as-a-Service bank Griffin has raised £20 million in a Series B funding round that values the business at over £100 million."
+  },
+  "6d00d1bf79d4f086": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48745_metro-bank-puts-itself-up_67cb691223.md",
+    "source": "finance",
+    "title": "[finextra] Metro Bank puts itself up for sale",
+    "url": "https://www.finextra.com/newsarticle/48745/metro-bank-puts-itself-up-for-sale?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "42z metro bank puts",
+      "metro bank puts",
+      "metro bank puts",
+      "metro bank rose",
+      "eight per cent",
+      "2 billion put",
+      "£ 1",
+      "uk lender",
+      "market capitalisation",
+      "sale shares"
+    ],
+    "summary": "# [finextra] Metro Bank puts itself up for sale Metro Bank puts itself up for sale Shares in Metro Bank rose by eight per cent on Thursday after the UK lender with a market capitalisation of £1.2 billion put itself up for sale."
+  },
+  "bed7296a98f7d527": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48750_fiserv-lays-groundwork-to_95ef898c30.md",
+    "source": "finance",
+    "title": "[finextra] Fiserv lays groundwork to offload a debit network",
+    "url": "https://www.finextra.com/newsarticle/48750/fiserv-lays-groundwork-to-offload-a-debit-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "42z fiserv lays groundwork",
+      "fiserv lays groundwork",
+      "fiserv lays groundwork",
+      "says takis georgakopoulos",
+      "two debit networks",
+      "debit network fiserv",
+      "debit network",
+      "debit network",
+      "moving clients",
+      "way"
+    ],
+    "summary": "# [finextra] Fiserv lays groundwork to offload a debit network Fiserv lays groundwork to offload a debit network Fiserv is moving clients to one of its two debit networks as it paves the way to sell the other, says Takis Georgakopoulos."
+  },
+  "4fc7a35742291f30": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48749_fnz-to-close-offices-and-_1411f70582.md",
+    "source": "finance",
+    "title": "[finextra] FNZ to close offices and reduce headcount",
+    "url": "https://www.finextra.com/newsarticle/48749/fnz-to-close-offices-and-reduce-headcount?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "sustainable business \".",
+      "transformation plan",
+      "reduce headcount",
+      "reduce headcount",
+      "raising prices",
+      "cutting jobs",
+      "closing offices",
+      "close offices",
+      "close offices",
+      "close offices"
+    ],
+    "summary": "# [finextra] FNZ to close offices and reduce headcount FNZ to close offices and reduce headcount Wealth management platform FNZ is closing offices, cutting jobs and raising prices as part of a transformation plan to \"build a sustainable business\"."
+  },
+  "6f2e292cc47ee141": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48747_intermex-rejects-western-_f1e70e7fda.md",
+    "source": "finance",
+    "title": "[finextra] Intermex 'rejects' Western Union's termination of takeover deal",
+    "url": "https://www.finextra.com/newsarticle/48747/intermex-rejects-western-unions-termination-of-takeover-deal?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "500 million acquisition deal",
+      "takeover deal intermex says",
+      "rejects western union",
+      "takeover deal",
+      "takeover deal",
+      "western union",
+      "western union",
+      "western union",
+      "rival takes",
+      "merger \"."
+    ],
+    "summary": "# [finextra] Intermex 'rejects' Western Union's termination of takeover deal Intermex 'rejects' Western Union's termination of takeover deal Intermex says that it rejects Western Union's decision to abandon a $500 million acquisition deal and is demanding its rival takes \"all actions necessary to consummate the merger\"."
+  },
+  "8e44e2309ebd6cdf": {
+    "file": "corpus/finance/techcrunch_com_2026_11_12_norwest-pushes-deeper-into-ai-with_7c091be54b.md",
+    "source": "finance",
+    "title": "[tc-venture] Norwest pushes deeper into AI with new $4B fund",
+    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "keywords": [
+      "41z norwest pushes deeper",
+      "norwest pushes deeper",
+      "norwest pushes deeper",
+      "largest fund",
+      "investment firm",
+      "4b fund",
+      "4b fund",
+      "4b fund",
+      "venture",
+      "venture"
+    ],
+    "summary": "# [tc-venture] Norwest pushes deeper into AI with new $4B fund Norwest pushes deeper into AI with new $4B fund This is the investment firm's largest fund to date."
+  },
+  "12aeab6559e4681b": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48748_starling-unveils-ai-power_1c6eaab5c2.md",
+    "source": "finance",
+    "title": "[finextra] Starling unveils AI-powered 'talk to transact' feature",
+    "url": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "lets retail customers set",
+      "42z starling unveils ai",
+      "starling unveils ai",
+      "starling unveils ai",
+      "feature starling",
+      "powered feature",
+      "feature",
+      "feature",
+      "powered"
+    ],
+    "summary": "# [finextra] Starling unveils AI-powered 'talk to transact' feature Starling unveils AI-powered 'talk to transact' feature Starling is launching an AI-powered feature that lets retail customers set up payments by speaking to the bank's app."
+  },
+  "056324a9de4e5b5e": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48743_western-union-ditches-int_6607baca33.md",
+    "source": "finance",
+    "title": "[finextra] Western Union ditches Intermex acquisition",
+    "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermex-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "500 million acquisition",
+      "rival intermex",
+      "acceptable approval",
+      "source",
+      "secure",
+      "regulators",
+      "pulled",
+      "plug",
+      "finextra",
+      "finextra"
+    ],
+    "summary": "# [finextra] Western Union ditches Intermex acquisition Western Union ditches Intermex acquisition Western Union has pulled the plug on its $500 million acquisition of rival Intermex after failing to secure an \"acceptable approval\" for the deal from regulators."
   }
 }
