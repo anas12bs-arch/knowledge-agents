@@ -873866,5 +873866,871 @@
       "ai startups"
     ],
     "summary": "# [tc-venture] Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say Nvidia poured tens of billions into AI startups under Huang."
+  },
+  "660ea035469b9182": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_compute-engine-api-versioning_utm_ca8bf836b8.md",
+    "source": "engineering",
+    "title": "[infoq] Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+    "url": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "model azure resource manager",
+      "iam checks without touching",
+      "01z google cloud moves",
+      "based versions google cloud",
+      "google cloud moves",
+      "google cloud moves",
+      "selected per request",
+      "compute engine api",
+      "compute engine api",
+      "compute engine api"
+    ],
+    "summary": "# [infoq] Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions Google Cloud has made date-based versioning of the Compute Engine API generally available, replacing the single mutable /v1 surface with immutable quarterly snapshots such as 2026-09-01, selected per request with a header or query parameter."
+  },
+  "34832020823cc525": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_mongodb-compatible-documentdb_utm_45ae8699d3.md",
+    "source": "engineering",
+    "title": "[infoq] Open Source DocumentDB 1.0 Reaches General Availability",
+    "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "queries work without changes",
+      "licensed document database built",
+      "first generally available release",
+      "0 reaches general availability",
+      "0 reaches general availability",
+      "open source documentdb 1",
+      "open source documentdb 1",
+      "mongodb wire protocol",
+      "open source",
+      "mongodb drivers"
+    ],
+    "summary": "# [infoq] Open Source DocumentDB 1.0 Reaches General Availability DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol. Most MongoDB drivers, tools, and queries work without changes."
+  },
+  "a3d9a77311f39105": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_5BrgFY5jIn4_6840042084.md",
+    "source": "youtube",
+    "title": "[theo] It’s so much worse than I thought…",
+    "url": "https://www.youtube.com/watch?v=5BrgFY5jIn4",
+    "keywords": [
+      "forecast --- slower license",
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "https :// incompetech",
+      "http :// creativecommons",
+      "kevin macleod link",
+      "much slower",
+      "thought …",
+      "thought …"
+    ],
+    "summary": "Gemini 4 Carbon is much slower than I initially thought, and it's bad enough that we need to talk about it Check out my Twitch, Twitter, Discord more at https://t3.gg Local Forecast - Slower by Kevin MacLeod Link: https://incompetech.filmmusic.io/song/3988-local-forecast---slower License: http://creativecommons.org/licenses/by/4.0"
+  },
+  "948f588c0d454c28": {
+    "file": "corpus/hackernews/unsloth_ai_docs_models_qwen3_8_8b981141b7.md",
+    "source": "hackernews",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "url": "https://unsloth.ai/docs/models/qwen3.8",
+    "keywords": [
+      "unsloth qwen3",
+      "unsloth qwen3",
+      "1 update",
+      "1 update",
+      "01z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update > Source: hackernews | Category: news | 2026-11-14T08:01:01Z Score: 109 | Comments: 21"
+  },
+  "67b56f3d9ce887d8": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_IRK8h67ol7Q_b53103b0eb.md",
+    "source": "hackernews",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "keywords": [
+      "jonathan blow –",
+      "jonathan blow –",
+      "ai solved coding",
+      "ai solved coding",
+      "software still",
+      "software still",
+      "02z score",
+      "video",
+      "video",
+      "source"
+    ],
+    "summary": "# Jonathan Blow – If AI solved coding, why is my software still the same? > Source: hackernews | Category: news | 2026-11-14T08:01:02Z Score: 259 | Comments: 271"
+  },
+  "d1e3892ede9bf512": {
+    "file": "corpus/hackernews/twitter_com_willdepue_status_2120992457630326841_f954783e78.md",
+    "source": "hackernews",
+    "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
+    "url": "https://twitter.com/willdepue/status/2120992457630326841",
+    "keywords": [
+      "weight models",
+      "weight models",
+      "10z score",
+      "source",
+      "open",
+      "open",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Ex-OpenAI researcher finds Blackwell signatures in open-weight models > Source: hackernews | Category: news | 2026-11-14T08:01:10Z Score: 10 | Comments: 1"
+  },
+  "d1d75a60134b4cf4": {
+    "file": "corpus/hackernews/longreads_com_2026_10_29_family-road-trip-china-north-korea_5721640922.md",
+    "source": "hackernews",
+    "title": "Road Trip at the Borderland",
+    "url": "https://longreads.com/2026/10/29/family-road-trip-china-north-korea/",
+    "keywords": [
+      "road trip",
+      "road trip",
+      "08z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "borderland",
+      "borderland"
+    ],
+    "summary": "# Road Trip at the Borderland > Source: hackernews | Category: news | 2026-11-14T08:01:08Z Score: 5 | Comments: 0"
+  },
+  "7401414942dc49de": {
+    "file": "corpus/hackernews/engineering_fb_com_2026_11_09_developer-tools_extending-lldb_00b84ea100.md",
+    "source": "hackernews",
+    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+    "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+    "keywords": [
+      "span cpus",
+      "span cpus",
+      "extending lldb",
+      "extending lldb",
+      "debug applications",
+      "debug applications",
+      "02z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Extending LLDB to Debug Applications That Span CPUs and GPUs > Source: hackernews | Category: news | 2026-11-14T08:01:02Z Score: 5 | Comments: 0"
+  },
+  "c378cb8afefe5d14": {
+    "file": "corpus/hackernews/citizenlab_ca_security-agencies-worldwide-found-to-use-ad-ba_60d9f48d75.md",
+    "source": "hackernews",
+    "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+    "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+    "keywords": [
+      "security agencies worldwide found",
+      "security agencies worldwide found",
+      "based surveillance system",
+      "based surveillance system",
+      "use ad",
+      "use ad",
+      "05z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Security Agencies Worldwide Found to Use Ad-Based Surveillance System > Source: hackernews | Category: news | 2026-11-14T08:01:05Z Score: 75 | Comments: 5"
+  },
+  "006df3b50a0dba51": {
+    "file": "corpus/hackernews/claude_com_resources_articles_projects-redesigned_60e5719dda.md",
+    "source": "hackernews",
+    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+    "url": "https://claude.com/resources/articles/projects-redesigned",
+    "keywords": [
+      "run parallel ai workers",
+      "run parallel ai workers",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Anthropic upgrades Claude Code Projects to run parallel AI workers > Source: hackernews | Category: news | 2026-11-14T08:01:12Z Score: 82 | Comments: 78"
+  },
+  "6788bb445ceb6979": {
+    "file": "corpus/hackernews/www_techpowerup_com_354814_nvidia-allegedly-engineered-scarc_8f4b2632f4.md",
+    "source": "hackernews",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "keywords": [
+      "nvidia allegedly engineered scarcity",
+      "nvidia allegedly engineered scarcity",
+      "funding ai startups",
+      "funding ai startups",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "gpus",
+      "gpus"
+    ],
+    "summary": "# Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs > Source: hackernews | Category: news | 2026-11-14T08:01:00Z Score: 429 | Comments: 232"
+  },
+  "58ce7470f7087c5b": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50494696_b338b5a5af.md",
+    "source": "hackernews",
+    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+    "url": "https://news.ycombinator.com/item?id=50494696",
+    "keywords": [
+      "preexisting moderately technical background",
+      "take economic advantage",
+      "better .< p",
+      "concrete ai skills",
+      "concrete ai skills",
+      "concrete skills",
+      "degree program",
+      "ask hn",
+      "ask hn",
+      "08z score"
+    ],
+    "summary": "# Ask HN: What are the most useful, concrete AI skills to independently learn? Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?<p>What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? “Learn how-to x with y”) the better.<p>Thank you!"
+  },
+  "dd7d9f614fd75d22": {
+    "file": "corpus/hackernews/today_ucsd_edu_story_elephants-found-to-be-increasingly-isol_385bb7e91b.md",
+    "source": "hackernews",
+    "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+    "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+    "keywords": [
+      "increasingly isolated leading",
+      "increasingly isolated leading",
+      "fractured social networks",
+      "fractured social networks",
+      "elephants found",
+      "elephants found",
+      "03z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Elephants found to be increasingly isolated leading to fractured social networks > Source: hackernews | Category: news | 2026-11-14T08:01:03Z Score: 121 | Comments: 21"
+  },
+  "5e4aef69d68cdc36": {
+    "file": "corpus/hackernews/github_com_jjuliano_easy-lang_fd3134b1e0.md",
+    "source": "hackernews",
+    "title": "Easy-Lang: Evangel Quiwa's Programming Language",
+    "url": "https://github.com/jjuliano/easy-lang",
+    "keywords": [
+      "programming language",
+      "programming language",
+      "evangel quiwa",
+      "evangel quiwa",
+      "06z score",
+      "source",
+      "news",
+      "lang",
+      "lang",
+      "hackernews"
+    ],
+    "summary": "# Easy-Lang: Evangel Quiwa's Programming Language > Source: hackernews | Category: news | 2026-11-14T08:01:06Z Score: 6 | Comments: 0"
+  },
+  "00165dfead08f5df": {
+    "file": "corpus/hackernews/quahuru_com_5ef362a753.md",
+    "source": "hackernews",
+    "title": "Quahuru: An original dice strategy board game",
+    "url": "https://quahuru.com",
+    "keywords": [
+      "10z score",
+      "source",
+      "quahuru",
+      "quahuru",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Quahuru: An original dice strategy board game > Source: hackernews | Category: news | 2026-11-14T08:01:10Z Score: 5 | Comments: 5"
+  },
+  "bb89013aef040096": {
+    "file": "corpus/hackernews/monkeyisland_pages_dev_977955ebc5.md",
+    "source": "hackernews",
+    "title": "Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/",
+    "keywords": [
+      "13 versions side",
+      "13 versions side",
+      "monkey island",
+      "monkey island",
+      "02z score",
+      "side",
+      "side",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Monkey Island: all 13 versions side by side > Source: hackernews | Category: news | 2026-11-14T08:01:02Z Score: 16 | Comments: 2"
+  },
+  "09a68867569654a5": {
+    "file": "corpus/hackernews/alloversky_com_puzzlepieces_the-other-nefertiti_ee84903b03.md",
+    "source": "hackernews",
+    "title": "The Other Nefertiti (2015)",
+    "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+    "keywords": [
+      "05z score",
+      "source",
+      "news",
+      "nefertiti",
+      "nefertiti",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "2015"
+    ],
+    "summary": "# The Other Nefertiti (2015) > Source: hackernews | Category: news | 2026-11-14T08:01:05Z Score: 11 | Comments: 1"
+  },
+  "d39bd1d4e6bb3af8": {
+    "file": "corpus/hackernews/blue-continuum_com_the-village-that-gave-back-its-sea_99406bb702.md",
+    "source": "hackernews",
+    "title": "Cabo Pulmo, John Steinbeck, and the village that wouldn't give up",
+    "url": "https://blue-continuum.com/the-village-that-gave-back-its-sea",
+    "keywords": [
+      "john steinbeck",
+      "john steinbeck",
+      "cabo pulmo",
+      "cabo pulmo",
+      "05z score",
+      "village",
+      "village",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Cabo Pulmo, John Steinbeck, and the village that wouldn't give up > Source: hackernews | Category: news | 2026-11-14T08:01:05Z Score: 6 | Comments: 1"
+  },
+  "6ac24918eebc937b": {
+    "file": "corpus/hackernews/salmagundi_skidmore_edu_articles_2001-philip-roth-david-remn_e0da1b3ee4.md",
+    "source": "hackernews",
+    "title": "Philip Roth and David Remnick getting personal (2001)",
+    "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+    "keywords": [
+      "david remnick getting personal",
+      "david remnick getting personal",
+      "philip roth",
+      "philip roth",
+      "05z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Philip Roth and David Remnick getting personal (2001) > Source: hackernews | Category: news | 2026-11-14T08:01:05Z Score: 14 | Comments: 0"
+  },
+  "82d2b1a97d01f428": {
+    "file": "corpus/hackernews/github_com_ggml-org_ggml_releases_tag_v1_0_0_22f7de6935.md",
+    "source": "hackernews",
+    "title": "Ggml v1.0.0",
+    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "keywords": [
+      "ggml v1",
+      "ggml v1",
+      "00z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "205"
+    ],
+    "summary": "# Ggml v1.0.0 > Source: hackernews | Category: news | 2026-11-14T08:01:00Z Score: 205 | Comments: 33"
+  },
+  "3a9120f0a4ff0fe3": {
+    "file": "corpus/devto/dev_to_rahul_agarwal18_i-put-a-real-llm-in-my-portfolio-it-r_9dab20e99c.md",
+    "source": "devto",
+    "title": "I put a real LLM in my portfolio. It runs on your GPU, not my server.",
+    "url": "https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8",
+    "keywords": [
+      "real llm",
+      "real llm",
+      "lighthouse 100",
+      "hero animation",
+      "four mistakes",
+      "every token",
+      "browser rag",
+      "webllm",
+      "webgpu",
+      "way"
+    ],
+    "summary": "# I put a real LLM in my portfolio. It runs on your GPU, not my server. In-browser RAG with WebLLM and WebGPU, a hero animation that fires with every token, and the four mistakes I fixed on the way to Lighthouse 100."
+  },
+  "d1805f1249a58b3c": {
+    "file": "corpus/devto/dev_to_umitomo-lab_weekly-dev-log-2026-w23-2029_d0c4c57829.md",
+    "source": "devto",
+    "title": "Weekly Dev Log 2026-W23",
+    "url": "https://dev.to/umitomo-lab/weekly-dev-log-2026-w23-2029",
+    "keywords": [
+      "16z weekly learning log",
+      "weekly dev log 2026",
+      "weekly dev log 2026",
+      "cybersecurity — 2026",
+      "web development",
+      "w23 reactions",
+      "2026",
+      "w23",
+      "w23",
+      "source"
+    ],
+    "summary": "# Weekly Dev Log 2026-W23 > Source: devto | Category: news | 2026-11-14T08:01:16Z Weekly learning log of iOS, web development, and cybersecurity — 2026-W23"
+  },
+  "af0a10605f0ca719": {
+    "file": "corpus/devto/dev_to_xavidop_introducing-hikyaku-a-message-relay-that-rout_b00ab79447.md",
+    "source": "devto",
+    "title": "Introducing hikyaku: A Message Relay That Routes with AI and Never Drops a Message",
+    "url": "https://dev.to/xavidop/introducing-hikyaku-a-message-relay-that-routes-with-ai-and-never-drops-a-message-l2l",
+    "keywords": [
+      "source go message relay",
+      "one yaml file",
+      "message relay",
+      "message relay",
+      "never drops",
+      "never drops",
+      "letter queue",
+      "introducing hikyaku",
+      "introducing hikyaku",
+      "every step"
+    ],
+    "summary": "# Introducing hikyaku: A Message Relay That Routes with AI and Never Drops a Message > Source: devto | Category: news | 2026-11-14T08:01:15Z hikyaku is an open-source Go message relay: one YAML file, retries and fallbacks at every step, a dead-letter queue you can replay, and an AI router."
+  },
+  "8253f22889f42c62": {
+    "file": "corpus/devto/dev_to_altrouter_asking-an-llm-are-these-two-tickets-duplica_a45926f2bd.md",
+    "source": "devto",
+    "title": "Asking an LLM 'are these two tickets duplicates?' costs $111 for 1,000 tickets and $11,130 for 10,000",
+    "url": "https://dev.to/altrouter/asking-an-llm-are-these-two-tickets-duplicates-costs-111-for-1000-tickets-and-11130-for-4k7m",
+    "keywords": [
+      "16z checking every pair",
+      "two tickets duplicates ?'",
+      "two tickets duplicates ?\"",
+      "1 )/ 2 calls",
+      "evenly spread data",
+      "llm takes n",
+      "000 tickets",
+      "000 tickets",
+      "lopsided data",
+      "ten times"
+    ],
+    "summary": "# Asking an LLM \"are these two tickets duplicates?\" Checking every pair of items with an LLM takes N(N-1)/2 calls, so ten times the data costs a hundred times as much. Labeling each item once and comparing only inside a label cut the GPT-5.6 bill about 20x on evenly spread data, and 5.5-8x on realistic, lopsided data."
+  },
+  "80cbd238daa16e80": {
+    "file": "corpus/devto/dev_to_jsmanifest_tc39-using-declarations-land-in-v8-13-what_236302c65f.md",
+    "source": "devto",
+    "title": "TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript",
+    "url": "https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h",
+    "keywords": [
+      "js 24 developers get",
+      "js 24 developers get",
+      "explicit resource management proposal",
+      "try `/` finally",
+      "free without typescript",
+      "free without typescript",
+      "v8 13",
+      "v8 13",
+      "memory leaks",
+      "declarations land"
+    ],
+    "summary": "# TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript V8 13 ships TC39's Explicit Resource Management proposal. Node.js 24 developers get deterministic cleanup without TypeScript, `try`/`finally` blocks, or memory leaks."
+  },
+  "60ea6f50de1e7db9": {
+    "file": "corpus/devto/dev_to_thekillsquad007_i-measured-my-auto-video-editor-on-re_1988a74660.md",
+    "source": "devto",
+    "title": "I measured my auto video editor on real streams. It was picking the outro.",
+    "url": "https://dev.to/thekillsquad007/i-measured-my-auto-video-editor-on-real-streams-it-was-picking-the-outro-77d",
+    "keywords": [
+      "build phoenix editor",
+      "auto video editor",
+      "auto video editor",
+      "real streams",
+      "real streams",
+      "play recording",
+      "long stream",
+      "desktop app",
+      "dead ...",
+      "takes"
+    ],
+    "summary": "# I measured my auto video editor on real streams. It was picking the outro. I build Phoenix Editor, a desktop app that takes a long stream or Let's Play recording, cuts the dead..."
+  },
+  "fe669894540e57f8": {
+    "file": "corpus/devto/dev_to_hoelee_why-i-still-bought-a-gpu-to-run-ai-when-claude_5c4932227b.md",
+    "source": "devto",
+    "title": "Why I Still Bought a GPU to Run AI When Claude and GPT Are Obviously Stronger",
+    "url": "https://dev.to/hoelee/why-i-still-bought-a-gpu-to-run-ai-when-claude-and-gpt-are-obviously-stronger-17ei",
+    "keywords": [
+      "gpu anyway —",
+      "14z claude opus",
+      "uptime argument",
+      "still bought",
+      "still bought",
+      "run locally",
+      "run ai",
+      "run ai",
+      "real numbers",
+      "obviously stronger"
+    ],
+    "summary": "# Why I Still Bought a GPU to Run AI When Claude and GPT Are Obviously Stronger Claude Opus and GPT are stronger than anything I can run locally. Here is the cost, control, and uptime argument for owning a GPU anyway — with real numbers."
+  },
+  "e42de3fcdeaaf78a": {
+    "file": "corpus/devto/dev_to_azeem_shafeeq_i-built-a-free-browser-shooter-set-in-a_134e11cab6.md",
+    "source": "devto",
+    "title": "I Built a Free Browser Shooter Set in a Pakistani Old-City Bazaar",
+    "url": "https://dev.to/azeem_shafeeq/i-built-a-free-browser-shooter-set-in-a-pakistani-old-city-bazaar-599d",
+    "keywords": [
+      "free browser shooter set",
+      "free browser shooter set",
+      "browser shooter set",
+      "free desktop",
+      "purana shehr",
+      "pakistani old",
+      "pakistani old",
+      "pakistani old",
+      "city bazaar",
+      "city bazaar"
+    ],
+    "summary": "# I Built a Free Browser Shooter Set in a Pakistani Old-City Bazaar A free desktop-browser shooter set in Purana Shehr, a Pakistani old-city bazaar. What's in the game, what it needs, and how to try it."
+  },
+  "fe5f7bd6c5022a8d": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_10-lines-to-give-your-coding-agent-b_889cab7c64.md",
+    "source": "devto",
+    "title": "10 Lines to Give Your Coding Agent Before It Touches Your Repo",
+    "url": "https://dev.to/debashish_ghosal/10-lines-to-give-your-coding-agent-before-it-touches-your-repo-2ab9",
+    "keywords": [
+      "set defaults ...",
+      "coding agent",
+      "coding agent",
+      "10 lines",
+      "10 lines",
+      "touches",
+      "touches",
+      "source",
+      "repository"
+    ],
+    "summary": "# 10 Lines to Give Your Coding Agent Before It Touches Your Repo Every coding agent reads your repository before it changes it. The only place you get to set defaults..."
+  },
+  "5a775903bae4b5d6": {
+    "file": "corpus/devto/dev_to_arnostorg_powershell-like-vs-match-the-real-differenc_dcba758384.md",
+    "source": "devto",
+    "title": "PowerShell -like vs -match: The Real Difference (and Why Your Filter Matches Too Much)",
+    "url": "https://dev.to/arnostorg/powershell-like-vs-match-the-real-difference-and-why-your-filter-matches-too-much-2gf1",
+    "keywords": [
+      "back came catalog",
+      "txt ,...",
+      "real difference",
+      "real difference",
+      "object name",
+      "log files",
+      "log ',",
+      "like vs",
+      "like vs",
+      "filter matches"
+    ],
+    "summary": "# PowerShell -like vs -match: The Real Difference (and Why Your Filter Matches Too Much) You wanted only the .log files. You wrote Where-Object Name -match 'log', and back came catalog.txt,..."
+  },
+  "5d0e9fb8a1f7b499": {
+    "file": "corpus/devto/dev_to_pavlina_stavreva_how-to-track-unpaid-invoices-in-goog_81c9278602.md",
+    "source": "devto",
+    "title": "How to track unpaid invoices in Google Sheets (with automatic overdue status)",
+    "url": "https://dev.to/pavlina_stavreva/how-to-track-unpaid-invoices-in-google-sheets-with-automatic-overdue-status-bnb",
+    "keywords": [
+      "track unpaid invoices",
+      "track unpaid invoices",
+      "nobody notices ...",
+      "automatic overdue status",
+      "automatic overdue status",
+      "google sheets",
+      "google sheets",
+      "clients refuse",
+      "lose money",
+      "lose"
+    ],
+    "summary": "# How to track unpaid invoices in Google Sheets (with automatic overdue status) Most freelancers don't lose money because clients refuse to pay. They lose it because nobody notices..."
+  },
+  "56f0e40c4f268baa": {
+    "file": "corpus/devto/dev_to_aheadkit_git-256s-history-drop-is-40-77x-faster-than-_51d69afe1a.md",
+    "source": "devto",
+    "title": "Git 2.56's history-drop Is 40-77x Faster Than Rebase — I Built It and Got 6x",
+    "url": "https://dev.to/aheadkit/git-256s-history-drop-is-40-77x-faster-than-rebase-i-built-it-and-got-6x-gai",
+    "keywords": [
+      "new experimental command",
+      "13z git 2",
+      "git history drop",
+      "git 2",
+      "git 2",
+      "september 28",
+      "rebase —",
+      "rebase —",
+      "headline ...",
+      "got 6x"
+    ],
+    "summary": "# Git 2.56's history-drop Is 40-77x Faster Than Rebase — I Built It and Got 6x > Source: devto | Category: news | 2026-11-14T08:01:13Z Git 2.56 shipped on September 28 with a new experimental command, git history drop, and the headline..."
+  },
+  "e91b27a81bb278ac": {
+    "file": "corpus/devto/dev_to_petrj_anyone-need-a-linux-sandbox-with-its-own-public_9df96930fd.md",
+    "source": "devto",
+    "title": "Anyone need a Linux sandbox with its own public IPv6?",
+    "url": "https://dev.to/petrj/anyone-need-a-linux-sandbox-with-its-own-public-ipv6-13a2",
+    "keywords": [
+      "building isolated linux sandboxes",
+      "linux sandbox",
+      "linux sandbox",
+      "small isp",
+      "public ipv6",
+      "public ipv6",
+      "firecracker microvms",
+      "anyone need",
+      "anyone need",
+      "source"
+    ],
+    "summary": "# Anyone need a Linux sandbox with its own public IPv6? > Source: devto | Category: news | 2026-11-14T08:01:13Z I run a small ISP and have been building isolated Linux sandboxes (Firecracker microVMs) mainly for..."
+  },
+  "35c1c6178e9a465d": {
+    "file": "corpus/devto/dev_to_yashksaini_devcon-8-mumbai-four-days-at-ethereums-big_89e0c317c7.md",
+    "source": "devto",
+    "title": "Devcon 8 Mumbai: Four Days at Ethereum's Biggest Builder Gathering",
+    "url": "https://dev.to/yashksaini/devcon-8-mumbai-four-days-at-ethereums-biggest-builder-gathering-3jn",
+    "keywords": [
+      "devcon 8 mumbai",
+      "devcon 8 mumbai",
+      "biggest builder gathering",
+      "biggest builder gathering",
+      "little late",
+      "four days",
+      "four days",
+      "wanted",
+      "source",
+      "sharing"
+    ],
+    "summary": "# Devcon 8 Mumbai: Four Days at Ethereum's Biggest Builder Gathering > Source: devto | Category: news | 2026-11-14T08:01:16Z A little late in sharing this, but I wanted to capture all the details as best as I can."
+  },
+  "3df6ff03f85b3b75": {
+    "file": "corpus/devto/dev_to_dhruonweb_i-audited-the-company-shared-drive-the-2019_c281c8af1b.md",
+    "source": "devto",
+    "title": "I Audited the Company Shared Drive. The 2019 Password Sheet Still Worked.",
+    "url": "https://dev.to/dhruonweb/i-audited-the-company-shared-drive-the-2019-password-sheet-still-worked-4mea",
+    "keywords": [
+      "minute favor became",
+      "company shared drive",
+      "company shared drive",
+      "live credentials",
+      "editor ...",
+      "xlsx",
+      "source",
+      "reactions",
+      "passwords",
+      "news"
+    ],
+    "summary": "# I Audited the Company Shared Drive. The 2019 Password Sheet Still Worked. A five-minute favor became an afternoon: Passwords-2019.xlsx with live credentials, a 43-editor..."
+  },
+  "085933adaf52ab9f": {
+    "file": "corpus/devto/dev_to_samyak_vaghela_ff0e1e6dd8_i-scanned-6-popular-repos-t_3f9f4dd1ab.md",
+    "source": "devto",
+    "title": "I scanned 6 popular repos the way a coding agent reads them. LangChain's lockfiles outweigh its code.",
+    "url": "https://dev.to/samyak_vaghela_ff0e1e6dd8/i-scanned-6-popular-repos-the-way-a-coding-agent-reads-them-langchains-lockfiles-outweigh-its-1i38",
+    "keywords": [
+      "scanned 6 popular repos",
+      "scanned 6 popular repos",
+      "skim past uv",
+      "lock without thinking",
+      "coding agent reads",
+      "coding agent reads",
+      "16z coding agents",
+      "lockfiles outweigh",
+      "lockfiles outweigh",
+      "way"
+    ],
+    "summary": "# I scanned 6 popular repos the way a coding agent reads them. LangChain's lockfiles outweigh its code. Coding agents don't read a repo the way you do."
+  },
+  "398dc55a20da509d": {
+    "file": "corpus/devto/dev_to_basteez_wild-shift-devlog-3-sigsegv-incoming-l4h_a8fe0bbc0d.md",
+    "source": "devto",
+    "title": "Wild Shift Devlog #3: SIGSEGV incoming",
+    "url": "https://dev.to/basteez/wild-shift-devlog-3-sigsegv-incoming-l4h",
+    "keywords": [
+      "13z third update",
+      "wild shift devlog",
+      "wild shift devlog",
+      "wild shift",
+      "devlog ...",
+      "shift ).",
+      "sigsegv incoming",
+      "sigsegv incoming",
+      "github game",
+      "debugger 0x03"
+    ],
+    "summary": "# Wild Shift Devlog #3: SIGSEGV incoming > Source: devto | Category: news | 2026-11-14T08:01:13Z Third update on The Debugger 0x03: Wild Shift, my GitHub Game Off 2026 entry (theme: SHIFT)."
+  },
+  "4be223e1a3d07c88": {
+    "file": "corpus/devto/dev_to_aheadkit_removebg-dies-dec-1-i-ran-the-same-3-photos-_bc30105735.md",
+    "source": "devto",
+    "title": "remove.bg Dies Dec 1 — I Ran the Same 3 Photos Through the Free Replacements and Timed Them",
+    "url": "https://dev.to/aheadkit/removebg-dies-dec-1-i-ran-the-same-3-photos-through-the-free-replacements-and-timed-them-206j",
+    "keywords": [
+      "standalone site goes dark",
+      "14z december 1",
+      "free replacements",
+      "free replacements",
+      "3 photos",
+      "3 photos",
+      "timed",
+      "timed",
+      "source",
+      "remove"
+    ],
+    "summary": "# remove.bg Dies Dec 1 — I Ran the Same 3 Photos Through the Free Replacements and Timed Them > Source: devto | Category: news | 2026-11-14T08:01:14Z That's when remove.bg's standalone site goes dark for good."
+  },
+  "c3e8461f51730bbf": {
+    "file": "corpus/devto/dev_to_ssukhpinder_i-sorted-two-million-rows-to-keep-ten-20n_0747b2adb4.md",
+    "source": "devto",
+    "title": "I Sorted Two Million Rows to Keep Ten",
+    "url": "https://dev.to/ssukhpinder/i-sorted-two-million-rows-to-keep-ten-20np",
+    "keywords": [
+      "sorted two million rows",
+      "sorted two million rows",
+      "returns ten rows",
+      "bounded priorityqueue min",
+      "allocating 56 mb",
+      "keep ten",
+      "keep ten",
+      "real best",
+      "leaderboard endpoint",
+      "heap took"
+    ],
+    "summary": "# I Sorted Two Million Rows to Keep Ten A leaderboard endpoint that returns ten rows was allocating 56 MB to do it. A bounded PriorityQueue min-heap took it to 568 bytes, with real best-of-five numbers."
+  },
+  "2a80ff920c8e0d2e": {
+    "file": "corpus/devto/dev_to_acemeridian_openai-timeout60-never-fired-on-a-stream-_e1822dfc66.md",
+    "source": "devto",
+    "title": "OpenAI timeout=60 Never Fired on a Stream With Keep-Alives",
+    "url": "https://dev.to/acemeridian/openai-timeout60-never-fired-on-a-stream-with-keep-alives-10o7",
+    "keywords": [
+      "streamed completion ...",
+      "60 never fired",
+      "60 never fired",
+      "openai python sdk",
+      "60 limits",
+      "socket read",
+      "openai timeout",
+      "openai timeout",
+      "timeout",
+      "stream"
+    ],
+    "summary": "# OpenAI timeout=60 Never Fired on a Stream With Keep-Alives > Source: devto | Category: news | 2026-11-14T08:01:14Z The openai Python SDK's timeout=60 limits each socket read, not the request, so a streamed completion..."
+  },
+  "cd4853493099f00b": {
+    "file": "corpus/devto/dev_to_panthpatel_keep-client-customisations-out-of-your-pro_f616cc3853.md",
+    "source": "devto",
+    "title": "Keep client customisations out of your product: an iframe sandbox",
+    "url": "https://dev.to/panthpatel/keep-client-customisations-out-of-your-product-an-iframe-sandbox-co1",
+    "keywords": [
+      "keep client customisations",
+      "keep client customisations",
+      "dependency browser sandbox",
+      "customisations stay",
+      "iframe sandbox",
+      "iframe sandbox",
+      "ai makes",
+      "zero",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Keep client customisations out of your product: an iframe sandbox Every client wants something different, and AI makes it cheap to build. I built a zero-dependency browser sandbox so those customisations stay out of"
+  },
+  "14c3504441b90a52": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_a-cyclomatic-complexity-audit-of-my-own_7cf8344045.md",
+    "source": "devto",
+    "title": "A Cyclomatic Complexity Audit of My Own MCP Server: The Fix With the Most Safety Checks Scored the Worst",
+    "url": "https://dev.to/enjoy_kumawat/a-cyclomatic-complexity-audit-of-my-own-mcp-server-the-fix-with-the-most-safety-checks-scored-the-11d0",
+    "keywords": [
+      "safety checks scored",
+      "safety checks scored",
+      "cyclomatic complexity audit",
+      "cyclomatic complexity audit",
+      "wrong complaint",
+      "week argued",
+      "trending post",
+      "mcp server",
+      "mcp server",
+      "ai code"
+    ],
+    "summary": "# \"A Cyclomatic Complexity Audit of My Own MCP Server: The Fix With the Most Safety Checks Scored the Worst\" > Source: devto | Category: news | 2026-11-14T08:01:14Z A trending post this week argued that \"AI code is unmaintainable\" is the wrong complaint, because..."
+  },
+  "764846247ab4885d": {
+    "file": "corpus/devto/dev_to_yahhi_where-did-your-week-go-ask-your-agent-164h_0ff4493370.md",
+    "source": "devto",
+    "title": "Where did your week go? Ask your agent",
+    "url": "https://dev.to/yahhi/where-did-your-week-go-ask-your-agent-164h",
+    "keywords": [
+      "ten people ...",
+      "week go",
+      "week go",
+      "like building",
+      "feature idea",
+      "source",
+      "reactions",
+      "news",
+      "list",
+      "happy"
+    ],
+    "summary": "# Where did your week go? Give me a feature idea and an evening, and I'm happy. Give me a list of ten people..."
+  },
+  "c8d0d0fc06c7c443": {
+    "file": "corpus/devto/dev_to_copyleftdev_biologys-best-algorithms-arent-just-for-s_c3e3e71b35.md",
+    "source": "devto",
+    "title": "Biology's Best Algorithms Aren't Just for Scientists Anymore",
+    "url": "https://dev.to/copyleftdev/biologys-best-algorithms-arent-just-for-scientists-anymore-50al",
+    "keywords": [
+      "slime mold",
+      "scientists anymore",
+      "scientists anymore",
+      "efficient ...",
+      "best algorithms",
+      "best algorithms",
+      "source",
+      "reactions",
+      "news",
+      "network"
+    ],
+    "summary": "# Biology's Best Algorithms Aren't Just for Scientists Anymore > Source: devto | Category: news | 2026-11-14T08:01:13Z Ant colonies find short paths without a map, and a slime mold once grew a network about as efficient..."
+  },
+  "e5d65a78a1130061": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_28_1_1f33c8e29f.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.28.1 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.28.1",
+    "keywords": [
+      "8036 ## new contributors",
+      "client ### fixes",
+      "https :// github",
+      "https :// github",
+      "0 ... v11",
+      "50z ## trpc",
+      "trpc — v11",
+      "1 ##",
+      "first contribution",
+      "1 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-14T08:01:50Z * fix(client): keep array input intact when resuming a subscription by @LittleChenLiya in https://github.com/trpc/trpc/pull/8036 * @LittleChenLiya made their first contribution in https://github.com/trpc/trpc/pull/8036"
+  },
+  "5c40d4e4867a0879": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_13_dlss-5-got-faster-leaner-more-su_e41a62cb7e.md",
+    "source": "legal",
+    "title": "[techdirt] DLSS 5 Got Faster, Leaner, & More Subtle For ‘Hogwarts Legacy’",
+    "url": "https://www.techdirt.com/2026/11/13/dlss-5-got-faster-leaner-more-subtle-for-hogwarts-legacy/",
+    "keywords": [
+      "‘ hogwarts legacy ’",
+      "‘ hogwarts legacy ’",
+      "3 already made use",
+      "dlss 5 got faster",
+      "dlss 5 got faster",
+      "[&# 8230 ;]",
+      "dlss 2",
+      "nvidia released",
+      "machine learning",
+      "gaming industry"
+    ],
+    "summary": "# [techdirt] DLSS 5 Got Faster, Leaner, & More Subtle For ‘Hogwarts Legacy’ DLSS 5 Got Faster, Leaner, & More Subtle For ‘Hogwarts Legacy’ There is a never-AI crowd in the gaming industry that doesn&#8217;t seem to understand that DLSS 2 and 3 already made use of machine learning for [&#8230;]"
   }
 }
