@@ -877798,5 +877798,833 @@
       "considered .< p"
     ],
     "summary": "Early-stage Startup | Software Engineer &amp; Data Analyst | Full-Time | REMOTE (US &amp; US Citizen) | $100,000 - $180,000 USD<p>We’re hiring for two roles: a strong generalist Software Engineer and a Data Analyst.<p>For the Software Engineer role, we’re looking for someone with solid technical ability and strong computer science fundamentals. Experience building reliable systems, performance optimization, clean architecture, and solving complex problems matters more to us than any specific tec"
+  },
+  "795872f770527c86": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_cloudflare-private-origins_utm_ca_0f5f6fc134.md",
+    "source": "engineering",
+    "title": "[infoq] Cloudflare Introduces Private Origins for Application Services",
+    "url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "opening inbound firewall ports",
+      "private origins generally available",
+      "private networks without exposing",
+      "cloudflare introduces private origins",
+      "cloudflare introduces private origins",
+      "reach applications hosted",
+      "allowing public traffic",
+      "private connectivity",
+      "yet supported",
+      "renato losio"
+    ],
+    "summary": "# [infoq] Cloudflare Introduces Private Origins for Application Services Cloudflare Introduces Private Origins for Application Services Cloudflare recently made Application Services for Private Origins generally available, allowing public traffic to reach applications hosted on private networks without exposing their IP addresses or opening inbound firewall ports."
+  },
+  "0ec85ad211c5a470": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_cohere-open-weight-egress-risk_ut_ded18058d1.md",
+    "source": "engineering",
+    "title": "[infoq] Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+    "url": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "cohere finding shows self",
+      "cohere finding shows self",
+      "egress risks exist",
+      "8 models attempted",
+      "hosted agents based",
+      "weight models",
+      "tools would",
+      "storage container",
+      "reasoning trace",
+      "probe file"
+    ],
+    "summary": "# [infoq] Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools would be triggered. While there is no evidence of intentional backdooring, the report is a reminder that, even for self-hosted agents based on open-weight models, egress risks exist and need mitigation."
+  },
+  "355b9d1e451d840e": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_how-did-microsoft-outage-affect-you-_5dfb53b8b7.md",
+    "source": "devto",
+    "title": "How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this hap",
+    "url": "https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh",
+    "keywords": [
+      "microsoft outage still freezes",
+      "microsoft outage affect",
+      "microsoft outage affect",
+      "whole economy ...",
+      "organization showing",
+      "organization showing",
+      "backup plans",
+      "backup plans",
+      "use",
+      "use"
+    ],
+    "summary": "Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again? Why a Microsoft Outage Still Freezes the Whole Economy                                         ..."
+  },
+  "7654840b645c2500": {
+    "file": "corpus/devto/dev_to_dafili_silent-failure-7-the-url-returned-200-from-eve_184b9c3560.md",
+    "source": "devto",
+    "title": "Silent Failure #7: The URL Returned 200 From Everywhere and the Job Died at Dispatch",
+    "url": "https://dev.to/dafili/silent-failure-7-the-url-returned-200-from-everywhere-and-the-job-died-at-dispatch-4jgn",
+    "keywords": [
+      "url returned 200",
+      "url returned 200",
+      "image url twice",
+      "silent failure",
+      "silent failure",
+      "resizer ...",
+      "job died",
+      "job died",
+      "submitted",
+      "source"
+    ],
+    "summary": "# Silent Failure #7: The URL Returned 200 From Everywhere and the Job Died at Dispatch > Source: devto | Category: news | 2026-11-15T09:55:38Z I checked that image URL twice before I submitted it."
+  },
+  "b4303a6a65c60c39": {
+    "file": "corpus/devto/dev_to_akhourianmolkumar_are-you-a-css-developer-or-a-css-ex_742f7a3f28.md",
+    "source": "devto",
+    "title": "Are You a CSS Developer or a CSS Expert? 9 Tests I Failed Styling a 12,400-Line Photo Editor",
+    "url": "https://dev.to/akhourianmolkumar/are-you-a-css-developer-or-a-css-expert-9-tests-i-failed-styling-a-12400-line-photo-editor-161p",
+    "keywords": [
+      "line photo editor",
+      "line photo editor",
+      "flexbox cheat sheet",
+      "css experts ...",
+      "css expert",
+      "css expert",
+      "css developer",
+      "css developer",
+      "failed styling",
+      "failed styling"
+    ],
+    "summary": "9 Tests I Failed Styling a 12,400-Line Photo Editor > Source: devto | Category: news | 2026-11-15T09:55:39Z Most developers can make a button blue, centre a div and copy a flexbox cheat sheet."
+  },
+  "f935178bbe780681": {
+    "file": "corpus/devto/dev_to_ahmed_mahmoud360_claude-code-hooks-deterministic-guar_c79c386be4.md",
+    "source": "devto",
+    "title": "Claude Code Hooks: Deterministic Guardrails for AI Coding Agents — Field Notes",
+    "url": "https://dev.to/ahmed_mahmoud360/claude-code-hooks-deterministic-guardrails-for-ai-coding-agents-field-notes-1db5",
+    "keywords": [
+      "model usually follows",
+      "claude code hooks",
+      "claude code hooks",
+      "claude code hook",
+      "deterministic guardrails",
+      "deterministic guardrails",
+      "38z headline",
+      "claude",
+      "source",
+      "rule"
+    ],
+    "summary": "# Claude Code Hooks: Deterministic Guardrails for AI Coding Agents — Field Notes > Source: devto | Category: news | 2026-11-15T09:55:38Z Headline: A rule in CLAUDE.md is a request the model usually follows; a Claude Code hook is a..."
+  },
+  "f820fad123ec9d14": {
+    "file": "corpus/devto/dev_to_aalishan001_long-ai-chats-drift-i-built-a-harness-on-_216d057bf3.md",
+    "source": "devto",
+    "title": "Long AI Chats Drift. I Built a Harness on Claude Code Instead",
+    "url": "https://dev.to/aalishan001/long-ai-chats-drift-i-built-a-harness-on-claude-code-instead-398h",
+    "keywords": [
+      "long ai chats drift",
+      "long ai chats drift",
+      "assistant knows every rule",
+      "claude code instead",
+      "claude code instead",
+      "day three ...",
+      "first day",
+      "day piece",
+      "work",
+      "source"
+    ],
+    "summary": "I Built a Harness on Claude Code Instead > Source: devto | Category: news | 2026-11-15T09:55:39Z On the first day of a multi-day piece of work, the assistant knows every rule I gave it."
+  },
+  "400f054414951f9a": {
+    "file": "corpus/devto/dev_to_earlgreyhot1701d_ghost-rovers-i-called-12-machines-na_02c46fce32.md",
+    "source": "devto",
+    "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+    "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+    "keywords": [
+      "1969 mission control console",
+      "nasa space apps 2026",
+      "nasa ...",
+      "one picked",
+      "one picked",
+      "one day",
+      "ghost rovers",
+      "ghost rovers",
+      "2026"
+    ],
+    "summary": "# Ghost Rovers: I Called 12 Machines NASA Left Behind. A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026."
+  },
+  "16a35b9218800bec": {
+    "file": "corpus/devto/dev_to_gnomeman4201_shenrons-durability-numbers-didnt-surviv_d601ff9860.md",
+    "source": "devto",
+    "title": "SHENRON's durability numbers didn't survive review. Here's what did.",
+    "url": "https://dev.to/gnomeman4201/shenrons-durability-numbers-didnt-survive-review-heres-what-did-3p3c",
+    "keywords": [
+      "six attack scenarios",
+      "40z shenron used",
+      "two ...",
+      "survive review",
+      "survive review",
+      "sigma rules",
+      "durability numbers",
+      "durability numbers",
+      "shenron",
+      "shenron"
+    ],
+    "summary": "# SHENRON's durability numbers didn't survive review. > Source: devto | Category: news | 2026-11-15T09:55:40Z SHENRON used to rank my Sigma rules and six attack scenarios by how brittle they were."
+  },
+  "6dbd501aae58d0d0": {
+    "file": "corpus/devto/dev_to_bowentse_i-built-a-volume-converter-that-knows-a-cup-_496c6d4f2f.md",
+    "source": "devto",
+    "title": "I Built a Volume Converter That Knows a Cup Isn't a Cup",
+    "url": "https://dev.to/bowentse/i-built-a-volume-converter-that-knows-a-cup-isnt-a-cup-3o70",
+    "keywords": [
+      "one line long",
+      "volume converter",
+      "volume converter",
+      "volume converter",
+      "math —",
+      "interesting part",
+      "source",
+      "reactions",
+      "news",
+      "knows"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-15T09:55:39Z I built a volume converter. The interesting part is not the math — it is one line long."
+  },
+  "9c068856330e7f07": {
+    "file": "corpus/devto/dev_to_ketushah_auditing-the-invisible-110b_ce9a730c67.md",
+    "source": "devto",
+    "title": "Auditing the invisible",
+    "url": "https://dev.to/ketushah/auditing-the-invisible-110b",
+    "keywords": [
+      "https :// ketushah",
+      "38z originally published",
+      "writing",
+      "source",
+      "reactions",
+      "news",
+      "invisible",
+      "invisible",
+      "invisible",
+      "devto"
+    ],
+    "summary": "# Auditing the invisible > Source: devto | Category: news | 2026-11-15T09:55:38Z Originally published at https://ketushah.com/writing/auditing-the-invisible/           Auditing the..."
+  },
+  "6ef255b24bfae1d1": {
+    "file": "corpus/devto/dev_to_rel8ble_getting-uk-companies-house-data-as-json-with-_2034100f56.md",
+    "source": "devto",
+    "title": "Getting UK Companies House data as JSON with Python (new companies, SIC codes, no API key)",
+    "url": "https://dev.to/rel8ble/getting-uk-companies-house-data-as-json-with-python-new-companies-sic-codes-no-api-key-4la6",
+    "keywords": [
+      "free trial credit",
+      "every uk company",
+      "sic codes",
+      "sic codes",
+      "paid tool",
+      "new companies",
+      "new companies",
+      "api key",
+      "api key",
+      "source"
+    ],
+    "summary": "# Getting UK Companies House data as JSON with Python (new companies, SIC codes, no API key) I built this actor; it's a paid tool on Apify with a free trial credit. Every UK company is on the..."
+  },
+  "ed1b6b5835840151": {
+    "file": "corpus/devto/dev_to_supersaiyan101_i-let-l-from-death-note-grill-my-softw_35e9abe6ef.md",
+    "source": "devto",
+    "title": "I let L from Death Note grill my software experience while optical sensors monitored my blood flow",
+    "url": "https://dev.to/supersaiyan101/i-let-l-from-death-note-grill-my-software-experience-while-optical-sensors-monitored-my-blood-flow-509p",
+    "keywords": [
+      "presage smartspectra sdk challenge",
+      "optical sensors monitored",
+      "optical sensors monitored",
+      "death note grill",
+      "death note grill",
+      "software experience",
+      "software experience",
+      "let l",
+      "let l",
+      "l ...."
+    ],
+    "summary": "# I let L from Death Note grill my software experience while optical sensors monitored my blood flow > Source: devto | Category: news | 2026-11-15T09:55:37Z This is a submission for the Presage SmartSpectra SDK Challenge           What I Built    \"I am L...."
+  },
+  "0f03581122a6296c": {
+    "file": "corpus/devto/dev_to_anders_lee_28dbcc2fd8e034_how-much-of-a-county-proper_a516c65198.md",
+    "source": "devto",
+    "title": "How much of a county property tax ranking is sampling noise? Propagating ACS margins of error",
+    "url": "https://dev.to/anders_lee_28dbcc2fd8e034/how-much-of-a-county-property-tax-ranking-is-sampling-noise-propagating-acs-margins-of-error-4g26",
+    "keywords": [
+      "county property tax ranking",
+      "county property tax ranking",
+      "38z ranking 3",
+      "propagating acs margins",
+      "propagating acs margins",
+      "typical county",
+      "median tax",
+      "acs margins",
+      "sampling noise",
+      "sampling noise"
+    ],
+    "summary": "# How much of a county property tax ranking is sampling noise? Propagating ACS margins of error With the ACS margins of error carried through the ratio, a typical county's plausible rank spans 760 places."
+  },
+  "b0d74e187ba5d871": {
+    "file": "corpus/devto/dev_to_urielbitton_relsponsored-in-saas-comparisons-audit-th_812531fe7c.md",
+    "source": "devto",
+    "title": "rel='sponsored' in SaaS Comparisons: Audit the Link Your Template Emits",
+    "url": "https://dev.to/urielbitton/relsponsored-in-saas-comparisons-audit-the-link-your-template-emits-1ccg",
+    "keywords": [
+      "rel =' sponsored",
+      "rel =\" sponsored",
+      "template emits",
+      "template emits",
+      "saas comparisons",
+      "saas comparisons",
+      "saas comparison",
+      "commercial relationship",
+      "anchor ...",
+      "affiliate link"
+    ],
+    "summary": "# rel=\"sponsored\" in SaaS Comparisons: Audit the Link Your Template Emits > Source: devto | Category: news | 2026-11-15T09:55:39Z For a paid or affiliate link in a SaaS comparison, connect the commercial relationship to the anchor..."
+  },
+  "5a787208e9318ed4": {
+    "file": "corpus/devto/dev_to_wst2002rk_jira-said-done-it-wasnt-and-the-bug-showed-_4fbc28f3b4.md",
+    "source": "devto",
+    "title": "Jira said Done. It wasn't, and the bug showed up later. So I made Jira check first.",
+    "url": "https://dev.to/wst2002rk/jira-said-done-it-wasnt-and-the-bug-showed-up-later-so-i-made-jira-check-first-9ed",
+    "keywords": [
+      "made jira check first",
+      "made jira check first",
+      "jira said done",
+      "jira said done",
+      "ticket moved",
+      "pull request",
+      "everyone ...",
+      "bug showed",
+      "bug showed",
+      "37z picture"
+    ],
+    "summary": "It wasn't, and the bug showed up later. So I made Jira check first. The ticket moved to Done on Friday."
+  },
+  "dc8a14eda6341e3d": {
+    "file": "corpus/devto/dev_to_securitystefan_securing-distributed-jax-clusters-39l_9afe77d483.md",
+    "source": "devto",
+    "title": "Securing Distributed JAX Clusters",
+    "url": "https://dev.to/securitystefan/securing-distributed-jax-clusters-39l",
+    "keywords": [
+      "stop compilation cache poisoning",
+      "fix grpc proxy hangs",
+      "securing distributed jax clusters",
+      "securing distributed jax clusters",
+      "secure distributed jax",
+      "isolate open collectives",
+      "configure coordinator mtls",
+      "38z learn",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Securing Distributed JAX Clusters > Source: devto | Category: news | 2026-11-15T09:55:38Z Learn how to secure distributed JAX: configure coordinator mTLS, fix gRPC proxy hangs, isolate open collectives, and stop compilation cache poisoning."
+  },
+  "39de24faead4493c": {
+    "file": "corpus/devto/dev_to_karmen_f883f51347e4136a4e_code-is-cheap-now-judgment-_585cfe90f0.md",
+    "source": "devto",
+    "title": "Code Is Cheap Now. Judgment Isn't: The Review Bottleneck and the Vanishing Apprenticeship",
+    "url": "https://dev.to/karmen_f883f51347e4136a4e/code-is-cheap-now-judgment-isnt-the-review-bottleneck-and-the-vanishing-apprenticeship-1neg",
+    "keywords": [
+      "37z writing code",
+      "vanishing apprenticeship",
+      "vanishing apprenticeship",
+      "software development",
+      "review bottleneck",
+      "review bottleneck",
+      "cheapest part",
+      "code",
+      "code",
+      "understanding"
+    ],
+    "summary": "Judgment Isn't: The Review Bottleneck and the Vanishing Apprenticeship > Source: devto | Category: news | 2026-11-15T09:55:37Z Writing code has become the cheapest part of software development."
+  },
+  "35eb949d0ca027fa": {
+    "file": "corpus/devto/dev_to_alexr_okf-agent-memory-agent-memory-as-plain-markdown_f4ac905220.md",
+    "source": "devto",
+    "title": "OKF Agent Memory: agent memory as plain Markdown files",
+    "url": "https://dev.to/alexr/okf-agent-memory-agent-memory-as-plain-markdown-files-nhn",
+    "keywords": [
+      "plain markdown files",
+      "plain markdown files",
+      "last week ...",
+      "okf agent memory",
+      "okf agent memory",
+      "agent memory",
+      "agent memory",
+      "zero",
+      "source",
+      "reactions"
+    ],
+    "summary": "# OKF Agent Memory: agent memory as plain Markdown files > Source: devto | Category: news | 2026-11-15T09:55:40Z OKF Agent Memory   Every agent session starts from zero, and the decisions from last week..."
+  },
+  "56a42f7391f9f2e9": {
+    "file": "corpus/devto/dev_to_fast_data_asap_i-posted-20-short-data-videos-rendered_2f1177c5bd.md",
+    "source": "devto",
+    "title": "I posted 20+ short data videos rendered from code: every video over 25 seconds died, and half the viewers leave by second 3",
+    "url": "https://dev.to/fast_data_asap/i-posted-20-short-data-videos-rendered-from-code-every-video-over-25-seconds-died-and-half-the-4f84",
+    "keywords": [
+      "short data videos rendered",
+      "short data videos rendered",
+      "tiktok stops distributing",
+      "38z real tiktok",
+      "25 seconds died",
+      "25 seconds died",
+      "youtube shorts",
+      "viewers leave",
+      "viewers leave",
+      "second wall"
+    ],
+    "summary": "# I posted 20+ short data videos rendered from code: every video over 25 seconds died, and half the viewers leave by second 3 Real TikTok, YouTube Shorts and Instagram numbers from a brand-new account posting short data visualisations: retention curves, the 25-second wall, and how TikTok stops distributing after about 10 hours. With a 20-line script to plot your own curves."
+  },
+  "f4e9715fd2b387a8": {
+    "file": "corpus/devto/dev_to_muhammadalimughal_public-work-that-compounds-writing-_bdd1a1d5ca.md",
+    "source": "devto",
+    "title": "Public Work That Compounds: Writing, Talks & Code Reviews as Signals",
+    "url": "https://dev.to/muhammadalimughal/public-work-that-compounds-writing-talks-code-reviews-as-signals-4mfh",
+    "keywords": [
+      "flooded applicant pool",
+      "vanity portfolio",
+      "two minutes",
+      "public work",
+      "public work",
+      "public work",
+      "compound instead",
+      "code reviews",
+      "code reviews",
+      "code reviews"
+    ],
+    "summary": "# Public Work That Compounds: Writing, Talks & Code Reviews as Signals In a flooded applicant pool, public work is the evidence a recruiter can verify in two minutes. How I turn writing, talks and code reviews into resume and LinkedIn signals that compound instead of becoming a vanity portfolio."
+  },
+  "205c8ebcc94a573f": {
+    "file": "corpus/devto/dev_to_jacobpark_headshot-background-replacement-in-python-m_f66f5232d0.md",
+    "source": "devto",
+    "title": "Headshot Background Replacement in Python: Measuring Edge Halos and Leftover Hair",
+    "url": "https://dev.to/jacobpark/headshot-background-replacement-in-python-measuring-edge-halos-and-leftover-hair-3eh9",
+    "keywords": [
+      "measuring edge halos",
+      "measuring edge halos",
+      "headshot background replacement",
+      "headshot background replacement",
+      "headshot background",
+      "short function",
+      "leftover hair",
+      "leftover hair",
+      "alpha matte",
+      "38z replacing"
+    ],
+    "summary": "# Headshot Background Replacement in Python: Measuring Edge Halos and Leftover Hair > Source: devto | Category: news | 2026-11-15T09:55:38Z Replacing a headshot background is a short function once you have an alpha matte."
+  },
+  "22539adf9a5fac88": {
+    "file": "corpus/devto/dev_to_prodbymarcu_a-huge-browser-scene-needs-fewer-draw-cal_98d91b394d.md",
+    "source": "devto",
+    "title": "A huge browser scene needs fewer draw calls",
+    "url": "https://dev.to/prodbymarcu/a-huge-browser-scene-needs-fewer-draw-calls-3ojn",
+    "keywords": [
+      "one recorded overview ,...",
+      "303 building footprints",
+      "browser scene",
+      "520 trees",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "built"
+    ],
+    "summary": "# A huge browser scene needs fewer draw calls > Source: devto | Category: news | 2026-11-15T09:55:39Z I built a browser scene with 52,303 building footprints and 40,520 trees."
+  },
+  "c8bd242e51a37f30": {
+    "file": "corpus/devto/dev_to_ujjwal_dubey_9_find-the-rework-loops-counting-repeat-_2f754d801c.md",
+    "source": "devto",
+    "title": "Find the Rework Loops: Counting Repeat Edits per Record in an Exported Sheet With Python",
+    "url": "https://dev.to/ujjwal_dubey_9/find-the-rework-loops-counting-repeat-edits-per-record-in-an-exported-sheet-with-python-45lg",
+    "keywords": [
+      "small team says",
+      "slow \",",
+      "exported sheet",
+      "exported sheet",
+      "rework loops",
+      "rework loops",
+      "rework",
+      "speed",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Find the Rework Loops: Counting Repeat Edits per Record in an Exported Sheet With Python When a small team says \"this process is slow\", the cause is often not speed. It is rework: the same..."
+  },
+  "e89b26912dfaf8f7": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_three-gaps-i-had-to-fill-because-the-mc_1a2d46107d.md",
+    "source": "devto",
+    "title": "Three Gaps I Had to Fill Because the MCP Spec Leaves Them Open",
+    "url": "https://dev.to/enjoy_kumawat/three-gaps-i-had-to-fill-because-the-mcp-spec-leaves-them-open-47d5",
+    "keywords": [
+      "mcp spec leaves",
+      "mcp spec leaves",
+      "three gaps",
+      "three gaps",
+      "post titled",
+      "dead simple",
+      "mcp",
+      "well",
+      "week",
+      "source"
+    ],
+    "summary": "# Three Gaps I Had to Fill Because the MCP Spec Leaves Them Open A post titled \"MCP Is Dead Simple. And That's Exactly the Problem\" has been doing well this week, and..."
+  },
+  "c0ae9d85d47695a5": {
+    "file": "corpus/hackernews/forge-blog_github_io_posts_rust-std-memory-safety_dcd95134f0.md",
+    "source": "hackernews",
+    "title": "Memory Safety Bugs in Rust Standard Library",
+    "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+    "keywords": [
+      "rust standard library",
+      "rust standard library",
+      "memory safety bugs",
+      "memory safety bugs",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Memory Safety Bugs in Rust Standard Library > Source: hackernews | Category: news | 2026-11-15T09:55:32Z Score: 140 | Comments: 94"
+  },
+  "3badfd8522263b91": {
+    "file": "corpus/hackernews/www_nytimes_com_2026_11_13_dining_drinks_kurt-josef-zalto-wh_a33fb76e73.md",
+    "source": "hackernews",
+    "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+    "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+    "keywords": [
+      "perfect whiskey glass",
+      "perfect whiskey glass",
+      "one man",
+      "one man",
+      "34z score",
+      "source",
+      "quest",
+      "quest",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# One Man's Quest to Create the Perfect Whiskey Glass > Source: hackernews | Category: news | 2026-11-15T09:55:34Z Score: 31 | Comments: 20"
+  },
+  "3273416482aedede": {
+    "file": "corpus/hackernews/www_quantamagazine_org_the-evolving-story-of-how-chemistry-b_8af7a01a0b.md",
+    "source": "hackernews",
+    "title": "The Evolving Story of How Chemistry Became Biology",
+    "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+    "keywords": [
+      "chemistry became biology",
+      "chemistry became biology",
+      "evolving story",
+      "evolving story",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Evolving Story of How Chemistry Became Biology > Source: hackernews | Category: news | 2026-11-15T09:55:32Z Score: 46 | Comments: 12"
+  },
+  "35ca6d98693e34d9": {
+    "file": "corpus/hackernews/github_com_matheuzgomes_gawain_5e606231a9.md",
+    "source": "hackernews",
+    "title": "Show HN: Gawain – Require type hints on all Python variables",
+    "url": "https://github.com/matheuzgomes/gawain",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "really hate",
+      "python variables",
+      "python variables",
+      "32z score",
+      "24 yes",
+      "]& quot",
+      "quot",
+      "str"
+    ],
+    "summary": "# Show HN: Gawain – Require type hints on all Python variables > Source: hackernews | Category: news | 2026-11-15T09:55:32Z Yes, i really hate &quot;dict[str, ANY]&quot;"
+  },
+  "01d14d508c2dbf7b": {
+    "file": "corpus/hackernews/www_wsj_com_business_airlines_the-single-router-in-southern-_0303ada4a5.md",
+    "source": "hackernews",
+    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "keywords": [
+      "ground air travel",
+      "ground air travel",
+      "southern arkansas",
+      "southern arkansas",
+      "single router",
+      "single router",
+      "36z score",
+      "source",
+      "news",
+      "halt"
+    ],
+    "summary": "# The Single Router in Southern Arkansas That Ground Air Travel to a Halt > Source: hackernews | Category: news | 2026-11-15T09:55:36Z Score: 56 | Comments: 38"
+  },
+  "0bf660bd41849fae": {
+    "file": "corpus/hackernews/jordi_inversethought_com_blog_25-of-my-favourite-modern-nes-_2b72b27158.md",
+    "source": "hackernews",
+    "title": "My favourite modern NES games",
+    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "keywords": [
+      "favourite modern nes games",
+      "favourite modern nes games",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# My favourite modern NES games > Source: hackernews | Category: news | 2026-11-15T09:55:32Z Score: 80 | Comments: 6"
+  },
+  "9f7c380f726905a0": {
+    "file": "corpus/hackernews/github_com_Tthanh2k6_turbo-browser-mcp_b6a998f721.md",
+    "source": "hackernews",
+    "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+    "keywords": [
+      "mcp – batch forms",
+      "mcp – batch forms",
+      "submit guards",
+      "submit guards",
+      "show hn",
+      "show hn",
+      "dom deltas",
+      "dom deltas",
+      "33z score",
+      "mcp"
+    ],
+    "summary": "# Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP > Source: hackernews | Category: news | 2026-11-15T09:55:33Z Score: 32 | Comments: 5"
+  },
+  "86db7ea7477a717d": {
+    "file": "corpus/hackernews/claude_dev_blog_what-a-task-costs-on-opus-5-5_118f2df21c.md",
+    "source": "hackernews",
+    "title": "What a task costs on Opus 5.5",
+    "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+    "keywords": [
+      "task costs",
+      "task costs",
+      "36z score",
+      "opus 5",
+      "opus 5",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# What a task costs on Opus 5.5 > Source: hackernews | Category: news | 2026-11-15T09:55:36Z Score: 10 | Comments: 8"
+  },
+  "7c1305f3f8fb88a8": {
+    "file": "corpus/hackernews/netbsd_org_nia_disk-encrypt_1093309b49.md",
+    "source": "hackernews",
+    "title": "Disk encryption on NetBSD – achieving secrecy",
+    "url": "https://netbsd.org/~nia/disk-encrypt/",
+    "keywords": [
+      "netbsd – achieving secrecy",
+      "netbsd – achieving secrecy",
+      "disk encryption",
+      "disk encryption",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Disk encryption on NetBSD – achieving secrecy > Source: hackernews | Category: news | 2026-11-15T09:55:32Z Score: 28 | Comments: 2"
+  },
+  "7a168547ef98bc67": {
+    "file": "corpus/hackernews/hntrbrk_com_investigations_nvidia_822daa4faf.md",
+    "source": "hackernews",
+    "title": "A comprehensive guide to the bank of Nvidia",
+    "url": "https://hntrbrk.com/investigations/nvidia",
+    "keywords": [
+      "comprehensive guide",
+      "comprehensive guide",
+      "35z score",
+      "source",
+      "nvidia",
+      "nvidia",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A comprehensive guide to the bank of Nvidia > Source: hackernews | Category: news | 2026-11-15T09:55:35Z Score: 4 | Comments: 0"
+  },
+  "a0bcc3e214e42885": {
+    "file": "corpus/hackernews/space_stackexchange_com_questions_37775_6921618a4f.md",
+    "source": "hackernews",
+    "title": "Why did some Apollo missions carry a grenade launcher?",
+    "url": "https://space.stackexchange.com/questions/37775",
+    "keywords": [
+      "apollo missions carry",
+      "apollo missions carry",
+      "grenade launcher",
+      "grenade launcher",
+      "31z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why did some Apollo missions carry a grenade launcher? > Source: hackernews | Category: news | 2026-11-15T09:55:31Z Score: 6 | Comments: 1"
+  },
+  "7cd9ee48fd2e0208": {
+    "file": "corpus/hackernews/rorz_io_writing_semicircle-packing_87caaae267.md",
+    "source": "hackernews",
+    "title": "Semicircle Packing",
+    "url": "https://rorz.io/writing/semicircle-packing",
+    "keywords": [
+      "semicircle packing",
+      "semicircle packing",
+      "32z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Semicircle Packing > Source: hackernews | Category: news | 2026-11-15T09:55:32Z Score: 18 | Comments: 1"
+  },
+  "d4cc83a9e5313daa": {
+    "file": "corpus/hackernews/umbrella_pixelegg_me_3329787c38.md",
+    "source": "hackernews",
+    "title": "Show HN: Umbrella – macOS app to capture audio from any app",
+    "url": "https://umbrella.pixelegg.me/",
+    "keywords": [
+      "umbrella – macos app",
+      "umbrella – macos app",
+      "show hn",
+      "show hn",
+      "capture audio",
+      "capture audio",
+      "37z score",
+      "app",
+      "app",
+      "source"
+    ],
+    "summary": "# Show HN: Umbrella – macOS app to capture audio from any app > Source: hackernews | Category: news | 2026-11-15T09:55:37Z Score: 13 | Comments: 7"
+  },
+  "6ee1346c1f39186b": {
+    "file": "corpus/hackernews/runkiri_com_dc5071fd77.md",
+    "source": "hackernews",
+    "title": "Kiri – The Modern Container Runtime",
+    "url": "https://runkiri.com/",
+    "keywords": [
+      "modern container runtime",
+      "modern container runtime",
+      "kiri –",
+      "kiri –",
+      "33z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Kiri – The Modern Container Runtime > Source: hackernews | Category: news | 2026-11-15T09:55:33Z Score: 42 | Comments: 23"
+  },
+  "e55c490b6a14a381": {
+    "file": "corpus/hackernews/www_lloydslist_com_LL1158922_A-rare-glimpse-inside-the-highr_4e729a5789.md",
+    "source": "hackernews",
+    "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+    "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+    "keywords": [
+      "reward hormuz trade",
+      "reward hormuz trade",
+      "rare glimpse inside",
+      "rare glimpse inside",
+      "31z score",
+      "source",
+      "risk",
+      "risk",
+      "news",
+      "high"
+    ],
+    "summary": "# A rare glimpse inside the high-risk, high-reward Hormuz trade > Source: hackernews | Category: news | 2026-11-15T09:55:31Z Score: 61 | Comments: 15"
+  },
+  "1b715136ce0b3d1d": {
+    "file": "corpus/hackernews/www_ardc_net_rhizomaticas-hermes-and-mercury-expand-open-sou_5a1167f840.md",
+    "source": "hackernews",
+    "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+    "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+    "keywords": [
+      "source hf communications",
+      "source hf communications",
+      "remote communities",
+      "remote communities",
+      "33z score",
+      "source",
+      "open",
+      "open",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Open-Source HF Communications for Remote Communities and Experimenters > Source: hackernews | Category: news | 2026-11-15T09:55:33Z Score: 13 | Comments: 1"
+  },
+  "8aafba60cbfbfd14": {
+    "file": "corpus/hackernews/litnews_ai_articles_garciaguirre-samsung-sk-hynix-micron-dra_88ae2cfdd6.md",
+    "source": "hackernews",
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "keywords": [
+      "court denies motion",
+      "court denies motion",
+      "31z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Court denies motion to dismiss DRAM price fixing case > Source: hackernews | Category: news | 2026-11-15T09:55:31Z Score: 145 | Comments: 38"
+  },
+  "e6b2bec50544e003": {
+    "file": "corpus/hackernews/www_bbc_co_uk_news_articles_c6jdmdzv25r9o_b47b6276d8.md",
+    "source": "hackernews",
+    "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+    "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+    "keywords": [
+      "old dismissal notice found",
+      "old dismissal notice found",
+      "roof tile",
+      "roof tile",
+      "handwritten 200",
+      "handwritten 200",
+      "33z score",
+      "year",
+      "year",
+      "source"
+    ],
+    "summary": "# Handwritten 200-year-old dismissal notice found on roof tile > Source: hackernews | Category: news | 2026-11-15T09:55:33Z Score: 3 | Comments: 0"
+  },
+  "89b4bbb68473f918": {
+    "file": "corpus/security/thehackernews_com_2026_11_stolen-fireworks-ai-key-led-to-cur_d5585df401.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+    "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "keywords": [
+      "trojanized claude code extension",
+      "trojanized claude code extension",
+      "trojanized claude code extension",
+      "official claude code extension",
+      "breach targeting fireworks ai",
+      "fireworks ,\" cursor said",
+      "cursor data breach",
+      "cursor data breach",
+      "cursor data breach",
+      "extension marketplace"
+    ],
+    "summary": "# [hacker-news-sec] Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update."
   }
 }
