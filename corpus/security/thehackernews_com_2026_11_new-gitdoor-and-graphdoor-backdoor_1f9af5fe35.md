@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
+url: "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-17T17:57:14Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
+
+> Source: security | Category: security | 2026-11-17T17:57:14Z
+
+New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
+
+Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).
+
+The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.
