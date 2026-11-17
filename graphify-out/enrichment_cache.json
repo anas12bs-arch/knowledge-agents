@@ -886688,5 +886688,1052 @@
       "research"
     ],
     "summary": "# [openai-blog] Our first phase of embedded assessments Our first phase of embedded assessments OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+  },
+  "41e3a426d70285c6": {
+    "file": "corpus/security/thehackernews_com_2026_11_hijacked-optimizely-scripts-served_64d59e5e3a.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+    "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+    "keywords": [
+      "optimizely said early today",
+      "optimizely web experimentation",
+      "least 178 organizations",
+      "ios exploit kits",
+      "ios exploit kits",
+      "ios exploit kits",
+      "plant malicious code",
+      "scripts websites run",
+      "websites load",
+      "sites run"
+    ],
+    "summary": "# [hacker-news-sec] Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Report URI, a firm that monitors the scripts websites run."
+  },
+  "3a7d523ad21139ae": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_alleged-inc-lynx-rans_94ee1f09f8.md",
+    "source": "security",
+    "title": "[bleeping-comp] Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+    "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+    "keywords": [
+      "ransomware affiliate suspect extradited",
+      "ransomware affiliate suspect extradited",
+      "faces 27 years",
+      "faces 27 years",
+      "faces 27 years",
+      "face charges alleging",
+      "targeted us schools",
+      "ransomware attacks",
+      "kazakh national",
+      "healthcare entities"
+    ],
+    "summary": "# [bleeping-comp] Ransomware affiliate suspect extradited to US, faces 27 years in prison Ransomware affiliate suspect extradited to US, faces 27 years in prison A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks."
+  },
+  "33efb8f09047e7d0": {
+    "file": "corpus/security/thehackernews_com_2026_11_n-able-patches-17-n-central-flaws-_7d8a94de5f.md",
+    "source": "security",
+    "title": "[hacker-news-sec] N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+    "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+    "keywords": [
+      "attackers exploit earlier bugs",
+      "attackers exploit earlier bugs",
+      "attackers exploit earlier bugs",
+      "able patches 17 n",
+      "able patches 17 n",
+      "able patches 17 n",
+      "deploy crypto miners n",
+      "deploy crypto miners",
+      "deploy crypto miners",
+      "4 hotfix 3"
+    ],
+    "summary": "# [hacker-news-sec] N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and Unified Endpoint Management (UEM) platform."
+  },
+  "30a3118aa575381e": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_optimizely-supply-cha_b6e25351df.md",
+    "source": "security",
+    "title": "[bleeping-comp] Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "keywords": [
+      "optimizely hack infected cnn",
+      "optimizely hack infected cnn",
+      "numerous popular websites",
+      "steal cryptocurrency",
+      "scripts designed",
+      "payment information",
+      "malicious javascript",
+      "ios devices",
+      "including zoom",
+      "fox news"
+    ],
+    "summary": "# [bleeping-comp] Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices."
+  },
+  "b6ba7da840ef871d": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_uber-notifies-drivers_6279c3ce26.md",
+    "source": "security",
+    "title": "[bleeping-comp] Uber notifies drivers of data breach affecting nearly 150,000 people",
+    "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+    "keywords": [
+      "03z uber notifies drivers",
+      "uber notifies drivers",
+      "uber notifies drivers",
+      "hailing company uber",
+      "notifying nearly 150",
+      "000 people ride",
+      "000 drivers",
+      "000 people",
+      "000 people",
+      "early october"
+    ],
+    "summary": "# [bleeping-comp] Uber notifies drivers of data breach affecting nearly 150,000 people Uber notifies drivers of data breach affecting nearly 150,000 people Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October."
+  },
+  "15d814d5431ab4f0": {
+    "file": "corpus/security/thehackernews_com_2026_11_connectwise-warns-screenconnect-at_dd31e51518.md",
+    "source": "security",
+    "title": "[hacker-news-sec] ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+    "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+    "keywords": [
+      "sckit targets unpatched systems",
+      "sckit targets unpatched systems",
+      "party extensions remain enabled",
+      "running version 26",
+      "premises environments continues",
+      "technician client",
+      "recommended customers",
+      "monday said",
+      "identified third",
+      "source"
+    ],
+    "summary": "# [hacker-news-sec] ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later."
+  },
+  "a6d9c9a249fc3f4e": {
+    "file": "corpus/hackernews/nimony_org_b515817675.md",
+    "source": "hackernews",
+    "title": "Nimony: A New Compiler for Nim",
+    "url": "https://nimony.org/",
+    "keywords": [
+      "new compiler",
+      "new compiler",
+      "02z score",
+      "source",
+      "nimony",
+      "nimony",
+      "nim",
+      "nim",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Nimony: A New Compiler for Nim > Source: hackernews | Category: news | 2026-11-17T08:49:02Z Score: 30 | Comments: 7"
+  },
+  "808b04c85d15f71d": {
+    "file": "corpus/hackernews/github_com_yocontra_pulsar_c8910153e9.md",
+    "source": "hackernews",
+    "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+    "url": "https://github.com/yocontra/pulsar",
+    "keywords": [
+      "pulsar – cross",
+      "pulsar – cross",
+      "show hn",
+      "show hn",
+      "harness agent",
+      "harness agent",
+      "agent communication",
+      "agent communication",
+      "06z score",
+      "source"
+    ],
+    "summary": "# Show HN: Pulsar – cross-harness agent to agent communication and messaging > Source: hackernews | Category: news | 2026-11-17T08:49:06Z Score: 14 | Comments: 0"
+  },
+  "a3f4a4d1fb8ab354": {
+    "file": "corpus/hackernews/support_apple_com_en-us_149699_f2170c97b1.md",
+    "source": "hackernews",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "url": "https://support.apple.com/en-us/149699",
+    "keywords": [
+      "full disk access",
+      "full disk access",
+      "app protection override",
+      "app protection override",
+      "app asks",
+      "app asks",
+      "02z score",
+      "system",
+      "system",
+      "source"
+    ],
+    "summary": "# If an App Asks for Full Disk Access or System and App Protection Override > Source: hackernews | Category: news | 2026-11-17T08:49:02Z Score: 112 | Comments: 57"
+  },
+  "cb3f31c033c2e76a": {
+    "file": "corpus/hackernews/get_mem_ai_blog_mem-is-shutting-down_cd3f9f2cc9.md",
+    "source": "hackernews",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "keywords": [
+      "04z score",
+      "source",
+      "shutting",
+      "shutting",
+      "news",
+      "mem",
+      "mem",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mem Is Shutting Down > Source: hackernews | Category: news | 2026-11-17T08:49:04Z Score: 51 | Comments: 74"
+  },
+  "f7cd91f1916ef369": {
+    "file": "corpus/hackernews/danluu_com_astra-testing_254d845fc8.md",
+    "source": "hackernews",
+    "title": "Test/verification technique effectiveness with Astra",
+    "url": "https://danluu.com/astra-testing/",
+    "keywords": [
+      "verification technique effectiveness",
+      "verification technique effectiveness",
+      "03z score",
+      "test",
+      "test",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Test/verification technique effectiveness with Astra > Source: hackernews | Category: news | 2026-11-17T08:49:03Z Score: 33 | Comments: 6"
+  },
+  "91f2f7118dbbaa5d": {
+    "file": "corpus/hackernews/twitter_com_id_aa_carmack_status_2122478083319992513_25b5dfac7e.md",
+    "source": "hackernews",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "keywords": [
+      "3dfx 1 cards",
+      "3dfx 1 cards",
+      "color output",
+      "color output",
+      "02z score",
+      "washed",
+      "washed",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Why 3dfx 1 cards had such a washed out color output? > Source: hackernews | Category: news | 2026-11-17T08:49:02Z Score: 107 | Comments: 28"
+  },
+  "a80b67343b030b21": {
+    "file": "corpus/hackernews/www_youtube_com_watch_v_ZCAHP50Zly8_e6618ca44c.md",
+    "source": "hackernews",
+    "title": "New open source C4 Diagram tool",
+    "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
+    "keywords": [
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# New open source C4 Diagram tool > Source: hackernews | Category: news | 2026-11-17T08:49:07Z Score: 35 | Comments: 9"
+  },
+  "b03cd746d9deda39": {
+    "file": "corpus/hackernews/github_com_localixai_tokendoctor_fba317a26c.md",
+    "source": "hackernews",
+    "title": "Tokendoctor – See what your Claude Code use overpays",
+    "url": "https://github.com/localixai/tokendoctor",
+    "keywords": [
+      "claude code use overpays",
+      "claude code use overpays",
+      "tokendoctor – see",
+      "tokendoctor – see",
+      "06z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Tokendoctor – See what your Claude Code use overpays > Source: hackernews | Category: news | 2026-11-17T08:49:06Z Score: 22 | Comments: 12"
+  },
+  "d2f3ad5e8d161500": {
+    "file": "corpus/hackernews/www_commerce_gov_news_press-releases_2026_11_joint-statement_7b508ac99e.md",
+    "source": "hackernews",
+    "title": "Joint Statement from Department of Commerce and DOJ on Megaspeed Investigation",
+    "url": "https://www.commerce.gov/news/press-releases/2026/11/joint-statement-department-commerce-and-department-justice-megaspeed",
+    "keywords": [
+      "megaspeed investigation",
+      "megaspeed investigation",
+      "joint statement",
+      "joint statement",
+      "07z score",
+      "source",
+      "news",
+      "hackernews",
+      "doj",
+      "doj"
+    ],
+    "summary": "# Joint Statement from Department of Commerce and DOJ on Megaspeed Investigation > Source: hackernews | Category: news | 2026-11-17T08:49:07Z Score: 5 | Comments: 0"
+  },
+  "2641415cc1cd9cbc": {
+    "file": "corpus/hackernews/verisource_dev_benchmarks_ai-search-readiness-2026_f1e5530ba4.md",
+    "source": "hackernews",
+    "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
+    "url": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
+    "keywords": [
+      "shopify stores expose",
+      "shopify stores expose",
+      "domain study",
+      "domain study",
+      "05z score",
+      "ucp",
+      "ucp",
+      "source",
+      "news"
+    ],
+    "summary": "# 40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md > Source: hackernews | Category: news | 2026-11-17T08:49:05Z Score: 4 | Comments: 0"
+  },
+  "5af09156ec669fb8": {
+    "file": "corpus/hackernews/blog_antonio_cx_running-agents-with-lend_f07a8c1dd4.md",
+    "source": "hackernews",
+    "title": "Running coding agents without handing them my credentials",
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "keywords": [
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "credentials",
+      "credentials",
+      "comments",
+      "category"
+    ],
+    "summary": "# Running coding agents without handing them my credentials > Source: hackernews | Category: news | 2026-11-17T08:49:03Z Score: 107 | Comments: 67"
+  },
+  "378e02ac0242f0cf": {
+    "file": "corpus/hackernews/retrocomputing_stackexchange_com_questions_11765_38e802b236.md",
+    "source": "hackernews",
+    "title": "Why did modems have speakers? (2019)",
+    "url": "https://retrocomputing.stackexchange.com/questions/11765",
+    "keywords": [
+      "05z score",
+      "speakers",
+      "speakers",
+      "source",
+      "news",
+      "modems",
+      "modems",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Why did modems have speakers? > Source: hackernews | Category: news | 2026-11-17T08:49:05Z Score: 51 | Comments: 29"
+  },
+  "891a2691e1edd524": {
+    "file": "corpus/hackernews/github_com_ZigaoWang_zigzag_d3922b28a5.md",
+    "source": "hackernews",
+    "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+    "url": "https://github.com/ZigaoWang/zigzag",
+    "keywords": [
+      "around 18 mb installed",
+      "p >- split view",
+      "copy !< p >-",
+      "p >- little arc",
+      "get firefox extensions instead",
+      "webkit ?< p >-",
+      "open source mac browser",
+      "around 100 gb",
+      "800 mb ),",
+      ":< p >-"
+    ],
+    "summary": "So when The Browser Company announced that they will shut down Arc on Dec 22 I was devastated. Even though its based on WebKit, you can install them from the Chrome Web Store. If you love Firefox it’s great, but it didn’t feel like Arc to me.<p>Orion is the closest to what I wanted in terms of speed, lightweightness and nativeness (are these even words?)."
+  },
+  "ba50b36174813441": {
+    "file": "corpus/hackernews/paleonerdish_wordpress_com_2026_10_30_halloween-special-xiv-_5def5bb105.md",
+    "source": "hackernews",
+    "title": "The Fossils That Haunted Lovecraft",
+    "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+    "keywords": [
+      "haunted lovecraft",
+      "haunted lovecraft",
+      "03z score",
+      "source",
+      "news",
+      "hackernews",
+      "fossils",
+      "fossils",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Fossils That Haunted Lovecraft > Source: hackernews | Category: news | 2026-11-17T08:49:03Z Score: 27 | Comments: 3"
+  },
+  "4301b6ebeca12266": {
+    "file": "corpus/devto/dev_to_rykelly_m-pesa-stk-push-in-go-from-sandbox-credential_f56e88f267.md",
+    "source": "devto",
+    "title": "M-pesa STK Push in Go: From Sandbox Credentials to a Working Payment Callback",
+    "url": "https://dev.to/rykelly/m-pesa-stk-push-in-go-from-sandbox-credentials-to-a-working-payment-callback-4kdn",
+    "keywords": [
+      "working payment callback",
+      "working payment callback",
+      "pesa stk push",
+      "pesa stk push",
+      "sandbox credentials",
+      "sandbox credentials",
+      "resource platform",
+      "real product",
+      "kenyan ...",
+      "free study"
+    ],
+    "summary": "# M-pesa STK Push in Go: From Sandbox Credentials to a Working Payment Callback > Source: devto | Category: news | 2026-11-17T08:49:11Z I'm learning Go by building a real product: ElimuLocal, a free study-resource platform for Kenyan..."
+  },
+  "47ea1ad2220baf7b": {
+    "file": "corpus/devto/dev_to_matheusgomes062_from-it-works-to-i-can-prove-it-works_35baf6aa89.md",
+    "source": "devto",
+    "title": "From 'It Works' to 'I Can Prove It Works': Rethinking My Engineering Workflow",
+    "url": "https://dev.to/matheusgomes062/from-it-works-to-i-can-prove-it-works-rethinking-my-engineering-workflow-21f1",
+    "keywords": [
+      "works ': rethinking",
+      "works \": rethinking",
+      "imposed pressure",
+      "engineering workflow",
+      "engineering workflow",
+      "assisted development",
+      "10z reflections",
+      "works",
+      "works",
+      "testing"
+    ],
+    "summary": "# From \"It Works\" to \"I Can Prove It Works\": Rethinking My Engineering Workflow > Source: devto | Category: news | 2026-11-17T08:49:10Z Reflections on attention to detail, AI-assisted development, testing, self-imposed pressure, and..."
+  },
+  "3354be5f5ee00ebc": {
+    "file": "corpus/devto/dev_to_robertpaschal_when-your-health-check-takes-the-system_c6bf438388.md",
+    "source": "devto",
+    "title": "A health check should check what this server owns",
+    "url": "https://dev.to/robertpaschal/when-your-health-check-takes-the-system-down-17e9",
+    "keywords": [
+      "check something real",
+      "server owns",
+      "server owns",
+      "days ago",
+      "health check",
+      "health check",
+      "health check",
+      "check",
+      "check",
+      "wrote"
+    ],
+    "summary": "# A health check should check what this server owns > Source: devto | Category: news | 2026-11-17T08:49:10Z A couple of days ago I wrote that a health check should check something real: open a connection to..."
+  },
+  "88b7867d354b65a4": {
+    "file": "corpus/devto/dev_to_sumit0rn_how-i-earned-trust-without-a-degree-or-certi_754bac32b6.md",
+    "source": "devto",
+    "title": "How I Earned Trust Without a Degree or Certificates",
+    "url": "https://dev.to/sumit0rn/how-i-earned-trust-without-a-degree-or-certificates-29fa",
+    "keywords": [
+      "working alongside ...",
+      "earned trust without",
+      "earned trust without",
+      "often find",
+      "professional certificates",
+      "formal degree",
+      "degree",
+      "degree",
+      "certificates",
+      "certificates"
+    ],
+    "summary": "# How I Earned Trust Without a Degree or Certificates > Source: devto | Category: news | 2026-11-17T08:49:10Z I don't have a formal degree or professional certificates, yet I often find myself working alongside..."
+  },
+  "7e95c9490ed7bb2f": {
+    "file": "corpus/devto/dev_to_janym_i-built-a-meeting-notes-app-that-never-leaves-y_6a7b56d06e.md",
+    "source": "devto",
+    "title": "I Built a Meeting Notes App That Never Leaves Your Laptop",
+    "url": "https://dev.to/janym/i-built-a-meeting-notes-app-that-never-leaves-your-laptop-3i7l",
+    "keywords": [
+      "notetaker \", record everyone",
+      "meeting notes app",
+      "meeting notes app",
+      "meeting assistants",
+      "ship ...",
+      "politely join",
+      "never leaves",
+      "never leaves",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I Built a Meeting Notes App That Never Leaves Your Laptop > Source: devto | Category: news | 2026-11-17T08:49:12Z You know those meeting assistants that politely join your call as \"Notetaker\", record everyone, ship..."
+  },
+  "9f89c9dde0c339b8": {
+    "file": "corpus/devto/dev_to_jsmanifest_typescript-protected-vs-private-in-2026-th_cddcd7712f.md",
+    "source": "devto",
+    "title": "TypeScript `protected` vs `private` in 2026: The Inheritance Visibility Rules That Bite Teams Mid-Refactor",
+    "url": "https://dev.to/jsmanifest/typescript-protected-vs-private-in-2026-the-inheritance-visibility-rules-that-bite-teams-5fk1",
+    "keywords": [
+      "private modifiers look similar",
+      "inheritance visibility rules",
+      "inheritance visibility rules",
+      "bite teams mid",
+      "bite teams mid",
+      "teams hit",
+      "constraints mid",
+      "09z typescript",
+      "inheritance",
+      "private"
+    ],
+    "summary": "# TypeScript `protected` vs `private` in 2026: The Inheritance Visibility Rules That Bite Teams Mid-Refactor TypeScript's protected and private modifiers look similar but enforce wildly different visibility rules during inheritance. Teams hit these constraints mid-refactor when subclass access patterns suddenly break type checking."
+  },
+  "14154ee011b70789": {
+    "file": "corpus/devto/dev_to_pinoycoach_i-pitched-a-one-person-studio-at-manila-ha_ad84d03d1f.md",
+    "source": "devto",
+    "title": "I pitched a one-person studio at Manila Hack. Then I walked home.",
+    "url": "https://dev.to/pinoycoach/i-pitched-a-one-person-studio-at-manila-hack-then-i-walked-home-1k9n",
+    "keywords": [
+      "solo builder sitting next",
+      "walked home",
+      "walked home",
+      "person studio",
+      "person studio",
+      "manila hack",
+      "manila hack",
+      "manila hack",
+      "first night",
+      "source"
+    ],
+    "summary": "# I pitched a one-person studio at Manila Hack. Then I walked home. On the first night of Manila Hack I helped the solo builder sitting next to me with his idea."
+  },
+  "58f3beb06daf47d6": {
+    "file": "corpus/devto/dev_to_pierreneter_i-built-an-ai-whiteboard-that-draws-on-th_a76791b237.md",
+    "source": "devto",
+    "title": "I built an AI whiteboard that draws on the board instead of answering in chat",
+    "url": "https://dev.to/pierreneter/i-built-an-ai-whiteboard-that-draws-on-the-board-instead-of-answering-in-chat-bd9",
+    "keywords": [
+      "real cloud icons",
+      "plain json file",
+      "09z one sentence",
+      "one run",
+      "full trace",
+      "board instead",
+      "board instead",
+      "aws architecture",
+      "attached connectors",
+      "ai whiteboard"
+    ],
+    "summary": "# I built an AI whiteboard that draws on the board instead of answering in chat One sentence in, an AWS architecture out: real cloud icons, attached connectors and a plain JSON file. With the full trace of one run."
+  },
+  "05c4494b2edf34d0": {
+    "file": "corpus/devto/dev_to_richard_minsoogo_robot-data-architecture-ch03-telemet_bccac0df56.md",
+    "source": "devto",
+    "title": "Robot Data Architecture — Ch.03: Telemetry Architecture [EN]",
+    "url": "https://dev.to/richard_minsoogo/robot-data-architecture-ch03-telemetry-architecture-en-5fgg",
+    "keywords": [
+      "telemetry architecture",
+      "telemetry architecture",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Robot Data Architecture — Ch.03: Telemetry Architecture [EN] > Source: devto | Category: news | 2026-11-17T08:49:08Z STATERA Library · Series 08 · Volume 07 · Chapter 03 · EN Source:..."
+  },
+  "5fdcfc4099cf4885": {
+    "file": "corpus/devto/dev_to_felixcoutinho_killed-by-acronyms-33a1_66fd56473d.md",
+    "source": "devto",
+    "title": "Killed by Acronyms",
+    "url": "https://dev.to/felixcoutinho/killed-by-acronyms-33a1",
+    "keywords": [
+      "mean understanding",
+      "first ...",
+      "10z speaking",
+      "source",
+      "reactions",
+      "news",
+      "language",
+      "killed",
+      "killed",
+      "english"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-17T08:49:10Z Speaking the same language doesn't mean understanding each other. If English isn't your first..."
+  },
+  "07e8eb009fa0bccb": {
+    "file": "corpus/devto/dev_to_dhruonweb_the-most-overprivileged-account-in-our-comp_c7fa94744d.md",
+    "source": "devto",
+    "title": "The Most Overprivileged Account in Our Company Is Mine.",
+    "url": "https://dev.to/dhruonweb/the-most-overprivileged-account-in-our-company-is-mine-3h6n",
+    "keywords": [
+      "since march 2023",
+      "reason column blank",
+      "top row",
+      "privilege creep",
+      "overprivileged account",
+      "overprivileged account",
+      "access review",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# The Most Overprivileged Account in Our Company Is Mine. > Source: devto | Category: news | 2026-11-17T08:49:10Z Our own access review's top row was me, since March 2023, reason column blank."
+  },
+  "4768bf1b7f651cce": {
+    "file": "corpus/devto/dev_to_richard_minsoogo_robot-data-architecture-ch10-data-an_b6ed9fa324.md",
+    "source": "devto",
+    "title": "Robot Data Architecture — Ch.10: Data Annotation Pipeline [EN]",
+    "url": "https://dev.to/richard_minsoogo/robot-data-architecture-ch10-data-annotation-pipeline-en-24gp",
+    "keywords": [
+      "data annotation pipeline",
+      "data annotation pipeline",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Robot Data Architecture — Ch.10: Data Annotation Pipeline [EN] > Source: devto | Category: news | 2026-11-17T08:49:08Z STATERA Library · Series 08 · Volume 07 · Chapter 10 · EN Source:..."
+  },
+  "734149962d602a01": {
+    "file": "corpus/devto/dev_to_liuxj0416_five-ways-to-quietly-get-a-109-row-dataset-_a82e523b9d.md",
+    "source": "devto",
+    "title": "Five ways to quietly get a 109-row dataset wrong",
+    "url": "https://dev.to/liuxj0416/five-ways-to-quietly-get-a-109-row-dataset-wrong-4af2",
+    "keywords": [
+      "row dataset wrong",
+      "row dataset wrong",
+      "10z tone marks",
+      "valued ancestors",
+      "quietly get",
+      "quietly get",
+      "mixed provenance",
+      "five ways",
+      "five ways",
+      "compound surnames"
+    ],
+    "summary": "# Five ways to quietly get a 109-row dataset wrong > Source: devto | Category: news | 2026-11-17T08:49:10Z Tone marks, compound surnames, nulls, mixed provenance and multi-valued ancestors: the join-by-join guide to using an open Chinese surname dataset without corrupting your results."
+  },
+  "93ad7a668ae9671e": {
+    "file": "corpus/devto/dev_to_ghagsagar23_your-android-app-is-dying-in-the-backgrou_340098bf35.md",
+    "source": "devto",
+    "title": "Your Android App Is Dying in the Background and You Don't Know Why",
+    "url": "https://dev.to/ghagsagar23/your-android-app-is-dying-in-the-background-and-you-dont-know-why-2g22",
+    "keywords": [
+      "finally audited ...",
+      "android app",
+      "android app",
+      "source",
+      "reactions",
+      "number",
+      "news",
+      "know",
+      "know",
+      "found"
+    ],
+    "summary": "# Your Android App Is Dying in the Background and You Don't Know Why 509 timestamp gaps across 159 tracking sessions. That was the number we found when we finally audited..."
+  },
+  "a7c052f82a9e2336": {
+    "file": "corpus/devto/dev_to_techali0407_connecting-web-interfaces-to-ai-apis-a-pr_6b36d39d8f.md",
+    "source": "devto",
+    "title": "Connecting Web Interfaces to AI APIs: A Practical PHP & JavaScript Approach.",
+    "url": "https://dev.to/techali0407/connecting-web-interfaces-to-ai-apis-a-practical-php-javascript-approach-43jn",
+    "keywords": [
+      "09z integrating ai models",
+      "custom web application",
+      "connecting web interfaces",
+      "connecting web interfaces",
+      "ai apis",
+      "ai apis",
+      "practical php",
+      "practical php",
+      "javascript approach",
+      "javascript approach"
+    ],
+    "summary": "# Connecting Web Interfaces to AI APIs: A Practical PHP & JavaScript Approach. > Source: devto | Category: news | 2026-11-17T08:49:09Z Integrating AI models into a custom web application doesn't always require a heavy, over-engineered..."
+  },
+  "82095feebba7e859": {
+    "file": "corpus/devto/dev_to_richard_minsoogo_robot-data-architecture-ch01-data-mo_389e3462c7.md",
+    "source": "devto",
+    "title": "Robot Data Architecture — Ch.01: Data Modeling [EN]",
+    "url": "https://dev.to/richard_minsoogo/robot-data-architecture-ch01-data-modeling-en-5180",
+    "keywords": [
+      "data modeling",
+      "data modeling",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# Robot Data Architecture — Ch.01: Data Modeling [EN] > Source: devto | Category: news | 2026-11-17T08:49:08Z STATERA Library · Series 08 · Volume 07 · Chapter 01 · EN Source:..."
+  },
+  "693a51246bc9304b": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_my-agent-scrubbed-a-leaked-api-key-b_1e0fd60d2e.md",
+    "source": "devto",
+    "title": "My Agent Scrubbed a Leaked API Key by Force-Pushing main. It Made Everything Worse.",
+    "url": "https://dev.to/debashish_ghosal/my-agent-scrubbed-a-leaked-api-key-by-force-pushing-main-it-made-everything-worse-57a",
+    "keywords": [
+      "made everything worse",
+      "made everything worse",
+      "made everything worse",
+      "leaked api key",
+      "leaked api key",
+      "leaked api key",
+      "api ...",
+      "pushing main",
+      "pushing main",
+      "pushing main"
+    ],
+    "summary": "# My Agent Scrubbed a Leaked API Key by Force-Pushing main. It Made Everything Worse. My Agent Scrubbed a Leaked API Key by Force-Pushing main."
+  },
+  "bf94d058982ae1a2": {
+    "file": "corpus/devto/dev_to_crzy_undefinedundefined_grok-bot-1-i-set-up-an-agent-_02bd07710c.md",
+    "source": "devto",
+    "title": "Grok Bot #1: I Set Up an Agent to Watch My Gumroad Store for 7 Days. 6 Alerts, 6 Were Noise",
+    "url": "https://dev.to/crzy_undefinedundefined/grok-bot-1-i-set-up-an-agent-to-watch-my-gumroad-store-for-7-days-6-alerts-6-were-noise-4jp8",
+    "keywords": [
+      "n8n workflow packs",
+      "dashboard every day",
+      "grok bot",
+      "grok bot",
+      "7 days",
+      "7 days",
+      "gumroad store",
+      "gumroad store",
+      "6 alerts",
+      "6 alerts"
+    ],
+    "summary": "# Grok Bot #1: I Set Up an Agent to Watch My Gumroad Store for 7 Days. > Source: devto | Category: news | 2026-11-17T08:49:11Z I sell a few n8n workflow packs on Gumroad."
+  },
+  "b29874d7c2a26858": {
+    "file": "corpus/devto/dev_to_suirindo_i-run-coding-agents-on-three-macs-heres-what_96cc127c33.md",
+    "source": "devto",
+    "title": "I Run Coding Agents on Three Macs. Here's What I Refuse to Delete.",
+    "url": "https://dev.to/suirindo/i-run-coding-agents-on-three-macs-heres-what-i-refuse-to-delete-22i3",
+    "keywords": [
+      "managing three ai coding",
+      "run coding agents",
+      "run coding agents",
+      "agent environments taught",
+      "three macs",
+      "three macs",
+      "disk recovery",
+      "source",
+      "reproducibility",
+      "refuse"
+    ],
+    "summary": "# I Run Coding Agents on Three Macs. Here's What I Refuse to Delete. What managing three AI coding-agent environments taught me about disk recovery, reproducibility, and..."
+  },
+  "8ff5c15073190678": {
+    "file": "corpus/devto/dev_to_aws_once-upon-agentic-ai-part-2-develop-your-own-mcp-_752d9c70df.md",
+    "source": "devto",
+    "title": "Once Upon Agentic AI (Part 2): Develop your own MCP server and cast its tools from Strands Agents",
+    "url": "https://dev.to/aws/once-upon-agentic-ai-part-2-develop-your-own-mcp-server-and-cast-its-tools-from-strands-agents-9ob",
+    "keywords": [
+      "part 2 ): develop",
+      "part 2 ): develop",
+      "upon agentic ai",
+      "upon agentic ai",
+      "upon agentic ai",
+      "strands agents",
+      "strands agents",
+      "new powers",
+      "mcp server",
+      "mcp server"
+    ],
+    "summary": "# Once Upon Agentic AI (Part 2): Develop your own MCP server and cast its tools from Strands Agents Series: Once Upon Agentic AI. Despite their new powers and fearless hearts, our heroes had not..."
+  },
+  "7d0565aa1999ee4f": {
+    "file": "corpus/devto/dev_to_sumit0rn_the-paradox-of-wanting-why-chasing-success-o_aa1dd0245f.md",
+    "source": "devto",
+    "title": "The Paradox of Wanting: Why Chasing Success Often Takes You Further Away From It",
+    "url": "https://dev.to/sumit0rn/the-paradox-of-wanting-why-chasing-success-often-takes-you-further-away-from-it-1dhf",
+    "keywords": [
+      "chasing success often takes",
+      "chasing success often takes",
+      "10z ❤ ️ enjoyed",
+      "support motivates",
+      "sharing ideas",
+      "keep writing",
+      "wanting",
+      "wanting",
+      "source",
+      "reactions"
+    ],
+    "summary": "# The Paradox of Wanting: Why Chasing Success Often Takes You Further Away From It > Source: devto | Category: news | 2026-11-17T08:49:10Z Your support motivates me to keep writing, sharing ideas, and..."
+  },
+  "e9e3fdeebde8e444": {
+    "file": "corpus/devto/dev_to_dafili_silent-failure-9-the-heartbeat-was-green-becau_6f10033165.md",
+    "source": "devto",
+    "title": "Silent Failure #9: The Heartbeat Was Green Because Nothing Ran",
+    "url": "https://dev.to/dafili/silent-failure-9-the-heartbeat-was-green-because-nothing-ran-1l8b",
+    "keywords": [
+      "silent failure",
+      "silent failure",
+      "nothing ran",
+      "nothing ran",
+      "17 ,...",
+      "heartbeat card",
+      "heartbeat",
+      "heartbeat",
+      "thing",
+      "staring"
+    ],
+    "summary": "# Silent Failure #9: The Heartbeat Was Green Because Nothing Ran > Source: devto | Category: news | 2026-11-17T08:49:10Z I was staring at 10:26:20 on the heartbeat card, and it said the same thing it had said at 08:26:17,..."
+  },
+  "389925564bdb6335": {
+    "file": "corpus/devto/dev_to_sammy_yohan_letting-an-ai-agent-run-security-scanners_28f37c0efb.md",
+    "source": "devto",
+    "title": "Letting an AI agent run security scanners without letting it choose the targets",
+    "url": "https://dev.to/sammy_yohan/letting-an-ai-agent-run-security-scanners-without-letting-it-choose-the-targets-224c",
+    "keywords": [
+      "ai coding agents",
+      "running tools",
+      "including semgrep",
+      "12z hi",
+      "targets",
+      "targets",
+      "sqlmap",
+      "source",
+      "reactions",
+      "nuclei"
+    ],
+    "summary": "# Letting an AI agent run security scanners without letting it choose the targets > Source: devto | Category: news | 2026-11-17T08:49:12Z Hi, AI coding agents are good at running tools now, including Semgrep, Nuclei and SQLMap."
+  },
+  "36658bc1923a4d41": {
+    "file": "corpus/devto/dev_to_azadkshitij_winv-forgets-everything-when-windows-rest_01e343111f.md",
+    "source": "devto",
+    "title": "Win+V forgets everything when Windows restarts. Here is what I use instead.",
+    "url": "https://dev.to/azadkshitij/winv-forgets-everything-when-windows-restarts-here-is-what-i-use-instead-nbp",
+    "keywords": [
+      "v forgets everything",
+      "v forgets everything",
+      "11z almost everyone",
+      "windows restarts",
+      "windows restarts",
+      "use instead",
+      "use instead",
+      "tracking ...",
+      "phone number",
+      "win"
+    ],
+    "summary": "# Win+V forgets everything when Windows restarts. Here is what I use instead. Almost everyone has done this."
+  },
+  "d19fe2c8e5393203": {
+    "file": "corpus/devto/dev_to_hassan_aftab_6-step-ethical-hacking-framework-a-pract_d799d6cb9c.md",
+    "source": "devto",
+    "title": "6-Step Ethical Hacking Framework: A Practical Guide",
+    "url": "https://dev.to/hassan_aftab/6-step-ethical-hacking-framework-a-practical-guide-2g61",
+    "keywords": [
+      "step ethical hacking framework",
+      "step ethical hacking framework",
+      "professional security assessment",
+      "six phases",
+      "reconnaissance ,...",
+      "practical guide",
+      "practical guide",
+      "08z tl",
+      "source",
+      "reactions"
+    ],
+    "summary": "# 6-Step Ethical Hacking Framework: A Practical Guide > Source: devto | Category: news | 2026-11-17T08:49:08Z TL;DR: A professional security assessment has six phases."
+  },
+  "4bc26efa78a54872": {
+    "file": "corpus/devto/dev_to_singhularityai_my-bestseller-was-losing-money-on-ever_1bc86836b5.md",
+    "source": "devto",
+    "title": "My bestseller was losing money on every sale — so I built the subtraction my dashboard wouldn't do",
+    "url": "https://dev.to/singhularityai/my-bestseller-was-losing-money-on-every-sale-so-i-built-the-subtraction-my-dashboard-wouldnt-do-3dc4",
+    "keywords": [
+      "marketplace dashboard shows revenue",
+      "every sale —",
+      "every sale —",
+      "— right",
+      "losing money",
+      "losing money",
+      "dashboard",
+      "dashboard",
+      "subtraction",
+      "subtraction"
+    ],
+    "summary": "# My bestseller was losing money on every sale — so I built the subtraction my dashboard wouldn't do Your marketplace dashboard shows revenue. Mine did too — right up until I sat down and subtracted, by..."
+  },
+  "8c24456e1be66d30": {
+    "file": "corpus/devto/dev_to_zze489_designing-a-c-desktop-gui-toolkit-where-widget_778272458b.md",
+    "source": "devto",
+    "title": "Designing a C++ desktop GUI toolkit where widgets never touch the GPU",
+    "url": "https://dev.to/zze489/designing-a-c-desktop-gui-toolkit-where-widgets-never-touch-the-gpu-2p0n",
+    "keywords": [
+      "widgets never touch",
+      "widgets never touch",
+      "easy case",
+      "desktop app",
+      "c ++",
+      "08z writing",
+      "supposed",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# Designing a C++ desktop GUI toolkit where widgets never touch the GPU > Source: devto | Category: news | 2026-11-17T08:49:08Z Writing a desktop app in C++ is supposed to be the easy case."
+  },
+  "eeccd2f90e490f03": {
+    "file": "corpus/devto/dev_to_amananandrai_i-built-5-interactive-3d-palaces-with-go_9363542a9e.md",
+    "source": "devto",
+    "title": "Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio",
+    "url": "https://dev.to/amananandrai/i-built-5-interactive-3d-palaces-with-googles-new-gemini-4-hydrogen-in-ai-studio-5g8h",
+    "keywords": [
+      "testing google ’",
+      "testing google ’",
+      "gemini 4 hydrogen",
+      "gemini 4 hydrogen",
+      "3d scenes ,...",
+      "x timeline",
+      "within hours",
+      "one model",
+      "one model",
+      "five palaces"
+    ],
+    "summary": "# Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio > Source: devto | Category: news | 2026-11-17T08:49:09Z Last week Google shipped Gemini 4 Hydrogen, and within hours my X timeline was nothing but 3D scenes,..."
+  },
+  "8427bd70d6a0bf03": {
+    "file": "corpus/devto/dev_to_aws-heroes_i-asked-claude-to-rebuild-a-1977-wargame-i_6bc58c3c16.md",
+    "source": "devto",
+    "title": "I Asked Claude to Rebuild a 1977 Wargame. It Took 20 Minutes.",
+    "url": "https://dev.to/aws-heroes/i-asked-claude-to-rebuild-a-1977-wargame-it-took-20-minutes-5a5b",
+    "keywords": [
+      "09z thirty years ago",
+      "took 20 minutes",
+      "took 20 minutes",
+      "game called empire",
+      "last week",
+      "asked claude",
+      "asked claude",
+      "1977 wargame",
+      "1977 wargame",
+      "source"
+    ],
+    "summary": "# I Asked Claude to Rebuild a 1977 Wargame. Thirty years ago I lost a lot of evenings to a game called Empire. Last week I lost a lot more."
+  },
+  "89c35c110f9cd67f": {
+    "file": "corpus/devto/dev_to_rjeff-sudo_teams-need-protocols-too-lessons-from-buil_1b49b6d79d.md",
+    "source": "devto",
+    "title": "Teams Need Protocols Too: Lessons from Building Go Backends Together",
+    "url": "https://dev.to/rjeff-sudo/teams-need-protocols-too-lessons-from-building-go-backends-together-37pm",
+    "keywords": [
+      "building go backends together",
+      "building go backends together",
+      "go backend alone",
+      "teams need protocols",
+      "teams need protocols",
+      "building one",
+      "11z building",
+      "people ,...",
+      "one kind",
+      "three"
+    ],
+    "summary": "# Teams Need Protocols Too: Lessons from Building Go Backends Together Building a Go backend alone is one kind of difficulty. Building one with three or four other people,..."
+  },
+  "f6c1b451c68ccb5a": {
+    "file": "corpus/devto/dev_to_null_saint_testing-unauthorized-process-manipulation-_0b14f6367e.md",
+    "source": "devto",
+    "title": "Testing Unauthorized Process Manipulation in OpenPLC",
+    "url": "https://dev.to/null_saint/testing-unauthorized-process-manipulation-in-openplc-4ihn",
+    "keywords": [
+      "time exploring software plcs",
+      "testing unauthorized process manipulation",
+      "testing unauthorized process manipulation",
+      "spending quite",
+      "trying",
+      "source",
+      "reactions",
+      "openplc",
+      "openplc",
+      "news"
+    ],
+    "summary": "# Testing Unauthorized Process Manipulation in OpenPLC > Source: devto | Category: news | 2026-11-17T08:49:12Z I've been spending quite some time exploring software PLCs, trying to..."
+  },
+  "4fbd9c32cd9c5525": {
+    "file": "corpus/devto/dev_to_aheadkit_i-served-a-map-of-dhaka-from-one-17-mb-file-_31aa9fa4fc.md",
+    "source": "devto",
+    "title": "I Served a Map of Dhaka From One 17 MB File — Tiles Came Back in 1.1 ms.",
+    "url": "https://dev.to/aheadkit/i-served-a-map-of-dhaka-from-one-17-mb-file-tiles-came-back-in-11-ms-4395",
+    "keywords": [
+      "map tiles used",
+      "tile server",
+      "mean running",
+      "08z self",
+      "1 ms",
+      "1 ms",
+      "map",
+      "map"
+    ],
+    "summary": "# I Served a Map of Dhaka From One 17 MB File — Tiles Came Back in 1.1 ms. > Source: devto | Category: news | 2026-11-17T08:49:08Z Self-hosting your own map tiles used to mean running a tile server, a database, and a bill you had to..."
+  },
+  "f16bb27f43b69b0d": {
+    "file": "corpus/devto/dev_to_mcsee_the-manager-who-doesnt-use-ai-has-already-lost-_2113da5e97.md",
+    "source": "devto",
+    "title": "The Manager Who Doesn't Use AI Has Already Lost: Soft Skills",
+    "url": "https://dev.to/mcsee/the-manager-who-doesnt-use-ai-has-already-lost-soft-skills-8h4",
+    "keywords": [
+      "11z ai writes",
+      "use ai",
+      "use ai",
+      "spots burnout",
+      "soft skills",
+      "soft skills",
+      "difficult conversations",
+      "already lost",
+      "already lost",
+      "source"
+    ],
+    "summary": "# The Manager Who Doesn't Use AI Has Already Lost: Soft Skills > Source: devto | Category: news | 2026-11-17T08:49:11Z AI writes your minutes, rehearses your difficult conversations, and spots burnout before you do."
+  },
+  "0662a2f0d6883289": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_16_florida-city-drops-st-patricks-d_0b94d4ad8a.md",
+    "source": "legal",
+    "title": "[techdirt] Florida City Drops St. Patrick’s Day Parade Due To DeSantis’ Anti-DEI Laws & Everyone Loses It",
+    "url": "https://www.techdirt.com/2026/11/16/florida-city-drops-st-patricks-day-parade-due-to-desantis-anti-dei-laws-everyone-loses-it/",
+    "keywords": [
+      "law turned directly back",
+      "florida city drops st",
+      "florida city drops st",
+      "see shitheads push anti",
+      "flying spaghetti monster",
+      "day parade due",
+      "day parade due",
+      "day parade due",
+      "culture whenever possible",
+      "[&# 8230 ;]"
+    ],
+    "summary": "# [techdirt] Florida City Drops St. Patrick’s Day Parade Due To DeSantis’ Anti-DEI Laws & Everyone Loses It Florida City Drops St. Patrick’s Day Parade Due To DeSantis’ Anti-DEI Laws & Everyone Loses It It&#8217;s quite comical when we see shitheads push anti-DEI legislation meant to veil black and brown people, history, and culture whenever possible only to have the law turned directly back on them."
+  },
+  "873a146f9f08c998": {
+    "file": "corpus/ai-research/openai_com_index_strengthening-nato-allied-cyber-defences-ai_0e7f690aa4.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "keywords": [
+      "protect essential systems",
+      "allied cyber defenses",
+      "allied cyber defenses",
+      "allied cyber defenses",
+      "allied cyber agencies",
+      "01z strengthening nato",
+      "strengthening nato",
+      "strengthening nato",
+      "test fixes",
+      "nato"
+    ],
+    "summary": "# [openai-blog] Strengthening NATO and allied cyber defenses with AI Strengthening NATO and allied cyber defenses with AI How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+  },
+  "4e4fe6aaadcb495a": {
+    "file": "corpus/ai-research/openai_com_business_customer-stories_revolut_b82b64ef90.md",
+    "source": "ai-research",
+    "title": "[openai-blog] How Revolut raises ambition without lowering the bar",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "keywords": [
+      "innovate without compromising security",
+      "revolut uses openai models",
+      "cut coding time",
+      "bar discover",
+      "openai",
+      "openai",
+      "bar",
+      "bar",
+      "source",
+      "research"
+    ],
+    "summary": "# [openai-blog] How Revolut raises ambition without lowering the bar How Revolut raises ambition without lowering the bar Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
   }
 }
