@@ -890163,5 +890163,1798 @@
       "brain tech"
     ],
     "summary": "# [techcrunch-startups] Science Corporation’s brain tech is worth $3.5 billion after new funding Science Corporation’s brain tech is worth $3.5 billion after new funding Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
+  },
+  "00e7d468cce49c69": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_japan-takes-fugaku-su_b578b4efad.md",
+    "source": "security",
+    "title": "[bleeping-comp] Japan takes Fugaku supercomputer offlline after cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+    "keywords": [
+      "taken offline following",
+      "fugaku supercomputer operated",
+      "riken center",
+      "computational science",
+      "security breach",
+      "security",
+      "security",
+      "source",
+      "japan",
+      "cyberattack"
+    ],
+    "summary": "# [bleeping-comp] Japan takes Fugaku supercomputer offlline after cyberattack Japan takes Fugaku supercomputer offlline after cyberattack The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach."
+  },
+  "30a060ff70e77d91": {
+    "file": "corpus/security/thehackernews_com_2026_11_trigram-campaign-impersonates-abou_4f9516b8f5.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+    "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+    "keywords": [
+      "logistics sectors across europe",
+      "industrialized campaign dubbed trigram",
+      "17z trigram campaign impersonates",
+      "dive technical report",
+      ",\" stormshield said",
+      "trigram campaign impersonates",
+      "trigram campaign impersonates",
+      "infostealers artificial intelligence",
+      "ai ), blockchain",
+      "ai sectors"
+    ],
+    "summary": "# [hacker-news-sec] Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,\" Stormshield said in a deep-dive technical report"
+  },
+  "35721adc3b27c428": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_researchers-hijack-hu_a5a96cf48f.md",
+    "source": "security",
+    "title": "[bleeping-comp] Researchers hijack Hugging Face account for popular Kokoro AI model",
+    "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+    "keywords": [
+      "popular kokoro ai model",
+      "popular kokoro ai model",
+      "popular kokoro ai model",
+      "speech model used",
+      "amazon web services",
+      "take control",
+      "ownership verification",
+      "kokoro",
+      "text",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] Researchers hijack Hugging Face account for popular Kokoro AI model Researchers hijack Hugging Face account for popular Kokoro AI model A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services."
+  },
+  "04d5dab09aca6e86": {
+    "file": "corpus/security/thehackernews_com_2026_11_oracle-to-patch-11-java-flaws-toda_e5492f9867.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+    "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+    "keywords": [
+      "exploited remotely without authentication",
+      "separate reports warn",
+      "maximum cvss 3",
+      "flaw affecting openjdk",
+      "critical openjdk rce",
+      "critical openjdk rce",
+      "critical openjdk rce",
+      "release security patches",
+      "advance security notice",
+      "1 severity score"
+    ],
+    "summary": "# [hacker-news-sec] Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance securit"
+  },
+  "4a9d1e43bd3db139": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_tor-releases-emergenc_6ab6f91404.md",
+    "source": "security",
+    "title": "[bleeping-comp] Tor releases emergency update amid ongoing DDoS attack",
+    "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+    "keywords": [
+      "ongoing distributed denial",
+      "network relay software",
+      "tor project",
+      "service attack",
+      "overwhelmed relays",
+      "increase defenses",
+      "security update",
+      "security",
+      "security",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] Tor releases emergency update amid ongoing DDoS attack Tor releases emergency update amid ongoing DDoS attack The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators."
+  },
+  "3e2084e65e19069f": {
+    "file": "corpus/security/thehackernews_com_2026_11_researchers-claim-two-rce-exploits_6bab39afba.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+    "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+    "keywords": [
+      "android app last week",
+      "new android defenses",
+      "new android defenses",
+      "new android defenses",
+      "small interactive blocks",
+      "run code outside",
+      "telegram test server",
+      "bypass telegram ’",
+      "bypass telegram ’",
+      "bypass telegram ’"
+    ],
+    "summary": "# [hacker-news-sec] Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send"
+  },
+  "5271d2165ece3c34": {
+    "file": "corpus/security/www_darkreading_com_application-security_cursor-malicious-cl_a27a6af66f.md",
+    "source": "security",
+    "title": "[dark-reading] Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+    "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+    "keywords": [
+      "ai infrastructure provider fireworks",
+      "compromised key issued",
+      "access cursor data",
+      "threat actors",
+      "party breach",
+      "party breach",
+      "party breach",
+      "used",
+      "third",
+      "third"
+    ],
+    "summary": "# [dark-reading] Cursor Traces Malicious Claude Code Extension to Third-Party Breach Cursor Traces Malicious Claude Code Extension to Third-Party Breach A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials."
+  },
+  "65c5c9c1eb81c027": {
+    "file": "corpus/security/www_darkreading_com_perimeter_themailer-phishing-kit-ai-driv_164e150f10.md",
+    "source": "security",
+    "title": "[dark-reading] 'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+    "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+    "keywords": [
+      "commercial kit uses attacker",
+      "phishing kit puts ai",
+      "phishing kit puts ai",
+      "phishing kit puts ai",
+      "supplied ai models",
+      "evade spam filters",
+      "scale campaigns",
+      "personalize lures",
+      "thousands",
+      "themailer"
+    ],
+    "summary": "# [dark-reading] 'TheMailer' Phishing Kit Puts AI in the Driver's Seat 'TheMailer' Phishing Kit Puts AI in the Driver's Seat The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
+  },
+  "d6b5f7c71eddae00": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_cloud-keys-leaked-in-_2cac7202a9.md",
+    "source": "security",
+    "title": "[bleeping-comp] Cloud keys leaked in Docker Hub images are stolen within seconds",
+    "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+    "keywords": [
+      "19z cloud keys leaked",
+      "public docker hub images",
+      "stolen within seconds credentials",
+      "cloud keys leaked",
+      "cloud keys leaked",
+      "docker hub images",
+      "docker hub images",
+      "docker hub images",
+      "stolen within seconds",
+      "stolen within seconds"
+    ],
+    "summary": "# [bleeping-comp] Cloud keys leaked in Docker Hub images are stolen within seconds Cloud keys leaked in Docker Hub images are stolen within seconds Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication."
+  },
+  "8006a6aa63e47cbd": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_apple_apple-reports-outages-af_d82820a08f.md",
+    "source": "security",
+    "title": "[bleeping-comp] Apple reports outages affecting iCloud Mail, AppleCare and more",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+    "keywords": [
+      "including icloud mail",
+      "apple school manager",
+      "icloud account",
+      "apple",
+      "source",
+      "sign",
+      "services",
+      "security",
+      "security",
+      "schoolwork"
+    ],
+    "summary": "# [bleeping-comp] Apple reports outages affecting iCloud Mail, AppleCare and more Apple reports outages affecting iCloud Mail, AppleCare and more Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork."
+  },
+  "106da1f1b9baa17d": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_critical-java4shell-f_fca3dc2fb7.md",
+    "source": "security",
+    "title": "[bleeping-comp] Critical Java4Shell flaw allows RCE attacks on major Java applications",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+    "keywords": [
+      "critical vulnerability dubbed java4shell",
+      "remotely execute code",
+      "popular enterprise applications",
+      "allow unauthenticated attackers",
+      "major java applications",
+      "major java applications",
+      "major java applications",
+      "including jenkins",
+      "atlassian jira",
+      "source implementation"
+    ],
+    "summary": "# [bleeping-comp] Critical Java4Shell flaw allows RCE attacks on major Java applications Critical Java4Shell flaw allows RCE attacks on major Java applications A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak."
+  },
+  "b259d58aeac43730": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_optimizely-malware-attacks-th_eca2903456.md",
+    "source": "security",
+    "title": "[dark-reading] Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+    "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+    "keywords": [
+      "unwittingly exposed website visitors",
+      "including several major brands",
+      "like malware via",
+      "least 178 organizations",
+      "party vendor risks",
+      "party vendor risks",
+      "party vendor risks",
+      "party platform",
+      "third",
+      "source"
+    ],
+    "summary": "# [dark-reading] Optimizely Malware Attacks Highlight Third-Party Vendor Risks Optimizely Malware Attacks Highlight Third-Party Vendor Risks At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform."
+  },
+  "4e145a307485922a": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_gpt-6-2-astra-and-sol-now-available-on-_0f405421fd.md",
+    "source": "vercel-blog",
+    "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+    "keywords": [
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "2 astra",
+      "2 astra",
+      "2 astra",
+      "30z gpt",
+      "gpt",
+      "gpt",
+      "vercel"
+    ],
+    "summary": "# GPT-6.2 Astra and Sol now available on AI Gateway > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z GPT-6.2 Astra and Sol now available on AI Gateway"
+  },
+  "9326bab0b0dfea31": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_decision-1-1-now-available-on-ai-gatewa_0581208c30.md",
+    "source": "vercel-blog",
+    "title": "Decision-1.1 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+    "keywords": [
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "30z decision",
+      "decision",
+      "decision",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Decision-1.1 now available on AI Gateway > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z Decision-1.1 now available on AI Gateway"
+  },
+  "2d9513369d6b9f7c": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_pull-request-only-preset-now-available-_4237694406.md",
+    "source": "vercel-blog",
+    "title": "Pull-request-only preset now available for preview builds",
+    "url": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+    "keywords": [
+      "preview builds",
+      "preview builds",
+      "preview builds",
+      "30z pull",
+      "pull",
+      "pull",
+      "vercel",
+      "source",
+      "request",
+      "request"
+    ],
+    "summary": "# Pull-request-only preset now available for preview builds > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z Pull-request-only preset now available for preview builds"
+  },
+  "305c5b6d584b52b3": {
+    "file": "corpus/vercel-blog/vercel_com_blog_eve-is-now-generally-available_341333f6cd.md",
+    "source": "vercel-blog",
+    "title": "Introducing eve 1.0",
+    "url": "https://vercel.com/blog/eve-is-now-generally-available",
+    "keywords": [
+      "30z introducing eve 1",
+      "introducing eve 1",
+      "introducing eve 1",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "2026",
+      "18t00"
+    ],
+    "summary": "# Introducing eve 1.0 > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z Introducing eve 1.0"
+  },
+  "792bb00dad4f9976": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_mai-image-2-7-and-mai-image-2-7-flash-n_d0ca5c5ffb.md",
+    "source": "vercel-blog",
+    "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
+    "url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+    "keywords": [
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "30z mai",
+      "mai",
+      "mai",
+      "mai",
+      "mai",
+      "mai",
+      "vercel"
+    ],
+    "summary": "# MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway"
+  },
+  "cb2d4d6ae37fc52b": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-blob-now-supports-ttls-for-autom_55169d12e6.md",
+    "source": "vercel-blog",
+    "title": "Vercel Blob now supports TTLs for automatic deletion",
+    "url": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+    "keywords": [
+      "30z vercel blob",
+      "vercel blob",
+      "vercel blob",
+      "supports ttls",
+      "supports ttls",
+      "supports ttls",
+      "automatic deletion",
+      "automatic deletion",
+      "automatic deletion",
+      "vercel"
+    ],
+    "summary": "# Vercel Blob now supports TTLs for automatic deletion > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z Vercel Blob now supports TTLs for automatic deletion"
+  },
+  "3e15144a478a44aa": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_native-lint-and-typecheck-deployment-ch_1a7e42874a.md",
+    "source": "vercel-blog",
+    "title": "Native lint and typecheck Deployment Checks are being deprecated",
+    "url": "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+    "keywords": [
+      "typecheck deployment checks",
+      "typecheck deployment checks",
+      "typecheck deployment checks",
+      "30z native lint",
+      "native lint",
+      "native lint",
+      "vercel",
+      "source",
+      "news",
+      "deprecated"
+    ],
+    "summary": "# Native lint and typecheck Deployment Checks are being deprecated > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z Native lint and typecheck Deployment Checks are being deprecated"
+  },
+  "64a745ec9728abc3": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_standard-build-billing-new-teams_344626cf5b.md",
+    "source": "vercel-blog",
+    "title": "Standard builds move to usage-based billing for new teams",
+    "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
+    "keywords": [
+      "30z standard builds move",
+      "standard builds move",
+      "standard builds move",
+      "new teams",
+      "new teams",
+      "new teams",
+      "based billing",
+      "based billing",
+      "based billing",
+      "vercel"
+    ],
+    "summary": "# Standard builds move to usage-based billing for new teams > Source: vercel-blog | Category: news | 2026-11-18T00:07:30Z Standard builds move to usage-based billing for new teams"
+  },
+  "6c3d339e0747a955": {
+    "file": "corpus/product/techcrunch_com_2026_11_17_pedestal-ai-raises-4-7-million-to-_837c136c32.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Pedestal AI raises $4.7 million to agentify the supply chain",
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "keywords": [
+      "company uses agentic ai",
+      "make supply chains faster",
+      "18z pedestal ai raises",
+      "pedestal ai raises",
+      "pedestal ai raises",
+      "supply chain",
+      "supply chain",
+      "supply chain",
+      "7 million",
+      "7 million"
+    ],
+    "summary": "# [techcrunch-startups] Pedestal AI raises $4.7 million to agentify the supply chain Pedestal AI raises $4.7 million to agentify the supply chain The company uses agentic AI to make supply chains faster and more reliable."
+  },
+  "24bb9669fb44445c": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_shopify-remote-ai-dev_utm_campaig_ab05ea5459.md",
+    "source": "engineering",
+    "title": "[infoq] How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines",
+    "url": "https://www.infoq.com/news/2026/11/shopify-remote-ai-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "remote mobile development environment",
+      "shopify built remote dev",
+      "prevent ai development workflows",
+      "shopify orchestrates ai",
+      "shopify orchestrates ai",
+      "shopify orchestrates ai",
+      "enables ai agents",
+      "sergio de simone",
+      "exhausting developer machines",
+      "maintain ios"
+    ],
+    "summary": "# [infoq] How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines To prevent AI development workflows from exhausting developer machines' resources, Shopify built Remote Dev, a remote mobile development environment that enables AI agents to independently build, test and maintain iOS and Android applications and in parallel."
+  },
+  "47ef42fab9498114": {
+    "file": "corpus/hackernews/www_wsj_com_tech_ai_nvidia-nvda-3q-2027-earnings-report-stoc_99d3d42dec.md",
+    "source": "hackernews",
+    "title": "Nvidia Beats Estimates, Raises Guidance After Huang's Ouster",
+    "url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303",
+    "keywords": [
+      "nvidia beats estimates",
+      "nvidia beats estimates",
+      "raises guidance",
+      "raises guidance",
+      "25z score",
+      "source",
+      "ouster",
+      "ouster",
+      "news",
+      "huang"
+    ],
+    "summary": "# Nvidia Beats Estimates, Raises Guidance After Huang's Ouster > Source: hackernews | Category: news | 2026-11-18T00:07:25Z Score: 7 | Comments: 0"
+  },
+  "be52405f8bc60652": {
+    "file": "corpus/hackernews/developer_apple_com_system-status_66904ef5c4.md",
+    "source": "hackernews",
+    "title": "Apple Services Down",
+    "url": "https://developer.apple.com/system-status/",
+    "keywords": [
+      "apple services",
+      "apple services",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "610",
+      "331"
+    ],
+    "summary": "# Apple Services Down > Source: hackernews | Category: news | 2026-11-18T00:07:19Z Score: 610 | Comments: 331"
+  },
+  "6ba51cdd2cf65ef1": {
+    "file": "corpus/hackernews/arxiv_org_abs_2611_09827_06fd8a8d71.md",
+    "source": "hackernews",
+    "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+    "url": "https://arxiv.org/abs/2611.09827",
+    "keywords": [
+      "low earth orbit",
+      "low earth orbit",
+      "nuclear detonation",
+      "nuclear detonation",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "effects",
+      "effects"
+    ],
+    "summary": "# Effects of a Nuclear Detonation in Low Earth Orbit > Source: hackernews | Category: news | 2026-11-18T00:07:19Z Score: 67 | Comments: 37"
+  },
+  "bd6854966be78f7d": {
+    "file": "corpus/hackernews/wiki_archiveteam_org_index_php_Apple_Discussions_3610d4233e.md",
+    "source": "hackernews",
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "keywords": [
+      "closes november 20",
+      "closes november 20",
+      "apple support community",
+      "apple support community",
+      "archive team",
+      "archive team",
+      "18z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Archive Team is archiving the Apple Support Community (closes November 20, 2026) > Source: hackernews | Category: news | 2026-11-18T00:07:18Z Score: 18 | Comments: 2"
+  },
+  "ea2975a5b6e51038": {
+    "file": "corpus/hackernews/github_com_jquery_jquery_releases_tag_4_1_0_3a4d3301c7.md",
+    "source": "hackernews",
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "keywords": [
+      "jquery 4",
+      "jquery 4",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "226",
+      "2026"
+    ],
+    "summary": "# jQuery 4.1.0 > Source: hackernews | Category: news | 2026-11-18T00:07:17Z Score: 226 | Comments: 123"
+  },
+  "d989592efd16530a": {
+    "file": "corpus/hackernews/alistair_sh_thenables_2b683d67a0.md",
+    "source": "hackernews",
+    "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+    "url": "https://alistair.sh/thenables",
+    "keywords": [
+      "webkit bug",
+      "webkit bug",
+      "train tracks",
+      "train tracks",
+      "22z score",
+      "source",
+      "see",
+      "see",
+      "promises",
+      "promises"
+    ],
+    "summary": "# Fixing a WebKit bug to see if promises are made of train tracks > Source: hackernews | Category: news | 2026-11-18T00:07:22Z Score: 31 | Comments: 1"
+  },
+  "9366020b6f30314d": {
+    "file": "corpus/hackernews/shivamduggal4_github_io_latent-lattice-language-models_80ed49a62e.md",
+    "source": "hackernews",
+    "title": "Latent Lattice Language Models",
+    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+    "keywords": [
+      "latent lattice language models",
+      "latent lattice language models",
+      "20z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Latent Lattice Language Models > Source: hackernews | Category: news | 2026-11-18T00:07:20Z Score: 10 | Comments: 3"
+  },
+  "a3f2659440e70e59": {
+    "file": "corpus/hackernews/blog_cloudflare_com_quad9-withdrawal-from-france_9fd23e018d.md",
+    "source": "hackernews",
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "keywords": [
+      "coal mine",
+      "coal mine",
+      "17z score",
+      "withdrawal",
+      "withdrawal",
+      "source",
+      "quad9",
+      "quad9",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Quad9's withdrawal from France: A canary in the coal mine > Source: hackernews | Category: news | 2026-11-18T00:07:17Z Score: 172 | Comments: 38"
+  },
+  "8417e708ca245e3d": {
+    "file": "corpus/hackernews/aboard_com_lets-have-a-mouse-party_e612100262.md",
+    "source": "hackernews",
+    "title": "Mouse Party",
+    "url": "https://aboard.com/lets-have-a-mouse-party/",
+    "keywords": [
+      "mouse party",
+      "mouse party",
+      "20z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Mouse Party > Source: hackernews | Category: news | 2026-11-18T00:07:20Z Score: 51 | Comments: 8"
+  },
+  "335cb7401e20a0d5": {
+    "file": "corpus/hackernews/www_aikido_dev_blog_java-17-rce-vulnerability-cve-2026-11493_a7b9d8f0e3.md",
+    "source": "hackernews",
+    "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+    "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+    "keywords": [
+      "java 17 puts servers",
+      "java 17 puts servers",
+      "auth rce flaw",
+      "auth rce flaw",
+      "18z score",
+      "source",
+      "risk",
+      "risk",
+      "pre",
+      "pre"
+    ],
+    "summary": "# Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938) > Source: hackernews | Category: news | 2026-11-18T00:07:18Z Score: 138 | Comments: 22"
+  },
+  "e603ac95c55f45c0": {
+    "file": "corpus/hackernews/github_com_microsoft_onnxruntime_92e08c29ab.md",
+    "source": "hackernews",
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "keywords": [
+      "onnx runtime",
+      "onnx runtime",
+      "19z score",
+      "source",
+      "news",
+      "microsoft",
+      "microsoft",
+      "hackernews",
+      "github",
+      "github"
+    ],
+    "summary": "# Microsoft's ONNX Runtime has disappeared from GitHub > Source: hackernews | Category: news | 2026-11-18T00:07:19Z Score: 46 | Comments: 7"
+  },
+  "32e3cca1ab89bc3c": {
+    "file": "corpus/hackernews/openai_com_index_advancing-computer-use-for-healthcare-teams_09ba549edd.md",
+    "source": "hackernews",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "keywords": [
+      "use agents",
+      "use agents",
+      "healthcare teams",
+      "healthcare teams",
+      "advancing computer",
+      "advancing computer",
+      "21z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Advancing computer-use agents for healthcare teams > Source: hackernews | Category: news | 2026-11-18T00:07:21Z Score: 35 | Comments: 25"
+  },
+  "57d67299a82ea328": {
+    "file": "corpus/hackernews/apnews_com_article_waymo-driverless-vehicle-california-freew_dcd93403f5.md",
+    "source": "hackernews",
+    "title": "California bans Waymo autonomous vehicles from state freeways",
+    "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+    "keywords": [
+      "state freeways",
+      "state freeways",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# California bans Waymo autonomous vehicles from state freeways > Source: hackernews | Category: news | 2026-11-18T00:07:24Z Score: 31 | Comments: 5"
+  },
+  "4d0369e6eb6c3d6d": {
+    "file": "corpus/hackernews/www_zerohedge_com_political_anthropic-paid-rubios-ex-chief-s_914baec5d6.md",
+    "source": "hackernews",
+    "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+    "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+    "keywords": [
+      "anthropic paid rubio",
+      "anthropic paid rubio",
+      "25z score",
+      "staff",
+      "staff",
+      "source",
+      "nsc",
+      "nsc",
+      "news",
+      "lobbied"
+    ],
+    "summary": "# Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC > Source: hackernews | Category: news | 2026-11-18T00:07:25Z Score: 55 | Comments: 10"
+  },
+  "36dda5dac332e247": {
+    "file": "corpus/hackernews/www_wired_com_story_new-species-of-giant-fungus-discovered-i_c6c0ff0d80.md",
+    "source": "hackernews",
+    "title": "New Species of Giant Fungus Discovered in China Grows Up to 20 Inches Tall",
+    "url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+    "keywords": [
+      "giant fungus discovered",
+      "giant fungus discovered",
+      "20 inches tall",
+      "20 inches tall",
+      "new species",
+      "new species",
+      "china grows",
+      "china grows",
+      "22z score",
+      "source"
+    ],
+    "summary": "# New Species of Giant Fungus Discovered in China Grows Up to 20 Inches Tall > Source: hackernews | Category: news | 2026-11-18T00:07:22Z Score: 13 | Comments: 2"
+  },
+  "86ab57acc19cbbcc": {
+    "file": "corpus/hackernews/browser_engineering_30af260ff6.md",
+    "source": "hackernews",
+    "title": "Web Browser Engineering (2021)",
+    "url": "https://browser.engineering/",
+    "keywords": [
+      "web browser engineering",
+      "web browser engineering",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "2021"
+    ],
+    "summary": "# Web Browser Engineering (2021) > Source: hackernews | Category: news | 2026-11-18T00:07:19Z Score: 112 | Comments: 19"
+  },
+  "9ac7c9d60874f4df": {
+    "file": "corpus/hackernews/www_cnbc_com_2026_11_17_nvidia-nvda-earnings-report-q3-2027__6aa024c115.md",
+    "source": "hackernews",
+    "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+    "keywords": [
+      "reinstate huang",
+      "reinstate huang",
+      "22z score",
+      "source",
+      "news",
+      "intend",
+      "intend",
+      "hackernews",
+      "comments",
+      "ceo"
+    ],
+    "summary": "# Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO > Source: hackernews | Category: news | 2026-11-18T00:07:22Z Score: 29 | Comments: 0"
+  },
+  "117762a99bbb1a0f": {
+    "file": "corpus/hackernews/hy_tencent_ai_research_hy4-flash_85e628cc5c.md",
+    "source": "hackernews",
+    "title": "Tencent Hy4 Flash",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "keywords": [
+      "tencent hy4 flash",
+      "tencent hy4 flash",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Tencent Hy4 Flash > Source: hackernews | Category: news | 2026-11-18T00:07:19Z Score: 26 | Comments: 5"
+  },
+  "7c56857da9b89d3b": {
+    "file": "corpus/hackernews/puri_sm_posts_purism-launches-librem-5-v2-a-risc-v-phone-to-_5a9f61c1a1.md",
+    "source": "hackernews",
+    "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+    "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+    "keywords": [
+      "v phone",
+      "v phone",
+      "empower people",
+      "empower people",
+      "25z score",
+      "source",
+      "risc",
+      "risc",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Purism Launches Librem 5 v2, a RISC-V Phone to Empower People > Source: hackernews | Category: news | 2026-11-18T00:07:25Z Score: 89 | Comments: 91"
+  },
+  "1d33338f7a09de82": {
+    "file": "corpus/hackernews/www_sciencenorway_no_culture-history-history-of-science_350-_8e5c0d9d0f.md",
+    "source": "hackernews",
+    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "keywords": [
+      "ole rømer discovered",
+      "ole rømer discovered",
+      "350 years ago",
+      "350 years ago",
+      "finite speed",
+      "finite speed",
+      "18z score",
+      "source",
+      "news",
+      "light"
+    ],
+    "summary": "# 350 years ago, Ole Rømer discovered that light has a finite speed > Source: hackernews | Category: news | 2026-11-18T00:07:18Z Score: 224 | Comments: 67"
+  },
+  "6325fdf9cd15e4d0": {
+    "file": "corpus/hackernews/read_corematter_com_p_section-232-us-machine-tools_9f655c2274.md",
+    "source": "hackernews",
+    "title": "Who Builds the Machines That Build the Machines?",
+    "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+    "keywords": [
+      "20z score",
+      "source",
+      "news",
+      "machines",
+      "machines",
+      "machines",
+      "machines",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Who Builds the Machines That Build the Machines? > Source: hackernews | Category: news | 2026-11-18T00:07:20Z Score: 83 | Comments: 25"
+  },
+  "54da6e8faa2de0b0": {
+    "file": "corpus/hackernews/newsletter_posthog_com_p_decision-models_233f4988e8.md",
+    "source": "hackernews",
+    "title": "Not Everything Needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "keywords": [
+      "everything needs",
+      "everything needs",
+      "20z score",
+      "source",
+      "news",
+      "llm",
+      "llm",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Not Everything Needs an LLM > Source: hackernews | Category: news | 2026-11-18T00:07:20Z Score: 72 | Comments: 28"
+  },
+  "7123ca6a34a59a6a": {
+    "file": "corpus/hackernews/us_afpnews_com_article_apple-faces-french-trial-over-alleged_bb73ee83ac.md",
+    "source": "hackernews",
+    "title": "Apple faces French trial over alleged planned obsolescence of iPhones",
+    "url": "https://us.afpnews.com/article/?apple-faces-french-trial-over-alleged-planned-obsolescence-of-iphones-source,D7NH6NW",
+    "keywords": [
+      "apple faces french trial",
+      "apple faces french trial",
+      "alleged planned obsolescence",
+      "alleged planned obsolescence",
+      "25z score",
+      "source",
+      "news",
+      "iphones",
+      "iphones",
+      "hackernews"
+    ],
+    "summary": "# Apple faces French trial over alleged planned obsolescence of iPhones > Source: hackernews | Category: news | 2026-11-18T00:07:25Z Score: 26 | Comments: 7"
+  },
+  "9c2c9aa44aa95971": {
+    "file": "corpus/hackernews/www_gabrielgambetta_com_computer-graphics-from-scratch_index_ea1831501c.md",
+    "source": "hackernews",
+    "title": "Computer Graphics from Scratch",
+    "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+    "keywords": [
+      "computer graphics",
+      "computer graphics",
+      "23z score",
+      "source",
+      "scratch",
+      "scratch",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Computer Graphics from Scratch > Source: hackernews | Category: news | 2026-11-18T00:07:23Z Score: 12 | Comments: 1"
+  },
+  "e6b07decf3f1f058": {
+    "file": "corpus/hackernews/starsling_dev_7bd4069e0f.md",
+    "source": "hackernews",
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "keywords": [
+      "fastest zen 5 machines",
+      "reduce cost .< p",
+      "inference bill .< p",
+      "every ci job gets",
+      "benchmarked open source repos",
+      "ci bill got close",
+      "started building ai agents",
+      "pull &# x2f",
+      "pull &# x2f",
+      "previously founded stackshare"
+    ],
+    "summary": "We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost.<p>Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. Last year we started building AI agents for DevOps because shipping code to prod fell way behind agentic coding."
+  },
+  "7b2065a2d42fa8f5": {
+    "file": "corpus/hackernews/microsoft_ai_news_introducing-mai-code-2-and-mai-code-2-flas_5fb2adb0a1.md",
+    "source": "hackernews",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "keywords": [
+      "mai code 2",
+      "mai code 2",
+      "code 2 flash",
+      "code 2 flash",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# MAI Code 2 and Code 2 Flash > Source: hackernews | Category: news | 2026-11-18T00:07:18Z Score: 264 | Comments: 123"
+  },
+  "5962343776f16799": {
+    "file": "corpus/hackernews/phrack_org_issues_73_introduction_md_85ee66f202.md",
+    "source": "hackernews",
+    "title": "Phrack 73 Released",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "keywords": [
+      "phrack 73 released",
+      "phrack 73 released",
+      "18z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "248"
+    ],
+    "summary": "# Phrack 73 Released > Source: hackernews | Category: news | 2026-11-18T00:07:18Z Score: 248 | Comments: 25"
+  },
+  "251b860ca3f24754": {
+    "file": "corpus/hackernews/calif_io_java4shell_1887f66f9a.md",
+    "source": "hackernews",
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "url": "https://calif.io/java4shell/",
+    "keywords": [
+      "processing base64",
+      "processing base64",
+      "17z score",
+      "source",
+      "rce",
+      "rce",
+      "openjdk",
+      "openjdk",
+      "news",
+      "java4shell"
+    ],
+    "summary": "# Java4Shell: RCE in OpenJDK when processing Base64 > Source: hackernews | Category: news | 2026-11-18T00:07:17Z Score: 398 | Comments: 106"
+  },
+  "0852882b8b713ead": {
+    "file": "corpus/hackernews/www_solidjs_com_blog_solid-2-0-the-long-hold_a62f1fc937.md",
+    "source": "hackernews",
+    "title": "Solid 2.0",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+    "keywords": [
+      "solid 2",
+      "solid 2",
+      "19z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Solid 2.0 > Source: hackernews | Category: news | 2026-11-18T00:07:19Z Score: 200 | Comments: 53"
+  },
+  "9bfedef8ed1f4853": {
+    "file": "corpus/hackernews/www_pythonmorsels_com_goose-typing_a9db0692b4.md",
+    "source": "hackernews",
+    "title": "Goose Typing – Python Morsels",
+    "url": "https://www.pythonmorsels.com/goose-typing/",
+    "keywords": [
+      "25z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "18t00"
+    ],
+    "summary": "# Goose Typing – Python Morsels > Source: hackernews | Category: news | 2026-11-18T00:07:25Z Score: 3 | Comments: 0"
+  },
+  "bb0c7ca2d9a62455": {
+    "file": "corpus/hackernews/jgeekstudies_org_2026_11_15_zoltraak-military-innovation-in-_8b5403148c.md",
+    "source": "hackernews",
+    "title": "Zoltraak and the Dynamics of Military Innovation",
+    "url": "https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/",
+    "keywords": [
+      "military innovation",
+      "military innovation",
+      "21z score",
+      "zoltraak",
+      "zoltraak",
+      "source",
+      "news",
+      "hackernews",
+      "dynamics",
+      "dynamics"
+    ],
+    "summary": "# Zoltraak and the Dynamics of Military Innovation > Source: hackernews | Category: news | 2026-11-18T00:07:21Z Score: 39 | Comments: 8"
+  },
+  "43d45d2f3aeb92d8": {
+    "file": "corpus/devto/dev_to_seanjhkwon_why-coding-agent-commits-are-3x-larger-and_468f830955.md",
+    "source": "devto",
+    "title": "Why Coding Agent Commits Are 3x Larger and How to Keep PRs Reviewable",
+    "url": "https://dev.to/seanjhkwon/why-coding-agent-commits-are-3x-larger-and-how-to-keep-prs-reviewable-5hhn",
+    "keywords": [
+      "keep prs reviewable",
+      "keep prs reviewable",
+      "coding agent commits",
+      "coding agent commits",
+      "018 github repositories",
+      "2026 empirical study",
+      "autonomous ...",
+      "3x larger",
+      "3x larger",
+      "2026"
+    ],
+    "summary": "# Why Coding Agent Commits Are 3x Larger and How to Keep PRs Reviewable > Source: devto | Category: news | 2026-11-18T00:07:29Z A 2026 empirical study of 128,018 GitHub repositories (arXiv:2601.18341) measured how autonomous..."
+  },
+  "e80fc842c20bb872": {
+    "file": "corpus/devto/dev_to_jjjjjjjjnnjnn_19-visitors-1-star-1416-clones-what-a-l_43f1642fba.md",
+    "source": "devto",
+    "title": "19 visitors, 1 star, 1,416 clones: what a launch actually looked like",
+    "url": "https://dev.to/jjjjjjjjnnjnn/19-visitors-1-star-1416-clones-what-a-launch-actually-looked-like-43pi",
+    "keywords": [
+      "traffic data nobody puts",
+      "29z four packages published",
+      "launch actually looked like",
+      "launch actually looked like",
+      "19 unique visitors",
+      "launch post",
+      "19 visitors",
+      "19 visitors",
+      "two weeks",
+      "anonymous install"
+    ],
+    "summary": "# 19 visitors, 1 star, 1,416 clones: what a launch actually looked like Four packages published, an anonymous install that works, and 19 unique visitors in two weeks. Here is the traffic data nobody puts in a launch post."
+  },
+  "f6135cb4fd9a6fe0": {
+    "file": "corpus/devto/dev_to_eugeniya_ivanova_4a58eadc_ive-been-through-a-dozen-ap_69a059e9ea.md",
+    "source": "devto",
+    "title": "I've been through a dozen app reviews. This one just had a Google Form.",
+    "url": "https://dev.to/eugeniya_ivanova_4a58eadc/ive-been-through-a-dozen-app-reviews-this-one-just-had-a-google-form-mjh",
+    "keywords": [
+      "dozen app reviews",
+      "dozen app reviews",
+      "plugin catalog",
+      "new platform",
+      "google opened",
+      "google form",
+      "google form",
+      "agentic ...",
+      "source",
+      "reactions"
+    ],
+    "summary": "# I've been through a dozen app reviews. This one just had a Google Form. At the end of October, Google opened a plugin catalog for Antigravity, its new platform for agentic..."
+  },
+  "9c4a925780fd2617": {
+    "file": "corpus/devto/dev_to_aheadkit_the-free-removebg-replacement-costs-144-a-ye_59ee99399d.md",
+    "source": "devto",
+    "title": "The 'Free' remove.bg Replacement Costs $144 a Year. Do the Maths First.",
+    "url": "https://dev.to/aheadkit/the-free-removebg-replacement-costs-144-a-year-do-the-maths-first-2kk0",
+    "keywords": [
+      "26z three days ago",
+      "bg replacement costs",
+      "bg replacement costs",
+      "bg dies",
+      "maths first",
+      "maths first",
+      "machine ...",
+      "december 1",
+      "free tool",
+      "free"
+    ],
+    "summary": "# The 'Free' remove.bg Replacement Costs $144 a Year. > Source: devto | Category: news | 2026-11-18T00:07:26Z Three days ago I wrote that remove.bg dies on December 1, and that the free tool on your own machine..."
+  },
+  "694350d2e6665e29": {
+    "file": "corpus/devto/dev_to_babib_your-first-mini-curation-getting-started-and-le_f62bce19eb.md",
+    "source": "devto",
+    "title": "Your First Mini-Curation: Getting Started and Lessons from My Experience",
+    "url": "https://dev.to/babib/your-first-mini-curation-getting-started-and-lessons-from-my-experience-1bcg",
+    "keywords": [
+      "introduced bugsigdb ,...",
+      "understanding bugsigdb",
+      "previous article",
+      "getting started",
+      "getting started",
+      "first mini",
+      "first mini",
+      "curation policy",
+      "curation",
+      "curation"
+    ],
+    "summary": "# Your First Mini-Curation: Getting Started and Lessons from My Experience > Source: devto | Category: news | 2026-11-18T00:07:30Z In my previous article, Understanding BugSigDB and Its Curation Policy, I introduced BugSigDB,..."
+  },
+  "71c4616ab30eebc8": {
+    "file": "corpus/devto/dev_to_babib_my-first-bugsigdb-contributions-mistakes-feedba_795fdd214d.md",
+    "source": "devto",
+    "title": "My First BugSigDB Contributions Mistakes, feedback, and lessons learned",
+    "url": "https://dev.to/babib/my-first-bugsigdb-contributions-mistakes-feedback-and-lessons-learned-4f0p",
+    "keywords": [
+      "first bugsigdb contributions mistakes",
+      "first bugsigdb contributions mistakes",
+      "started contributing",
+      "scientific literature",
+      "lessons learned",
+      "lessons learned",
+      "bugsigdb",
+      "would",
+      "working",
+      "source"
+    ],
+    "summary": "# My First BugSigDB Contributions Mistakes, feedback, and lessons learned > Source: devto | Category: news | 2026-11-18T00:07:30Z When I started contributing to BugSigDB, I knew I would be working with scientific literature and..."
+  },
+  "8894fb8fcccd70db": {
+    "file": "corpus/devto/dev_to_itshayder_this-github-repo-gives-you-100-ai-agents-fo_ef4e69bebd.md",
+    "source": "devto",
+    "title": "This GitHub Repo Gives You 100+ AI Agents for Different Jobs",
+    "url": "https://dev.to/itshayder/this-github-repo-gives-you-100-ai-agents-for-different-jobs-3dfl",
+    "keywords": [
+      "probably seen msitarzewski",
+      "github repo gives",
+      "github repo gives",
+      "github lately",
+      "different jobs",
+      "different jobs",
+      "ai agents",
+      "ai agents",
+      "agents ..."
+    ],
+    "summary": "# This GitHub Repo Gives You 100+ AI Agents for Different Jobs > Source: devto | Category: news | 2026-11-18T00:07:26Z If you've been scrolling through X or GitHub lately, you've probably seen msitarzewski/agency-agents..."
+  },
+  "d72e5b3f67ba86d3": {
+    "file": "corpus/devto/dev_to_guilherme_michels_a-fake-recruiter-sent-me-a-coding-t_aece5e1a20.md",
+    "source": "devto",
+    "title": "A fake recruiter sent me a coding test. The repo was malware",
+    "url": "https://dev.to/guilherme_michels/a-fake-recruiter-sent-me-a-coding-test-the-repo-was-malware-17f5",
+    "keywords": [
+      "fake recruiter sent",
+      "fake recruiter sent",
+      "fake recruiter scam",
+      "weeks ago",
+      "reached ...",
+      "got targeted",
+      "coding test",
+      "coding test",
+      "wrote",
+      "source"
+    ],
+    "summary": "The repo was malware > Source: devto | Category: news | 2026-11-18T00:07:28Z A few weeks ago I got targeted by a fake recruiter scam."
+  },
+  "fa6404fc8db2fea8": {
+    "file": "corpus/devto/dev_to_therealmrmumba_i-tried-respan-gateway-an-open-source-_3d8b0f96c6.md",
+    "source": "devto",
+    "title": "I Tried Respan Gateway: An Open-Source LLM Gateway Written in Rust",
+    "url": "https://dev.to/therealmrmumba/i-tried-respan-gateway-an-open-source-llm-gateway-written-in-rust-n7n",
+    "keywords": [
+      "source llm gateway written",
+      "source llm gateway written",
+      "one llm provider",
+      "tried respan gateway",
+      "tried respan gateway",
+      "built anything",
+      "source",
+      "sdk",
+      "rust",
+      "rust"
+    ],
+    "summary": "# I Tried Respan Gateway: An Open-Source LLM Gateway Written in Rust > Source: devto | Category: news | 2026-11-18T00:07:26Z If you've built anything on more than one LLM provider, you know the drill."
+  },
+  "8d151566cebe1090": {
+    "file": "corpus/devto/dev_to_saifuddin_three-years-of-reading-engineering-proposal_944525f9a5.md",
+    "source": "devto",
+    "title": "I score engineering projects for IEEE. Most of them don't fail on the idea.",
+    "url": "https://dev.to/saifuddin/three-years-of-reading-engineering-proposals-for-ieee-taught-me-what-a-good-idea-is-missing-2ijp",
+    "keywords": [
+      "score engineering projects",
+      "score engineering projects",
+      "28z last night",
+      "october ...",
+      "email arrived",
+      "certificate attached",
+      "ieee reviewer",
+      "ieee",
+      "ieee",
+      "ieee"
+    ],
+    "summary": "# I score engineering projects for IEEE. Most of them don't fail on the idea. Last night an email arrived from IEEE with a certificate attached: EPICS in IEEE Reviewer, October..."
+  },
+  "8262ac94215e77b2": {
+    "file": "corpus/devto/dev_to_dumebii_hardening-kotlin-apis-with-oauth2-and-json-we_58f853be79.md",
+    "source": "devto",
+    "title": "Hardening Kotlin APIs with OAuth2 and JSON Web Tokens",
+    "url": "https://dev.to/dumebii/hardening-kotlin-apis-with-oauth2-and-json-web-tokens-3m8i",
+    "keywords": [
+      "json web tokens",
+      "json web tokens",
+      "implementing delegated ...",
+      "hardening kotlin apis",
+      "hardening kotlin apis",
+      "words",
+      "source",
+      "rewrite",
+      "read",
+      "reactions"
+    ],
+    "summary": "# Hardening Kotlin APIs with OAuth2 and JSON Web Tokens I read this article and I rewrite it in my own words. A guide to implementing delegated..."
+  },
+  "d0daa801630546e2": {
+    "file": "corpus/devto/dev_to_amananandrai_googles-open-knowledge-format-from-a-kar_613c31e23b.md",
+    "source": "devto",
+    "title": "Google's Open Knowledge Format: From a Karpathy Tweet to a Spec, and What the Evidence Says",
+    "url": "https://dev.to/amananandrai/googles-open-knowledge-format-from-a-karpathy-tweet-to-a-spec-and-what-the-evidence-says-ol8",
+    "keywords": [
+      "open knowledge format",
+      "open knowledge format",
+      "karpathy tweet",
+      "karpathy tweet",
+      "evidence says",
+      "evidence says",
+      "spec",
+      "spec",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Google's Open Knowledge Format: From a Karpathy Tweet to a Spec, and What the Evidence Says > Source: devto | Category: news | 2026-11-18T00:07:26Z Every agent project eventually runs into the same problem: the model doesn't know what your..."
+  },
+  "9c0d49993fbe1eea": {
+    "file": "corpus/devto/dev_to_aerabi_ai-skills-and-how-to-distribute-them-3hlk_b3ee796d84.md",
+    "source": "devto",
+    "title": "AI Skills and How to Distribute Them",
+    "url": "https://dev.to/aerabi/ai-skills-and-how-to-distribute-them-3hlk",
+    "keywords": [
+      "agent skills work",
+      "ai skills",
+      "ai skills",
+      "practical guidance",
+      "28z learn",
+      "source",
+      "reactions",
+      "provenance",
+      "packaging",
+      "news"
+    ],
+    "summary": "# AI Skills and How to Distribute Them > Source: devto | Category: news | 2026-11-18T00:07:28Z Learn how Agent Skills work and how SIP publishes verified releases across registries, with practical guidance on packaging, provenance, and marketplaces."
+  },
+  "81a7f045cd8d7da3": {
+    "file": "corpus/devto/dev_to_israelmitolu_how-i-built-haze-live-webgl-backgrounds-_de29907adb.md",
+    "source": "devto",
+    "title": "How I Built Haze: Live WebGL Backgrounds While Learning Shaders",
+    "url": "https://dev.to/israelmitolu/how-i-built-haze-live-webgl-backgrounds-while-learning-shaders-4kn1",
+    "keywords": [
+      "almost two years since",
+      "really busy ....",
+      "live webgl backgrounds",
+      "live webgl backgrounds",
+      "learning shaders",
+      "learning shaders",
+      "last article",
+      "built haze",
+      "built haze",
+      "work"
+    ],
+    "summary": "# How I Built Haze: Live WebGL Backgrounds While Learning Shaders So, it's been a while. Almost two years since my last article here, and work has kept me really busy...."
+  },
+  "5ad3a71c216f0ebf": {
+    "file": "corpus/devto/dev_to_amananandrai_matt-pococks-agent-skills-the-markdown-f_8358039f93.md",
+    "source": "devto",
+    "title": "Matt Pocock's Agent Skills: The Markdown Files Everyone's Installing (and Whether They Still Matter)",
+    "url": "https://dev.to/amananandrai/matt-pococks-agent-skills-the-markdown-files-everyones-installing-and-whether-they-still-matter-122a",
+    "keywords": [
+      "26z quick confession",
+      "markdown files everyone",
+      "markdown files everyone",
+      "markdown files",
+      "still matter",
+      "still matter",
+      "matt pocock",
+      "matt pocock",
+      "agent skills",
+      "agent skills"
+    ],
+    "summary": "# Matt Pocock's Agent Skills: The Markdown Files Everyone's Installing (and Whether They Still Matter) > Source: devto | Category: news | 2026-11-18T00:07:26Z Quick confession: I rolled my eyes when \"a folder of Markdown files\" started topping GitHub trending...."
+  },
+  "217188047556a904": {
+    "file": "corpus/devto/dev_to_babib_learning-to-read-scientific-findings-in-differe_45203f5063.md",
+    "source": "devto",
+    "title": "Learning to Read Scientific Findings in Different Ways",
+    "url": "https://dev.to/babib/learning-to-read-scientific-findings-in-different-ways-4h01",
+    "keywords": [
+      "read scientific findings",
+      "read scientific findings",
+      "30z one thing",
+      "microbial differences",
+      "different ways",
+      "different ways",
+      "different studies",
+      "working",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Learning to Read Scientific Findings in Different Ways > Source: devto | Category: news | 2026-11-18T00:07:30Z One thing I discovered while working on different studies is that microbial differences and their..."
+  },
+  "7e12acf21167e2f1": {
+    "file": "corpus/devto/dev_to_ndcodes_day-85-one-direction-and-two-halves-5cic_bb913a035e.md",
+    "source": "devto",
+    "title": "Day 85: A Task That Always Changes and Two Halves",
+    "url": "https://dev.to/ndcodes/day-85-one-direction-and-two-halves-5cic",
+    "keywords": [
+      "tasks today reported",
+      "28z day 85",
+      "day 85",
+      "day 85",
+      "day 35",
+      "word rather",
+      "two halves",
+      "two halves",
+      "always changes",
+      "always changes"
+    ],
+    "summary": "# Day 85: A Task That Always Changes and Two Halves > Source: devto | Category: news | 2026-11-18T00:07:28Z Both tasks today reported a state that is a word rather than a..."
+  },
+  "f826bb3fb48f4aac": {
+    "file": "corpus/devto/dev_to_darkliahos_what-sort-of-developer-should-i-be-2gai_5f503acb59.md",
+    "source": "devto",
+    "title": "What sort of developer should I be",
+    "url": "https://dev.to/darkliahos/what-sort-of-developer-should-i-be-2gai",
+    "keywords": [
+      "career 15 years ago",
+      "way ...",
+      "one question",
+      "continually worked",
+      "28z since",
+      "started",
+      "source",
+      "sort",
+      "sort",
+      "reactions"
+    ],
+    "summary": "# What sort of developer should I be > Source: devto | Category: news | 2026-11-18T00:07:28Z Since I started my career 15 years ago, there's been one question that's continually worked its way..."
+  },
+  "bdaa48e96467ebf5": {
+    "file": "corpus/devto/dev_to_babib_understanding-bugsigdb-and-its-curation-policy-_c33e40f6e9.md",
+    "source": "devto",
+    "title": "Understanding BugSigDB and Its Curation Policy",
+    "url": "https://dev.to/babib/understanding-bugsigdb-and-its-curation-policy-36nl",
+    "keywords": [
+      "understanding bugsigdb",
+      "understanding bugsigdb",
+      "previous article",
+      "experience joining",
+      "curation policy",
+      "curation policy",
+      "crash landing",
+      "bugsigdb ...",
+      "zulip",
+      "source"
+    ],
+    "summary": "# Understanding BugSigDB and Its Curation Policy > Source: devto | Category: news | 2026-11-18T00:07:30Z In my previous article, Crash Landing into Zulip, I shared my experience joining the BugSigDB..."
+  },
+  "77d921676a938121": {
+    "file": "corpus/devto/dev_to_babib_my-first-bugsigdb-collaboration-learning-to-cur_0d919f957d.md",
+    "source": "devto",
+    "title": "My First BugSigDB Collaboration: Learning to Curate Together",
+    "url": "https://dev.to/babib/my-first-bugsigdb-collaboration-learning-to-curate-together-16lc",
+    "keywords": [
+      "first bugsigdb collaboration",
+      "first bugsigdb collaboration",
+      "bugsigdb contribution period",
+      "curate together",
+      "curate together",
+      "30z one",
+      "work",
+      "source",
+      "reactions",
+      "opportunity"
+    ],
+    "summary": "# My First BugSigDB Collaboration: Learning to Curate Together > Source: devto | Category: news | 2026-11-18T00:07:30Z One of the highlights of my BugSigDB contribution period was getting the opportunity to work on my..."
+  },
+  "e7a9af581cdafd82": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_35-premium-tools-free-for-a-yearn_dd86f379a3.md",
+    "source": "sales",
+    "title": "[lennys] 35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+    "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+    "keywords": [
+      "35 premium tools free",
+      "35 premium tools free",
+      "lenny &# 8217",
+      "year —",
+      "year —",
+      "year —",
+      "ploy 💥",
+      "ploy 💥",
+      "ploy 💥",
+      "newsletter subscribers"
+    ],
+    "summary": "# [lennys] 35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥 35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥 Over $40,000 in value, exclusively for Lenny&#8217;s Newsletter subscribers"
+  },
+  "8f46de0b3df2cd43": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-cor_94bde3db0a.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-core==1.8.2 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.2",
+    "keywords": [
+      "schema creation (# 41882",
+      "ignore proxies (# 41900",
+      "core ): avoid warning",
+      "2 changes since langchain",
+      "core ): clarify",
+      "core ): add",
+      "core == 1",
+      "core == 1",
+      "core == 1",
+      "core == 1"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T00:08:18Z Changes since langchain-core==1.8.1 feat(core): add `headers` to `langsmith_gateway` and ignore proxies (#41900) docs(core): clarify when to override `aparse_result` (#41894) fix(core): avoid warning-filter races during schema creation (#41882)"
+  },
+  "235a4aafc5941a12": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v3_54_0_7d27c57b24.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v3.54.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v3.54.0",
+    "keywords": [
+      "0 ... v3",
+      "python — v3",
+      "19z ## openai",
+      "0 ##",
+      "c5da68ac74ad2a4bf89c1248f6403b3123e568db ))",
+      "0 released",
+      "0 released",
+      "### features",
+      "python v3",
+      "python v3"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T00:08:19Z ### Features * **api:** type Managed Agents budget events ([#4284](https://github.com/openai/openai-python/issues/4284)) ([c5da68a](https://github.com/openai/openai-python/commit/c5da68ac74ad2a4bf89c1248f6403b3123e568db))"
+  },
+  "f5f37bc9c3d497ee": {
+    "file": "corpus/github-releases/github_com_openai_openai-python_releases_tag_v3_53_0_9e4ff1fcd5.md",
+    "source": "github-releases",
+    "title": "openai/openai-python v3.53.0 released",
+    "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
+    "keywords": [
+      "** api :** add",
+      "** api :** add",
+      "** api :** add",
+      "0 ... v3",
+      "python — v3",
+      "19z ## openai",
+      "0 ##",
+      "720bcb501dff693e1a57af7ffddd1820e6f2075c ))",
+      "720bcb501dff693e1a57af7ffddd1820e6f2075c ))",
+      "720bcb501dff693e1a57af7ffddd1820e6f2075c ))"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T00:08:19Z ### Features * **api:** add 2-hour and 8-hour Responses background windows ([720bcb5](https://github.com/openai/openai-python/commit/720bcb501dff693e1a57af7ffddd1820e6f2075c)) * **api:** add the GPT-6.2 Astra Law Responses model identifier ([720bcb5](https://github.com/openai/openai-python/commit/720bcb501dff693e1a57af7ffddd1820e6f2075c)) * **api:** add the GPT-6.2 Astra model identifier ([720bcb5](https://github.com/openai/o"
+  },
+  "ef23d404be4735f4": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_29_1_50a165a224.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.29.1 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.29.1",
+    "keywords": [
+      "query ): rethrow next",
+      "query ### fixes",
+      "js digest errors",
+      "0 ... v11",
+      "https :// github",
+      "22z ## trpc",
+      "trpc — v11",
+      "1 ##",
+      "1 released",
+      "1 released"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T00:08:22Z * fix(tanstack-react-query): rethrow Next.js digest errors from loadHandles by @KATT in https://github.com/trpc/trpc/pull/8100 **Full Changelog**: https://github.com/trpc/trpc/compare/v11.29.0...v11.29.1"
+  },
+  "390636118a05b25f": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain-ope_889385642a.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain-openai==1.8.1 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.8.1",
+    "keywords": [
+      "done events (# 41923",
+      "1 changes since langchain",
+      "1 (# 41924",
+      "openai == 1",
+      "openai == 1",
+      "openai == 1",
+      "openai == 1",
+      "openai ): 1",
+      "18z ## langchain",
+      "langchain — langchain"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T00:08:18Z Changes since langchain-openai==1.8.0 release(openai): 1.8.1 (#41924) fix(openai): recover function call args from done events (#41923)"
+  },
+  "473e06f3ebae6fff": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_29_0_e5aabebe76.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.29.0 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.29.0",
+    "keywords": [
+      "upgrade ### features",
+      "6 ... v11",
+      "https :// github",
+      "22z ## trpc",
+      "trpc — v11",
+      "0 ##",
+      "0 released",
+      "0 released",
+      "trpc v11",
+      "trpc v11"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T00:08:22Z * feat(upgrade): migrate createTRPCNext apps and more hooks, and say what's left by @KATT in https://github.com/trpc/trpc/pull/8071 **Full Changelog**: https://github.com/trpc/trpc/compare/v11.28.6...v11.29.0"
+  },
+  "ccb3c9b487e84b11": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_5_0-canary_54_5add917f12.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.5.0-canary.54 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.54",
+    "keywords": [
+      "stop checking keyed dependencies",
+      "narrow chunk group reads",
+      "list esm namespace keys",
+      "101787 ### misc changes",
+      "static fallback bootstrap scripts",
+      "54 ### core changes",
+      "dev cache components validation",
+      "experimental testing api opt",
+      "clarify instant layout opt",
+      "without cache components"
+    ],
+    "summary": "- Reject the experimental testing API opt-in without Cache Components: #101952 - Preserve CSP nonces on static fallback bootstrap scripts: #101953 - Turbopack: separate file tracing from NFT manifest emission, add dev flag: #101941 - Clarify the agent handoff for worktree upgrades: #101939 - refactor: Derive whether PPR is enabled from cacheComponents config in base-server: #101936 - refactor: Derive whether PPR is enabled from cacheComponents config: #101929 - perf(build): resolve adapter app p"
+  },
+  "6b5dc102546fbf78": {
+    "file": "corpus/github-releases/github_com_anthropics_anthropic-sdk-python_releases_tag_v2_1_8dc839ee96.md",
+    "source": "github-releases",
+    "title": "anthropics/anthropic-sdk-python v2.10.0 released",
+    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0",
+    "keywords": [
+      "** docs :** note",
+      "** docs :** clarify",
+      "** docs :** clarify",
+      "** docs :** clarify",
+      "** api :** add",
+      "recovery ### bug fixes",
+      "breaking changes ### documentation",
+      "plugin pin holds back",
+      "** internal :**",
+      "working ### chores"
+    ],
+    "summary": "* **api:** rename error data models, deprecating the old names * **docs:** clarify which AWS KMS keys a workspace can use on Claude Platform on AWS * **docs:** clarify which credential work get, update and list accept * **docs:** clarify which uploads a plugin pin holds back * **docs:** note that a plugin scan's reason also covers errored scans `content_scan.reason` on an errored scan now says why there is no verdict. * **internal:** don't report moved classes as breaking changes"
+  },
+  "802fb8cd58dab6b4": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_17_pissed-off-judge-orders-release-_dc23ddf131.md",
+    "source": "legal",
+    "title": "[techdirt] Pissed-Off Judge Orders Release Of Canadian Man Arrested By ICE During Green Card Interview",
+    "url": "https://www.techdirt.com/2026/11/17/pissed-off-judge-orders-release-of-canadian-man-arrested-by-ice-during-green-card-interview/",
+    "keywords": [
+      "means actually engaging",
+      "judge orders release",
+      "judge orders release",
+      "judge orders release",
+      "green card interview",
+      "green card interview",
+      "green card interview",
+      "canadian man arrested",
+      "canadian man arrested",
+      "canadian man arrested"
+    ],
+    "summary": "# [techdirt] Pissed-Off Judge Orders Release Of Canadian Man Arrested By ICE During Green Card Interview Pissed-Off Judge Orders Release Of Canadian Man Arrested By ICE During Green Card Interview This is what ICE has been doing for months now."
+  },
+  "e67b1bcb871148d5": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_17_robbie-williams-defends-olivia-r_653a6eb840.md",
+    "source": "legal",
+    "title": "[techdirt] Robbie Williams Defends Olivia Rodrigo, Calls Song-Similarity Claims ‘Ambulance Chasing’",
+    "url": "https://www.techdirt.com/2026/11/17/robbie-williams-defends-olivia-rodrigo-calls-song-similarity-claims-ambulance-chasing/",
+    "keywords": [
+      "estates ), demanding money",
+      "stupid copyright lawsuits",
+      "[&# 8230 ;]",
+      "worst example",
+      "similarities —",
+      "new songs",
+      "melodic snippet",
+      "last decade",
+      "chord progression",
+      "calls song"
+    ],
+    "summary": "# [techdirt] Robbie Williams Defends Olivia Rodrigo, Calls Song-Similarity Claims ‘Ambulance Chasing’ Robbie Williams Defends Olivia Rodrigo, Calls Song-Similarity Claims ‘Ambulance Chasing’ Over the last decade and a half we&#8217;ve seen a flood of very stupid copyright lawsuits, often from old, washed-up artists (or worse, their estates), demanding money from younger artists because new songs have some similarities — a feel, a melodic snippet, the same chord progression, whatever."
+  },
+  "248541f2f1b26903": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_11_paramount-warner-brothers-deal_9c1b3501a9.md",
+    "source": "legal",
+    "title": "[eff] The Paramount-Warner Brothers Deal Could Usher in Another Age of Lost Media",
+    "url": "https://www.eff.org/deeplinks/2026/11/paramount-warner-brothers-deal-could-usher-another-age-lost-media",
+    "keywords": [
+      "raise huge red flags",
+      "internet never forgets .\"",
+      "locked behind subscription services",
+      "last time warner brothers",
+      "owner skydance interfering",
+      "mainstream streaming services",
+      "late night comedy",
+      "already awful state",
+      "either new content",
+      "two major problems"
+    ],
+    "summary": "# [eff] The Paramount-Warner Brothers Deal Could Usher in Another Age of Lost Media In short, by increasing the amount of legacy content under their control, major studios don't have to invest in either new content or well-engineered services to get users. We saw this    the    last    time    Warner Brothers was taken over, with projects being ended in order to take advantage of a specific kind"
+  },
+  "fe69559fa38f4d3d": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_trump-was-in-bed-with-je_04b0c59a76.md",
+    "source": "legal",
+    "title": "[ars-policy] “Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+    "keywords": [
+      "jensen ”: critics balk",
+      "jensen ”: critics balk",
+      "jensen ”: critics balk",
+      "17z “ trump",
+      "“ trump",
+      "“ trump",
+      "huang ’",
+      "huang ’",
+      "huang ’",
+      "nvidia “"
+    ],
+    "summary": "# [ars-policy] “Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia “Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia “I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes."
+  },
+  "50fe0dd8a8ff5a6d": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_17_vice-president-grassley-and-the-_08c062e0b6.md",
+    "source": "legal",
+    "title": "[techdirt] Vice-President Grassley And The Bipartisan Politics Of An Imminent Trump Impeachment",
+    "url": "https://www.techdirt.com/2026/11/17/vice-president-grassley-and-the-bipartisan-politics-of-an-imminent-trump-impeachment/",
+    "keywords": [
+      "never [&# 8230 ;]",
+      "political musical chairs",
+      "impeachment would involve",
+      "imminent trump impeachment",
+      "imminent trump impeachment",
+      "imminent trump impeachment",
+      "everyone &# 8217",
+      "democrat leadership ever",
+      "president grassley",
+      "president grassley"
+    ],
+    "summary": "# [techdirt] Vice-President Grassley And The Bipartisan Politics Of An Imminent Trump Impeachment Vice-President Grassley And The Bipartisan Politics Of An Imminent Trump Impeachment But now, after the last election, it is even easier to play the political musical chairs that impeachment would involve, and to everyone&#8217;s satisfaction."
+  },
+  "769df8824e81f4d7": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_11_justice-department-wants-give-_b6442224f5.md",
+    "source": "legal",
+    "title": "[eff] The Justice Department Wants To Give Patent Trolls More Power",
+    "url": "https://www.eff.org/deeplinks/2026/11/justice-department-wants-give-patent-trolls-more-power",
+    "keywords": [
+      "“ public interest .”",
+      "radian memory systems v",
+      "pressure blackberry manufacturer research",
+      "two recent patent cases",
+      "patent cases must meet",
+      "simply pay monetary damages",
+      "patent owners must satisfy",
+      "supreme court rejected",
+      "ntp inc .,",
+      "high court held"
+    ],
+    "summary": "They’re filed by patent trolls, companies that acquire patents to extract payments through litigation and legal threats. These are judicial orders that can force companies to stop selling products or remove features from them, rather than simply pay monetary damages. In 2006, NTP Inc., a    patent holding company    with no products of its own, was able to pressure BlackBerry manufacturer Research in Motion Ltd. to pay a $612 million settlement when it was on the verge of an injunction."
+  },
+  "91d81c3269496370": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_17_daily-deal-toybox-alpha-four-3d-_79d95aab41.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: Toybox Alpha Four 3D Printer Starter Bundle",
+    "url": "https://www.techdirt.com/2026/11/17/daily-deal-toybox-alpha-four-3d-printer-starter-bundle/",
+    "keywords": [
+      "mean [&# 8230 ;]",
+      "coconut printer food spool",
+      "start making toys",
+      "typical print speeds",
+      "17z daily deal",
+      "daily deal",
+      "daily deal",
+      "print bed",
+      "one bundle",
+      "300 mm"
+    ],
+    "summary": "# [techdirt] Daily Deal: Toybox Alpha Four 3D Printer Starter Bundle Daily Deal: Toybox Alpha Four 3D Printer Starter Bundle Get the Toybox Alpha Four compact 3D printer and a coconut Printer Food spool in one bundle for $299.99, so you have the printer and filament to start making toys at home."
+  },
+  "c127b4b98bc0cde2": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_california-sues-openai-t_22ef49cb99.md",
+    "source": "legal",
+    "title": "[ars-policy] OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+    "keywords": [
+      "17z openai sued",
+      "control incidents ag",
+      "openai sued",
+      "openai sued",
+      "control incidents",
+      "control incidents",
+      "misled public",
+      "80 loss",
+      "80 loss",
+      "80 loss"
+    ],
+    "summary": "# [ars-policy] OpenAI sued by California after admitting to 80 loss-of-control incidents OpenAI sued by California after admitting to 80 loss-of-control incidents AG: OpenAI tested dangerous AI without proper oversight and misled public about it."
+  },
+  "8a8e41991bd97f51": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_san-diego-dumps-both-flo_0f5ca25987.md",
+    "source": "legal",
+    "title": "[ars-policy] San Diego dumps both Flock cameras and smart streetlights",
+    "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+    "keywords": [
+      "17z san diego dumps",
+      "san diego dumps",
+      "san diego dumps",
+      "mayor urged approval",
+      "smart streetlights 500",
+      "smart streetlights",
+      "smart streetlights",
+      "go dark",
+      "3 years",
+      "flock cameras"
+    ],
+    "summary": "# [ars-policy] San Diego dumps both Flock cameras and smart streetlights San Diego dumps both Flock cameras and smart streetlights 500+ cameras will go dark just 3 years after mayor urged approval."
+  },
+  "f391b7df476a9282": {
+    "file": "corpus/ai-research/openai_com_index_introducing-gpt-6-2-astra-sol_8f6af8c44a.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "keywords": [
+      "better professional outputs",
+      "17z introducing gpt",
+      "introducing gpt",
+      "introducing gpt",
+      "computer use",
+      "2 astra",
+      "2 astra",
+      "2 astra",
+      "2 astra",
+      "source"
+    ],
+    "summary": "# [openai-blog] Introducing GPT-6.2 Astra and Sol Introducing GPT-6.2 Astra and Sol Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+  },
+  "4703691be52abb5b": {
+    "file": "corpus/ai-research/openai_com_index_astra-law-6-2_b43ef08ac3.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "keywords": [
+      "every chatgpt enterprise customer",
+      "law ranked first",
+      "legal intelligence astra",
+      "legal intelligence",
+      "legal intelligence",
+      "request access",
+      "law leads",
+      "law leads",
+      "law leads",
+      "17z astra"
+    ],
+    "summary": "# [openai-blog] Astra for Law leads in legal intelligence Astra for Law leads in legal intelligence Every ChatGPT Enterprise customer can now request access."
+  },
+  "a5c9d7a9876b1686": {
+    "file": "corpus/ai-research/openai_com_index_introducing-chatgpt-for-sales_3047d76577.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "keywords": [
+      "move deals forward",
+      "expanded partner plugins",
+      "17z introducing chatgpt",
+      "new sales plugin",
+      "introducing chatgpt",
+      "introducing chatgpt",
+      "prepare pitches",
+      "sales explore",
+      "research prospects",
+      "new"
+    ],
+    "summary": "# [openai-blog] Introducing ChatGPT for Sales Introducing ChatGPT for Sales Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+  },
+  "86a485d06b723c27": {
+    "file": "corpus/finance/techcrunch_com_2026_11_17_stripe-backer-atomico-calls-for-eu_284390abf0.md",
+    "source": "finance",
+    "title": "[tc-venture] Stripe backer Atomico calls for Europe to own its success stories",
+    "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+    "keywords": [
+      "stripe backer atomico calls",
+      "stripe backer atomico calls",
+      "latest annual state",
+      "fastest growing companies",
+      "european tech report",
+      "success stories europe",
+      "success stories",
+      "success stories",
+      "europe",
+      "europe"
+    ],
+    "summary": "# [tc-venture] Stripe backer Atomico calls for Europe to own its success stories Stripe backer Atomico calls for Europe to own its success stories Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report."
   }
 }
