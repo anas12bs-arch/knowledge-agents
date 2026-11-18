@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers"
+url: "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-18T23:00:53Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
+
+> Source: security | Category: security | 2026-11-18T23:00:53Z
+
+10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
+
+A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.
+
+The decade-old flaw, CVE-2026-123007, dubbed "nginx2root," has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.
+
+F5, the company behind NGINX, says attackers can run code where

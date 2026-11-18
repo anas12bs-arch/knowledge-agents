@@ -895192,5 +895192,1964 @@
       "recent days"
     ],
     "summary": "# [finextra] US bank outages caused by software bug at JPMorgan Chase US bank outages caused by software bug at JPMorgan Chase Meanwhile, experts have claimed that the rash of such outages in recent days - including at Microsoft - may have been caused by firms rushing to patch issues identified by AI."
+  },
+  "4d35e377ceb29ddc": {
+    "file": "corpus/security/thehackernews_com_2026_11_f5-warns-6-critical-big-ip-flaws-c_4ab4f5e036.md",
+    "source": "security",
+    "title": "[hacker-news-sec] F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+    "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+    "keywords": [
+      "includes two particular kinds",
+      "may allow rce",
+      "may allow rce",
+      "traffic management microkernel",
+      "particular command",
+      "ip allow",
+      "disrupting traffic",
+      "without logging",
+      "virtual server",
+      "specific setups"
+    ],
+    "summary": "# [hacker-news-sec] F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts."
+  },
+  "bc6a7d361001ef6e": {
+    "file": "corpus/security/thehackernews_com_2026_11_critical-apache-roller-rce-flaw-un_6ec0dce548.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+    "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+    "keywords": [
+      "remote code execution",
+      "based blogging platform",
+      "apache software foundation",
+      "critical security flaw",
+      "apache roller",
+      "rpc endpoint",
+      "cvss score",
+      "could lead",
+      "authentication required",
+      "authentication required"
+    ],
+    "summary": "# [hacker-news-sec] Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)"
+  },
+  "b5259c3fedce1d94": {
+    "file": "corpus/security/www_darkreading_com_threat-intelligence_attackiq-research-re_598072de30.md",
+    "source": "security",
+    "title": "[dark-reading] AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+    "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+    "keywords": [
+      "sponsored threat groups details",
+      "iranian cyber groups hand",
+      "iranian cyber groups hand",
+      "iranian cyber groups hand",
+      "54z attackiq research reveals",
+      "enable destructive attacks analysis",
+      "enable destructive attacks",
+      "enable destructive attacks",
+      "attackiq research reveals",
+      "attackiq research reveals"
+    ],
+    "summary": "# [dark-reading] AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns."
+  },
+  "19d8af14c3d27e74": {
+    "file": "corpus/security/www_darkreading_com_vulnerabilities-threats_java4shell-flaw-_b614b46469.md",
+    "source": "security",
+    "title": "[dark-reading] Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+    "keywords": [
+      "memory corruption vulnerability affects",
+      "could allow unauthenticated attackers",
+      "java application ecosystem",
+      "java application ecosystem",
+      "openjdk runtime",
+      "take",
+      "systems",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [dark-reading] Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems."
+  },
+  "5b8923417752604f": {
+    "file": "corpus/security/thehackernews_com_2026_11_10-year-old-nginx-http2-flaw-lets__04e49dcbdb.md",
+    "source": "security",
+    "title": "[hacker-news-sec] 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+    "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "keywords": [
+      "company behind nginx",
+      "fixed versions 1",
+      "old nginx http",
+      "old nginx http",
+      "old nginx http",
+      "old flaw",
+      "without needing",
+      "september 22",
+      "says attackers",
+      "run code"
+    ],
+    "summary": "# [hacker-news-sec] 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. F5, the company behind NGINX, says attackers can run code where"
+  },
+  "1be98e429877201f": {
+    "file": "corpus/security/www_darkreading_com_cyberattacks-data-breaches_cold-relic-tu_597438bcf5.md",
+    "source": "security",
+    "title": "[dark-reading] Cold Relic Turns One Cloud Breach Into Another",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+    "keywords": [
+      "using data stolen",
+      "social engineering attacks",
+      "linked threat group",
+      "one victim",
+      "source",
+      "security",
+      "security",
+      "russia",
+      "reading",
+      "reading"
+    ],
+    "summary": "# [dark-reading] Cold Relic Turns One Cloud Breach Into Another Cold Relic Turns One Cloud Breach Into Another The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks."
+  },
+  "3bcc146ec282b18d": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_coinbase-blocks-47-mi_3208f46dd1.md",
+    "source": "security",
+    "title": "[bleeping-comp] Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+    "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+    "keywords": [
+      "elon musk deepfake scam",
+      "elon musk deepfake scam",
+      "fake giveaway using",
+      "54z coinbase blocks",
+      "elon musk",
+      "generated deepfake",
+      "coinbase blocks",
+      "coinbase blocks",
+      "tesla livestream",
+      "scammers promoting"
+    ],
+    "summary": "# [bleeping-comp] Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers."
+  },
+  "363cc2ed163c7cfc": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_microsofts-agent-fram_97ef079b76.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+    "keywords": [
+      "steal cloud credentials",
+      "54z microsoft ’",
+      "steal credentials",
+      "steal credentials",
+      "microsoft ’",
+      "microsoft ’",
+      "sensitive information",
+      "systems",
+      "source",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] Microsoft’s Agent Framework PyPI package compromised to steal credentials Microsoft’s Agent Framework PyPI package compromised to steal credentials Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems."
+  },
+  "e5a4202cb05f5838": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_data-breach-impacts-4_c3f1d9d987.md",
+    "source": "security",
+    "title": "[bleeping-comp] Data breach impacts 40 Irish credit unions in reported IT provider hack",
+    "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+    "keywords": [
+      "exposed sensitive information belonging",
+      "50 credit unions",
+      "provider hack",
+      "provider hack",
+      "provider hack",
+      "reported cyberattack",
+      "reported",
+      "reported",
+      "reported",
+      "wellington"
+    ],
+    "summary": "# [bleeping-comp] Data breach impacts 40 Irish credit unions in reported IT provider hack Data breach impacts 40 Irish credit unions in reported IT provider hack A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland."
+  },
+  "b5610f29a93e5594": {
+    "file": "corpus/security/www_darkreading_com_cyber-risk_strike-graph-launches-integra_2a612a9704.md",
+    "source": "security",
+    "title": "[dark-reading] Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+    "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+    "keywords": [
+      "collect compliance evidence",
+      "existing tool",
+      "existing tool",
+      "duplicate work",
+      "30 frameworks",
+      "systems",
+      "source",
+      "security",
+      "security",
+      "reading"
+    ],
+    "summary": "# [dark-reading] Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work."
+  },
+  "a310ad5486b604fc": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_parallel-web-search-is-free-on-ai-gatew_bdfe24b61e.md",
+    "source": "vercel-blog",
+    "title": "Parallel web search is free on AI Gateway and eve through January 31",
+    "url": "https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31",
+    "keywords": [
+      "06z parallel web search",
+      "parallel web search",
+      "parallel web search",
+      "january 31",
+      "january 31",
+      "january 31",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel"
+    ],
+    "summary": "# Parallel web search is free on AI Gateway and eve through January 31 > Source: vercel-blog | Category: news | 2026-11-18T23:01:06Z Parallel web search is free on AI Gateway and eve through January 31"
+  },
+  "33fa202182f1231b": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_single-second-static-deployments-now-su_00f4e0e7ff.md",
+    "source": "vercel-blog",
+    "title": "Single-second static deployments now support more assets",
+    "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+    "keywords": [
+      "second static deployments",
+      "second static deployments",
+      "second static deployments",
+      "06z single",
+      "single",
+      "single",
+      "vercel",
+      "support",
+      "support",
+      "support"
+    ],
+    "summary": "# Single-second static deployments now support more assets > Source: vercel-blog | Category: news | 2026-11-18T23:01:06Z Single-second static deployments now support more assets"
+  },
+  "ecafe5c23b73fb76": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_vercel-drives-now-reads-files-up-to-6x-_cd3496a68c.md",
+    "source": "vercel-blog",
+    "title": "Vercel Drives now reads files up to 6x faster",
+    "url": "https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster",
+    "keywords": [
+      "06z vercel drives",
+      "vercel drives",
+      "vercel drives",
+      "reads files",
+      "reads files",
+      "reads files",
+      "6x faster",
+      "6x faster",
+      "6x faster",
+      "vercel"
+    ],
+    "summary": "# Vercel Drives now reads files up to 6x faster > Source: vercel-blog | Category: news | 2026-11-18T23:01:06Z Vercel Drives now reads files up to 6x faster"
+  },
+  "d73b5b14b821f499": {
+    "file": "corpus/vercel-blog/vercel_com_blog_vercel-x_a6136b7092.md",
+    "source": "vercel-blog",
+    "title": "Introducing Vercel X",
+    "url": "https://vercel.com/blog/vercel-x",
+    "keywords": [
+      "06z introducing vercel x",
+      "introducing vercel x",
+      "introducing vercel x",
+      "vercel",
+      "source",
+      "news",
+      "category",
+      "blog",
+      "2026",
+      "18t23"
+    ],
+    "summary": "# Introducing Vercel X > Source: vercel-blog | Category: news | 2026-11-18T23:01:06Z Introducing Vercel X"
+  },
+  "cd71b602ad42c570": {
+    "file": "corpus/vercel-blog/vercel_com_changelog_gemini-4-neon-now-available-on-ai-gatew_150de34068.md",
+    "source": "vercel-blog",
+    "title": "Gemini 4 Neon now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway",
+    "keywords": [
+      "06z gemini 4 neon",
+      "gemini 4 neon",
+      "gemini 4 neon",
+      "ai gateway",
+      "ai gateway",
+      "ai gateway",
+      "vercel",
+      "source",
+      "news",
+      "category"
+    ],
+    "summary": "# Gemini 4 Neon now available on AI Gateway > Source: vercel-blog | Category: news | 2026-11-18T23:01:06Z Gemini 4 Neon now available on AI Gateway"
+  },
+  "3971378b5e2abbf5": {
+    "file": "corpus/podcast/changelog_com_podcast_691_3c3aa77cdd.md",
+    "source": "podcast",
+    "title": "[changelog] Orbin' with Amp (Interview)",
+    "url": "https://changelog.com/podcast/691",
+    "keywords": [
+      "model matters less",
+      "feature request live",
+      "quinn even built",
+      "open source commons",
+      "agents live",
+      "tailnet problem",
+      "quinn slack",
+      "next level",
+      "last forever",
+      "could lose"
+    ],
+    "summary": "Quinn Slack is back and we're talking about the next level for Amp. Amp is now its own company, and Quinn has a lot to say about orbs, threads that last forever, and why code review as we know it is fading. Quinn even built a feature request live on the show to solve my tailnet problem."
+  },
+  "25c89b8decff39a9": {
+    "file": "corpus/product/techcrunch_com_2026_11_18_spend-management-platform-payhawk-_438473f71f.md",
+    "source": "product",
+    "title": "[techcrunch-startups] Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "keywords": [
+      "procurement using ai agents",
+      "enterprise financial management platform",
+      "helps companies track",
+      "2b valuation founded",
+      "2b valuation",
+      "2b valuation",
+      "manage expenses",
+      "280m raise",
+      "280m raise",
+      "280m raise"
+    ],
+    "summary": "# [techcrunch-startups] Spend management platform Payhawk announces $280M raise, 2B valuation Spend management platform Payhawk announces $280M raise, 2B valuation Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
+  },
+  "82c0ae815e17c284": {
+    "file": "corpus/engineering/newsletter_pragmaticengineer_com_p_software-factories-and-co_8f48c3599f.md",
+    "source": "engineering",
+    "title": "[pragmatic-engineer] Software factories and code reviews with Harjot Gill",
+    "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+    "keywords": [
+      "believes human code review",
+      "000 pull requests",
+      "53z software factories",
+      "software factories",
+      "software factories",
+      "code reviews",
+      "code reviews",
+      "code reviews",
+      "harjot gill",
+      "harjot gill"
+    ],
+    "summary": "# [pragmatic-engineer] Software factories and code reviews with Harjot Gill Software factories and code reviews with Harjot Gill CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI."
+  },
+  "6fb5f7bd18a35b33": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_evals-for-ai-engineers_2ccad0c51d.md",
+    "source": "engineering",
+    "title": "[bytebytego] Evals for AI Engineers",
+    "url": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+    "keywords": [
+      "llm application development",
+      "today &# 8217",
+      "&# 8217",
+      "three gulfs",
+      "ai engineers",
+      "ai engineers",
+      "ai engineers",
+      "54z evals",
+      "evals",
+      "evals"
+    ],
+    "summary": "# [bytebytego] Evals for AI Engineers Evals for AI Engineers In today&#8217;s issue, we&#8217;re featuring an excerpt that introduces the Three Gulfs of LLM Application Development."
+  },
+  "b1b1729d2e6b1951": {
+    "file": "corpus/youtube/www_youtube_com_watch_v_9KvI-zg4mfo_0859218b40.md",
+    "source": "youtube",
+    "title": "[theo] Astra 6.2 Is Unusable",
+    "url": "https://www.youtube.com/watch?v=9KvI-zg4mfo",
+    "keywords": [
+      "https :// t3",
+      "https :// soydev",
+      "https :// soydev",
+      "honestly hate using",
+      "awesome edit 🙏",
+      "15z astra 6",
+      "unusable astra 6",
+      "astra 6",
+      "astra 6",
+      "simply underwhelming"
+    ],
+    "summary": "Astra 6.2 is simply underwhelming and I honestly hate using it. But lets break down why (spoiler: it's not because it's not capable). Check out my Twitch, Twitter, Discord more at https://t3.gg"
+  },
+  "8d37844026873494": {
+    "file": "corpus/hackernews/horizon-labs_ai_5e6040894c.md",
+    "source": "hackernews",
+    "title": "Horizon Labs Report",
+    "url": "https://horizon-labs.ai/",
+    "keywords": [
+      "horizon labs report",
+      "horizon labs report",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# Horizon Labs Report > Source: hackernews | Category: news | 2026-11-18T23:00:57Z Score: 14 | Comments: 3"
+  },
+  "ec60f6f311ffb1fd": {
+    "file": "corpus/hackernews/blog_google_innovation-and-ai_models-and-research_google-dee_52f6bc9a43.md",
+    "source": "hackernews",
+    "title": "Genie 4 is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "keywords": [
+      "genie 4",
+      "genie 4",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "available",
+      "available"
+    ],
+    "summary": "# Genie 4 is now available > Source: hackernews | Category: news | 2026-11-18T23:00:54Z Score: 160 | Comments: 134"
+  },
+  "384cf64ad658770d": {
+    "file": "corpus/hackernews/microsoft_ai_news_microsoft-ignite-2026_ab00b903e6.md",
+    "source": "hackernews",
+    "title": "Seven new models at scalable price-performance",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "keywords": [
+      "seven new models",
+      "seven new models",
+      "scalable price",
+      "scalable price",
+      "52z score",
+      "source",
+      "performance",
+      "performance",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Seven new models at scalable price-performance > Source: hackernews | Category: news | 2026-11-18T23:00:52Z Score: 385 | Comments: 264"
+  },
+  "e6c92af4e39a9aba": {
+    "file": "corpus/hackernews/taskandpurpose_com_news_c-130-damage-ireland-daithi-ocorrain_ade32687bf.md",
+    "source": "hackernews",
+    "title": "US charges Irishman with destroying a $60M Air Force C-130",
+    "url": "https://taskandpurpose.com/news/c-130-damage-ireland-daithi-ocorrain/",
+    "keywords": [
+      "60m air force c",
+      "60m air force c",
+      "us charges irishman",
+      "us charges irishman",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "destroying",
+      "destroying"
+    ],
+    "summary": "# US charges Irishman with destroying a $60M Air Force C-130 > Source: hackernews | Category: news | 2026-11-18T23:00:57Z Score: 14 | Comments: 5"
+  },
+  "c07d0742e9d9d6dd": {
+    "file": "corpus/hackernews/www_radixark_com_blog_daisyrose-27b_f8fba39849.md",
+    "source": "hackernews",
+    "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "keywords": [
+      "task rl took qwen3",
+      "task rl took qwen3",
+      "bench 4",
+      "bench 4",
+      "53z score",
+      "terminal",
+      "terminal",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1 > Source: hackernews | Category: news | 2026-11-18T23:00:53Z Score: 95 | Comments: 23"
+  },
+  "8d590542886dc21f": {
+    "file": "corpus/hackernews/crosspointreader_com_ab61987008.md",
+    "source": "hackernews",
+    "title": "CrossPoint Reader",
+    "url": "https://crosspointreader.com",
+    "keywords": [
+      "crosspoint reader",
+      "crosspoint reader",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# CrossPoint Reader > Source: hackernews | Category: news | 2026-11-18T23:00:54Z Score: 81 | Comments: 46"
+  },
+  "a5d502106d48a063": {
+    "file": "corpus/hackernews/lisper_cc_ideas_entangle_html_f887c27fb7.md",
+    "source": "hackernews",
+    "title": "Sexp Matrix",
+    "url": "https://lisper.cc/ideas/entangle.html",
+    "keywords": [
+      "sexp matrix",
+      "sexp matrix",
+      "56z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Sexp Matrix > Source: hackernews | Category: news | 2026-11-18T23:00:56Z Score: 24 | Comments: 5"
+  },
+  "5305777f6ce6c187": {
+    "file": "corpus/hackernews/underwood_network_http_scots_html_61f9f7ad7d.md",
+    "source": "hackernews",
+    "title": "Scottish HTTP Codes",
+    "url": "https://underwood.network/http/scots.html",
+    "keywords": [
+      "scottish http codes",
+      "scottish http codes",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "222"
+    ],
+    "summary": "# Scottish HTTP Codes > Source: hackernews | Category: news | 2026-11-18T23:00:59Z Score: 222 | Comments: 51"
+  },
+  "24cacc3b94ab5fd9": {
+    "file": "corpus/hackernews/engineering_fb_com_2026_11_13_android_cuttlefish-on-mac_9a1e0d7729.md",
+    "source": "hackernews",
+    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+    "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "keywords": [
+      "virtual device framework",
+      "virtual device framework",
+      "apple silicon",
+      "apple silicon",
+      "53z score",
+      "source",
+      "news",
+      "mac",
+      "mac",
+      "hackernews"
+    ],
+    "summary": "# Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon > Source: hackernews | Category: news | 2026-11-18T23:00:53Z Score: 19 | Comments: 3"
+  },
+  "21f2761b050a6f3e": {
+    "file": "corpus/hackernews/www_lkuffo_com_superemeans_a9981c27a6.md",
+    "source": "hackernews",
+    "title": "SuperEMeans: Making e-means 3× faster",
+    "url": "https://www.lkuffo.com/superemeans/",
+    "keywords": [
+      "means 3 × faster",
+      "means 3 × faster",
+      "making e",
+      "making e",
+      "58z score",
+      "superemeans",
+      "superemeans",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# SuperEMeans: Making e-means 3× faster > Source: hackernews | Category: news | 2026-11-18T23:00:58Z Score: 47 | Comments: 0"
+  },
+  "cdccf26e5a1e8c59": {
+    "file": "corpus/hackernews/github_com_Ymsniper_vault-share_b31cd291f7.md",
+    "source": "hackernews",
+    "title": "A live service duress prototype",
+    "url": "https://github.com/Ymsniper/vault-share",
+    "keywords": [
+      "live service duress prototype",
+      "live service duress prototype",
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "18t23"
+    ],
+    "summary": "# A live service duress prototype > Source: hackernews | Category: news | 2026-11-18T23:00:57Z Score: 12 | Comments: 1"
+  },
+  "fbb59b23e7aee919": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50549188_9bcf073a13.md",
+    "source": "hackernews",
+    "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+    "url": "https://news.ycombinator.com/item?id=50549188",
+    "keywords": [
+      "sandboxes solve maybe 10",
+      "deploying updates across thousands",
+      "custom operating system images",
+      "low margins .< p",
+      "cost optimization .< p",
+      "buy hetzner &# x2f",
+      "small sandbox management tasks",
+      "build differently ?< p",
+      "custom environments .< p",
+      "agent environments via fuse"
+    ],
+    "summary": "Agent lifecycle management.<p>There’s a lot that you have to build in order to properly give your agents VMs: things like sleep&#x2F;wake, persistent storage, triggers, scheduling, per-user routing and spend caps, health monitoring, failure recovery, and deploying updates across thousands of VMs without downtime. Others need Android, browsers with persistent sessions, custom operating system images, preinstalled desktop software and applications, or specific dependencies. Cost optimization.<p>If"
+  },
+  "2ee09055c3d08b5d": {
+    "file": "corpus/hackernews/rshekhar_com_voyager_2004b0d4bb.md",
+    "source": "hackernews",
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "url": "https://rshekhar.com/voyager/",
+    "keywords": [
+      "golden record &# x27",
+      "take voyager 1 apart",
+      "take voyager 1 apart",
+      "earth today .< p",
+      ":< p >- see",
+      "p >- see",
+      "p >- see",
+      "com &# x2f",
+      "com &# x2f",
+      "p >- open"
+    ],
+    "summary": "# Show HN: Take Voyager 1 apart, down to a single memory chip > Source: hackernews | Category: news | 2026-11-18T23:00:54Z Voyager 1 reached one light-day from Earth today.<p>On the site you can:<p>- see where both Voyagers are right now<p>- open a nuclear battery to its 24 plutonium spheres<p>- go into the data computer, down to a single memory chip<p>- see how the Golden Record&#x27;s cover explains how to play it<p>- watch how Voyager 1 was fixed by radio<p>- see which dish on Earth is listen"
+  },
+  "1796a6b05d904124": {
+    "file": "corpus/hackernews/openai_com_index_advancing-chip-design-with-our-models_e88bc93721.md",
+    "source": "hackernews",
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "keywords": [
+      "advancing chip design",
+      "advancing chip design",
+      "openai models",
+      "openai models",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Advancing chip design with OpenAI models > Source: hackernews | Category: news | 2026-11-18T23:00:53Z Score: 133 | Comments: 74"
+  },
+  "d1cf37b3cd19bbdf": {
+    "file": "corpus/hackernews/www_onehouse_ai_blog_lakegres-vector-search-on-open-table-fo_7188a95acf.md",
+    "source": "hackernews",
+    "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+    "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+    "keywords": [
+      "vector search",
+      "vector search",
+      "iceberg tables",
+      "iceberg tables",
+      "existing open",
+      "existing open",
+      "58z score",
+      "source",
+      "news",
+      "lakegres"
+    ],
+    "summary": "# Lakegres: Vector search on existing Open/Hudi/Iceberg tables > Source: hackernews | Category: news | 2026-11-18T23:00:58Z Score: 37 | Comments: 7"
+  },
+  "94083c8ce1a93e5a": {
+    "file": "corpus/hackernews/searchbrowser_app_b750a2e15e.md",
+    "source": "hackernews",
+    "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+    "url": "https://searchbrowser.app/",
+    "keywords": [
+      "chrome extension support",
+      "chrome extension support",
+      "55z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Search Browser – Minimalist WebKit browser with Chrome extension support > Source: hackernews | Category: news | 2026-11-18T23:00:55Z Score: 42 | Comments: 27"
+  },
+  "5f0427f06b55e550": {
+    "file": "corpus/hackernews/github_com_Viktotovich_vb-harness-for-agentic-building_f76460e853.md",
+    "source": "hackernews",
+    "title": "VB Harness – Make local coding agents verify their own work",
+    "url": "https://github.com/Viktotovich/vb-harness-for-agentic-building",
+    "keywords": [
+      "58z score",
+      "work",
+      "work",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026"
+    ],
+    "summary": "# VB Harness – Make local coding agents verify their own work > Source: hackernews | Category: news | 2026-11-18T23:00:58Z Score: 7 | Comments: 0"
+  },
+  "beaacb9e80008945": {
+    "file": "corpus/hackernews/www_cve_org_CVERecord_id_CVE-2026-99312_d9e519af9d.md",
+    "source": "hackernews",
+    "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+    "keywords": [
+      "unconditionally reset mmu context",
+      "unconditionally reset mmu context",
+      "emulating init",
+      "emulating init",
+      "55z score",
+      "x86",
+      "x86",
+      "source",
+      "news",
+      "kvm"
+    ],
+    "summary": "# KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312) > Source: hackernews | Category: news | 2026-11-18T23:00:55Z Score: 163 | Comments: 113"
+  },
+  "5ebc6eb2c65dfdba": {
+    "file": "corpus/hackernews/science_nasa_gov_photojournal_a-collage-showing-49-drill-hol_530c470764.md",
+    "source": "hackernews",
+    "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "keywords": [
+      "curiosity mars rover",
+      "curiosity mars rover",
+      "55z score",
+      "source",
+      "news",
+      "nasa",
+      "nasa",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover > Source: hackernews | Category: news | 2026-11-18T23:00:55Z Score: 5 | Comments: 0"
+  },
+  "e061097d0f1d7993": {
+    "file": "corpus/hackernews/tin_computer_blog_fake-ai-crawler-secrets-scanners_d6278c4cc3.md",
+    "source": "hackernews",
+    "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+    "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+    "keywords": [
+      "3 scanners hunting",
+      "3 scanners hunting",
+      "ai keys",
+      "ai keys",
+      "57z score",
+      "tortoise",
+      "tortoise",
+      "source",
+      "octopus",
+      "octopus"
+    ],
+    "summary": "# Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys > Source: hackernews | Category: news | 2026-11-18T23:00:57Z Score: 21 | Comments: 4"
+  },
+  "8c8469827f34fefe": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50552918_8082ecc4b8.md",
+    "source": "hackernews",
+    "title": "Ask HN: Are we all tired of all these skybreaking CVEs/RCEs?",
+    "url": "https://news.ycombinator.com/item?id=50552918",
+    "keywords": [
+      "needing absurdly lab conditions",
+      "every little bug found",
+      "scary worldbreaking bugs",
+      "know aishill central",
+      "avg update rate",
+      "aaaand nothing happened",
+      "whole internet stack",
+      "skybreaking cves",
+      "skybreaking cves",
+      "poor place"
+    ],
+    "summary": "Like the whole internet stack had scary worldbreaking bugs: php, apache, nginx. Like literally 2&#x2F;3 of internet should be done by now, knowing the avg update rate. Every little bug found by AI and needing absurdly lab conditions is being shilled as next log4shell it seems."
+  },
+  "75ce8883169781bf": {
+    "file": "corpus/hackernews/americanhandgunner_com_handguns_revolvers_the-first-revolver_51e9692125.md",
+    "source": "hackernews",
+    "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
+    "url": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
+    "keywords": [
+      "first revolver",
+      "first revolver",
+      "55z score",
+      "six pistols",
+      "six pistols",
+      "six",
+      "six",
+      "source",
+      "shooter",
+      "shooter"
+    ],
+    "summary": "# The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter > Source: hackernews | Category: news | 2026-11-18T23:00:55Z Score: 47 | Comments: 28"
+  },
+  "c77d7780b6351d44": {
+    "file": "corpus/hackernews/github_com_avens19_pocketops_9819ef6946.md",
+    "source": "hackernews",
+    "title": "Show HN: PocketOps for SigNoz: The Open Source Datadog Alternative",
+    "url": "https://github.com/avens19/pocketops",
+    "keywords": [
+      "retain canadian data residency",
+      "open source datadog alternative",
+      "open source datadog alternative",
+      "incredible thus far",
+      "big cost savings",
+      "hosted signoz instance",
+      "datadog app",
+      "web ui",
+      "targeted ui",
+      "show hn"
+    ],
+    "summary": "It&#x27;s been incredible thus far, big cost savings and a more targeted UI. One downside was that the web UI for SigNoz isn&#x27;t responsive at all. I&#x27;m not affiliated with SigNoz in any way, but their platform deserves a ton of props"
+  },
+  "9ddf3f6aa095af23": {
+    "file": "corpus/hackernews/bytes_zone_posts_what-is-the-randomart-image-for_5542635446.md",
+    "source": "hackernews",
+    "title": "What is the randomart image for? (2023)",
+    "url": "https://bytes.zone/posts/what-is-the-randomart-image-for/",
+    "keywords": [
+      "randomart image",
+      "randomart image",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "2026",
+      "2023"
+    ],
+    "summary": "# What is the randomart image for? > Source: hackernews | Category: news | 2026-11-18T23:00:59Z Score: 18 | Comments: 2"
+  },
+  "b149b29f6f163fca": {
+    "file": "corpus/hackernews/jimmyhmiller_com_magic-of-partial-evaluation_8990b5a87e.md",
+    "source": "hackernews",
+    "title": "The Magic of Partial Evaluation",
+    "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+    "keywords": [
+      "partial evaluation",
+      "partial evaluation",
+      "54z score",
+      "source",
+      "news",
+      "magic",
+      "magic",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Magic of Partial Evaluation > Source: hackernews | Category: news | 2026-11-18T23:00:54Z Score: 82 | Comments: 17"
+  },
+  "e1e08c9adcf338de": {
+    "file": "corpus/hackernews/www_percona_com_blog_just-because-you-can-doesnt-mean-you-sh_59d3cfdf15.md",
+    "source": "hackernews",
+    "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
+    "url": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
+    "keywords": [
+      "evaluating galera node weights",
+      "evaluating galera node weights",
+      "58z score",
+      "source",
+      "news",
+      "mean",
+      "mean",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights > Source: hackernews | Category: news | 2026-11-18T23:00:58Z Score: 7 | Comments: 0"
+  },
+  "05934766218d508c": {
+    "file": "corpus/hackernews/edvong_com_bypass-orphan-rule_f8a7b3ce3a.md",
+    "source": "hackernews",
+    "title": "How to Bypass Rust's Orphan Rule",
+    "url": "https://edvong.com/bypass-orphan-rule/",
+    "keywords": [
+      "orphan rule",
+      "orphan rule",
+      "bypass rust",
+      "bypass rust",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# How to Bypass Rust's Orphan Rule > Source: hackernews | Category: news | 2026-11-18T23:00:59Z Score: 9 | Comments: 2"
+  },
+  "bcecea2e2bbb9c24": {
+    "file": "corpus/hackernews/exitpath-ruddy_vercel_app_c1172ed18a.md",
+    "source": "hackernews",
+    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+    "url": "https://exitpath-ruddy.vercel.app/",
+    "keywords": [
+      "exitpath – open",
+      "exitpath – open",
+      "show hn",
+      "show hn",
+      "microsoft 365",
+      "microsoft 365",
+      "54z score",
+      "source ways",
+      "source ways",
+      "source"
+    ],
+    "summary": "# Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365 > Source: hackernews | Category: news | 2026-11-18T23:00:54Z Score: 132 | Comments: 33"
+  },
+  "364a22f3a82fda36": {
+    "file": "corpus/hackernews/github_com_eklavya-raj_gta6-uefi_27a62a530c.md",
+    "source": "hackernews",
+    "title": "GTA6-like as a 942Kb UEFI bootable image",
+    "url": "https://github.com/eklavya-raj/gta6-uefi",
+    "keywords": [
+      "942kb uefi bootable image",
+      "942kb uefi bootable image",
+      "57z score",
+      "source",
+      "news",
+      "like",
+      "like",
+      "hackernews",
+      "gta6",
+      "gta6"
+    ],
+    "summary": "# GTA6-like as a 942Kb UEFI bootable image > Source: hackernews | Category: news | 2026-11-18T23:00:57Z Score: 4 | Comments: 0"
+  },
+  "6d26debc1e677520": {
+    "file": "corpus/hackernews/blog_google_innovation-and-ai_models-and-research_gemini-mod_f539fcdaf9.md",
+    "source": "hackernews",
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "keywords": [
+      "gemini 4 neon",
+      "gemini 4 neon",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "273",
+      "263"
+    ],
+    "summary": "# Gemini 4 Neon > Source: hackernews | Category: news | 2026-11-18T23:00:53Z Score: 273 | Comments: 263"
+  },
+  "c34fdaaae3b44206": {
+    "file": "corpus/hackernews/gobeat_ai_auth_login_b5a0847d6d.md",
+    "source": "hackernews",
+    "title": "Show HN: Beat – a to-do list that completes its own tasks",
+    "url": "https://gobeat.ai/auth/login",
+    "keywords": [
+      "show hn",
+      "show hn",
+      "beat –",
+      "beat –",
+      "59z score",
+      "tasks",
+      "tasks",
+      "source",
+      "news",
+      "list"
+    ],
+    "summary": "# Show HN: Beat – a to-do list that completes its own tasks > Source: hackernews | Category: news | 2026-11-18T23:00:59Z Score: 9 | Comments: 2"
+  },
+  "34fa30e1aed14399": {
+    "file": "corpus/hackernews/europeanbusinessmagazine_com_ai-agents-better-questions-kpmg_ee3431af9f.md",
+    "source": "hackernews",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "keywords": [
+      "kpmg accountants",
+      "kpmg accountants",
+      "audit trial",
+      "audit trial",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# AI agents ask better questions than KPMG accountants in audit trial > Source: hackernews | Category: news | 2026-11-18T23:00:53Z Score: 291 | Comments: 134"
+  },
+  "b2de3191d189d209": {
+    "file": "corpus/hackernews/news_ycombinator_com_item_id_50548660_3ce21c9c1e.md",
+    "source": "hackernews",
+    "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+    "url": "https://news.ycombinator.com/item?id=50548660",
+    "keywords": [
+      "configurable agentic kanban board",
+      "almost two years ago",
+      "codex etc ).< p",
+      "think !< p ><",
+      "source typescript agent framework",
+      "web ui .< p",
+      "alongside 630 merged prs",
+      ">< p ><",
+      "races .< p",
+      "humans .< p"
+    ],
+    "summary": "For us Factory is a configurable agentic kanban board that&#x27;s @-taggable in Slack.<p>Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).<p>When we started out, we modeled Factory around our exis"
+  },
+  "b0071d3d0f3ae022": {
+    "file": "corpus/hackernews/css-tricks_com_when-everything-has-changed_e05af335c6.md",
+    "source": "hackernews",
+    "title": "When Everything Has Changed, What Do We Do Next?",
+    "url": "https://css-tricks.com/when-everything-has-changed/",
+    "keywords": [
+      "59z score",
+      "source",
+      "next",
+      "next",
+      "news",
+      "hackernews",
+      "everything",
+      "everything",
+      "comments",
+      "changed"
+    ],
+    "summary": "# When Everything Has Changed, What Do We Do Next? > Source: hackernews | Category: news | 2026-11-18T23:00:59Z Score: 11 | Comments: 4"
+  },
+  "6ca38f7bf42d37a4": {
+    "file": "corpus/hackernews/springcraft-ai_github_io_springrep_b47f360a69.md",
+    "source": "hackernews",
+    "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+    "url": "https://springcraft-ai.github.io/springrep/",
+    "keywords": [
+      "robotics needs better cad",
+      "robotics needs better cad",
+      "mit licenses .< p",
+      "conformance &# x2f ;</",
+      "rep conformance test suite",
+      "mechanical cad needs",
+      "welcome .< p",
+      "right .< p",
+      "io &# x2f",
+      "io &# x2f"
+    ],
+    "summary": "# Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests Both are available today under MIT licenses.<p>The kernel, springrep, is written in safe Rust with no dependencies. Claude Code made it feasible to write this, but it took a lot of time and care to get it right.<p>The test suite, brep-conformance, has 3,487 cases covering the modeling operations common across kernels: booleans, fillets, chamfers, shells, offsets, sweeps, lofts, STEP, and queries with expected answers"
+  },
+  "6f17922ebafc7101": {
+    "file": "corpus/devto/dev_to_stinklewinks_juice-10-is-here-building-ui-without-fig_ef190b30db.md",
+    "source": "devto",
+    "title": "Juice 1.0 Is Here — Building UI Without Fighting Your Markup",
+    "url": "https://dev.to/stinklewinks/juice-10-is-here-building-ui-without-fighting-your-markup-4mak",
+    "keywords": [
+      "juice 1",
+      "juice 1",
+      "architectural decisions",
+      "years",
+      "source",
+      "reactions",
+      "news",
+      "markup",
+      "markup",
+      "experimentation"
+    ],
+    "summary": "# Juice 1.0 Is Here — Building UI Without Fighting Your Markup > Source: devto | Category: news | 2026-11-18T23:01:02Z After years of development, experimentation, architectural decisions, and more CSS than I care to..."
+  },
+  "952537fc4117ac38": {
+    "file": "corpus/devto/dev_to_ndcodes_day-86-a-per-host-variable-and-an-account-wid_f4001f7549.md",
+    "source": "devto",
+    "title": "Day 86: A Per-Host Variable and an Account-Wide Rule",
+    "url": "https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c",
+    "keywords": [
+      "setting whose scope",
+      "04z day 86",
+      "day 86",
+      "day 86",
+      "day 36",
+      "wide rule",
+      "wide rule",
+      "tasks today",
+      "host variable",
+      "host variable"
+    ],
+    "summary": "# Day 86: A Per-Host Variable and an Account-Wide Rule > Source: devto | Category: news | 2026-11-18T23:01:04Z Both tasks today were about a setting whose scope is not where you..."
+  },
+  "dd53de311d30960a": {
+    "file": "corpus/devto/dev_to_aws-builders_orchestrating-agents-your-agent-leaves-t_306cf05512.md",
+    "source": "devto",
+    "title": "Orchestrating Agents: Your Agent Leaves the Process",
+    "url": "https://dev.to/aws-builders/orchestrating-agents-your-agent-leaves-the-process-2l2d",
+    "keywords": [
+      "nine real runs show",
+      "caller reporting zero",
+      "remote agent spent",
+      "agent leaves",
+      "agent leaves",
+      "token ledger",
+      "strands a2a",
+      "reply times",
+      "receipt already",
+      "orchestrating agents"
+    ],
+    "summary": "# Orchestrating Agents: Your Agent Leaves the Process In Strands A2A, two processes share one port but no token ledger. Nine real runs show the caller reporting zero of the 2369 tokens the remote agent spent, a remote tool failure still marked completed, and a receipt already on disk when the reply times out."
+  },
+  "777257076c8290ed": {
+    "file": "corpus/devto/dev_to_alexmercedcoder_apache-data-lakehouse-weekly-november_b04dfe21a0.md",
+    "source": "devto",
+    "title": "Apache Data Lakehouse Weekly: November 11 to 18, 2026",
+    "url": "https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-november-11-to-18-2026-4ndd",
+    "keywords": [
+      "apache data lakehouse weekly",
+      "apache data lakehouse weekly",
+      "data lakehouse",
+      "shorter ...",
+      "condensed newsletter",
+      "06z new",
+      "november 11",
+      "november 11",
+      "week"
+    ],
+    "summary": "# Apache Data Lakehouse Weekly: November 11 to 18, 2026 New this week: a condensed newsletter for data lakehouse and AI. Starting now, there is a shorter..."
+  },
+  "bfeb4414b8f99a98": {
+    "file": "corpus/devto/dev_to_redomic_the-best-time-to-apply-for-jobs-from-300000-r_a546332f4d.md",
+    "source": "devto",
+    "title": "The best time to apply for jobs, from 300,000 real job postings",
+    "url": "https://dev.to/redomic/the-best-time-to-apply-for-jobs-from-300000-real-job-postings-ino",
+    "keywords": [
+      "numbers refresh every month",
+      "000 real job postings",
+      "000 real job postings",
+      "job market data",
+      "04z originally published",
+      "short answer",
+      "best time",
+      "best time",
+      "apply ...",
+      "apply"
+    ],
+    "summary": "# The best time to apply for jobs, from 300,000 real job postings > Source: devto | Category: news | 2026-11-18T23:01:04Z Originally published on Job Market Data, where the numbers refresh every month."
+  },
+  "1c274216796133ed": {
+    "file": "corpus/devto/dev_to_image19imagecode_i-built-a-study-planner-that-refuses_fd653b37d6.md",
+    "source": "devto",
+    "title": "I Built a Study Planner That Refuses to Lie to Students",
+    "url": "https://dev.to/image19imagecode/i-built-a-study-planner-that-refuses-to-lie-to-students-4j2b",
+    "keywords": [
+      "watched everything ...",
+      "perfect study schedule",
+      "study planner",
+      "study planner",
+      "two days",
+      "ever created",
+      "students",
+      "students",
+      "source",
+      "refuses"
+    ],
+    "summary": "# I Built a Study Planner That Refuses to Lie to Students > Source: devto | Category: news | 2026-11-18T23:01:03Z Have you ever created a perfect study schedule, followed it for two days, and then watched everything..."
+  },
+  "e34fbacb0815352f": {
+    "file": "corpus/devto/dev_to_sarah_m_stop-putting-your-military-rank-as-your-job-t_9aa526608e.md",
+    "source": "devto",
+    "title": "Stop putting your military rank as your job title",
+    "url": "https://dev.to/sarah_m/stop-putting-your-military-rank-as-your-job-title-1gin",
+    "keywords": [
+      "resume headline quietly kills",
+      "civilian tech applications",
+      "stop putting",
+      "stop putting",
+      "job title",
+      "job title",
+      "military rank",
+      "military rank",
+      "rank",
+      "source"
+    ],
+    "summary": "# Stop putting your military rank as your job title > Source: devto | Category: news | 2026-11-18T23:01:04Z Why keeping your rank in your resume headline quietly kills your civilian tech applications."
+  },
+  "5e9ef3f33619fee0": {
+    "file": "corpus/devto/dev_to_quantumtechcoder_show-dev-airstream-stream-gigabytes-_685befb236.md",
+    "source": "devto",
+    "title": "Show DEV: AirStream — Stream Gigabytes Browser-to-Browser with WebRTC (No Cloud, No Size Limits)",
+    "url": "https://dev.to/quantumtechcoder/show-dev-airstream-stream-gigabytes-browser-to-browser-with-webrtc-no-cloud-no-size-limits-3kbh",
+    "keywords": [
+      "browser p2p file streamer",
+      "8gb file",
+      "size limits",
+      "size limits",
+      "show dev",
+      "show dev",
+      "collaborative workspace",
+      "built airstream",
+      "cloud server",
+      "browser"
+    ],
+    "summary": "# Show DEV: AirStream — Stream Gigabytes Browser-to-Browser with WebRTC (No Cloud, No Size Limits) Why upload an 8GB file to a cloud server just to download it again? Here's how I built AirStream: a browser-to-browser P2P file streamer and collaborative workspace."
+  },
+  "bf845eb1b7651f4e": {
+    "file": "corpus/devto/dev_to_himanshu_748_a-job-retry-should-not-hide-the-next-job_f4b9c095d6.md",
+    "source": "devto",
+    "title": "A job retry should not hide the next job in GitLab CI",
+    "url": "https://dev.to/himanshu_748/a-job-retry-should-not-hide-the-next-job-in-gitlab-ci-3kfd",
+    "keywords": [
+      "still running",
+      "pipeline view",
+      "next job",
+      "next job",
+      "job retry",
+      "job retry",
+      "gitlab ci",
+      "gitlab ci",
+      "blocked ?...",
+      "waiting"
+    ],
+    "summary": "# A job retry should not hide the next job in GitLab CI > Source: devto | Category: news | 2026-11-18T23:01:04Z A pipeline view should help answer one question quickly: what is still running, waiting, or blocked?..."
+  },
+  "5334982e5c61154e": {
+    "file": "corpus/devto/dev_to_aws-builders_aws-devops-agent-dejar-que-una-ia-invest_e7093926c6.md",
+    "source": "devto",
+    "title": "AWS DevOps Agent: dejar que una IA investigue el incidente por ti",
+    "url": "https://dev.to/aws-builders/aws-devops-agent-dejar-que-una-ia-investigue-el-incidente-por-ti-46ep",
+    "keywords": [
+      "04z aws devops agent",
+      "aws devops agent",
+      "aws devops agent",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category",
+      "2026"
+    ],
+    "summary": "# AWS DevOps Agent: dejar que una IA investigue el incidente por ti > Source: devto | Category: news | 2026-11-18T23:01:04Z AWS DevOps Agent: dejar que una IA investigue el incidente por ti   Si alguna vez estuviste..."
+  },
+  "80cc38fbc3b26bb4": {
+    "file": "corpus/devto/dev_to_erikch_frontend-developers-are-going-to-be-fine-right_9e892970a1.md",
+    "source": "devto",
+    "title": "Frontend Developers Are Going to Be Fine... Right?",
+    "url": "https://dev.to/erikch/frontend-developers-are-going-to-be-fine-right-2m5p",
+    "keywords": [
+      "skills really matter today",
+      "stack software developer",
+      "frontend developers",
+      "frontend developers",
+      "fine ...",
+      "fine ...",
+      "frontend",
+      "...",
+      "source",
+      "right"
+    ],
+    "summary": "# Frontend Developers Are Going to Be Fine... As a frontend or full-stack software developer, what skills really matter today? We know that AI is..."
+  },
+  "21f92bd99fa6fb02": {
+    "file": "corpus/devto/dev_to_necoz_why-i-rewrote-type-tune-from-typescript-to-rust_b2d02ae637.md",
+    "source": "devto",
+    "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+    "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+    "keywords": [
+      "02z hoi hoi",
+      "rust 🦀",
+      "rust 🦀",
+      "rewrote type",
+      "rewrote type",
+      "frontend engineer",
+      "loves typescript",
+      "typescript",
+      "typescript"
+    ],
+    "summary": "# Why I Rewrote type-tune from TypeScript to Rust 🦀 > Source: devto | Category: news | 2026-11-18T23:01:02Z 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs!"
+  },
+  "cd488a8a3bd965c3": {
+    "file": "corpus/devto/dev_to_codenewbie_the-codenewbie-podcast-is-back-for-season-_4df9a97aee.md",
+    "source": "devto",
+    "title": "The CodeNewbie Podcast is Back for Season 28!",
+    "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
+    "keywords": [
+      "one hosting ...",
+      "02z hi friends",
+      "season 28",
+      "season 28",
+      "season 28",
+      "codenewbie podcast",
+      "codenewbie podcast",
+      "codenewbie podcast"
+    ],
+    "summary": "# The CodeNewbie Podcast is Back for Season 28! > Source: devto | Category: news | 2026-11-18T23:01:02Z 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting..."
+  },
+  "2b069a171707481c": {
+    "file": "corpus/devto/dev_to_sion_jang_b7e2e2c640671f5_your-coding-agents-tests-pa_08bd37f2cc.md",
+    "source": "devto",
+    "title": "Your coding agent's tests pass. It still edited files you never asked about.",
+    "url": "https://dev.to/sion_jang_b7e2e2c640671f5/your-coding-agents-tests-pass-it-still-edited-files-you-never-asked-about-2npm",
+    "keywords": [
+      "still edited files",
+      "still edited files",
+      "fix one function",
+      "config file ,...",
+      "tests pass",
+      "tests pass",
+      "never asked",
+      "never asked",
+      "coding agent",
+      "coding agent"
+    ],
+    "summary": "It still edited files you never asked about. You ask a coding agent to fix one function. On the way it also touches a config file,..."
+  },
+  "5508a7abfbdea54f": {
+    "file": "corpus/devto/dev_to_msertdev_your-claude-code-skills-are-going-blank-thre_c5ac1b957a.md",
+    "source": "devto",
+    "title": "Your Claude Code skills are going blank. Three settings that fix it.",
+    "url": "https://dev.to/msertdev/your-claude-code-skills-are-going-blank-three-settings-that-fix-it-3gla",
+    "keywords": [
+      "claude code setup costs",
+      "claude code skills",
+      "claude code skills",
+      "05z last week",
+      "three settings",
+      "three settings",
+      "short ...",
+      "going blank",
+      "going blank",
+      "every request"
+    ],
+    "summary": "# Your Claude Code skills are going blank. Three settings that fix it. Last week I wrote about measuring what my Claude Code setup costs on every request."
+  },
+  "42756de9d607b529": {
+    "file": "corpus/devto/dev_to_freshstore_how-i-run-a-16-year-old-saas-with-ai-agent_fc2b246bd8.md",
+    "source": "devto",
+    "title": "How I run a 16-year-old SaaS with AI agents",
+    "url": "https://dev.to/freshstore/how-i-run-a-16-year-old-saas-with-ai-agents-oli",
+    "keywords": [
+      "people think ai",
+      "ai agents",
+      "ai agents",
+      "saas means",
+      "pricing page",
+      "old saas",
+      "old saas",
+      "least ...",
+      "year",
+      "year"
+    ],
+    "summary": "# How I run a 16-year-old SaaS with AI agents > Source: devto | Category: news | 2026-11-18T23:01:05Z Most people think AI in a SaaS means a chatbot in the corner of the pricing page."
+  },
+  "ccab49101fa55afb": {
+    "file": "corpus/devto/dev_to_mikevu_parsing-money-the-way-vietnamese-people-type-i_9ac155059e.md",
+    "source": "devto",
+    "title": "Parsing money the way Vietnamese people type it: 2,5tr, 500k and 1tr+500k",
+    "url": "https://dev.to/mikevu/parsing-money-the-way-vietnamese-people-type-it-25tr-500k-and-1tr500k-1d46",
+    "keywords": [
+      "way vietnamese people type",
+      "way vietnamese people type",
+      "03z units like tr",
+      "means two things",
+      "sums typed",
+      "stays put",
+      "phone keypads",
+      "parsing money",
+      "parsing money"
+    ],
+    "summary": "# Parsing money the way Vietnamese people type it: 2,5tr, 500k and 1tr+500k > Source: devto | Category: news | 2026-11-18T23:01:03Z Units like tr and tỷ, a dot that means two things, sums typed as in Excel, a caret that stays put, and the missing + key on phone keypads."
+  },
+  "5a056db807d1d8c6": {
+    "file": "corpus/devto/dev_to_axrisi_java4shell-cve-2026-114938-is-your-java-server_1c10d2df7f.md",
+    "source": "devto",
+    "title": "Java4Shell (CVE-2026-114938): is your Java server affected?",
+    "url": "https://dev.to/axrisi/java4shell-cve-2026-114938-is-your-java-server-affected-1a4d",
+    "keywords": [
+      "java server affected",
+      "java server affected",
+      "flag mitigation",
+      "cpu flags",
+      "base64 decoder",
+      "114938 ):",
+      "114938 ):",
+      "04z java4shell",
+      "affected",
+      "114938"
+    ],
+    "summary": "# Java4Shell (CVE-2026-114938): is your Java server affected? > Source: devto | Category: news | 2026-11-18T23:01:04Z Java4Shell (CVE-2026-114938) in OpenJDK's Base64 decoder: who is affected, what is confirmed, how to check your CPU flags, and the one-flag mitigation."
+  },
+  "922ad5413238bf6f": {
+    "file": "corpus/devto/dev_to_senanurcetin_my-small-python-package-got-its-first-ou_9818c73a15.md",
+    "source": "devto",
+    "title": "My small Python package got its first outside contributions in one evening",
+    "url": "https://dev.to/senanurcetin/my-small-python-package-got-its-first-outside-contributions-in-one-evening-2fp7",
+    "keywords": [
+      "small python package got",
+      "small python package got",
+      "03z two weeks ago",
+      "first outside contributions",
+      "first outside contributions",
+      "8 jsonl files",
+      "published jsonl",
+      "one evening",
+      "one evening",
+      "free validator"
+    ],
+    "summary": "# My small Python package got its first outside contributions in one evening > Source: devto | Category: news | 2026-11-18T23:01:03Z Two weeks ago I published jsonl-utf8-guard, a dependency-free validator for UTF-8 JSONL files."
+  },
+  "74308f3f318f9889": {
+    "file": "corpus/devto/dev_to_hasnath_reema_e8e584b76d5_from-freelance-creative-wor_158ddb0a30.md",
+    "source": "devto",
+    "title": "From Freelance Creative Work to Building with Generative AI: My Journey as a Tech Student",
+    "url": "https://dev.to/hasnath_reema_e8e584b76d5/from-freelance-creative-work-to-building-with-generative-ai-my-journey-as-a-tech-student-2njh",
+    "keywords": [
+      "freelance digital media ...",
+      "freelance creative work",
+      "freelance creative work",
+      "year b",
+      "generative ai",
+      "generative ai",
+      "tech student",
+      "tech student",
+      "tech",
+      "source"
+    ],
+    "summary": "# From Freelance Creative Work to Building with Generative AI: My Journey as a Tech Student > Source: devto | Category: news | 2026-11-18T23:01:04Z As a first-year B.Tech in ICT student balancing university studies with freelance digital media..."
+  },
+  "db485a6505da14ff": {
+    "file": "corpus/devto/dev_to_worldeye_app_putting-74229-live-cameras-on-one-globe-_5276e0e3f3.md",
+    "source": "devto",
+    "title": "Putting 74,229 Live Cameras on One Globe Without Lying to the User",
+    "url": "https://dev.to/worldeye_app/putting-74229-live-cameras-on-one-globe-without-lying-to-the-user-3mah",
+    "keywords": [
+      "one globe without lying",
+      "one globe without lying",
+      "hundred webcam ...",
+      "229 live cameras",
+      "229 live cameras",
+      "live cameras",
+      "weekend project",
+      "site starts",
+      "putting 74",
+      "putting 74"
+    ],
+    "summary": "# Putting 74,229 Live Cameras on One Globe Without Lying to the User > Source: devto | Category: news | 2026-11-18T23:01:03Z Every \"live cameras of the world\" site starts the same way: a weekend project, a few hundred webcam..."
+  },
+  "e861a8ee1a54defc": {
+    "file": "corpus/devto/dev_to_roveena_dsouza_01df1f2a48_stop-endorsing-java-develop_5bffb7257c.md",
+    "source": "devto",
+    "title": "Stop Endorsing Java Developers. Start Publishing Their Failure Receipts.",
+    "url": "https://dev.to/roveena_dsouza_01df1f2a48/stop-endorsing-java-developers-start-publishing-their-failure-receipts-3fmf",
+    "keywords": [
+      "stop endorsing java developers",
+      "stop endorsing java developers",
+      "java developer",
+      "successfully ...",
+      "start publishing",
+      "start publishing",
+      "failure receipts",
+      "failure receipts",
+      "best endorsement",
+      "source"
+    ],
+    "summary": "# Stop Endorsing Java Developers. Start Publishing Their Failure Receipts. What if the best endorsement of a Java developer was not a compliment, but a bug they successfully..."
+  },
+  "7c7c221051f48aff": {
+    "file": "corpus/devto/dev_to_kenhyou_the-rules-i-never-break-1lnd_ab4e3d13f2.md",
+    "source": "devto",
+    "title": "The rules I never break",
+    "url": "https://dev.to/kenhyou/the-rules-i-never-break-1lnd",
+    "keywords": [
+      "02z six rules",
+      "real systems",
+      "real budget",
+      "part 3",
+      "never break",
+      "never break",
+      "incidents behind",
+      "field notes",
+      "ai agents",
+      "rules"
+    ],
+    "summary": "# The rules I never break Six rules I hold to when AI agents touch real data, real systems and a real budget, and the incidents behind each one. Part 3 of Working with AI agents: field notes."
+  },
+  "dddc5ebb04623440": {
+    "file": "corpus/devto/dev_to_umarwebdev_i-built-a-game-that-teaches-system-design-_4887078cca.md",
+    "source": "devto",
+    "title": "I built a game that teaches system design by breaking things",
+    "url": "https://dev.to/umarwebdev/i-built-a-game-that-teaches-system-design-by-breaking-things-518p",
+    "keywords": [
+      "teaches system design",
+      "teaches system design",
+      "week later",
+      "load balancers",
+      "kept reading",
+      "breaking things",
+      "breaking things",
+      "source",
+      "sharding",
+      "reactions"
+    ],
+    "summary": "# I built a game that teaches system design by breaking things > Source: devto | Category: news | 2026-11-18T23:01:04Z I kept reading about load balancers, caches and sharding, and a week later I'd forgotten all of..."
+  },
+  "349b086ec470e030": {
+    "file": "corpus/devto/dev_to_aws_how-to-pick-aws-storage-without-reading-every-doc_cc4c26ad49.md",
+    "source": "devto",
+    "title": "How to pick AWS storage (without reading every doc)",
+    "url": "https://dev.to/aws/how-to-pick-aws-storage-without-reading-every-doc-hfm",
+    "keywords": [
+      "without reading every doc",
+      "without reading every doc",
+      "pick aws storage",
+      "pick aws storage",
+      "save data",
+      "ever needed",
+      "storage",
+      "pick",
+      "aws",
+      "source"
+    ],
+    "summary": "# How to pick AWS storage (without reading every doc) > Source: devto | Category: news | 2026-11-18T23:01:02Z If you've ever needed to save data on AWS and had no idea which storage to pick, I feel you."
+  },
+  "a7dcf468dc25a448": {
+    "file": "corpus/devto/dev_to_ianwieds_dialogs-dont-need-javascript-anymore-tabs-st_db0e932ab2.md",
+    "source": "devto",
+    "title": "Dialogs don't need JavaScript anymore. Tabs still do.",
+    "url": "https://dev.to/ianwieds/dialogs-dont-need-javascript-anymore-tabs-still-do-1ip2",
+    "keywords": [
+      "one thing ...",
+      "need javascript anymore",
+      "need javascript anymore",
+      "turned javascript",
+      "work without",
+      "went looking",
+      "tabs still",
+      "tabs still",
+      "demo built",
+      "source"
+    ],
+    "summary": "# Dialogs don't need JavaScript anymore. > Source: devto | Category: news | 2026-11-18T23:01:02Z I turned JavaScript off, opened a demo built to work without it, and went looking for the one thing..."
+  },
+  "5356e27d52514c90": {
+    "file": "corpus/sales/www_saastr_com_22-reasons-to-sponsor-saastr-ai-2027-900-qual_9de3387bb4.md",
+    "source": "sales",
+    "title": "[saastr] 22 Reasons to Sponsor SaaStr AI 2027. 900+ Qualified Leads Is Just One of Them.",
+    "url": "https://www.saastr.com/22-reasons-to-sponsor-saastr-ai-2027-900-qualified-leads-is-just-one-of-them/",
+    "keywords": [
+      "run saastr ai annual",
+      "sponsor saastr ai 2027",
+      "sponsor saastr ai 2027",
+      "sponsor saastr ai 2027",
+      "2027 event budgets",
+      "... continue reading",
+      "organizer press releases",
+      "55z 22 reasons",
+      "ai companies",
+      "event organizer"
+    ],
+    "summary": "Most B2B + AI companies are locking their 2027 event budgets between now and January. Most will spread that budget across too many events, picked off lists built from organizer press releases. But we&#8217;re going to do what almost no event organizer does: show you...   Continue Reading"
+  },
+  "ed7be604a05b76af": {
+    "file": "corpus/github-releases/github_com_langchain-ai_langchain_releases_tag_langchain_3D__fe1beb7ae0.md",
+    "source": "github-releases",
+    "title": "langchain-ai/langchain langchain==1.5.2 released",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.2",
+    "keywords": [
+      "source metadata (# 41928",
+      "langchain langchain == 1",
+      "langchain langchain == 1",
+      "langchain ): 1",
+      "57z ## langchain",
+      "2 (# 41948",
+      "1 release",
+      "2 released",
+      "2 released",
+      "langchain"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T23:01:57Z Changes since langchain==1.5.1 release(langchain): 1.5.2 (#41948) feat(langchain): tag synthetic HITL tool messages with source metadata (#41928)"
+  },
+  "0f0b99aa82b2e667": {
+    "file": "corpus/github-releases/github_com_crewAIInc_crewAI_releases_tag_1_15_42_62d98f6299.md",
+    "source": "github-releases",
+    "title": "crewAIInc/crewAI 1.15.42 released",
+    "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.42",
+    "keywords": [
+      "preserve validated converter output",
+      "prefix sanitized tool names",
+      "chunk also carries usage",
+      "align crew endpoint path",
+      "later ### bug fixes",
+      "honor max_execution_time without waiting",
+      "amp headings ## contributors",
+      "changed ### features",
+      "126190 ### documentation",
+      "update faq links"
+    ],
+    "summary": "### Bug Fixes - Store output_json values as JSON to prevent date issues in .json and output_file - Give each Flow its own ID from an initial_state instance - Honor max_execution_time without waiting for the worker - Save task outputs that hold URLs and other Pydantic types - Read the experiment baseline as UTF-8 - Prefix sanitized tool names that start with a digit - Count scoped LanceDB records exactly above 50,000 rows - Report Serply's hybrid flag from its own field - Let TavilyResearchTool's"
+  },
+  "1d69c74c45fe8233": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_29_5_0bab84931b.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.29.5 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.29.5",
+    "keywords": [
+      "openapi ### fixes",
+      "4 ... v11",
+      "https :// github",
+      "00z ## trpc",
+      "trpc — v11",
+      "5 ##",
+      "5 released",
+      "5 released",
+      "trpc v11",
+      "trpc v11"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-18T23:02:00Z * fix(openapi): document template literal outputs as strings by @pengzh1 in https://github.com/trpc/trpc/pull/8128 **Full Changelog**: https://github.com/trpc/trpc/compare/v11.29.4...v11.29.5"
+  },
+  "1fb269e15cd291c6": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_18_our-dipshit-dhs-secretarys-outag_632007df9f.md",
+    "source": "legal",
+    "title": "[techdirt] Our Dipshit DHS Secretary’s Outage Expert: “One Guy That’s Very Smart With Tech”",
+    "url": "https://www.techdirt.com/2026/11/18/our-dipshit-dhs-secretarys-outage-expert-one-guy-thats-very-smart-with-tech/",
+    "keywords": [
+      "microsoft web services go",
+      "feels like another system",
+      "faa comms system collapse",
+      "), bank websites go",
+      "dipshit dhs secretary ’",
+      "dipshit dhs secretary ’",
+      "dipshit dhs secretary ’",
+      "“ one guy",
+      "“ one guy",
+      "“ one guy"
+    ],
+    "summary": "Yes, everything is stupid right now, including that every few hours it feels like another system has broken. In just the last week we&#8217;ve had Microsoft web services go down, the FAA comms system collapse (supposedly due to a contractor&#8217;s router flooding the network during a routine upgrade? ), bank websites go down, United Airlines systems [&#8230;]"
+  },
+  "9f7dd399643af279": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_trump-admin-orders-kalsh_e5783290f0.md",
+    "source": "legal",
+    "title": "[ars-policy] Trump admin orders Kalshi to halt wagers on what words Trump will say",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+    "keywords": [
+      "trump admin orders kalshi",
+      "trump admin orders kalshi",
+      "words trump",
+      "words trump",
+      "words trump",
+      "halt wagers",
+      "halt wagers",
+      "halt wagers",
+      "easily manipulated",
+      "say cftc"
+    ],
+    "summary": "# [ars-policy] Trump admin orders Kalshi to halt wagers on what words Trump will say Trump admin orders Kalshi to halt wagers on what words Trump will say CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated."
+  },
+  "7c6a8e47bd2396c4": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_18_daily-deal-microsoft-windows-11-_9c464b43f2.md",
+    "source": "legal",
+    "title": "[techdirt] Daily Deal: Microsoft Windows 11 Pro",
+    "url": "https://www.techdirt.com/2026/11/18/daily-deal-microsoft-windows-11-pro-7/",
+    "keywords": [
+      "microsoft windows 11 pro",
+      "microsoft windows 11 pro",
+      "full pro version",
+      "core windows experience",
+      "grade tools alongside",
+      "[&# 8230 ;]",
+      "53z daily deal",
+      "techdirt deals store",
+      "windows 11",
+      "daily deal"
+    ],
+    "summary": "# [techdirt] Daily Deal: Microsoft Windows 11 Pro Install it on your PC and you&#8217;re set with no recurring fees and no subscription. This is the full Pro version of Windows 11, built for professionals who need enterprise-grade tools alongside the core Windows experience."
+  },
+  "a43ad7befebe9d8d": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_18_nyc-mayor-mamdani-disbands-nypd-_f537b56388.md",
+    "source": "legal",
+    "title": "[techdirt] NYC Mayor Mamdani Disbands NYPD Unit That Treated Protesters Like Terrorists",
+    "url": "https://www.techdirt.com/2026/11/18/nyc-mayor-mamdani-disbands-nypd-unit-that-treated-protesters-like-terrorists/",
+    "keywords": [
+      "treated protesters like terrorists",
+      "treated protesters like terrorists",
+      "treated protesters like terrorists",
+      "taken pretty much forever",
+      "last [&# 8230 ;]",
+      "worst specialist units",
+      "cop shop happy",
+      "city &# 8217",
+      "nypd &# 8217",
+      "&# 8217"
+    ],
+    "summary": "# [techdirt] NYC Mayor Mamdani Disbands NYPD Unit That Treated Protesters Like Terrorists NYC Mayor Mamdani Disbands NYPD Unit That Treated Protesters Like Terrorists It&#8217;s taken pretty much forever, but finally one of the NYPD&#8217;s worst specialist units is being disbanded."
+  },
+  "c6c5bc27a83b628f": {
+    "file": "corpus/legal/arstechnica_com_tech-policy_2026_11_muse-privacy-invasions-a_77b8716598.md",
+    "source": "legal",
+    "title": "[ars-policy] Muse privacy invasions are freaking out Meta staffers, internal chats show",
+    "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+    "keywords": [
+      "53z muse privacy invasions",
+      "muse privacy invasions",
+      "muse privacy invasions",
+      "internal chats show",
+      "internal chats show",
+      "meta staffers",
+      "meta staffers",
+      "meta staffers",
+      "meta says",
+      "bitcoin balances"
+    ],
+    "summary": "# [ars-policy] Muse privacy invasions are freaking out Meta staffers, internal chats show Muse privacy invasions are freaking out Meta staffers, internal chats show Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says."
+  },
+  "e79786857d6cec2e": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_18_automakers-ramp-up-scare-mongeri_386fc59e60.md",
+    "source": "legal",
+    "title": "[techdirt] Automakers Ramp Up Scare-Mongering Push To Ban Chinese EVs. You Know, ‘For Privacy’",
+    "url": "https://www.techdirt.com/2026/11/18/automakers-ramp-up-scare-mongering-push-to-ban-chinese-evs-you-know-for-privacy/",
+    "keywords": [
+      "worst [&# 8230 ;]",
+      "often significantly cheaper products",
+      "ban chinese evs",
+      "ban chinese evs",
+      "ban chinese evs",
+      "53z automakers ramp",
+      "privacy ’ automakers",
+      "automakers ramp",
+      "automakers ramp",
+      "privacy ’"
+    ],
+    "summary": "# [techdirt] Automakers Ramp Up Scare-Mongering Push To Ban Chinese EVs. Automakers are aggressively ramping up their efforts to pass a new law outright banning Chinese EVs. Instead, we get a lot of bizarre pretense about how an industry with the worst [&#8230;]"
+  },
+  "fdeafaef07185362": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_11_outage-chaos-when-tech-too-big_fcfcc22721.md",
+    "source": "legal",
+    "title": "[eff] Outage Chaos: When Tech is too Big to Fail",
+    "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
+    "keywords": [
+      "often offer lower prices",
+      "even offer free services",
+      "flowing investment capital",
+      "effective antitrust laws",
+      "competitors using free",
+      "apple *, banks",
+      "key technical systems",
+      "digital infrastructure creates",
+      "vital service due",
+      "inevitable outages occur"
+    ],
+    "summary": "We can only get there by addressing an over-reliance on a few cloud monopolists through effective antitrust laws and interoperability requirements. Service outages, like we’ve seen recently at    Microsoft   ,    Apple   *,    banks   ,    courts   ,    airlines   , and elsewhere, can be more than an annoying hurdle. The problem is an over-reliance on any one company or system when these inevitable outages occur."
+  },
+  "99bf30a931d08f9b": {
+    "file": "corpus/ai-research/huggingface_co_blog_Dharma-AI_predicting-fine-tuning-time_e55c8f2df0.md",
+    "source": "ai-research",
+    "title": "[hf-blog] Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "keywords": [
+      "tuning job takes longer",
+      "tuning job takes longer",
+      "tuning job takes longer",
+      "flops say",
+      "flops say",
+      "flops say",
+      "source",
+      "research",
+      "research"
+    ],
+    "summary": "# [hf-blog] Why your fine-tuning job takes longer than the FLOPs say > Source: ai-research | Category: research | 2026-11-18T23:00:53Z Why your fine-tuning job takes longer than the FLOPs say"
+  },
+  "ba5eea056922664e": {
+    "file": "corpus/ai-research/openai_com_index_inside-the-codex-sandbox_67952d9a91.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Inside the Codex sandbox",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "keywords": [
+      "control across macos",
+      "codex runs commands",
+      "codex sandbox see",
+      "codex sandbox",
+      "codex sandbox",
+      "network limits",
+      "52z inside",
+      "inside",
+      "inside",
+      "windows"
+    ],
+    "summary": "# [openai-blog] Inside the Codex sandbox Inside the Codex sandbox See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+  },
+  "7bf8653eb73ca561": {
+    "file": "corpus/ai-research/openai_com_index_the-silent-consensus_184d931227.md",
+    "source": "ai-research",
+    "title": "[openai-blog] The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "keywords": [
+      "silent consensus dean ball",
+      "silent consensus",
+      "silent consensus",
+      "strategic futures",
+      "retain control",
+      "source",
+      "research",
+      "research",
+      "people",
+      "openai"
+    ],
+    "summary": "# [openai-blog] The Silent Consensus > Source: ai-research | Category: research | 2026-11-18T23:00:52Z Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+  },
+  "c9253ff484db55ca": {
+    "file": "corpus/ai-research/huggingface_co_blog_RadixArk_daisyrose-27b-pushing-the-front_f0b81ce3c1.md",
+    "source": "ai-research",
+    "title": "[hf-blog] DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "keywords": [
+      "training efficiency",
+      "training efficiency",
+      "training efficiency",
+      "53z daisyrose",
+      "daisyrose",
+      "daisyrose",
+      "source",
+      "research",
+      "research",
+      "pushing"
+    ],
+    "summary": "# [hf-blog] DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency > Source: ai-research | Category: research | 2026-11-18T23:00:53Z DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
+  },
+  "4742215fb3dbb84a": {
+    "file": "corpus/ai-research/openai_com_index_advancing-chip-design-with-our-models_68ddb817fe.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "keywords": [
+      "gpt ‑ 6 astra",
+      "52z advancing chip design",
+      "advancing chip design",
+      "advancing chip design",
+      "assisted chip design",
+      "showing progress",
+      "jalapeño silicon",
+      "openai models",
+      "openai models",
+      "openai"
+    ],
+    "summary": "# [openai-blog] Advancing chip design with OpenAI models Advancing chip design with OpenAI models OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+  },
+  "d148c2be745d155d": {
+    "file": "corpus/ai-research/openai_com_index_managing-frontier-ai-risk_99be0c0a7e.md",
+    "source": "ai-research",
+    "title": "[openai-blog] Managing frontier AI risk: From training to deployment",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "keywords": [
+      "managing frontier ai risk",
+      "managing frontier ai risk",
+      "manages frontier ai risk",
+      "deployment openai explains",
+      "model alignment",
+      "blocking safeguards",
+      "openai",
+      "openai",
+      "deployment"
+    ],
+    "summary": "# [openai-blog] Managing frontier AI risk: From training to deployment Managing frontier AI risk: From training to deployment OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+  },
+  "032931e2064443ca": {
+    "file": "corpus/ai-research/huggingface_co_blog_moe-expert-streaming_ec56b5eff9.md",
+    "source": "ai-research",
+    "title": "[hf-blog] 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "keywords": [
+      "pushing moe inference",
+      "pushing moe inference",
+      "pushing moe inference",
+      "53z 180b parameters",
+      "180b parameters",
+      "180b parameters",
+      "transformers",
+      "transformers",
+      "transformers",
+      "source"
+    ],
+    "summary": "# [hf-blog] 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers > Source: ai-research | Category: research | 2026-11-18T23:00:53Z 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
+  },
+  "6262c652ffd17575": {
+    "file": "corpus/finance/techcrunch_com_2026_11_18_spend-management-platform-payhawk-_438473f71f.md",
+    "source": "finance",
+    "title": "[tc-venture] Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "keywords": [
+      "procurement using ai agents",
+      "enterprise financial management platform",
+      "helps companies track",
+      "2b valuation founded",
+      "2b valuation",
+      "2b valuation",
+      "manage expenses",
+      "280m raise",
+      "280m raise",
+      "280m raise"
+    ],
+    "summary": "# [tc-venture] Spend management platform Payhawk announces $280M raise, 2B valuation Spend management platform Payhawk announces $280M raise, 2B valuation Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
+  },
+  "fccbc8ded6643cde": {
+    "file": "corpus/finance/news_crunchbase_com_public_ipo_anthropic-prices-ipo-ant-abov_95939a3793.md",
+    "source": "finance",
+    "title": "[crunchbase] Anthropic Prices IPO Shares At $83, Above Range",
+    "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
+    "keywords": [
+      "anthropic prices ipo shares",
+      "anthropic prices ipo shares",
+      "public market event",
+      "shares well",
+      "raising goals",
+      "offering promises",
+      "source",
+      "season",
+      "range",
+      "range"
+    ],
+    "summary": "# [crunchbase] Anthropic Prices IPO Shares At $83, Above Range Anthropic Prices IPO Shares At $83, Above Range The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals."
+  },
+  "c29bd854533d8bf7": {
+    "file": "corpus/finance/www_finextra_com_newsarticle_48780_world-bank-partners-citi-_89f30633a7.md",
+    "source": "finance",
+    "title": "[finextra] World Bank partners Citi and Circle to test stablecoins for development payments",
+    "url": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "keywords": [
+      "world bank partners citi",
+      "world bank partners citi",
+      "world bank group",
+      "usdc issuer circle",
+      "test stablecoins",
+      "test stablecoins",
+      "test stablecoins",
+      "development work",
+      "development payments",
+      "development payments"
+    ],
+    "summary": "# [finextra] World Bank partners Citi and Circle to test stablecoins for development payments World Bank partners Citi and Circle to test stablecoins for development payments The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work."
+  },
+  "a3d812ea68080725": {
+    "file": "corpus/finance/techcrunch_com_podcast_how-toyota-is-betting-on-a-future-bey_9c11d5eca0.md",
+    "source": "finance",
+    "title": "[tc-venture] How Toyota is betting on a future beyond cars",
+    "url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
+    "keywords": [
+      "promising [&# 8230 ;]",
+      "company looks like decades",
+      "future beyond cars toyota",
+      "future beyond cars",
+      "future beyond cars",
+      "startup valuations climb",
+      "places bigger bets",
+      "could help shape",
+      "looking beyond",
+      "woven capital"
+    ],
+    "summary": "# [tc-venture] How Toyota is betting on a future beyond cars Toyota is looking beyond the automotive industry as it places bigger bets on robotics, physical AI, energy, aerospace, and other emerging technologies. Through its venture arm, Woven Capital, the automaker is investing in startups that could help shape what the company looks like decades from now."
+  },
+  "6a422f795a701780": {
+    "file": "corpus/finance/news_crunchbase_com_ai_anthropic-ant-ipo-revenue-growth-risk_9ac6335bd6.md",
+    "source": "finance",
+    "title": "[crunchbase] The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+    "url": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+    "keywords": [
+      "zero revenue",
+      "three years",
+      "key numbers",
+      "key numbers",
+      "key numbers",
+      "ipo debut",
+      "ipo debut",
+      "ipo debut",
+      "big questions",
+      "balancing growth"
+    ],
+    "summary": "# [crunchbase] The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year. But its IPO filing also reveals enormous computing commitments and big questions about balancing growth with risks."
   }
 }
