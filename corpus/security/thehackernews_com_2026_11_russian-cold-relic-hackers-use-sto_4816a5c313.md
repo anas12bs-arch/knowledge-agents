@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization"
+url: "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-18T07:10:53Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
+
+> Source: security | Category: security | 2026-11-18T07:10:53Z
+
+Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
+
+The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.
+
+Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged
