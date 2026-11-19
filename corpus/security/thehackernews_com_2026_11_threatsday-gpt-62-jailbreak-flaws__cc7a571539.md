@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories"
+url: "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-19T20:54:55Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
+
+> Source: security | Category: security | 2026-11-19T20:54:55Z
+
+ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
+
+The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.
+
+There's another shift worth watching. AI is making some attacks easier
