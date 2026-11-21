@@ -910286,5 +910286,1417 @@
       "get better"
     ],
     "summary": "Dear SaaStr:  What Are Some Lies Founders Tell Themselves? Dear SaaStr: What Are Some Lies Founders Tell Themselves? You constantly learn, and in not that long of a time, become one of the experts in your space."
+  },
+  "bd83b6f9f1983ecf": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_grafana-13-3-shared-variables_utm_6e45bffadf.md",
+    "source": "engineering",
+    "title": "[infoq] Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
+    "url": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "require feature toggles",
+      "23z grafana 13",
+      "notebooks grafana 13",
+      "grafana 13",
+      "grafana 13",
+      "record investigations",
+      "public preview",
+      "mark silvester",
+      "managed installations",
+      "adds notebooks"
+    ],
+    "summary": "# [infoq] Grafana 13.3 Adds Shared Dashboard Variables and Notebooks Grafana 13.3 introduces shared variables across dashboards and adds Notebooks to record investigations. Both features are in public preview and require feature toggles for self-managed installations."
+  },
+  "cec38e8f82a8c502": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_scalling-tech-humans_utm_campaign_885aa6b001.md",
+    "source": "engineering",
+    "title": "[infoq] QCon San Francisco 2026: Scaling Tech by Aligning Humans",
+    "url": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "qcon san francisco 2026",
+      "qcon san francisco 2026",
+      "qcon san francisco 2026",
+      "wide technical strategy",
+      "principal security engineer",
+      "scott behrens",
+      "scaling tech",
+      "scaling tech",
+      "scaling tech",
+      "plus engineers"
+    ],
+    "summary": "# [infoq] QCon San Francisco 2026: Scaling Tech by Aligning Humans QCon San Francisco 2026: Scaling Tech by Aligning Humans At QCon San Francisco 2026, Scott Behrens, Principal Security Engineer at Netflix, presented how staff-plus engineers can define and align a company-wide technical strategy."
+  },
+  "e2001b38bc5ee6ea": {
+    "file": "corpus/engineering/blog_bytebytego_com_p_ep234-docker-vs-kubernetes_f53e5af9d4.md",
+    "source": "engineering",
+    "title": "[bytebytego] EP234: Docker vs Kubernetes",
+    "url": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+    "keywords": [
+      "docker vs kubernetes",
+      "docker vs kubernetes",
+      "docker vs kubernetes",
+      "23z ep234",
+      "ep234",
+      "ep234",
+      "use",
+      "source",
+      "one",
+      "engineering"
+    ],
+    "summary": "# [bytebytego] EP234: Docker vs Kubernetes EP234: Docker vs Kubernetes Which one should we use?"
+  },
+  "dd5bff211d6e38e2": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_29_6_d5dfe5b1a0.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.29.6 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.29.6",
+    "keywords": [
+      "8145 ## new contributors",
+      "query ): keep",
+      "query ### fixes",
+      "null subscription input",
+      "https :// github",
+      "https :// github",
+      "5 ... v11",
+      "11z ## trpc",
+      "trpc — v11",
+      "6 ##"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-21T19:42:11Z * fix(react-query): keep a null subscription input on the wire by @BlueX888 in https://github.com/trpc/trpc/pull/8145 * @BlueX888 made their first contribution in https://github.com/trpc/trpc/pull/8145"
+  },
+  "4abd92446719c679": {
+    "file": "corpus/github-releases/github_com_trpc_trpc_releases_tag_v11_29_7_d2810ca7b1.md",
+    "source": "github-releases",
+    "title": "trpc/trpc v11.29.7 released",
+    "url": "https://github.com/trpc/trpc/releases/tag/v11.29.7",
+    "keywords": [
+      "server ): treat",
+      "server ### fixes",
+      "openapi ### fixes",
+      "https :// github",
+      "https :// github",
+      "6 ... v11",
+      "11z ## trpc",
+      "trpc — v11",
+      "8139 ##",
+      "7 ##"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-21T19:42:11Z * fix(server): treat an empty pre-parsed body as no input in the node-http adapter by @dfedoryshchev in https://github.com/trpc/trpc/pull/8139 * fix(openapi): let optional tuple elements stay optional by @pengzh1 and @KATT in https://github.com/trpc/trpc/pull/8141"
+  },
+  "0605c6075306c109": {
+    "file": "corpus/devto/dev_to_sarvesh_3bcf0f427a27e1849_i-built-a-pause-button-that_4f18acd509.md",
+    "source": "devto",
+    "title": "I Built a Pause Button That Watches Me Talk",
+    "url": "https://dev.to/sarvesh_3bcf0f427a27e1849/i-built-a-pause-button-that-watches-me-talk-2206",
+    "keywords": [
+      "presage smartspectra sdk challenge",
+      "pause button",
+      "pause button",
+      "watches",
+      "watches",
+      "talk",
+      "talk",
+      "submission",
+      "source"
+    ],
+    "summary": "# I Built a Pause Button That Watches Me Talk This is a submission for the Presage SmartSpectra SDK Challenge. What I Built   You’re..."
+  },
+  "aa02cd7db03e3bb2": {
+    "file": "corpus/devto/dev_to_refactorly_typescript-7-is-10x-faster-i-measured-it-o_0b4ef2ebe6.md",
+    "source": "devto",
+    "title": "TypeScript 7 Is \\'10x Faster\\'. I Measured It on a Real Project",
+    "url": "https://dev.to/refactorly/typescript-7-is-10x-faster-i-measured-it-on-a-real-project-1bph",
+    "keywords": [
+      "\\' 10x faster \\'.",
+      "\\\" 10x faster \\\".",
+      "10 × faster",
+      "29z typescript 7",
+      "typescript 7",
+      "typescript 7",
+      "tested ...",
+      "real project",
+      "real project",
+      "microsoft says"
+    ],
+    "summary": "I Measured It on a Real Project > Source: devto | Category: news | 2026-11-21T19:41:29Z TypeScript 7 is the compiler rewritten in Go, and Microsoft says it's about 10× faster."
+  },
+  "12aa521620befdc5": {
+    "file": "corpus/devto/dev_to_myogeshchavan97_stop-overcomplicating-react-state-lea_102c143af4.md",
+    "source": "devto",
+    "title": "Stop Overcomplicating React State! Learn Zustand by Building 2 Real-World Apps (FREE)",
+    "url": "https://dev.to/myogeshchavan97/stop-overcomplicating-react-state-learn-zustand-by-building-2-real-world-apps-free-3ng3",
+    "keywords": [
+      "stop overcomplicating react state",
+      "stop overcomplicating react state",
+      "redux every time",
+      "building 2 real",
+      "building 2 real",
+      "29z still reaching",
+      "react application",
+      "manage state",
+      "world apps",
+      "world apps"
+    ],
+    "summary": "Learn Zustand by Building 2 Real-World Apps (FREE) > Source: devto | Category: news | 2026-11-21T19:41:29Z Still reaching for Redux every time you need to manage state in a React application?"
+  },
+  "26678b113c68c519": {
+    "file": "corpus/devto/dev_to_xcelsama_im-an-anatomy-student-so-i-built-a-free-3d-a_425ea197e8.md",
+    "source": "devto",
+    "title": "I'm an anatomy student, so I built a free 3D anatomy atlas",
+    "url": "https://dev.to/xcelsama/im-an-anatomy-student-so-i-built-a-free-3d-anatomy-atlas-ni7",
+    "keywords": [
+      "max 4 ): showdev",
+      "free 3d anatomy atlas",
+      "free 3d anatomy atlas",
+      "study anatomy",
+      "anatomy student",
+      "anatomy student",
+      "port ...",
+      "beginners body",
+      "29z tags",
+      "webdev"
+    ],
+    "summary": "# I'm an anatomy student, so I built a free 3D anatomy atlas > Source: devto | Category: news | 2026-11-21T19:41:29Z TAGS (max 4): showdev, webdev, learning, beginners  BODY: I study Anatomy at the University of Port..."
+  },
+  "5525ac62e1674826": {
+    "file": "corpus/devto/dev_to_kenhyou_kenny-an-agent-that-does-my-job-2d77_36c7bf20c4.md",
+    "source": "devto",
+    "title": "kenny: an agent that does my job",
+    "url": "https://dev.to/kenhyou/kenny-an-agent-that-does-my-job-2d77",
+    "keywords": [
+      "one slack front door",
+      "two specialists",
+      "part 6",
+      "narrow permissions",
+      "first response",
+      "field notes",
+      "explicit evidence",
+      "ai agents",
+      "built kenny",
+      "kenny"
+    ],
+    "summary": "# kenny: an agent that does my job How I built kenny for first response: one Slack front door, two specialists, explicit evidence, and narrow permissions. Part 6 of Working with AI agents: field notes."
+  },
+  "def4e4880e7889fc": {
+    "file": "corpus/devto/dev_to_enjoy_kumawat_a-skill-i-never-invoked-overruled-my-cl_241960c30f.md",
+    "source": "devto",
+    "title": "A Skill I Never Invoked Overruled My CLAUDE.md Anyway",
+    "url": "https://dev.to/enjoy_kumawat/a-skill-i-never-invoked-overruled-my-claudemd-anyway-144c",
+    "keywords": [
+      "never invoked overruled",
+      "never invoked overruled",
+      "week asked",
+      "trending post",
+      "simple question",
+      "give ...",
+      "md anyway",
+      "md anyway"
+    ],
+    "summary": "# \"A Skill I Never Invoked Overruled My CLAUDE.md Anyway\" > Source: devto | Category: news | 2026-11-21T19:41:29Z A trending post this week asked a simple question: when AGENTS.md, CLAUDE.md, and a Skill all give..."
+  },
+  "495e2f26c44e3026": {
+    "file": "corpus/devto/dev_to_hao610_can-we-stop-ai-from-writing-slop-i-built-an-8-_2b28dc596c.md",
+    "source": "devto",
+    "title": "Can We Stop AI from Writing Slop? I Built an 8-Layer Defense Matrix (git-oops v1.1.2)",
+    "url": "https://dev.to/hao610/can-we-stop-ai-from-writing-slop-i-built-an-8-layer-defense-matrix-git-oops-v112-5e54",
+    "keywords": [
+      "cyclomatic complexity explosions —",
+      "layer defense matrix",
+      "layer defense matrix",
+      "cognitive intent drift",
+      "autonomous coding ...",
+      "writing slop",
+      "writing slop",
+      "stop ai",
+      "stop ai",
+      "oops v1"
+    ],
+    "summary": "# Can We Stop AI from Writing Slop? I Built an 8-Layer Defense Matrix (git-oops v1.1.2) \"From rm -rf to cognitive intent drift and cyclomatic complexity explosions—why autonomous coding..."
+  },
+  "3e88ec56cd032d14": {
+    "file": "corpus/devto/dev_to_earayu_mingle-mit-bring-your-local-coding-agents-into_6ba33c0787.md",
+    "source": "devto",
+    "title": "Mingle (MIT): Bring Your Local Coding Agents into Slack, Discord, Telegram & More — With Zero Servers",
+    "url": "https://dev.to/earayu/mingle-mit-bring-your-local-coding-agents-into-slack-discord-telegram-more-with-zero-3cm4",
+    "keywords": [
+      "mit ): bring",
+      "mit ): bring",
+      "local coding agents",
+      "local coding agents",
+      "coding agent",
+      "zero servers",
+      "zero servers",
+      "kimi code",
+      "etc .)",
+      "custom ..."
+    ],
+    "summary": "# Mingle (MIT): Bring Your Local Coding Agents into Slack, Discord, Telegram & More — With Zero Servers > Source: devto | Category: news | 2026-11-21T19:41:31Z Bringing your own coding agent (Claude Code, Codex, Cursor, OpenCode, Kimi Code, etc.)"
+  },
+  "9aa03ea5e561a390": {
+    "file": "corpus/devto/dev_to_liza_18827c15bdd387c4cd9c_the-pomodoro-timer-that-isn_4146742a9f.md",
+    "source": "devto",
+    "title": "The Pomodoro timer that isn't one: why our Windows study app has no break cycle",
+    "url": "https://dev.to/liza_18827c15bdd387c4cd9c/the-pomodoro-timer-that-isnt-one-why-our-windows-study-app-has-no-break-cycle-3035",
+    "keywords": [
+      "windows study app",
+      "windows study app",
+      "31z short answer",
+      "pomodoro timer runs",
+      "pomodoro timer",
+      "pomodoro timer",
+      "pomodoro timer",
+      "cycle ...",
+      "break cycle",
+      "break cycle"
+    ],
+    "summary": "# The Pomodoro timer that isn't one: why our Windows study app has no break cycle > Source: devto | Category: news | 2026-11-21T19:41:31Z Short answer: SeaSweep is not a Pomodoro timer, and that is on purpose."
+  },
+  "5f0a5236dd5896d9": {
+    "file": "corpus/devto/dev_to_earlgreyhot1701d_dead-keys-i-brought-back-the-typing-_ce0900d3e5.md",
+    "source": "devto",
+    "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+    "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
+    "keywords": [
+      "kiroween 2026 hackathon ,...",
+      "typing games",
+      "typing games",
+      "miss become",
+      "heavy lifting",
+      "heavy lifting",
+      "brought back",
+      "brought back",
+      "dead keys",
+      "dead keys"
+    ],
+    "summary": "# Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting. TL;DR: Dead Keys is my entry for the Kiroween 2026 hackathon,..."
+  },
+  "f5a304b9325e2670": {
+    "file": "corpus/devto/dev_to_till3005_resurrecting-hypercard-for-the-browser-with-_d3208338f2.md",
+    "source": "devto",
+    "title": "Resurrecting HyperCard for the browser with Kiro — PhantomCard",
+    "url": "https://dev.to/till3005/resurrecting-hypercard-for-the-browser-with-kiro-phantomcard-2odp",
+    "keywords": [
+      "kiroween 2026 — aws",
+      "season hackathon —",
+      "kiro — phantomcard",
+      "kiro — phantomcard",
+      "built phantomcard",
+      "resurrecting hypercard",
+      "resurrecting hypercard",
+      "2026",
+      "spooky",
+      "source"
+    ],
+    "summary": "# Resurrecting HyperCard for the browser with Kiro — PhantomCard > Source: devto | Category: news | 2026-11-21T19:41:29Z For Kiroween 2026 — AWS's spooky-season hackathon — I built PhantomCard: a resurrection of Apple's..."
+  },
+  "478cba6766ba960a": {
+    "file": "corpus/devto/dev_to_sumama-jameel_im-14-yo-building-a-startup-and-the-fir_0e9ed54896.md",
+    "source": "devto",
+    "title": "I'm 14 y/o building a startup, and the first user-facing thing is finally out on Hugging-Face, totally free.",
+    "url": "https://dev.to/sumama-jameel/im-14-yo-building-a-startup-and-the-first-user-facing-thing-is-finally-out-on-hugging-face-20g8",
+    "keywords": [
+      "verified tl",
+      "totally free",
+      "totally free",
+      "tool calls",
+      "real ...",
+      "first user",
+      "first user",
+      "facing thing",
+      "facing thing",
+      "31z mit"
+    ],
+    "summary": "# I'm 14 y/o building a startup, and the first user-facing thing is finally out on Hugging-Face, totally free. > Source: devto | Category: news | 2026-11-21T19:41:31Z MIT |  Sessions  | Tool calls  | Verified   TL;DR  This is 66 full coding agent sessions."
+  },
+  "0dfe9314aafb4993": {
+    "file": "corpus/devto/dev_to_axrisi_riemann-hypothesis-lean-proof-what-the-checker_3056d2f592.md",
+    "source": "devto",
+    "title": "Riemann Hypothesis Lean proof: what the checkers actually check",
+    "url": "https://dev.to/axrisi/riemann-hypothesis-lean-proof-what-the-checkers-actually-check-31i6",
+    "keywords": [
+      "riemann hypothesis lean proof",
+      "riemann hypothesis lean proof",
+      "riemann hypothesis compiles",
+      "line lean proof",
+      "lake comparator check",
+      "checkers actually check",
+      "checkers actually check",
+      "still open",
+      "lean",
+      "source"
+    ],
+    "summary": "# Riemann Hypothesis Lean proof: what the checkers actually check A 17.4M-line Lean proof of the Riemann Hypothesis compiles. What Lean, nanoda, con-leche and lake comparator check, and what is still open."
+  },
+  "efb3540c940d54f9": {
+    "file": "corpus/devto/dev_to_xander-aj3_22-pull-requests-to-open-source-projects-i_b9bdfb4fb8.md",
+    "source": "devto",
+    "title": "22 pull requests to open-source projects in a month: what got merged, what didn't, and why",
+    "url": "https://dev.to/xander-aj3/22-pull-requests-to-open-source-projects-in-a-month-what-got-merged-what-didnt-and-why-4ghd",
+    "keywords": [
+      "learned sending fixes",
+      "22 pull requests",
+      "22 pull requests",
+      "30z eleven merged",
+      "got merged",
+      "got merged",
+      "seven closed",
+      "source projects",
+      "source projects",
+      "source"
+    ],
+    "summary": "# 22 pull requests to open-source projects in a month: what got merged, what didn't, and why Eleven merged, four in review, seven closed. What I learned sending fixes to Besu, rust-analyzer, Quarto, Ratatui and others, with the numbers."
+  },
+  "6605342254f6045c": {
+    "file": "corpus/devto/dev_to_marcusbeauregard_my-config-test-accepted-a-listen-add_88527f7a48.md",
+    "source": "devto",
+    "title": "My --config-test accepted a listen address that could never bind",
+    "url": "https://dev.to/marcusbeauregard/my-config-test-accepted-a-listen-address-that-could-never-bind-51o6",
+    "keywords": [
+      "could never bind",
+      "could never bind",
+      "validate ...",
+      "test flag",
+      "test accepted",
+      "test accepted",
+      "listen address",
+      "listen address",
+      "go proxy",
+      "28z transponder"
+    ],
+    "summary": "# My --config-test accepted a listen address that could never bind transponder is a Go proxy I've been building. It has a --config-test flag: load the config, validate..."
+  },
+  "fbc6e574ae455170": {
+    "file": "corpus/devto/dev_to_hypestkey_how-long-do-job-postings-really-stay-open-w_7d46cfa1e8.md",
+    "source": "devto",
+    "title": "How long do job postings really stay open? What 32,000 closed listings showed",
+    "url": "https://dev.to/hypestkey/how-long-do-job-postings-really-stay-open-what-32000-closed-listings-showed-4n48",
+    "keywords": [
+      "small job search engine",
+      "reads open roles straight",
+      "000 closed listings showed",
+      "000 closed listings showed",
+      "careers pages ...",
+      "source",
+      "run",
+      "reactions",
+      "news",
+      "long"
+    ],
+    "summary": "# How long do job postings really stay open? > Source: devto | Category: news | 2026-11-21T19:41:30Z I run a small job search engine that reads open roles straight from employers' own careers pages..."
+  },
+  "673194d3710a8c3d": {
+    "file": "corpus/devto/dev_to_tarunagarwal1981_connect-claude-to-postgres-without-g_0003b5e35c.md",
+    "source": "devto",
+    "title": "Connect Claude to Postgres Without Giving It Write Access",
+    "url": "https://dev.to/tarunagarwal1981/connect-claude-to-postgres-without-giving-it-write-access-33f8",
+    "keywords": [
+      "postgres without giving",
+      "postgres without giving",
+      "write access",
+      "write access",
+      "connect claude",
+      "connect claude",
+      "begin read",
+      "read",
+      "transaction",
+      "source"
+    ],
+    "summary": "# Connect Claude to Postgres Without Giving It Write Access > Source: devto | Category: news | 2026-11-21T19:41:30Z psycopg had opened it with BEGIN READ ONLY."
+  },
+  "bb5cba9bf82c40b8": {
+    "file": "corpus/devto/dev_to_sikamikanikobg_i-have-132-comments-and-0-replies-here_03268c89b0.md",
+    "source": "devto",
+    "title": "I have 132 comments and 0 replies. Here is why I am still writing them.",
+    "url": "https://dev.to/sikamikanikobg/i-have-132-comments-and-0-replies-here-is-why-i-am-still-writing-them-5992",
+    "keywords": [
+      "written 132 comments",
+      "132 comments",
+      "132 comments",
+      "still writing",
+      "still writing",
+      "almost none",
+      "0 replies",
+      "0 replies",
+      "source"
+    ],
+    "summary": "Here is why I am still writing them. I have written 132 comments on this site. Almost none of them got a reply."
+  },
+  "ac82b37c3e34100d": {
+    "file": "corpus/devto/dev_to_techali0407_5-small-sql-habits-that-save-you-from-bad_e1ace2c391.md",
+    "source": "devto",
+    "title": "5 Small SQL Habits That Save You From Bad Queries",
+    "url": "https://dev.to/techali0407/5-small-sql-habits-that-save-you-from-bad-queries-4l9e",
+    "keywords": [
+      "5 small sql habits",
+      "5 small sql habits",
+      "right output",
+      "bad queries",
+      "bad queries",
+      "source",
+      "screen",
+      "save",
+      "save",
+      "reactions"
+    ],
+    "summary": "# 5 Small SQL Habits That Save You From Bad Queries > Source: devto | Category: news | 2026-11-21T19:41:31Z When I first started writing SQL queries, my only goal was getting the right output on the screen."
+  },
+  "a5cd5be1a34dccd9": {
+    "file": "corpus/devto/dev_to_huyentoolnotes_validate-ofx-102-sgml-fitid-in-python-_0f5e506177.md",
+    "source": "devto",
+    "title": "Validate OFX 1.02 SGML FITID in Python: A 5-Gate Script",
+    "url": "https://dev.to/huyentoolnotes/validate-ofx-102-sgml-fitid-in-python-a-5-gate-script-3b0",
+    "keywords": [
+      "legacy bank exports",
+      "02 sgml fitid",
+      "02 sgml fitid",
+      "02 sgml fitid",
+      "validate ofx 1",
+      "validate ofx 1",
+      "validate ofx 1",
+      "python without crashing",
+      "gate script",
+      "gate script"
+    ],
+    "summary": "# Validate OFX 1.02 SGML FITID in Python: A 5-Gate Script > Source: devto | Category: news | 2026-11-21T19:41:30Z To validate OFX 1.02 SGML FITID in Python without crashing on legacy bank exports, treat the file as..."
+  },
+  "cb4e3e118de5cd4e": {
+    "file": "corpus/devto/dev_to_amananandrai_monuments-of-india-part-3-sixteen-statue_3986ce6102.md",
+    "source": "devto",
+    "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
+    "url": "https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm",
+    "keywords": [
+      "thirty new architectural parts",
+      "29z sixteen statues sculpted",
+      "101 indian monuments built",
+      "sixteen statues sculpted",
+      "sixteen statues sculpted",
+      "rebuilt mysore palace",
+      "rebuilt mysore palace",
+      "rebuilt mysore palace",
+      "800k triangle budget",
+      "part 3"
+    ],
+    "summary": "# Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More > Source: devto | Category: news | 2026-11-21T19:41:29Z Sixteen statues sculpted from photographs, finer animals, ships and traffic, about thirty new architectural parts, a rebuilt Mysore Palace and an 800k triangle budget for 101 Indian monuments built in three.js."
+  },
+  "7c8aa54ee9a1c33a": {
+    "file": "corpus/devto/dev_to_refactorly_this-one-line-made-my-python-queue-2500x-s_fff56d0941.md",
+    "source": "devto",
+    "title": "This One Line Made My Python Queue 2,500x Slower (list.pop(0))",
+    "url": "https://dev.to/refactorly/this-one-line-made-my-python-queue-2500x-slower-listpop0-54cj",
+    "keywords": [
+      "changing one line made",
+      "one line made",
+      "one line made",
+      "one million tasks",
+      "took 58 seconds",
+      "python queue 2",
+      "python queue 2",
+      "500x slower",
+      "500x slower",
+      "023 ..."
+    ],
+    "summary": "# This One Line Made My Python Queue 2,500x Slower (list.pop(0)) A queue of one million tasks. Changing one line made it take 0.023..."
+  },
+  "44edb6eca899da93": {
+    "file": "corpus/devto/dev_to_gde_test-the-npm-package-not-just-the-monorepo-2j1e_4a2a1e5288.md",
+    "source": "devto",
+    "title": "Test the npm Package, Not Just the Monorepo",
+    "url": "https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e",
+    "keywords": [
+      "tracing adapter",
+      "npm package",
+      "npm package",
+      "internal tests",
+      "installed ...",
+      "capturing nothing",
+      "test",
+      "test",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Test the npm Package, Not Just the Monorepo > Source: devto | Category: news | 2026-11-21T19:41:31Z A tracing adapter can pass its internal tests while capturing nothing in an installed..."
+  },
+  "3c27881880963321": {
+    "file": "corpus/devto/dev_to_gauravtatke_option-in-value-or-error-out-recipes-for-_c7fdc00a5b.md",
+    "source": "devto",
+    "title": "Option in, value or error out: recipes for a pattern Rust keeps handing you",
+    "url": "https://dev.to/gauravtatke/option-in-value-or-error-out-recipes-for-a-pattern-rust-keeps-handing-you-94n",
+    "keywords": [
+      "market data request ...",
+      "pattern rust keeps handing",
+      "pattern rust keeps handing",
+      "fix protocol engine",
+      "rust",
+      "fix",
+      "writing",
+      "value",
+      "value",
+      "source"
+    ],
+    "summary": "# Option in, value or error out: recipes for a pattern Rust keeps handing you > Source: devto | Category: news | 2026-11-21T19:41:31Z The problem   In fix-rs, a FIX protocol engine I'm writing in Rust, a market data request..."
+  },
+  "2a57239a27491298": {
+    "file": "corpus/devto/dev_to_refactorly_i-changed-one-cell-and-three-rows-changed-_5e0ec2f753.md",
+    "source": "devto",
+    "title": "I Changed One Cell and Three Rows Changed: The [[0] * 3] * 3 Bug in Python",
+    "url": "https://dev.to/refactorly/i-changed-one-cell-and-three-rows-changed-the-0-3-3-bug-in-python-i0g",
+    "keywords": [
+      "three rows changed",
+      "three rows changed",
+      "three rows changed",
+      "changed one cell",
+      "changed one cell",
+      "changed one cell",
+      "games ,...",
+      "bug shows",
+      "[[ 0",
+      "[[ 0"
+    ],
+    "summary": "# I Changed One Cell and Three Rows Changed: The [[0] * 3] * 3 Bug in Python I changed one cell in a Python grid, and all three rows changed. This bug shows up in games,..."
+  },
+  "d7f2734314b866de": {
+    "file": "corpus/devto/dev_to_pythona_a-month-later-memories-merge-the-one-line-eve_a745fb704d.md",
+    "source": "devto",
+    "title": "A Month Later, Memories Merge: The One Line Every Incident Record Needs — 'Temporary or Permanent?",
+    "url": "https://dev.to/pythona/a-month-later-memories-merge-the-one-line-every-incident-record-needs-temporary-or-permanent-216a",
+    "keywords": [
+      "engineer colleague came ...",
+      "month later one day",
+      "month later",
+      "month later",
+      "memories merge",
+      "memories merge",
+      "permanent ?'",
+      "permanent",
+      "temporary",
+      "temporary"
+    ],
+    "summary": "# A Month Later, Memories Merge: The One Line Every Incident Record Needs — 'Temporary or Permanent?' > Source: devto | Category: news | 2026-11-21T19:41:30Z The question that arrived a month later   One day in November, a non-engineer colleague came..."
+  },
+  "2dc0431b8b8f6318": {
+    "file": "corpus/devto/dev_to_gde_beyond-aurora-sub-20ms-real-time-payment-fraud-ve_c4ba1bbae0.md",
+    "source": "devto",
+    "title": "Beyond Aurora: Sub-20ms Real-Time Payment Fraud & Vector Search with Google Cloud AlloyDB, SCaNN, and Gemini",
+    "url": "https://dev.to/gde/beyond-aurora-sub-20ms-real-time-payment-fraud-vector-search-with-google-cloud-alloydb-scann-ani",
+    "keywords": [
+      "millisecond coffee mystery imagine",
+      "time payment fraud",
+      "time payment fraud",
+      "google cloud alloydb",
+      "google cloud alloydb",
+      "vector search",
+      "vector search",
+      "beyond aurora",
+      "beyond aurora",
+      "29z 1"
+    ],
+    "summary": "# Beyond Aurora: Sub-20ms Real-Time Payment Fraud & Vector Search with Google Cloud AlloyDB, SCaNN, and Gemini > Source: devto | Category: news | 2026-11-21T19:41:29Z Starting from Zero: The 50-Millisecond Coffee Mystery   Imagine you are standing at a..."
+  },
+  "b5b8b82ccfcba7bf": {
+    "file": "corpus/devto/dev_to_arjuncodess_cueback-what-if-tutorials-waited-for-you-_a531625d38.md",
+    "source": "devto",
+    "title": "cueback: What If Tutorials Waited for You?",
+    "url": "https://dev.to/arjuncodess/cueback-what-if-tutorials-waited-for-you-4fec",
+    "keywords": [
+      "presage smartspectra sdk challenge",
+      "tutorials waited",
+      "tutorials waited",
+      "submission",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "cueback",
+      "cueback"
+    ],
+    "summary": "# cueback: What If Tutorials Waited for You? > Source: devto | Category: news | 2026-11-21T19:41:31Z This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   You're..."
+  },
+  "a1db9bbb5d955a21": {
+    "file": "corpus/devto/dev_to_kamalmosadegh_pdf-extraction-kept-failing-silently-so_1d769038bf.md",
+    "source": "devto",
+    "title": "PDF Extraction Kept Failing Silently — So I Built an Extractor That Refuses to Be Quietly Wrong",
+    "url": "https://dev.to/kamalmosadegh/pdf-extraction-kept-failing-silently-so-i-built-an-extractor-that-refuses-to-be-quietly-wrong-1k23",
+    "keywords": [
+      "30z every pdf pipeline",
+      "goes wrong ...",
+      "extraction goes wrong",
+      "quietly wrong",
+      "quietly wrong",
+      "used shares",
+      "bad habit",
+      "source",
+      "refuses",
+      "refuses"
+    ],
+    "summary": "# PDF Extraction Kept Failing Silently — So I Built an Extractor That Refuses to Be Quietly Wrong > Source: devto | Category: news | 2026-11-21T19:41:30Z Every PDF pipeline I have used shares the same bad habit: when extraction goes wrong, it goes wrong..."
+  },
+  "78b860c909ce25e2": {
+    "file": "corpus/devto/dev_to_sikandar_bro_0db8c99c4a7c_my-password-generator-used-_e9e635d084.md",
+    "source": "devto",
+    "title": "My password generator used crypto.getRandomValues and was still wrong 15% of the time",
+    "url": "https://dev.to/sikandar_bro_0db8c99c4a7c/my-password-generator-used-cryptogetrandomvalues-and-was-still-wrong-15-of-the-time-lml",
+    "keywords": [
+      "password generator used crypto",
+      "password generator used crypto",
+      "side password generator",
+      "– z ,...",
+      "still wrong 15",
+      "still wrong 15",
+      "small client",
+      "length slider",
+      "four checkboxes",
+      "time"
+    ],
+    "summary": "# My password generator used crypto.getRandomValues and was still wrong 15% of the time > Source: devto | Category: news | 2026-11-21T19:41:29Z My site has a small client-side password generator."
+  },
+  "e0fd034afd415297": {
+    "file": "corpus/devto/dev_to_argbetech_a-nested-loop-does-not-always-quadruple-big_bcbef9b607.md",
+    "source": "devto",
+    "title": "A nested loop does not always quadruple: Big O in the kitchen",
+    "url": "https://dev.to/argbetech/a-nested-loop-does-not-always-quadruple-big-o-in-the-kitchen-eca",
+    "keywords": [
+      "leaves per cabbage ....",
+      "kimchi takes twice",
+      "nested loop",
+      "nested loop",
+      "always quadruple",
+      "always quadruple",
+      "31z double",
+      "work",
+      "source",
+      "reactions"
+    ],
+    "summary": "# A nested loop does not always quadruple: Big O in the kitchen > Source: devto | Category: news | 2026-11-21T19:41:31Z Double the cabbages and kimchi takes twice the work, with the same number of leaves per cabbage...."
+  },
+  "88278ba22d0d0fa5": {
+    "file": "corpus/devto/dev_to_altradits_bitcoin-from-zero-part-1-the-problem-it-sol_7a020ce947.md",
+    "source": "devto",
+    "title": "Bitcoin from zero, part 1: the problem it solves, and your first private Bitcoin network in 15 minutes",
+    "url": "https://dev.to/altradits/bitcoin-from-zero-part-1-the-problem-it-solves-and-your-first-private-bitcoin-network-in-15-4dol",
+    "keywords": [
+      "first private bitcoin network",
+      "first private bitcoin network",
+      "knowing nothing ...",
+      "short version",
+      "part 1",
+      "part 1",
+      "part 1",
+      "15 minutes",
+      "15 minutes",
+      "bitcoin"
+    ],
+    "summary": "# Bitcoin from zero, part 1: the problem it solves, and your first private Bitcoin network in 15 minutes > Source: devto | Category: news | 2026-11-21T19:41:31Z The short version, for everyone: This is part 1 of a series that takes you from knowing nothing..."
+  },
+  "8e683747a9846a3f": {
+    "file": "corpus/devto/dev_to_nikitathedev_your-github-review-is-still-pending-11lf_cbd46fed19.md",
+    "source": "devto",
+    "title": "Your GitHub review is still pending",
+    "url": "https://dev.to/nikitathedev/your-github-review-is-still-pending-11lf",
+    "keywords": [
+      "works around",
+      "github review",
+      "github review",
+      "github bug",
+      "chrome extension",
+      "still pending",
+      "still pending",
+      "pending",
+      "source",
+      "see"
+    ],
+    "summary": "# Your GitHub review is still pending GitHub keeps unsubmitted review comments as Pending, and only you can see them. How I built a Chrome extension that notices, asks before you leave, and works around a GitHub bug."
+  },
+  "6e43ffe3e9851e2b": {
+    "file": "corpus/devto/dev_to_aws-builders_orchestrating-agents-three-orchestrators_d372e4b068.md",
+    "source": "devto",
+    "title": "Orchestrating Agents: Three Orchestrators, One Process",
+    "url": "https://dev.to/aws-builders/orchestrating-agents-three-orchestrators-one-process-4agc",
+    "keywords": [
+      "token cost rising 74",
+      "nested failure still reported",
+      "29z three strands orchestrators",
+      "two mixed runs",
+      "share one context",
+      "three orchestrators",
+      "three orchestrators",
+      "one process",
+      "one process",
+      "one process"
+    ],
+    "summary": "# Orchestrating Agents: Three Orchestrators, One Process Three Strands orchestrators in one process do not share one context. Nine real Bedrock experiments show only text crossing the boundary, a nested failure still reported as 100.0% success and token cost rising 74.5% and 192.8% in the two mixed runs."
+  },
+  "f87bcb521a63cb9d": {
+    "file": "corpus/devto/dev_to_jamilxt_interaction-nets-explained-the-programming-mo_995bf7bc18.md",
+    "source": "devto",
+    "title": "Interaction Nets Explained: The Programming Model Behind the Frostbite CPU",
+    "url": "https://dev.to/jamilxt/interaction-nets-explained-the-programming-model-behind-the-frostbite-cpu-4k68",
+    "keywords": [
+      "post introducing frostbite ....",
+      "programming model behind",
+      "programming model behind",
+      "interaction nets explained",
+      "interaction nets explained",
+      "frostbite cpu",
+      "frostbite cpu",
+      "november 18",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Interaction Nets Explained: The Programming Model Behind the Frostbite CPU > Source: devto | Category: news | 2026-11-21T19:41:28Z On November 18, 2026, the chip-design startup Architect Labs published a post introducing Frostbite...."
+  },
+  "7ad7e5774b082bf4": {
+    "file": "corpus/devto/dev_to_bugbountybeyond_a-hidden-line-in-a-resume-tricked-an-_1f4ed69195.md",
+    "source": "devto",
+    "title": "A Hidden Line in a Resume Tricked an AI Hiring Bot Into Ranking It #1",
+    "url": "https://dev.to/bugbountybeyond/a-hidden-line-in-a-resume-tricked-an-ai-hiring-bot-into-ranking-it-1-2n5k",
+    "keywords": [
+      "prompt injection lab",
+      "ai screener give",
+      "ai hiring bot",
+      "ai hiring bot",
+      "junior candidate 10",
+      "resume tricked",
+      "resume tricked",
+      "resume makes",
+      "invisible text",
+      "hidden line"
+    ],
+    "summary": "# A Hidden Line in a Resume Tricked an AI Hiring Bot Into Ranking It #1 Invisible text in a resume makes an AI screener give a junior candidate 10/10. Then we fix it with a rubric in code and a human in the loop."
+  },
+  "fa3019c58e575d32": {
+    "file": "corpus/devto/dev_to_backmeupplz_why-my-daily-restic-backups-ran-every-oth_d6d855ba1f.md",
+    "source": "devto",
+    "title": "Why my daily restic backups ran every other day and re-read 1.46 TiB every time",
+    "url": "https://dev.to/backmeupplz/why-my-daily-restic-backups-ran-every-other-day-and-re-read-146-tib-every-time-19lh",
+    "keywords": [
+      "46 tib every time",
+      "46 tib every time",
+      "scheduler clock trap",
+      "tailscale 502",
+      "older pi",
+      "november 20",
+      "hole installs",
+      "read 1",
+      "read 1",
+      "myground v0"
+    ],
+    "summary": "# Why my daily restic backups ran every other day and re-read 1.46 TiB every time > Source: devto | Category: news | 2026-11-21T19:41:30Z Three production bugs fixed in MyGround v0.1.112 to v0.1.114 on November 20, 2026: random Docker hostnames breaking restic parent snapshots, a 2 AM scheduler clock trap, and a Tailscale 502 on older Pi-hole installs."
+  },
+  "05a9d14cbc33224f": {
+    "file": "corpus/devto/dev_to_jianzhujisuan_my-search-box-scored-100-on-a-query-it-_aec35ef9bf.md",
+    "source": "devto",
+    "title": "My search box scored 1.00 on a query it understood nothing about",
+    "url": "https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8",
+    "keywords": [
+      "search box scored 1",
+      "search box scored 1",
+      "rebar hook table",
+      "index text contains",
+      "wide \".",
+      "visitor typed",
+      "understood nothing",
+      "understood nothing",
+      "fallback returned",
+      "brick chart"
+    ],
+    "summary": "# My search box scored 1.00 on a query it understood nothing about The fallback returned a rebar hook table and a brick chart, both at 1.00 confidence. Both matched because their index text contains the string \"180\"."
+  },
+  "cb98b55f681a02e1": {
+    "file": "corpus/devto/dev_to_yashdatir_i-built-a-3d-open-world-mythology-game-in-t_70dda4dea3.md",
+    "source": "devto",
+    "title": "I built a 3D open-world mythology game in the browser with just Three.js",
+    "url": "https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic",
+    "keywords": [
+      "world mythology game",
+      "world mythology game",
+      "browser could go",
+      "software developer",
+      "nothing ...",
+      "3d open",
+      "3d open",
+      "browser",
+      "browser",
+      "three"
+    ],
+    "summary": "# I built a 3D open-world mythology game in the browser with just Three.js > Source: devto | Category: news | 2026-11-21T19:41:29Z I'm a software developer, and for a while I'd been curious how far a browser could go with nothing..."
+  },
+  "1e8338ed4a34a696": {
+    "file": "corpus/devto/dev_to_aheadkit_the-comment-that-ruined-my-thursday-mb8_4df8e8bf01.md",
+    "source": "devto",
+    "title": "The Comment That Ruined My Thursday",
+    "url": "https://dev.to/aheadkit/the-comment-that-ruined-my-thursday-mb8",
+    "keywords": [
+      "three words",
+      "pull request",
+      "28z 09",
+      "thursday",
+      "thursday",
+      "source",
+      "ruined",
+      "ruined",
+      "red",
+      "reactions"
+    ],
+    "summary": "# The Comment That Ruined My Thursday > Source: devto | Category: news | 2026-11-21T19:41:28Z I open the pull request and there it is, three words under a line of my code, in red."
+  },
+  "5118668b90875f1c": {
+    "file": "corpus/devto/dev_to_pratyushshivam_what-the-cto-job-actually-is-on-a-frei_ddb065b5e7.md",
+    "source": "devto",
+    "title": "What the CTO job actually is on a freight network",
+    "url": "https://dev.to/pratyushshivam/what-the-cto-job-actually-is-on-a-freight-network-2e61",
+    "keywords": [
+      "technology behind trustedtrucks",
+      "cto job actually",
+      "cto job actually",
+      "pratyush shivam",
+      "network ...",
+      "freight network",
+      "freight network",
+      "cto",
+      "source",
+      "reactions"
+    ],
+    "summary": "# What the CTO job actually is on a freight network I'm Pratyush Shivam, CTO of Konfidio in Berlin. I lead the technology behind TrustedTrucks, a network..."
+  },
+  "982f7accc9736715": {
+    "file": "corpus/devto/dev_to_alexcodebytes_the-lgtm-epidemic-why-your-code-reviews_31c126c6ec.md",
+    "source": "devto",
+    "title": "The 'LGTM' Epidemic: Why Your Code Reviews Are Just Rubber Stamps",
+    "url": "https://dev.to/alexcodebytes/the-lgtm-epidemic-why-your-code-reviews-are-just-rubber-stamps-3k1m",
+    "keywords": [
+      "tuesday morning",
+      "slack ...",
+      "rubber stamps",
+      "rubber stamps",
+      "feeling good",
+      "code reviews",
+      "code reviews",
+      "30z imagine"
+    ],
+    "summary": "# The \"LGTM\" Epidemic: Why Your Code Reviews Are Just Rubber Stamps > Source: devto | Category: news | 2026-11-21T19:41:30Z You’re sipping your coffee, feeling good."
+  },
+  "80b13062d98944e2": {
+    "file": "corpus/devto/dev_to_pmpdilshan_from-drive-tests-to-data-pipelines-why-i-w_42935b8f88.md",
+    "source": "devto",
+    "title": "From Drive Tests to Data Pipelines: Why I Went from RF Engineer to Data & AI",
+    "url": "https://dev.to/pmpdilshan/from-drive-tests-to-data-pipelines-why-i-went-from-rf-engineer-to-data-ai-49om",
+    "keywords": [
+      "rf engineer",
+      "rf engineer",
+      "move reactions",
+      "engineer thinking",
+      "drive tests",
+      "drive tests",
+      "data pipelines",
+      "data pipelines",
+      "data",
+      "data"
+    ],
+    "summary": "# From Drive Tests to Data Pipelines: Why I Went from RF Engineer to Data & AI > Source: devto | Category: news | 2026-11-21T19:41:30Z What carried over, what didn't, and what I'd tell any engineer thinking about the same move"
+  },
+  "4bb0bc07dced9e7e": {
+    "file": "corpus/devto/dev_to_louis_monvoisin_09b3633ac_i-built-a-bank-statement-pd_5843579ef0.md",
+    "source": "devto",
+    "title": "I built a bank statement PDF to Excel converter that runs in the browser and won't say 'done' unless the balances add up",
+    "url": "https://dev.to/louis_monvoisin_09b3633ac/i-built-a-bank-statement-pdf-to-excel-converter-that-runs-in-the-browser-and-wont-say-done-4jlb",
+    "keywords": [
+      "text fragments ...",
+      "look like tables",
+      "29z bank statements",
+      "bank statement pdf",
+      "bank statement pdf",
+      "strange kind",
+      "excel converter",
+      "excel converter",
+      "balances add",
+      "balances add"
+    ],
+    "summary": "# I built a bank statement PDF to Excel converter that runs in the browser and won't say \"done\" unless the balances add up > Source: devto | Category: news | 2026-11-21T19:41:29Z Bank statements are a strange kind of PDF: they look like tables, but they are only text fragments..."
+  },
+  "e60a5c6b4649d632": {
+    "file": "corpus/hackernews/outpostracer_com_3ee44738b6.md",
+    "source": "hackernews",
+    "title": "Show HN: I made a PS1 style racing game",
+    "url": "https://outpostracer.com",
+    "keywords": [
+      "ps1 style racing game",
+      "ps1 style racing game",
+      "6 hey folks",
+      "show hn",
+      "show hn",
+      "27z score",
+      "work",
+      "week",
+      "think",
+      "source"
+    ],
+    "summary": "# Show HN: I made a PS1 style racing game > Source: hackernews | Category: news | 2026-11-21T19:41:27Z Hey folks, was bored with work this week so with the help of chatgpt I built a ps1 style retro racing game.<p>Let me know what you think!"
+  },
+  "dc3c517ced6413d8": {
+    "file": "corpus/hackernews/outdata_net_blog_261120_4f0987faef.md",
+    "source": "hackernews",
+    "title": "Deterministic Simulation Testing Is for Everyone",
+    "url": "https://outdata.net/blog/261120",
+    "keywords": [
+      "deterministic simulation testing",
+      "deterministic simulation testing",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "everyone",
+      "everyone",
+      "comments",
+      "category"
+    ],
+    "summary": "# Deterministic Simulation Testing Is for Everyone > Source: hackernews | Category: news | 2026-11-21T19:41:24Z Score: 55 | Comments: 6"
+  },
+  "742c27324da2f42c": {
+    "file": "corpus/hackernews/math_mit_edu_drew_grh_73c42d2b09.md",
+    "source": "hackernews",
+    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+    "url": "https://math.mit.edu/~drew/grh/",
+    "keywords": [
+      "verification files",
+      "verification files",
+      "riemann hypothesis",
+      "riemann hypothesis",
+      "lean proof",
+      "lean proof",
+      "23z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Verification files for the Lean proof of the Riemann Hypothesis > Source: hackernews | Category: news | 2026-11-21T19:41:23Z Score: 43 | Comments: 12"
+  },
+  "48d8e7e5a45709bd": {
+    "file": "corpus/hackernews/leanprover-community_github_io_blog_posts_riemann-hypothesis_bf485886c9.md",
+    "source": "hackernews",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "keywords": [
+      "riemann hypothesis",
+      "riemann hypothesis",
+      "lean verification",
+      "lean verification",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Lean verification of the Riemann Hypothesis > Source: hackernews | Category: news | 2026-11-21T19:41:23Z Score: 542 | Comments: 423"
+  },
+  "5dfac6d86c91674d": {
+    "file": "corpus/hackernews/simple-bench_com_7444271595.md",
+    "source": "hackernews",
+    "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+    "url": "https://simple-bench.com/",
+    "keywords": [
+      "sol 6",
+      "sol 6",
+      "simple bench",
+      "simple bench",
+      "astra 6",
+      "astra 6",
+      "25z score",
+      "2 flop",
+      "2 flop"
+    ],
+    "summary": "# Astra 6.2 and Sol 6.2 flop at Simple Bench > Source: hackernews | Category: news | 2026-11-21T19:41:25Z Score: 142 | Comments: 129"
+  },
+  "124729ccb44fcd75": {
+    "file": "corpus/hackernews/pwn_ai_upload2shell_1a6bc61cbe.md",
+    "source": "hackernews",
+    "title": "Upload2Shell · CVE-2026-125396",
+    "url": "https://pwn.ai/upload2shell",
+    "keywords": [
+      "upload2shell · cve",
+      "upload2shell · cve",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Upload2Shell · CVE-2026-125396 > Source: hackernews | Category: news | 2026-11-21T19:41:24Z Score: 7 | Comments: 2"
+  },
+  "2b0371fa1ecf76a8": {
+    "file": "corpus/hackernews/www_economist_com_business_2026_11_19_jensen-huangs-fall-is-_538acbf6d7.md",
+    "source": "hackernews",
+    "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+    "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+    "keywords": [
+      "silicon valley",
+      "silicon valley",
+      "jensen huang",
+      "jensen huang",
+      "25z score",
+      "bad news",
+      "bad news",
+      "news",
+      "source",
+      "hackernews"
+    ],
+    "summary": "# Jensen Huang's fall is bad news for Silicon Valley's accelerationists > Source: hackernews | Category: news | 2026-11-21T19:41:25Z Score: 110 | Comments: 186"
+  },
+  "9a30d5f14670f6cb": {
+    "file": "corpus/hackernews/spectralorbit_com_blog_satelital_game_engine_3947b7cf68.md",
+    "source": "hackernews",
+    "title": "How I made a custom game engine for Satelital",
+    "url": "https://spectralorbit.com/blog/satelital_game_engine",
+    "keywords": [
+      "custom game engine",
+      "custom game engine",
+      "24z score",
+      "source",
+      "satelital",
+      "satelital",
+      "news",
+      "made",
+      "made",
+      "hackernews"
+    ],
+    "summary": "# How I made a custom game engine for Satelital > Source: hackernews | Category: news | 2026-11-21T19:41:24Z Score: 11 | Comments: 1"
+  },
+  "bca5d2d802528a50": {
+    "file": "corpus/hackernews/phys_org_news_2026-11-species-tropical-rainforests-young-eme_ba2caea70d.md",
+    "source": "hackernews",
+    "title": "Tropical Rainforests Species may be surprisingly young",
+    "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+    "keywords": [
+      "tropical rainforests species may",
+      "tropical rainforests species may",
+      "surprisingly young",
+      "surprisingly young",
+      "24z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Tropical Rainforests Species may be surprisingly young > Source: hackernews | Category: news | 2026-11-21T19:41:24Z Score: 5 | Comments: 0"
+  },
+  "37f50ac2738479ed": {
+    "file": "corpus/hackernews/github_com_ShinMegamiBoson_lookatmyquant_6c69e97c52.md",
+    "source": "hackernews",
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "keywords": [
+      "4 gb memory",
+      "4 gb memory",
+      "22z score",
+      "source",
+      "news",
+      "mini",
+      "mini",
+      "inkling",
+      "inkling",
+      "hackernews"
+    ],
+    "summary": "# Inkling-2-Mini in 5.4 GB Memory > Source: hackernews | Category: news | 2026-11-21T19:41:22Z Score: 116 | Comments: 11"
+  },
+  "03230afbb496b205": {
+    "file": "corpus/hackernews/twitter_com_GrapheneOS_status_2124158267123233056_f765aeadcf.md",
+    "source": "hackernews",
+    "title": "GrapheneOS made a proof of concept RCS messaging app without Google Messages",
+    "url": "https://twitter.com/GrapheneOS/status/2124158267123233056",
+    "keywords": [
+      "grapheneos made",
+      "grapheneos made",
+      "28z score",
+      "source",
+      "proof",
+      "proof",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# GrapheneOS made a proof of concept RCS messaging app without Google Messages > Source: hackernews | Category: news | 2026-11-21T19:41:28Z Score: 8 | Comments: 1"
+  },
+  "135d9856f25b8687": {
+    "file": "corpus/hackernews/www_afp_com_en_countries-open-path-towards-killer-robots-pac_ddd37ae6b0.md",
+    "source": "hackernews",
+    "title": "Countries open path towards 'killer robots' pact",
+    "url": "https://www.afp.com/en/countries-open-path-towards-killer-robots-pact",
+    "keywords": [
+      "countries open path towards",
+      "countries open path towards",
+      "killer robots",
+      "killer robots",
+      "27z score",
+      "source",
+      "pact",
+      "pact",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Countries open path towards 'killer robots' pact > Source: hackernews | Category: news | 2026-11-21T19:41:27Z Score: 7 | Comments: 0"
+  },
+  "9d5dea8405e21563": {
+    "file": "corpus/hackernews/onurgumus_github_io_zero-csharp_index_html_d8640923d2.md",
+    "source": "hackernews",
+    "title": "Show HN: Zero C#, Power of C# without any GC",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "keywords": [
+      "zero c #, power",
+      "zero c #, power",
+      "show hn",
+      "show hn",
+      "26z score",
+      "without",
+      "without",
+      "source"
+    ],
+    "summary": "# Show HN: Zero C#, Power of C# without any GC > Source: hackernews | Category: news | 2026-11-21T19:41:26Z Score: 64 | Comments: 46"
+  },
+  "263fea5f248d8d78": {
+    "file": "corpus/hackernews/twitter_com_make_claude_status_2123908856145232060_0b780ea0a6.md",
+    "source": "hackernews",
+    "title": "GTA VI is building behavioral profiles of those who play",
+    "url": "https://twitter.com/make_claude/status/2123908856145232060",
+    "keywords": [
+      "building behavioral profiles",
+      "building behavioral profiles",
+      "gta vi",
+      "gta vi",
+      "26z score",
+      "source",
+      "play",
+      "play",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# GTA VI is building behavioral profiles of those who play > Source: hackernews | Category: news | 2026-11-21T19:41:26Z Score: 12 | Comments: 3"
+  },
+  "55b9273056b67081": {
+    "file": "corpus/hackernews/klauria_tech_klauria-art_cbedd55c0a.md",
+    "source": "hackernews",
+    "title": "I'm quite pleased by the tech architecture of my art website",
+    "url": "https://klauria.tech/klauria-art/",
+    "keywords": [
+      "tech architecture",
+      "tech architecture",
+      "quite pleased",
+      "quite pleased",
+      "art website",
+      "art website",
+      "23z score",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# I'm quite pleased by the tech architecture of my art website > Source: hackernews | Category: news | 2026-11-21T19:41:23Z Score: 94 | Comments: 18"
+  },
+  "144d8296a01b494c": {
+    "file": "corpus/hackernews/github_com_kborer_cells_a94f7508c5.md",
+    "source": "hackernews",
+    "title": "Show HN: An ASCII cell aquarium for your terminal",
+    "url": "https://github.com/kborer/cells/",
+    "keywords": [
+      "bacteriophages occasionally cause trouble",
+      "immune cells chase bacteria",
+      "visually distinct given",
+      "virtual microscope slide",
+      "ascii cell aquarium",
+      "ascii cell aquarium",
+      "p >$ cells",
+      "cell biologists",
+      "cells divide",
+      "show hn"
+    ],
+    "summary": "# Show HN: An ASCII cell aquarium for your terminal I made a virtual microscope slide for your terminal (inspired by asciiquarium and cbonsai). You can try it with:<p>$ pipx install terminal-cells<p>$ cells<p>I&#x27;d appreciate any suggestions for additional animations to add, especially entities or events that would be visually distinct given the graphical limitations."
+  },
+  "01eed3d061304cc0": {
+    "file": "corpus/hackernews/netninja_com_2026_06_08_defcon-5s-california-caravan-program_1a89996505.md",
+    "source": "hackernews",
+    "title": "Defcon 5's California Caravan Program/Zine",
+    "url": "https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/",
+    "keywords": [
+      "california caravan program",
+      "california caravan program",
+      "defcon 5",
+      "defcon 5",
+      "27z score",
+      "zine",
+      "zine",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Defcon 5's California Caravan Program/Zine > Source: hackernews | Category: news | 2026-11-21T19:41:27Z Score: 27 | Comments: 2"
+  },
+  "3f4e8638635b5062": {
+    "file": "corpus/hackernews/sgiannopoulos_github_io_blog_machine-code-programming_c65d718f1a.md",
+    "source": "hackernews",
+    "title": "LLMs can read and write executables byte by byte from a hex dump",
+    "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+    "keywords": [
+      "write executables byte",
+      "write executables byte",
+      "hex dump",
+      "hex dump",
+      "24z score",
+      "byte",
+      "byte",
+      "source",
+      "read",
+      "read"
+    ],
+    "summary": "# LLMs can read and write executables byte by byte from a hex dump > Source: hackernews | Category: news | 2026-11-21T19:41:24Z Score: 124 | Comments: 87"
+  },
+  "ab6575c19677c29b": {
+    "file": "corpus/hackernews/jespino_github_io_gopgext_5b40733bb9.md",
+    "source": "hackernews",
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/",
+    "keywords": [
+      "postgresql extensions",
+      "postgresql extensions",
+      "23z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# PostgreSQL Extensions in Go > Source: hackernews | Category: news | 2026-11-21T19:41:23Z Score: 63 | Comments: 4"
+  },
+  "993174ccca354aaf": {
+    "file": "corpus/hackernews/www_science_org_content_blog-post_detonating-huge-pile-lead-_cf85127411.md",
+    "source": "hackernews",
+    "title": "Detonating a pile of lead azide",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "keywords": [
+      "lead azide",
+      "lead azide",
+      "23z score",
+      "source",
+      "pile",
+      "pile",
+      "news",
+      "hackernews",
+      "detonating",
+      "detonating"
+    ],
+    "summary": "# Detonating a pile of lead azide > Source: hackernews | Category: news | 2026-11-21T19:41:23Z Score: 393 | Comments: 261"
+  },
+  "8e345002bb076a9f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_microsoft-entra-conne_cd00c38abb.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+    "keywords": [
+      "entra connect health service",
+      "steal tenant data microsoft",
+      "steal tenant data",
+      "steal tenant data",
+      "tenant configuration information",
+      "gain unauthorized access",
+      "administrator email addresses",
+      "data breach",
+      "warning organizations",
+      "attackers exploited"
+    ],
+    "summary": "# [bleeping-comp] Microsoft Entra Connect Health flaw exploited to steal tenant data Microsoft Entra Connect Health flaw exploited to steal tenant data Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information."
+  },
+  "9530c1fa6e0a3c13": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_badbox-30-botnet-retu_9c3f247364.md",
+    "source": "security",
+    "title": "[bleeping-comp] BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+    "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+    "keywords": [
+      "generic android tv boxes",
+      "24z badbox botnet returns",
+      "badbox botnet returns",
+      "badbox botnet returns",
+      "badbox malware found",
+      "scale ad",
+      "broad range",
+      "source",
+      "security",
+      "security"
+    ],
+    "summary": "# [bleeping-comp] BADBOX botnet returns with record-breaking 40 billion daily ad requests BADBOX botnet returns with record-breaking 40 billion daily ad requests The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions."
+  },
+  "c5d9c677c2452d9f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_fbi-reportedly-hacked_6eaabec128.md",
+    "source": "security",
+    "title": "[bleeping-comp] FBI reportedly hacked again, this time targeting nationwide police database",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+    "keywords": [
+      "federal law enforcement agencies",
+      "national crime information center",
+      "24z fbi reportedly hacked",
+      "fbi reportedly hacked",
+      "fbi reportedly hacked",
+      "share information",
+      "two months",
+      "time targeting",
+      "second time",
+      "ncic ),"
+    ],
+    "summary": "# [bleeping-comp] FBI reportedly hacked again, this time targeting nationwide police database FBI reportedly hacked again, this time targeting nationwide police database FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies."
+  },
+  "d7750a691d5b27e5": {
+    "file": "corpus/sales/www_lennysnewsletter_com_p_community-wisdom-handling-context_00463851c0.md",
+    "source": "sales",
+    "title": "[lennys] 🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like A",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+    "keywords": [
+      "write less like ai",
+      "write less like ai",
+      "write less like ai",
+      "24z 🧠 community wisdom",
+      "🧠 community wisdom",
+      "🧠 community wisdom",
+      "community wisdom 306",
+      "handling context switching",
+      "handling context switching",
+      "handling context switching"
+    ],
+    "summary": "# [lennys] 🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on 🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on Community Wisdom 306"
+  },
+  "42013f3407e05565": {
+    "file": "corpus/sales/www_saastr_com_with-agents-were-all-going-to-have-to-work-we_a156c994c5.md",
+    "source": "sales",
+    "title": "[saastr] With Agents, We’re All Going to Have to Work Weekends. They’ll Want To. You May Need To.",
+    "url": "https://www.saastr.com/with-agents-were-all-going-to-have-to-work-weekends-theyll-want-to-you-may-need-to/",
+    "keywords": [
+      "pilled developers already live",
+      "folks outside engineering",
+      "... continue reading",
+      "working weekends",
+      "work weekends",
+      "work weekends",
+      "work weekends",
+      "something ai",
+      "mean 996",
+      "may need"
+    ],
+    "summary": "That doesn&#8217;t mean 996, and it doesn&#8217;t mean going into the office on Saturday. But your agents aren&#8217;t knocking off at 5pm on Friday. They&#8217;ll be ready for the...   Continue Reading"
+  },
+  "b0537cb9f1e89376": {
+    "file": "corpus/sales/www_saastr_com_5-interesting-learnings-from-palo-alto-networ_203fc76dd9.md",
+    "source": "sales",
+    "title": "[saastr] 5 Interesting Learnings from Palo Alto Networks at $14.5 Billion in Revenue: 39% Growth, a $1 Billion GAAP Gap, and a $4.5B Stock Bet on Open",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-14-5-billion-in-revenue-39-growth-a-1-billion-gaap-gap-and-a-4-5b-stock-bet-on-open-weight-ai/",
+    "keywords": [
+      "fiscal q1 2027 today",
+      "1 billion gaap gap",
+      "1 billion gaap gap",
+      "1 billion gaap gap",
+      "24z 5 interesting learnings",
+      "total revenue grew 39",
+      "5 interesting learnings",
+      "5 interesting learnings",
+      "5b stock bet",
+      "5b stock bet"
+    ],
+    "summary": "# [saastr] 5 Interesting Learnings from Palo Alto Networks at $14.5 Billion in Revenue: 39% Growth, a $1 Billion GAAP Gap, and a $4.5B Stock Bet on Open-Weight AI 5 Interesting Learnings from Palo Alto Networks at $14.5 Billion in Revenue: 39% Growth, a $1 Billion GAAP Gap, and a $4.5B Stock Bet on Open-Weight AI Palo Alto has spent the last year...   Continue Reading"
   }
 }
