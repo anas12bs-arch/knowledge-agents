@@ -908180,5 +908180,644 @@
       "research"
     ],
     "summary": "# [hf-blog] Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup > Source: ai-research | Category: research | 2026-11-20T23:28:24Z Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
+  },
+  "9a459ccfd8ad4076": {
+    "file": "corpus/legal/www_techdirt_com_2026_11_20_white-house-withdraws-latest-nom_f4a71a6e4f.md",
+    "source": "legal",
+    "title": "[techdirt] White House Withdraws Latest Nominee To Head The FDA; HHS Chaos Engine Goes Brrrrrr",
+    "url": "https://www.techdirt.com/2026/11/20/white-house-withdraws-latest-nominee-to-head-the-fda-hhs-chaos-engine-goes-brrrrrr/",
+    "keywords": [
+      "vacant director level positions",
+      "currently producing confusion",
+      "[&# 8230 ;]",
+      "whatever else",
+      "undoubtedly also",
+      "said repeatedly",
+      "human services",
+      "get confirmed",
+      "chaos engine",
+      "acting directors"
+    ],
+    "summary": "# [techdirt] White House Withdraws Latest Nominee To Head The FDA; HHS Chaos Engine Goes Brrrrrr White House Withdraws Latest Nominee To Head The FDA; HHS Chaos Engine Goes Brrrrrr I have said repeatedly that whatever else we can call RFK Jr.&#8217;s department of Health and Human Services, it is undoubtedly also a chaos engine."
+  },
+  "a13e3c3e51828766": {
+    "file": "corpus/github-releases/github_com_ollama_ollama_releases_tag_v0_40_17_ab2c14a0d2.md",
+    "source": "github-releases",
+    "title": "ollama/ollama v0.40.17 released",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+    "keywords": [
+      "passes along prompt arguments",
+      "``` ollama run inkling",
+      "use prebuilt mlx",
+      "supports claude code",
+      "serves multiple requests",
+      "preserves existing settings",
+      "partially offloaded models",
+      "looped layers give",
+      "context shift setting",
+      "computation per token"
+    ],
+    "summary": "Note: inkling-2-mini is supported on Apple silicon only in this release. ## What's Changed - `ollama launch claude` supports Claude Code's deferred tool loading, so MCP tools are loaded when needed instead of all at once - Ollama on Apple silicon now serves multiple requests at once. - `ollama launch opencode` sets thinking options from the model's metadata - `ollama launch pi` refreshes Pi's model list after sign-in and passes along prompt arguments - `ollama launch chatgpt --restore` asks befo"
+  },
+  "cac07847f62e472c": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_5_0-canary_59_3f3204a937.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.5.0-canary.59 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.59",
+    "keywords": [
+      "101638 ### example changes",
+      "100454 ### misc changes",
+      "param casing navigation test",
+      "59 ### core changes",
+      "pages data endpoint _app",
+      "update storage integrations",
+      "shrink slow tests",
+      "fix node_env evaluation",
+      "default process imports",
+      "check job counters"
+    ],
+    "summary": "- switchyard: restore 'in front of' in three test comments: #102082 - Write Turbopack dist dir metadata from Rust: #101638 - Turbopack: take next/dynamic loader availability from chunking for the loadable manifest: #101172 - Turbopack: keep ?server-data on Pages data endpoint _app/_document modules: #102099 - Turbopack: report unreadable filesystem cache files clearly: #101980 - docs: remove generic agent workflow guidance: #102071 - test: wait for destination render in dynamic-param casing navi"
+  },
+  "d632639a391ddf45": {
+    "file": "corpus/devto/dev_to_urielbitton_browser-autofill-testing-follow-the-fille_6acec3d0f2.md",
+    "source": "devto",
+    "title": "Browser Autofill Testing: Follow the Filled Form Into the Saved SaaS Record",
+    "url": "https://dev.to/urielbitton/browser-autofill-testing-follow-the-filled-form-into-the-saved-saas-record-3p0g",
+    "keywords": [
+      "18z browser autofill testing",
+      "browser autofill testing",
+      "browser autofill testing",
+      "saved saas record",
+      "saved saas record",
+      "saved product record",
+      "start ...",
+      "filled form",
+      "filled form",
+      "way"
+    ],
+    "summary": "# Browser Autofill Testing: Follow the Filled Form Into the Saved SaaS Record > Source: devto | Category: news | 2026-11-21T04:08:18Z Browser autofill testing should follow the values all the way into the saved product record."
+  },
+  "ac4ae8b10d693ceb": {
+    "file": "corpus/devto/dev_to_atsdatalabs_10-azure-data-factory-and-adls-gen2-inter_a5779bc7a6.md",
+    "source": "devto",
+    "title": "10 Azure Data Factory and ADLS Gen2 Interview Questions (2027), with Answers",
+    "url": "https://dev.to/atsdatalabs/10-azure-data-factory-and-adls-gen2-interview-questions-2027-with-answers-8dd",
+    "keywords": [
+      "engineering interviews usually open",
+      "adls gen2 interview questions",
+      "adls gen2 interview questions",
+      "10 azure data factory",
+      "10 azure data factory",
+      "19z azure data",
+      "projects ...",
+      "project \",",
+      "2027 ),",
+      "2027 ),"
+    ],
+    "summary": "# 10 Azure Data Factory and ADLS Gen2 Interview Questions (2027), with Answers > Source: devto | Category: news | 2026-11-21T04:08:19Z Azure data-engineering interviews usually open with \"explain your project\", and in most projects..."
+  },
+  "e828537a0420c033": {
+    "file": "corpus/devto/dev_to_harshitduggal_i-built-a-local-first-markdown-editor-h_4ee21726e1.md",
+    "source": "devto",
+    "title": "I built a local-first markdown editor. Here's what kept it fast on huge docs",
+    "url": "https://dev.to/harshitduggal/i-built-a-local-first-markdown-editor-heres-what-kept-it-fast-on-huge-docs-184f",
+    "keywords": [
+      "first markdown workspace",
+      "first markdown editor",
+      "first markdown editor",
+      "runs entirely",
+      "huge docs",
+      "huge docs",
+      "18z flow",
+      "source",
+      "sign",
+      "reactions"
+    ],
+    "summary": "# I built a local-first markdown editor. Here's what kept it fast on huge docs Flow is a local-first markdown workspace that runs entirely in your browser."
+  },
+  "ce978f87ec0b2238": {
+    "file": "corpus/devto/dev_to_jebertacchi_feeling-vs-data-my-multi-agent-workflow-m_0429da1e7d.md",
+    "source": "devto",
+    "title": "Feeling vs Data: My Multi-Agent Workflow measured",
+    "url": "https://dev.to/jebertacchi/feeling-vs-data-my-multi-agent-workflow-measured-3lmp",
+    "keywords": [
+      "20z two months",
+      "feeling vs data",
+      "feeling vs data",
+      "agent workflow measured",
+      "agent workflow measured",
+      "data confirmed",
+      "agent logs",
+      "45 features",
+      "100 agents",
+      "source"
+    ],
+    "summary": "# Feeling vs Data: My Multi-Agent Workflow measured > Source: devto | Category: news | 2026-11-21T04:08:20Z Two months of agent logs, about 1,100 agents and 45 features."
+  },
+  "a68e7d5522b2c7ac": {
+    "file": "corpus/devto/dev_to_darkmavis1980_nginx2root-on-ubuntu-how-i-checked-and-_a2cd915b20.md",
+    "source": "devto",
+    "title": "nginx2root on Ubuntu: how I checked and mitigated it without upgrading nginx",
+    "url": "https://dev.to/darkmavis1980/nginx2root-on-ubuntu-how-i-checked-and-mitigated-it-without-upgrading-nginx-58de",
+    "keywords": [
+      "nginx2root bugs went public",
+      "without upgrading nginx",
+      "without upgrading nginx",
+      "18 november 2026",
+      "nginx2root",
+      "nginx2root",
+      "2026",
+      "ubuntu",
+      "ubuntu",
+      "thought"
+    ],
+    "summary": "# nginx2root on Ubuntu: how I checked and mitigated it without upgrading nginx > Source: devto | Category: news | 2026-11-21T04:08:19Z The nginx2root bugs went public on 18 November 2026."
+  },
+  "e86e57bef3791cf0": {
+    "file": "corpus/devto/dev_to_le_beltagy_your-ir-runbook-is-a-pdf-nobody-reads-at-3_0912be67a9.md",
+    "source": "devto",
+    "title": "Your IR Runbook Is a PDF Nobody Reads at 3 AM. I Turned Mine Into a State Machine.",
+    "url": "https://dev.to/le_beltagy/your-ir-runbook-is-a-pdf-nobody-reads-at-3-am-i-turned-mine-into-a-state-machine-32o8",
+    "keywords": [
+      "pdf nobody reads",
+      "pdf nobody reads",
+      "four failures taught",
+      "automation actually needs",
+      "turned mine",
+      "turned mine",
+      "step functions",
+      "state machine",
+      "state machine",
+      "ir runbook"
+    ],
+    "summary": "# Your IR Runbook Is a PDF Nobody Reads at 3 AM. I replaced a fragile AWS incident response runbook with Step Functions, Lambda, Terraform and cross-account KMS. Four failures taught me what automation actually needs to survive an incident."
+  },
+  "9c227c30b5df1eec": {
+    "file": "corpus/devto/dev_to_amananandrai_microsoft-ignite-2026-every-announcement_cb47ad1528.md",
+    "source": "devto",
+    "title": "Microsoft Ignite 2026: Every Announcement, Sorted (Models, GitHub Copilot, Azure, Windows & More)",
+    "url": "https://dev.to/amananandrai/microsoft-ignite-2026-every-announcement-sorted-models-github-copilot-azure-windows-more-4gk4",
+    "keywords": [
+      "microsoft ignite 2026",
+      "microsoft ignite 2026",
+      "satya ...",
+      "san francisco",
+      "online ),",
+      "github copilot",
+      "github copilot",
+      "every announcement",
+      "every announcement",
+      "big one"
+    ],
+    "summary": "# Microsoft Ignite 2026: Every Announcement, Sorted (Models, GitHub Copilot, Azure, Windows & More) > Source: devto | Category: news | 2026-11-21T04:08:18Z Microsoft Ignite 2026 ran November 17–20 in San Francisco (and online), and it was a big one."
+  },
+  "ee93d865a00d0367": {
+    "file": "corpus/devto/dev_to_salemevb_thoughts-on-bias-towards-action-192g_1371444f81.md",
+    "source": "devto",
+    "title": "Thoughts on “Bias Towards Action”",
+    "url": "https://dev.to/salemevb/thoughts-on-bias-towards-action-192g",
+    "keywords": [
+      "term “ bias",
+      "tech spaces",
+      "action ”",
+      "thoughts",
+      "thoughts",
+      "source",
+      "remember",
+      "reactions",
+      "one",
+      "news"
+    ],
+    "summary": "# Thoughts on “Bias Towards Action” > Source: devto | Category: news | 2026-11-21T04:08:19Z As long as one can remember and especially in tech spaces, the term “Bias for action” has become the..."
+  },
+  "4412619658ad2503": {
+    "file": "corpus/devto/dev_to_hugobachmann_recreating-minecrafts-xp-bar-with-three-_8269299bc1.md",
+    "source": "devto",
+    "title": "Recreating Minecraft's XP bar with three SVGs and one @keyframes rule",
+    "url": "https://dev.to/hugobachmann/recreating-minecrafts-xp-bar-with-three-svgs-and-one-keyframes-rule-21cn",
+    "keywords": [
+      "job progress box shows",
+      "shimmers exactly ...",
+      "agoralis player dashboard",
+      "green xp bar",
+      "xp bar",
+      "xp bar",
+      "three svgs",
+      "three svgs",
+      "recreating minecraft",
+      "recreating minecraft"
+    ],
+    "summary": "# Recreating Minecraft's XP bar with three SVGs and one @keyframes rule > Source: devto | Category: news | 2026-11-21T04:08:18Z On the Agoralis player dashboard, the job progress box shows a green XP bar that shimmers exactly..."
+  },
+  "c900bbffd79c9ef2": {
+    "file": "corpus/devto/dev_to_kleb_data_how-to-pull-every-open-job-at-a-company-fro_a9686de8cb.md",
+    "source": "devto",
+    "title": "How to pull every open job at a company from Greenhouse, Lever, Ashby and Workable (no scraping)",
+    "url": "https://dev.to/kleb_data/how-to-pull-every-open-job-at-a-company-from-greenhouse-lever-ashby-and-workable-no-scraping-70j",
+    "keywords": [
+      "pull every open job",
+      "pull every open job",
+      "tech companies host",
+      "large share",
+      "careers page",
+      "applicant ...",
+      "workable",
+      "workable",
+      "startups",
+      "source"
+    ],
+    "summary": "# How to pull every open job at a company from Greenhouse, Lever, Ashby and Workable (no scraping) > Source: devto | Category: news | 2026-11-21T04:08:19Z Most startups and a large share of tech companies host their careers page on one of a few applicant..."
+  },
+  "e4264cde83de7baa": {
+    "file": "corpus/devto/dev_to_robertpaschal_five-trigger-when-clauses-postgres-will_ee2c14e198.md",
+    "source": "devto",
+    "title": "Five trigger WHEN clauses Postgres will reject",
+    "url": "https://dev.to/robertpaschal/five-trigger-when-clauses-postgres-will-reject-jn",
+    "keywords": [
+      "migration runs",
+      "18z postgres",
+      "five trigger",
+      "five trigger",
+      "clauses postgres",
+      "clauses postgres",
+      "trigger",
+      "clauses",
+      "source",
+      "rules"
+    ],
+    "summary": "# Five trigger WHEN clauses Postgres will reject > Source: devto | Category: news | 2026-11-21T04:08:18Z Postgres will reject some trigger WHEN clauses, but only when the migration runs."
+  },
+  "2b3d9ac66fb06e4c": {
+    "file": "corpus/devto/dev_to_dafili_silent-failure-13-the-dead-comment-i-closed-ev_d23a246d63.md",
+    "source": "devto",
+    "title": "Silent Failure #13: The Dead Comment I Closed Every Four Hours and Never Closed",
+    "url": "https://dev.to/dafili/silent-failure-13-the-dead-comment-i-closed-every-four-hours-and-never-closed-5cmj",
+    "keywords": [
+      "parity odd 5026560 :...",
+      "closed every four hours",
+      "closed every four hours",
+      "never closed",
+      "never closed",
+      "silent failure",
+      "silent failure",
+      "patrol stderr",
+      "looked like",
+      "dead comment"
+    ],
+    "summary": "# Silent Failure #13: The Dead Comment I Closed Every Four Hours and Never Closed > Source: devto | Category: news | 2026-11-21T04:08:19Z At 01:00 I was reading the patrol stderr, and it looked like this:    PARITY ODD 5026560:..."
+  },
+  "1778f0ec3ee1c96e": {
+    "file": "corpus/devto/dev_to_julies1_i-built-a-devto-comment-reviser-so-id-stop-re_3844f9d59f.md",
+    "source": "devto",
+    "title": "I built a dev.to comment reviser so I'd stop re-pasting the same AI prompt",
+    "url": "https://dev.to/julies1/i-built-a-devto-comment-reviser-so-id-stop-re-pasting-the-same-ai-prompt-4oi8",
+    "keywords": [
+      "ai chat window",
+      "ai prompt",
+      "ai prompt",
+      "comment reviser",
+      "comment reviser",
+      "comment",
+      "used",
+      "stop",
+      "stop",
+      "source"
+    ],
+    "summary": "# I built a dev.to comment reviser so I'd stop re-pasting the same AI prompt > Source: devto | Category: news | 2026-11-21T04:08:20Z Before posting a comment on dev.to, I used to paste my draft into an AI chat window, paste the same..."
+  },
+  "8cd1eb8234e11aa9": {
+    "file": "corpus/hackernews/www_marketscreener_com_news_us-sec-s-nvidia-probe-is-examini_81134a9df0.md",
+    "source": "hackernews",
+    "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+    "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+    "keywords": [
+      "us sec",
+      "us sec",
+      "nvidia probe",
+      "nvidia probe",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# US SEC's Nvidia probe is examining potential accounting issues – sources > Source: hackernews | Category: news | 2026-11-21T04:08:14Z Score: 258 | Comments: 133"
+  },
+  "e7863ffe47e23e0e": {
+    "file": "corpus/hackernews/m-slee_netlify_app_posts_integrals-galois-polynomials_922ac67c75.md",
+    "source": "hackernews",
+    "title": "Integrals of Polynomials with Galois Group S_p",
+    "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+    "keywords": [
+      "galois group s_p",
+      "galois group s_p",
+      "15z score",
+      "source",
+      "polynomials",
+      "polynomials",
+      "news",
+      "integrals",
+      "integrals",
+      "hackernews"
+    ],
+    "summary": "# Integrals of Polynomials with Galois Group S_p > Source: hackernews | Category: news | 2026-11-21T04:08:15Z Score: 7 | Comments: 1"
+  },
+  "d09835aaf620b45c": {
+    "file": "corpus/hackernews/eli_thegreenplace_net_2017_clojure-the-perfect-language-to-e_fe15c21a87.md",
+    "source": "hackernews",
+    "title": "Clojure will affect the way you think about programming (2017)",
+    "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+    "keywords": [
+      "12z score",
+      "way",
+      "way",
+      "think",
+      "think",
+      "source",
+      "programming",
+      "programming",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Clojure will affect the way you think about programming (2017) > Source: hackernews | Category: news | 2026-11-21T04:08:12Z Score: 8 | Comments: 0"
+  },
+  "79f48ab6943026d6": {
+    "file": "corpus/hackernews/www_ruv_is_english_2026-11-20-serious-cyberattack-thought-ba_9a9e9d6e40.md",
+    "source": "hackernews",
+    "title": "Serious cyberattack thought backed by wealthy operators",
+    "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+    "keywords": [
+      "serious cyberattack thought backed",
+      "serious cyberattack thought backed",
+      "wealthy operators",
+      "wealthy operators",
+      "13z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Serious cyberattack thought backed by wealthy operators > Source: hackernews | Category: news | 2026-11-21T04:08:13Z Score: 30 | Comments: 16"
+  },
+  "2a321a0ea51811f5": {
+    "file": "corpus/hackernews/www_backblaze_com_company_policy_privacy_635d581c26.md",
+    "source": "hackernews",
+    "title": "BlackBlaze now explicitly states selling your data for advertisement",
+    "url": "https://www.backblaze.com/company/policy/privacy",
+    "keywords": [
+      "explicitly states selling",
+      "explicitly states selling",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "data",
+      "data",
+      "comments",
+      "category"
+    ],
+    "summary": "# BlackBlaze now explicitly states selling your data for advertisement > Source: hackernews | Category: news | 2026-11-21T04:08:14Z Score: 8 | Comments: 0"
+  },
+  "b4979357a9eba51c": {
+    "file": "corpus/hackernews/taisho_design_en_blog_accessible-color-palette-from-one-colo_e69d33f265.md",
+    "source": "hackernews",
+    "title": "How to generate an accessible color palette from a single color",
+    "url": "https://taisho.design/en/blog/accessible-color-palette-from-one-color",
+    "keywords": [
+      "accessible color palette",
+      "accessible color palette",
+      "single color",
+      "single color",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "generate",
+      "generate"
+    ],
+    "summary": "# How to generate an accessible color palette from a single color > Source: hackernews | Category: news | 2026-11-21T04:08:17Z Score: 8 | Comments: 0"
+  },
+  "71137eb403ad5190": {
+    "file": "corpus/hackernews/valkey_io_blog_from-skiplist-to-b_tree_128d85857a.md",
+    "source": "hackernews",
+    "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+    "keywords": [
+      "cuts sorted set overhead",
+      "cuts sorted set overhead",
+      "valkey kills",
+      "valkey kills",
+      "12z score",
+      "source",
+      "skiplist",
+      "skiplist",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Valkey kills the skiplist, cuts sorted set overhead by up to 43% > Source: hackernews | Category: news | 2026-11-21T04:08:12Z Score: 68 | Comments: 29"
+  },
+  "0a1316109c3f17ed": {
+    "file": "corpus/hackernews/aperiodical_com_2026_11_i-cant-believe-its-1_20cbd4d3d1.md",
+    "source": "hackernews",
+    "title": "I can’t believe it’s 1!",
+    "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+    "keywords": [
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I can’t believe it’s 1! > Source: hackernews | Category: news | 2026-11-21T04:08:14Z Score: 50 | Comments: 55"
+  },
+  "d87387938857a970": {
+    "file": "corpus/hackernews/simpleflying_com_airbus-a321xlr-often-stuck-climbing-1st-few_4819235e89.md",
+    "source": "hackernews",
+    "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+    "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+    "keywords": [
+      "13z score",
+      "source",
+      "news",
+      "hours",
+      "hours",
+      "hackernews",
+      "flight",
+      "flight",
+      "first",
+      "first"
+    ],
+    "summary": "# Why the Airbus A321XLR often gets stuck climbing for first few hours of flight > Source: hackernews | Category: news | 2026-11-21T04:08:13Z Score: 97 | Comments: 65"
+  },
+  "8055df0284336ecd": {
+    "file": "corpus/hackernews/www_esa_int_articles_about-us_directorates_operations_space-_61dcc6fa99.md",
+    "source": "hackernews",
+    "title": "Sir Brian May adds new dimension to Hera asteroid",
+    "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "keywords": [
+      "hera asteroid",
+      "hera asteroid",
+      "12z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "21t04"
+    ],
+    "summary": "# Sir Brian May adds new dimension to Hera asteroid > Source: hackernews | Category: news | 2026-11-21T04:08:12Z Score: 55 | Comments: 12"
+  },
+  "96820a963932b47a": {
+    "file": "corpus/hackernews/spectrum_ieee_org_fighting-back-against-deep-fakes_f227f31f7b.md",
+    "source": "hackernews",
+    "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+    "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+    "keywords": [
+      "trust visual recordings anymore",
+      "trust visual recordings anymore",
+      "one day",
+      "one day",
+      "14z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# I Don't Trust Visual Recordings Anymore. But One Day I Will Again > Source: hackernews | Category: news | 2026-11-21T04:08:14Z"
+  },
+  "dd36fcd201abb34c": {
+    "file": "corpus/hackernews/borretti_me_article_re-riemann_75849af987.md",
+    "source": "hackernews",
+    "title": "Re: Riemann",
+    "url": "https://borretti.me/article/re-riemann",
+    "keywords": [
+      "13z score",
+      "source",
+      "riemann",
+      "riemann",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "21t04",
+      "2026"
+    ],
+    "summary": "# Re: Riemann > Source: hackernews | Category: news | 2026-11-21T04:08:13Z Score: 172 | Comments: 163"
+  },
+  "b5bdca786d5c5950": {
+    "file": "corpus/hackernews/datatracker_ietf_org_doc_draft-ietf-plants-merkle-tree-certs_69a2660199.md",
+    "source": "hackernews",
+    "title": "Merkle Tree Certificates",
+    "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+    "keywords": [
+      "merkle tree certificates",
+      "merkle tree certificates",
+      "15z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Merkle Tree Certificates > Source: hackernews | Category: news | 2026-11-21T04:08:15Z Score: 26 | Comments: 3"
+  },
+  "eb374a7032104cc1": {
+    "file": "corpus/hackernews/frogwizard_bearblog_dev_tuxguitar-17edo_487286e621.md",
+    "source": "hackernews",
+    "title": "Forking TuxGuitar into a 17-EDO tab editor",
+    "url": "https://frogwizard.bearblog.dev/tuxguitar-17edo/",
+    "keywords": [
+      "edo tab editor",
+      "edo tab editor",
+      "forking tuxguitar",
+      "forking tuxguitar",
+      "16z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Forking TuxGuitar into a 17-EDO tab editor > Source: hackernews | Category: news | 2026-11-21T04:08:16Z Score: 6 | Comments: 6"
+  },
+  "2bad8601bf645ab5": {
+    "file": "corpus/hackernews/www_washingtonpost_com_world_2026_11_19_uncontacted-indigeno_da1906515c.md",
+    "source": "hackernews",
+    "title": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+    "url": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+    "keywords": [
+      "uncontacted indigenous people emerge",
+      "uncontacted indigenous people emerge",
+      "amazon forest",
+      "amazon forest",
+      "17z score",
+      "source",
+      "news",
+      "hackernews",
+      "food",
+      "food"
+    ],
+    "summary": "# Uncontacted Indigenous people emerge from Amazon forest to ask for food > Source: hackernews | Category: news | 2026-11-21T04:08:17Z Score: 46 | Comments: 16"
+  },
+  "610613cc27c83f91": {
+    "file": "corpus/hackernews/typedb_com_blog_replacing-implicit-optionals-with-a-none-typ_5aa1c7522e.md",
+    "source": "hackernews",
+    "title": "Replacing implicit optionals with a None type in TypeDB",
+    "url": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
+    "keywords": [
+      "replacing implicit optionals",
+      "replacing implicit optionals",
+      "none type",
+      "none type",
+      "17z score",
+      "typedb",
+      "typedb",
+      "source",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Replacing implicit optionals with a None type in TypeDB > Source: hackernews | Category: news | 2026-11-21T04:08:17Z Score: 8 | Comments: 1"
+  },
+  "77e9472423d12ebb": {
+    "file": "corpus/hackernews/substrate-lang_com_ae396df359.md",
+    "source": "hackernews",
+    "title": "Substrate: A Lisp for WebAssembly",
+    "url": "https://substrate-lang.com",
+    "keywords": [
+      "13z score",
+      "webassembly",
+      "webassembly",
+      "substrate",
+      "substrate",
+      "source",
+      "news",
+      "lisp",
+      "lisp",
+      "hackernews"
+    ],
+    "summary": "# Substrate: A Lisp for WebAssembly > Source: hackernews | Category: news | 2026-11-21T04:08:13Z Score: 4 | Comments: 1"
+  },
+  "5090362020b96ce9": {
+    "file": "corpus/security/krebsonsecurity_com_2026_11_cto-of-ransomwarehelp-indicted-f_5896797fd3.md",
+    "source": "security",
+    "title": "[krebs] CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "keywords": [
+      "fbi sting operation found",
+      "‘ ransomwarehelp ’ indicted",
+      "‘ ransomwarehelp ’ indicted",
+      "‘ ransomwarehelp ’ indicted",
+      "restore data locked",
+      "chief technology officer",
+      "advanced cryptographic tools",
+      "wire fraud",
+      "wire fraud",
+      "wire fraud"
+    ],
+    "summary": "# [krebs] CTO of ‘RansomwareHelp’ Indicted for Wire Fraud CTO of ‘RansomwareHelp’ Indicted for Wire Fraud The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed."
   }
 }
