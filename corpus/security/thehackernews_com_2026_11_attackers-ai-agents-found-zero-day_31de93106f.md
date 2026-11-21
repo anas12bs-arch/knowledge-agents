@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
+url: "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-21T12:33:11Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access
+
+> Source: security | Category: security | 2026-11-21T12:33:11Z
+
+Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access
+
+Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.
+
+The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,
