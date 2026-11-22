@@ -912605,5 +912605,1250 @@
       "built"
     ],
     "summary": "# I built a CLI that turns any place on Earth into a pixel-art diorama > Source: devto | Category: news | 2026-11-22T03:50:58Z Type a place, get an isometric pixel-art poster, video or GIF built from OpenStreetMap and Overture Maps data."
+  },
+  "bac672998857c348": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_aws-lambda-gpu-managed-instances__1984c127f7.md",
+    "source": "engineering",
+    "title": "[infoq] AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+    "url": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "sglang base images",
+      "series gpu instances",
+      "runs gpu inference",
+      "runs gpu inference",
+      "runs gpu inference",
+      "runs event functions",
+      "instance price plus",
+      "75 percent fee",
+      "minute asynchronous timeouts",
+      "lambda managed instances"
+    ],
+    "summary": "# [infoq] AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that need no handler code, and 90-minute asynchronous timeouts. Billing is the instance price plus a 9.75 percent fee; first hands-on tests report an eight-minute publish and no response streaming."
+  },
+  "413e9952909ddba7": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_claude-code-leaking-secrets_utm_c_209df3f023.md",
+    "source": "engineering",
+    "title": "[infoq] Claude Code Has Been Leaking Secrets Through Its 'Don't Ask Again' Feature",
+    "url": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "agent chat transcripts stored",
+      "sergio de simone",
+      "public repositories due",
+      "company identified 1",
+      "39z claude code",
+      "another 1",
+      "claude code",
+      "claude code",
+      "claude code",
+      "leaking secrets"
+    ],
+    "summary": "# [infoq] Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines to implement \"Don't Ask Again\"."
+  },
+  "6cd8a6bc80e4b60a": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_google-agent-compute-engine_utm_c_f749cab6bd.md",
+    "source": "engineering",
+    "title": "[infoq] Google Announces Agent Compute Engine for Secure AI Agent Execution",
+    "url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "oauth refresh tokens outside",
+      "secure ai agent execution",
+      "secure ai agent execution",
+      "runs ai agents",
+      "resume execution environments",
+      "external agent gateway",
+      "design keeps credentials",
+      "agent sandbox",
+      "required secrets",
+      "renato losio"
+    ],
+    "summary": "# [infoq] Google Announces Agent Compute Engine for Secure AI Agent Execution Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments. The design keeps credentials, API keys, and OAuth refresh tokens outside the agent sandbox, using an external Agent Gateway to authenticate requests and inject the required secrets."
+  },
+  "c5cf35f2cd3da278": {
+    "file": "corpus/hackernews/arxiv_org_abs_2606_14068_48435cfc74.md",
+    "source": "hackernews",
+    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+    "url": "https://arxiv.org/abs/2606.14068",
+    "keywords": [
+      "asymmetric moral framing",
+      "asymmetric moral framing",
+      "evaluating llms",
+      "evaluating llms",
+      "39z score",
+      "source",
+      "news",
+      "male",
+      "male",
+      "harsher"
+    ],
+    "summary": "# Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts > Source: hackernews | Category: news | 2026-11-22T12:04:39Z"
+  },
+  "c27092cabab03fe7": {
+    "file": "corpus/hackernews/betterdatacenterproject_com_2026_11_16_how-ai-is-powered-a-b_8c9d1d1bd7.md",
+    "source": "hackernews",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "keywords": [
+      "anthropic power",
+      "anthropic power",
+      "41z score",
+      "source",
+      "news",
+      "hackernews",
+      "gas",
+      "gas",
+      "comments",
+      "come"
+    ],
+    "summary": "# 87% of the Anthropic power will come from gas and 11% from coal in 2028 > Source: hackernews | Category: news | 2026-11-22T12:04:41Z Score: 182 | Comments: 255"
+  },
+  "ac13aac9a7160fa6": {
+    "file": "corpus/hackernews/www_caranddriver_com_news_a74490092_toyota-nissan-honda-stan_e2495912c5.md",
+    "source": "hackernews",
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "keywords": [
+      "standardize parts",
+      "standardize parts",
+      "lower costs",
+      "lower costs",
+      "39z score",
+      "toyota",
+      "toyota",
+      "source",
+      "nissan",
+      "nissan"
+    ],
+    "summary": "# Toyota, Nissan, and Honda to standardize parts to lower costs > Source: hackernews | Category: news | 2026-11-22T12:04:39Z Score: 599 | Comments: 360"
+  },
+  "c1fb5baabc608943": {
+    "file": "corpus/hackernews/github_com_ThrudTheBarbarian_xc_abd8c97bce.md",
+    "source": "hackernews",
+    "title": "Show HN: Compile the same source for GPUs and CPUs",
+    "url": "https://github.com/ThrudTheBarbarian/xc",
+    "keywords": [
+      "phoronix test suite profiles",
+      "sdk installed ).< p",
+      "-$ deity cool thing",
+      "examples :< p >-",
+      "pi 5 ), macos",
+      "finally got version 1",
+      "code yet ...< p",
+      "standard c &# x2f",
+      "mandelbrot block takes 13",
+      "faster placement .< p"
+    ],
+    "summary": "Comparing xcc to OpenMP for both gcc and clang (with the helping hand of &quot;#pragma omp parallel for&quot; gives (times in ms):<p><pre><code>                 xcc    gcc+omp  clang+omp mandel_deep    371    2170     2231 mandelbrot     2.45   12.2     12.8 md5            9.39   16.1     13.4 md5_mask       8.17   12.1     13.4 nbody          0.45   1.29     9.92 perlin         5.87   4.38     7.05 saxpy          2.26   2.18     2.32 </code></pre> Geometric mean: xcc is 2.1x faster than GCC+Ope"
+  },
+  "e45b6b1c5e3f517b": {
+    "file": "corpus/hackernews/pion_ly_blog_pion-interceptor-webrtc-for-hackers_d21b27c497.md",
+    "source": "hackernews",
+    "title": "Pion Interceptor: WebRTC for Hackers",
+    "url": "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/",
+    "keywords": [
+      "pion interceptor",
+      "pion interceptor",
+      "43z score",
+      "webrtc",
+      "webrtc",
+      "source",
+      "news",
+      "hackers",
+      "hackers",
+      "hackernews"
+    ],
+    "summary": "# Pion Interceptor: WebRTC for Hackers > Source: hackernews | Category: news | 2026-11-22T12:04:43Z Score: 16 | Comments: 1"
+  },
+  "d8c7fb5f03a10f4a": {
+    "file": "corpus/hackernews/phys_org_news_2026-11-tiny-primordial-black-holes_html_3fe8781f53.md",
+    "source": "hackernews",
+    "title": "If tiny 'primordial' black holes exist",
+    "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+    "keywords": [
+      "black holes exist",
+      "black holes exist",
+      "41z score",
+      "tiny",
+      "tiny",
+      "source",
+      "primordial",
+      "primordial",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# If tiny 'primordial' black holes exist > Source: hackernews | Category: news | 2026-11-22T12:04:41Z Score: 39 | Comments: 17"
+  },
+  "dc4176685d55e212": {
+    "file": "corpus/hackernews/github_com_tamnd_riemann-handbook_212b109585.md",
+    "source": "hackernews",
+    "title": "Show HN: The Riemann Proof Handbook",
+    "url": "https://github.com/tamnd/riemann-handbook",
+    "keywords": [
+      "riemann proof handbook",
+      "riemann proof handbook",
+      "show hn",
+      "show hn",
+      "40z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Show HN: The Riemann Proof Handbook > Source: hackernews | Category: news | 2026-11-22T12:04:40Z Score: 59 | Comments: 27"
+  },
+  "d857ec95b79074b7": {
+    "file": "corpus/hackernews/github_com_pithings_unkernel_070d4448eb.md",
+    "source": "hackernews",
+    "title": "A real Linux kernel, compiled to WebAssembly",
+    "url": "https://github.com/pithings/unkernel",
+    "keywords": [
+      "real linux kernel",
+      "real linux kernel",
+      "39z score",
+      "webassembly",
+      "webassembly",
+      "source",
+      "news",
+      "hackernews",
+      "compiled",
+      "compiled"
+    ],
+    "summary": "# A real Linux kernel, compiled to WebAssembly > Source: hackernews | Category: news | 2026-11-22T12:04:39Z Score: 48 | Comments: 10"
+  },
+  "5544d54a3daf0e80": {
+    "file": "corpus/hackernews/www_bridgewater_com_research-and-insights_current-efforts-ar_63369a8a01.md",
+    "source": "hackernews",
+    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+    "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+    "keywords": [
+      "ai cyber virus",
+      "ai cyber virus",
+      "current efforts",
+      "current efforts",
+      "45z score",
+      "source",
+      "slow",
+      "slow",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Current Efforts Aren't Enough to Slow the AI Cyber Virus > Source: hackernews | Category: news | 2026-11-22T12:04:45Z Score: 12 | Comments: 4"
+  },
+  "71c8dbce8cac88d9": {
+    "file": "corpus/hackernews/www_together_ai_blog_security-event-prompt-leakage-for-reque_31dbae397b.md",
+    "source": "hackernews",
+    "title": "Together.ai: Prompt Leakage for Requests",
+    "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+    "keywords": [
+      "prompt leakage",
+      "prompt leakage",
+      "45z score",
+      "together",
+      "together",
+      "source",
+      "requests",
+      "requests",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Together.ai: Prompt Leakage for Requests > Source: hackernews | Category: news | 2026-11-22T12:04:45Z Score: 34 | Comments: 8"
+  },
+  "2cb44962fdcf93f7": {
+    "file": "corpus/hackernews/devsh0_github_io_microarchitecture_intel_computer-architectu_f5c284cc8e.md",
+    "source": "hackernews",
+    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+    "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+    "keywords": [
+      "page prefetcher",
+      "page prefetcher",
+      "42z score",
+      "source",
+      "skylake",
+      "skylake",
+      "reversing",
+      "reversing"
+    ],
+    "summary": "# Reversing the Next-Page Prefetcher in Skylake-X > Source: hackernews | Category: news | 2026-11-22T12:04:42Z Score: 13 | Comments: 0"
+  },
+  "c72367f25ed5e070": {
+    "file": "corpus/hackernews/joinmayberry_com_9a8bf31c7f.md",
+    "source": "hackernews",
+    "title": "Self-hosted library branch over public web OPDS",
+    "url": "https://joinmayberry.com/",
+    "keywords": [
+      "public web opds",
+      "public web opds",
+      "hosted library branch",
+      "hosted library branch",
+      "40z score",
+      "source",
+      "self",
+      "self",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# Self-hosted library branch over public web OPDS > Source: hackernews | Category: news | 2026-11-22T12:04:40Z Score: 13 | Comments: 1"
+  },
+  "2cd9aae09cbf51ae": {
+    "file": "corpus/hackernews/avrea_com_blog_avrea-sandboxes-computers-should-be-forkable_08e10ee9f9.md",
+    "source": "hackernews",
+    "title": "Is 'fork' missing operation in sandboxes?",
+    "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+    "keywords": [
+      "missing operation",
+      "missing operation",
+      "41z score",
+      "source",
+      "sandboxes",
+      "sandboxes",
+      "news",
+      "hackernews",
+      "fork",
+      "fork"
+    ],
+    "summary": "# Is 'fork' missing operation in sandboxes? > Source: hackernews | Category: news | 2026-11-22T12:04:41Z Score: 9 | Comments: 6"
+  },
+  "332c1a9a6d94df42": {
+    "file": "corpus/hackernews/github_com_EL4CTEO_fast-anything_2a3dc20019.md",
+    "source": "hackernews",
+    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "keywords": [
+      "41z score",
+      "source",
+      "slow",
+      "slow",
+      "rust",
+      "rust",
+      "rewrite",
+      "rewrite",
+      "rewrite",
+      "rewrite"
+    ],
+    "summary": "# Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow > Source: hackernews | Category: news | 2026-11-22T12:04:41Z"
+  },
+  "38c3ea896f02cbea": {
+    "file": "corpus/hackernews/www_jacktollenaar_top_articles_split-rc_html_4d51818f60.md",
+    "source": "hackernews",
+    "title": "Split Radiance Cascades",
+    "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+    "keywords": [
+      "split radiance cascades",
+      "split radiance cascades",
+      "42z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "22t12"
+    ],
+    "summary": "# Split Radiance Cascades > Source: hackernews | Category: news | 2026-11-22T12:04:42Z Score: 40 | Comments: 0"
+  },
+  "e796f788d6524f30": {
+    "file": "corpus/hackernews/morethanamachine_com_posts_slinky-escalator-benchmark_c05592b885.md",
+    "source": "hackernews",
+    "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+    "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+    "keywords": [
+      "weirdly good test",
+      "weirdly good test",
+      "llm intelligence",
+      "llm intelligence",
+      "46z score",
+      "source",
+      "slinky",
+      "slinky",
+      "news",
+      "hackernews"
+    ],
+    "summary": "# A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence > Source: hackernews | Category: news | 2026-11-22T12:04:46Z Score: 5 | Comments: 1"
+  },
+  "84df9b4101723af1": {
+    "file": "corpus/hackernews/workbook_bui_app_2a14975858.md",
+    "source": "hackernews",
+    "title": "Reaktiv Workbook – A spreadsheet where every cell is Python",
+    "url": "https://workbook.bui.app/",
+    "keywords": [
+      "reaktiv workbook –",
+      "reaktiv workbook –",
+      "every cell",
+      "every cell",
+      "43z score",
+      "spreadsheet",
+      "spreadsheet",
+      "source",
+      "python",
+      "python"
+    ],
+    "summary": "# Reaktiv Workbook – A spreadsheet where every cell is Python > Source: hackernews | Category: news | 2026-11-22T12:04:43Z Score: 29 | Comments: 6"
+  },
+  "aaed694f593c7038": {
+    "file": "corpus/hackernews/eli_thegreenplace_net_2026_notes-on-the-discrete-fourier-tra_e0e6f46390.md",
+    "source": "hackernews",
+    "title": "Notes on the discrete Fourier transform (DFT)",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "keywords": [
+      "discrete fourier transform",
+      "discrete fourier transform",
+      "40z score",
+      "source",
+      "notes",
+      "notes",
+      "news",
+      "hackernews",
+      "dft",
+      "dft"
+    ],
+    "summary": "# Notes on the discrete Fourier transform (DFT) > Source: hackernews | Category: news | 2026-11-22T12:04:40Z Score: 35 | Comments: 5"
+  },
+  "b607146f91fdee49": {
+    "file": "corpus/devto/dev_to_darshan_turakhia_how-a-local-timezone-cron-skipped-on_9d3eb0cf93.md",
+    "source": "devto",
+    "title": "How a Local-Timezone Cron Skipped One Hour on the Night the Clocks Went Back and Under-Billed 212 Customers",
+    "url": "https://dev.to/darshan_turakhia/how-a-local-timezone-cron-skipped-one-hour-on-the-night-the-clocks-went-back-and-under-billed-212-127g",
+    "keywords": [
+      "hourly usage rollup scheduled",
+      "daylight saving ended",
+      "clocks went back",
+      "clocks went back",
+      "billed 212 customers",
+      "billed 212 customers",
+      "watermark fix",
+      "sixty minutes",
+      "nothing alerted",
+      "never aggregated"
+    ],
+    "summary": "An hourly usage rollup scheduled in America/New_York silently skipped one run when daylight saving ended. Sixty minutes of metered events were never aggregated, and nothing alerted. A reproduction with APScheduler 3.9.1, and the watermark fix."
+  },
+  "d973dafac03b1e71": {
+    "file": "corpus/devto/dev_to_saifuddin_ai-made-us-ten-times-faster-nobody-told-us-_ee9fcaa40c.md",
+    "source": "devto",
+    "title": "AI made us ten times faster. Nobody told us where the customers would come from.",
+    "url": "https://dev.to/saifuddin/ai-made-us-ten-times-faster-nobody-told-us-where-the-customers-would-come-from-108e",
+    "keywords": [
+      "nobody told us",
+      "nobody told us",
+      "customers would come",
+      "customers would come",
+      "ships ...",
+      "one person",
+      "ai writes",
+      "49z everyone",
+      "writing",
+      "watch"
+    ],
+    "summary": "# AI made us ten times faster. Nobody told us where the customers would come from. How AI writes the code while we watch."
+  },
+  "6d662e9d1dc00de2": {
+    "file": "corpus/devto/dev_to_thethirdcup_the-third-cup-five-elements-one-it-compan_423814dd04.md",
+    "source": "devto",
+    "title": "The Third Cup: Five Elements, One IT Company",
+    "url": "https://dev.to/thethirdcup/the-third-cup-five-elements-one-it-company-1bca",
+    "keywords": [
+      "little chinese philosophy",
+      "third cup",
+      "third cup",
+      "five elements",
+      "five elements",
+      "ordinary afternoon",
+      "afternoon",
+      "source",
+      "reactions",
+      "one"
+    ],
+    "summary": "# The Third Cup: Five Elements, One IT Company > Source: devto | Category: news | 2026-11-22T12:04:46Z A Little Chinese Philosophy Over Coffee              An Ordinary Afternoon   The afternoon was..."
+  },
+  "c921d8d875686477": {
+    "file": "corpus/devto/dev_to_manjunani_i-counted-23064-agent-skills-before-writing_15c54cf217.md",
+    "source": "devto",
+    "title": "I counted 23,064 agent skills before writing one. Here is what I built instead.",
+    "url": "https://dev.to/manjunani/i-counted-23064-agent-skills-before-writing-one-here-is-what-i-built-instead-f8j",
+    "keywords": [
+      "49z agent skills",
+      "064 agent skills",
+      "064 agent skills",
+      "coding agent",
+      "writing one",
+      "writing one",
+      "md file",
+      "counted 23",
+      "counted 23",
+      "codex ..."
+    ],
+    "summary": "# I counted 23,064 agent skills before writing one. Here is what I built instead. Agent skills are folders with a SKILL.md file that teach a coding agent, such as Claude Code, Codex..."
+  },
+  "29e66a125b406dcc": {
+    "file": "corpus/devto/dev_to_altradits_how-we-turned-a-personal-repo-into-an-open-_b317ef5f01.md",
+    "source": "devto",
+    "title": "How we turned a personal repo into an open-source Bitcoin community organization (every command we ran)",
+    "url": "https://dev.to/altradits/how-we-turned-a-personal-repo-into-an-open-source-bitcoin-community-organization-every-command-we-3lf5",
+    "keywords": [
+      "free bitcoin education community",
+      "source bitcoin community organization",
+      "source bitcoin community organization",
+      "bitcoin kisumu",
+      "short version",
+      "personal repo",
+      "personal repo",
+      "every command",
+      "every command",
+      "source"
+    ],
+    "summary": "# How we turned a personal repo into an open-source Bitcoin community organization (every command we ran) > Source: devto | Category: news | 2026-11-22T12:04:50Z Bitcoin Kisumu is a free Bitcoin education community in Kisumu, Kenya."
+  },
+  "cb40c43ca2a43f50": {
+    "file": "corpus/devto/dev_to_numbpill3d_badusb-works-because-trust-was-designed-fo_8ca9985f8e.md",
+    "source": "devto",
+    "title": "BadUSB Works Because Trust Was Designed for Convenience, Not Verification",
+    "url": "https://dev.to/numbpill3d/badusb-works-because-trust-was-designed-for-convenience-not-verification-45f4",
+    "keywords": [
+      "plug something ...",
+      "starts typing",
+      "badusb works",
+      "badusb works",
+      "verification",
+      "verification",
+      "trust",
+      "trust",
+      "source",
+      "reactions"
+    ],
+    "summary": "# BadUSB Works Because Trust Was Designed for Convenience, Not Verification Your computer does not ask if the keyboard is lying. It just starts typing."
+  },
+  "c644968aa645cfcb": {
+    "file": "corpus/devto/dev_to_thavarshan_i-got-tired-of-noisy-terminal-output-so-i-_be1b4015c8.md",
+    "source": "devto",
+    "title": "I Got Tired of Noisy Terminal Output, So I Built a Tiny CLI in C++",
+    "url": "https://dev.to/thavarshan/i-got-tired-of-noisy-terminal-output-so-i-built-a-tiny-cli-in-c-21em",
+    "keywords": [
+      "noisy terminal output",
+      "noisy terminal output",
+      "tiny cli",
+      "tiny cli",
+      "one thing",
+      "got tired",
+      "got tired",
+      "different languages",
+      "c ++",
+      "c ++"
+    ],
+    "summary": "# I Got Tired of Noisy Terminal Output, So I Built a Tiny CLI in C++ > Source: devto | Category: news | 2026-11-22T12:04:46Z I've been working with different languages and frameworks for years, and there's one thing that has..."
+  },
+  "cb5cb1129b0c8b1b": {
+    "file": "corpus/devto/dev_to_kaze001_ai-makes-things-up-so-i-built-a-portfolio-tha_afde9ac44c.md",
+    "source": "devto",
+    "title": "AI Makes Things Up. So I Built a Portfolio That Shows Its Receipts.",
+    "url": "https://dev.to/kaze001/ai-makes-things-up-so-i-built-a-portfolio-that-shows-its-receipts-53l5",
+    "keywords": [
+      "ai makes things",
+      "ai makes things",
+      "ai ...",
+      "recent post",
+      "wrote",
+      "work",
+      "source",
+      "shows",
+      "shows",
+      "receipts"
+    ],
+    "summary": "# AI Makes Things Up. So I Built a Portfolio That Shows Its Receipts. In a recent post, I wrote about my AI coworker confidently getting things wrong."
+  },
+  "828d4c1f477623bb": {
+    "file": "corpus/devto/dev_to_nh_thunmai_43818dd956f_browser-use-10-deleted-137000-_57a067e539.md",
+    "source": "devto",
+    "title": "browser-use 1.0 Deleted 137,000 Lines and Got Better: One Python REPL Instead of 24 Browser Actions",
+    "url": "https://dev.to/nh_thunmai_43818dd956f/browser-use-10-deleted-137000-lines-and-got-better-one-python-repl-instead-of-24-browser-actions-lmf",
+    "keywords": [
+      "one python repl instead",
+      "one python repl instead",
+      "counterintuitive release note",
+      "0 deleted 137",
+      "0 deleted 137",
+      "24 browser actions",
+      "24 browser actions",
+      "year starts",
+      "use 1",
+      "use 1"
+    ],
+    "summary": "# browser-use 1.0 Deleted 137,000 Lines and Got Better: One Python REPL Instead of 24 Browser Actions > Source: devto | Category: news | 2026-11-22T12:04:48Z The most counterintuitive release note of the year starts with a number: browser-use 1.0, shipped..."
+  },
+  "3fe69c49f782ce87": {
+    "file": "corpus/devto/dev_to_nirmana11_how-i-built-an-automated-llm-evaluation-har_a196f829ea.md",
+    "source": "devto",
+    "title": "How I Built an Automated LLM Evaluation Harness to Eliminate AI Math Hallucinations on CSVs",
+    "url": "https://dev.to/nirmana11/how-i-built-an-automated-llm-evaluation-harness-to-eliminate-ai-math-hallucinations-on-csvs-4le0",
+    "keywords": [
+      "automated llm evaluation harness",
+      "automated llm evaluation harness",
+      "eliminate ai math hallucinations",
+      "eliminate ai math hallucinations",
+      "ai spreadsheet tools",
+      "two scary ...",
+      "source",
+      "reactions",
+      "problem",
+      "one"
+    ],
+    "summary": "# How I Built an Automated LLM Evaluation Harness to Eliminate AI Math Hallucinations on CSVs > Source: devto | Category: news | 2026-11-22T12:04:48Z The Problem With \"Chat With Your CSV\" Apps   Most AI spreadsheet tools do one of two scary..."
+  },
+  "e3bd439c77d01aeb": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_your-team-ships-faster-every-quarter_1764fd9f65.md",
+    "source": "devto",
+    "title": "Your Team Ships Faster Every Quarter and Understands Its Own Code Less. Nobody's Measuring That.",
+    "url": "https://dev.to/debashish_ghosal/your-team-ships-faster-every-quarter-and-understands-its-own-code-less-nobodys-measuring-that-2j5i",
+    "keywords": [
+      "write .\"...",
+      "confession format",
+      "code less",
+      "code less",
+      "year",
+      "understands",
+      "understands",
+      "took",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Your Team Ships Faster Every Quarter and Understands Its Own Code Less. > Source: devto | Category: news | 2026-11-22T12:04:47Z There's a confession format that took over dev.to this year."
+  },
+  "d2301345a1a17708": {
+    "file": "corpus/devto/dev_to_jacobpark_pyscenedetect-finds-scene-cuts-it-does-not-_da82a8f587.md",
+    "source": "devto",
+    "title": "PySceneDetect Finds Scene Cuts. It Does Not Find Highlights.",
+    "url": "https://dev.to/jacobpark/pyscenedetect-finds-scene-cuts-it-does-not-find-highlights-48ni",
+    "keywords": [
+      "pyscenedetect finds scene cuts",
+      "pyscenedetect finds scene cuts",
+      "worthy moment",
+      "hard cut",
+      "find highlights",
+      "find highlights",
+      "adjacent frames",
+      "source",
+      "reactions",
+      "news"
+    ],
+    "summary": "# PySceneDetect Finds Scene Cuts. It Does Not Find Highlights. > Source: devto | Category: news | 2026-11-22T12:04:48Z"
+  },
+  "753a0a5d65b088e0": {
+    "file": "corpus/devto/dev_to_hoelee_why-your-headless-browser-cant-scrape-everythi_fcd1f8d621.md",
+    "source": "devto",
+    "title": "Why Your Headless Browser Can't Scrape Everything",
+    "url": "https://dev.to/hoelee/why-your-headless-browser-cant-scrape-everything-g1n",
+    "keywords": [
+      "carousell keeps serving data",
+      "48z two second",
+      "scrape everything",
+      "scrape everything",
+      "illegal access",
+      "headless browser",
+      "headless browser",
+      "headless browser",
+      "hand marketplaces",
+      "goofish blocks"
+    ],
+    "summary": "# Why Your Headless Browser Can't Scrape Everything Two second-hand marketplaces, two very different walls: Goofish blocks a headless browser with 'illegal access' while Carousell keeps serving data. The lesson is to read how a page delivers data befor"
+  },
+  "070451696260e02f": {
+    "file": "corpus/devto/dev_to_numbpill3d_nfc-and-rfid-feel-like-magic-because-we-hi_87116d4ccd.md",
+    "source": "devto",
+    "title": "NFC and RFID Feel Like Magic Because We Hid the Protocol From Users",
+    "url": "https://dev.to/numbpill3d/nfc-and-rfid-feel-like-magic-because-we-hid-the-protocol-from-users-co5",
+    "keywords": [
+      "rfid feel like magic",
+      "rfid feel like magic",
+      "nothing visibly happens",
+      "payment clears",
+      "door opens",
+      "users",
+      "users",
+      "tap",
+      "source",
+      "reactions"
+    ],
+    "summary": "# NFC and RFID Feel Like Magic Because We Hid the Protocol From Users > Source: devto | Category: news | 2026-11-22T12:04:46Z Nothing visibly happens in between, and that..."
+  },
+  "18f52a0bd3459749": {
+    "file": "corpus/devto/dev_to_rudratosh_fastapi-vs-nodejs-vs-bun-one-postgresql-set_4e9779c5b6.md",
+    "source": "devto",
+    "title": "FastAPI vs Node.js vs Bun: One PostgreSQL Setting Was Worth Up to 31% (No Runtime Changed)",
+    "url": "https://dev.to/rudratosh/fastapi-vs-nodejs-vs-bun-one-postgresql-setting-was-worth-up-to-31-no-runtime-changed-4b1h",
+    "keywords": [
+      "47z express beat bun",
+      "bun nearly doubled node",
+      "js vs bun",
+      "js vs bun",
+      "fastapi vs node",
+      "fastapi vs node",
+      "one postgresql setting",
+      "one postgresql setting",
+      "one postgresql setting",
+      "one test"
+    ],
+    "summary": "# FastAPI vs Node.js vs Bun: One PostgreSQL Setting Was Worth Up to 31% (No Runtime Changed) Express beat Bun in one test. Bun nearly doubled Node in another."
+  },
+  "3ce4954a8073d46f": {
+    "file": "corpus/devto/dev_to_svipan_why-nfd-normalization-quietly-breaks-icelandic_35e85806c6.md",
+    "source": "devto",
+    "title": "Why NFD normalization quietly breaks Icelandic search",
+    "url": "https://dev.to/svipan/why-nfd-normalization-quietly-breaks-icelandic-search-19ig",
+    "keywords": [
+      "ever built search",
+      "probably reached",
+      "source",
+      "reactions",
+      "news",
+      "language",
+      "diacritics",
+      "devto",
+      "category",
+      "48z"
+    ],
+    "summary": "# Why NFD normalization quietly breaks Icelandic search > Source: devto | Category: news | 2026-11-22T12:04:48Z If you have ever built search for a language with diacritics, you have probably reached for..."
+  },
+  "1258c68ed37b4acd": {
+    "file": "corpus/devto/dev_to_sergey_shinder_ab2d943365_a-partners-new-client-sent-_db1513cd08.md",
+    "source": "devto",
+    "title": "A partner's new client sent sku three times and our Flask endpoint answered for the first one only",
+    "url": "https://dev.to/sergey_shinder_ab2d943365/a-partners-new-client-sent-sku-three-times-and-our-flask-endpoint-answered-for-the-first-one-only-pfl",
+    "keywords": [
+      "marketplace partners call every",
+      "flask endpoint answered",
+      "flask endpoint answered",
+      "one endpoint",
+      "first one",
+      "first one",
+      "stock api",
+      "stock",
+      "source",
+      "reactions"
+    ],
+    "summary": "# A partner's new client sent sku three times and our Flask endpoint answered for the first one only > Source: devto | Category: news | 2026-11-22T12:04:48Z Our stock API has one endpoint that marketplace partners call every few minutes: GET /stock with a..."
+  },
+  "368eb534f148e685": {
+    "file": "corpus/devto/dev_to_blink_c5eb0afe3975_agent-engineer-45-merged-fixes-in-_a73b98fa6a.md",
+    "source": "devto",
+    "title": "Agent engineer, 45+ merged fixes in Nvidia, looking for the next team",
+    "url": "https://dev.to/blink_c5eb0afe3975/agent-engineer-45-merged-fixes-in-nvidia-looking-for-the-next-team-kk8",
+    "keywords": [
+      "ai agent frameworks",
+      "agent engineer",
+      "agent engineer",
+      "next team",
+      "next team",
+      "intel ...",
+      "find bugs",
+      "merged fixes",
+      "merged fixes",
+      "merged"
+    ],
+    "summary": "# Agent engineer, 45+ merged fixes in Nvidia, looking for the next team I find bugs in AI agent frameworks. 93 of my fixes are merged at NVIDIA, Google, Microsoft, Intel..."
+  },
+  "7ba95b8fec675149": {
+    "file": "corpus/devto/dev_to_er_carltz_ad2c0e2e57f54b3_for-61-years-kodak-ran-on-a_dc07c41f13.md",
+    "source": "devto",
+    "title": "For 61 Years, Kodak Ran on a 13-Month Calendar — So I Rebuilt It for 2027 in Vanilla JS",
+    "url": "https://dev.to/er_carltz_ad2c0e2e57f54b3/for-61-years-kodak-ran-on-a-13-month-calendar-so-i-rebuilt-it-for-2027-in-vanilla-js-4ok2",
+    "keywords": [
+      "month calendar —",
+      "month calendar —",
+      "largest industrial companies",
+      "internal payroll ,...",
+      "vanilla js",
+      "vanilla js",
+      "kodak ran",
+      "kodak ran",
+      "earth ran",
+      "61 years"
+    ],
+    "summary": "# For 61 Years, Kodak Ran on a 13-Month Calendar — So I Rebuilt It for 2027 in Vanilla JS > Source: devto | Category: news | 2026-11-22T12:04:48Z Between 1928 and 1989, one of the largest industrial companies on Earth ran its internal payroll,..."
+  },
+  "9757e3c45e50ac5a": {
+    "file": "corpus/devto/dev_to_koda2026_docker-is-powerful-but-do-we-really-need-it-_8c92f7f9f2.md",
+    "source": "devto",
+    "title": "Docker Is Powerful, But Do We Really Need It for Every Development Task? 🐳",
+    "url": "https://dev.to/koda2026/docker-is-powerful-but-do-we-really-need-it-for-every-development-task-2aa6",
+    "keywords": [
+      "every development task",
+      "every development task",
+      "49z let ’",
+      "really need",
+      "really need",
+      "source",
+      "revolutionized",
+      "reactions"
+    ],
+    "summary": "# Docker Is Powerful, But Do We Really Need It for Every Development Task? > Source: devto | Category: news | 2026-11-22T12:04:49Z Let’s get one thing straight right out of the gate: Docker is a masterpiece."
+  },
+  "0623b147a987ef13": {
+    "file": "corpus/devto/dev_to_ayush_singh_9b0d83152be5b_i-made-my-rag-safer-it-got-_06fc109393.md",
+    "source": "devto",
+    "title": "I Made My RAG Safer. It Got Worse Under Load",
+    "url": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm",
+    "keywords": [
+      "unverified rag",
+      "rag safer",
+      "rag safer",
+      "got worse",
+      "got worse",
+      "47z rag",
+      "source",
+      "reactions",
+      "news",
+      "made"
+    ],
+    "summary": "# I Made My RAG Safer. It Got Worse Under Load Here's what checking every sentence actually cost me on..."
+  },
+  "7b588869469310cd": {
+    "file": "corpus/devto/dev_to_jpietrus_my-ai-agent-says-done-is-it-though-32m6_9306ebf0f7.md",
+    "source": "devto",
+    "title": "My AI agent says 'done'. Is it, though?",
+    "url": "https://dev.to/jpietrus/my-ai-agent-says-done-is-it-though-32m6",
+    "keywords": [
+      "real users touch",
+      "ai agents look",
+      "ai agent says",
+      "ai agent says",
+      "done '.",
+      "done \".",
+      "though",
+      "though",
+      "strangely",
+      "source"
+    ],
+    "summary": "# My AI agent says \"done\". > Source: devto | Category: news | 2026-11-22T12:04:49Z Why do AI agents look so good in a demo and then behave so strangely once real users touch them?"
+  },
+  "f20e3b7d02496218": {
+    "file": "corpus/devto/dev_to_abudantsov_moving-postgres-in-docker-to-19-the-parts-_93d2bbee0b.md",
+    "source": "devto",
+    "title": "Moving Postgres in Docker to 19: the parts that break",
+    "url": "https://dev.to/abudantsov/moving-postgres-in-docker-to-19-the-parts-that-break-9cb",
+    "keywords": [
+      "49z postgresql 19 came",
+      "actual error output",
+      "moving docker setups",
+      "moving postgres",
+      "moving postgres",
+      "november 19",
+      "docker",
+      "docker"
+    ],
+    "summary": "# Moving Postgres in Docker to 19: the parts that break PostgreSQL 19 came out on November 19. What I ran into moving Docker setups to it, with the actual error output and the commands I used."
+  },
+  "5c8669dd05cd2e3a": {
+    "file": "corpus/devto/dev_to_sergey_shinder_ab2d943365_we-added-one-condition-to-o_7ad53fd36d.md",
+    "source": "devto",
+    "title": "We added one condition to our release notes step and every push to every branch emailed forty partners",
+    "url": "https://dev.to/sergey_shinder_ab2d943365/we-added-one-condition-to-our-release-notes-step-and-every-push-to-every-branch-emailed-forty-5bi1",
+    "keywords": [
+      "added one condition",
+      "added one condition",
+      "release notes step",
+      "release notes step",
+      "integration platform",
+      "forty partners",
+      "every push",
+      "every push",
+      "email whenever",
+      "release"
+    ],
+    "summary": "# We added one condition to our release notes step and every push to every branch emailed forty partners > Source: devto | Category: news | 2026-11-22T12:04:49Z Our integration platform has forty partners who receive an email whenever we tag a release, with the..."
+  },
+  "0909b1db7be910bc": {
+    "file": "corpus/devto/dev_to_chintanonweb_i-built-a-breath-hold-trainer-that-does-_a2198eff86.md",
+    "source": "devto",
+    "title": "I built a breath-hold trainer that does not trust the stopwatch",
+    "url": "https://dev.to/chintanonweb/i-built-a-breath-hold-trainer-that-does-not-trust-the-stopwatch-4236",
+    "keywords": [
+      "presage smartspectra sdk challenge",
+      "built dry static ...",
+      "hold trainer",
+      "hold trainer",
+      "built",
+      "built",
+      "trust",
+      "trust",
+      "submission",
+      "stopwatch"
+    ],
+    "summary": "# I built a breath-hold trainer that does not trust the stopwatch > Source: devto | Category: news | 2026-11-22T12:04:46Z This is a submission for the Presage SmartSpectra SDK Challenge           What I Built   DRY STATIC..."
+  },
+  "d9683e57250b98f9": {
+    "file": "corpus/devto/dev_to_salemevb_prioritization-frameworks-are-performance-ar_6aa22cf38d.md",
+    "source": "devto",
+    "title": "Prioritization Frameworks Are Performance Art. Started Building What People Scream For",
+    "url": "https://dev.to/salemevb/prioritization-frameworks-are-performance-art-started-building-what-people-scream-for-48al",
+    "keywords": [
+      "committing product management dissent",
+      "started building",
+      "started building",
+      "prioritization frameworks",
+      "prioritization frameworks",
+      "prioritization frameworks",
+      "performance art",
+      "performance art",
+      "people scream",
+      "people scream"
+    ],
+    "summary": "# Prioritization Frameworks Are Performance Art. Started Building What People Scream For I will start by committing product management dissent: Most prioritization frameworks are..."
+  },
+  "c3c10e4ad12516c2": {
+    "file": "corpus/devto/dev_to_ndcodes_day-90-a-mask-in-the-way-and-a-policy-pointin_d28be7153e.md",
+    "source": "devto",
+    "title": "Day 90: A Mask in the Way and a Policy Pointing at Nothing",
+    "url": "https://dev.to/ndcodes/day-90-a-mask-in-the-way-and-a-policy-pointing-at-nothing-390o",
+    "keywords": [
+      "reads back ...",
+      "49z day 90",
+      "day 90",
+      "day 90",
+      "day 40",
+      "tasks today",
+      "policy pointing",
+      "policy pointing",
+      "way",
+      "way"
+    ],
+    "summary": "# Day 90: A Mask in the Way and a Policy Pointing at Nothing > Source: devto | Category: news | 2026-11-22T12:04:49Z Both tasks today were about a permission that exists, reads back..."
+  },
+  "9445f9c5e8e31625": {
+    "file": "corpus/devto/dev_to_jacksonkasi_can-you-send-me-the-staging-password-agai_9bbcd80278.md",
+    "source": "devto",
+    "title": "“Can you send me the staging password again?” Why I built Global Login",
+    "url": "https://dev.to/jacksonkasi/can-you-send-me-the-staging-password-again-why-i-built-global-login-869",
+    "keywords": [
+      "kept sharing passwords internally",
+      "built global login",
+      "built global login",
+      "us sent",
+      "staging password",
+      "staging password",
+      "someone needed",
+      "test"
+    ],
+    "summary": "# “Can you send me the staging password again?” Why I built Global Login Someone needed to test a project, so one of us sent them the..."
+  },
+  "02eeb2c17e042928": {
+    "file": "corpus/devto/dev_to_remdore_notes-on-making-an-ai-agent-ask-before-it-pus_da2ce4c1f5.md",
+    "source": "devto",
+    "title": "Notes on making an AI agent ask before it pushes",
+    "url": "https://dev.to/remdore/notes-on-making-an-ai-agent-ask-before-it-pushes-2lf7",
+    "keywords": [
+      "ai coding agent",
+      "ai agent ask",
+      "ai agent ask",
+      "sandbox :...",
+      "anything left",
+      "work",
+      "wanted",
+      "stop",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Notes on making an AI agent ask before it pushes > Source: devto | Category: news | 2026-11-22T12:04:47Z I wanted an AI coding agent to do the work by itself and stop only before anything left its sandbox:..."
+  },
+  "e9d1534ac27198a9": {
+    "file": "corpus/devto/dev_to_dev_kiran_local-ai-code-review-before-a-pr-tools-that_4657581fcb.md",
+    "source": "devto",
+    "title": "Local AI Code Review Before a PR: Tools That Catch Bugs Before You Push",
+    "url": "https://dev.to/dev_kiran/local-ai-code-review-before-a-pr-tools-that-catch-bugs-before-you-push-b8e",
+    "keywords": [
+      "local ai code review",
+      "local ai code review",
+      "46z hello devs 👋",
+      "situation many developers",
+      "finished implementing",
+      "catch bugs",
+      "catch bugs",
+      "tools",
+      "tools",
+      "source"
+    ],
+    "summary": "# Local AI Code Review Before a PR: Tools That Catch Bugs Before You Push > Source: devto | Category: news | 2026-11-22T12:04:46Z Hello Devs 👋  Here's a situation many developers will recognize."
+  },
+  "d00cc1748fc5be1f": {
+    "file": "corpus/devto/dev_to_sora_uzu_my-ai-skips-written-rules-so-i-turned-one-in_e3b5b7f7a0.md",
+    "source": "devto",
+    "title": "My AI Skips Written Rules, So I Turned One Into a Check: A Write-Time Guard Hook",
+    "url": "https://dev.to/sora_uzu/my-ai-skips-written-rules-so-i-turned-one-into-a-check-a-write-time-guard-hook-38ml",
+    "keywords": [
+      "ai skips written rules",
+      "ai skips written rules",
+      "dr rules written",
+      "time guard hook",
+      "time guard hook",
+      "bad day ....",
+      "turned one",
+      "turned one",
+      "get skipped",
+      "48z tl"
+    ],
+    "summary": "# My AI Skips Written Rules, So I Turned One Into a Check: A Write-Time Guard Hook > Source: devto | Category: news | 2026-11-22T12:04:48Z TL;DR   Rules written as text (AGENTS.md and the like) get skipped by the AI on a bad day...."
+  },
+  "ebc38af5d77c1e9e": {
+    "file": "corpus/devto/dev_to_alexgeorgiev17_how-long-it-actually-takes-a-gpgme-fix_ec2d46bd96.md",
+    "source": "devto",
+    "title": "How long it actually takes a GPGME fix to reach Ubuntu",
+    "url": "https://dev.to/alexgeorgiev17/how-long-it-actually-takes-a-gpgme-fix-to-reach-ubuntu-30go",
+    "keywords": [
+      "49z debian shipped",
+      "ubuntu 24",
+      "two days",
+      "reach ubuntu",
+      "reach ubuntu",
+      "gpgme double",
+      "actually takes",
+      "actually takes",
+      "gpgme fix",
+      "gpgme fix"
+    ],
+    "summary": "# How long it actually takes a GPGME fix to reach Ubuntu Debian shipped a fix for this week's GPGME double-free (CVE-2026-129975) the same day it was disclosed. Two days on, Ubuntu 24.04 still hasn't."
+  },
+  "9e8434c9a1cee3cc": {
+    "file": "corpus/devto/dev_to_marcusbeauregard_the-dev-environment-space-reorganise_021c6c38d7.md",
+    "source": "devto",
+    "title": "The dev environment space reorganised around agents, and nobody updated the map",
+    "url": "https://dev.to/marcusbeauregard/the-dev-environment-space-reorganised-around-agents-and-nobody-updated-the-map-4cni",
+    "keywords": [
+      "product tour anymore",
+      "read twice",
+      "nobody updated",
+      "nobody updated",
+      "new ...",
+      "49z gitpod",
+      "source",
+      "reactions",
+      "open",
+      "open"
+    ],
+    "summary": "# The dev environment space reorganised around agents, and nobody updated the map Gitpod's docs don't open with a product tour anymore. They open with a line I had to read twice: new..."
+  },
+  "814572ed886d7e58": {
+    "file": "corpus/devto/dev_to_altrouter_a-10-email-thread-holds-487-tokens-of-actua_f17ced3f02.md",
+    "source": "devto",
+    "title": "A 10-email thread holds 487 tokens of actual text. With quoted replies the model reads 5,068.",
+    "url": "https://dev.to/altrouter/a-10-email-thread-holds-487-tokens-of-actual-text-with-quoted-replies-the-model-reads-5068-40f",
+    "keywords": [
+      "one regular expression strips",
+      "50z mail clients quote",
+      "summarizer pays 3",
+      "model reads 5",
+      "model reads 5",
+      "whole previous message",
+      "thread stored message",
+      "model reads 10",
+      "message thread",
+      "quoted replies"
+    ],
+    "summary": "# A 10-email thread holds 487 tokens of actual text. In a 10-message thread the model reads 10.4x the text that was actually written, and a summarizer pays 3.7x for it. One regular expression strips the repeats."
+  },
+  "59e954b7a4e9d608": {
+    "file": "corpus/devto/dev_to_eunice-js_you-dial-a-ussd-code-how-does-your-bank-rec_da750caabf.md",
+    "source": "devto",
+    "title": "You Dial a USSD Code. How Does Your Bank Receive It Without Internet?",
+    "url": "https://dev.to/eunice-js/you-dial-a-ussd-code-how-does-your-bank-receive-it-without-internet-16k5",
+    "keywords": [
+      "without internet",
+      "without internet",
+      "ussd gateways",
+      "ussd code",
+      "ussd code",
+      "telecommunications networks",
+      "ss7 signalling",
+      "banking apis",
+      "bank receive",
+      "bank receive"
+    ],
+    "summary": "# You Dial a USSD Code. How Does Your Bank Receive It Without Internet? Inside the telecommunications networks, SS7 signalling, USSD gateways, aggregators, banking APIs and..."
+  },
+  "e59f2101f379800b": {
+    "file": "corpus/devto/dev_to_ghorbelhamdi_i-let-coding-agents-use-my-android-phone_83882919bc.md",
+    "source": "devto",
+    "title": "I let coding agents use my Android phone, then made one run on the phone's NPU",
+    "url": "https://dev.to/ghorbelhamdi/i-let-coding-agents-use-my-android-phone-then-made-one-run-on-the-phones-npu-45c2",
+    "keywords": [
+      "let coding agents use",
+      "let coding agents use",
+      "made one run",
+      "made one run",
+      "last six weeks",
+      "source android app",
+      "building buddy",
+      "agent ...",
+      "android phone",
+      "android phone"
+    ],
+    "summary": "# I let coding agents use my Android phone, then made one run on the phone's NPU > Source: devto | Category: news | 2026-11-22T12:04:50Z For the last six weeks I've been building Buddy, an open-source Android app where you tell an agent..."
+  },
+  "f1b7ded4cd1462d6": {
+    "file": "corpus/devto/dev_to_stackcollider_sewing-patterns-without-writing-code-wh_6efed2d35f.md",
+    "source": "devto",
+    "title": "Sewing Patterns Without Writing Code: When Forty Years of Experience Meet Claude",
+    "url": "https://dev.to/stackcollider/sewing-patterns-without-writing-code-when-forty-years-of-experience-meet-claude-gf5",
+    "keywords": [
+      "experience meet claude",
+      "experience meet claude",
+      "asked claude",
+      "year ago",
+      "two ....",
+      "forty years",
+      "forty years",
+      "wrote",
+      "thing",
+      "source"
+    ],
+    "summary": "# Sewing Patterns Without Writing Code: When Forty Years of Experience Meet Claude A year ago I wrote the code myself and asked Claude to review it. Sometimes to fix a thing or two...."
+  },
+  "f738f58efa7e7613": {
+    "file": "corpus/devto/dev_to_sarthak_p07_systole-your-heartbeat-is-the-drum-machin_6fa111fba2.md",
+    "source": "devto",
+    "title": "Systole - your heartbeat is the drum machine",
+    "url": "https://dev.to/sarthak_p07/systole-your-heartbeat-is-the-drum-machine-4i74",
+    "keywords": [
+      "presage smartspectra sdk challenge",
+      "musical ...",
+      "drum machine",
+      "drum machine",
+      "built systole",
+      "systole",
+      "systole",
+      "submission",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Systole - your heartbeat is the drum machine > Source: devto | Category: news | 2026-11-22T12:04:48Z This is a submission for the Presage SmartSpectra SDK Challenge What I Built Systole is a musical..."
+  },
+  "cf36e07ad3beb743": {
+    "file": "corpus/devto/dev_to_askbenny_why-cant-a-review-bot-review-my-20k-line-prs_c273efa9c4.md",
+    "source": "devto",
+    "title": "Why can't a review bot review my 20k-line PRs?",
+    "url": "https://dev.to/askbenny/why-cant-a-review-bot-review-my-20k-line-prs-5h0n",
+    "keywords": [
+      "stopped writing code",
+      "review bot review",
+      "review bot review",
+      "four things inference",
+      "line prs",
+      "line prs",
+      "hand early",
+      "49z introducing",
+      "source",
+      "see"
+    ],
+    "summary": "> Source: devto | Category: news | 2026-11-22T12:04:49Z Introducing: the four things inference can't see. I stopped writing code by hand early this..."
+  },
+  "e538deb6772775fa": {
+    "file": "corpus/devto/dev_to_satyaki_saha_367d015583da_a-missing-timeout-a-synchro_8d61f44835.md",
+    "source": "devto",
+    "title": "A Missing Timeout, a Synchronised Block, and 205 Stuck Threads",
+    "url": "https://dev.to/satyaki_saha_367d015583da/a-missing-timeout-a-synchronised-block-and-205-stuck-threads-1m93",
+    "keywords": [
+      "205 stuck threads",
+      "205 stuck threads",
+      "synchronised block",
+      "synchronised block",
+      "missing timeout",
+      "missing timeout",
+      "every call",
+      "days ago",
+      "source",
+      "reactions"
+    ],
+    "summary": "# A Missing Timeout, a Synchronised Block, and 205 Stuck Threads > Source: devto | Category: news | 2026-11-22T12:04:49Z A few days ago our highest-traffic service started returning 504s on every call."
+  },
+  "2479c5c155f0ac2f": {
+    "file": "corpus/devto/dev_to_aheadkit_pre-fill-your-skipped-slots-just-dont-believ_40618016ac.md",
+    "source": "devto",
+    "title": "Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.",
+    "url": "https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm",
+    "keywords": [
+      "task 4 threw",
+      "48z 271 milliseconds",
+      "skipped slots",
+      "skipped slots",
+      "batch lived",
+      "source",
+      "say",
+      "say",
+      "reactions",
+      "pre"
+    ],
+    "summary": "# Pre-Fill Your Skipped Slots. Just Don't Believe What They Say. That is how long my batch lived before task 4 threw, and it is the only number in..."
+  },
+  "33df0332818abb6e": {
+    "file": "corpus/devto/dev_to_bennialencar_zero-trust-pretooluse-governance-securin_01cde9d607.md",
+    "source": "devto",
+    "title": "Zero-Trust PreToolUse Governance: Securing Autonomous Coding Agents Without Killing Developer Velocity",
+    "url": "https://dev.to/bennialencar/zero-trust-pretooluse-governance-securing-autonomous-coding-agents-without-killing-developer-27hk",
+    "keywords": [
+      "trust pretooluse governance",
+      "trust pretooluse governance",
+      "sovereign enforces sub",
+      "blanket -- dangerously",
+      "false dichotomy",
+      "zero",
+      "zero",
+      "write",
+      "webfetch",
+      "source"
+    ],
+    "summary": "# Zero-Trust PreToolUse Governance: Securing Autonomous Coding Agents Without Killing Developer Velocity > Source: devto | Category: news | 2026-11-22T12:04:50Z Why blanket --dangerously-skip-permissions vs nagging manual permission prompts is a false dichotomy, and how Benni-OS/claude-code-sovereign enforces sub-millisecond deterministic PreToolUse governance across Bash, Write, Edit, and WebFetch."
+  },
+  "5b303e9e390c5018": {
+    "file": "corpus/security/thehackernews_com_2026_11_openrouter-drops-3-providers-after_6d087c8989.md",
+    "source": "security",
+    "title": "[hacker-news-sec] OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "keywords": [
+      "openrouter drops 3 providers",
+      "openrouter drops 3 providers",
+      "zero data retention",
+      "ai hosting firms",
+      "ai hosting firms",
+      "researchers catch months",
+      "researchers catch months",
+      "researchers catch months",
+      "researchers told",
+      "ai requests"
+    ],
+    "summary": "# [hacker-news-sec] OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week."
+  },
+  "20e61f00414ab1e4": {
+    "file": "corpus/security/thehackernews_com_2026_11_researchers-demonstrate-ghostscrip_a3c63e958c.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "keywords": [
+      "many linux servers use",
+      "researchers demonstrate ghostscript sandbox",
+      "researchers demonstrate ghostscript sandbox",
+      "convert uploaded pdfs",
+      "security firm pwn",
+      "security sandbox",
+      "ghostscript allows",
+      "run commands",
+      "postscript files",
+      "popular apps"
+    ],
+    "summary": "# [hacker-news-sec] Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly."
+  },
+  "dd8e00b088d3d808": {
+    "file": "corpus/sales/www_saastr_com_dear-saastr-what-are-your-biggest-regrets-whe_d207fb83c4.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr: What Are Your Biggest Regrets When Starting a Company? Culture, Scaling, Hiring, Marketing, Etc.",
+    "url": "https://www.saastr.com/dear-saastr-what-are-your-biggest-regrets-when-starting-a-company-culture-scaling-hiring-marketing-etc/",
+    "keywords": [
+      "top 10 mistakes",
+      "pretty solid success",
+      "... continue reading",
+      "18 months starting",
+      "41z dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "true regrets",
+      "still ended",
+      "first 12"
+    ],
+    "summary": "Dear SaaStr: What Are Your Biggest Regrets When Starting a Company? But let me list the Top 10 mistakes I made in the first 12-18 months starting a B2B company that still ended up being a pretty solid success: Launching Too Early. This paid off with press, PR, etc."
   }
 }
