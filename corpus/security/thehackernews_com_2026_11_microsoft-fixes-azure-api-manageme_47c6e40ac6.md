@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets"
+url: "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-24T15:02:05Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets
+
+> Source: security | Category: security | 2026-11-24T15:02:05Z
+
+Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets
+
+Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.
+
+"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM," NSM said. "It is still uncertain how

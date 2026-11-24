@@ -1,0 +1,20 @@
+---
+title: "[hacker-news-sec] Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity"
+url: "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-24T15:02:05Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity
+
+> Source: security | Category: security | 2026-11-24T15:02:05Z
+
+Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity
+
+A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.
+
+The same loading behavior bypassed Oracle VirtualBox's process hardening on Windows hosts, tracked as CVE-2026-87268, and Windows code integrity, tracked
