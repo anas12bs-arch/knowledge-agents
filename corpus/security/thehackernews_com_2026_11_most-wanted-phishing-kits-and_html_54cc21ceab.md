@@ -1,0 +1,22 @@
+---
+title: "[hacker-news-sec] Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls"
+url: "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html"
+source: "security"
+category: "security"
+tags: ["security", "cybersecurity", "infosec", "hacker-news-sec"]
+date: "2026-11-26T18:25:05Z"
+metadata:
+  {}
+---
+
+# [hacker-news-sec] Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls
+
+> Source: security | Category: security | 2026-11-26T18:25:05Z
+
+Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls
+
+Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.
+
+At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user.
+
+How an
