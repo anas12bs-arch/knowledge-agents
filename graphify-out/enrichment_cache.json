@@ -934803,5 +934803,1019 @@
       "2 astra"
     ],
     "summary": "# [bleeping-comp] OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before."
+  },
+  "70d754efef08864a": {
+    "file": "corpus/engineering/www_infoq_com_articles_engineering-reliable-smartphone-senso_3d490fee61.md",
+    "source": "engineering",
+    "title": "[infoq] Article: Engineering Reliable Telematics from Smartphone Sensors",
+    "url": "https://www.infoq.com/articles/engineering-reliable-smartphone-sensor-telematics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "praveen kumar gopalakrishnan",
+      "device placement varies",
+      "engineering reliable telematics",
+      "engineering reliable telematics",
+      "engineering reliable telematics",
+      "single device",
+      "stage architecture",
+      "smartphone sensors",
+      "smartphone sensors",
+      "sampling behavior"
+    ],
+    "summary": "Smartphones make telematics more accessible by combining location, motion sensors, computing power, and connectivity in a single device. But the convenience comes with a trade-off: device placement varies, sampling behavior is managed by the mobile platform, and measurements have different timing and coordinate semantics. This article explores a six-stage architecture to address these challenges."
+  },
+  "507ef89da6881267": {
+    "file": "corpus/engineering/www_infoq_com_news_2026_11_mozilla-mistral-ai-smart-window_u_7096794d50.md",
+    "source": "engineering",
+    "title": "[infoq] Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+    "url": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "keywords": [
+      "choose among several models",
+      "smart window ai assistant",
+      "offer mistral small 4",
+      "firefox smart window mozilla",
+      "firefox smart window",
+      "firefox smart window",
+      "zero data retention",
+      "weight ai models",
+      "weight ai models",
+      "weight ai models"
+    ],
+    "summary": "Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta. It is recommended for users in France, the US and Canada. Users can choose among several models, and Mistral agreed to zero data retention."
+  },
+  "4a95bdbe3e276c07": {
+    "file": "corpus/design/veszelovszki_com_a_tpe_4041924508.md",
+    "source": "design",
+    "title": "[sidebar-io] I’m a 100x engineer now",
+    "url": "https://veszelovszki.com/a/tpe/",
+    "keywords": [
+      "extremely enthusiastic",
+      "entire workflow",
+      "100x faster",
+      "100x engineer",
+      "100x engineer",
+      "100x engineer",
+      "source"
+    ],
+    "summary": "# [sidebar-io] I’m a 100x engineer now I’m a 100x engineer now Extremely enthusiastic and about 100x faster with AI."
+  },
+  "83ed0a9cf37471d9": {
+    "file": "corpus/design/dbushell_com_2026_11_25_web-industry_96de3f55c7.md",
+    "source": "design",
+    "title": "[sidebar-io] The year the web industry gave up",
+    "url": "https://dbushell.com/2026/11/25/web-industry/",
+    "keywords": [
+      "web industry gave",
+      "web industry gave",
+      "web industry gave",
+      "web industry",
+      "year",
+      "year",
+      "year",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] The year the web industry gave up The year the web industry gave up The one where I lament what the web industry once was."
+  },
+  "4a88e63245b7d1a4": {
+    "file": "corpus/design/christianoliff_com_blog_design-md-vs-code-extension_66a96054ce.md",
+    "source": "design",
+    "title": "[sidebar-io] Design.md VS Code Extension",
+    "url": "https://christianoliff.com/blog/design-md-vs-code-extension/",
+    "keywords": [
+      "md vs code extension",
+      "md vs code extension",
+      "md vs code extension",
+      "md design system files",
+      "vs code extension",
+      "rich preview",
+      "adds linting",
+      "54z design",
+      "design",
+      "design"
+    ],
+    "summary": "# [sidebar-io] Design.md VS Code Extension Design.md VS Code Extension A VS Code extension that adds linting, autocomplete and a rich preview for design.md design system files."
+  },
+  "eb92f281347d1451": {
+    "file": "corpus/design/mouthprint_com_e_worn-into-shape_e52002ba27.md",
+    "source": "design",
+    "title": "[sidebar-io] Worn into shape",
+    "url": "https://mouthprint.com/e/worn-into-shape",
+    "keywords": [
+      "pebble acquires",
+      "objects gathered",
+      "54z worn",
+      "worn",
+      "worn",
+      "water",
+      "stones",
+      "source",
+      "sidebar",
+      "sidebar"
+    ],
+    "summary": "# [sidebar-io] Worn into shape A pebble acquires its shape through contact: with water, with grit, with other stones. The objects gathered here bring that same shape."
+  },
+  "5d5b836a536ea3a1": {
+    "file": "corpus/design/uxdesign_cc_the-judge-used-to-be-the-user-0a958f24bb32_sk_e8_8c9fa4a1db.md",
+    "source": "design",
+    "title": "[sidebar-io] The judge used to be the user",
+    "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?sk=e8c664d3852c69ce41f28a0f997a2a71",
+    "keywords": [
+      "defined correct went",
+      "user ai collapsed",
+      "slow middle",
+      "judge used",
+      "judge used",
+      "judge used",
+      "building models",
+      "user",
+      "user",
+      "source"
+    ],
+    "summary": "# [sidebar-io] The judge used to be the user AI collapsed the slow middle of building models. The people who once defined correct went with it."
+  },
+  "c3bd471280a4da88": {
+    "file": "corpus/hackernews/open-web-advocacy_org_es_blog_commission-responds-declares-b_a4143152a7.md",
+    "source": "hackernews",
+    "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+    "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+    "keywords": [
+      "digital markets act priority",
+      "digital markets act priority",
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "27t10"
+    ],
+    "summary": "# European Commission Declares Browser Competition a Digital Markets Act Priority > Source: hackernews | Category: news | 2026-11-27T10:11:54Z Score: 29 | Comments: 11"
+  },
+  "e0f59348eda46742": {
+    "file": "corpus/hackernews/twitter_com_RealAstropulse_status_2126119408997466389_b645d71050.md",
+    "source": "hackernews",
+    "title": "Claude sabotaging SOTA ML research tasks",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "keywords": [
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "27t10",
+      "2026"
+    ],
+    "summary": "# Claude sabotaging SOTA ML research tasks > Source: hackernews | Category: news | 2026-11-27T10:11:53Z Score: 69 | Comments: 32"
+  },
+  "be86d87f19bda459": {
+    "file": "corpus/hackernews/blainehansen_me_post_mainstream-verifiable-language_93330014f9.md",
+    "source": "hackernews",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "keywords": [
+      "53z score",
+      "source",
+      "news",
+      "need",
+      "need",
+      "hackernews",
+      "comments",
+      "category",
+      "27t10",
+      "2026"
+    ],
+    "summary": "# The need for a formally verifiable mainstream programming language > Source: hackernews | Category: news | 2026-11-27T10:11:53Z Score: 154 | Comments: 128"
+  },
+  "d09ccd999124a409": {
+    "file": "corpus/hackernews/www_theregister_com_software_2026_11_26_indie-web-browser-la_c1f75257c9.md",
+    "source": "hackernews",
+    "title": "Indie web browser Ladybird enters alpha testing",
+    "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+    "keywords": [
+      "57z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "27t10",
+      "2026"
+    ],
+    "summary": "# Indie web browser Ladybird enters alpha testing > Source: hackernews | Category: news | 2026-11-27T10:11:57Z Score: 9 | Comments: 1"
+  },
+  "5f4244585ca45e59": {
+    "file": "corpus/hackernews/blog_ktz_me_black-friday-hard-drive-prices-are-messed-up_cc032371e2.md",
+    "source": "hackernews",
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "keywords": [
+      "hard drive pricing",
+      "hard drive pricing",
+      "gotten bad",
+      "gotten bad",
+      "53z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# Hard Drive pricing has gotten bad > Source: hackernews | Category: news | 2026-11-27T10:11:53Z Score: 353 | Comments: 259"
+  },
+  "b2195565cde30ba9": {
+    "file": "corpus/hackernews/daily_jstor_org_the-cutthroat-business-of-shipwrecks_1a8b39c96d.md",
+    "source": "hackernews",
+    "title": "The Cutthroat Business of Shipwrecks",
+    "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+    "keywords": [
+      "cutthroat business",
+      "cutthroat business",
+      "55z score",
+      "source",
+      "shipwrecks",
+      "shipwrecks",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The Cutthroat Business of Shipwrecks > Source: hackernews | Category: news | 2026-11-27T10:11:55Z Score: 26 | Comments: 5"
+  },
+  "8632c107f9d86849": {
+    "file": "corpus/hackernews/support_google_com_googleplay_android-developer_answer_17594_f3833a366d.md",
+    "source": "hackernews",
+    "title": "Google will show solo Android developers' phone numbers and addresses",
+    "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+    "keywords": [
+      "show solo android developers",
+      "show solo android developers",
+      "phone numbers",
+      "phone numbers",
+      "59z score",
+      "source",
+      "news",
+      "hackernews",
+      "google",
+      "google"
+    ],
+    "summary": "# Google will show solo Android developers' phone numbers and addresses > Source: hackernews | Category: news | 2026-11-27T10:11:59Z Score: 145 | Comments: 78"
+  },
+  "d117f1e942cd8270": {
+    "file": "corpus/hackernews/herecomesthemoon_net_2026_11_whats-claudes-fursona_20d57cb5d6.md",
+    "source": "hackernews",
+    "title": "What's Claude's Fursona?' and Other Questions",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "keywords": [
+      "fursona ?'",
+      "fursona ?\"",
+      "57z score",
+      "source",
+      "questions",
+      "questions",
+      "news",
+      "hackernews",
+      "comments",
+      "claude"
+    ],
+    "summary": "# \"What's Claude's Fursona?\" and Other Questions > Source: hackernews | Category: news | 2026-11-27T10:11:57Z"
+  },
+  "4d5cae5809323e54": {
+    "file": "corpus/hackernews/www_buynothingday_co_uk_a39f7e1d78.md",
+    "source": "hackernews",
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "url": "https://www.buynothingday.co.uk/",
+    "keywords": [
+      "54z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category",
+      "27t10",
+      "2026"
+    ],
+    "summary": "# Buy Nothing Day – Friday November 27th 2026 > Source: hackernews | Category: news | 2026-11-27T10:11:54Z Score: 81 | Comments: 15"
+  },
+  "ddd44890854a7e84": {
+    "file": "corpus/hackernews/construct22_com_a8f643349b.md",
+    "source": "hackernews",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "keywords": [
+      "ai talks behind",
+      "ai talks behind",
+      "group chat",
+      "group chat",
+      "52z score",
+      "source",
+      "news",
+      "hackernews",
+      "comments",
+      "category"
+    ],
+    "summary": "# The group chat where your AI talks behind your back > Source: hackernews | Category: news | 2026-11-27T10:11:52Z Score: 240 | Comments: 105"
+  },
+  "858b95bfee95892f": {
+    "file": "corpus/devto/dev_to_voxipaw_drawing-voxel-pets-on-a-plain-2d-canvas-no-we_072461b411.md",
+    "source": "devto",
+    "title": "Drawing voxel pets on a plain 2D canvas (no WebGL, no three.js)",
+    "url": "https://dev.to/voxipaw/drawing-voxel-pets-on-a-plain-2d-canvas-no-webgl-no-threejs-3ba6",
+    "keywords": [
+      "plain 2d canvas",
+      "plain 2d canvas",
+      "drawing voxel pets",
+      "drawing voxel pets",
+      "cute voxel pets",
+      "stay smooth",
+      "focus timer",
+      "cheap ...",
+      "wanted chunky",
+      "wanted"
+    ],
+    "summary": "# Drawing voxel pets on a plain 2D canvas (no WebGL, no three.js) > Source: devto | Category: news | 2026-11-27T10:12:02Z I wanted chunky, cute voxel pets for a focus timer, and I wanted them to stay smooth on a cheap..."
+  },
+  "a70c60098da0dbaf": {
+    "file": "corpus/devto/dev_to_gunroar_my-ai-coding-agent-isnt-allowed-to-be-efficie_5f477fd3de.md",
+    "source": "devto",
+    "title": "My AI coding agent isn't allowed to be efficiently LAZY",
+    "url": "https://dev.to/gunroar/my-ai-coding-agent-isnt-allowed-to-be-efficiently-lazy-268h",
+    "keywords": [
+      "graphical goal planner",
+      "ai coding agent",
+      "ai coding agent",
+      "testing agent",
+      "kane cli",
+      "efficiently lazy",
+      "efficiently lazy",
+      "decide ...",
+      "claude code",
+      "source"
+    ],
+    "summary": "# My AI coding agent isn't allowed to be efficiently LAZY > Source: devto | Category: news | 2026-11-27T10:12:00Z I built a graphical goal planner with Claude Code, and let a browser-testing agent, Kane CLI, decide..."
+  },
+  "bc0907930ed58060": {
+    "file": "corpus/devto/dev_to_vaishnavipanigrahy977_tired-of-scary-medical-jargon-c_13f54be088.md",
+    "source": "devto",
+    "title": "Tired of Scary Medical Jargon & Cluttered Study Tabs? Meet WellNote & ROBO",
+    "url": "https://dev.to/vaishnavipanigrahy977/tired-of-scary-medical-jargon-cluttered-study-tabs-meet-wellnote-robo-59ll",
+    "keywords": [
+      "friendly learning web apps",
+      "scary medical jargon",
+      "scary medical jargon",
+      "cluttered study tabs",
+      "cluttered study tabs",
+      "built two calm",
+      "robo 🚀& nbsp",
+      "meet wellnote",
+      "meet wellnote",
+      "wellnote"
+    ],
+    "summary": "# Tired of Scary Medical Jargon & Cluttered Study Tabs? > Source: devto | Category: news | 2026-11-27T10:12:02Z I Built Two Calm, Student-Friendly Learning Web Apps: WellNote &amp; ROBO 🚀&nbsp;  Whenever you..."
+  },
+  "03089e3d6a232f0a": {
+    "file": "corpus/devto/dev_to_shilpi_daswani_i-kept-finding-credit-card-numbers-in-_0f1be4bb88.md",
+    "source": "devto",
+    "title": "I kept finding credit card numbers in LLM prompts, so I wrote a redactor",
+    "url": "https://dev.to/shilpi_daswani/i-kept-finding-credit-card-numbers-in-llm-prompts-so-i-wrote-a-redactor-5d0l",
+    "keywords": [
+      "probably written",
+      "llm prompts",
+      "llm prompts",
+      "last year",
+      "ai feature",
+      "wrote",
+      "wrote",
+      "source",
+      "shipped",
+      "redactor"
+    ],
+    "summary": "# I kept finding credit card numbers in LLM prompts, so I wrote a redactor > Source: devto | Category: news | 2026-11-27T10:12:02Z If you've shipped any AI feature in the last year, you've probably written a line that looks about..."
+  },
+  "b8f658791234f824": {
+    "file": "corpus/devto/dev_to_ryosuke_sama_i-built-a-local-ai-agent-team-heres-ever_93ff123788.md",
+    "source": "devto",
+    "title": "I built a local AI agent team. Here's everything that broke.",
+    "url": "https://dev.to/ryosuke_sama/i-built-a-local-ai-agent-team-heres-everything-that-broke-2886",
+    "keywords": [
+      "small ai team ...",
+      "local ai agent team",
+      "local ai agent team",
+      "agent workspace —",
+      "source local multi",
+      "last post",
+      "introduced pantheon",
+      "source",
+      "reactions",
+      "open"
+    ],
+    "summary": "# I built a local AI agent team. Here's everything that broke. In my last post I introduced Pantheon, my open-source local multi-agent workspace — a small AI team..."
+  },
+  "964e593f31098ec0": {
+    "file": "corpus/devto/dev_to_maxslashwang_running-real-esrgan-in-the-browser-with-_cc189d014e.md",
+    "source": "devto",
+    "title": "Running Real-ESRGAN in the browser with hand-written WGSL",
+    "url": "https://dev.to/maxslashwang/running-real-esrgan-in-the-browser-with-hand-written-wgsl-90h",
+    "keywords": [
+      "based video upscaler",
+      "written wgsl",
+      "written wgsl",
+      "running real",
+      "running real",
+      "working",
+      "user",
+      "tapirupscale",
+      "source",
+      "runs"
+    ],
+    "summary": "# Running Real-ESRGAN in the browser with hand-written WGSL > Source: devto | Category: news | 2026-11-27T10:12:02Z I've been working on TapirUpscale, a browser-based video upscaler that runs on the user's own..."
+  },
+  "f9a624f916c1cbb2": {
+    "file": "corpus/devto/dev_to_fabiancooper_hire-for-judgment-not-prompts-how-to-bui_87233490ca.md",
+    "source": "devto",
+    "title": "Hire for Judgment, Not Prompts: How to Build an AI Team That Outlasts the Hype",
+    "url": "https://dev.to/fabiancooper/hire-for-judgment-not-prompts-how-to-build-an-ai-team-that-outlasts-the-hype-47n1",
+    "keywords": [
+      "03z every leadership team",
+      "hire ai talent .\"",
+      "ai team",
+      "ai team",
+      "sits next",
+      "hire",
+      "hire",
+      "talk",
+      "source",
+      "reactions"
+    ],
+    "summary": "# Hire for Judgment, Not Prompts: How to Build an AI Team That Outlasts the Hype Every leadership team I talk to has the same line in its plan: \"hire AI talent.\" It sits next to the..."
+  },
+  "fb34f4fbec480ff0": {
+    "file": "corpus/devto/dev_to_evanlin_gemini-in-action-devto-text-image-translator-_b12d020613.md",
+    "source": "devto",
+    "title": "[Gemini in Action] Dev.to Text & Image Translator: Redrawing Chinese Screenshots with Nano Banana Pro & Gemini 4 Neon as Judge",
+    "url": "https://dev.to/evanlin/gemini-in-action-devto-text-image-translator-redrawing-chinese-screenshots-with-nano-banana-423e",
+    "keywords": [
+      "redrawing chinese screenshots",
+      "redrawing chinese screenshots",
+      "nano banana pro",
+      "nano banana pro",
+      "， 最後用自己寫的小工具 devto",
+      "gemini 4 neon",
+      "gemini 4 neon",
+      "tool ...",
+      "image translator",
+      "image translator"
+    ],
+    "summary": "# [Gemini in Action] Dev.to Text & Image Translator: Redrawing Chinese Screenshots with Nano Banana Pro & Gemini 4 Neon as Judge > Source: devto | Category: news | 2026-11-27T10:12:01Z 前情提要   我寫技術文章的習慣是：先用中文寫在自己的部落格，再丟一份草稿到 Dev.to，最後用自己寫的小工具 devto-blog-translation-tool..."
+  },
+  "c84ce7d56dc92ea5": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_we-who-are-about-to-be-automated-sal_2f076b6268.md",
+    "source": "devto",
+    "title": "We Who Are About to Be Automated, Salute AI",
+    "url": "https://dev.to/debashish_ghosal/we-who-are-about-to-be-automated-salute-ai-1goh",
+    "keywords": [
+      "03z every morning",
+      "step onto",
+      "salute ai",
+      "salute ai",
+      "corporate colosseum",
+      "ancient ...",
+      "source",
+      "sand",
+      "reactions",
+      "open"
+    ],
+    "summary": "# We Who Are About to Be Automated, Salute AI > Source: devto | Category: news | 2026-11-27T10:12:03Z Every morning at 8:55, I open my laptop and step onto the sand of the corporate Colosseum."
+  },
+  "d1c922a3a4842f5b": {
+    "file": "corpus/devto/dev_to_dailyfootballgames_scoring-rare-answers-in-a-daily-tr_3b28d6c6cc.md",
+    "source": "devto",
+    "title": "Scoring 'rare' answers in a daily trivia game with a softmax over Wikipedia signals",
+    "url": "https://dev.to/dailyfootballgames/scoring-rare-answers-in-a-daily-trivia-game-with-a-softmax-over-wikipedia-signals-2dbe",
+    "keywords": [
+      "daily football trivia game",
+      "daily trivia game",
+      "daily trivia game",
+      "wikipedia signals",
+      "wikipedia signals",
+      "right answer",
+      "rare one",
+      "rare",
+      "rare",
+      "source"
+    ],
+    "summary": "# Scoring \"rare\" answers in a daily trivia game with a softmax over Wikipedia signals > Source: devto | Category: news | 2026-11-27T10:12:02Z I run a daily football trivia game where the goal is not just a right answer but a rare one."
+  },
+  "0050dbcad6450ac9": {
+    "file": "corpus/devto/dev_to_gde_under-the-hood-of-google-cloud-data-agent-kit-mcp_48e56b7131.md",
+    "source": "devto",
+    "title": "Under the Hood of Google Cloud Data Agent Kit: MCP Tools, SKILL.md Playbooks & Custom Guardrails",
+    "url": "https://dev.to/gde/under-the-hood-of-google-cloud-data-agent-kit-mcp-tools-skillmd-playbooks-custom-guardrails-4568",
+    "keywords": [
+      "stayed ...",
+      "part 1",
+      "nbsp ;!",
+      "md playbooks",
+      "md playbooks",
+      "mcp tools",
+      "mcp tools",
+      "custom guardrails",
+      "custom guardrails",
+      "antigravity ide"
+    ],
+    "summary": "# Under the Hood of Google Cloud Data Agent Kit: MCP Tools, SKILL.md Playbooks & Custom Guardrails > Source: devto | Category: news | 2026-11-27T10:12:01Z In Part 1, we set up Google Cloud Data Agent Kit (DAK) in Antigravity IDE and stayed..."
+  },
+  "fcbc668a4cd744bb": {
+    "file": "corpus/devto/dev_to_xknk_trust-engineering-for-a-personal-ai-coding-agent_27232a7745.md",
+    "source": "devto",
+    "title": "Trust Engineering for a Personal AI Coding Agent: Cost Ledgers, Budget Caps, and the Night Shift",
+    "url": "https://dev.to/xknk/trust-engineering-for-a-personal-ai-coding-agent-cost-ledgers-budget-caps-and-the-night-shift-1f0g",
+    "keywords": [
+      "personal ai coding agent",
+      "personal ai coding agent",
+      "first ai coding ...",
+      "trust engineering",
+      "trust engineering",
+      "night shift",
+      "night shift",
+      "cost ledgers",
+      "cost ledgers",
+      "code —"
+    ],
+    "summary": "# Trust Engineering for a Personal AI Coding Agent: Cost Ledgers, Budget Caps, and the Night Shift > Source: devto | Category: news | 2026-11-27T10:12:04Z I've spent the last several months building DeepSeeker-Code — an open-source, local-first AI coding..."
+  },
+  "66cb8fca169197c2": {
+    "file": "corpus/devto/dev_to_dafili_silent-failure-18-the-line-that-said-ok-while-_c8da5d57e2.md",
+    "source": "devto",
+    "title": "Silent Failure #18: The Line That Said OK While the Command Exited 1",
+    "url": "https://dev.to/dafili/silent-failure-18-the-line-that-said-ok-while-the-command-exited-1-5623",
+    "keywords": [
+      "command exited 1",
+      "command exited 1",
+      "command exited 1",
+      "02z silent failure",
+      "silent failure",
+      "silent failure",
+      "said ok",
+      "said ok",
+      "said ok",
+      "runbook step"
+    ],
+    "summary": "# Silent Failure #18: The Line That Said OK While the Command Exited 1 > Source: devto | Category: news | 2026-11-27T10:12:02Z Silent Failure #18: The Line That Said OK While the Command Exited 1   My runbook step for..."
+  },
+  "cc1d63edf10a5405": {
+    "file": "corpus/devto/dev_to_artejastacks_from-911-emergency-comms-officer-to-inte_b7dba9c72e.md",
+    "source": "devto",
+    "title": "From 911 Emergency Comms Officer to International Software Engineer",
+    "url": "https://dev.to/artejastacks/from-911-emergency-comms-officer-to-international-software-engineer-3276",
+    "keywords": [
+      "911 emergency comms officer",
+      "911 emergency comms officer",
+      "international software engineer",
+      "international software engineer",
+      "emergency ?\"",
+      "two ...",
+      "911",
+      "times",
+      "source",
+      "said"
+    ],
+    "summary": "# From 911 Emergency Comms Officer to International Software Engineer \"911, what's the address of your emergency?\" I said that line more times than I can count during two..."
+  },
+  "51be419253efc07b": {
+    "file": "corpus/devto/dev_to_gaeloro_membangun-interpreter-bahasa-sendiri-dalam-sa_c06aa4e817.md",
+    "source": "devto",
+    "title": "Membangun Interpreter Bahasa Sendiri dalam Satu Berkas Python: Lexer, Parser, Evaluator — dan Satu Bug Presedensi",
+    "url": "https://dev.to/gaeloro/membangun-interpreter-bahasa-sendiri-dalam-satu-berkas-python-lexer-parser-evaluator-dan-satu-16md",
+    "keywords": [
+      "tiga tahap klasik",
+      "scope berinduk",
+      "dan bug",
+      "== b",
+      "source",
+      "reactions",
+      "parser",
+      "parser",
+      "news",
+      "lexer"
+    ],
+    "summary": "# Membangun Interpreter Bahasa Sendiri dalam Satu Berkas Python: Lexer, Parser, Evaluator — dan Satu Bug Presedensi > Source: devto | Category: news | 2026-11-27T10:12:04Z Cara kerja interpreter Kalku, bahasa mainan berkata kunci Bahasa Indonesia: tiga tahap klasik, scope berinduk, dan bug 'bukan a == b' yang hampir lolos dari test."
+  },
+  "ff28fbe78734d547": {
+    "file": "corpus/devto/dev_to_aheadkit_i-put-the-answer-the-date-and-the-passage-in_3c15ba83c1.md",
+    "source": "devto",
+    "title": "I Put the Answer, the Date and the Passage in Front of the Agent. It Fetched Anyway.",
+    "url": "https://dev.to/aheadkit/i-put-the-answer-the-date-and-the-passage-in-front-of-the-agent-it-fetched-anyway-3ahn",
+    "keywords": [
+      "agent sees already carries",
+      "sound obvious",
+      "simple enough",
+      "first thing",
+      "fetched anyway",
+      "fetched anyway",
+      "agent",
+      "agent",
+      "source",
+      "reactions"
+    ],
+    "summary": "It Fetched Anyway. > Source: devto | Category: news | 2026-11-27T10:12:03Z The bet was simple enough to sound obvious."
+  },
+  "52149f044cb5014b": {
+    "file": "corpus/devto/dev_to_wpwebinfotech_ai-software-development-cut-our-sprint-_ff8927a91e.md",
+    "source": "devto",
+    "title": "AI Software Development Cut Our Sprint Time 30%. It Also Added New Bugs",
+    "url": "https://dev.to/wpwebinfotech/ai-software-development-cut-our-sprint-time-30-it-also-added-new-bugs-45bo",
+    "keywords": [
+      "sprint time 30 %.",
+      "sprint time 30 %.",
+      "sprint planning looked great",
+      "also added new bugs",
+      "also added new bugs",
+      "ai software development cut",
+      "ai software development cut",
+      "tickets ...",
+      "weeks",
+      "source"
+    ],
+    "summary": "# AI Software Development Cut Our Sprint Time 30%. It Also Added New Bugs A few weeks after we gave the whole team AI coding assistants, sprint planning looked great."
+  },
+  "c9845cd27f0695cd": {
+    "file": "corpus/devto/dev_to_pinxiongcn_orchestrating-agents-when-the-boundary-mov_f62a0e4fe3.md",
+    "source": "devto",
+    "title": "Orchestrating Agents: When the Boundary Moves, So Do the Guarantees",
+    "url": "https://dev.to/pinxiongcn/orchestrating-agents-when-the-boundary-moves-so-do-the-guarantees-o63",
+    "keywords": [
+      "remote a2a expert rewrites",
+      "local graph calling",
+      "killed caller leaving",
+      "idempotency key plus",
+      "blind retries double",
+      "still landed",
+      "spending quota",
+      "retry policy",
+      "receipt alive",
+      "orchestrating agents"
+    ],
+    "summary": "# Orchestrating Agents: When the Boundary Moves, So Do the Guarantees Seven real Bedrock experiments show a timed-out write that still landed, blind retries double-spending quota, TaskState.failed arriving as end_turn, and a killed caller leaving the receipt alive. An idempotency key plus a readback is the retry policy."
+  },
+  "348ec17beda73b01": {
+    "file": "corpus/devto/dev_to_jsmanifest_biome-20-formatter-vs-prettier-in-2026-mig_d9e797ea6d.md",
+    "source": "devto",
+    "title": "Biome 2.0 Formatter vs Prettier in 2026: Migration Gotchas, Rule Gaps, and Whether It Is Finally Ready for Production",
+    "url": "https://dev.to/jsmanifest/biome-20-formatter-vs-prettier-in-2026-migration-gotchas-rule-gaps-and-whether-it-is-finally-3075",
+    "keywords": [
+      "0 formatter vs prettier",
+      "0 formatter vs prettier",
+      "0 promises unified formatting",
+      "prettier surfaces edge",
+      "case formatting drift",
+      "missing plugin coverage",
+      "ci pipeline changes",
+      "01z biome 2",
+      "biome 2",
+      "biome 2"
+    ],
+    "summary": "# Biome 2.0 Formatter vs Prettier in 2026: Migration Gotchas, Rule Gaps, and Whether It Is Finally Ready for Production Biome 2.0 promises unified formatting and linting in one tool, but the migration from Prettier surfaces edge-case formatting drift, missing plugin coverage, and CI pipeline changes. This post maps the actual differences, documents the gaps, and shows"
+  },
+  "67d6a341a85201bf": {
+    "file": "corpus/devto/dev_to_official_fire_i-built-a-programming-language-in-bhojp_895e05f4bc.md",
+    "source": "devto",
+    "title": "I Built a Programming Language in Bhojpuri from Scratch Using Go",
+    "url": "https://dev.to/official_fire/i-built-a-programming-language-in-bhojpuri-from-scratch-using-go-3fcl",
+    "keywords": [
+      "scratch using go",
+      "scratch using go",
+      "programming language",
+      "programming language",
+      "programming language",
+      "source",
+      "reactions",
+      "news",
+      "devto",
+      "category"
+    ],
+    "summary": "# I Built a Programming Language in Bhojpuri from Scratch Using Go > Source: devto | Category: news | 2026-11-27T10:12:04Z I Built a Programming Language in Bhojpuri from Scratch Using Go   Nobody asked for a..."
+  },
+  "d65ec3b1a2498fd8": {
+    "file": "corpus/devto/dev_to_lolocoding_who-is-lolocoding-without-a-job-title-480m_738a8c76f8.md",
+    "source": "devto",
+    "title": "Who is LoLoCoding when she's just LoLo?👋",
+    "url": "https://dev.to/lolocoding/who-is-lolocoding-without-a-job-title-480m",
+    "keywords": [
+      "thanksgiving 🦃",
+      "lolo ?👋",
+      "lolo ?👋",
+      "2 years",
+      "source",
+      "reactions",
+      "portugal",
+      "news",
+      "lolocoding",
+      "lolocoding"
+    ],
+    "summary": "# Who is LoLoCoding when she's just LoLo?👋 > Source: devto | Category: news | 2026-11-27T10:12:03Z It's Thanksgiving 🦃 And while I've lived in Portugal and have been abroad for over 2 years now, I..."
+  },
+  "2e554d7b629ffbc2": {
+    "file": "corpus/devto/dev_to_cloudwerx_how-i-built-my-own-os-942_53868e2f2d.md",
+    "source": "devto",
+    "title": "How I built my own OS",
+    "url": "https://dev.to/cloudwerx/how-i-built-my-own-os-942",
+    "keywords": [
+      "operating system",
+      "new wallpaper",
+      "different logo",
+      "source",
+      "run",
+      "reactions",
+      "news",
+      "fork"
+    ],
+    "summary": "# How I built my own OS > Source: devto | Category: news | 2026-11-27T10:12:04Z I run my own operating system now."
+  },
+  "55304dd298942e8c": {
+    "file": "corpus/devto/dev_to_therealmrmumba_how-do-you-get-different-ai-tools-to-w_592705f272.md",
+    "source": "devto",
+    "title": "How Do You Get Different AI Tools to Work Together?",
+    "url": "https://dev.to/therealmrmumba/how-do-you-get-different-ai-tools-to-work-together-5bf2",
+    "keywords": [
+      "get different ai tools",
+      "get different ai tools",
+      "work together",
+      "work together",
+      "one terminal",
+      "claude code",
+      "suspect",
+      "source",
+      "setup",
+      "right"
+    ],
+    "summary": "# How Do You Get Different AI Tools to Work Together? Here's a setup I suspect a lot of you have right now. Claude Code is open in one terminal."
+  },
+  "d6d52b7461e1e239": {
+    "file": "corpus/devto/dev_to_adam_opeyemi_9552ccf1eecd_title-i-can-ship-it-but-i-c_e7365948aa.md",
+    "source": "devto",
+    "title": "Title: I can ship it, but I can't defend it: a vibe coder's story from Lagos",
+    "url": "https://dev.to/adam_opeyemi_9552ccf1eecd/title-i-can-ship-it-but-i-cant-defend-it-a-vibe-coders-story-from-lagos-2hi0",
+    "keywords": [
+      "started vibe ...",
+      "vibe coder",
+      "vibe coder",
+      "studied economics",
+      "computer science",
+      "title",
+      "title",
+      "story",
+      "story",
+      "source"
+    ],
+    "summary": "# Title: I can ship it, but I can't defend it: a vibe coder's story from Lagos > Source: devto | Category: news | 2026-11-27T10:12:04Z I live in Lagos, Nigeria, and I studied economics, not computer science."
+  },
+  "aa6708cb40217342": {
+    "file": "corpus/devto/dev_to_aws_donde-quedan-tus-consolelog-en-aws-lambda-cloudwa_849b9b3944.md",
+    "source": "devto",
+    "title": "Dónde quedan tus console.log en AWS Lambda (CloudWatch Logs)",
+    "url": "https://dev.to/aws/donde-quedan-tus-consolelog-en-aws-lambda-cloudwatch-logs-50ik",
+    "keywords": [
+      "log en aws lambda",
+      "log en aws lambda",
+      "dónde quedan tus console",
+      "dónde quedan tus console",
+      "cloudwatch logs",
+      "cloudwatch logs",
+      "source",
+      "reactions",
+      "news",
+      "devto"
+    ],
+    "summary": "# Dónde quedan tus console.log en AWS Lambda (CloudWatch Logs) > Source: devto | Category: news | 2026-11-27T10:12:04Z Si tu función de AWS Lambda corre pero no sabes dónde están sus logs, están en Amazon CloudWatch..."
+  },
+  "8872d32ef700ea15": {
+    "file": "corpus/devto/dev_to_vojtabiberle_what-i-wont-hand-to-an-agent-without-und_a1715d27f0.md",
+    "source": "devto",
+    "title": "What I won't hand to an agent without understanding it",
+    "url": "https://dev.to/vojtabiberle/what-i-wont-hand-to-an-agent-without-understanding-it-3965",
+    "keywords": [
+      "new symfony code dropped",
+      "agent without understanding",
+      "agent without understanding",
+      "68 prs merged",
+      "merged ”",
+      "th ...",
+      "say “",
+      "keboola connection",
+      "five days",
+      "zend"
+    ],
+    "summary": "# What I won't hand to an agent without understanding it I say “had them merged” because agents did most of the work. I still had to keep an eye on a few th..."
+  },
+  "d8c55aafaa2af170": {
+    "file": "corpus/devto/dev_to_andronaft_how-to-let-an-llm-read-your-medical-records_f343321f81.md",
+    "source": "devto",
+    "title": "How to let an LLM read your medical records without trusting it",
+    "url": "https://dev.to/andronaft/how-to-let-an-llm-read-your-medical-records-without-trusting-it-110f",
+    "keywords": [
+      "medical records without trusting",
+      "medical records without trusting",
+      "food log live",
+      "wearable data",
+      "llm read",
+      "llm read",
+      "lab results",
+      "source",
+      "reactions",
+      "postgres"
+    ],
+    "summary": "# How to let an LLM read your medical records without trusting it > Source: devto | Category: news | 2026-11-27T10:12:04Z My lab results, medications, diagnoses, wearable data and food log live in my own Postgres."
+  },
+  "c16492167f2e46c4": {
+    "file": "corpus/devto/dev_to_debashish_ghosal_i-said-thank-you-to-a-chatbot-the-in_5ad5e3d2b8.md",
+    "source": "devto",
+    "title": "I Said Thank You to a Chatbot. The Interesting Part Is Why It Bothered Me.",
+    "url": "https://dev.to/debashish_ghosal/i-said-thank-you-to-a-chatbot-the-interesting-part-is-why-it-bothered-me-303p",
+    "keywords": [
+      "chatbot last tuesday",
+      "never cared",
+      "interesting part",
+      "interesting part",
+      "said thank",
+      "said thank",
+      "thank",
+      "said",
+      "part",
+      "chatbot"
+    ],
+    "summary": "# I Said Thank You to a Chatbot. The Interesting Part Is Why It Bothered Me. I said \"thank you\" to a chatbot last Tuesday."
+  },
+  "c579ba1eca480b0d": {
+    "file": "corpus/devto/dev_to_mympgames_three-sides-is-a-gift-how-i-coded-dots-boxe_547a1d9d93.md",
+    "source": "devto",
+    "title": "Three sides is a gift: how I coded Dots & Boxes in 93 lines for a multiplayer browser game",
+    "url": "https://dev.to/mympgames/three-sides-is-a-gift-how-i-coded-dots-boxes-in-93-lines-for-a-multiplayer-browser-game-5he3",
+    "keywords": [
+      "us first played",
+      "two players ...",
+      "multiplayer browser game",
+      "multiplayer browser game",
+      "three sides",
+      "three sides",
+      "school notebook",
+      "coded dots",
+      "coded dots",
+      "93 lines"
+    ],
+    "summary": "# Three sides is a gift: how I coded Dots & Boxes in 93 lines for a multiplayer browser game > Source: devto | Category: news | 2026-11-27T10:12:02Z Dots &amp; Boxes is the game most of us first played on the back of a school notebook."
+  },
+  "14ae502df575d7b8": {
+    "file": "corpus/github-releases/github_com_vercel_next_js_releases_tag_v16_5_0-canary_70_c63138ead8.md",
+    "source": "github-releases",
+    "title": "vercel/next.js v16.5.0-canary.70 released",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.70",
+    "keywords": [
+      "70 ### misc changes",
+      "use instant ()",
+      "transitive fixture deps",
+      "js — v16",
+      "51z ## vercel",
+      "js v16",
+      "js v16",
+      "70 released",
+      "70 released",
+      "return staticimagedata"
+    ],
+    "summary": "> Source: github-releases | Category: changelog | 2026-11-27T10:12:51Z - Use instant() to inspect a link on the dev server: #102453 - test: rename externals-transitive fixture deps: #102464 - Turbopack: return StaticImageData for images imported from node_modules: #102389 Huge thanks to @aurorascharff and @mischnic for helping!"
+  },
+  "042a1823b5cd3a64": {
+    "file": "corpus/security/thehackernews_com_2026_11_switzerland-confirms-ai-assisted_h_979e934b37.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "keywords": [
+      "cybersecurity agency said yesterday",
+      "53z switzerland confirms ai",
+      "switzerland confirms ai",
+      "switzerland confirms ai",
+      "major disruptions reported",
+      "five confirmed attacks",
+      "swiss organizations",
+      "computer systems",
+      "victims",
+      "two"
+    ],
+    "summary": "# [hacker-news-sec] Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday."
+  },
+  "fcf044009fc86115": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_microsoft_new-out-of-band-oob-_b44222591f.md",
+    "source": "security",
+    "title": "[bleeping-comp] Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+    "keywords": [
+      "fix windows server crashes",
+      "fix windows server crashes",
+      "microsoft pushes emergency hotpatch",
+      "microsoft pushes emergency hotpatch",
+      "emergency hotpatch update",
+      "security hotpatch update",
+      "kb5131077 ).",
+      "security",
+      "security",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] Microsoft pushes emergency hotpatch to fix Windows Server crashes Microsoft pushes emergency hotpatch to fix Windows Server crashes Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077)."
+  },
+  "4e4abf2395a8adca": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_new-nfs2root-linux-fl_0f84e2352a.md",
+    "source": "security",
+    "title": "[bleeping-comp] New NFS2ROOT Linux flaw can let attackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+    "keywords": [
+      "new nfs2root linux flaw",
+      "new nfs2root linux flaw",
+      "old critical vulnerability",
+      "network file system",
+      "gain root privileges",
+      "allows remote attackers",
+      "linux kernel",
+      "year",
+      "tracked",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] New NFS2ROOT Linux flaw can let attackers gain root privileges New NFS2ROOT Linux flaw can let attackers gain root privileges ​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges."
+  },
+  "b5d65840d2eb944f": {
+    "file": "corpus/security/www_bleepingcomputer_com_news_security_sap-confirms-security_1147158f7c.md",
+    "source": "security",
+    "title": "[bleeping-comp] SAP confirms security incident after suspicious GitHub activity",
+    "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+    "keywords": [
+      "sap confirms security incident",
+      "sap confirms security incident",
+      "suspicious github activity sap",
+      "suspicious github activity",
+      "suspicious github activity",
+      "detecting suspicious activity",
+      "took urgent action",
+      "security",
+      "security",
+      "source"
+    ],
+    "summary": "# [bleeping-comp] SAP confirms security incident after suspicious GitHub activity SAP confirms security incident after suspicious GitHub activity SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment."
+  },
+  "327c3b6269f97856": {
+    "file": "corpus/security/thehackernews_com_2026_11_unpatched-cacti-zero-day-enables-r_27f1645ed0.md",
+    "source": "security",
+    "title": "[hacker-news-sec] Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "keywords": [
+      "achieve remote code execution",
+      "source network monitoring tool",
+      "53z unpatched cacti zero",
+      "unauthenticated http session",
+      "unpatched cacti zero",
+      "unpatched cacti zero",
+      "day enables rce",
+      "day enables rce",
+      "day enables rce",
+      "new zero"
+    ],
+    "summary": "# [hacker-news-sec] Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution."
+  },
+  "e923c8a590b1212d": {
+    "file": "corpus/legal/www_eff_org_deeplinks_2026_11_rad-gifts-fund-fight-effs-holi_09f8f8be60.md",
+    "source": "legal",
+    "title": "[eff] Rad Gifts That Fund the Fight: EFF's Holiday Merch Guide for 2026",
+    "url": "https://www.eff.org/deeplinks/2026/11/rad-gifts-fund-fight-effs-holiday-merch-guide-2026",
+    "keywords": [
+      "soft black muscle tank",
+      "end bad company practices",
+      "anti license plate reader",
+      "circuit brain stim sticker",
+      "noticeably raised tactile surfa",
+      "digital unicorn tank top",
+      "tactile sticker depicts",
+      "holiday merch guide",
+      "holiday merch guide",
+      "holiday merch guide"
+    ],
+    "summary": "EFF supporters are why our lawyers can  sue the government  when it spies on you and chills your free speech. It says, in raised lettering: \"I Do Not Consent to the Tracking of This Vehicle,\" and includes an EFF logo. You can also bring a little texture to your favorite gear with the   Circuit Brain Stim Sticker  , printed with four layers of embossing for a noticeably raised tactile surfa"
+  },
+  "f1cf6c376f431c0b": {
+    "file": "corpus/sales/www_saastr_com_how-long-should-a-free-trial-be-for-saas-prod_e24f2eea8f.md",
+    "source": "sales",
+    "title": "[saastr] Dear SaaStr: How Long Should a Free Trial Be for B2B Products?",
+    "url": "https://www.saastr.com/how-long-should-a-free-trial-be-for-saas-products/",
+    "keywords": [
+      "latest reveneucat data",
+      "... continue reading",
+      "54z dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "dear saastr",
+      "really try",
+      "really matter",
+      "free trial",
+      "free trial"
+    ],
+    "summary": "Dear SaaStr: How Long Should a Free Trial Be for B2B Products? Dear SaaStr: How Long Should a Free Trial Be for B2B Products? Although the latest ReveneuCat data does suggest, longer is better."
   }
 }
